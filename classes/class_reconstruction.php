@@ -4,52 +4,38 @@ class reconstruction {
 
     public $catalogue = null;
     public $content = array();
-    public $folder = 'projectFiles';
     public $fileName;
-    private $includePathFunctions = 'functions/';
+    const FOLDER = 'projectFiles';
+    const INCLUDE = 'functions/';
+    public $valid = 0;
     
     function __construct($path, $fileName, $format = 'xml') {
         $this->fileName = $fileName;
-        if ($format == 'xml') {
-            $this->loadXML($path);
-        }
-        else {
-            if (file_exists($fileName.'-cat.php')) {
-                require($fileName.'-cat.php');
-                if (isset($catalogue)) {
-                    $this->catalogue = $catalogue;
-                    $this->catalogue->fileName = $fileName;
-                }
-            }
-            else {
-                copy ('templateCat.php', $fileName.'-cat.php');
-                echo 'Bitte füllen Sie die Datei '.$fileName.'-cat.php aus und wiederholen Sie den Vorgang.';
-                return(null);
-            }
-            if ($format == 'php') {
-                $string = file_get_contents($path);
-                $this->content = unserialize($string);
-            }
-            /*
-            elseif ($format == 'csv') {
-                require($this->includePathFunctions.'loadCSV.php');
-                $this->content = loadCSV($path);
-            }*/
-        }
+        $this->createDirectory();
+        $uploader = new uploader($path, $this->fileName, $format);
+        $this->content = $uploader->load();
         $this->insertIDs();
+        $this->catalogue = $uploader->loadMetadata();
+        if (get_class($this->catalogue) == 'catalogue') {
+            $this->valid = 1;
+            $this->catalogue->fileName = $this->fileName;
+        }
     }
 
     public function enrichData() {
+        if ($this->valid == 0) {
+            return;
+        }
         $this->addVolumeInformation();
         $this->insertGeoData();
         $this->insertBeacon();
     }
 
     public function saveAllFormats() {
-        require($this->includePathFunctions.'makeIndex.php');
-        if (!is_dir($this->folder.'/'.$this->fileName)) {
-            mkdir($this->folder.'/'.$this->fileName, 0777, true);
+        if ($this->valid == 0) {
+            return;
         }
+        require(reconstruction::INCLUDE.'makeIndex.php');
         $this->saveGeoData();
         $this->saveXML();        
         $this->saveCSV();
@@ -60,46 +46,46 @@ class reconstruction {
     }    
 
     private function saveXML() {
-        require($this->includePathFunctions.'makeXML.php');
-        saveXML($this->content, $this->catalogue, $this->folder.'/'.$this->fileName);
+        require(reconstruction::INCLUDE.'makeXML.php');
+        saveXML($this->content, $this->catalogue, reconstruction::FOLDER.'/'.$this->fileName);
     }
 
     private function saveCSV() {
-        require($this->includePathFunctions.'makeCSV.php');
-        makeCSV($this->content, $this->folder.'/'.$this->fileName, $this->fileName);
+        require(reconstruction::INCLUDE.'makeCSV.php');
+        makeCSV($this->content, reconstruction::FOLDER.'/'.$this->fileName, $this->fileName);
     }
 
     private function savePHP() {
         $ser = serialize($this->content);
-        $handle = fopen($this->folder.'/'.$this->fileName.'/dataPHP', 'w');
+        $handle = fopen(reconstruction::FOLDER.'/'.$this->fileName.'/dataPHP', 'w');
 	    fwrite($handle, $ser, 3000000);
     }
 
     private function saveGeoData() {
-        require($this->includePathFunctions.'makeGeoDataSheet.php');
-        makeGeoDataSheet($this->content, $this->folder.'/'.$this->fileName, 'csv');
-        makeGeoDataSheet($this->content, $this->folder.'/'.$this->fileName, 'kml');
+        require(reconstruction::INCLUDE.'makeGeoDataSheet.php');
+        makeGeoDataSheet($this->content, reconstruction::FOLDER.'/'.$this->fileName, 'csv');
+        makeGeoDataSheet($this->content, reconstruction::FOLDER.'/'.$this->fileName, 'kml');
     }
 
     private function saveTEI() {
-        require($this->includePathFunctions.'makeTEI.php');
-        require($this->includePathFunctions.'makeSection.php');
-        require($this->includePathFunctions.'fieldList.php');
-        makeTEI($this->content, $this->folder.'/'.$this->fileName, $this->catalogue);
+        require(reconstruction::INCLUDE.'makeTEI.php');
+        require(reconstruction::INCLUDE.'makeSection.php');
+        require(reconstruction::INCLUDE.'fieldList.php');
+        makeTEI($this->content, reconstruction::FOLDER.'/'.$this->fileName, $this->catalogue);
     }
 
     private function saveRDF() {
-        require($this->includePathFunctions.'makeRDF.php');
-        saveRDFtoPath($this->content, $this->catalogue, $this->folder.'/'.$this->fileName.'/'.$this->fileName);
+        require(reconstruction::INCLUDE.'makeRDF.php');
+        saveRDFtoPath($this->content, $this->catalogue, reconstruction::FOLDER.'/'.$this->fileName.'/'.$this->fileName);
     }
 
     private function saveSolrXML() {
-        require($this->includePathFunctions.'makeSolrXML.php');
-        saveSolrXML($this->content, $this->catalogue, $this->folder.'/'.$this->fileName.'/'.$this->fileName);
+        require(reconstruction::INCLUDE.'makeSolrXML.php');
+        saveSolrXML($this->content, $this->catalogue, reconstruction::FOLDER.'/'.$this->fileName.'/'.$this->fileName);
     }
 
     private function loadXML($path) {
-        require($this->includePathFunctions.'loadXML.php');
+        require(reconstruction::INCLUDE.'loadXML.php');
 	    $xml = new DOMDocument();
 	    $xml->load($path);
 	    $metadataNode = $xml->getElementsByTagName('metadata');
@@ -231,7 +217,13 @@ class reconstruction {
     	$archives['geoNames']->saveToFile('geoNames');
 		$archives['getty']->saveToFile('getty');
 		$archives['gnd']->saveToFile('gnd');
-    } 
+    }
+
+    private function createDirectory() {
+        if (!is_dir(reconstruction::FOLDER.'/'.$this->fileName)) {
+            mkdir(reconstruction::FOLDER.'/'.$this->fileName, 0777, true);
+        }
+    }
 
 }
 

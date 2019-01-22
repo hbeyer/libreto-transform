@@ -14,9 +14,8 @@
 		public $shelfmark; //Shelfmark of the copy of the catalogue
 		public $description;
 		public $geoBrowserStorageID;
-		public $listFacets = array();
-		public $cloudFacets = array();
-		public $doughnutFacets = array();
+        public $creatorReconstruction;
+        public $yearReconstruction;
 	}
 	
 	class item	{ //Refers to an item (book, manuscript, etc.) listed in the catalogue

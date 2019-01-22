@@ -12,5 +12,7 @@ $catalogue->institution = '{Institution possessing the copy of the catalogue}';
 $catalogue->shelfmark = '{Shelfmark of the copy of the catalogue}';
 $catalogue->description = '{Description of the reconstructed collection}';
 $catalogue->geoBrowserStorageID = '{id at https://geobrowser.de.dariah.eu/ to access an already uploaded dataset}';
+$catalogue->creatorReconstruction = '{Note on the persons responsible for the reconstruction}';
+$catalogue->yearReconstruction = '{Year when the reconstruction was created}';
 
 ?>
