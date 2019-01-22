@@ -1,0 +1,916 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bibliothek Carl Wolfgang Rehlinger (1575)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name type="org">Herzog August Bibliothek Wolfenb&#xFC;ttel</name>
+          <address>
+            <street>Lessingplatz 1</street>
+            <name type="city">Wolfenb&#xFC;ttel</name>
+            <postCode>D-38299</postCode>
+            <name type="country">Germany</name>
+          </address>
+        </publisher>
+        <date when="2019-01-21">2019</date>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="witness_0">HAB Wolfenb&#xFC;ttel, M: Bc Kapsel 19 (7)</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="transcription">
+        <pb n="1" facs="http://diglib.hab.de/drucke/bc-kapsel-19-7s/start.htm?image=1"/>
+        <head>ohne Kategorie</head>
+        <div type="volume">
+          <p n="1" xml:id="rehlinger0">Tomus Theatri Zuingeri.<note>Wahrscheinlich handelt es sich um die hier in drei B&#xE4;nden vorliegende zweite Ausgabe VD 16 Z 755 (Basel: Hieronymus Froben, 1571).</note></p>
+        </div>
+        <div type="volume">
+          <p n="2" xml:id="rehlinger1">Tomus Theatri Zuingeri.</p>
+        </div>
+        <div type="volume">
+          <p n="3" xml:id="rehlinger2">Tomus Theatri Zuingeri.</p>
+        </div>
+        <div type="volume">
+          <p n="4" xml:id="rehlinger3">Iohannes [!] Bonfinius de rebus Vngaricis.<note>In Frage kommen die Editio princeps VD 16 B 6592 (Basel: Robert Winter, 1543) sowie VD 16 B 6593 mit der Variante B 6594 (Basel: Bartholomaeus Franck, Paul Queck, Johannes Oporinus Nachf. und Sigmund Feyerabend, 1568).</note></p>
+        </div>
+        <div type="volume">
+          <p n="5" xml:id="rehlinger4">VVolfgangus Lazius de migrationibus gentium.<note>In Frage kommen die Edito princeps VD 16 L 849 (Basel: Johann Oporinus, 1557) und VD 16 L 850 (Basel: Johannes Oporinus Nachf., 1572).</note></p>
+        </div>
+        <div type="volume">
+          <p n="6" xml:id="rehlinger5">Chronologia Mercatoris.</p>
+        </div>
+        <div type="volume">
+          <p n="7" xml:id="rehlinger6">Nicephori Ecclesiastica Historia, &amp; tripartita historia.<note>In Frage kommen Pettegree /Walsby, French Books, 80658 (Paris: Guillaume Cavellat, 1562), 80659 (Paris: Gilles Gourbin, 1562) oder 80679 (Paris: Michael Sonnius, 1574).</note></p>
+        </div>
+        <div type="volume">
+          <p n="8" xml:id="rehlinger7">Herodotus,</p>
+          <p n="8" xml:id="rehlinger8">&amp; uitae Plutarchi.</p>
+        </div>
+        <div type="volume">
+          <p n="9" xml:id="rehlinger9">Histori&#xE6; Bizant[inae] scrip[tores] { Iohan[nes] Zonoras [ ! ]. Nicetas Choniates. Nicephorus Gregoras. Laonicus Chalcocondyles.<note>Es ist aufgrund der Titelaufnahme wenig wahrscheinlich, dass es sich um einen Sammelband mit den griechisch-lateinischen Erstausgaben VD 16 J 811 (Basel: Johannes Oporinus, 1557), VD 16 N 1449 (Basel: Johannes Oporinus, 1557), VD 16 G 3005 mit enth. VD 16 C 2006 (Basel: Johannes Oporinus, 1562) gehandelt hat, der &#xFC;ber 1600 Seiten umfasst h&#xE4;tte. Ausf. zu den Basler Erstausgaben, den griech. Handschriften und Wolfs Editionst&#xE4;tigkeit Griechischer Geist aus Basler Pressen (GG) 270 (Zonaras und Choniates) und GG 271 (Gregoras und Chalcocondyles). In Frage kommen vielmehr die drei lat. Nachdrucke Pettegree / Walsby, French Books, 63393 (Paris: Gulielmus Chaudiere, 1567) sowie VD 16 ZV 3895 (Frankfurt / Main: Peter Schmidt und Sigmund Feyerabend, 1568) und VD 16 ZV 20485 (Frankfurt / Main: Peter Schmidt und Sigmund Feyerabend, 1568&#x2013;74). Enthalten sind hier die lat. Ausgaben der Weltchronik des Johannes Zonaras, die byzantinische Geschichte der Jahre 1117&#x2013;1203 von Nicetas Choniates, die rhom&#xE4;ische Geschichte der Jahre 1204&#x2013;1359 von Nicephorus Gregoras sowie die T&#xFC;rkengeschichte des Laonicus Chalcocondyles, hrsg. und &#xFC;bersetzt von Hieronymus Wolf.</note></p>
+        </div>
+        <div type="volume">
+          <p n="10" xml:id="rehlinger10">Xenophon Graecolatinus.<note>Griechisch-lateinische Parallelausgabe.</note></p>
+        </div>
+        <div type="volume">
+          <p n="11" xml:id="rehlinger11">Iohannes Auentini annales Boij.</p>
+        </div>
+        <div type="volume">
+          <p n="12" xml:id="rehlinger12">Vit&#xE6; C&#xE6;sarum { Suetonij Tranquilli. &#xC6;lij Spartiani. &#xC6;lij Lampridij. Trebellij Pollionis. Herodiani. Pomponij L&#xE6;ti. Eutropij. Ammiani Marcellini. Dionis Ca&#xDF;ij. Iulij Capitolini. Vulcatii Gallicani. F. Vopisci. Sexti Aurelij Victoris. Iohannis Baptist&#xE6; Egnatij. Velleij Paterculi.<note>Anthologie r&#xF6;mischer Autoren mit Kommentaren zu den Kaiserviten von Erasmus von Rotterdam und Giovanni Battista Egnazio.</note></p>
+        </div>
+        <div type="volume">
+          <p n="13" xml:id="rehlinger13">Onuphrij Panuinij de fastis &amp; triumphis Rom[anorum] &amp;</p>
+          <p n="13" xml:id="rehlinger14">Giraldus de diis gentium.<note>M&#xF6;glicherweise eine der Basler Ausgaben VD 16 G 2103 oder VD 16 G 2104.</note></p>
+        </div>
+        <div type="volume">
+          <p n="14" xml:id="rehlinger15">Blondius [gestr.: i] Fl[avius] de Roma triumphante.</p>
+        </div>
+        <div type="volume">
+          <p n="15" xml:id="rehlinger16">Rapha&#xEB;l Volaterranus.</p>
+        </div>
+        <div type="volume">
+          <p n="16" xml:id="rehlinger17">Cuspinianus de uitis Caesarum.</p>
+        </div>
+        <div type="volume">
+          <p n="17" xml:id="rehlinger18">Strabonis geographia.</p>
+        </div>
+        <div type="volume">
+          <p n="18" xml:id="rehlinger19">Centuria 13. Ecclesiastica.</p>
+        </div>
+        <div type="volume">
+          <p n="19" xml:id="rehlinger20">Iohannis Hus &amp; Hieronymi Pragensis opera.</p>
+        </div>
+        <div type="volume">
+          <p n="20" xml:id="rehlinger21">Camerarij chronologia &#xE8; Niceph[oro]</p>
+          <p n="20" xml:id="rehlinger22">&amp; Bibliandri.<note>VD16 B 5334 oder Druckvariante VD16 ZV 28110</note></p>
+          <p n="20" xml:id="rehlinger23">&amp; Pantaleonis.<note>Werk und Ausgabe lassen sich nicht genau bestimmen.</note></p>
+        </div>
+        <div type="volume">
+          <p n="21" xml:id="rehlinger24">Anshelmi opera.</p>
+        </div>
+        <div type="volume">
+          <p n="22" xml:id="rehlinger25">Cosmographia Munsteri.</p>
+        </div>
+        <div type="volume">
+          <p n="23" xml:id="rehlinger26">Eusebij Pamphili opera.</p>
+        </div>
+        <div type="volume">
+          <p n="24" xml:id="rehlinger27">Otto Frisingensis.<note>Hrsg. von Johannes Cuspinianus. In Frage kommen die Editio princeps VD 16 O 1434 (Stra&#xDF;burg: Matthias Sch&#xFC;rer, 1515) oder VD 16 O 1435 (Basel: Peter Perna, 1569).</note></p>
+          <p n="24" xml:id="rehlinger28">Abbas Vrspergensis.</p>
+          <p n="24" xml:id="rehlinger29">Tritehemius de monasterio Hirsaugiensi.</p>
+        </div>
+        <div type="volume">
+          <p n="25" xml:id="rehlinger30">&#xC6;ne&#xE6; Syluij opera.<note>In Frage kommen VD 16 P 3093 (Basel: Heinrich Petri, 1551) oder VD 16 P 3094 (Basel: Heinrich Petri, 1571).</note></p>
+        </div>
+        <div type="volume">
+          <p n="26" xml:id="rehlinger31">Paul[us] &#xC6;milius Veronensis de reb[us] gestis Francoru[m].<note>In Frage kommen verschiedene Pariser Drucke (Pettegree / Walsby, French Books, 69117&#x2013;9) sowie die Basler Ausgaben VD 16 E 1058, VD 16 ZV 4984 und VD 16 ZV 24996 (Basel: Sixtus Henricpetri, 1569).</note></p>
+        </div>
+        <div type="volume">
+          <p n="27" xml:id="rehlinger32">Cornelius Tacitus.</p>
+          <p n="27" xml:id="rehlinger33">Dionisius Ca&#xDF;ius.</p>
+        </div>
+        <div type="volume">
+          <p n="28" xml:id="rehlinger34">Diodorus Siculus.<note>Werk und Ausgabe sind nicht bestimmbar.</note></p>
+        </div>
+        <div type="volume">
+          <p n="29" xml:id="rehlinger35">Beatus Rhenanus de rebus Ger[manicis].<note>In Frage kommen die Editio princeps VD 16 R 2064 (Basel: Johann Froben Erben, 1531) oder die zweite Auflage VD 16 R 2065 (Basel: Hieronymus Froben und Nicolaus Episcopius d. &#xC4;., 1551).</note></p>
+          <p n="29" xml:id="rehlinger36">Ioh[annes] Turpinus de uita Caroli Magni et Rolandi. Rhegino abbas Prumiensis. Sigebertus Gemblacensis. Lambertus Schafnaburgensis.<note>Enth. Johannes Turpinus: Historia de vita Caroli Magni et Rolandi; Regino von Pr&#xFC;m: Annales; Sigebert von Gembloux: Chronographia; Lambert von Hersfeld: De rebus gestis Germanorum. Hrsg. von Simon Schardius.</note></p>
+          <p n="29" xml:id="rehlinger37">Franc[isci] Irenici histori&#xE6; Germ[aniae] lib[ri] 12.</p>
+        </div>
+        <div type="volume">
+          <p n="30" xml:id="rehlinger38">Supplementum chronicorum Bergomatis.</p>
+        </div>
+        <div type="volume">
+          <p n="31" xml:id="rehlinger39">H&#xE6;reseologia.</p>
+        </div>
+        <div type="volume">
+          <p n="32" xml:id="rehlinger40">Vitichindi Saxonica historia.</p>
+          <p n="32" xml:id="rehlinger41">Eutropij Ro[mana] historia.</p>
+        </div>
+        <div type="volume">
+          <p n="33" xml:id="rehlinger42">Onuphrij Pa[n]ui[ni] pont[ifices] Ro[mani].</p>
+          <p n="33" xml:id="rehlinger43">Ejusde[m] app[endix] fast[orum].<note>Eingebunden ist nur das [4] Bl., 72 S. umfassende enthaltene Werk mit eigenem Titelblatt von EDIT16 CNCE 37871 (Onofrio Panvinio: Fastorvm libri V a Romulo rege usque ad imp.Caesarem Carolum V Austrium Augustum. Venedig: Vincenzo Valgrisi, 1558. 2&#xB0;).</note></p>
+          <p n="33" xml:id="rehlinger44">Chronicon pluriu[m].</p>
+        </div>
+        <div type="volume">
+          <p n="34" xml:id="rehlinger45">Thucydides.<note>In Frage kommen die von Laurentio Valla bearbeiteten Basler Ausgaben VD 16 T 1120 und VD 16 T 1121 (beide Basel: Heinrich Petri und Maternus Cholinus, 1564), aber auch die italienische Inkunabelausgabe GW M46964 (Treviso: Johannes Rubeus, 1483?).</note></p>
+          <p n="34" xml:id="rehlinger46">Dion[ysii] Alexan[dri] Ro[mana] histo[ria].<note>In Frage kommen VD 16 D 1970 (Basel: Hieronymus Froben d. &#xC4;. und Nicolaus Episcopius d. &#xC4;., 1532), aber auch die beiden italienischen Inkunabelausgaben GW 8423 (Treviso: Bernardinus Celerius, 24. Februar 1480) und GW 8424 (Reggio Emilia: Franciscus de Mazalibus, 12. November 1498).</note></p>
+        </div>
+        <div type="volume">
+          <p n="35" xml:id="rehlinger47">Catalogus testiu[m] ueritatis Illyrici.</p>
+          <p n="35" xml:id="rehlinger48">Prodigia Lycost[henis].</p>
+        </div>
+        <div type="volume">
+          <p n="36" xml:id="rehlinger49">Paul[i] Diacon[i] de reb[us] Longob[ardorum].<note>Ausgabe bei Renouard, Imprimeurs II, S. 256</note></p>
+          <p n="36" xml:id="rehlinger50">Iorna[n]des de reb[us] Gothorum.<note>Herausgegeben von Conrad Peutinger und Johannes Stabius. Enth. auch Paulus Diaconus: De gestis Langobardorum (VD 16 P 1048).</note></p>
+          <p n="36" xml:id="rehlinger51">Annonij Monachi de reb[us] Franc[orum].<note>Ausgabe bei Renouard, Imprimeurs II, S. 238</note></p>
+          <p n="36" xml:id="rehlinger52">Polybius Gr&#xE6;colatinus.<note>Griechisch-lateinische Parallelausgabe, nicht n&#xE4;her zu bestimmen.</note></p>
+        </div>
+        <div type="volume">
+          <p n="37" xml:id="rehlinger53">&#xC6;milij Probi de uita excellentium Imperatorum.<note>In Frage kommen die Editio princeps GW M25944 (Venedig: Nicolas Jenson, 8. M&#xE4;rz 1471), VD 16 N 518 (Stra&#xDF;burg: Matthias Sch&#xFC;rer, 1511), sowie die Pariser Ausgaben Pettegree / Walsby, French Books, Nr. 63339&#x2013;40 (Pierre L&#x2019;Huillier, 1568 bzw. 1569) und Pettegree /Walsby, French Books, Nr. 63341 (Jean Bienn&#xE9;, 1568).</note></p>
+        </div>
+        <div type="volume">
+          <p n="38" xml:id="rehlinger54">Dictionarium historicum Caroli Stephani.<note>In Frage kommen die Editio princeps Pettegree / Walsby, French Books, Nr. 69931 (Paris: Charles Estienne, 1553; s. Antoine Renouard: Annales de l&#x2019;imprimerie des Estienne ou histoire de la famille des Estienne et ses &#xE9;ditions. Paris 1843, S. 104/5, Nr. 8.), sowie die Ausgaben GLN 15/16-2315 (Genf: Fran&#xE7;ois Perrin, 1566) und GLN 15/16-2345 ([Paris, Genf]: Jean Le Preux &amp; Jean Petit, 1567).</note></p>
+        </div>
+        <div type="volume">
+          <p n="39" xml:id="rehlinger55">Iohannes Magnus de rebus Gothicis.<note>Ausgabe nicht bestimmbar. In Frage kommen VD 16 M 222 (Basel: Michael Isengrin Witwe, 1558) oder die Titelauflage VD 16 M 223 (K&#xF6;ln: Johann Birckmann, 1567).</note></p>
+        </div>
+        <div type="volume">
+          <p n="40" xml:id="rehlinger56">Valerius Maximus.</p>
+        </div>
+        <div type="volume">
+          <p n="41" xml:id="rehlinger57">C. Iulij C&#xE6;saris commentaria.<note>Nach der treffenden Titelaufnahme sehr wahrscheinlich VD 16 c 34.</note></p>
+        </div>
+        <div type="volume">
+          <p n="42" xml:id="rehlinger58">Berosus.<note>In Frage kommt eine der beiden Antwerpener Ausgaben bei Johannes Steels, 1545 oder 1552 Pettegree / Walsby, Netherlandish Books, 22132 oder 22133).</note></p>
+        </div>
+        <div type="volume">
+          <p n="43" xml:id="rehlinger59">Pauli Iouij opera omnia sex tomis diuisa.<note>Drei Teile in zwei B&#xE4;nden: I, II.1 , II.2. In Frage kommen VD 16 G 2072 (Basel: Peter Perna und Heinrich Petri, 1560) oder VD 16 G 2073 (Basel: Peter Perna und Heinrich Petri, 1567).</note></p>
+        </div>
+        <div type="volume">
+          <p n="44" xml:id="rehlinger60">Pauli Iouij opera omnia sex tomis diuisa.<note>Drei Teile in zwei B&#xE4;nden: I, II.1 , II.2. In Frage kommen VD 16 G 2072 (Basel: Peter Perna und Heinrich Petri, 1560) oder VD 16 G 2073 (Basel: Peter Perna und Heinrich Petri, 1567).</note></p>
+        </div>
+        <div type="volume">
+          <p n="45" xml:id="rehlinger61">Pauli Iouij opera omnia sex tomis diuisa.<note>Zwei Teile in zwei B&#xE4;nden. In Frage kommen VD 16 G 2076 (Basel: Peter Perna und Heinrich Petri, 1559), VD 16 G 2077 (Basel : Peter Perna und Heinrich Petri, 1567) und VD 16 ZV 22423 (Basel: Peter Perna und Heinrich Petri, 1571).</note></p>
+        </div>
+        <div type="volume">
+          <p n="46" xml:id="rehlinger62">Pauli Iouij opera omnia sex tomis diuisa.<note>Zwei Teile in zwei B&#xE4;nden. In Frage kommen VD 16 G 2076 (Basel: Peter Perna und Heinrich Petri, 1559), VD 16 G 2077 (Basel : Peter Perna und Heinrich Petri, 1567) und VD 16 ZV 22423 (Basel: Peter Perna und Heinrich Petri, 1571).</note></p>
+        </div>
+        <div type="volume">
+          <p n="47" xml:id="rehlinger63">Pauli Iouij opera omnia sex tomis diuisa.</p>
+        </div>
+        <div type="volume">
+          <p n="48" xml:id="rehlinger64">Pauli Iouij opera omnia sex tomis diuisa.</p>
+        </div>
+        <div type="volume">
+          <p n="49" xml:id="rehlinger65">Alberti Crantzij historia Ecclesiastica &amp; politica.</p>
+        </div>
+        <div type="volume">
+          <p n="50" xml:id="rehlinger66">[Alberti Crantzij historia Ecclesiastica] &amp; politica.</p>
+        </div>
+        <div type="volume">
+          <p n="51" xml:id="rehlinger67">Pausanias.</p>
+        </div>
+        <div type="volume">
+          <p n="52" xml:id="rehlinger68">Pauli Diaconi historia.</p>
+        </div>
+        <div type="volume">
+          <p n="53" xml:id="rehlinger69">Iustinus.</p>
+          <p n="53" xml:id="rehlinger70">&amp; Florus.</p>
+        </div>
+        <div type="volume">
+          <p n="54" xml:id="rehlinger71">Orosius.</p>
+        </div>
+        <div type="volume">
+          <p n="55" xml:id="rehlinger72">Iosippus Hebraicolatinus.</p>
+          <p n="55" xml:id="rehlinger73">Philastrius de h&#xE6;reticis.<note>In Frage kommen die Editio princeps, VD 16 F 1016 (Basel: Heinrich Petri, 1528), sowie VD 16 F 2017 (Basel: Heinrich Petri, 1539).</note></p>
+        </div>
+      </div>
+      <div type="bibliography">
+        <listBibl>
+          <bibl xml:id="rehlinger0-reference" corresp="rehlinger0">
+            <title>THEATRVM || VITAE HVMA=||NAE A &#x300;THEODORO ZVINGERO || BASILIENSE || post primam CONR.LYCOSTHENIS || Rubeaquensis manum || plus myriade EXEMPLORVM auctum,|| methodic&#xE8; digestum, accurat&#xE8; || recognitum.|| Acce&#xDF;it ELENCHVS TRIPLEX,|| Methodi scilicet, Titulorum, et || Exemplorum.||</title>
+            <author>
+              <rs type="person" key="gnd_118773313">Zwinger, Theodor</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7007269">Basel</rs>
+            </pubPlace>
+            <publisher>Froben, Ambrosius</publisher>
+            <date when="1571">1571</date>
+            <idno type="VD16">Z 755</idno>
+          </bibl>
+          <bibl xml:id="rehlinger1-reference" corresp="rehlinger1">
+            <title>THEATRVM || VITAE HVMA=||NAE A &#x300;THEODORO ZVINGERO || BASILIENSE || post primam CONR.LYCOSTHENIS || Rubeaquensis manum || plus myriade EXEMPLORVM auctum,|| methodic&#xE8; digestum, accurat&#xE8; || recognitum.|| Acce&#xDF;it ELENCHVS TRIPLEX,|| Methodi scilicet, Titulorum, et || Exemplorum.||</title>
+            <author>
+              <rs type="person" key="gnd_118773313">Zwinger, Theodor</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7007269">Basel</rs>
+            </pubPlace>
+            <publisher>Froben, Ambrosius</publisher>
+            <date when="1571">1571</date>
+            <idno type="VD16">Z 755</idno>
+          </bibl>
+          <bibl xml:id="rehlinger2-reference" corresp="rehlinger2">
+            <title>THEATRVM || VITAE HVMA=||NAE A &#x300;THEODORO ZVINGERO || BASILIENSE || post primam CONR.LYCOSTHENIS || Rubeaquensis manum || plus myriade EXEMPLORVM auctum,|| methodic&#xE8; digestum, accurat&#xE8; || recognitum.|| Acce&#xDF;it ELENCHVS TRIPLEX,|| Methodi scilicet, Titulorum, et || Exemplorum.||</title>
+            <author>
+              <rs type="person" key="gnd_118773313">Zwinger, Theodor</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7007269">Basel</rs>
+            </pubPlace>
+            <publisher>Froben, Ambrosius</publisher>
+            <date when="1571">1571</date>
+            <idno type="VD16">Z 755</idno>
+          </bibl>
+          <bibl xml:id="rehlinger3-reference" corresp="rehlinger3">
+            <title>Rerum Ungaricaum decades tres.</title>
+            <author>
+              <rs type="person" key="gnd_104106123">Bonfini, Antonio</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7007269">Basel</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="rehlinger4-reference" corresp="rehlinger4">
+            <title>De gentium aliquot migrationibus.</title>
+            <author>
+              <rs type="person" key="gnd_118726870">Lazius, Wolfgang</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7007269">Basel</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="rehlinger5-reference" corresp="rehlinger5">
+            <title>CHRONOLOGIA.|| HOC EST,|| TEMPORVM DE=||MONSTRATIO EXACTISSIMA, AB || INITIO MVNDI, VSQVE AD ANNVM DOMI-||NI M.D.LXVIII. EX ECLIPSIBVS ET OBSERVATIONIBVS ASTRONOMI=||cis omnium temporum, sacris quoq; Biblijs, et optimis quibusq; Scri=||ptoribus summa fide concinnata.|| AVCTORE || GERARDO MERCATORE,|| Illustriss.Ducis Iuliae, Cliuiae, Bergis, &amp;c.|| Cosmographo.||</title>
+            <author>
+              <rs type="person" key="gnd_119734273">Kremer, Gerhard, der &#xC4;ltere</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7004446">K&#xF6;ln</rs>
+            </pubPlace>
+            <publisher>Birckmann, Arnold &lt;Erben&gt;</publisher>
+            <date when="1569">1569</date>
+            <idno type="VD16">K 2335</idno>
+          </bibl>
+          <bibl xml:id="rehlinger6-reference" corresp="rehlinger6">
+            <title>Ecclesiasticae historiae libri decem et octo historia &#x2026; Adiecimus quoque ad Nicephorum, Magni Aurelij Cassiodori tripartitam, quam vocant, historiam.</title>
+            <author>
+              <rs type="person" key="gnd_10095443X">Nicephorus Callistus, Xanthopulus</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7008038">Paris</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="rehlinger7-reference" corresp="rehlinger7">
+            <title>Historiae.</title>
+            <author>
+              <rs type="person" key="gnd_118549855">Herodotus</rs>
+            </author>
+          </bibl>
+          <bibl xml:id="rehlinger8-reference" corresp="rehlinger8">
+            <title>Vitae parallelae.</title>
+            <author>
+              <rs type="person" key="gnd_118595237">Plutarchus</rs>
+            </author>
+          </bibl>
+          <bibl xml:id="rehlinger9-reference" corresp="rehlinger9">
+            <title>Corpus historiae Byzantinae.</title>
+            <author>
+              <rs type="person" key="gnd_118773151">Zonaras, Johannes</rs>
+            </author>
+            <author>
+              <rs type="person" key="gnd_118675478">Laonicus, Chalcocondyles</rs>
+            </author>
+            <author>
+              <rs type="person" key="gnd_118697463">Nicephorus, Gregoras</rs>
+            </author>
+            <author>
+              <rs type="person" key="gnd_118675982">Nicetas, Choniates</rs>
+            </author>
+          </bibl>
+          <bibl xml:id="rehlinger10-reference" corresp="rehlinger10">
+            <title>Opera.</title>
+            <author>
+              <rs type="person" key="gnd_118635808">Xenophon</rs>
+            </author>
+          </bibl>
+          <bibl xml:id="rehlinger11-reference" corresp="rehlinger11">
+            <title>ANNALIVM BOIORVM || LIBRI SEPTEM IO=||anne Auentino Au=||tore.|| ... Accessit ... || Index copiosus.||[Hrsg.v.(Hieronymus Zieglerus Ro=||tenburgensis ... ||)]</title>
+            <author>
+              <rs type="person" key="gnd_11850522X">Aventinus, Johannes</rs>
+            </author>
+            <editor>
+              <rs type="person" key="gnd_128679913">Ziegler, Hieronymus</rs>
+            </editor>
+            <pubPlace>
+              <rs type="place" key="getty_7017035">Ingolstadt</rs>
+            </pubPlace>
+            <publisher>Wei&#xDF;enhorn, Alexander</publisher>
+            <date when="1554">1554</date>
+            <idno type="VD16">T 2318</idno>
+          </bibl>
+          <bibl xml:id="rehlinger12-reference" corresp="rehlinger12">
+            <title>VITAE CAESARVM || QVARVM SCRIPTORES HI || [Sp.1] C. Suetonius Tranquillus || Aelius Spartianus || Aelius Lampridius ||...[Sp.2] Dion Cassius || Iulius Capitolinus ||...Eutropij libri X. integritati pristinae redditi.|| Ammianus Marcellinus longe alius qu&#xE0;m antehac unquam.|| Annotationes D. Erasmi Rot. &amp; Baptistae Egnatij in uitas Caes.|| Accesserunt...Velleij Paterculi libri II ... || addito Indice copiosissimo.||</title>
+            <author>
+              <rs type="person" key="gnd_118619918">Suetonius Tranquillus, Gaius</rs>
+            </author>
+            <author>
+              <rs type="person" key="gnd_119353083">Lampridius, Aelius</rs>
+            </author>
+            <author>
+              <rs type="person" key="gnd_119353016">Spartianus, Aelius</rs>
+            </author>
+            <author>
+              <rs type="person" key="gnd_118525824">Cassius, Dio</rs>
+            </author>
+            <editor>
+              <rs type="person" key="gnd_118530666">Erasmus, Desiderius</rs>
+            </editor>
+            <editor>
+              <rs type="person" key="gnd_100118720">Egnazio, Giovanni Battista</rs>
+            </editor>
+            <pubPlace>
+              <rs type="place" key="getty_7007269">Basel</rs>
+            </pubPlace>
+            <publisher>Froben, Hieronymus</publisher>
+            <date when="1546">1546</date>
+            <idno type="VD16">E 3648</idno>
+          </bibl>
+          <bibl xml:id="rehlinger13-reference" corresp="rehlinger13">
+            <title>Fasti et triumphi Rom. a Romulo rege vsque ad Carolum V C&#xE6;s. Aug. siue epitome regum, consulum, dictatorum, magistror. equitum, tribunorum militum consulari potestate, censorum, impp. &amp; aliorum magistratuum Roman. cum Orientalium tum Occidentalium, ex antiquitatum monumentis maxima cum fide ac diligentia desumpta. Onuphrio Panuinio Veronensi f. Augustiniano authore. Addit&#xE6; sunt suis locis impp. et orientalium, et occidentalium uerissim&#xE6; icones, ex vetustissimis numismatis qu&#xE0;m fidelissim&#xE8; delineat&#xE6;.Ex Mus&#xE6;o Iacobi Strad&#xE6; Mantuani, ciuis Roamni, antiquarij.</title>
+            <author>
+              <rs type="person" key="gnd_119421488">Panvinio, Onofrio</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7018159">Venedig</rs>
+            </pubPlace>
+            <publisher>Strada, Giacomo</publisher>
+            <date when="1557">1557</date>
+            <idno type="EDIT16">34276</idno>
+          </bibl>
+          <bibl xml:id="rehlinger14-reference" corresp="rehlinger14">
+            <title>De deis gentium.</title>
+            <author>
+              <rs type="person" key="gnd_100350275">Giraldi, Giglio Gregorio</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7007269">Basel</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="rehlinger15-reference" corresp="rehlinger15">
+            <title>De Roma triumphante.</title>
+            <author>
+              <rs type="person" key="gnd_118658867">Blondus, Flavius</rs>
+            </author>
+          </bibl>
+          <bibl xml:id="rehlinger16-reference" corresp="rehlinger16">
+            <title>Commentariorum urbanorum octo et triginta libri.</title>
+            <author>
+              <rs type="person" key="gnd_100199399">Maffei, Raffaele</rs>
+            </author>
+          </bibl>
+          <bibl xml:id="rehlinger17-reference" corresp="rehlinger17">
+            <title>De Caesaribus atque imperatoribus Romanis opus insigne.</title>
+            <author>
+              <rs type="person" key="gnd_11867756X">Cuspinianus, Johannes</rs>
+            </author>
+          </bibl>
+          <bibl xml:id="rehlinger18-reference" corresp="rehlinger18">
+            <title>Geographicorum libri XVII.</title>
+            <author>
+              <rs type="person" key="gnd_118618806">Strabo</rs>
+            </author>
+          </bibl>
+          <bibl xml:id="rehlinger19-reference" corresp="rehlinger19">
+            <title>Decimatertia Centuria || ECCLESIASTICAE || HISTORIAE, CONTINENS DE=||SCRIPTIONEM AMPLISSIMARVM RERVM IN || Regno Christi, quae Decimotertio post eius natiuitatem || seculo acciderunt ... || eodem ordine ... || ut superiores Centuriae ... || in || ciuitate Vuismaria,|| PER AVTORES CONTEXTA.|| Accessit ... || INDEX.||</title>
+            <author>
+              <rs type="person" key="gnd_118533649">Flacius, Matthias</rs>
+            </author>
+            <editor>
+              <rs type="person" key="gnd_117383317">Wigand, Johann</rs>
+            </editor>
+            <editor>
+              <rs type="person" key="gnd_119713551">Holthuter, Thomas</rs>
+            </editor>
+            <editor>
+              <rs type="person" key="gnd_119646463">Corvinus, Andreas</rs>
+            </editor>
+            <pubPlace>
+              <rs type="place" key="getty_7007269">Basel</rs>
+            </pubPlace>
+            <publisher>Oporinus, Johannes</publisher>
+            <date when="1574">1574</date>
+            <idno type="VD16">E 238</idno>
+          </bibl>
+          <bibl xml:id="rehlinger20-reference" corresp="rehlinger20">
+            <title>IOANNIS || Hus, et Hie=||RONYMI PRAGEN=||SIS CONFESSORVM CHRISTI || HISTORIA ET MO=||NVMENTA, PARTIM ANNIS SV/||PERIORIBVS PVBLICATA,PARTIM NVNC || demum in lucem prolata &amp; edita, cum scriptis &amp; testimonijs multo-||rum ... || (ALTERA PARS.|| ADDITAE SVNT NAR=||RATIONES DE CONDEMNATIONE IN/||IVSTA, ET INDIGNO SVPPLICIO IOANNIS || HVS, ET HIERONYMI PRAGENSIS, AB INCERTIS AVTHO=||ribus ... ||)</title>
+            <author>
+              <rs type="person" key="gnd_118554948">Hus, Jan</rs>
+            </author>
+            <author>
+              <rs type="person" key="gnd_102511217">Hieronymus, Pragensis, Camaldulensis</rs>
+            </author>
+            <author>vom Berg, Johann</author>
+            <pubPlace>N&#xFC;rnberg</pubPlace>
+            <publisher>Neuber, Ulrich</publisher>
+            <date when="1558">1558</date>
+            <idno type="VD16">H 6154</idno>
+          </bibl>
+          <bibl xml:id="rehlinger21-reference" corresp="rehlinger21">
+            <title>CHRONOLOGIA SE=||cundum Graecorum rationem || temporibus expositis, autore || NICEPHORO archiepiscopo Con-||stantinopolis:|| CONVERSA in sermonem Latinum de Graeco, &amp; explica-||ta &#xE0; IOACHIMO CAMERARIO Pabeper/||gensi, nunc#&#x301;[que] prim&#xF9;m || edita.|| ADDITA EST Narratio eiusdem CAMERARII || de Synodo Nicaena, nunc denu&#xF2; edita.|| ACCESSIT et noua enumeratio Oecumenicarum Syno-||dorum, indicatis temporibus et praeci-||puis negotijs illarum.||(EIUSDEM IOACHIMI || Camerarij || De Chronicis, seu certorum temporum in/||dicationibus, Libellus.|| ITEM,|| De sancto Spiritu, ex Disputatione quae ascribitur Ba/||silio Caesareae episcopo.||)</title>
+            <author>
+              <rs type="person" key="gnd_118518569">Camerarius, Joachim</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7007269">Basel</rs>
+            </pubPlace>
+            <publisher>Oporinus, Johannes</publisher>
+            <date when="1561">1561</date>
+            <idno type="VD16">N 1446</idno>
+          </bibl>
+          <bibl xml:id="rehlinger22-reference" corresp="rehlinger22">
+            <title>TEMPORVM A &#x300;|| condito mundo usque ad ulti||mam ipsius aetatem supputatio,|| partitioq&#x301;ue exactior.|| Vniuersae quidem historiae diuinae, ecclesiasticae || &amp; exter&#x119; Latinorum, Gr&#x119;corum, Aegyptiorum,|| Chaldaeorum, Germanorum &amp; aliar&#x169; gentium || accommodata ... || Qu&#xE3; scribebat THEODORVS BIBLIANDER,|| ecclesi&#x119; Tigurin&#x119; minister ... || Accessit ... || INDEX.||</title>
+            <author>
+              <rs type="person" key="gnd_116170638">Bibliander, Theodor</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7007269">Basel</rs>
+            </pubPlace>
+            <publisher>K&#xFC;ndig, Jakob</publisher>
+            <date when="1558">1558</date>
+            <idno type="VD16">B 5334</idno>
+          </bibl>
+          <bibl xml:id="rehlinger23-reference" corresp="rehlinger23">
+            <title>Chronographia ecclesiae Christi [?].</title>
+            <author>
+              <rs type="person" key="gnd_124439047">Pantaleon, Heinrich</rs>
+            </author>
+          </bibl>
+          <bibl xml:id="rehlinger24-reference" corresp="rehlinger24">
+            <title>Opera.</title>
+            <author>
+              <rs type="person" key="gnd_118503278">Anselmus, Cantuariensis</rs>
+            </author>
+          </bibl>
+          <bibl xml:id="rehlinger25-reference" corresp="rehlinger25">
+            <title>Cosmographia.</title>
+            <author>
+              <rs type="person" key="gnd_118585517">M&#xFC;nster, Sebastian</rs>
+            </author>
+          </bibl>
+          <bibl xml:id="rehlinger26-reference" corresp="rehlinger26">
+            <title>Opera.</title>
+            <author>Eusebius Caesariensis</author>
+          </bibl>
+          <bibl xml:id="rehlinger27-reference" corresp="rehlinger27">
+            <title>Rerum ab origine mundi ad ipsius usque tempora gestarum.</title>
+            <author>
+              <rs type="person" key="gnd_118590782">Otto, Frisingensis</rs>
+            </author>
+          </bibl>
+          <bibl xml:id="rehlinger28-reference" corresp="rehlinger28">
+            <title>Chronicon Urspergense.</title>
+            <author>
+              <rs type="person" key="gnd_11851749X">Burchardus, Urspergensis</rs>
+            </author>
+          </bibl>
+          <bibl xml:id="rehlinger29-reference" corresp="rehlinger29">
+            <title>CHRONICON INSI/||gne Monasterij Hirsaugien/||sis, Ordinis S.Benedicti,|| PER || IOANNEM TRITEHEMIVM || ABBATEM SPANHEIMENSEM, VIRVM SVA || aetate doctiss. conscriptum, ac diu hactenus &#xE0; multis || desideratum, nunc uer&#xF2; prim&#xF9;m in || lucem editum.|| ... Accessit locuples rerum &amp; uerborum in to/||to Opere memorabilium || INDEX.||[Hrsg.v.(GVILIELMVS || RADENSIS ... ||)]</title>
+            <author>
+              <rs type="person" key="gnd_118642960">Trithemius, Johannes</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7007269">Basel</rs>
+            </pubPlace>
+            <publisher>K&#xFC;ndig, Jakob</publisher>
+            <date when="1559">1559</date>
+            <idno type="VD16">T 1967</idno>
+          </bibl>
+          <bibl xml:id="rehlinger30-reference" corresp="rehlinger30">
+            <title>Opera.</title>
+            <author>
+              <rs type="person" key="gnd_118594702">Aeneas Sylvius, Piccolomini</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7007269">Basel</rs>
+            </pubPlace>
+            <publisher>Petri, Heinrich</publisher>
+          </bibl>
+          <bibl xml:id="rehlinger31-reference" corresp="rehlinger31">
+            <title>De rebus gestis Francorum libri X.</title>
+            <author>
+              <rs type="person" key="gnd_118896393">Emili, Paolo</rs>
+            </author>
+          </bibl>
+          <bibl xml:id="rehlinger33-reference" corresp="rehlinger33">
+            <title>DIONIS CASSII || Nicaei, Romanae historiae li-||bri &lt;tot enim hodie extant&gt; XXV.|| nimirum &#xE0; XXXVI ad LXI.|| ... || Nunc prim&#xF9;m ... de Graecis Latini facti,|| GVILIELMO XYLANDRO Augu-||stano interprete.|| His accesserunt eiusdem Annotationes, ... || Additum eat IOANNIS XIPHILINI &#xE8; Dio-||ne Compendium, Guil.Blanco Albiensi inter-||prete: ... ||</title>
+            <author>
+              <rs type="person" key="gnd_118525824">Cassius, Dio</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7007269">Basel</rs>
+            </pubPlace>
+            <publisher>Oporinus, Johannes</publisher>
+            <date when="1558">1558</date>
+            <idno type="VD16">D 1793</idno>
+          </bibl>
+          <bibl xml:id="rehlinger35-reference" corresp="rehlinger35">
+            <title>Rerum Germanicarum libri tres.</title>
+            <author>
+              <rs type="person" key="gnd_118960563">Rhenanus, Beatus</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7007269">Basel</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="rehlinger36-reference" corresp="rehlinger36">
+            <title>GERMANICARVM RERVM || QVATVOR || CELEBRIORES VETVS=||TIORESQVE CHRONOGRAPHI, EARVM || DESCRIPTIONEM AB ORBE CONDITO VSQVE AD TEMPORA || Henrici IIII ... || deducen-||tee ... in lucem re-||uocati, &amp; long&#xE8; emendatius qu&#xE0;m antea impressi,|| cum nouo Indice.|| ... ||</title>
+            <author>
+              <rs type="person" key="gnd_118802992">Turpinus, Remensis</rs>
+            </author>
+            <author>
+              <rs type="person" key="gnd_10095135X">Lambertus, Hersfeldensis</rs>
+            </author>
+            <author>
+              <rs type="person" key="gnd_118598996">Regino, Prumiensis</rs>
+            </author>
+            <editor>
+              <rs type="person" key="gnd_118614142">Sigebertus, Gemblacensis</rs>
+            </editor>
+            <pubPlace>
+              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+            </pubPlace>
+            <publisher>Rab, Georg d.&#xC4;.</publisher>
+            <date when="1566">1566</date>
+            <idno type="VD16">S 2277</idno>
+          </bibl>
+          <bibl xml:id="rehlinger37-reference" corresp="rehlinger37">
+            <title>Germaniae exegeseos volumina duodecim.</title>
+            <author>
+              <rs type="person" key="gnd_119193426">Irenicus, Franciscus</rs>
+            </author>
+          </bibl>
+          <bibl xml:id="rehlinger38-reference" corresp="rehlinger38">
+            <title>Supplementum supplementi chronicarum ab ipso mundi exordio vsque ad redemptionis nostrae annum MCCCCCX editum. Et nouissime recognitum. Et castigatum a venerando patre Iacobo Phillippo Bergomate Ordinis heremitarum. Additis per eundem auctorem quampluribus vtilissimis &amp; necessarijs additionibus. Necnon eleganti tabula nouiter excogitata quae omnia mirifice demonstrat.</title>
+            <author>
+              <rs type="person" key="gnd_11909729X">For&#xE8;sti, Giacomo Filippo</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7018159">Venedig</rs>
+            </pubPlace>
+            <publisher>Rusconi, Giorgio</publisher>
+            <date when="1513">1513</date>
+            <idno type="EDIT16">19467</idno>
+          </bibl>
+          <bibl xml:id="rehlinger39-reference" corresp="rehlinger39">
+            <title>HAERESEO||LOGIA,|| HOC EST,|| OPVS VETERVM || tam Graecorum qu&#xE0;m Latinorum || Theologorum,per quos omnes, quae per || Catholicam Christi Ecclesiam grassatae || sunt,haereses confutantur,&amp; summa omnia Theologiae capita quaestiones&#x301;#[que] ... || &amp; reliqui communes,quos tota The||ologia tractat,loci,explicantur.|| ... [Sp.I.]L. Caelius Lactantius Firmianus.|| Marius Victorinus.|| Proclus Episcop.Constantinopolitanus.|| ... || [Sp.II.] Beatus Fulgentius.|| Idacius Clarus.|| Timotheus Episcopus.|| ... ||</title>
+            <author>
+              <rs type="person" key="gnd_11854988X">Herold, Johannes</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7007269">Basel</rs>
+            </pubPlace>
+            <publisher>Petri, Heinrich</publisher>
+            <date when="1556">1556</date>
+            <idno type="VD16">H 2544</idno>
+          </bibl>
+          <bibl xml:id="rehlinger40-reference" corresp="rehlinger40">
+            <title>VVITICHINDI SAXO||NIS RERVM AB HENRICO ET OTTONE I IMPP. GE/||starum Libri III, un&#xE0; cum alijs quibusdam raris &amp; antehac non || lectis diuersorum autorum historijs, ab Anno salutis || D.CCC. us#[que] ad praesentem aetatem ... || Huc accessit rerum scitu dignarum copiosus index.||</title>
+            <author>
+              <rs type="person" key="gnd_118632337">Widukindus, Corbeiensis</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7007269">Basel</rs>
+            </pubPlace>
+            <publisher>Herwagen, Johannes</publisher>
+            <date when="1532">1532</date>
+            <idno type="VD16">ZV 7827</idno>
+          </bibl>
+          <bibl xml:id="rehlinger41-reference" corresp="rehlinger41">
+            <title>EVTROPII INSIGNE || VOLVMEN QVO ROMANA HISTORIA VNIVERSA || describitur, ex diuersorum author&#x169; monumentis collecta ... || Additae sunt || Graecorum Imperatorum uitae de rebus in Oriente &amp; Constantinopoli,|| Persia, Arabia#&#x301;[que] gestis ... || PAVLI Diaconi Aquileiensis De gestis Langobardorum Libri VI.||</title>
+            <author>
+              <rs type="person" key="gnd_100951465">Landulfus, Sagax</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7007269">Basel</rs>
+            </pubPlace>
+            <publisher>Froben, Hieronymus</publisher>
+            <date when="1532">1532</date>
+            <idno type="VD16">L 242</idno>
+          </bibl>
+          <bibl xml:id="rehlinger42-reference" corresp="rehlinger42">
+            <title>Epitome pontificum Romanorum a s. Petro usque ad Paulum IIII Gestorum (videlicet) election&#xEC;sque singulorum, &amp; conclauium compendiaria narratio. Cardinalium item nomina, dignitatum tituli, insignia legationes, patria et obitus. Onuphrio Panuinio Veronensi f. augustiniano authore. Ex musaeo Iacobi Stradae Mantuani, ciuis Romani, antiquarij.</title>
+            <author>
+              <rs type="person" key="gnd_119421488">Panvinio, Onofrio</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7018159">Venedig</rs>
+            </pubPlace>
+            <publisher>Strada, Giacomo</publisher>
+            <date when="1557">1557</date>
+            <idno type="EDIT16">34274</idno>
+          </bibl>
+          <bibl xml:id="rehlinger43-reference" corresp="rehlinger43">
+            <title>Onuphrii Panuinii Veronensis fratris eremitae Augustiniani Fastorum libri V a Romulo rege vsque ad imp. Caesarem Carolum V Austrium Augustum. Eiusdem in fastorum libros commentarii.</title>
+            <author>
+              <rs type="person" key="gnd_119421488">Panvinio, Onofrio</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7018159">Venedig</rs>
+            </pubPlace>
+            <publisher>Valgrisi, Vincenzo</publisher>
+            <date when="1558">1558</date>
+            <idno type="EDIT16">37871</idno>
+          </bibl>
+          <bibl xml:id="rehlinger44-reference" corresp="rehlinger44">
+            <title>Chronicon ecclesiasticum.</title>
+            <author>
+              <rs type="person" key="gnd_119421488">Panvinio, Onofrio</rs>
+            </author>
+          </bibl>
+          <bibl xml:id="rehlinger45-reference" corresp="rehlinger45">
+            <title>Historia belli Peloponnesiaci.</title>
+            <author>
+              <rs type="person" key="gnd_11862234X">Thukydides</rs>
+            </author>
+          </bibl>
+          <bibl xml:id="rehlinger46-reference" corresp="rehlinger46">
+            <title>Antiquitates Romanae.</title>
+            <author>
+              <rs type="person" key="gnd_118525824">Dionysius, Halicarnassensis</rs>
+            </author>
+          </bibl>
+          <bibl xml:id="rehlinger47-reference" corresp="rehlinger47">
+            <title>CATALOGVS TE/||stium ueritatis, qui ante nostram || aetatem Pontifici Romano, ei&#xFA;sque || erroribus reclamarunt: iam denu&#xF2; long&#xE8; qu&#xE0;m || antea, &amp; emendatior &amp; au/||ctior editus.|| Opus ... || in quo ... || multi utiles libelli ... proferuntur ... || APPENDICI ... inserta est Vera Demon-||stratio, Qu&#xF2;d electio Praesulum et Episcoporum non ad Ecclesiasticos || solum, sed et ad Laicos ... pertineat ... || Cum Praefatione MATHIAE FLACII Illyrici ... || Acce&#xDF;it et Rerum atq; uerborum toto Opere memorabilium || copiosus INDEX.|| ... ||</title>
+            <author>
+              <rs type="person" key="gnd_118533649">Flacius, Matthias</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7012346">Stra&#xDF;burg</rs>
+            </pubPlace>
+            <publisher>Messerschmidt, Paul</publisher>
+            <date when="1562">1562</date>
+            <idno type="VD16">F 1294</idno>
+          </bibl>
+          <bibl xml:id="rehlinger48-reference" corresp="rehlinger48">
+            <title>PRODIGI||ORVM AC || OSTENTORVM || CHRONICON,|| Quae praeter naturae ordinem, motum,|| ET OPERATIONEM, ET IN SVPERIO-||ribus &amp; his inferioribus mundi regionibus, ab exordio mundi usque ad haec || nostra tempora, acciderunt ... || Partim ex probatis fide#&#x301;[que] || dignis authoribus Grecis, atque Latinis: partim etiam ex multorum || annorum propria obseruatione, summa fide, studio, ac se-||dulitate, adiectis etiam rerum omnium ueris ima-||ginibus, conscriptum per || CONRADVM LYCOSTHENEM || RVBEAQVENSEM.||</title>
+            <author>
+              <rs type="person" key="gnd_123403855">Lycosthenes, Konrad</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7007269">Basel</rs>
+            </pubPlace>
+            <publisher>Petri, Heinrich</publisher>
+            <date when="1557">1557</date>
+            <idno type="VD16">W 4314</idno>
+          </bibl>
+          <bibl xml:id="rehlinger49-reference" corresp="rehlinger49">
+            <title>De origine et gestis regum Langobardorum libri VI.</title>
+            <author>
+              <rs type="person" key="gnd_118789961">Paulus Diaconus</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7008038">Paris</rs>
+            </pubPlace>
+            <publisher>Ascensius, Jodocus Badius</publisher>
+            <date when="1514">1514</date>
+          </bibl>
+          <bibl xml:id="rehlinger50-reference" corresp="rehlinger50">
+            <title>IORNAN||DES DE REBVS || GOTHORVM. PAV||LVS DIACONVS || FOROIVLIEN=||SIS DE GESTIS || LANGOBARDO=||RVM || [Hrsg.v.(CHVONRADI PEVTINGER ... || &amp; Ioannis Stabij ... ||)]</title>
+            <author>
+              <rs type="person" key="gnd_118891472">Iordanes, Gotus</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7004324">Augsburg</rs>
+            </pubPlace>
+            <publisher>Miller, Johann</publisher>
+            <date when="1515">1515</date>
+            <idno type="VD16">J 932</idno>
+          </bibl>
+          <bibl xml:id="rehlinger53-reference" corresp="rehlinger53">
+            <title>Vitae excellentium imperatorum.</title>
+            <author>
+              <rs type="person" key="gnd_118747681">Nepos, Cornelius</rs>
+            </author>
+          </bibl>
+          <bibl xml:id="rehlinger54-reference" corresp="rehlinger54">
+            <title>Dictionarium historicum ac poeticum.</title>
+            <author>
+              <rs type="person" key="gnd_121000109">Estienne, Charles</rs>
+            </author>
+          </bibl>
+          <bibl xml:id="rehlinger55-reference" corresp="rehlinger55">
+            <title>Gothorum Sueonumque historia.</title>
+            <author>
+              <rs type="person" key="gnd_119082209">Magnus, Johannes</rs>
+            </author>
+          </bibl>
+          <bibl xml:id="rehlinger56-reference" corresp="rehlinger56">
+            <title>Factorum et dictorum memorabilium libri novem.</title>
+            <author>
+              <rs type="person" key="gnd_118625969">Valerius Maximus</rs>
+            </author>
+          </bibl>
+          <bibl xml:id="rehlinger57-reference" corresp="rehlinger57">
+            <title>C. IVLII || CAESARIS || COM=||mentaria.|| ET || Index eorum quae in his tractantur.||(per Raim&#x169;||dum Marlianum ... ||)</title>
+            <author>
+              <rs type="person" key="gnd_118518275">Caesar, Gaius Iulius</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7007269">Basel</rs>
+            </pubPlace>
+            <publisher>Herwagen, Johannes</publisher>
+            <date when="1535">1535</date>
+            <idno type="VD16">C 34</idno>
+          </bibl>
+          <bibl xml:id="rehlinger58-reference" corresp="rehlinger58">
+            <title>Berosi sacerdotis Chaldaici, antiqvitatvm libri qvinqve, cum commentariis Ioannis Annii Viterbensis same theologice professoris.</title>
+            <author>
+              <rs type="person" key="gnd_119062380">Nanni, Giovanni</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7007856">Antwerpen</rs>
+            </pubPlace>
+            <publisher>Steels, Johannes</publisher>
+          </bibl>
+          <bibl xml:id="rehlinger59-reference" corresp="rehlinger59">
+            <title>Historiarum sui temporis.</title>
+            <author>
+              <rs type="person" key="gnd_118958682">Giovio, Paolo</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7007269">Basel</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="rehlinger60-reference" corresp="rehlinger60">
+            <title>Historiarum sui temporis.</title>
+            <author>
+              <rs type="person" key="gnd_118958682">Giovio, Paolo</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7007269">Basel</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="rehlinger61-reference" corresp="rehlinger61">
+            <title>Elogia virorum bellica.</title>
+            <author>
+              <rs type="person" key="gnd_118958682">Giovio, Paolo</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7007269">Basel</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="rehlinger62-reference" corresp="rehlinger62">
+            <title>Elogia virorum bellica.</title>
+            <author>
+              <rs type="person" key="gnd_118958682">Giovio, Paolo</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7007269">Basel</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="rehlinger63-reference" corresp="rehlinger63">
+            <title>PAVLI IO-||VII NOVOCOMEN-||SIS EPISCOPI NVCERI-||NI ELOGIA virorum bellica vir-||tute illustrium veris imaginibus sup-||posita, quae apud Musaeum spe-||ctantur, in libros septem || digesta.|| Doctorum item uirorum ingenij monumentis illu-||strium ab Auorum memoria publicatis, altero || tomo comprehensa.||</title>
+            <author>
+              <rs type="person" key="gnd_118958682">Giovio, Paolo</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7007269">Basel</rs>
+            </pubPlace>
+            <publisher>Perna, Peter</publisher>
+            <date when="1561">1561</date>
+            <idno type="VD16">G 2064</idno>
+          </bibl>
+          <bibl xml:id="rehlinger64-reference" corresp="rehlinger64">
+            <title>Elogia doctorum virorum ...</title>
+            <author>
+              <rs type="person" key="gnd_118958682">Giovio, Paolo</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7007269">Basel</rs>
+            </pubPlace>
+            <publisher>Perna, Peter</publisher>
+            <date when="1561">1561</date>
+            <idno type="VD16">G 2059</idno>
+          </bibl>
+          <bibl xml:id="rehlinger65-reference" corresp="rehlinger65">
+            <title>SAXONIA || ET || METROPOLIS || ALBERTI CRANTZII || HISTORICI DOCTISS. SACRAE || Theologiae &amp; Iuris Canonici Doctoris || celeberrimi, ac Ecclesiae Ham-||burgensis quond&#xE0;m || Decani.|| QVIBVS RES SAXONVM || ET ADIACENTIVM REGIONVM, AC || totius fer&#xE8; Germaniae, in vtroque statu, tam || Ecclesiastico qu&#xE0;m Politico ... || expli-||cantur.|| Cum gemino rerum memorabilium co-||piosissimo INDICE.||</title>
+            <author>
+              <rs type="person" key="gnd_118777939">Krantz, Albert</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7004446">K&#xF6;ln</rs>
+            </pubPlace>
+            <publisher>Quentel, Johann &lt;Erben&gt;</publisher>
+            <date when="1574">1574</date>
+            <idno type="VD16">K 2258</idno>
+          </bibl>
+          <bibl xml:id="rehlinger66-reference" corresp="rehlinger66">
+            <title>Metropolis [EST: Ecclesiastica historia sive metropolis].</title>
+            <author>
+              <rs type="person" key="gnd_118777939">Krantz, Albert</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7004446">K&#xF6;ln</rs>
+            </pubPlace>
+            <publisher>Quentel, Johann &lt;Erben&gt;</publisher>
+            <date when="1574">1574</date>
+            <idno type="VD16">K 2250</idno>
+          </bibl>
+          <bibl xml:id="rehlinger67-reference" corresp="rehlinger67">
+            <title>PAVSANIAE || DE FLOREN-||TISS. VETERIS GRAE-||CIAE REGIONIBVS COM-||MENTARII || A ROMVLO AMASAEO,|| uiro utriusq: linguae periti&#xDF;. Summa || fide ac diligentia, conuersi.|| Cum indice &amp; rerum &amp; verborum || locupletissimo.||</title>
+            <author>
+              <rs type="person" key="gnd_118592246">Pausanias, Periegeta</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7007269">Basel</rs>
+            </pubPlace>
+            <publisher>Isengrin, Michael</publisher>
+            <date when="1557">1557</date>
+            <idno type="VD16">P 1076</idno>
+          </bibl>
+          <bibl xml:id="rehlinger68-reference" corresp="rehlinger68">
+            <title>HISTORIAE MISCELLAE || A || PAVLO AQVI||LEGIENSI DIACONO || PRIMVM COLLECTAE, POST || etiam &#xE0; Landulpho Sagaci auctae pro-||ductae#&#x301;[que] ad Imperium Leonis || IIII. id est, annum Christi || DCCCVI.|| Libri XXIIII.|| In quibus praeter Eutropij, Flori ... || et aliorum historias, totam pen&#xE8; Ana||stasij Bibliothecarij Rom.Ecclesiasticam ... || contineri ... || polliceri possumus ... || adiecta Nicephori CP.episcopi Chronolo-||gia, et Indice copioso.||</title>
+            <author>Landulfus Sagax</author>
+            <pubPlace>
+              <rs type="place" key="getty_7007269">Basel</rs>
+            </pubPlace>
+            <publisher>Perna, Peter</publisher>
+            <date when="1569">1569</date>
+            <idno type="VD16">L 243</idno>
+          </bibl>
+          <bibl xml:id="rehlinger69-reference" corresp="rehlinger69">
+            <title>Epitome historiarum Philippicarum Pompei Trogi.</title>
+            <author>
+              <rs type="person" key="gnd_11871435X">Iustinus, Marcus Iunianus</rs>
+            </author>
+          </bibl>
+          <bibl xml:id="rehlinger70-reference" corresp="rehlinger70">
+            <title>Epitome de Tito Livio.</title>
+            <author>
+              <rs type="person" key="gnd_118691910">Florus, Lucius Annaeus</rs>
+            </author>
+          </bibl>
+          <bibl xml:id="rehlinger71-reference" corresp="rehlinger71">
+            <title>Historiae adversus paganos.</title>
+            <author>
+              <rs type="person" key="gnd_118590251">Orosius, Paulus</rs>
+            </author>
+          </bibl>
+          <bibl xml:id="rehlinger72-reference" corresp="rehlinger72">
+            <title>IOSIPPVS || DE BELLO IV/||DAICO.|| Deinde decem Iudaeorum capti/||uitates &amp; Decalogus cum ele-||ganti commentariolo Rab/||bi Aben Esra.||(Sebastiano Munstere || interprete.||) Hisce accesserunt Collectanea aliquot,|| quae Sebastianus Lepusculus Basi/|| liensis colligebat ... || Omnia Hebraicolatina.||</title>
+            <author>
+              <rs type="person" key="gnd_119723980">Joseph ben G&#x14D;ri&#x14D;n</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7007269">Basel</rs>
+            </pubPlace>
+            <publisher>Petri, Heinrich</publisher>
+            <date when="1559">1559</date>
+            <idno type="VD16">ZV 8754</idno>
+          </bibl>
+          <bibl xml:id="rehlinger73-reference" corresp="rehlinger73">
+            <title>De haeresibus.</title>
+            <author>
+              <rs type="person" key="gnd_100233309">Filastrius Brixiensis</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7007269">Basel</rs>
+            </pubPlace>
+            <publisher>Petri, Heinrich</publisher>
+          </bibl>
+        </listBibl>
+      </div>
+    </body>
+  </text>
+</TEI>

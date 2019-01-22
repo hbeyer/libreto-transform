@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="robots" content="nofollow" />
+  <title>MK-B | Start</title>
+  <meta name="description" content="Münzkabinett, Staatliche Museen zu Berlin - Stiftung Preußischer Kulturbesitz" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="MK-B | Start" />
+  <meta property="og:description" content="Münzkabinett der Staatlichen Museen zu Berlin" />
+  <meta property="og:url" content="https://ikmk.smb.museum/home" />
+  <meta property="og:image" content="https://ikmk.smb.museum/special/favicons/android-chrome-256x256.png" />
+  
+  <meta name="twitter:card" content="summary" /> 
+  <meta name="twitter:title" content="MK-B | Start" /> 
+  <meta name="twitter:description" content="Münzkabinett der Staatlichen Museen zu Berlin" /> 
+  <meta name="twitter:image" content="https://ikmk.smb.museum/special/favicons/android-chrome-256x256.png" />
+
+  <link rel="shortcut icon" href="https://ikmk.smb.museum/special/favicons/favicon.ico" type="image/x-icon" />
+  <link rel="apple-touch-icon" sizes="180x180" href="https://ikmk.smb.museum/special/favicons/apple-touch-icon.png" />
+  <link rel="icon" type="image/png" href="https://ikmk.smb.museum/special/favicons/favicon-32x32.png" sizes="32x32" />
+  <link rel="icon" type="image/png" href="https://ikmk.smb.museum/special/favicons/favicon-16x16.png" sizes="16x16" />
+  <link rel="manifest" href="https://ikmk.smb.museum/special/favicons/manifest.json" />
+  <link rel="mask-icon" href="https://ikmk.smb.museum/special/favicons/safari-pinned-tab.svg" color="#5bbad5" />
+  <meta name="theme-color" content="#ffffff" />
+  <link href="https://ikmk.smb.museum/assets/css/main.min.css?1502031675" rel="stylesheet" />
+  <link href="https://ikmk.smb.museum/layout/extended.css?1544461047" rel="stylesheet" />
+  <link href="https://ikmk.smb.museum/special/local.css?1542821856" rel="stylesheet" />
+  
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<nav id="nav-mobile" class="navbar navbar-default navbar-fixed-top">
+  <div class="navbar-header">
+    <button aria-controls="navbar-mobile" aria-expanded="false" data-target="#navbar-mobile" data-toggle="collapse" class="navbar-toggle collapsed" type="button">
+      <span class="icon-bar icon-bar-top"></span>
+      <span class="icon-bar icon-bar-middle"></span>
+      <span class="icon-bar icon-bar-bottom"></span>
+    </button>
+    <div class="navbar-brand">
+      <a href="https://ikmk.smb.museum/home" title="Home"><img alt="Logo" src="https://ikmk.smb.museum/special/logos/logo.png"></a>
+      <a href="https://ikmk.smb.museum/home" title="Start"><span class="wordmark">Interaktiver Katalog<br>des Münzkabinetts</span></a>
+    </div>
+  </div>
+  <div id="navbar-mobile" class="navbar-collapse collapse">
+<ul class="nav navbar-nav"><li><a href="home?lang=de" title="Start">Start</a></li><li><a href="quick_search?lang=de" title="Schnellsuche">Schnellsuche</a></li><li><a href="tag_search?lang=de" title="Schlagwortsuche">Schlagwortsuche</a></li><li><a href="reference_search?lang=de" title="Referenzsuche">Referenzsuche</a></li><li><a href="department_search?lang=de" title="Abteilungen">Abteilungen</a></li><li><a href="holding_search?lang=de" title="Bestände">Bestände</a></li><li><a href="map_search?lang=de" title="Karte">Karte</a></li><li><ul class="nav-footer"><li><a href="news?lang=de" title="Nachrichten">Nachrichten</a></li><li><a href="contact?lang=de" title="Kontakt">Kontakt</a></li><li><a href="about?lang=de" title="Über uns">Über uns</a></li><li><ul class="nav-languages"><li class="active"><a href="https://ikmk.smb.museum/home?lang=de" title="Deutsch">DE</a></li><li><a href="https://ikmk.smb.museum/home?lang=en" title="English">EN</a></li></ul></li></ul></li></ul>
+  </div>
+</nav><nav id="nav-desktop" class="navbar navbar-default navbar-fixed-top">
+  <div class="container-fluid">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+<ul class="nav navbar-nav navbar-right"><li><a href="sponsorship?lang=de" title="Patenschaft">Patenschaft</a></li><li><a href="news?lang=de" title="Nachrichten">Nachrichten</a></li><li><a href="contact?lang=de" title="Kontakt">Kontakt</a></li><li><a href="about?lang=de" title="Über uns">Über uns</a></li><li><ul class="nav-languages"><li class="active"><a href="https://ikmk.smb.museum/home?lang=de" title="Deutsch">DE</a></li><li><a href="https://ikmk.smb.museum/home?lang=en" title="English">EN</a></li></ul></li></ul>
+        </div>
+      </div>
+      <div class="navbar-brand-desktop row">
+        <div class="col-sm-5">
+          <a href="https://ikmk.smb.museum/home" title="Home"><img alt="Logo" class="img-responsive" src="https://ikmk.smb.museum/special/logos/logo.png"></a>
+          <a href="https://ikmk.smb.museum/home" title="Start"><span class="wordmark">Interaktiver Katalog des Münzkabinetts</span></a>
+        </div>
+        <div class="col-sm-7">
+          <a href="https://ikmk.smb.museum/home" title="Start"><span class="wordmark">Interaktiver Katalog des Münzkabinetts</span></a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="container-fluid">
+    <div class="container">
+<ul class="nav navbar-nav"><li class="active"><a href="home?lang=de" title="Start">Start</a></li><li class="dropdown"><a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">Suche</a><ul class="dropdown-menu"><li><a href="quick_search?lang=de" title="Schnellsuche" class="quick_search">Schnellsuche</a></li><li><a href="extended_search?lang=de" title="Erweiterte Suche" class="extended_search">Erweiterte Suche</a></li><li><a href="tag_search?lang=de" title="Schlagwortsuche" class="tag_search">Schlagwortsuche</a></li><li><a href="reference_search?lang=de" title="Referenzsuche" class="reference_search">Referenzsuche</a></li><li><a href="department_search?lang=de" title="Abteilungen" class="department_search">Abteilungen</a></li><li><a href="holding_search?lang=de" title="Bestände" class="holding_search">Bestände</a></li></ul></li><li><a href="map_search?lang=de" title="Karte">Karte</a></li></ul>
+    </div>
+    
+  </div>
+</nav>
+   
+<header class="start-header">
+  <div class="container">
+    <div class="header-content header-content-outer">
+      <div class="header-content-inner">
+        <h1>Erkunden Sie eine der größten numismatischen Sammlungen der Welt</h1>
+        <form action="quick_search?lang=de" method="post" id='quick_search'>
+          <div class="input-group">
+            <input type="text" class="form-control keyboard" name="quick_search_value" placeholder="z. B. Gold Antike Architektur" value="" id="keyboard">
+            <span class="input-group-btn"><button class="btn btn-default" type="submit"><i aria-hidden="true" class="fa fa-search"></i></button></span>
+          </div>
+          <input type="hidden" name="search_type" value="quick_search">
+        </form>
+        <a href="extended_search?lang=de" title="Erweiterte Suche">Erweiterte Suche</a>
+      </div>
+    </div>
+  </div>
+  <img title="Ansicht des Großen Tresors" class="start-header-image" src="https://ikmk.smb.museum/special/start-header.png">
+</header>
+
+<main class='container start-sections'>
+<div class='row'>
+<a class='col-sm-4 start-section-item' href='tag_search?lang=de' title='Schlagwortsuche'>
+<section class='background-green' style='background-image:url(https://ikmk.smb.museum/assets/img/placeholders/364x335_matrix.png)'>
+<div class='section-title'>
+<h2>Schlagwortsuche</h2>
+</div>
+</section>
+</a>
+<a class='col-sm-4 start-section-item' href='map_search?lang=de' title='Karte'>
+<section class='background-blue' style='background-image:url(https://ikmk.smb.museum/assets/img/placeholders/364x335_map.png)'>
+<div class='section-title'>
+<h2>Münzstätten und Fundorte</h2>
+</div>
+</section>
+</a>
+<div class='col-sm-4 start-section-item'>
+<section class='section-carousel'>
+<div class='section-title'>
+<h2>Nachrichten</h2>
+</div>
+<div id='section-carousel' class='carousel slide' data-ride='carousel'>
+<div class='carousel-inner' role='listbox'>
+<div class='item active'>
+<a class='carousel-caption' href='news?lang=de&news_id=1162' title='Nachrichten'>
+<p>Peter Robert Franke  (1926-2018)</p>
+<p><time datetime='2019-01-08'>8. Januar 2019</time></p>
+</a>
+</div>
+<div class='item'>
+<a class='carousel-caption' href='news?lang=de&news_id=1149' title='Nachrichten'>
+<p>Der Interaktive Katalog des Münzkabinetts (IKMK) erreicht die 34.000</p>
+<p><time datetime='2018-12-16'>16. Dezember 2018</time></p>
+</a>
+</div>
+<div class='item'>
+<a class='carousel-caption' href='news?lang=de&news_id=1135' title='Nachrichten'>
+<p>Der Interaktive Katalog des Münzkabinetts IKMK</p>
+<p><time datetime='2018-10-25'>25. Oktober 2018</time></p>
+</a>
+</div>
+<div class='item'>
+<a class='carousel-caption' href='news?lang=de&news_id=1113' title='Nachrichten'>
+<p>Vernetzung bedeutet Normierung - Normierung bedeutet Fähigkeit zum Datenaustausch</p>
+<p><time datetime='2018-07-30'>30. Juli 2018</time></p>
+</a>
+</div>
+<div class='item'>
+<a class='carousel-caption' href='news?lang=de&news_id=1103' title='Nachrichten'>
+<p>Ausstellung 'MUSE MACHT MONETEN' in Speyer</p>
+<p><time datetime='2018-06-21'>21. Juni 2018</time></p>
+</a>
+</div>
+<div class='item'>
+<a class='carousel-caption' href='news?lang=de&news_id=1102' title='Nachrichten'>
+<p>Jahresbericht des Münzkabinetts der Staatlichen Museen zu Berlin für 2017</p>
+<p><time datetime='2018-05-19'>19. Mai 2018</time></p>
+</a>
+</div>
+</div>
+<div class='btn-group' role='group'>
+<a class='btn btn-default' data-slide='prev' href='home?lang=de#section-carousel' role='button' title='Zurück'>
+<i aria-hidden='true' class='fa fa-chevron-left'></i>
+<span class='sr-only'>Zurück</span>
+</a>
+<a class='btn btn-default' data-slide='next' href='home?lang=de#section-carousel' role='button' title='Weiter'>
+<i aria-hidden='true' class='fa fa-chevron-right'></i>
+<span class='sr-only'>Vor</span>
+</a>
+</div>
+</div>
+</section>
+</div>
+</div>
+<div class='row'>
+<div class='col-sm-8 start-section-item'>
+<section class='section-modal section-modal-video' style='background-image:url(https://ikmk.smb.museum/special/video.png)'>
+  <div class='section-title'><h2>Erhalten Sie einen Einblick in das Münzkabinett der Staatlichen Museen in einem kurzen Video.</h2></div>
+  <a class='btn' href='#' data-toggle='modal' data-target='#modal-video'><i aria-hidden='true' class='fa fa-youtube-play'></i></a>
+  <div aria-labelledby='modal-video' class='modal fade' id='modal-video' role='dialog' tabindex='-1'>
+    <div class='modal-dialog modal-lg' role='document'>
+      <div class='modal-header'><a data-dismiss='modal' href='#'><i aria-hidden='true' class='fa fa-times'></i></a></div>
+      <div class='modal-content'>
+        <div class='embed-responsive embed-responsive-16by9'>
+          <iframe src='https://www.youtube-nocookie.com/embed/cDunojy_y1A?rel=0&enablejsapi=1' width='640' height='360' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+</div>
+<a class='col-sm-4 start-section-item' href='https://ikmk.smb.museum/rundgang/index.php?lang=de' title='Rundgang' target='_blank'>
+<section class='background-blue' style='background-image:url(https://ikmk.smb.museum/special/eMuseum.png)'>
+<div class='section-title'>
+<h2>Rundgang</h2>
+<p>Schauen Sie sich die Ausstellung des Münzkabinettes bis ins letzte Detail an und erfahren Sie weiteres Hintergrundwissen zu den Exponaten.</p>
+</div>
+</section>
+</a>
+</div>
+</main>    
+
+<aside class="container"><div class='container center'>
+<div class='col-sm-5'>
+<h3>Münzpatenschaft</h3><p><p>Mit einer M&uuml;nzpatenschaft beteiligen Sie sich an der Dokumentation einer M&uuml;nze, Medaille oder eines sonstigen Objekts des M&uuml;nzkabinetts im interaktiven M&uuml;nzkatalog.</p></p><a class="btn btn-default btn-pop" href="sponsorship?lang=de" title="Erfahren Sie mehr">Erfahren Sie mehr</a></div>
+</div>
+</aside>
+
+<footer>
+    <div class="container-fluid">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-4">
+                    <p><b>Interaktiver Katalog des Münzkabinetts</b></p>
+<ul class="list-unstyled"><li><a href="imprint" title="Impressum">Impressum</a></li><li><a href="security" title="Datenschutzerklärung">Datenschutzerklärung</a></li></ul>
+                </div>
+<div class="col-sm-4"><p><b>Wir bedanken uns für die Unterstützung bei</b></p><ul class="list-unstyled"><li><a href="http://www.dfg.de" target="_blank" title="dfg.de"><img alt="Logo DFG" class="img-responsive" src="https://ikmk.smb.museum/special/logos/logo_dfg.png"></a></li>
+<li><a href="https://www.bmbf.de" target="_blank" title="bmbf.de"><img alt="Logo BMBF" class="img-responsive" src="https://ikmk.smb.museum/special/logos/logo_bmbf.png"></a></li></ul></div>
+<div class='col-sm-4'>
+<p><b>Diese Seite teilen</b></p>
+<ul class='list-inline'>
+<li><a href='https://www.facebook.com/sharer/sharer.php?u=https%3A//ikmk.smb.museum/home' target='_blank' title='Auf Facebook teilen'><i aria-hidden='true' class='fa fa-lg fa-facebook'></i></a></li>
+<li><a href='https://twitter.com/intent/tweet?url=https%3A%2F%2Fikmk.smb.museum%2Fhome' target='_blank' title='Auf Twitter teilen'><i aria-hidden='true' class='fa fa-lg fa-twitter'></i></a></li>
+<li><a href='https://pinterest.com/pin/create/button/?url=https%3A//ikmk.smb.museum/home&media=https%3A//ikmk.smb.museum/special/favicons/android-chrome-256x256.png&description=MK-B%20%7C%20Start' target='_blank' title='Auf Pinterest teilen'><i aria-hidden='true' class='fa fa-lg fa-pinterest'></i></a></li>
+<li><a href='https://plus.google.com/share?url=https%3A%2F%2Fikmk.smb.museum%2Fhome' target='_blank' title='Auf Google+ teilen'><i aria-hidden='true' class='fa fa-lg fa-google-plus'></i></a></li>
+<li><a href='mailto:?subject=Interaktiver Katalog des Münzkabinetts&body=https%3A%2F%2Fikmk.smb.museum%2Fhome' title='Per E-Mail teilen'><i aria-hidden='true' class='fa fa-lg fa-envelope'></i></a></li>
+</ul>
+</div>
+
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid">
+        <div class="container">
+            <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/de" target="_blank" title="creativecommons.org">
+                <i aria-hidden="true" class="fa fa-3x fa-creative-commons"></i>
+                Creative Commons<br>BY-NC-SA 3.0 DE
+            </a>
+        </div>
+    </div>
+</footer>
+<!-- Matomo -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//web01.smb.spk-berlin.de/piwik/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', '25']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="//web01.smb.spk-berlin.de/piwik/piwik.php?idsite=25&rec=1" style="border:0;" alt="" /></p></noscript>
+<!-- End Matomo Code -->
+
+<div id="loadingImage"><img src="layout/loading.gif"></div>
+<script src="https://ikmk.smb.museum/assets/js/vendor/jquery.min.js"></script>
+<script src="https://ikmk.smb.museum/assets/js/vendor/plugins.min.js"></script>
+<script src="https://ikmk.smb.museum/assets/js/onload.js"></script>
+
+<script src='https://ikmk.smb.museum/layout/jquery-ui.min.js'></script>
+<script src='https://ikmk.smb.museum/layout/jquery.keyboard.js'></script>
+<link href="https://ikmk.smb.museum/layout/keyboard.css" rel="stylesheet">
+
+<script src="https://ikmk.smb.museum/js/functions.js"></script>
+
+<script type='text/javascript'>
+  // Session
+  seconds_to_reload = 1 * 60 * 1000; // 1 minuten
+  //seconds_to_reload = 5 * 1000; // 5 sekunden 
+  
+  $(document).ready(function() {
+    break_session_timer = setTimeout('breakIt()', seconds_to_reload);
+  });      
+
+  function breakIt() {
+    ajCallSession(true, 'html', '', 'session.php', function() {
+      clearTimeout(break_session_timer);
+      break_session_timer = setTimeout('breakIt()', seconds_to_reload);
+    });
+  }
+  
+  function ajCallSession(async, datatype, data, filename, callback_function) {   
+    $.ajax({
+      type: 'POST',
+      async: async,
+      dataType: datatype,
+      url: filename,
+      data: data,
+      success: function(data){
+         callback_function(data);
+      }
+    });     
+  }
+</script>
+</body>
+</html>

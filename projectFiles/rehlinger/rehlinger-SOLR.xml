@@ -1,0 +1,2026 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">rehlinger0</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">1</field>
+    <field name="volumes">1</field>
+    <field name="titleCat">Tomus Theatri Zuingeri.</field>
+    <field name="titleBib">THEATRVM || VITAE HVMA=||NAE A ̀THEODORO ZVINGERO || BASILIENSE || post primam CONR.LYCOSTHENIS || Rubeaquensis manum || plus myriade EXEMPLORVM auctum,|| methodicè digestum, accuratè || recognitum.|| Acceßit ELENCHVS TRIPLEX,|| Methodi scilicet, Titulorum, et || Exemplorum.||</field>
+    <field name="author">Zwinger, Theodor#118773313</field>
+    <field name="place_1">Basel</field>
+    <field name="getty_place_1">7007269</field>
+    <field name="coordinates_place_1">47.55,7.6</field>
+    <field name="publisher">Froben, Ambrosius</field>
+    <field name="year">1571</field>
+    <field name="format">2°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">VD16</field>
+    <field name="idManifestation">Z 755</field>
+    <field name="bound">1</field>
+    <field name="comment">Wahrscheinlich handelt es sich um die hier in drei Bänden vorliegende zweite Ausgabe VD 16 Z 755 (Basel: Hieronymus Froben, 1571).</field>
+    <field name="linkManifestation">http://gateway-bayern.de/VD16+Z 755</field>
+    <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)</field>
+    <field name="languagesFull">Latein</field>
+    <field name="yearNormalized">1571</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger1</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">2</field>
+    <field name="volumes">1</field>
+    <field name="titleCat">Tomus Theatri Zuingeri.</field>
+    <field name="titleBib">THEATRVM || VITAE HVMA=||NAE A ̀THEODORO ZVINGERO || BASILIENSE || post primam CONR.LYCOSTHENIS || Rubeaquensis manum || plus myriade EXEMPLORVM auctum,|| methodicè digestum, accuratè || recognitum.|| Acceßit ELENCHVS TRIPLEX,|| Methodi scilicet, Titulorum, et || Exemplorum.||</field>
+    <field name="author">Zwinger, Theodor#118773313</field>
+    <field name="place_1">Basel</field>
+    <field name="getty_place_1">7007269</field>
+    <field name="coordinates_place_1">47.55,7.6</field>
+    <field name="publisher">Froben, Ambrosius</field>
+    <field name="year">1571</field>
+    <field name="format">2°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">VD16</field>
+    <field name="idManifestation">Z 755</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">http://gateway-bayern.de/VD16+Z 755</field>
+    <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)</field>
+    <field name="languagesFull">Latein</field>
+    <field name="yearNormalized">1571</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger2</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">3</field>
+    <field name="volumes">1</field>
+    <field name="titleCat">Tomus Theatri Zuingeri.</field>
+    <field name="titleBib">THEATRVM || VITAE HVMA=||NAE A ̀THEODORO ZVINGERO || BASILIENSE || post primam CONR.LYCOSTHENIS || Rubeaquensis manum || plus myriade EXEMPLORVM auctum,|| methodicè digestum, accuratè || recognitum.|| Acceßit ELENCHVS TRIPLEX,|| Methodi scilicet, Titulorum, et || Exemplorum.||</field>
+    <field name="author">Zwinger, Theodor#118773313</field>
+    <field name="place_1">Basel</field>
+    <field name="getty_place_1">7007269</field>
+    <field name="coordinates_place_1">47.55,7.6</field>
+    <field name="publisher">Froben, Ambrosius</field>
+    <field name="year">1571</field>
+    <field name="format">2°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">VD16</field>
+    <field name="idManifestation">Z 755</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">http://gateway-bayern.de/VD16+Z 755</field>
+    <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)</field>
+    <field name="languagesFull">Latein</field>
+    <field name="yearNormalized">1571</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger3</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">4</field>
+    <field name="volumes">1</field>
+    <field name="titleCat">Iohannes [!] Bonfinius de rebus Vngaricis.</field>
+    <field name="titleBib">Rerum Ungaricaum decades tres.</field>
+    <field name="author">Bonfini, Antonio#104106123</field>
+    <field name="place_1">Basel</field>
+    <field name="getty_place_1">7007269</field>
+    <field name="coordinates_place_1">47.55,7.6</field>
+    <field name="format">2°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">Ausgabe nicht bestimmbar</field>
+    <field name="bound">1</field>
+    <field name="comment">In Frage kommen die Editio princeps VD 16 B 6592 (Basel: Robert Winter, 1543) sowie VD 16 B 6593 mit der Variante B 6594 (Basel: Bartholomaeus Franck, Paul Queck, Johannes Oporinus Nachf. und Sigmund Feyerabend, 1568).</field>
+    <field name="languagesFull">Latein</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger4</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">5</field>
+    <field name="volumes">1</field>
+    <field name="titleCat">VVolfgangus Lazius de migrationibus gentium.</field>
+    <field name="titleBib">De gentium aliquot migrationibus.</field>
+    <field name="author">Lazius, Wolfgang#118726870</field>
+    <field name="place_1">Basel</field>
+    <field name="getty_place_1">7007269</field>
+    <field name="coordinates_place_1">47.55,7.6</field>
+    <field name="format">2°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">Ausgabe nicht bestimmbar</field>
+    <field name="bound">1</field>
+    <field name="comment">In Frage kommen die Edito princeps VD 16 L 849 (Basel: Johann Oporinus, 1557) und VD 16 L 850 (Basel: Johannes Oporinus Nachf., 1572).</field>
+    <field name="languagesFull">Latein</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger5</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">6</field>
+    <field name="volumes">1</field>
+    <field name="titleCat">Chronologia Mercatoris.</field>
+    <field name="titleBib">CHRONOLOGIA.|| HOC EST,|| TEMPORVM DE=||MONSTRATIO EXACTISSIMA, AB || INITIO MVNDI, VSQVE AD ANNVM DOMI-||NI M.D.LXVIII. EX ECLIPSIBVS ET OBSERVATIONIBVS ASTRONOMI=||cis omnium temporum, sacris quoq; Biblijs, et optimis quibusq; Scri=||ptoribus summa fide concinnata.|| AVCTORE || GERARDO MERCATORE,|| Illustriss.Ducis Iuliae, Cliuiae, Bergis, &amp;amp;c.|| Cosmographo.||</field>
+    <field name="author">Kremer, Gerhard, der Ältere#119734273</field>
+    <field name="place_1">Köln</field>
+    <field name="getty_place_1">7004446</field>
+    <field name="coordinates_place_1">50.9333,6.95</field>
+    <field name="publisher">Birckmann, Arnold &amp;lt;Erben&amp;gt;</field>
+    <field name="year">1569</field>
+    <field name="format">2°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">VD16</field>
+    <field name="idManifestation">K 2335</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">http://gateway-bayern.de/VD16+K 2335</field>
+    <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)</field>
+    <field name="languagesFull">Latein</field>
+    <field name="yearNormalized">1569</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger6</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">7</field>
+    <field name="volumes">1</field>
+    <field name="titleCat">Nicephori Ecclesiastica Historia, &amp;amp; tripartita historia.</field>
+    <field name="titleBib">Ecclesiasticae historiae libri decem et octo historia … Adiecimus quoque ad Nicephorum, Magni Aurelij Cassiodori tripartitam, quam vocant, historiam.</field>
+    <field name="author">Nicephorus Callistus, Xanthopulus#10095443X</field>
+    <field name="place_1">Paris</field>
+    <field name="getty_place_1">7008038</field>
+    <field name="coordinates_place_1">48.8667,2.3333</field>
+    <field name="format">2°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">Ausgabe nicht bestimmbar</field>
+    <field name="bound">1</field>
+    <field name="comment">In Frage kommen Pettegree /Walsby, French Books, 80658 (Paris: Guillaume Cavellat, 1562), 80659 (Paris: Gilles Gourbin, 1562) oder 80679 (Paris: Michael Sonnius, 1574).</field>
+    <field name="languagesFull">Latein</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger7</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">8</field>
+    <field name="itemInVolume">1</field>
+    <field name="volumes">1</field>
+    <field name="misc">br:rehlinger/miscellany_0</field>
+    <field name="positionMisc">1</field>
+    <field name="titleCat">Herodotus,</field>
+    <field name="titleBib">Historiae.</field>
+    <field name="author">Herodotus#118549855</field>
+    <field name="format">2°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">Ausgabe nicht bestimmbar</field>
+    <field name="bound">1</field>
+    <field name="languagesFull">Latein</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger8</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">8</field>
+    <field name="itemInVolume">2</field>
+    <field name="volumes">1</field>
+    <field name="misc">br:rehlinger/miscellany_0</field>
+    <field name="positionMisc">2</field>
+    <field name="titleCat">&amp;amp; uitae Plutarchi.</field>
+    <field name="titleBib">Vitae parallelae.</field>
+    <field name="author">Plutarchus#118595237</field>
+    <field name="format">2°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">Ausgabe nicht bestimmbar</field>
+    <field name="bound">1</field>
+    <field name="languagesFull">Latein</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger9</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">9</field>
+    <field name="volumes">1</field>
+    <field name="titleCat">Historiæ Bizant[inae] scrip[tores] { Iohan[nes] Zonoras [ ! ]. Nicetas Choniates. Nicephorus Gregoras. Laonicus Chalcocondyles.</field>
+    <field name="titleBib">Corpus historiae Byzantinae.</field>
+    <field name="author">Zonaras, Johannes#118773151</field>
+    <field name="author">Laonicus, Chalcocondyles#118675478</field>
+    <field name="author">Nicephorus, Gregoras#118697463</field>
+    <field name="author">Nicetas, Choniates#118675982</field>
+    <field name="format">2°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">Ausgabe nicht bestimmbar</field>
+    <field name="bound">1</field>
+    <field name="comment">Es ist aufgrund der Titelaufnahme wenig wahrscheinlich, dass es sich um einen Sammelband mit den griechisch-lateinischen Erstausgaben VD 16 J 811 (Basel: Johannes Oporinus, 1557), VD 16 N 1449 (Basel: Johannes Oporinus, 1557), VD 16 G 3005 mit enth. VD 16 C 2006 (Basel: Johannes Oporinus, 1562) gehandelt hat, der über 1600 Seiten umfasst hätte. Ausf. zu den Basler Erstausgaben, den griech. Handschriften und Wolfs Editionstätigkeit Griechischer Geist aus Basler Pressen (GG) 270 (Zonaras und Choniates) und GG 271 (Gregoras und Chalcocondyles). In Frage kommen vielmehr die drei lat. Nachdrucke Pettegree / Walsby, French Books, 63393 (Paris: Gulielmus Chaudiere, 1567) sowie VD 16 ZV 3895 (Frankfurt / Main: Peter Schmidt und Sigmund Feyerabend, 1568) und VD 16 ZV 20485 (Frankfurt / Main: Peter Schmidt und Sigmund Feyerabend, 1568–74). Enthalten sind hier die lat. Ausgaben der Weltchronik des Johannes Zonaras, die byzantinische Geschichte der Jahre 1117–1203 von Nicetas Choniates, die rhomäische Geschichte der Jahre 1204–1359 von Nicephorus Gregoras sowie die Türkengeschichte des Laonicus Chalcocondyles, hrsg. und übersetzt von Hieronymus Wolf.</field>
+    <field name="languagesFull">Latein</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger10</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">10</field>
+    <field name="volumes">1</field>
+    <field name="titleCat">Xenophon Graecolatinus.</field>
+    <field name="titleBib">Opera.</field>
+    <field name="author">Xenophon#118635808</field>
+    <field name="format">2°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="languages">grc</field>
+    <field name="systemManifestation">Ausgabe nicht bestimmbar</field>
+    <field name="bound">1</field>
+    <field name="comment">Griechisch-lateinische Parallelausgabe.</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger11</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">11</field>
+    <field name="volumes">1</field>
+    <field name="titleCat">Iohannes Auentini annales Boij.</field>
+    <field name="titleBib">ANNALIVM BOIORVM || LIBRI SEPTEM IO=||anne Auentino Au=||tore.|| ... Accessit ... || Index copiosus.||[Hrsg.v.(Hieronymus Zieglerus Ro=||tenburgensis ... ||)]</field>
+    <field name="author">Aventinus, Johannes#11850522X</field>
+    <field name="contributor">Ziegler, Hieronymus#128679913</field>
+    <field name="place_1">Ingolstadt</field>
+    <field name="getty_place_1">7017035</field>
+    <field name="coordinates_place_1">48.7667,11.4333</field>
+    <field name="publisher">Weißenhorn, Alexander</field>
+    <field name="year">1554</field>
+    <field name="format">2°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">VD16</field>
+    <field name="idManifestation">T 2318</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">http://gateway-bayern.de/VD16+T 2318</field>
+    <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)</field>
+    <field name="languagesFull">Latein</field>
+    <field name="yearNormalized">1554</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger12</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">12</field>
+    <field name="volumes">1</field>
+    <field name="titleCat">Vitæ Cæsarum { Suetonij Tranquilli. Ælij Spartiani. Ælij Lampridij. Trebellij Pollionis. Herodiani. Pomponij Læti. Eutropij. Ammiani Marcellini. Dionis Caßij. Iulij Capitolini. Vulcatii Gallicani. F. Vopisci. Sexti Aurelij Victoris. Iohannis Baptistæ Egnatij. Velleij Paterculi.</field>
+    <field name="titleBib">VITAE CAESARVM || QVARVM SCRIPTORES HI || [Sp.1] C. Suetonius Tranquillus || Aelius Spartianus || Aelius Lampridius ||...[Sp.2] Dion Cassius || Iulius Capitolinus ||...Eutropij libri X. integritati pristinae redditi.|| Ammianus Marcellinus longe alius quàm antehac unquam.|| Annotationes D. Erasmi Rot. &amp;amp; Baptistae Egnatij in uitas Caes.|| Accesserunt...Velleij Paterculi libri II ... || addito Indice copiosissimo.||</field>
+    <field name="author">Suetonius Tranquillus, Gaius#118619918</field>
+    <field name="author">Lampridius, Aelius#119353083</field>
+    <field name="author">Spartianus, Aelius#119353016</field>
+    <field name="author">Cassius, Dio#118525824</field>
+    <field name="contributor">Erasmus, Desiderius#118530666</field>
+    <field name="contributor">Egnazio, Giovanni Battista#100118720</field>
+    <field name="place_1">Basel</field>
+    <field name="getty_place_1">7007269</field>
+    <field name="coordinates_place_1">47.55,7.6</field>
+    <field name="publisher">Froben, Hieronymus</field>
+    <field name="year">1546</field>
+    <field name="format">2°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">VD16</field>
+    <field name="idManifestation">E 3648</field>
+    <field name="bound">1</field>
+    <field name="comment">Anthologie römischer Autoren mit Kommentaren zu den Kaiserviten von Erasmus von Rotterdam und Giovanni Battista Egnazio.</field>
+    <field name="linkManifestation">http://gateway-bayern.de/VD16+E 3648</field>
+    <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)</field>
+    <field name="languagesFull">Latein</field>
+    <field name="yearNormalized">1546</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger13</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">13</field>
+    <field name="itemInVolume">1</field>
+    <field name="volumes">1</field>
+    <field name="misc">br:rehlinger/miscellany_1</field>
+    <field name="positionMisc">1</field>
+    <field name="titleCat">Onuphrij Panuinij de fastis &amp;amp; triumphis Rom[anorum] &amp;amp;</field>
+    <field name="titleBib">Fasti et triumphi Rom. a Romulo rege vsque ad Carolum V Cæs. Aug. siue epitome regum, consulum, dictatorum, magistror. equitum, tribunorum militum consulari potestate, censorum, impp. &amp;amp; aliorum magistratuum Roman. cum Orientalium tum Occidentalium, ex antiquitatum monumentis maxima cum fide ac diligentia desumpta. Onuphrio Panuinio Veronensi f. Augustiniano authore. Additæ sunt suis locis impp. et orientalium, et occidentalium uerissimæ icones, ex vetustissimis numismatis quàm fidelissimè delineatæ.Ex Musæo Iacobi Stradæ Mantuani, ciuis Roamni, antiquarij.</field>
+    <field name="author">Panvinio, Onofrio#119421488</field>
+    <field name="place_1">Venedig</field>
+    <field name="getty_place_1">7018159</field>
+    <field name="coordinates_place_1">45.4386,12.3267</field>
+    <field name="publisher">Strada, Giacomo</field>
+    <field name="year">1557</field>
+    <field name="format">2°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">EDIT16</field>
+    <field name="idManifestation">34276</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">http://edit16.iccu.sbn.it/scripts/iccu_ext.dll?fn=10&amp;i=34276</field>
+    <field name="nameSystemManifestation">EDIT16 Censimento nazionale delle edizioni italiane del XVI secolo</field>
+    <field name="languagesFull">Latein</field>
+    <field name="yearNormalized">1557</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger14</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">13</field>
+    <field name="itemInVolume">2</field>
+    <field name="volumes">1</field>
+    <field name="misc">br:rehlinger/miscellany_1</field>
+    <field name="positionMisc">2</field>
+    <field name="titleCat">Giraldus de diis gentium.</field>
+    <field name="titleBib">De deis gentium.</field>
+    <field name="author">Giraldi, Giglio Gregorio#100350275</field>
+    <field name="place_1">Basel</field>
+    <field name="getty_place_1">7007269</field>
+    <field name="coordinates_place_1">47.55,7.6</field>
+    <field name="format">2°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">Ausgabe nicht bestimmbar</field>
+    <field name="bound">1</field>
+    <field name="comment">Möglicherweise eine der Basler Ausgaben VD 16 G 2103 oder VD 16 G 2104.</field>
+    <field name="languagesFull">Latein</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger15</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">14</field>
+    <field name="volumes">1</field>
+    <field name="titleCat">Blondius [gestr.: i] Fl[avius] de Roma triumphante.</field>
+    <field name="titleBib">De Roma triumphante.</field>
+    <field name="author">Blondus, Flavius#118658867</field>
+    <field name="format">2°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">Ausgabe nicht bestimmbar</field>
+    <field name="bound">1</field>
+    <field name="languagesFull">Latein</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger16</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">15</field>
+    <field name="volumes">1</field>
+    <field name="titleCat">Raphaël Volaterranus.</field>
+    <field name="titleBib">Commentariorum urbanorum octo et triginta libri.</field>
+    <field name="author">Maffei, Raffaele#100199399</field>
+    <field name="format">2°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">Ausgabe nicht bestimmbar</field>
+    <field name="bound">1</field>
+    <field name="languagesFull">Latein</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger17</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">16</field>
+    <field name="volumes">1</field>
+    <field name="titleCat">Cuspinianus de uitis Caesarum.</field>
+    <field name="titleBib">De Caesaribus atque imperatoribus Romanis opus insigne.</field>
+    <field name="author">Cuspinianus, Johannes#11867756X</field>
+    <field name="format">2°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">Ausgabe nicht bestimmbar</field>
+    <field name="bound">1</field>
+    <field name="languagesFull">Latein</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger18</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">17</field>
+    <field name="volumes">1</field>
+    <field name="titleCat">Strabonis geographia.</field>
+    <field name="titleBib">Geographicorum libri XVII.</field>
+    <field name="author">Strabo#118618806</field>
+    <field name="format">2°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">Ausgabe nicht bestimmbar</field>
+    <field name="bound">1</field>
+    <field name="languagesFull">Latein</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger19</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">18</field>
+    <field name="volumes">1</field>
+    <field name="titleCat">Centuria 13. Ecclesiastica.</field>
+    <field name="titleBib">Decimatertia Centuria || ECCLESIASTICAE || HISTORIAE, CONTINENS DE=||SCRIPTIONEM AMPLISSIMARVM RERVM IN || Regno Christi, quae Decimotertio post eius natiuitatem || seculo acciderunt ... || eodem ordine ... || ut superiores Centuriae ... || in || ciuitate Vuismaria,|| PER AVTORES CONTEXTA.|| Accessit ... || INDEX.||</field>
+    <field name="author">Flacius, Matthias#118533649</field>
+    <field name="contributor">Wigand, Johann#117383317</field>
+    <field name="contributor">Holthuter, Thomas#119713551</field>
+    <field name="contributor">Corvinus, Andreas#119646463</field>
+    <field name="place_1">Basel</field>
+    <field name="getty_place_1">7007269</field>
+    <field name="coordinates_place_1">47.55,7.6</field>
+    <field name="publisher">Oporinus, Johannes</field>
+    <field name="year">1574</field>
+    <field name="format">2°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">VD16</field>
+    <field name="idManifestation">E 238</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">http://gateway-bayern.de/VD16+E 238</field>
+    <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)</field>
+    <field name="languagesFull">Latein</field>
+    <field name="yearNormalized">1574</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger20</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">19</field>
+    <field name="volumes">1</field>
+    <field name="titleCat">Iohannis Hus &amp;amp; Hieronymi Pragensis opera.</field>
+    <field name="titleBib">IOANNIS || Hus, et Hie=||RONYMI PRAGEN=||SIS CONFESSORVM CHRISTI || HISTORIA ET MO=||NVMENTA, PARTIM ANNIS SV/||PERIORIBVS PVBLICATA,PARTIM NVNC || demum in lucem prolata &amp;amp; edita, cum scriptis &amp;amp; testimonijs multo-||rum ... || (ALTERA PARS.|| ADDITAE SVNT NAR=||RATIONES DE CONDEMNATIONE IN/||IVSTA, ET INDIGNO SVPPLICIO IOANNIS || HVS, ET HIERONYMI PRAGENSIS, AB INCERTIS AVTHO=||ribus ... ||)</field>
+    <field name="author">Hus, Jan#118554948</field>
+    <field name="author">Hieronymus, Pragensis, Camaldulensis#102511217</field>
+    <field name="author">vom Berg, Johann</field>
+    <field name="place_1">Nürnberg</field>
+    <field name="coordinates_place_1">49.45421,11.07752</field>
+    <field name="publisher">Neuber, Ulrich</field>
+    <field name="year">1558</field>
+    <field name="format">2°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">VD16</field>
+    <field name="idManifestation">H 6154</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">http://gateway-bayern.de/VD16+H 6154</field>
+    <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)</field>
+    <field name="languagesFull">Latein</field>
+    <field name="yearNormalized">1558</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger21</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">20</field>
+    <field name="itemInVolume">1</field>
+    <field name="volumes">1</field>
+    <field name="misc">br:rehlinger/miscellany_2</field>
+    <field name="positionMisc">1</field>
+    <field name="titleCat">Camerarij chronologia è Niceph[oro]</field>
+    <field name="titleBib">CHRONOLOGIA SE=||cundum Graecorum rationem || temporibus expositis, autore || NICEPHORO archiepiscopo Con-||stantinopolis:|| CONVERSA in sermonem Latinum de Graeco, &amp;amp; explica-||ta à IOACHIMO CAMERARIO Pabeper/||gensi, nunc#́[que] primùm || edita.|| ADDITA EST Narratio eiusdem CAMERARII || de Synodo Nicaena, nunc denuò edita.|| ACCESSIT et noua enumeratio Oecumenicarum Syno-||dorum, indicatis temporibus et praeci-||puis negotijs illarum.||(EIUSDEM IOACHIMI || Camerarij || De Chronicis, seu certorum temporum in/||dicationibus, Libellus.|| ITEM,|| De sancto Spiritu, ex Disputatione quae ascribitur Ba/||silio Caesareae episcopo.||)</field>
+    <field name="author">Camerarius, Joachim#118518569</field>
+    <field name="place_1">Basel</field>
+    <field name="getty_place_1">7007269</field>
+    <field name="coordinates_place_1">47.55,7.6</field>
+    <field name="publisher">Oporinus, Johannes</field>
+    <field name="year">1561</field>
+    <field name="format">2°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">VD16</field>
+    <field name="idManifestation">N 1446</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">http://gateway-bayern.de/VD16+N 1446</field>
+    <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)</field>
+    <field name="languagesFull">Latein</field>
+    <field name="yearNormalized">1561</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger22</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">20</field>
+    <field name="itemInVolume">2</field>
+    <field name="volumes">1</field>
+    <field name="misc">br:rehlinger/miscellany_2</field>
+    <field name="positionMisc">2</field>
+    <field name="titleCat">&amp;amp; Bibliandri.</field>
+    <field name="titleBib">TEMPORVM A ̀|| condito mundo usque ad ulti||mam ipsius aetatem supputatio,|| partitioq́ue exactior.|| Vniuersae quidem historiae diuinae, ecclesiasticae || &amp;amp; exterę Latinorum, Gręcorum, Aegyptiorum,|| Chaldaeorum, Germanorum &amp;amp; aliarũ gentium || accommodata ... || Quã scribebat THEODORVS BIBLIANDER,|| ecclesię Tigurinę minister ... || Accessit ... || INDEX.||</field>
+    <field name="author">Bibliander, Theodor#116170638</field>
+    <field name="place_1">Basel</field>
+    <field name="getty_place_1">7007269</field>
+    <field name="coordinates_place_1">47.55,7.6</field>
+    <field name="publisher">Kündig, Jakob</field>
+    <field name="year">1558</field>
+    <field name="format">2°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">VD16</field>
+    <field name="idManifestation">B 5334</field>
+    <field name="bound">1</field>
+    <field name="comment">VD16 B 5334 oder Druckvariante VD16 ZV 28110</field>
+    <field name="linkManifestation">http://gateway-bayern.de/VD16+B 5334</field>
+    <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)</field>
+    <field name="languagesFull">Latein</field>
+    <field name="yearNormalized">1558</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger23</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">20</field>
+    <field name="itemInVolume">3</field>
+    <field name="volumes">1</field>
+    <field name="misc">br:rehlinger/miscellany_2</field>
+    <field name="positionMisc">3</field>
+    <field name="titleCat">&amp;amp; Pantaleonis.</field>
+    <field name="titleBib">Chronographia ecclesiae Christi [?].</field>
+    <field name="author">Pantaleon, Heinrich#124439047</field>
+    <field name="format">2°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">Ausgabe nicht bestimmbar</field>
+    <field name="bound">1</field>
+    <field name="comment">Werk und Ausgabe lassen sich nicht genau bestimmen.</field>
+    <field name="languagesFull">Latein</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger24</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">21</field>
+    <field name="volumes">1</field>
+    <field name="titleCat">Anshelmi opera.</field>
+    <field name="titleBib">Opera.</field>
+    <field name="author">Anselmus, Cantuariensis#118503278</field>
+    <field name="format">2°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">Ausgabe nicht bestimmbar</field>
+    <field name="bound">1</field>
+    <field name="languagesFull">Latein</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger25</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">22</field>
+    <field name="volumes">1</field>
+    <field name="titleCat">Cosmographia Munsteri.</field>
+    <field name="titleBib">Cosmographia.</field>
+    <field name="author">Münster, Sebastian#118585517</field>
+    <field name="format">2°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">Ausgabe nicht bestimmbar</field>
+    <field name="bound">1</field>
+    <field name="languagesFull">Latein</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger26</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">23</field>
+    <field name="volumes">1</field>
+    <field name="titleCat">Eusebij Pamphili opera.</field>
+    <field name="titleBib">Opera.</field>
+    <field name="author">Eusebius Caesariensis</field>
+    <field name="format">2°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">Ausgabe nicht bestimmbar</field>
+    <field name="bound">1</field>
+    <field name="languagesFull">Latein</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger27</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">24</field>
+    <field name="itemInVolume">1</field>
+    <field name="volumes">1</field>
+    <field name="misc">br:rehlinger/miscellany_3</field>
+    <field name="positionMisc">1</field>
+    <field name="titleCat">Otto Frisingensis.</field>
+    <field name="titleBib">Rerum ab origine mundi ad ipsius usque tempora gestarum.</field>
+    <field name="author">Otto, Frisingensis#118590782</field>
+    <field name="format">2°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">Ausgabe nicht bestimmbar</field>
+    <field name="bound">1</field>
+    <field name="comment">Hrsg. von Johannes Cuspinianus. In Frage kommen die Editio princeps VD 16 O 1434 (Straßburg: Matthias Schürer, 1515) oder VD 16 O 1435 (Basel: Peter Perna, 1569).</field>
+    <field name="languagesFull">Latein</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger28</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">24</field>
+    <field name="itemInVolume">2</field>
+    <field name="volumes">1</field>
+    <field name="misc">br:rehlinger/miscellany_3</field>
+    <field name="positionMisc">2</field>
+    <field name="titleCat">Abbas Vrspergensis.</field>
+    <field name="titleBib">Chronicon Urspergense.</field>
+    <field name="author">Burchardus, Urspergensis#11851749X</field>
+    <field name="format">2°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">Ausgabe nicht bestimmbar</field>
+    <field name="bound">1</field>
+    <field name="languagesFull">Latein</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger29</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">24</field>
+    <field name="itemInVolume">3</field>
+    <field name="volumes">1</field>
+    <field name="misc">br:rehlinger/miscellany_3</field>
+    <field name="positionMisc">3</field>
+    <field name="titleCat">Tritehemius de monasterio Hirsaugiensi.</field>
+    <field name="titleBib">CHRONICON INSI/||gne Monasterij Hirsaugien/||sis, Ordinis S.Benedicti,|| PER || IOANNEM TRITEHEMIVM || ABBATEM SPANHEIMENSEM, VIRVM SVA || aetate doctiss. conscriptum, ac diu hactenus à multis || desideratum, nunc uerò primùm in || lucem editum.|| ... Accessit locuples rerum &amp;amp; uerborum in to/||to Opere memorabilium || INDEX.||[Hrsg.v.(GVILIELMVS || RADENSIS ... ||)]</field>
+    <field name="author">Trithemius, Johannes#118642960</field>
+    <field name="place_1">Basel</field>
+    <field name="getty_place_1">7007269</field>
+    <field name="coordinates_place_1">47.55,7.6</field>
+    <field name="publisher">Kündig, Jakob</field>
+    <field name="year">1559</field>
+    <field name="format">2°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">VD16</field>
+    <field name="idManifestation">T 1967</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">http://gateway-bayern.de/VD16+T 1967</field>
+    <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)</field>
+    <field name="languagesFull">Latein</field>
+    <field name="yearNormalized">1559</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger30</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">25</field>
+    <field name="volumes">1</field>
+    <field name="titleCat">Æneæ Syluij opera.</field>
+    <field name="titleBib">Opera.</field>
+    <field name="author">Aeneas Sylvius, Piccolomini#118594702</field>
+    <field name="place_1">Basel</field>
+    <field name="getty_place_1">7007269</field>
+    <field name="coordinates_place_1">47.55,7.6</field>
+    <field name="publisher">Petri, Heinrich</field>
+    <field name="format">2°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">Ausgabe nicht bestimmbar</field>
+    <field name="bound">1</field>
+    <field name="comment">In Frage kommen VD 16 P 3093 (Basel: Heinrich Petri, 1551) oder VD 16 P 3094 (Basel: Heinrich Petri, 1571).</field>
+    <field name="languagesFull">Latein</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger31</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">26</field>
+    <field name="volumes">1</field>
+    <field name="titleCat">Paul[us] Æmilius Veronensis de reb[us] gestis Francoru[m].</field>
+    <field name="titleBib">De rebus gestis Francorum libri X.</field>
+    <field name="author">Emili, Paolo#118896393</field>
+    <field name="format">2°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">Ausgabe nicht bestimmbar</field>
+    <field name="bound">1</field>
+    <field name="comment">In Frage kommen verschiedene Pariser Drucke (Pettegree / Walsby, French Books, 69117–9) sowie die Basler Ausgaben VD 16 E 1058, VD 16 ZV 4984 und VD 16 ZV 24996 (Basel: Sixtus Henricpetri, 1569).</field>
+    <field name="languagesFull">Latein</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger32</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">27</field>
+    <field name="itemInVolume">1</field>
+    <field name="volumes">1</field>
+    <field name="misc">br:rehlinger/miscellany_4</field>
+    <field name="positionMisc">1</field>
+    <field name="titleCat">Cornelius Tacitus.</field>
+    <field name="author">Tacitus, Cornelius#118620452</field>
+    <field name="format">2°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">Ausgabe nicht bestimmbar</field>
+    <field name="bound">1</field>
+    <field name="languagesFull">Latein</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger33</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">27</field>
+    <field name="itemInVolume">2</field>
+    <field name="volumes">1</field>
+    <field name="misc">br:rehlinger/miscellany_4</field>
+    <field name="positionMisc">2</field>
+    <field name="titleCat">Dionisius Caßius.</field>
+    <field name="titleBib">DIONIS CASSII || Nicaei, Romanae historiae li-||bri &amp;lt;tot enim hodie extant&amp;gt; XXV.|| nimirum à XXXVI ad LXI.|| ... || Nunc primùm ... de Graecis Latini facti,|| GVILIELMO XYLANDRO Augu-||stano interprete.|| His accesserunt eiusdem Annotationes, ... || Additum eat IOANNIS XIPHILINI è Dio-||ne Compendium, Guil.Blanco Albiensi inter-||prete: ... ||</field>
+    <field name="author">Cassius, Dio#118525824</field>
+    <field name="place_1">Basel</field>
+    <field name="getty_place_1">7007269</field>
+    <field name="coordinates_place_1">47.55,7.6</field>
+    <field name="publisher">Oporinus, Johannes</field>
+    <field name="year">1558</field>
+    <field name="format">2°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">VD16</field>
+    <field name="idManifestation">D 1793</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">http://gateway-bayern.de/VD16+D 1793</field>
+    <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)</field>
+    <field name="languagesFull">Latein</field>
+    <field name="yearNormalized">1558</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger34</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">28</field>
+    <field name="volumes">1</field>
+    <field name="titleCat">Diodorus Siculus.</field>
+    <field name="author">Siculus, Diodorus</field>
+    <field name="format">2°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">Ausgabe nicht bestimmbar</field>
+    <field name="bound">1</field>
+    <field name="comment">Werk und Ausgabe sind nicht bestimmbar.</field>
+    <field name="languagesFull">Latein</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger35</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">29</field>
+    <field name="itemInVolume">1</field>
+    <field name="volumes">1</field>
+    <field name="misc">br:rehlinger/miscellany_5</field>
+    <field name="positionMisc">1</field>
+    <field name="titleCat">Beatus Rhenanus de rebus Ger[manicis].</field>
+    <field name="titleBib">Rerum Germanicarum libri tres.</field>
+    <field name="author">Rhenanus, Beatus#118960563</field>
+    <field name="place_1">Basel</field>
+    <field name="getty_place_1">7007269</field>
+    <field name="coordinates_place_1">47.55,7.6</field>
+    <field name="format">2°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">Ausgabe nicht bestimmbar</field>
+    <field name="bound">1</field>
+    <field name="comment">In Frage kommen die Editio princeps VD 16 R 2064 (Basel: Johann Froben Erben, 1531) oder die zweite Auflage VD 16 R 2065 (Basel: Hieronymus Froben und Nicolaus Episcopius d. Ä., 1551).</field>
+    <field name="languagesFull">Latein</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger36</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">29</field>
+    <field name="itemInVolume">2</field>
+    <field name="volumes">1</field>
+    <field name="misc">br:rehlinger/miscellany_5</field>
+    <field name="positionMisc">2</field>
+    <field name="titleCat">Ioh[annes] Turpinus de uita Caroli Magni et Rolandi. Rhegino abbas Prumiensis. Sigebertus Gemblacensis. Lambertus Schafnaburgensis.</field>
+    <field name="titleBib">GERMANICARVM RERVM || QVATVOR || CELEBRIORES VETVS=||TIORESQVE CHRONOGRAPHI, EARVM || DESCRIPTIONEM AB ORBE CONDITO VSQVE AD TEMPORA || Henrici IIII ... || deducen-||tee ... in lucem re-||uocati, &amp;amp; longè emendatius quàm antea impressi,|| cum nouo Indice.|| ... ||</field>
+    <field name="author">Turpinus, Remensis#118802992</field>
+    <field name="author">Lambertus, Hersfeldensis#10095135X</field>
+    <field name="author">Regino, Prumiensis#118598996</field>
+    <field name="contributor">Sigebertus, Gemblacensis#118614142</field>
+    <field name="place_1">Frankfurt/M.</field>
+    <field name="getty_place_1">7005293</field>
+    <field name="coordinates_place_1">50.1167,8.6833</field>
+    <field name="publisher">Rab, Georg d.Ä.</field>
+    <field name="year">1566</field>
+    <field name="format">2°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">VD16</field>
+    <field name="idManifestation">S 2277</field>
+    <field name="bound">1</field>
+    <field name="comment">Enth. Johannes Turpinus: Historia de vita Caroli Magni et Rolandi; Regino von Prüm: Annales; Sigebert von Gembloux: Chronographia; Lambert von Hersfeld: De rebus gestis Germanorum. Hrsg. von Simon Schardius.</field>
+    <field name="linkManifestation">http://gateway-bayern.de/VD16+S 2277</field>
+    <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)</field>
+    <field name="languagesFull">Latein</field>
+    <field name="yearNormalized">1566</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger37</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">29</field>
+    <field name="itemInVolume">3</field>
+    <field name="volumes">1</field>
+    <field name="misc">br:rehlinger/miscellany_5</field>
+    <field name="positionMisc">3</field>
+    <field name="titleCat">Franc[isci] Irenici historiæ Germ[aniae] lib[ri] 12.</field>
+    <field name="titleBib">Germaniae exegeseos volumina duodecim.</field>
+    <field name="author">Irenicus, Franciscus#119193426</field>
+    <field name="format">2°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">Ausgabe nicht bestimmbar</field>
+    <field name="bound">1</field>
+    <field name="languagesFull">Latein</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger38</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">30</field>
+    <field name="volumes">1</field>
+    <field name="titleCat">Supplementum chronicorum Bergomatis.</field>
+    <field name="titleBib">Supplementum supplementi chronicarum ab ipso mundi exordio vsque ad redemptionis nostrae annum MCCCCCX editum. Et nouissime recognitum. Et castigatum a venerando patre Iacobo Phillippo Bergomate Ordinis heremitarum. Additis per eundem auctorem quampluribus vtilissimis &amp;amp; necessarijs additionibus. Necnon eleganti tabula nouiter excogitata quae omnia mirifice demonstrat.</field>
+    <field name="author">Forèsti, Giacomo Filippo#11909729X</field>
+    <field name="place_1">Venedig</field>
+    <field name="getty_place_1">7018159</field>
+    <field name="coordinates_place_1">45.4386,12.3267</field>
+    <field name="publisher">Rusconi, Giorgio</field>
+    <field name="year">1513</field>
+    <field name="format">2°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">EDIT16</field>
+    <field name="idManifestation">19467</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">http://edit16.iccu.sbn.it/scripts/iccu_ext.dll?fn=10&amp;i=19467</field>
+    <field name="nameSystemManifestation">EDIT16 Censimento nazionale delle edizioni italiane del XVI secolo</field>
+    <field name="languagesFull">Latein</field>
+    <field name="yearNormalized">1513</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger39</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">31</field>
+    <field name="volumes">1</field>
+    <field name="titleCat">Hæreseologia.</field>
+    <field name="titleBib">HAERESEO||LOGIA,|| HOC EST,|| OPVS VETERVM || tam Graecorum quàm Latinorum || Theologorum,per quos omnes, quae per || Catholicam Christi Ecclesiam grassatae || sunt,haereses confutantur,&amp;amp; summa omnia Theologiae capita quaestioneś#[que] ... || &amp;amp; reliqui communes,quos tota The||ologia tractat,loci,explicantur.|| ... [Sp.I.]L. Caelius Lactantius Firmianus.|| Marius Victorinus.|| Proclus Episcop.Constantinopolitanus.|| ... || [Sp.II.] Beatus Fulgentius.|| Idacius Clarus.|| Timotheus Episcopus.|| ... ||</field>
+    <field name="author">Herold, Johannes#11854988X</field>
+    <field name="place_1">Basel</field>
+    <field name="getty_place_1">7007269</field>
+    <field name="coordinates_place_1">47.55,7.6</field>
+    <field name="publisher">Petri, Heinrich</field>
+    <field name="year">1556</field>
+    <field name="format">2°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">VD16</field>
+    <field name="idManifestation">H 2544</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">http://gateway-bayern.de/VD16+H 2544</field>
+    <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)</field>
+    <field name="languagesFull">Latein</field>
+    <field name="yearNormalized">1556</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger40</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">32</field>
+    <field name="itemInVolume">1</field>
+    <field name="volumes">1</field>
+    <field name="misc">br:rehlinger/miscellany_6</field>
+    <field name="positionMisc">1</field>
+    <field name="titleCat">Vitichindi Saxonica historia.</field>
+    <field name="titleBib">VVITICHINDI SAXO||NIS RERVM AB HENRICO ET OTTONE I IMPP. GE/||starum Libri III, unà cum alijs quibusdam raris &amp;amp; antehac non || lectis diuersorum autorum historijs, ab Anno salutis || D.CCC. us#[que] ad praesentem aetatem ... || Huc accessit rerum scitu dignarum copiosus index.||</field>
+    <field name="author">Widukindus, Corbeiensis#118632337</field>
+    <field name="place_1">Basel</field>
+    <field name="getty_place_1">7007269</field>
+    <field name="coordinates_place_1">47.55,7.6</field>
+    <field name="publisher">Herwagen, Johannes</field>
+    <field name="year">1532</field>
+    <field name="format">2°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">VD16</field>
+    <field name="idManifestation">ZV 7827</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">http://gateway-bayern.de/VD16+ZV 7827</field>
+    <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)</field>
+    <field name="languagesFull">Latein</field>
+    <field name="yearNormalized">1532</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger41</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">32</field>
+    <field name="itemInVolume">2</field>
+    <field name="volumes">1</field>
+    <field name="misc">br:rehlinger/miscellany_6</field>
+    <field name="positionMisc">2</field>
+    <field name="titleCat">Eutropij Ro[mana] historia.</field>
+    <field name="titleBib">EVTROPII INSIGNE || VOLVMEN QVO ROMANA HISTORIA VNIVERSA || describitur, ex diuersorum authorũ monumentis collecta ... || Additae sunt || Graecorum Imperatorum uitae de rebus in Oriente &amp;amp; Constantinopoli,|| Persia, Arabia#́[que] gestis ... || PAVLI Diaconi Aquileiensis De gestis Langobardorum Libri VI.||</field>
+    <field name="author">Landulfus, Sagax#100951465</field>
+    <field name="place_1">Basel</field>
+    <field name="getty_place_1">7007269</field>
+    <field name="coordinates_place_1">47.55,7.6</field>
+    <field name="publisher">Froben, Hieronymus</field>
+    <field name="year">1532</field>
+    <field name="format">2°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">VD16</field>
+    <field name="idManifestation">L 242</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">http://gateway-bayern.de/VD16+L 242</field>
+    <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)</field>
+    <field name="languagesFull">Latein</field>
+    <field name="yearNormalized">1532</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger42</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">33</field>
+    <field name="itemInVolume">1</field>
+    <field name="volumes">1</field>
+    <field name="misc">br:rehlinger/miscellany_7</field>
+    <field name="positionMisc">1</field>
+    <field name="titleCat">Onuphrij Pa[n]ui[ni] pont[ifices] Ro[mani].</field>
+    <field name="titleBib">Epitome pontificum Romanorum a s. Petro usque ad Paulum IIII Gestorum (videlicet) electionìsque singulorum, &amp;amp; conclauium compendiaria narratio. Cardinalium item nomina, dignitatum tituli, insignia legationes, patria et obitus. Onuphrio Panuinio Veronensi f. augustiniano authore. Ex musaeo Iacobi Stradae Mantuani, ciuis Romani, antiquarij.</field>
+    <field name="author">Panvinio, Onofrio#119421488</field>
+    <field name="place_1">Venedig</field>
+    <field name="getty_place_1">7018159</field>
+    <field name="coordinates_place_1">45.4386,12.3267</field>
+    <field name="publisher">Strada, Giacomo</field>
+    <field name="year">1557</field>
+    <field name="format">2°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">EDIT16</field>
+    <field name="idManifestation">34274</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">http://edit16.iccu.sbn.it/scripts/iccu_ext.dll?fn=10&amp;i=34274</field>
+    <field name="nameSystemManifestation">EDIT16 Censimento nazionale delle edizioni italiane del XVI secolo</field>
+    <field name="languagesFull">Latein</field>
+    <field name="yearNormalized">1557</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger43</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">33</field>
+    <field name="itemInVolume">2</field>
+    <field name="volumes">1</field>
+    <field name="misc">br:rehlinger/miscellany_7</field>
+    <field name="positionMisc">2</field>
+    <field name="titleCat">Ejusde[m] app[endix] fast[orum].</field>
+    <field name="titleBib">Onuphrii Panuinii Veronensis fratris eremitae Augustiniani Fastorum libri V a Romulo rege vsque ad imp. Caesarem Carolum V Austrium Augustum. Eiusdem in fastorum libros commentarii.</field>
+    <field name="author">Panvinio, Onofrio#119421488</field>
+    <field name="place_1">Venedig</field>
+    <field name="getty_place_1">7018159</field>
+    <field name="coordinates_place_1">45.4386,12.3267</field>
+    <field name="publisher">Valgrisi, Vincenzo</field>
+    <field name="year">1558</field>
+    <field name="format">2°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">EDIT16</field>
+    <field name="idManifestation">37871</field>
+    <field name="bound">1</field>
+    <field name="comment">Eingebunden ist nur das [4] Bl., 72 S. umfassende enthaltene Werk mit eigenem Titelblatt von EDIT16 CNCE 37871 (Onofrio Panvinio: Fastorvm libri V a Romulo rege usque ad imp.Caesarem Carolum V Austrium Augustum. Venedig: Vincenzo Valgrisi, 1558. 2°).</field>
+    <field name="linkManifestation">http://edit16.iccu.sbn.it/scripts/iccu_ext.dll?fn=10&amp;i=37871</field>
+    <field name="nameSystemManifestation">EDIT16 Censimento nazionale delle edizioni italiane del XVI secolo</field>
+    <field name="languagesFull">Latein</field>
+    <field name="yearNormalized">1558</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger44</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">33</field>
+    <field name="itemInVolume">3</field>
+    <field name="volumes">1</field>
+    <field name="misc">br:rehlinger/miscellany_7</field>
+    <field name="positionMisc">3</field>
+    <field name="titleCat">Chronicon pluriu[m].</field>
+    <field name="titleBib">Chronicon ecclesiasticum.</field>
+    <field name="author">Panvinio, Onofrio#119421488</field>
+    <field name="format">2°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">Ausgabe nicht bestimmbar</field>
+    <field name="bound">1</field>
+    <field name="languagesFull">Latein</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger45</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">34</field>
+    <field name="itemInVolume">1</field>
+    <field name="volumes">1</field>
+    <field name="misc">br:rehlinger/miscellany_8</field>
+    <field name="positionMisc">1</field>
+    <field name="titleCat">Thucydides.</field>
+    <field name="titleBib">Historia belli Peloponnesiaci.</field>
+    <field name="author">Thukydides#11862234X</field>
+    <field name="format">2°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">Ausgabe nicht bestimmbar</field>
+    <field name="bound">1</field>
+    <field name="comment">In Frage kommen die von Laurentio Valla bearbeiteten Basler Ausgaben VD 16 T 1120 und VD 16 T 1121 (beide Basel: Heinrich Petri und Maternus Cholinus, 1564), aber auch die italienische Inkunabelausgabe GW M46964 (Treviso: Johannes Rubeus, 1483?).</field>
+    <field name="languagesFull">Latein</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger46</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">34</field>
+    <field name="itemInVolume">2</field>
+    <field name="volumes">1</field>
+    <field name="misc">br:rehlinger/miscellany_8</field>
+    <field name="positionMisc">2</field>
+    <field name="titleCat">Dion[ysii] Alexan[dri] Ro[mana] histo[ria].</field>
+    <field name="titleBib">Antiquitates Romanae.</field>
+    <field name="author">Dionysius, Halicarnassensis#118525824</field>
+    <field name="format">2°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">Ausgabe nicht bestimmbar</field>
+    <field name="bound">1</field>
+    <field name="comment">In Frage kommen VD 16 D 1970 (Basel: Hieronymus Froben d. Ä. und Nicolaus Episcopius d. Ä., 1532), aber auch die beiden italienischen Inkunabelausgaben GW 8423 (Treviso: Bernardinus Celerius, 24. Februar 1480) und GW 8424 (Reggio Emilia: Franciscus de Mazalibus, 12. November 1498).</field>
+    <field name="languagesFull">Latein</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger47</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">35</field>
+    <field name="itemInVolume">1</field>
+    <field name="volumes">1</field>
+    <field name="misc">br:rehlinger/miscellany_9</field>
+    <field name="positionMisc">1</field>
+    <field name="titleCat">Catalogus testiu[m] ueritatis Illyrici.</field>
+    <field name="titleBib">CATALOGVS TE/||stium ueritatis, qui ante nostram || aetatem Pontifici Romano, eiúsque || erroribus reclamarunt: iam denuò longè quàm || antea, &amp;amp; emendatior &amp;amp; au/||ctior editus.|| Opus ... || in quo ... || multi utiles libelli ... proferuntur ... || APPENDICI ... inserta est Vera Demon-||stratio, Quòd electio Praesulum et Episcoporum non ad Ecclesiasticos || solum, sed et ad Laicos ... pertineat ... || Cum Praefatione MATHIAE FLACII Illyrici ... || Acceßit et Rerum atq; uerborum toto Opere memorabilium || copiosus INDEX.|| ... ||</field>
+    <field name="author">Flacius, Matthias#118533649</field>
+    <field name="place_1">Straßburg</field>
+    <field name="getty_place_1">7012346</field>
+    <field name="coordinates_place_1">48.5833,7.75</field>
+    <field name="publisher">Messerschmidt, Paul</field>
+    <field name="year">1562</field>
+    <field name="format">2°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">VD16</field>
+    <field name="idManifestation">F 1294</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">http://gateway-bayern.de/VD16+F 1294</field>
+    <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)</field>
+    <field name="languagesFull">Latein</field>
+    <field name="yearNormalized">1562</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger48</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">35</field>
+    <field name="itemInVolume">2</field>
+    <field name="volumes">1</field>
+    <field name="misc">br:rehlinger/miscellany_9</field>
+    <field name="positionMisc">2</field>
+    <field name="titleCat">Prodigia Lycost[henis].</field>
+    <field name="titleBib">PRODIGI||ORVM AC || OSTENTORVM || CHRONICON,|| Quae praeter naturae ordinem, motum,|| ET OPERATIONEM, ET IN SVPERIO-||ribus &amp;amp; his inferioribus mundi regionibus, ab exordio mundi usque ad haec || nostra tempora, acciderunt ... || Partim ex probatis fide#́[que] || dignis authoribus Grecis, atque Latinis: partim etiam ex multorum || annorum propria obseruatione, summa fide, studio, ac se-||dulitate, adiectis etiam rerum omnium ueris ima-||ginibus, conscriptum per || CONRADVM LYCOSTHENEM || RVBEAQVENSEM.||</field>
+    <field name="author">Lycosthenes, Konrad#123403855</field>
+    <field name="place_1">Basel</field>
+    <field name="getty_place_1">7007269</field>
+    <field name="coordinates_place_1">47.55,7.6</field>
+    <field name="publisher">Petri, Heinrich</field>
+    <field name="year">1557</field>
+    <field name="format">2°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">VD16</field>
+    <field name="idManifestation">W 4314</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">http://gateway-bayern.de/VD16+W 4314</field>
+    <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)</field>
+    <field name="languagesFull">Latein</field>
+    <field name="yearNormalized">1557</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger49</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">36</field>
+    <field name="itemInVolume">1</field>
+    <field name="volumes">1</field>
+    <field name="misc">br:rehlinger/miscellany_10</field>
+    <field name="positionMisc">1</field>
+    <field name="titleCat">Paul[i] Diacon[i] de reb[us] Longob[ardorum].</field>
+    <field name="titleBib">De origine et gestis regum Langobardorum libri VI.</field>
+    <field name="author">Paulus Diaconus#118789961</field>
+    <field name="place_1">Paris</field>
+    <field name="getty_place_1">7008038</field>
+    <field name="coordinates_place_1">48.8667,2.3333</field>
+    <field name="publisher">Ascensius, Jodocus Badius</field>
+    <field name="year">1514</field>
+    <field name="format">2°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="bound">1</field>
+    <field name="comment">Ausgabe bei Renouard, Imprimeurs II, S. 256</field>
+    <field name="languagesFull">Latein</field>
+    <field name="yearNormalized">1514</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger50</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">36</field>
+    <field name="itemInVolume">2</field>
+    <field name="volumes">1</field>
+    <field name="misc">br:rehlinger/miscellany_10</field>
+    <field name="positionMisc">2</field>
+    <field name="titleCat">Iorna[n]des de reb[us] Gothorum.</field>
+    <field name="titleBib">IORNAN||DES DE REBVS || GOTHORVM. PAV||LVS DIACONVS || FOROIVLIEN=||SIS DE GESTIS || LANGOBARDO=||RVM || [Hrsg.v.(CHVONRADI PEVTINGER ... || &amp;amp; Ioannis Stabij ... ||)]</field>
+    <field name="author">Iordanes, Gotus#118891472</field>
+    <field name="place_1">Augsburg</field>
+    <field name="getty_place_1">7004324</field>
+    <field name="coordinates_place_1">48.3667,10.8833</field>
+    <field name="publisher">Miller, Johann</field>
+    <field name="year">1515</field>
+    <field name="format">2°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">VD16</field>
+    <field name="idManifestation">J 932</field>
+    <field name="bound">1</field>
+    <field name="comment">Herausgegeben von Conrad Peutinger und Johannes Stabius. Enth. auch Paulus Diaconus: De gestis Langobardorum (VD 16 P 1048).</field>
+    <field name="linkManifestation">http://gateway-bayern.de/VD16+J 932</field>
+    <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)</field>
+    <field name="languagesFull">Latein</field>
+    <field name="yearNormalized">1515</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger51</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">36</field>
+    <field name="itemInVolume">3</field>
+    <field name="volumes">1</field>
+    <field name="misc">br:rehlinger/miscellany_10</field>
+    <field name="positionMisc">3</field>
+    <field name="titleCat">Annonij Monachi de reb[us] Franc[orum].</field>
+    <field name="author">Aimonus, Floriacensis#100937101</field>
+    <field name="place_1">Paris</field>
+    <field name="getty_place_1">7008038</field>
+    <field name="coordinates_place_1">48.8667,2.3333</field>
+    <field name="publisher">Ascensius, Jodocus Badius</field>
+    <field name="year">1514</field>
+    <field name="format">2°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="bound">1</field>
+    <field name="comment">Ausgabe bei Renouard, Imprimeurs II, S. 238</field>
+    <field name="languagesFull">Latein</field>
+    <field name="yearNormalized">1514</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger52</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">36</field>
+    <field name="itemInVolume">4</field>
+    <field name="volumes">1</field>
+    <field name="misc">br:rehlinger/miscellany_10</field>
+    <field name="positionMisc">4</field>
+    <field name="titleCat">Polybius Græcolatinus.</field>
+    <field name="author">Polybius#118595571</field>
+    <field name="format">2°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">grc</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">Ausgabe nicht bestimmbar</field>
+    <field name="bound">1</field>
+    <field name="comment">Griechisch-lateinische Parallelausgabe, nicht näher zu bestimmen.</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger53</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">37</field>
+    <field name="volumes">1</field>
+    <field name="titleCat">Æmilij Probi de uita excellentium Imperatorum.</field>
+    <field name="titleBib">Vitae excellentium imperatorum.</field>
+    <field name="author">Nepos, Cornelius#118747681</field>
+    <field name="format">4°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">Ausgabe nicht bestimmbar</field>
+    <field name="bound">1</field>
+    <field name="comment">In Frage kommen die Editio princeps GW M25944 (Venedig: Nicolas Jenson, 8. März 1471), VD 16 N 518 (Straßburg: Matthias Schürer, 1511), sowie die Pariser Ausgaben Pettegree / Walsby, French Books, Nr. 63339–40 (Pierre L’Huillier, 1568 bzw. 1569) und Pettegree /Walsby, French Books, Nr. 63341 (Jean Bienné, 1568).</field>
+    <field name="languagesFull">Latein</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger54</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">38</field>
+    <field name="volumes">1</field>
+    <field name="titleCat">Dictionarium historicum Caroli Stephani.</field>
+    <field name="titleBib">Dictionarium historicum ac poeticum.</field>
+    <field name="author">Estienne, Charles#121000109</field>
+    <field name="format">4°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">Ausgabe nicht bestimmbar</field>
+    <field name="bound">1</field>
+    <field name="comment">In Frage kommen die Editio princeps Pettegree / Walsby, French Books, Nr. 69931 (Paris: Charles Estienne, 1553; s. Antoine Renouard: Annales de l’imprimerie des Estienne ou histoire de la famille des Estienne et ses éditions. Paris 1843, S. 104/5, Nr. 8.), sowie die Ausgaben GLN 15/16-2315 (Genf: François Perrin, 1566) und GLN 15/16-2345 ([Paris, Genf]: Jean Le Preux &amp; Jean Petit, 1567).</field>
+    <field name="languagesFull">Latein</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger55</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">39</field>
+    <field name="volumes">1</field>
+    <field name="titleCat">Iohannes Magnus de rebus Gothicis.</field>
+    <field name="titleBib">Gothorum Sueonumque historia.</field>
+    <field name="author">Magnus, Johannes#119082209</field>
+    <field name="format">8°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">Ausgabe nicht bestimmbar</field>
+    <field name="bound">1</field>
+    <field name="comment">Ausgabe nicht bestimmbar. In Frage kommen VD 16 M 222 (Basel: Michael Isengrin Witwe, 1558) oder die Titelauflage VD 16 M 223 (Köln: Johann Birckmann, 1567).</field>
+    <field name="languagesFull">Latein</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger56</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">40</field>
+    <field name="volumes">1</field>
+    <field name="titleCat">Valerius Maximus.</field>
+    <field name="titleBib">Factorum et dictorum memorabilium libri novem.</field>
+    <field name="author">Valerius Maximus#118625969</field>
+    <field name="format">8°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">Ausgabe nicht bestimmbar</field>
+    <field name="bound">1</field>
+    <field name="languagesFull">Latein</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger57</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">41</field>
+    <field name="volumes">1</field>
+    <field name="titleCat">C. Iulij Cæsaris commentaria.</field>
+    <field name="titleBib">C. IVLII || CAESARIS || COM=||mentaria.|| ET || Index eorum quae in his tractantur.||(per Raimũ||dum Marlianum ... ||)</field>
+    <field name="author">Caesar, Gaius Iulius#118518275</field>
+    <field name="place_1">Basel</field>
+    <field name="getty_place_1">7007269</field>
+    <field name="coordinates_place_1">47.55,7.6</field>
+    <field name="publisher">Herwagen, Johannes</field>
+    <field name="year">1535</field>
+    <field name="format">8°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">VD16</field>
+    <field name="idManifestation">C 34</field>
+    <field name="bound">1</field>
+    <field name="comment">Nach der treffenden Titelaufnahme sehr wahrscheinlich VD 16 c 34.</field>
+    <field name="linkManifestation">http://gateway-bayern.de/VD16+C 34</field>
+    <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)</field>
+    <field name="languagesFull">Latein</field>
+    <field name="yearNormalized">1535</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger58</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">42</field>
+    <field name="volumes">1</field>
+    <field name="titleCat">Berosus.</field>
+    <field name="titleBib">Berosi sacerdotis Chaldaici, antiqvitatvm libri qvinqve, cum commentariis Ioannis Annii Viterbensis same theologice professoris.</field>
+    <field name="author">Nanni, Giovanni#119062380</field>
+    <field name="place_1">Antwerpen</field>
+    <field name="getty_place_1">7007856</field>
+    <field name="coordinates_place_1">51.2139,4.4015</field>
+    <field name="publisher">Steels, Johannes</field>
+    <field name="format">8°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">Ausgabe nicht bestimmbar</field>
+    <field name="bound">1</field>
+    <field name="comment">In Frage kommt eine der beiden Antwerpener Ausgaben bei Johannes Steels, 1545 oder 1552 Pettegree / Walsby, Netherlandish Books, 22132 oder 22133).</field>
+    <field name="languagesFull">Latein</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger59</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">43</field>
+    <field name="volumes">1</field>
+    <field name="titleCat">Pauli Iouij opera omnia sex tomis diuisa.</field>
+    <field name="titleBib">Historiarum sui temporis.</field>
+    <field name="author">Giovio, Paolo#118958682</field>
+    <field name="place_1">Basel</field>
+    <field name="getty_place_1">7007269</field>
+    <field name="coordinates_place_1">47.55,7.6</field>
+    <field name="format">8°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">Ausgabe nicht bestimmbar</field>
+    <field name="bound">1</field>
+    <field name="comment">Drei Teile in zwei Bänden: I, II.1 , II.2. In Frage kommen VD 16 G 2072 (Basel: Peter Perna und Heinrich Petri, 1560) oder VD 16 G 2073 (Basel: Peter Perna und Heinrich Petri, 1567).</field>
+    <field name="languagesFull">Latein</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger60</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">44</field>
+    <field name="volumes">1</field>
+    <field name="titleCat">Pauli Iouij opera omnia sex tomis diuisa.</field>
+    <field name="titleBib">Historiarum sui temporis.</field>
+    <field name="author">Giovio, Paolo#118958682</field>
+    <field name="place_1">Basel</field>
+    <field name="getty_place_1">7007269</field>
+    <field name="coordinates_place_1">47.55,7.6</field>
+    <field name="format">8°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">Ausgabe nicht bestimmbar</field>
+    <field name="bound">1</field>
+    <field name="comment">Drei Teile in zwei Bänden: I, II.1 , II.2. In Frage kommen VD 16 G 2072 (Basel: Peter Perna und Heinrich Petri, 1560) oder VD 16 G 2073 (Basel: Peter Perna und Heinrich Petri, 1567).</field>
+    <field name="languagesFull">Latein</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger61</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">45</field>
+    <field name="volumes">1</field>
+    <field name="titleCat">Pauli Iouij opera omnia sex tomis diuisa.</field>
+    <field name="titleBib">Elogia virorum bellica.</field>
+    <field name="author">Giovio, Paolo#118958682</field>
+    <field name="place_1">Basel</field>
+    <field name="getty_place_1">7007269</field>
+    <field name="coordinates_place_1">47.55,7.6</field>
+    <field name="format">8°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">Ausgabe nicht bestimmbar</field>
+    <field name="bound">1</field>
+    <field name="comment">Zwei Teile in zwei Bänden. In Frage kommen VD 16 G 2076 (Basel: Peter Perna und Heinrich Petri, 1559), VD 16 G 2077 (Basel : Peter Perna und Heinrich Petri, 1567) und VD 16 ZV 22423 (Basel: Peter Perna und Heinrich Petri, 1571).</field>
+    <field name="languagesFull">Latein</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger62</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">46</field>
+    <field name="volumes">1</field>
+    <field name="titleCat">Pauli Iouij opera omnia sex tomis diuisa.</field>
+    <field name="titleBib">Elogia virorum bellica.</field>
+    <field name="author">Giovio, Paolo#118958682</field>
+    <field name="place_1">Basel</field>
+    <field name="getty_place_1">7007269</field>
+    <field name="coordinates_place_1">47.55,7.6</field>
+    <field name="format">8°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">Ausgabe nicht bestimmbar</field>
+    <field name="bound">1</field>
+    <field name="comment">Zwei Teile in zwei Bänden. In Frage kommen VD 16 G 2076 (Basel: Peter Perna und Heinrich Petri, 1559), VD 16 G 2077 (Basel : Peter Perna und Heinrich Petri, 1567) und VD 16 ZV 22423 (Basel: Peter Perna und Heinrich Petri, 1571).</field>
+    <field name="languagesFull">Latein</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger63</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">47</field>
+    <field name="volumes">1</field>
+    <field name="titleCat">Pauli Iouij opera omnia sex tomis diuisa.</field>
+    <field name="titleBib">PAVLI IO-||VII NOVOCOMEN-||SIS EPISCOPI NVCERI-||NI ELOGIA virorum bellica vir-||tute illustrium veris imaginibus sup-||posita, quae apud Musaeum spe-||ctantur, in libros septem || digesta.|| Doctorum item uirorum ingenij monumentis illu-||strium ab Auorum memoria publicatis, altero || tomo comprehensa.||</field>
+    <field name="author">Giovio, Paolo#118958682</field>
+    <field name="place_1">Basel</field>
+    <field name="getty_place_1">7007269</field>
+    <field name="coordinates_place_1">47.55,7.6</field>
+    <field name="publisher">Perna, Peter</field>
+    <field name="year">1561</field>
+    <field name="format">8°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">VD16</field>
+    <field name="idManifestation">G 2064</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">http://gateway-bayern.de/VD16+G 2064</field>
+    <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)</field>
+    <field name="languagesFull">Latein</field>
+    <field name="yearNormalized">1561</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger64</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">48</field>
+    <field name="volumes">1</field>
+    <field name="titleCat">Pauli Iouij opera omnia sex tomis diuisa.</field>
+    <field name="titleBib">Elogia doctorum virorum ...</field>
+    <field name="author">Giovio, Paolo#118958682</field>
+    <field name="place_1">Basel</field>
+    <field name="getty_place_1">7007269</field>
+    <field name="coordinates_place_1">47.55,7.6</field>
+    <field name="publisher">Perna, Peter</field>
+    <field name="year">1561</field>
+    <field name="format">8°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">VD16</field>
+    <field name="idManifestation">G 2059</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">http://gateway-bayern.de/VD16+G 2059</field>
+    <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)</field>
+    <field name="languagesFull">Latein</field>
+    <field name="yearNormalized">1561</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger65</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">49</field>
+    <field name="volumes">1</field>
+    <field name="titleCat">Alberti Crantzij historia Ecclesiastica &amp;amp; politica.</field>
+    <field name="titleBib">SAXONIA || ET || METROPOLIS || ALBERTI CRANTZII || HISTORICI DOCTISS. SACRAE || Theologiae &amp;amp; Iuris Canonici Doctoris || celeberrimi, ac Ecclesiae Ham-||burgensis quondàm || Decani.|| QVIBVS RES SAXONVM || ET ADIACENTIVM REGIONVM, AC || totius ferè Germaniae, in vtroque statu, tam || Ecclesiastico quàm Politico ... || expli-||cantur.|| Cum gemino rerum memorabilium co-||piosissimo INDICE.||</field>
+    <field name="author">Krantz, Albert#118777939</field>
+    <field name="place_1">Köln</field>
+    <field name="getty_place_1">7004446</field>
+    <field name="coordinates_place_1">50.9333,6.95</field>
+    <field name="publisher">Quentel, Johann &amp;lt;Erben&amp;gt;</field>
+    <field name="year">1574</field>
+    <field name="format">8°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">VD16</field>
+    <field name="idManifestation">K 2258</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">http://gateway-bayern.de/VD16+K 2258</field>
+    <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)</field>
+    <field name="languagesFull">Latein</field>
+    <field name="yearNormalized">1574</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger66</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">50</field>
+    <field name="volumes">1</field>
+    <field name="titleCat">[Alberti Crantzij historia Ecclesiastica] &amp;amp; politica.</field>
+    <field name="titleBib">Metropolis [EST: Ecclesiastica historia sive metropolis].</field>
+    <field name="author">Krantz, Albert#118777939</field>
+    <field name="place_1">Köln</field>
+    <field name="getty_place_1">7004446</field>
+    <field name="coordinates_place_1">50.9333,6.95</field>
+    <field name="publisher">Quentel, Johann &amp;lt;Erben&amp;gt;</field>
+    <field name="year">1574</field>
+    <field name="format">8°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">VD16</field>
+    <field name="idManifestation">K 2250</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">http://gateway-bayern.de/VD16+K 2250</field>
+    <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)</field>
+    <field name="languagesFull">Latein</field>
+    <field name="yearNormalized">1574</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger67</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">51</field>
+    <field name="volumes">1</field>
+    <field name="titleCat">Pausanias.</field>
+    <field name="titleBib">PAVSANIAE || DE FLOREN-||TISS. VETERIS GRAE-||CIAE REGIONIBVS COM-||MENTARII || A ROMVLO AMASAEO,|| uiro utriusq: linguae peritiß. Summa || fide ac diligentia, conuersi.|| Cum indice &amp;amp; rerum &amp;amp; verborum || locupletissimo.||</field>
+    <field name="author">Pausanias, Periegeta#118592246</field>
+    <field name="place_1">Basel</field>
+    <field name="getty_place_1">7007269</field>
+    <field name="coordinates_place_1">47.55,7.6</field>
+    <field name="publisher">Isengrin, Michael</field>
+    <field name="year">1557</field>
+    <field name="format">8°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">VD16</field>
+    <field name="idManifestation">P 1076</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">http://gateway-bayern.de/VD16+P 1076</field>
+    <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)</field>
+    <field name="languagesFull">Latein</field>
+    <field name="yearNormalized">1557</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger68</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">52</field>
+    <field name="volumes">1</field>
+    <field name="titleCat">Pauli Diaconi historia.</field>
+    <field name="titleBib">HISTORIAE MISCELLAE || A || PAVLO AQVI||LEGIENSI DIACONO || PRIMVM COLLECTAE, POST || etiam à Landulpho Sagaci auctae pro-||ductae#́[que] ad Imperium Leonis || IIII. id est, annum Christi || DCCCVI.|| Libri XXIIII.|| In quibus praeter Eutropij, Flori ... || et aliorum historias, totam penè Ana||stasij Bibliothecarij Rom.Ecclesiasticam ... || contineri ... || polliceri possumus ... || adiecta Nicephori CP.episcopi Chronolo-||gia, et Indice copioso.||</field>
+    <field name="author">Landulfus Sagax</field>
+    <field name="place_1">Basel</field>
+    <field name="getty_place_1">7007269</field>
+    <field name="coordinates_place_1">47.55,7.6</field>
+    <field name="publisher">Perna, Peter</field>
+    <field name="year">1569</field>
+    <field name="format">8°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">VD16</field>
+    <field name="idManifestation">L 243</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">http://gateway-bayern.de/VD16+L 243</field>
+    <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)</field>
+    <field name="languagesFull">Latein</field>
+    <field name="yearNormalized">1569</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger69</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">53</field>
+    <field name="itemInVolume">1</field>
+    <field name="volumes">1</field>
+    <field name="misc">br:rehlinger/miscellany_11</field>
+    <field name="positionMisc">1</field>
+    <field name="titleCat">Iustinus.</field>
+    <field name="titleBib">Epitome historiarum Philippicarum Pompei Trogi.</field>
+    <field name="author">Iustinus, Marcus Iunianus#11871435X</field>
+    <field name="format">8°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">Ausgabe nicht bestimmbar</field>
+    <field name="bound">1</field>
+    <field name="languagesFull">Latein</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger70</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">53</field>
+    <field name="itemInVolume">2</field>
+    <field name="volumes">1</field>
+    <field name="misc">br:rehlinger/miscellany_11</field>
+    <field name="positionMisc">2</field>
+    <field name="titleCat">&amp;amp; Florus.</field>
+    <field name="titleBib">Epitome de Tito Livio.</field>
+    <field name="author">Florus, Lucius Annaeus#118691910</field>
+    <field name="format">8°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">Ausgabe nicht bestimmbar</field>
+    <field name="bound">1</field>
+    <field name="languagesFull">Latein</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger71</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">54</field>
+    <field name="volumes">1</field>
+    <field name="titleCat">Orosius.</field>
+    <field name="titleBib">Historiae adversus paganos.</field>
+    <field name="author">Orosius, Paulus#118590251</field>
+    <field name="format">8°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">Ausgabe nicht bestimmbar</field>
+    <field name="bound">1</field>
+    <field name="languagesFull">Latein</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger72</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">55</field>
+    <field name="itemInVolume">1</field>
+    <field name="volumes">1</field>
+    <field name="misc">br:rehlinger/miscellany_12</field>
+    <field name="positionMisc">1</field>
+    <field name="titleCat">Iosippus Hebraicolatinus.</field>
+    <field name="titleBib">IOSIPPVS || DE BELLO IV/||DAICO.|| Deinde decem Iudaeorum capti/||uitates &amp;amp; Decalogus cum ele-||ganti commentariolo Rab/||bi Aben Esra.||(Sebastiano Munstere || interprete.||) Hisce accesserunt Collectanea aliquot,|| quae Sebastianus Lepusculus Basi/|| liensis colligebat ... || Omnia Hebraicolatina.||</field>
+    <field name="author">Joseph ben Gōriōn#119723980</field>
+    <field name="place_1">Basel</field>
+    <field name="getty_place_1">7007269</field>
+    <field name="coordinates_place_1">47.55,7.6</field>
+    <field name="publisher">Petri, Heinrich</field>
+    <field name="year">1559</field>
+    <field name="format">8°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">heb</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">VD16</field>
+    <field name="idManifestation">ZV 8754</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">http://gateway-bayern.de/VD16+ZV 8754</field>
+    <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)</field>
+    <field name="yearNormalized">1559</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+  <doc>
+    <field name="id">rehlinger73</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">1</field>
+    <field name="numberCat">55</field>
+    <field name="itemInVolume">2</field>
+    <field name="volumes">1</field>
+    <field name="misc">br:rehlinger/miscellany_12</field>
+    <field name="positionMisc">2</field>
+    <field name="titleCat">Philastrius de hæreticis.</field>
+    <field name="titleBib">De haeresibus.</field>
+    <field name="author">Filastrius Brixiensis#100233309</field>
+    <field name="place_1">Basel</field>
+    <field name="getty_place_1">7007269</field>
+    <field name="coordinates_place_1">47.55,7.6</field>
+    <field name="publisher">Petri, Heinrich</field>
+    <field name="format">8°</field>
+    <field name="mediaType">Book</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">Ausgabe nicht bestimmbar</field>
+    <field name="bound">1</field>
+    <field name="comment">In Frage kommen die Editio princeps, VD 16 F 1016 (Basel: Heinrich Petri, 1528), sowie VD 16 F 2017 (Basel: Heinrich Petri, 1539).</field>
+    <field name="languagesFull">Latein</field>
+    <field name="owner">Rehlinger, Carl Wolfgang</field>
+    <field name="ownerGND">1055708286</field>
+    <field name="dateCollection">1575</field>
+    <field name="nameCollection">Bibliothek Carl Wolfgang Rehlinger</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/267901</field>
+  </doc>
+</add>
