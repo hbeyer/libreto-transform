@@ -5,7 +5,7 @@ class  uploader {
     public $path;
     public $format;
     public $fileName;
-    private $permittedFormats = array('xml', 'csv', 'php');
+    private $permittedFormats = array('xml', 'csv', 'php', 'sql_dh');
     public $valid = 0;
 
     function __construct($path, $fileName = '', $format = '') {
@@ -24,16 +24,19 @@ class  uploader {
             return(null);
         }
         if ($this->format == 'xml') {
-            require(reconstruction::INCLUDE.'loadXML.php');
+            require(reconstruction::INCLUDEPATH.'loadXML.php');
             return($this->loadXML());
         }
-        elseif($this->format == 'php') {
+        elseif ($this->format == 'php') {
             return($this->loadPHP());
         }
-        /*
-        elseif ($format == 'csv') {
+        elseif ($this->format == 'csv') {
+            require(reconstruction::INCLUDEPATH.'loadCSV.php');
             return($this->loadCSV());
-        }*/
+        }
+        elseif ($this->format == 'sql_dh') {
+            return($this->loadSQL_DH());
+        }
     }
 
     public function loadMetadata() {
@@ -60,6 +63,16 @@ class  uploader {
 	    return($resultArray);
     }
 
+    private function loadCSV() {
+        $test = validateCSV($this->path, 40);
+        if ($test !== 1) {
+            $this->valid = 0;
+            return;
+        }
+        return(loadCSV($this->path));
+        
+    }
+
     private function loadPHP() {
         $string = file_get_contents($this->path);
         $content = unserialize($string);
@@ -76,6 +89,7 @@ class  uploader {
 	    }
 	    return($catalogue);        
     }
+
     
     private function loadMetaFile() {
         $metaPath = reconstruction::FOLDER.'/'.$this->fileName.'/'.$this->fileName.'-cat.php';
@@ -99,6 +113,45 @@ class  uploader {
                 return($catalogue);
             }
         }
+    }
+
+    private function loadSQL_DH() {
+
+        require('private/connectionData.php');
+
+        try {
+             $pdo = new PDO($dsn, $user, $pass, $options);
+        } catch (\PDOException $e) {
+             throw new \PDOException($e->getMessage(), (int)$e->getCode());
+        }
+
+        $data = $pdo->query('SELECT * FROM Zusammenfassung')->fetchAll(PDO::FETCH_CLASS, 'item');
+        $persons = $pdo->query('SELECT * FROM Autor')->fetchAll(PDO::FETCH_CLASS, 'person');
+        $data = $this->enrichPersons($data, $persons);
+        unset($persons);
+        $places = $pdo->query('SELECT * FROM Ort')->fetchAll(PDO::FETCH_CLASS, 'place');
+        $data = $this->enrichPlaces($data, $places);
+
+        return($data);
+
+    }
+
+    private function enrichPersons($data, $personList) {
+        foreach ($data as $item) {
+            foreach ($item->persons as $person) {
+                $person->enrichByName($personList);
+            }
+        }
+        return($data);
+    }
+
+    private function enrichPlaces($data, $placeList) {
+        foreach ($data as $item) {
+            foreach ($item->places as $place) {
+                $place->enrichByName($placeList);
+            }
+        }
+        return($data);
     }
 
 }

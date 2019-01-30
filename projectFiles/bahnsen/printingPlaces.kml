@@ -40,6 +40,15 @@
 		<Placemark>
 			<address>Amsterdam</address>
 			<TimeStamp>
+				<when>1572</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>4.9167,52.35</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Amsterdam</address>
+			<TimeStamp>
 				<when>1579</when>
 			</TimeStamp>
 			<Point>
@@ -175,6 +184,15 @@
 		<Placemark>
 			<address>Amsterdam</address>
 			<TimeStamp>
+				<when>1608</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>4.9167,52.35</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Amsterdam</address>
+			<TimeStamp>
 				<when>1609</when>
 			</TimeStamp>
 			<Point>
@@ -257,6 +275,15 @@
 			<address>Amsterdam</address>
 			<TimeStamp>
 				<when>1621</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>4.9167,52.35</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Amsterdam</address>
+			<TimeStamp>
+				<when>1622</when>
 			</TimeStamp>
 			<Point>
 				<coordinates>4.9167,52.35</coordinates>
@@ -409,6 +436,15 @@
 		<Placemark>
 			<address>Amsterdam</address>
 			<TimeStamp>
+				<when>1631</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>4.9167,52.35</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Amsterdam</address>
+			<TimeStamp>
 				<when>1632</when>
 			</TimeStamp>
 			<Point>
@@ -464,6 +500,15 @@
 			<address>Amsterdam</address>
 			<TimeStamp>
 				<when>1635</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>4.9167,52.35</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Amsterdam</address>
+			<TimeStamp>
+				<when>1636</when>
 			</TimeStamp>
 			<Point>
 				<coordinates>4.9167,52.35</coordinates>
@@ -490,7 +535,16 @@
 		<Placemark>
 			<address>Amsterdam</address>
 			<TimeStamp>
-				<when>1641</when>
+				<when>1640</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>4.9167,52.35</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Amsterdam</address>
+			<TimeStamp>
+				<when>1640</when>
 			</TimeStamp>
 			<Point>
 				<coordinates>4.9167,52.35</coordinates>
@@ -518,6 +572,15 @@
 			<address>Amsterdam</address>
 			<TimeStamp>
 				<when>1642</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>4.9167,52.35</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Amsterdam</address>
+			<TimeStamp>
+				<when>1643</when>
 			</TimeStamp>
 			<Point>
 				<coordinates>4.9167,52.35</coordinates>
@@ -599,6 +662,24 @@
 			<address>Amsterdam</address>
 			<TimeStamp>
 				<when>1646</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>4.9167,52.35</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Amsterdam</address>
+			<TimeStamp>
+				<when>1646</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>4.9167,52.35</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Amsterdam</address>
+			<TimeStamp>
+				<when>1647</when>
 			</TimeStamp>
 			<Point>
 				<coordinates>4.9167,52.35</coordinates>
@@ -752,6 +833,15 @@
 			<address>Amsterdam</address>
 			<TimeStamp>
 				<when>1651</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>4.9167,52.35</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Amsterdam</address>
+			<TimeStamp>
+				<when>1653</when>
 			</TimeStamp>
 			<Point>
 				<coordinates>4.9167,52.35</coordinates>
@@ -1093,7 +1183,7 @@
 		<Placemark>
 			<address>Amsterdam</address>
 			<TimeStamp>
-				<when>1663</when>
+				<when>1662</when>
 			</TimeStamp>
 			<Point>
 				<coordinates>4.9167,52.35</coordinates>
@@ -1236,23 +1326,44 @@
 		</Placemark>
 		<Placemark>
 			<address>Amsterdam</address>
+			<Point>
+				<coordinates>4.9167,52.35</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Amsterdam</address>
+			<Point>
+				<coordinates>4.9167,52.35</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Amsterdam</address>
+			<Point>
+				<coordinates>4.9167,52.35</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Amsterdam</address>
+			<Point>
+				<coordinates>4.9167,52.35</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Antwerpen</address>
 			<TimeStamp>
-				<when>1677</when>
+				<when>1528</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>4.9167,52.35</coordinates>
+				<coordinates>4.4015,51.2139</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<address>Amsterdam</address>
+			<address>Antwerpen</address>
+			<TimeStamp>
+				<when>1549</when>
+			</TimeStamp>
 			<Point>
-				<coordinates>4.9167,52.35</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<address>Amsterdam</address>
-			<Point>
-				<coordinates>4.9167,52.35</coordinates>
+				<coordinates>4.4015,51.2139</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -1261,7 +1372,7 @@
 				<when>1552</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>4.40346,51.21989</coordinates>
+				<coordinates>4.4015,51.2139</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -1270,7 +1381,7 @@
 				<when>1553</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>4.40346,51.21989</coordinates>
+				<coordinates>4.4015,51.2139</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -1279,7 +1390,7 @@
 				<when>1554</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>4.40346,51.21989</coordinates>
+				<coordinates>4.4015,51.2139</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -1288,7 +1399,7 @@
 				<when>1555</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>4.40346,51.21989</coordinates>
+				<coordinates>4.4015,51.2139</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -1297,7 +1408,7 @@
 				<when>1556</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>4.40346,51.21989</coordinates>
+				<coordinates>4.4015,51.2139</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -1306,7 +1417,7 @@
 				<when>1556</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>4.40346,51.21989</coordinates>
+				<coordinates>4.4015,51.2139</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -1315,7 +1426,7 @@
 				<when>1559</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>4.40346,51.21989</coordinates>
+				<coordinates>4.4015,51.2139</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -1324,7 +1435,7 @@
 				<when>1561</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>4.40346,51.21989</coordinates>
+				<coordinates>4.4015,51.2139</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -1333,7 +1444,7 @@
 				<when>1565</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>4.40346,51.21989</coordinates>
+				<coordinates>4.4015,51.2139</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -1342,7 +1453,7 @@
 				<when>1565</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>4.40346,51.21989</coordinates>
+				<coordinates>4.4015,51.2139</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -1351,7 +1462,7 @@
 				<when>1566</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>4.40346,51.21989</coordinates>
+				<coordinates>4.4015,51.2139</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -1360,7 +1471,7 @@
 				<when>1566</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>4.40346,51.21989</coordinates>
+				<coordinates>4.4015,51.2139</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -1369,7 +1480,7 @@
 				<when>1568</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>4.40346,51.21989</coordinates>
+				<coordinates>4.4015,51.2139</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -1378,7 +1489,7 @@
 				<when>1571</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>4.40346,51.21989</coordinates>
+				<coordinates>4.4015,51.2139</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -1387,7 +1498,7 @@
 				<when>1574</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>4.40346,51.21989</coordinates>
+				<coordinates>4.4015,51.2139</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -1396,7 +1507,7 @@
 				<when>1580</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>4.40346,51.21989</coordinates>
+				<coordinates>4.4015,51.2139</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -1405,7 +1516,7 @@
 				<when>1582</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>4.40346,51.21989</coordinates>
+				<coordinates>4.4015,51.2139</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -1414,7 +1525,7 @@
 				<when>1582</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>4.40346,51.21989</coordinates>
+				<coordinates>4.4015,51.2139</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -1423,7 +1534,7 @@
 				<when>1582</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>4.40346,51.21989</coordinates>
+				<coordinates>4.4015,51.2139</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -1432,7 +1543,7 @@
 				<when>1584</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>4.40346,51.21989</coordinates>
+				<coordinates>4.4015,51.2139</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -1441,16 +1552,16 @@
 				<when>1585</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>4.40346,51.21989</coordinates>
+				<coordinates>4.4015,51.2139</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
 			<address>Antwerpen</address>
 			<TimeStamp>
-				<when>1655</when>
+				<when>1635</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>4.40346,51.21989</coordinates>
+				<coordinates>4.4015,51.2139</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -1459,31 +1570,13 @@
 				<when>1659</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>4.40346,51.21989</coordinates>
+				<coordinates>4.4015,51.2139</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
 			<address>Antwerpen</address>
 			<Point>
-				<coordinates>4.40346,51.21989</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<address>Arnheim</address>
-			<TimeStamp>
-				<when>1620</when>
-			</TimeStamp>
-			<Point>
-				<coordinates>5.91111,51.98</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<address>Arnheim</address>
-			<TimeStamp>
-				<when>1663</when>
-			</TimeStamp>
-			<Point>
-				<coordinates>5.91111,51.98</coordinates>
+				<coordinates>4.4015,51.2139</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -1550,18 +1643,18 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<address>Barth</address>
+			<address>Basel</address>
 			<TimeStamp>
-				<when>1584</when>
+				<when>1506</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12.72491,54.36346</coordinates>
+				<coordinates>7.6,47.55</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
 			<address>Basel</address>
 			<TimeStamp>
-				<when>1506</when>
+				<when>1523</when>
 			</TimeStamp>
 			<Point>
 				<coordinates>7.6,47.55</coordinates>
@@ -1598,15 +1691,6 @@
 			<address>Basel</address>
 			<TimeStamp>
 				<when>1529</when>
-			</TimeStamp>
-			<Point>
-				<coordinates>7.6,47.55</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<address>Basel</address>
-			<TimeStamp>
-				<when>1537</when>
 			</TimeStamp>
 			<Point>
 				<coordinates>7.6,47.55</coordinates>
@@ -1768,6 +1852,15 @@
 		<Placemark>
 			<address>Basel</address>
 			<TimeStamp>
+				<when>1572</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>7.6,47.55</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Basel</address>
+			<TimeStamp>
 				<when>1579</when>
 			</TimeStamp>
 			<Point>
@@ -1895,21 +1988,12 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<address>Bayreuth</address>
-			<TimeStamp>
-				<when>1663</when>
-			</TimeStamp>
-			<Point>
-				<coordinates>11.57893,49.94782</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
 			<address>Berlin</address>
 			<TimeStamp>
 				<when>1654</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>13.4,52.516667</coordinates>
+				<coordinates>13.405961,52.517413</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -1990,7 +2074,7 @@
 				<when>1624</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>11.4333,44.4667</coordinates>
+				<coordinates>8.8,53.0833</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -1999,7 +2083,7 @@
 				<when>1629</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>11.4333,44.4667</coordinates>
+				<coordinates>8.8,53.0833</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -2008,7 +2092,7 @@
 				<when>1640</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>11.4333,44.4667</coordinates>
+				<coordinates>8.8,53.0833</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -2017,16 +2101,16 @@
 				<when>1652</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>11.4333,44.4667</coordinates>
+				<coordinates>8.8,53.0833</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<address>Brüx</address>
+			<address>Bremen</address>
 			<TimeStamp>
-				<when>1596</when>
+				<when>1653</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>13.63617,50.50301</coordinates>
+				<coordinates>8.8,53.0833</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -2188,7 +2272,7 @@
 				<when>1539</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>6.16389,52.255</coordinates>
+				<coordinates>6.2,52.25</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -2197,7 +2281,7 @@
 				<when>1539</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>6.16389,52.255</coordinates>
+				<coordinates>6.2,52.25</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -2206,7 +2290,7 @@
 				<when>1542</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>6.16389,52.255</coordinates>
+				<coordinates>6.2,52.25</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -2215,7 +2299,7 @@
 				<when>1543</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>6.16389,52.255</coordinates>
+				<coordinates>6.2,52.25</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -2228,12 +2312,12 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<address>Dordrecht</address>
+			<address>Dortmund</address>
 			<TimeStamp>
-				<when>1624</when>
+				<when>1622</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>4.6667,51.8</coordinates>
+				<coordinates>7.45,51.5167</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -2261,15 +2345,6 @@
 			</TimeStamp>
 			<Point>
 				<coordinates>13.75,51.05</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<address>Eißleben</address>
-			<TimeStamp>
-				<when>1605</when>
-			</TimeStamp>
-			<Point>
-				<coordinates>11.55,51.5333</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -2350,7 +2425,7 @@
 				<when>1596</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>11.03283,50.9787</coordinates>
+				<coordinates>11.0333,50.9833</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -2359,7 +2434,7 @@
 				<when>1618</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>11.03283,50.9787</coordinates>
+				<coordinates>11.0333,50.9833</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -2368,7 +2443,7 @@
 				<when>1620</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>11.03283,50.9787</coordinates>
+				<coordinates>11.0333,50.9833</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -2377,16 +2452,7 @@
 				<when>1620</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>11.03283,50.9787</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<address>Erfurt</address>
-			<TimeStamp>
-				<when>1626</when>
-			</TimeStamp>
-			<Point>
-				<coordinates>11.03283,50.9787</coordinates>
+				<coordinates>11.0333,50.9833</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -2395,7 +2461,7 @@
 				<when>1637</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>11.03283,50.9787</coordinates>
+				<coordinates>11.0333,50.9833</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -2404,7 +2470,7 @@
 				<when>1639</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>11.03283,50.9787</coordinates>
+				<coordinates>11.0333,50.9833</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -2413,7 +2479,25 @@
 				<when>1648</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>11.03283,50.9787</coordinates>
+				<coordinates>11.0333,50.9833</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Erfurt</address>
+			<TimeStamp>
+				<when>1653</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>11.0333,50.9833</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Erfurt</address>
+			<TimeStamp>
+				<when>1656</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>11.0333,50.9833</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -2563,6 +2647,15 @@
 		<Placemark>
 			<address>Frankfurt/M.</address>
 			<TimeStamp>
+				<when>1571</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>8.6833,50.1167</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Frankfurt/M.</address>
+			<TimeStamp>
 				<when>1580</when>
 			</TimeStamp>
 			<Point>
@@ -2617,7 +2710,25 @@
 		<Placemark>
 			<address>Frankfurt/M.</address>
 			<TimeStamp>
+				<when>1596</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>8.6833,50.1167</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Frankfurt/M.</address>
+			<TimeStamp>
 				<when>1600</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>8.6833,50.1167</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Frankfurt/M.</address>
+			<TimeStamp>
+				<when>1602</when>
 			</TimeStamp>
 			<Point>
 				<coordinates>8.6833,50.1167</coordinates>
@@ -2671,15 +2782,6 @@
 		<Placemark>
 			<address>Frankfurt/M.</address>
 			<TimeStamp>
-				<when>1606</when>
-			</TimeStamp>
-			<Point>
-				<coordinates>8.6833,50.1167</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<address>Frankfurt/M.</address>
-			<TimeStamp>
 				<when>1608</when>
 			</TimeStamp>
 			<Point>
@@ -2690,6 +2792,15 @@
 			<address>Frankfurt/M.</address>
 			<TimeStamp>
 				<when>1608</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>8.6833,50.1167</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Frankfurt/M.</address>
+			<TimeStamp>
+				<when>1609</when>
 			</TimeStamp>
 			<Point>
 				<coordinates>8.6833,50.1167</coordinates>
@@ -2834,6 +2945,15 @@
 			<address>Frankfurt/M.</address>
 			<TimeStamp>
 				<when>1615</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>8.6833,50.1167</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Frankfurt/M.</address>
+			<TimeStamp>
+				<when>1616</when>
 			</TimeStamp>
 			<Point>
 				<coordinates>8.6833,50.1167</coordinates>
@@ -3049,6 +3169,24 @@
 		<Placemark>
 			<address>Frankfurt/M.</address>
 			<TimeStamp>
+				<when>1644</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>8.6833,50.1167</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Frankfurt/M.</address>
+			<TimeStamp>
+				<when>1655</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>8.6833,50.1167</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Frankfurt/M.</address>
+			<TimeStamp>
 				<when>1656</when>
 			</TimeStamp>
 			<Point>
@@ -3058,15 +3196,6 @@
 		<Placemark>
 			<address>Frankfurt/M.</address>
 			<TimeStamp>
-				<when>1657</when>
-			</TimeStamp>
-			<Point>
-				<coordinates>8.6833,50.1167</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<address>Frankfurt/M.</address>
-			<TimeStamp>
 				<when>1661</when>
 			</TimeStamp>
 			<Point>
@@ -3087,6 +3216,18 @@
 			<TimeStamp>
 				<when>1661</when>
 			</TimeStamp>
+			<Point>
+				<coordinates>8.6833,50.1167</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Frankfurt/M.</address>
+			<Point>
+				<coordinates>8.6833,50.1167</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Frankfurt/M.</address>
 			<Point>
 				<coordinates>8.6833,50.1167</coordinates>
 			</Point>
@@ -3203,12 +3344,21 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<address>Gouda</address>
+			<address>Gera</address>
 			<TimeStamp>
-				<when>1551</when>
+				<when>1613</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>4.70833,52.01667</coordinates>
+				<coordinates>12.0833,50.8667</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Gotha</address>
+			<TimeStamp>
+				<when>1644</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>10.7167,50.95</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -3217,7 +3367,16 @@
 				<when>1551</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>4.70833,52.01667</coordinates>
+				<coordinates>4.7,52.0167</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Gouda</address>
+			<TimeStamp>
+				<when>1551</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>4.7,52.0167</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -3226,7 +3385,7 @@
 				<when>1585</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>4.70833,52.01667</coordinates>
+				<coordinates>4.7,52.0167</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -3235,7 +3394,7 @@
 				<when>1590</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>4.70833,52.01667</coordinates>
+				<coordinates>4.7,52.0167</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -3244,7 +3403,7 @@
 				<when>1612</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>4.70833,52.01667</coordinates>
+				<coordinates>4.7,52.0167</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -3253,7 +3412,7 @@
 				<when>1612</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>4.70833,52.01667</coordinates>
+				<coordinates>4.7,52.0167</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -3262,7 +3421,7 @@
 				<when>1613</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>4.70833,52.01667</coordinates>
+				<coordinates>4.7,52.0167</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -3271,7 +3430,7 @@
 				<when>1626</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>4.70833,52.01667</coordinates>
+				<coordinates>4.7,52.0167</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -3280,7 +3439,7 @@
 				<when>1626</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>4.70833,52.01667</coordinates>
+				<coordinates>4.7,52.0167</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -3289,16 +3448,16 @@
 				<when>1636</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>4.70833,52.01667</coordinates>
+				<coordinates>4.7,52.0167</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<address>Grebenstein</address>
+			<address>Groningen</address>
 			<TimeStamp>
-				<when>1637</when>
+				<when>1630</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>9.4125,51.44648</coordinates>
+				<coordinates>6.55,53.2167</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -3358,7 +3517,25 @@
 		<Placemark>
 			<address>Haarlem</address>
 			<TimeStamp>
+				<when>1600</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>4.65,52.3667</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Haarlem</address>
+			<TimeStamp>
 				<when>1613</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>4.65,52.3667</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Haarlem</address>
+			<TimeStamp>
+				<when>1625</when>
 			</TimeStamp>
 			<Point>
 				<coordinates>4.65,52.3667</coordinates>
@@ -3374,18 +3551,12 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<address>Haguenau</address>
+			<address>Haarlem</address>
 			<TimeStamp>
-				<when>1525</when>
+				<when>1639</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>7.79051,48.81557</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<address>Haguenau</address>
-			<Point>
-				<coordinates>7.79051,48.81557</coordinates>
+				<coordinates>4.65,52.3667</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -3403,7 +3574,7 @@
 				<when>1609</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12,51.5</coordinates>
+				<coordinates>11.97035,51.482573</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -3412,7 +3583,7 @@
 				<when>1615</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12,51.5</coordinates>
+				<coordinates>11.97035,51.482573</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -3421,7 +3592,7 @@
 				<when>1616</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12,51.5</coordinates>
+				<coordinates>11.97035,51.482573</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -3430,7 +3601,7 @@
 				<when>1617</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12,51.5</coordinates>
+				<coordinates>11.97035,51.482573</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -3439,7 +3610,7 @@
 				<when>1617</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12,51.5</coordinates>
+				<coordinates>11.97035,51.482573</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -3448,7 +3619,7 @@
 				<when>1618</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12,51.5</coordinates>
+				<coordinates>11.97035,51.482573</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -3457,7 +3628,7 @@
 				<when>1618</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12,51.5</coordinates>
+				<coordinates>11.97035,51.482573</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -3466,7 +3637,7 @@
 				<when>1618</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12,51.5</coordinates>
+				<coordinates>11.97035,51.482573</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -3475,7 +3646,7 @@
 				<when>1618</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12,51.5</coordinates>
+				<coordinates>11.97035,51.482573</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -3484,7 +3655,7 @@
 				<when>1618</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12,51.5</coordinates>
+				<coordinates>11.97035,51.482573</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -3493,7 +3664,7 @@
 				<when>1618</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12,51.5</coordinates>
+				<coordinates>11.97035,51.482573</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -3502,7 +3673,7 @@
 				<when>1618</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12,51.5</coordinates>
+				<coordinates>11.97035,51.482573</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -3511,7 +3682,7 @@
 				<when>1618</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12,51.5</coordinates>
+				<coordinates>11.97035,51.482573</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -3520,7 +3691,7 @@
 				<when>1618</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12,51.5</coordinates>
+				<coordinates>11.97035,51.482573</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -3529,7 +3700,7 @@
 				<when>1618</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12,51.5</coordinates>
+				<coordinates>11.97035,51.482573</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -3538,7 +3709,7 @@
 				<when>1618</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12,51.5</coordinates>
+				<coordinates>11.97035,51.482573</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -3547,7 +3718,7 @@
 				<when>1618</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12,51.5</coordinates>
+				<coordinates>11.97035,51.482573</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -3556,7 +3727,7 @@
 				<when>1618</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12,51.5</coordinates>
+				<coordinates>11.97035,51.482573</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -3565,7 +3736,7 @@
 				<when>1618</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12,51.5</coordinates>
+				<coordinates>11.97035,51.482573</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -3574,7 +3745,7 @@
 				<when>1618</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12,51.5</coordinates>
+				<coordinates>11.97035,51.482573</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -3583,7 +3754,7 @@
 				<when>1618</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12,51.5</coordinates>
+				<coordinates>11.97035,51.482573</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -3592,7 +3763,7 @@
 				<when>1618</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12,51.5</coordinates>
+				<coordinates>11.97035,51.482573</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -3601,7 +3772,7 @@
 				<when>1618</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12,51.5</coordinates>
+				<coordinates>11.97035,51.482573</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -3610,7 +3781,7 @@
 				<when>1618</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12,51.5</coordinates>
+				<coordinates>11.97035,51.482573</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -3619,7 +3790,7 @@
 				<when>1618</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12,51.5</coordinates>
+				<coordinates>11.97035,51.482573</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -3628,7 +3799,7 @@
 				<when>1618</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12,51.5</coordinates>
+				<coordinates>11.97035,51.482573</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -3637,7 +3808,7 @@
 				<when>1618</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12,51.5</coordinates>
+				<coordinates>11.97035,51.482573</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -3646,49 +3817,49 @@
 				<when>1618</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12,51.5</coordinates>
+				<coordinates>11.97035,51.482573</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
 			<address>Halle/S.</address>
 			<Point>
-				<coordinates>12,51.5</coordinates>
+				<coordinates>11.97035,51.482573</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
 			<address>Halle/S.</address>
 			<Point>
-				<coordinates>12,51.5</coordinates>
+				<coordinates>11.97035,51.482573</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
 			<address>Halle/S.</address>
 			<Point>
-				<coordinates>12,51.5</coordinates>
+				<coordinates>11.97035,51.482573</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
 			<address>Halle/S.</address>
 			<Point>
-				<coordinates>12,51.5</coordinates>
+				<coordinates>11.97035,51.482573</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
 			<address>Halle/S.</address>
 			<Point>
-				<coordinates>12,51.5</coordinates>
+				<coordinates>11.97035,51.482573</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
 			<address>Halle/S.</address>
 			<Point>
-				<coordinates>12,51.5</coordinates>
+				<coordinates>11.97035,51.482573</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
 			<address>Halle/S.</address>
 			<Point>
-				<coordinates>12,51.5</coordinates>
+				<coordinates>11.97035,51.482573</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -3775,6 +3946,15 @@
 		<Placemark>
 			<address>Hamburg</address>
 			<TimeStamp>
+				<when>1602</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>10,53.55</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Hamburg</address>
+			<TimeStamp>
 				<when>1605</when>
 			</TimeStamp>
 			<Point>
@@ -3839,6 +4019,15 @@
 			<address>Hamburg</address>
 			<TimeStamp>
 				<when>1635</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>10,53.55</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Hamburg</address>
+			<TimeStamp>
+				<when>1636</when>
 			</TimeStamp>
 			<Point>
 				<coordinates>10,53.55</coordinates>
@@ -3995,21 +4184,12 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<address>Harlingen</address>
-			<TimeStamp>
-				<when>1653</when>
-			</TimeStamp>
-			<Point>
-				<coordinates>5.42244,53.17477</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
 			<address>Heidelberg</address>
 			<TimeStamp>
 				<when>1605</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>8.69079,49.40768</coordinates>
+				<coordinates>8.7,49.4167</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -4025,6 +4205,15 @@
 			<address>Hoorn</address>
 			<TimeStamp>
 				<when>1612</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>5.0667,52.65</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Hoorn</address>
+			<TimeStamp>
+				<when>1621</when>
 			</TimeStamp>
 			<Point>
 				<coordinates>5.0667,52.65</coordinates>
@@ -4042,7 +4231,7 @@
 		<Placemark>
 			<address>Jena</address>
 			<TimeStamp>
-				<when>1619</when>
+				<when>1618</when>
 			</TimeStamp>
 			<Point>
 				<coordinates>11.5833,50.9333</coordinates>
@@ -4067,48 +4256,12 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<address>Kampen</address>
-			<TimeStamp>
-				<when>1561</when>
-			</TimeStamp>
-			<Point>
-				<coordinates>5.916667,52.55</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<address>Kampen</address>
-			<TimeStamp>
-				<when>1612</when>
-			</TimeStamp>
-			<Point>
-				<coordinates>5.916667,52.55</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<address>Kampen</address>
-			<TimeStamp>
-				<when>1612</when>
-			</TimeStamp>
-			<Point>
-				<coordinates>5.916667,52.55</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<address>Karlsbad</address>
-			<TimeStamp>
-				<when>1663</when>
-			</TimeStamp>
-			<Point>
-				<coordinates>12.87117,50.23271</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
 			<address>Kassel</address>
 			<TimeStamp>
 				<when>1608</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>9.5,51.316667</coordinates>
+				<coordinates>9.478124,51.314672</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -4117,7 +4270,7 @@
 				<when>1615</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>9.5,51.316667</coordinates>
+				<coordinates>9.478124,51.314672</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -4126,7 +4279,7 @@
 				<when>1615</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>9.5,51.316667</coordinates>
+				<coordinates>9.478124,51.314672</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -4135,7 +4288,7 @@
 				<when>1635</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>9.5,51.316667</coordinates>
+				<coordinates>9.478124,51.314672</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -4144,7 +4297,7 @@
 				<when>1646</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>9.5,51.316667</coordinates>
+				<coordinates>9.478124,51.314672</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -4153,7 +4306,16 @@
 				<when>1646</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>9.5,51.316667</coordinates>
+				<coordinates>9.478124,51.314672</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Kassel</address>
+			<TimeStamp>
+				<when>1647</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>9.478124,51.314672</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -4162,7 +4324,7 @@
 				<when>1649</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>9.5,51.316667</coordinates>
+				<coordinates>9.478124,51.314672</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -4171,7 +4333,7 @@
 				<when>1651</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>9.5,51.316667</coordinates>
+				<coordinates>9.478124,51.314672</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -4348,6 +4510,15 @@
 		<Placemark>
 			<address>Köln</address>
 			<TimeStamp>
+				<when>1572</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>6.95,50.9333</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Köln</address>
+			<TimeStamp>
 				<when>1574</when>
 			</TimeStamp>
 			<Point>
@@ -4429,6 +4600,15 @@
 		<Placemark>
 			<address>Köln</address>
 			<TimeStamp>
+				<when>1591</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>6.95,50.9333</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Köln</address>
+			<TimeStamp>
 				<when>1592</when>
 			</TimeStamp>
 			<Point>
@@ -4466,6 +4646,15 @@
 			</TimeStamp>
 			<Point>
 				<coordinates>20.5,54.6667</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>La Rochelle</address>
+			<TimeStamp>
+				<when>1615</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>-1.15,46.1667</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -4561,15 +4750,6 @@
 		<Placemark>
 			<address>Leiden</address>
 			<TimeStamp>
-				<when>1592</when>
-			</TimeStamp>
-			<Point>
-				<coordinates>4.5,52.15</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<address>Leiden</address>
-			<TimeStamp>
 				<when>1594</when>
 			</TimeStamp>
 			<Point>
@@ -4589,6 +4769,15 @@
 			<address>Leiden</address>
 			<TimeStamp>
 				<when>1598</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>4.5,52.15</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Leiden</address>
+			<TimeStamp>
+				<when>1600</when>
 			</TimeStamp>
 			<Point>
 				<coordinates>4.5,52.15</coordinates>
@@ -4660,7 +4849,7 @@
 		<Placemark>
 			<address>Leiden</address>
 			<TimeStamp>
-				<when>1625</when>
+				<when>1624</when>
 			</TimeStamp>
 			<Point>
 				<coordinates>4.5,52.15</coordinates>
@@ -4840,6 +5029,15 @@
 		<Placemark>
 			<address>Leipzig</address>
 			<TimeStamp>
+				<when>1600</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>12.4167,51.3333</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Leipzig</address>
+			<TimeStamp>
 				<when>1604</when>
 			</TimeStamp>
 			<Point>
@@ -4877,6 +5075,15 @@
 			<address>Leipzig</address>
 			<TimeStamp>
 				<when>1607</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>12.4167,51.3333</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Leipzig</address>
+			<TimeStamp>
+				<when>1610</when>
 			</TimeStamp>
 			<Point>
 				<coordinates>12.4167,51.3333</coordinates>
@@ -5010,44 +5217,26 @@
 		</Placemark>
 		<Placemark>
 			<address>Leipzig</address>
+			<TimeStamp>
+				<when>1638</when>
+			</TimeStamp>
 			<Point>
 				<coordinates>12.4167,51.3333</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<address>Lemgo</address>
+			<address>Leipzig</address>
 			<TimeStamp>
-				<when>1603</when>
+				<when>1639</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>8.89901,52.02786</coordinates>
+				<coordinates>12.4167,51.3333</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<address>Lich</address>
-			<TimeStamp>
-				<when>1605</when>
-			</TimeStamp>
+			<address>Leipzig</address>
 			<Point>
-				<coordinates>8.81567,50.52085</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<address>Liegnitz</address>
-			<TimeStamp>
-				<when>1600</when>
-			</TimeStamp>
-			<Point>
-				<coordinates>16.1619,51.21006</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<address>Liegnitz</address>
-			<TimeStamp>
-				<when>1600</when>
-			</TimeStamp>
-			<Point>
-				<coordinates>16.1619,51.21006</coordinates>
+				<coordinates>12.4167,51.3333</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -5116,6 +5305,15 @@
 		<Placemark>
 			<address>Lyon</address>
 			<TimeStamp>
+				<when>1592</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>4.8333,45.7667</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Lyon</address>
+			<TimeStamp>
 				<when>1625</when>
 			</TimeStamp>
 			<Point>
@@ -5126,15 +5324,6 @@
 			<address>Löwen</address>
 			<TimeStamp>
 				<when>1549</when>
-			</TimeStamp>
-			<Point>
-				<coordinates>4.7,50.8833</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<address>Löwen</address>
-			<TimeStamp>
-				<when>1597</when>
 			</TimeStamp>
 			<Point>
 				<coordinates>4.7,50.8833</coordinates>
@@ -5191,7 +5380,7 @@
 				<when>1530</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>11.666667,52.166667</coordinates>
+				<coordinates>11.632825,52.125861</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -5200,7 +5389,7 @@
 				<when>1577</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>11.666667,52.166667</coordinates>
+				<coordinates>11.632825,52.125861</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -5209,7 +5398,7 @@
 				<when>1584</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>11.666667,52.166667</coordinates>
+				<coordinates>11.632825,52.125861</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -5218,7 +5407,7 @@
 				<when>1617</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>11.666667,52.166667</coordinates>
+				<coordinates>11.632825,52.125861</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -5227,7 +5416,7 @@
 				<when>1618</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>11.666667,52.166667</coordinates>
+				<coordinates>11.632825,52.125861</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -5236,7 +5425,7 @@
 				<when>1618</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>11.666667,52.166667</coordinates>
+				<coordinates>11.632825,52.125861</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -5245,7 +5434,7 @@
 				<when>1623</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>11.666667,52.166667</coordinates>
+				<coordinates>11.632825,52.125861</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -5254,13 +5443,22 @@
 				<when>1624</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>11.666667,52.166667</coordinates>
+				<coordinates>11.632825,52.125861</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Magdeburg</address>
+			<TimeStamp>
+				<when>1639</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>11.632825,52.125861</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
 			<address>Magdeburg</address>
 			<Point>
-				<coordinates>11.666667,52.166667</coordinates>
+				<coordinates>11.632825,52.125861</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -5312,6 +5510,24 @@
 			<address>Middelburg</address>
 			<TimeStamp>
 				<when>1599</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>3.416,51.2561</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Middelburg</address>
+			<TimeStamp>
+				<when>1626</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>3.416,51.2561</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Middelburg</address>
+			<TimeStamp>
+				<when>1626</when>
 			</TimeStamp>
 			<Point>
 				<coordinates>3.416,51.2561</coordinates>
@@ -5372,39 +5588,12 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<address>Mühlhausen (Thür.)</address>
+			<address>Münster</address>
 			<TimeStamp>
-				<when>1606</when>
+				<when>1535</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>10.45275,51.20896</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<address>Mühlhausen (Thür.)</address>
-			<TimeStamp>
-				<when>1606</when>
-			</TimeStamp>
-			<Point>
-				<coordinates>10.45275,51.20896</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<address>Mühlhausen i. E.</address>
-			<TimeStamp>
-				<when>1562</when>
-			</TimeStamp>
-			<Point>
-				<coordinates>10.45275,51.20896</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<address>Mühlhausen i. E.</address>
-			<TimeStamp>
-				<when>1594</when>
-			</TimeStamp>
-			<Point>
-				<coordinates>10.45275,51.20896</coordinates>
+				<coordinates>7.618604,51.961088</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -5413,7 +5602,7 @@
 				<when>1535</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>7.633333,51.966667</coordinates>
+				<coordinates>7.618604,51.961088</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -5422,7 +5611,7 @@
 				<when>1535</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>7.633333,51.966667</coordinates>
+				<coordinates>7.618604,51.961088</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -5431,7 +5620,7 @@
 				<when>1535</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>7.633333,51.966667</coordinates>
+				<coordinates>7.618604,51.961088</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -5440,16 +5629,7 @@
 				<when>1535</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>7.633333,51.966667</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<address>Münster</address>
-			<TimeStamp>
-				<when>1535</when>
-			</TimeStamp>
-			<Point>
-				<coordinates>7.633333,51.966667</coordinates>
+				<coordinates>7.618604,51.961088</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -5458,7 +5638,7 @@
 				<when>1569</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>7.633333,51.966667</coordinates>
+				<coordinates>7.618604,51.961088</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -5467,7 +5647,7 @@
 				<when>1569</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>7.633333,51.966667</coordinates>
+				<coordinates>7.618604,51.961088</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -5476,16 +5656,7 @@
 				<when>1570</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>7.633333,51.966667</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<address>Nordhausen</address>
-			<TimeStamp>
-				<when>1629</when>
-			</TimeStamp>
-			<Point>
-				<coordinates>10.7957,51.5018</coordinates>
+				<coordinates>7.618604,51.961088</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -5494,7 +5665,7 @@
 				<when>1528</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12.916667,48.366667</coordinates>
+				<coordinates>11.07634,49.449713</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -5503,7 +5674,7 @@
 				<when>1539</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12.916667,48.366667</coordinates>
+				<coordinates>11.07634,49.449713</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -5512,7 +5683,7 @@
 				<when>1539</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12.916667,48.366667</coordinates>
+				<coordinates>11.07634,49.449713</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -5521,7 +5692,7 @@
 				<when>1544</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12.916667,48.366667</coordinates>
+				<coordinates>11.07634,49.449713</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -5530,7 +5701,7 @@
 				<when>1544</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12.916667,48.366667</coordinates>
+				<coordinates>11.07634,49.449713</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -5539,7 +5710,7 @@
 				<when>1545</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12.916667,48.366667</coordinates>
+				<coordinates>11.07634,49.449713</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -5548,7 +5719,7 @@
 				<when>1545</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12.916667,48.366667</coordinates>
+				<coordinates>11.07634,49.449713</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -5557,7 +5728,7 @@
 				<when>1546</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12.916667,48.366667</coordinates>
+				<coordinates>11.07634,49.449713</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -5566,7 +5737,7 @@
 				<when>1547</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12.916667,48.366667</coordinates>
+				<coordinates>11.07634,49.449713</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -5575,7 +5746,7 @@
 				<when>1549</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12.916667,48.366667</coordinates>
+				<coordinates>11.07634,49.449713</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -5584,7 +5755,7 @@
 				<when>1550</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12.916667,48.366667</coordinates>
+				<coordinates>11.07634,49.449713</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -5593,7 +5764,34 @@
 				<when>1556</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12.916667,48.366667</coordinates>
+				<coordinates>11.07634,49.449713</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Nürnberg</address>
+			<TimeStamp>
+				<when>1567</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>11.07634,49.449713</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Nürnberg</address>
+			<TimeStamp>
+				<when>1572</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>11.07634,49.449713</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Nürnberg</address>
+			<TimeStamp>
+				<when>1572</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>11.07634,49.449713</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -5602,7 +5800,7 @@
 				<when>1596</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12.916667,48.366667</coordinates>
+				<coordinates>11.07634,49.449713</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -5611,7 +5809,7 @@
 				<when>1598</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12.916667,48.366667</coordinates>
+				<coordinates>11.07634,49.449713</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -5620,7 +5818,7 @@
 				<when>1599</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12.916667,48.366667</coordinates>
+				<coordinates>11.07634,49.449713</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -5629,7 +5827,7 @@
 				<when>1602</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12.916667,48.366667</coordinates>
+				<coordinates>11.07634,49.449713</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -5638,7 +5836,7 @@
 				<when>1608</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12.916667,48.366667</coordinates>
+				<coordinates>11.07634,49.449713</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -5647,7 +5845,7 @@
 				<when>1613</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12.916667,48.366667</coordinates>
+				<coordinates>11.07634,49.449713</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -5656,7 +5854,7 @@
 				<when>1617</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12.916667,48.366667</coordinates>
+				<coordinates>11.07634,49.449713</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -5665,7 +5863,7 @@
 				<when>1617</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12.916667,48.366667</coordinates>
+				<coordinates>11.07634,49.449713</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -5674,7 +5872,7 @@
 				<when>1619</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12.916667,48.366667</coordinates>
+				<coordinates>11.07634,49.449713</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -5683,7 +5881,7 @@
 				<when>1619</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12.916667,48.366667</coordinates>
+				<coordinates>11.07634,49.449713</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -5692,7 +5890,7 @@
 				<when>1633</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12.916667,48.366667</coordinates>
+				<coordinates>11.07634,49.449713</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -5701,7 +5899,7 @@
 				<when>1636</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12.916667,48.366667</coordinates>
+				<coordinates>11.07634,49.449713</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -5710,7 +5908,7 @@
 				<when>1636</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12.916667,48.366667</coordinates>
+				<coordinates>11.07634,49.449713</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -5719,7 +5917,7 @@
 				<when>1637</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12.916667,48.366667</coordinates>
+				<coordinates>11.07634,49.449713</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -5728,7 +5926,7 @@
 				<when>1640</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12.916667,48.366667</coordinates>
+				<coordinates>11.07634,49.449713</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -5737,7 +5935,7 @@
 				<when>1645</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12.916667,48.366667</coordinates>
+				<coordinates>11.07634,49.449713</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -5746,7 +5944,7 @@
 				<when>1645</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12.916667,48.366667</coordinates>
+				<coordinates>11.07634,49.449713</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -5755,7 +5953,7 @@
 				<when>1646</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12.916667,48.366667</coordinates>
+				<coordinates>11.07634,49.449713</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -5764,7 +5962,7 @@
 				<when>1652</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12.916667,48.366667</coordinates>
+				<coordinates>11.07634,49.449713</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -5773,7 +5971,7 @@
 				<when>1652</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12.916667,48.366667</coordinates>
+				<coordinates>11.07634,49.449713</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -5782,7 +5980,7 @@
 				<when>1652</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12.916667,48.366667</coordinates>
+				<coordinates>11.07634,49.449713</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -5791,22 +5989,13 @@
 				<when>1656</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>12.916667,48.366667</coordinates>
+				<coordinates>11.07634,49.449713</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
 			<address>Nürnberg</address>
 			<Point>
-				<coordinates>12.916667,48.366667</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<address>Oberursel</address>
-			<TimeStamp>
-				<when>1602</when>
-			</TimeStamp>
-			<Point>
-				<coordinates>8.57747,50.20731</coordinates>
+				<coordinates>11.07634,49.449713</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -5876,6 +6065,15 @@
 			<address>Paris</address>
 			<TimeStamp>
 				<when>1560</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>2.3333,48.8667</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Paris</address>
+			<TimeStamp>
+				<when>1612</when>
 			</TimeStamp>
 			<Point>
 				<coordinates>2.3333,48.8667</coordinates>
@@ -5969,66 +6167,12 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<address>Pforzheim</address>
-			<TimeStamp>
-				<when>1559</when>
-			</TimeStamp>
-			<Point>
-				<coordinates>8.69892,48.88436</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<address>Prag</address>
-			<TimeStamp>
-				<when>1564</when>
-			</TimeStamp>
-			<Point>
-				<coordinates>14.42076,50.08804</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<address>Prag</address>
-			<TimeStamp>
-				<when>1596</when>
-			</TimeStamp>
-			<Point>
-				<coordinates>14.42076,50.08804</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
 			<address>Raków</address>
 			<TimeStamp>
 				<when>1612</when>
 			</TimeStamp>
 			<Point>
 				<coordinates>21.04517,50.67427</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<address>Rees</address>
-			<TimeStamp>
-				<when>1583</when>
-			</TimeStamp>
-			<Point>
-				<coordinates>6.39778,51.76263</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<address>Rees</address>
-			<TimeStamp>
-				<when>1608</when>
-			</TimeStamp>
-			<Point>
-				<coordinates>6.39778,51.76263</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<address>Rinteln</address>
-			<TimeStamp>
-				<when>1632</when>
-			</TimeStamp>
-			<Point>
-				<coordinates>9.07917,52.18604</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -6071,12 +6215,36 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+			<address>Rostock</address>
+			<Point>
+				<coordinates>12.1333,54.0833</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<address>Rotterdam</address>
 			<TimeStamp>
-				<when>1544</when>
+				<when>1579</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>4.47917,51.9225</coordinates>
+				<coordinates>4.5,51.9167</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Rotterdam</address>
+			<TimeStamp>
+				<when>1579</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>4.5,51.9167</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Rotterdam</address>
+			<TimeStamp>
+				<when>1586</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>4.5,51.9167</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -6085,7 +6253,7 @@
 				<when>1589</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>4.47917,51.9225</coordinates>
+				<coordinates>4.5,51.9167</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -6094,7 +6262,7 @@
 				<when>1608</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>4.47917,51.9225</coordinates>
+				<coordinates>4.5,51.9167</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -6103,7 +6271,7 @@
 				<when>1610</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>4.47917,51.9225</coordinates>
+				<coordinates>4.5,51.9167</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -6112,7 +6280,7 @@
 				<when>1610</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>4.47917,51.9225</coordinates>
+				<coordinates>4.5,51.9167</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -6121,7 +6289,7 @@
 				<when>1616</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>4.47917,51.9225</coordinates>
+				<coordinates>4.5,51.9167</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -6130,7 +6298,25 @@
 				<when>1618</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>4.47917,51.9225</coordinates>
+				<coordinates>4.5,51.9167</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Rotterdam</address>
+			<TimeStamp>
+				<when>1620</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>4.5,51.9167</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Rotterdam</address>
+			<TimeStamp>
+				<when>1620</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>4.5,51.9167</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -6139,7 +6325,7 @@
 				<when>1632</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>4.47917,51.9225</coordinates>
+				<coordinates>4.5,51.9167</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -6148,7 +6334,7 @@
 				<when>1632</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>4.47917,51.9225</coordinates>
+				<coordinates>4.5,51.9167</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -6157,100 +6343,7 @@
 				<when>1656</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>4.47917,51.9225</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<address>Rotterdam</address>
-			<Point>
-				<coordinates>4.47917,51.9225</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<address>Rotterdam</address>
-			<Point>
-				<coordinates>4.47917,51.9225</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<address>Sagan</address>
-			<TimeStamp>
-				<when>1630</when>
-			</TimeStamp>
-			<Point>
-				<coordinates>126.45,35.16667</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<address>Schleswig</address>
-			<TimeStamp>
-				<when>1663</when>
-			</TimeStamp>
-			<Point>
-				<coordinates>9.5586,54.52156</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<address>Schleswig</address>
-			<TimeStamp>
-				<when>1665</when>
-			</TimeStamp>
-			<Point>
-				<coordinates>9.5586,54.52156</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<address>Schleswig</address>
-			<TimeStamp>
-				<when>1666</when>
-			</TimeStamp>
-			<Point>
-				<coordinates>9.5586,54.52156</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<address>Schleusingen</address>
-			<TimeStamp>
-				<when>1636</when>
-			</TimeStamp>
-			<Point>
-				<coordinates>10.75658,50.51076</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<address>Schleusingen</address>
-			<TimeStamp>
-				<when>1636</when>
-			</TimeStamp>
-			<Point>
-				<coordinates>10.75658,50.51076</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<address>Schleusingen</address>
-			<TimeStamp>
-				<when>1636</when>
-			</TimeStamp>
-			<Point>
-				<coordinates>10.75658,50.51076</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<address>Schleusingen</address>
-			<TimeStamp>
-				<when>1637</when>
-			</TimeStamp>
-			<Point>
-				<coordinates>10.75658,50.51076</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<address>Sorø</address>
-			<TimeStamp>
-				<when>1643</when>
-			</TimeStamp>
-			<Point>
-				<coordinates>11.55547,55.43184</coordinates>
+				<coordinates>4.5,51.9167</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -6259,7 +6352,7 @@
 				<when>1599</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>14.5333,53.4167</coordinates>
+				<coordinates>14.547719,53.430617</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -6268,7 +6361,7 @@
 				<when>1605</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>14.5333,53.4167</coordinates>
+				<coordinates>14.547719,53.430617</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -6277,7 +6370,7 @@
 				<when>1614</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>14.5333,53.4167</coordinates>
+				<coordinates>14.547719,53.430617</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -6436,6 +6529,15 @@
 		<Placemark>
 			<address>Straßburg</address>
 			<TimeStamp>
+				<when>1615</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>7.75,48.5833</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Straßburg</address>
+			<TimeStamp>
 				<when>1617</when>
 			</TimeStamp>
 			<Point>
@@ -6534,6 +6636,15 @@
 		</Placemark>
 		<Placemark>
 			<address>Straßburg</address>
+			<TimeStamp>
+				<when>1645</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>7.75,48.5833</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Straßburg</address>
 			<Point>
 				<coordinates>7.75,48.5833</coordinates>
 			</Point>
@@ -6560,24 +6671,6 @@
 			</TimeStamp>
 			<Point>
 				<coordinates>9.1833,48.7667</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<address>Thorn</address>
-			<TimeStamp>
-				<when>1653</when>
-			</TimeStamp>
-			<Point>
-				<coordinates>5.84167,51.16167</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<address>Thorn</address>
-			<TimeStamp>
-				<when>1653</when>
-			</TimeStamp>
-			<Point>
-				<coordinates>5.84167,51.16167</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -6640,7 +6733,7 @@
 				<when>1542</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>9.99155,48.39841</coordinates>
+				<coordinates>10,48</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -6649,7 +6742,7 @@
 				<when>1546</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>9.99155,48.39841</coordinates>
+				<coordinates>10,48</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -6658,7 +6751,7 @@
 				<when>1547</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>9.99155,48.39841</coordinates>
+				<coordinates>10,48</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -6667,7 +6760,7 @@
 				<when>1552</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>9.99155,48.39841</coordinates>
+				<coordinates>10,48</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -6676,7 +6769,7 @@
 				<when>1553</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>9.99155,48.39841</coordinates>
+				<coordinates>10,48</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -6685,7 +6778,7 @@
 				<when>1554</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>9.99155,48.39841</coordinates>
+				<coordinates>10,48</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -6694,7 +6787,7 @@
 				<when>1613</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>9.99155,48.39841</coordinates>
+				<coordinates>10,48</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -6703,7 +6796,7 @@
 				<when>1615</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>9.99155,48.39841</coordinates>
+				<coordinates>10,48</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -6712,7 +6805,7 @@
 				<when>1619</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>9.99155,48.39841</coordinates>
+				<coordinates>10,48</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -6721,7 +6814,7 @@
 				<when>1631</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>9.99155,48.39841</coordinates>
+				<coordinates>10,48</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -6730,7 +6823,7 @@
 				<when>1631</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>9.99155,48.39841</coordinates>
+				<coordinates>10,48</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -6739,31 +6832,31 @@
 				<when>1639</when>
 			</TimeStamp>
 			<Point>
-				<coordinates>9.99155,48.39841</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<address>Uranienborg</address>
-			<TimeStamp>
-				<when>1602</when>
-			</TimeStamp>
-			<Point>
-				<coordinates>12.7,55.9</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<address>Uranienborg</address>
-			<TimeStamp>
-				<when>1603</when>
-			</TimeStamp>
-			<Point>
-				<coordinates>12.7,55.9</coordinates>
+				<coordinates>10,48</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
 			<address>Utrecht</address>
 			<TimeStamp>
 				<when>1480</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>5.1333,52.0833</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Utrecht</address>
+			<TimeStamp>
+				<when>1616</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>5.1333,52.0833</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Utrecht</address>
+			<TimeStamp>
+				<when>1637</when>
 			</TimeStamp>
 			<Point>
 				<coordinates>5.1333,52.0833</coordinates>
@@ -6824,15 +6917,6 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<address>Vianen</address>
-			<TimeStamp>
-				<when>1564</when>
-			</TimeStamp>
-			<Point>
-				<coordinates>5.09167,51.9925</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
 			<address>Wien</address>
 			<TimeStamp>
 				<when>1550</when>
@@ -6862,6 +6946,15 @@
 		<Placemark>
 			<address>Wittenberg</address>
 			<TimeStamp>
+				<when>1527</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>12.65,51.8833</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Wittenberg</address>
+			<TimeStamp>
 				<when>1530</when>
 			</TimeStamp>
 			<Point>
@@ -6881,6 +6974,15 @@
 			<address>Wittenberg</address>
 			<TimeStamp>
 				<when>1534</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>12.65,51.8833</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Wittenberg</address>
+			<TimeStamp>
+				<when>1543</when>
 			</TimeStamp>
 			<Point>
 				<coordinates>12.65,51.8833</coordinates>
@@ -6935,6 +7037,15 @@
 			<address>Wittenberg</address>
 			<TimeStamp>
 				<when>1587</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>12.65,51.8833</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Wittenberg</address>
+			<TimeStamp>
+				<when>1595</when>
 			</TimeStamp>
 			<Point>
 				<coordinates>12.65,51.8833</coordinates>
@@ -7043,6 +7154,15 @@
 			</TimeStamp>
 			<Point>
 				<coordinates>12.0833,51.9667</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Zwickau</address>
+			<TimeStamp>
+				<when>1528</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>12.5,50.7333</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>

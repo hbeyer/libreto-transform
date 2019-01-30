@@ -6,7 +6,7 @@ class reconstruction {
     public $content = array();
     public $fileName;
     const FOLDER = 'projectFiles';
-    const INCLUDE = 'functions/';
+    const INCLUDEPATH = 'functions/';
     public $valid = 0;
     
     function __construct($path, $fileName, $format = 'xml') {
@@ -14,6 +14,9 @@ class reconstruction {
         $this->createDirectory();
         $uploader = new uploader($path, $this->fileName, $format);
         $this->content = $uploader->load();
+        if ($this->content == null) {
+           throw new Exception('Kein Content geladen.');
+        }
         $this->insertIDs();
         $this->catalogue = $uploader->loadMetadata();
         if (get_class($this->catalogue) == 'catalogue') {
@@ -35,7 +38,7 @@ class reconstruction {
         if ($this->valid == 0) {
             return;
         }
-        require(reconstruction::INCLUDE.'makeIndex.php');
+        require(reconstruction::INCLUDEPATH.'makeIndex.php');
         $this->saveGeoData();
         $this->saveXML();        
         $this->saveCSV();
@@ -46,12 +49,12 @@ class reconstruction {
     }    
 
     private function saveXML() {
-        require(reconstruction::INCLUDE.'makeXML.php');
+        require(reconstruction::INCLUDEPATH.'makeXML.php');
         saveXML($this->content, $this->catalogue, reconstruction::FOLDER.'/'.$this->fileName);
     }
 
     private function saveCSV() {
-        require(reconstruction::INCLUDE.'makeCSV.php');
+        require(reconstruction::INCLUDEPATH.'makeCSV.php');
         makeCSV($this->content, reconstruction::FOLDER.'/'.$this->fileName, $this->fileName);
     }
 
@@ -62,30 +65,30 @@ class reconstruction {
     }
 
     private function saveGeoData() {
-        require(reconstruction::INCLUDE.'makeGeoDataSheet.php');
+        require(reconstruction::INCLUDEPATH.'makeGeoDataSheet.php');
         makeGeoDataSheet($this->content, reconstruction::FOLDER.'/'.$this->fileName, 'csv');
         makeGeoDataSheet($this->content, reconstruction::FOLDER.'/'.$this->fileName, 'kml');
     }
 
     private function saveTEI() {
-        require(reconstruction::INCLUDE.'makeTEI.php');
-        require(reconstruction::INCLUDE.'makeSection.php');
-        require(reconstruction::INCLUDE.'fieldList.php');
+        require(reconstruction::INCLUDEPATH.'makeTEI.php');
+        require(reconstruction::INCLUDEPATH.'makeSection.php');
+        require(reconstruction::INCLUDEPATH.'fieldList.php');
         makeTEI($this->content, reconstruction::FOLDER.'/'.$this->fileName, $this->catalogue);
     }
 
     private function saveRDF() {
-        require(reconstruction::INCLUDE.'makeRDF.php');
+        require(reconstruction::INCLUDEPATH.'makeRDF.php');
         saveRDFtoPath($this->content, $this->catalogue, reconstruction::FOLDER.'/'.$this->fileName.'/'.$this->fileName);
     }
 
     private function saveSolrXML() {
-        require(reconstruction::INCLUDE.'makeSolrXML.php');
+        require(reconstruction::INCLUDEPATH.'makeSolrXML.php');
         saveSolrXML($this->content, $this->catalogue, reconstruction::FOLDER.'/'.$this->fileName.'/'.$this->fileName);
     }
 
     private function loadXML($path) {
-        require(reconstruction::INCLUDE.'loadXML.php');
+        require(reconstruction::INCLUDEPATH.'loadXML.php');
 	    $xml = new DOMDocument();
 	    $xml->load($path);
 	    $metadataNode = $xml->getElementsByTagName('metadata');
@@ -149,7 +152,8 @@ class reconstruction {
     }
 
     private function insertGeoData() {
-
+        
+        require('private/userGeoNames.php');
         $geoSystems = array('geoNames' => 'makeEntryFromGeoNames', 'gnd' => 'makeEntryFromGNDTTL', 'getty' => 'makeEntryFromGetty');
         $archives = array();		
         $archives['geoNames'] = new GeoDataArchive();
@@ -187,10 +191,9 @@ class reconstruction {
 
                     foreach ($geoSystems as $system => $function) {
 					    if($place->$system) {
-						    $placeFromArchive = $archiveGeoNames->getByGeoNames($place->$system);
+						    $placeFromArchive = $archives[$system]->getByGeoNames($place->$system);
 						    if($placeFromArchive == NULL) {
-							    $placeFromWeb = $archiveGeoNames
-							    ->$function($place->geoNames, $userGeoNames);
+							    $placeFromWeb = $archives[$system]->$function($place->geoNames, $userGeoNames);
 							    if($placeFromWeb) {
 								    $archives[$system]->insertEntryIfNew($system, $place->$system, $placeFromWeb);
 								    $placeFromArchive = $placeFromWeb;
@@ -218,6 +221,28 @@ class reconstruction {
 		$archives['getty']->saveToFile('getty');
 		$archives['gnd']->saveToFile('gnd');
     }
+
+    private function insertGeoDataNew() {    
+        require('private/userGeoNames.php');
+        $archiveGeoNames = new geoDataArchive('geoNames');
+        $archiveGND = new geoDataArchive('gnd');
+        $archiveGetty = new geoDataArchive('getty');
+        foreach ($this->content as $item) {
+            foreach ($places as $place) {
+                if ($place->geoNames) {
+                    $place->addGeoData($archiveGeoNames, 'geonames');
+                }
+                elseif ($place->gnd) {
+                    $place->addGeoData($archiveGND, 'gnd');
+                }
+                elseif ($place->gnd) {
+                    $place->addGeoData($archiveGetty, 'getty');
+                }
+            }
+        }
+        
+    }
+
 
     private function createDirectory() {
         if (!is_dir(reconstruction::FOLDER.'/'.$this->fileName)) {

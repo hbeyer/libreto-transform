@@ -17,6 +17,7 @@ class geoDataArchive {
 	}
 	
 	// Inserts an entry into an archive, unless there is one with the same ID (getty, geoNames or gnd)	
+    // Die Parameter sind redundant
 	function insertEntryIfNew($type, $id, $entry) {
 		$check = 0;
 		foreach($this->content as $oldEntry) {
@@ -31,7 +32,9 @@ class geoDataArchive {
 		}
 		if($check == 0) {
 			$this->insertEntry($entry);
+            return(true);
 		}
+        return(false);
 	}
 
 	// Inserts an entry into an archive, unless there is one with the same label or the same id or the same coordinates
@@ -66,6 +69,7 @@ class geoDataArchive {
 				break;
 			}
 		}
+        return(null);
 	}
 	
 	function getByGND($id) {
@@ -75,6 +79,7 @@ class geoDataArchive {
 				break;
 			}
 		}
+        return(null);
 	}	
 	
 	function getByGetty($id) {
@@ -84,11 +89,12 @@ class geoDataArchive {
 				break;
 			}
 		}
+        return(null);
 	}
 	
 	//Returns an entry by label if the label is unique
 	function getByName($name) {
-		$result = NULL;
+		$result = null;
 		$name = trim($name);
 		$resultLabel = array();
 		$resultAltLabels = array();
@@ -163,6 +169,9 @@ class geoDataArchive {
 	}
 	
 	function makeEntryFromGetty($id) {
+        if (!preg_match('~[0-9]{5,9}~', $id)) {
+            return(null);
+        }
 		shell_exec('wget -O placeGetty.json .A.json "http://vocab.getty.edu/tgn/'.$id.'.json"');
 		$responseString = file_get_contents('placeGetty.json');
 		$response = json_decode($responseString);

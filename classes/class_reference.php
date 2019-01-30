@@ -21,14 +21,14 @@ class reference {
         }
 
         if ($level == 'manifestation')  {
-            if (isset(reference::BASES[$this->systemClean])) {
+            if (!empty(reference::BASES[$this->systemClean])) {
                 $this->nameSystem = reference::NAMESSYSTEMS[$this->systemClean];
                 $this->url = strtr(reference::BASES[$this->systemClean], array('{ID}' => $id));
                 $this->link = '<a href="'.$this->url.'" title="Anzeige der Ausgabe in '.reference::NAMESSYSTEMS[$this->systemClean].'" target="_blank">'.reference::NAMESSYSTEMS[$this->systemClean].'</a>';
             }
         }
         elseif ($level == 'work')  {
-            if (isset(reference::BASESWORKS[$this->systemClean])) {
+            if (!empty(reference::BASESWORKS[$this->systemClean])) {
                 $this->nameSystem = reference::NAMESSYSTEMS[$this->systemClean];
                 $this->url = strtr(reference::BASESWORKS[$this->systemClean], array('{ID}' => $id));
                 $this->link = '<a href="'.$this->url.'" title="Anzeige des Werks in '.reference::NAMESSYSTEMS[$this->systemClean].'" target="_blank">'.reference::NAMESSYSTEMS[$this->systemClean].'</a>';
@@ -92,6 +92,7 @@ class reference {
 	    'uul' => 'http://aleph.library.uu.nl/F?func=direct&doc_number={ID}',
 	    'nebis' => 'http://opac.nebis.ch/F?func=direct&local_base=NEBIS&doc_number={ID}',
 	    'buva' => 'http://permalink.opc.uva.nl/item/{ID}',
+        'hva' => 'http://permalink.opc.uva.nl/item/{ID}',
 	    'manumed' => 'http://www.manuscripta-mediaevalia.de/dokumente/html/{ID}'
 	    );
 
@@ -143,6 +144,7 @@ class reference {
 	    'uul' => 'Universiteit Utrecht – Universiteitsbibliotheek',
 	    'nebis' => 'Netzwerk von Bibliotheken und Informationsstellen in der Schweiz (NEBIS)',
 	    'buva' => 'Bibliotheek van de Universiteit van Amsterdam – Catalogus',
+        'hva' => 'Catalogus van de Hogeschool van Amsterdam',
 	    'manumed' => 'Manuscripta Mediaevalia',
         'dnb' => 'Gemeinsame Normdatei (GND)',
         'wikipedia' => 'Wikipedia'
@@ -189,6 +191,7 @@ class reference {
 	    'uul' => '~UUL ([0-9]{8,10})~',
 	    'nebis' => '~NEBIS ([0-9]{7,9})~',
 	    'buva' => '~BUvA ([0-9]+)~',
+        'buva' => '~HvA ([0-9]+)~',
 	    'manumed' => '~ManuMed obj[0-9]{6,10},?T?~'
 	    );
 

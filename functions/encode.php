@@ -273,4 +273,11 @@ function resolveTarget($pattern, $id) {
 	return($text);
 }
 
+function removeBrackets($string) {
+    $trans = array('<' => '', '>' => '');
+    $string = trim($string, '[]');
+    $string = strtr($string, $trans);
+    return($string);
+}
+
 ?>
