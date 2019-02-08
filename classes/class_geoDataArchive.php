@@ -5,9 +5,13 @@ class geoDataArchive {
 	public $date;
 	public $content = array();
 	public $folder = 'geoDataArchive';
+    private $permittedFormats = array('geoNames', 'gnd', 'getty');
 	
-	function __construct() {
+	function __construct($type = '') {
 		$this->date = date("Y-m-d H:i:s");
+        if (in_array($type, $this->permittedFormats)) {
+            $this->loadFromFile($type);
+        }
 	}
 	
 	function insertEntry($entry) {
@@ -61,6 +65,32 @@ class geoDataArchive {
 		unset($archiveString);
 		$this->content = $archive->content;
 	}
+
+    public function getFromWeb($id, $type, $user) {
+        if ($type == 'geoNames') {
+            $entry = $this->getByGeoNames($id);
+            if (!get_class($entry) == 'geoDataArchiveEntry') {
+                $entry = makeEntryFromGeoNames($id, $user);
+            }
+        }
+        elseif ($type == 'gnd') {
+            $entry = $this->getByGND($id);
+            if (!get_class($entry) == 'geoDataArchiveEntry') {
+                $entry = makeEntryFromGNDTTL($id);
+            }
+        }
+        elseif ($type == 'getty') {
+            $entry = $this->getByGetty($id);
+            if (!get_class($entry) == 'geoDataArchiveEntry') {
+                $entry = makeEntryFromGetty($id);
+            }
+        }
+        if (get_class($entry) == 'geoDataArchiveEntry') {
+            $this->insertEntryIfNew($type, $entry->$type, $entry);
+            return($entry);
+        }
+        return(null);
+    }
 	
 	function getByGeoNames($id) {
 		foreach($this->content as $entry) {
@@ -86,7 +116,6 @@ class geoDataArchive {
 		foreach($this->content as $entry) {
 			if($entry->getty == $id) {
 				return($entry);
-				break;
 			}
 		}
         return(null);

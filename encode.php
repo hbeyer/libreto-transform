@@ -160,15 +160,17 @@ function translateGenderAbbrRDF($value) {
 }
 
 function translateMediaType($value) {
-    $value = strtolower($value);
+    $testValue = strtolower($value);
     $translation = array(
 		'book' => 'Druck',
 		'manuscript' => 'Handschrift',
-		'physical object' => 'Objekt',
-		'object' => 'Objekt'
+		'physical object' => 'Sache',
+		'object' => 'Sache'
 		);
-	$result = strtr($value, $translation);
-	return($result);		
+    if (isset($translation[$testValue])) {
+        return($translation[$testValue]);
+    }
+    return($value);
 }
 
 function sortingFormat($format) {

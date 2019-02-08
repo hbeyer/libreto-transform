@@ -140,107 +140,31 @@ class reconstruction {
         $gnds = array_unique($gnds);
         $matches = $repository->getMatchesMulti($gnds);
         foreach ($this->content as $item) {
-            foreach ($item->persons as $person) {
-                if ($person->gnd) {
-                    if (!empty($matches[$person->gnd])) {
-                        $person->beacon = $matches[$person->gnd];
-                    }
-                }
-            }
+            $item->insertBeacon($matches);
         }
-        return(true);
     }
 
-    private function insertGeoData() {
-        
-        require('private/userGeoNames.php');
-        $geoSystems = array('geoNames' => 'makeEntryFromGeoNames', 'gnd' => 'makeEntryFromGNDTTL', 'getty' => 'makeEntryFromGetty');
-        $archives = array();		
-        $archives['geoNames'] = new GeoDataArchive();
-		$archives['geoNames']->loadFromFile('geoNames');
-		$archives['getty'] = new GeoDataArchive();
-		$archives['getty']->loadFromFile('getty');
-		$archives['gnd'] = new GeoDataArchive();
-		$archives['gnd']->loadFromFile('gnd');			
-			
-		$unidentifiedPlaces = array();
-		$placeFromArchive = '';
-		$countWebDownloads = 0;
-		
-		foreach($this->content as $item) {
-			foreach($item->places as $place) {
-				
-				$searchName = trim($place->placeName, '[]');
-
-				$testUnidentified = preg_match('~^[sSoO]\.? ?[oOlL].?$|^[oO]hne Ort|[sS]ine [lL]oco|[oO]hne Angabe~', $searchName);
-				if(strstr($searchName, 'fingiert') != FALSE) {
-					$testUnidentified = 1;
-				}
-				elseif($searchName == '') {
-					$testUnidentified = 1;
-				}
-				$testGeoData = 0;
-				if($place->geoData['lat'] and $place->geoData['long']) {
-					$testGeoData = 1;
-				}
-				if($testUnidentified == 1) {
-					$place->placeName = 's. l.';
-				}
-				
-				if($testUnidentified == 0 and $testGeoData == 0) {
-
-                    foreach ($geoSystems as $system => $function) {
-					    if($place->$system) {
-						    $placeFromArchive = $archives[$system]->getByGeoNames($place->$system);
-						    if($placeFromArchive == NULL) {
-							    $placeFromWeb = $archives[$system]->$function($place->geoNames, $userGeoNames);
-							    if($placeFromWeb) {
-								    $archives[$system]->insertEntryIfNew($system, $place->$system, $placeFromWeb);
-								    $placeFromArchive = $placeFromWeb;
-								    $countWebDownloads++;
-							    }
-						    }
-                        $testGeoData = 1;
-                        break;
-					    }
-                    }
-					if ($testGeoData == 0) {
-						$placeFromArchive = $archives['geoNames']->getByName($searchName);
-					    if ($placeFromArchive) {
-						    $place->geoData['lat'] = $placeFromArchive->lat;
-						    $place->geoData['long'] = $placeFromArchive->long;
-					    }
-					    elseif ($testUnidentified == 0) {
-						    $unidentifiedPlaces[] = $searchName;
-					    }
-					}
-                }
-            }
-        }
-    	$archives['geoNames']->saveToFile('geoNames');
-		$archives['getty']->saveToFile('getty');
-		$archives['gnd']->saveToFile('gnd');
-    }
-
-    private function insertGeoDataNew() {    
+    public function insertGeoData() {    
         require('private/userGeoNames.php');
         $archiveGeoNames = new geoDataArchive('geoNames');
         $archiveGND = new geoDataArchive('gnd');
         $archiveGetty = new geoDataArchive('getty');
         foreach ($this->content as $item) {
-            foreach ($places as $place) {
-                if ($place->geoNames) {
-                    $place->addGeoData($archiveGeoNames, 'geonames');
-                }
-                elseif ($place->gnd) {
+            foreach ($item->places as $place) {
+                 if ($place->geoNames) {
+                    $place->addGeoData($archiveGeoNames, 'geoNames', $userGeoNames);
+                 }
+                 elseif ($place->gnd) {
                     $place->addGeoData($archiveGND, 'gnd');
-                }
-                elseif ($place->gnd) {
+                 }
+                 elseif ($place->getty) {
                     $place->addGeoData($archiveGetty, 'getty');
-                }
+                 }
             }
         }
-        
+        $archiveGeoNames->saveToFile('geoNames');
+        $archiveGND->saveToFile('gnd');
+        $archiveGetty->saveToFile('getty');
     }
 
 

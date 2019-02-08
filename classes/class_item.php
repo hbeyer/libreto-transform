@@ -64,13 +64,13 @@ class item	{ //Refers to an item (book, manuscript, etc.) listed in the catalogu
 		}
 		elseif (substr($name, 0, 5) == 'Autor') {
 			$person = new person;
-            $person->persName = $value;
+            $person->persName = removeBrackets($value);
 			$person->role = 'author';
 			$this->persons[] = $person;
 		}
 		elseif (substr($name, 0, 5) == 'Betei') {
 			$person = new person;
-            $person->persName = $value;
+            $person->persName = removeBrackets($value);
 			$person->role = 'contributor';
 			$this->persons[] = $person;
 		}
@@ -81,10 +81,10 @@ class item	{ //Refers to an item (book, manuscript, etc.) listed in the catalogu
 		}
 		elseif (substr($name, 0, 5) == 'Druck') {
 			if (!$this->publisher) {
-				$this->publisher = $value;
+				$this->publisher = removeBrackets($value);
 			}
 			else {
-				$this->publisher .= '/'.$value;
+				$this->publisher .= '/'.removeBrackets($value);
 			}
 		}
 		elseif ($name == 'Sachbegriff') {
@@ -126,6 +126,19 @@ class item	{ //Refers to an item (book, manuscript, etc.) listed in the catalogu
 		}
 		$this->numberCat = $explode[0];
 	}
+
+    public function insertBeacon($matches) {
+        $personsNew = array();
+        foreach ($this->persons as $person) {
+            if ($person->gnd) {
+                if (!empty($matches[$person->gnd])) {
+                    $person->beacon = $matches[$person->gnd];
+                }
+            }
+        $personsNew[] = $person;
+        }
+        $this->persons = $personsNew;
+    }
 	
 }
 

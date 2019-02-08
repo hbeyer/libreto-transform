@@ -38,27 +38,17 @@ class place {
         return(null);
     }
 
-    public function addGeoData($geoDataArchive, $type) {
-        if ($this->geoData['lat'] and $this->geoData['long']) {
+    public function addGeoData($geoDataArchive, $type, $user = '') {
+        if ($this->geoData['lat'] != '' and $this->geoData['long'] != '') {
             return(true);
         }
-        $entry = null;
-        if ($type == 'geonames' and $this->geoNames) {
-            $entry = $geoDataArchive->getByGeoNames($this->geoNames);
-        }
-        elseif ($type == 'gnd' and $this->gnd) {
-            $entry = $geoDataArchive->getByGND($this->gnd);
-        }
-        elseif ($type == 'getty' and $this->getty) {
-            $entry = $geoDataArchive->getByGetty($this->getty);
-        }
+        $entry = $geoDataArchive->getFromWeb($this->$type, $type, $user);
         if (get_class($entry) == 'geoDataArchiveEntry') {
-            $this->geoData = array($entry->lat, $entry->long);
+            $this->geoData = array('lat' => $entry->lat, 'long' => $entry->long);
             return(true);
         }
         return(false);
     }
-
 	
 }
 

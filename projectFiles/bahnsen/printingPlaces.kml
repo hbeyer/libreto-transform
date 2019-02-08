@@ -2132,24 +2132,6 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<address>Darmstadt</address>
-			<TimeStamp>
-				<when>1613</when>
-			</TimeStamp>
-			<Point>
-				<coordinates>8.65027,49.87167</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<address>Darmstadt</address>
-			<TimeStamp>
-				<when>1613</when>
-			</TimeStamp>
-			<Point>
-				<coordinates>8.65027,49.87167</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
 			<address>Delft</address>
 			<TimeStamp>
 				<when>1581</when>
@@ -6164,15 +6146,6 @@
 			<address>Paris</address>
 			<Point>
 				<coordinates>2.3333,48.8667</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<address>Raków</address>
-			<TimeStamp>
-				<when>1612</when>
-			</TimeStamp>
-			<Point>
-				<coordinates>21.04517,50.67427</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
