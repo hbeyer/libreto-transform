@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="de">
+
+    <head>
+        <title><?php echo $catalogue->heading; ?></title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+        <link rel="stylesheet" href="assets/css/affix.css">
+        <link rel="stylesheet" href="assets/css/proprietary.css">
+        <script src="assets/js/jquery.min.js"></script>
+        <script src="assets/js/bootstrap.min.js"></script>
+        <script src="assets/js/proprietary.js"></script>
+<?php if ($facet == 'jqcloud'): ?>        <script src="assets/js/jqcloud.js"></script>
+<?php endif; ?>
+<?php if ($facet == 'doughnut'): ?>        <script src="assets/js/chart.js"></script>
+<?php endif; ?>
+    </head>
+
+    <body onload="javascript:x = getNavBarHeight();scrollNav(x);">
+
+        <div class="container-fluid" style="background-color:#FFFFFF">
+          <h1><?php echo $catalogue->heading; ?> (<?php echo $catalogue->year; ?>)</h1>
+            <p><?php echo $catalogue->description; ?></p>
+<?php if ($catalogue->institution and $catalogue->shelfmark): ?>
+            <div style="float:left;margin-right:20px">
+            <p>Altkatalog: <?php echo $catalogue->institution; ?>, <?php echo $catalogue->shelfmark; ?><?php if ($catalogue->base): ?> <a href="<?php echo $catalogue->base ?>" target="_blank">Digitalisat</a><?php endif; ?><br />
+            <span id="switchLink"><a href="javascript:switchToOriginal()">Anzeige in Vorlageform</a></span></p>
+            </div>
+<?php endif; ?>
+
+            <div class="dropdown" style="float:left">
+                <button class="btn btn-info dropdown-toggle" type="button" data-toggle="dropdown">Download<span class="caret"></span></button>
+                <ul class="dropdown-menu">
+                    <li class="dropdown-header">Datenexport</li> 
+                    <li><a href="<?php echo $catalogue->fileName; ?>.csv">CSV</a></li>
+                    <li><a href="<?php echo $catalogue->fileName; ?>.xml">XML</a></li>
+                    <li><a href="<?php echo $catalogue->fileName; ?>-tei.xml">TEI</a></li>
+                    <li><a href="<?php echo $catalogue->fileName; ?>.rdf">RDF/XML</a></li>
+                    <li><a href="<?php echo $catalogue->fileName; ?>.ttl">Turtle</a></li>
+                    <li><a href="<?php echo $catalogue->fileName; ?>-SOLR.xml">Solr XML</a></li>
+                    <li class="dropdown-header">Geodaten</li>
+                    <li><a href="printingPlaces.csv">CSV</a></li>
+                    <li><a href="printingPlaces.kml">KML</a></li>
+                    <li class="dropdown-header">Komplette Website</li>
+                    <li><a href="<?php echo $catalogue->fileName; ?>.zip">ZIP</a></li>
+                </ul>
+            </div> 
+        </div>
+
+<?php echo $navigation; ?>
+
+        <div class="container" style="min-height:600px;">
+<?php echo $pageContent; ?>
+
+        </div>
+
+        <footer class="container-fluid">
+            <p><a href="../index.php" style="color:white">Start</a>&nbsp;&nbsp;<a href="<?php echo $impressum; ?>" style="color:white" target="_blank">Impressum</a></p>
+        </footer>
+
+    </body>
+
+</html>

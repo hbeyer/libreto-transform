@@ -1,0 +1,25 @@
+        <nav class="navbar navbar-default" data-spy="affix" data-offset-top="197">
+            <ul class="nav navbar-nav">
+<?php foreach($tocs as $field  => $toc): ?>
+                <li class="dropdown<?php if ($field == $facet) { echo ' active'; } ?>">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="<?php echo $catalogue->fileName.'-'.$field.'.html'; ?>"><?php echo translateFieldNames($field); ?><span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="<?php echo $catalogue->fileName.'-'.$field; ?>.html">Seitenanfang</a></li>
+<?php foreach ($toc as $entry): ?>
+                        <li><a href="<?php echo $catalogue->fileName.'-'.$field; ?>.html#<?php echo translateAnchor($entry['label']); ?>"><?php echo $entry['quantifiedLabel']; ?></a></li>
+<?php endforeach; ?>
+                    </ul>
+                </li>
+<?php endforeach; ?>
+            </ul>
+            <ul class="nav navbar-nav navbar-right" style="padding-right:15px">
+                <li class="dropdown">
+	                <a class="dropdown-toggle" data-toggle="dropdown" href="#"><span class="glyphicon glyphicon-picture"></span> Visualisierung<span class="caret"></span></a>
+	                <ul class="dropdown-menu">
+		                <li><a href="<?php echo $catalogue->fileName; ?>-wordCloud.html" title="Wortwolken">Word Clouds</a></li>
+		                <li><a href="<?php echo $catalogue->fileName; ?>-doughnut.html" title="Kreisdiagramme">Kreisdiagramme</a></li>				
+		                <li><a href="https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/<?php echo $catalogue->geoBrowserStorageID; ?>&currentStatus=mapChanged=Historical+map+of+<?php echo assignMapDate($catalogue->year); ?>" target="_blank" title="Druckorte in Kartenansicht">GeoBrowser</a></li>
+	                </ul>
+                </li>
+            </ul>
+        </nav>

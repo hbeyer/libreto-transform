@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+    <xs:element name="collection">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element minOccurs="0" maxOccurs="1" ref="metadata"/>
+                <xs:element minOccurs="1" maxOccurs="unbounded" ref="item"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="metadata">
+        <xs:complexType>
+            <xs:all>
+                <xs:element maxOccurs="1" ref="heading"/>
+                <xs:element minOccurs="0" maxOccurs="1" ref="owner"/>
+                <xs:element minOccurs="0" maxOccurs="1" ref="ownerGND"/>
+                <xs:element maxOccurs="1" ref="fileName"/>
+                <xs:element minOccurs="0" maxOccurs="1" ref="title"/>
+                <xs:element minOccurs="0" maxOccurs="1" ref="base"/>
+                <xs:element minOccurs="0" maxOccurs="1" ref="placeCat"/>
+                <xs:element maxOccurs="1" ref="year"/>
+                <xs:element minOccurs="0" maxOccurs="1" ref="institution"/>
+                <xs:element minOccurs="0" maxOccurs="1" ref="shelfmark"/>
+                <xs:element minOccurs="0" maxOccurs="1" ref="description"/>
+                <xs:element minOccurs="0" maxOccurs="1" ref="geoBrowserStorageID"/>
+                <xs:element minOccurs="0" maxOccurs="1" ref="creatorReconstruction"/>
+                <xs:element minOccurs="0" maxOccurs="1" ref="yearReconstruction"/>
+            </xs:all>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="heading" type="xs:string"/>
+    <xs:element name="owner" type="xs:string"/>
+    <xs:element name="ownerGND" type="xs:string"/>
+    <xs:element name="fileName" type="xs:normalizedString"/>
+    <xs:element name="title" type="xs:string"/>
+    <xs:element name="base" type="xs:anyURI"/>
+    <xs:element name="placeCat" type="xs:string"/>
+    <xs:element name="institution" type="xs:string"/>
+    <xs:element name="shelfmark" type="xs:string"/>
+    <xs:element name="description" type="xs:string"/>
+    <xs:element name="geoBrowserStorageID" type="xs:string"/>
+    <xs:element name="creatorReconstruction" type="xs:string"/>
+    <xs:element name="yearReconstruction" type="xs:string"/>
+    <xs:element name="item">
+        <xs:complexType>
+            <xs:all>
+                <xs:element minOccurs="0" ref="titleCat"/>
+                <xs:element minOccurs="0" ref="titleBib"/>
+                <xs:element minOccurs="0" ref="id"/>
+                <xs:element minOccurs="0" ref="pageCat"/>
+                <xs:element minOccurs="0" ref="imageCat"/>
+                <xs:element minOccurs="0" ref="numberCat"/>
+                <xs:element minOccurs="0" ref="itemInVolume"/>
+                <xs:element minOccurs="0" ref="volumes"/>
+                <xs:element minOccurs="0" ref="persons"/>
+                <xs:element minOccurs="0" ref="titleNormalized"/>
+                <xs:element minOccurs="0" ref="places"/>
+                <xs:element minOccurs="0" ref="publisher"/>
+                <xs:element minOccurs="0" ref="year"/>
+                <xs:element minOccurs="0" ref="format"/>
+                <xs:element minOccurs="0" ref="histSubject"/>
+                <xs:element minOccurs="0" ref="histShelfmark"/>
+                <xs:element minOccurs="0" ref="subjects"/>
+                <xs:element minOccurs="0" ref="genres"/>
+                <xs:element minOccurs="0" ref="mediaType"/>
+                <xs:element minOccurs="0" ref="languages"/>
+                <xs:element minOccurs="0" ref="manifestation"/>
+                <xs:element minOccurs="0" ref="originalItem"/>
+                <xs:element minOccurs="0" ref="work"/>
+                <xs:element minOccurs="0" ref="bound"/>
+                <xs:element minOccurs="0" ref="comment"/>
+                <xs:element minOccurs="0" ref="copiesHAB"/>
+                <xs:element minOccurs="0" ref="digitalCopy"/>
+            </xs:all>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="id" type="xs:string"/>
+    <xs:element name="pageCat" type="xs:string"/>
+    <xs:element name="imageCat" type="xs:integer"/>
+    <xs:element name="numberCat" type="xs:string"/>
+    <xs:element name="itemInVolume" type="xs:string"/>
+    <xs:element name="volumes" type="xs:integer"/>
+    <xs:element name="titleCat" type="xs:string"/>
+    <xs:element name="titleBib" type="xs:string"/>
+    <xs:element name="persons">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element minOccurs="1" maxOccurs="unbounded" ref="person"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="person">
+        <xs:complexType>
+            <xs:all>
+                <xs:element ref="persName"/>
+                <xs:element minOccurs="0" ref="gnd"/>
+                <xs:element minOccurs="0" ref="gender"/>
+                <xs:element ref="role"/>
+                <xs:element minOccurs="0" ref="beacon"/>
+            </xs:all>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="persName" type="xs:string"/>
+    <xs:element name="gnd" type="xs:string"/>
+    <xs:element name="gender">
+        <xs:simpleType>
+            <xs:restriction base="xs:string">
+                <xs:enumeration value="m"/>
+                <xs:enumeration value="f"/>
+                <xs:enumeration value="d"/>
+            </xs:restriction>
+        </xs:simpleType>
+    </xs:element>
+    <xs:element name="role" type="xs:string"/>
+    <xs:element name="titleNormalized" type="xs:string"/>
+    <xs:element name="places">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="place"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="publisher" type="xs:string"/>
+    <xs:element name="format" type="xs:string"/>
+    <xs:element name="histSubject" type="xs:string"/>
+    <xs:element name="histShelfmark" type="xs:string"/>
+    <xs:element name="subjects">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element minOccurs="1" maxOccurs="unbounded" ref="subject"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="subject">
+        <xs:simpleType>
+            <xs:restriction base="xs:string"> <!-- Diese Liste kann erweitert werden, wenn es inhaltlich sinnvoll ist -->
+                <xs:enumeration value="Akustik"/>
+                <xs:enumeration value="Alchemie"/>
+                <xs:enumeration value="Altertumskunde"/>
+                <xs:enumeration value="Anatomie"/>
+                <xs:enumeration value="Anekdote"/>
+                <xs:enumeration value="Archäologie"/>
+                <xs:enumeration value="Architektur"/>
+                <xs:enumeration value="Astrologie"/>
+                <xs:enumeration value="Astronomie"/>
+                <xs:enumeration value="Bergbau"/>
+                <xs:enumeration value="Botanik"/>
+                <xs:enumeration value="Chemie"/>
+                <xs:enumeration value="Chiromantie"/>
+                <xs:enumeration value="Chirurgie"/>
+                <xs:enumeration value="Festungsbau"/>
+                <xs:enumeration value="Gartenbau"/>
+                <xs:enumeration value="Geldwesen"/>
+                <xs:enumeration value="Genealogie"/>
+                <xs:enumeration value="Geographie"/>
+                <xs:enumeration value="Geologie"/>
+                <xs:enumeration value="Geometrie"/>
+                <xs:enumeration value="Gynäkologie"/>
+                <xs:enumeration value="Kriegskunde"/>
+                <xs:enumeration value="Landwirtschaft"/>
+                <xs:enumeration value="Magnetismus"/>
+                <xs:enumeration value="Mathematik"/>
+                <xs:enumeration value="Mechanik"/>
+                <xs:enumeration value="Medizin"/>
+                <xs:enumeration value="Mineralogie"/>
+                <xs:enumeration value="Musik"/>
+                <xs:enumeration value="Optik"/>
+                <xs:enumeration value="Orientalistik"/>
+                <xs:enumeration value="Pädagogik"/>
+                <xs:enumeration value="Physik"/>
+                <xs:enumeration value="Physiognomie"/>
+                <xs:enumeration value="Poetik"/>
+                <xs:enumeration value="Rhetorik"/>
+                <xs:enumeration value="Statistik"/>
+                <xs:enumeration value="Theologie"/>
+                <xs:enumeration value="Topographie"/>
+                <xs:enumeration value="Zoologie"/>
+            </xs:restriction>
+        </xs:simpleType>
+    </xs:element>
+    <xs:element name="genres">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element minOccurs="1" maxOccurs="unbounded" ref="genre"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="genre">
+        <xs:simpleType>
+            <xs:restriction base="xs:string"> <!-- Diese Liste kann erweitert werden, wenn es inhaltlich sinnvoll ist -->
+                <xs:enumeration value="Adressbuch"/>
+                <xs:enumeration value="Agende"/>
+                <xs:enumeration value="Akademieschrift"/>
+                <xs:enumeration value="Almanach"/>
+                <xs:enumeration value="Amtsdruckschrift"/>
+                <xs:enumeration value="Anleitung"/>
+                <xs:enumeration value="Anstandsliteratur"/>
+                <xs:enumeration value="Anthologie"/>
+                <xs:enumeration value="Antiquariatskatalog"/>
+                <xs:enumeration value="Anzeige"/>
+                <xs:enumeration value="Aphorismus"/>
+                <xs:enumeration value="Ars moriendi"/>
+                <xs:enumeration value="Arzneibuch"/>
+                <xs:enumeration value="Atlas"/>
+                <xs:enumeration value="Auktionskatalog"/>
+                <xs:enumeration value="Autobiographie"/>
+                <xs:enumeration value="Ballade"/>
+                <xs:enumeration value="Beichtspiegel"/>
+                <xs:enumeration value="Bericht"/>
+                <xs:enumeration value="Bibel"/>
+                <xs:enumeration value="Bibliographie"/>
+                <xs:enumeration value="Bibliothekskatalog"/>
+                <xs:enumeration value="Biographie"/>
+                <xs:enumeration value="Brevier"/>
+                <xs:enumeration value="Brief"/>
+                <xs:enumeration value="Briefsammlung"/>
+                <xs:enumeration value="Briefsteller"/>
+                <xs:enumeration value="Buchbinderanweisung"/>
+                <xs:enumeration value="Buchhandelskatalog"/>
+                <xs:enumeration value="Bücheranzeige"/>
+                <xs:enumeration value="Chronik"/>
+                <xs:enumeration value="Dissertation"/>
+                <xs:enumeration value="Dissertation:theol."/>
+                <xs:enumeration value="Dissertation:phil."/>
+                <xs:enumeration value="Dissertation:med."/>
+                <xs:enumeration value="Dissertation:jur."/>
+                <xs:enumeration value="Dissertationensammlung"/>
+                <xs:enumeration value="Drama"/>
+                <xs:enumeration value="Edikt"/>
+                <xs:enumeration value="Einblattdruck"/>
+                <xs:enumeration value="Einführung"/>
+                <xs:enumeration value="Elegie"/>
+                <xs:enumeration value="Emblembuch"/>
+                <xs:enumeration value="Entscheidungssammlung"/>
+                <xs:enumeration value="Enzyklopädie"/>
+                <xs:enumeration value="Epigramm"/>
+                <xs:enumeration value="Epik"/>
+                <xs:enumeration value="Epikedeion"/>
+                <xs:enumeration value="Epos"/>
+                <xs:enumeration value="Erbauungsliteratur"/>
+                <xs:enumeration value="Erlebnisbericht"/>
+                <xs:enumeration value="Erotische Literatur"/>
+                <xs:enumeration value="Erzählung"/>
+                <xs:enumeration value="Fabel"/>
+                <xs:enumeration value="Fallsammlung"/>
+                <xs:enumeration value="Fastnachtsspiel"/>
+                <xs:enumeration value="Fibel"/>
+                <xs:enumeration value="Festbeschreibung"/>
+                <xs:enumeration value="Figurengedicht"/>
+                <xs:enumeration value="Flugschrift"/>
+                <xs:enumeration value="Formularsammlung"/>
+                <xs:enumeration value="Frauenliteratur"/>
+                <xs:enumeration value="Freimaurerliteratur"/>
+                <xs:enumeration value="Führer"/>
+                <xs:enumeration value="Fürstenspiegel"/>
+                <xs:enumeration value="Gebet"/>
+                <xs:enumeration value="Gebetbuch"/>
+                <xs:enumeration value="Gelegenheitsschrift"/>
+                <xs:enumeration value="Gelegenheitsschrift:Abschied"/>
+                <xs:enumeration value="Gelegenheitsschrift:Amtsantritt"/>
+                <xs:enumeration value="Gelegenheitsschrift:Begrüßung"/>
+                <xs:enumeration value="Gelegenheitsschrift:Einladung"/>
+                <xs:enumeration value="Gelegenheitsschrift:Einweihung"/>
+                <xs:enumeration value="Gelegenheitsschrift:Fest"/>
+                <xs:enumeration value="Gelegenheitsschrift:Friedensschluß"/>
+                <xs:enumeration value="Gelegenheitsschrift:Geburt"/>
+                <xs:enumeration value="Gelegenheitsschrift:Geburtstag"/>
+                <xs:enumeration value="Gelegenheitsschrift:Gedenken"/>
+                <xs:enumeration value="Gelegenheitsschrift:Hochzeit"/>
+                <xs:enumeration value="Gelegenheitsschrift:Jubiläum"/>
+                <xs:enumeration value="Gelegenheitsschrift:Konversion"/>
+                <xs:enumeration value="Gelegenheitsschrift:Krönung"/>
+                <xs:enumeration value="Gelegenheitsschrift:Namenstag"/>
+                <xs:enumeration value="Gelegenheitsschrift:Neujahr"/>
+                <xs:enumeration value="Gelegenheitsschrift:Promotion"/>
+                <xs:enumeration value="Gelegenheitsschrift:Sieg"/>
+                <xs:enumeration value="Gelegenheitsschrift:Taufe"/>
+                <xs:enumeration value="Gelegenheitsschrift:Tod"/>
+                <xs:enumeration value="Gelegenheitsschrift:Visitation"/>
+                <xs:enumeration value="Gesangbuch"/>
+                <xs:enumeration value="Gesellschaftsschrift"/>
+                <xs:enumeration value="Gesetz"/>
+                <xs:enumeration value="Gesetzessammlung"/>
+                <xs:enumeration value="Grammatik"/>
+                <xs:enumeration value="Handbuch"/>
+                <xs:enumeration value="Hausväterliteratur"/>
+                <xs:enumeration value="Heiligenvita"/>
+                <xs:enumeration value="Hochschulschrift"/>
+                <xs:enumeration value="Itinerar"/>
+                <xs:enumeration value="Jagdliteratur"/>
+                <xs:enumeration value="Jesuitendrama"/>
+                <xs:enumeration value="Judaicum"/>
+                <xs:enumeration value="Jugendbuch"/>
+                <xs:enumeration value="Jugendsachbuch"/>
+                <xs:enumeration value="Kalender"/>
+                <xs:enumeration value="Kapitulation"/>
+                <xs:enumeration value="Karte"/>
+                <xs:enumeration value="Katalog"/>
+                <xs:enumeration value="Katechismus"/>
+                <xs:enumeration value="Kirchenlied"/>
+                <xs:enumeration value="Kochbuch"/>
+                <xs:enumeration value="Kolportageliteratur"/>
+                <xs:enumeration value="Kommentar"/>
+                <xs:enumeration value="Kommentar:jur."/>
+                <xs:enumeration value="Kommentar:lit."/>
+                <xs:enumeration value="Kommentar:theol."/>
+                <xs:enumeration value="Kommentar:hist."/>
+                <xs:enumeration value="Kommentar:polit."/>
+                <xs:enumeration value="Komödie"/>
+                <xs:enumeration value="Konkordanz"/>
+                <xs:enumeration value="Konsiliensammlung"/>
+                <xs:enumeration value="Konsilium"/>
+                <xs:enumeration value="Legende"/>
+                <xs:enumeration value="Leichenpredigt"/>
+                <xs:enumeration value="Leichenpredigtsammlung"/>
+                <xs:enumeration value="Lesebuch"/>
+                <xs:enumeration value="Lexikon"/>
+                <xs:enumeration value="Libretto"/>
+                <xs:enumeration value="Lied"/>
+                <xs:enumeration value="Liedersammlung"/>
+                <xs:enumeration value="Lyrik"/>
+                <xs:enumeration value="Märchen"/>
+                <xs:enumeration value="Märtyrerdrama"/>
+                <xs:enumeration value="Mandat"/>
+                <xs:enumeration value="Matrikel"/>
+                <xs:enumeration value="Meßkatalog"/>
+                <xs:enumeration value="Meßrelation"/>
+                <xs:enumeration value="Missale"/>
+                <xs:enumeration value="Mitgliederverzeichnis"/>
+                <xs:enumeration value="Moralische Wochenschrift"/>
+                <xs:enumeration value="Musikbuch"/>
+                <xs:enumeration value="Musiknoten"/>
+                <xs:enumeration value="Musterbuch"/>
+                <xs:enumeration value="Novelle"/>
+                <xs:enumeration value="Ordensliteratur"/>
+                <xs:enumeration value="Ordensliteratur:Augustiner"/>
+                <xs:enumeration value="Ordensliteratur:Augustiner-Barfüßer"/>
+                <xs:enumeration value="Ordensliteratur:Augustiner-Chorherren"/>
+                <xs:enumeration value="Ordensliteratur:Augustiner-Eremiten"/>
+                <xs:enumeration value="Ordensliteratur:Barnabiten"/>
+                <xs:enumeration value="Ordensliteratur:Benediktiner"/>
+                <xs:enumeration value="Ordensliteratur:Chorherren"/>
+                <xs:enumeration value="Ordensliteratur:Dominikaner"/>
+                <xs:enumeration value="Ordensliteratur:Franziskaner"/>
+                <xs:enumeration value="Ordensliteratur:Jesuiten"/>
+                <xs:enumeration value="Ordensliteratur:Kapuziner"/>
+                <xs:enumeration value="Ordensliteratur:Karmeliter"/>
+                <xs:enumeration value="Ordensliteratur:Kartäuser"/>
+                <xs:enumeration value="Ordensliteratur:Minimen"/>
+                <xs:enumeration value="Ordensliteratur:Minoriten"/>
+                <xs:enumeration value="Ordensliteratur:Oratorianer"/>
+                <xs:enumeration value="Ordensliteratur:Prämonstratenser"/>
+                <xs:enumeration value="Ordensliteratur:Terziaren"/>
+                <xs:enumeration value="Ordensliteratur:Theatiner"/>
+                <xs:enumeration value="Ordensliteratur:Unbeschuhte Karmeliter"/>
+                <xs:enumeration value="Ordensliteratur:Zisterzienser"/>
+                <xs:enumeration value="Ornamentstich"/>
+                <xs:enumeration value="Ortsverzeichnis"/>
+                <xs:enumeration value="Panegyrikos"/>
+                <xs:enumeration value="Perioche"/>
+                <xs:enumeration value="Pflanzenbuch"/>
+                <xs:enumeration value="Pharmakopöe"/>
+                <xs:enumeration value="Plan"/>
+                <xs:enumeration value="Porträtwerk"/>
+                <xs:enumeration value="Praktik"/>
+                <xs:enumeration value="Predigt"/>
+                <xs:enumeration value="Predigtsammlung"/>
+                <xs:enumeration value="Preisschrift"/>
+                <xs:enumeration value="Privileg"/>
+                <xs:enumeration value="Psalter"/>
+                <xs:enumeration value="Ratgeber"/>
+                <xs:enumeration value="Rechenbuch"/>
+                <xs:enumeration value="Rede"/>
+                <xs:enumeration value="Regelsammlung"/>
+                <xs:enumeration value="Regesten"/>
+                <xs:enumeration value="Reisebericht"/>
+                <xs:enumeration value="Reiseführer"/>
+                <xs:enumeration value="Rezension"/>
+                <xs:enumeration value="Rezensionszeitschrift"/>
+                <xs:enumeration value="Richtlinie"/>
+                <xs:enumeration value="Rituale"/>
+                <xs:enumeration value="Roman"/>
+                <xs:enumeration value="Sage"/>
+                <xs:enumeration value="Satire"/>
+                <xs:enumeration value="Satzung"/>
+                <xs:enumeration value="Schäferdichtung"/>
+                <xs:enumeration value="Schauspiel"/>
+                <xs:enumeration value="Schreibmeisterbuch"/>
+                <xs:enumeration value="Schulbuch"/>
+                <xs:enumeration value="Schulprogramm"/>
+                <xs:enumeration value="Schwank"/>
+                <xs:enumeration value="Seuchenschrift"/>
+                <xs:enumeration value="Spiel"/>
+                <xs:enumeration value="Sprachführer"/>
+                <xs:enumeration value="Sprichwortsammlung"/>
+                <xs:enumeration value="Streitschrift"/>
+                <xs:enumeration value="Streitschrift:polit."/>
+                <xs:enumeration value="Streitschrift:jur."/>
+                <xs:enumeration value="Streitschrift:theol."/>
+                <xs:enumeration value="Subskribentenliste"/>
+                <xs:enumeration value="Subskriptionsanzeige"/>
+                <xs:enumeration value="Tabelle"/>
+                <xs:enumeration value="Tagebuch"/>
+                <xs:enumeration value="Theaterzettel"/>
+                <xs:enumeration value="Tierbuch"/>
+                <xs:enumeration value="Tiermedizin"/>
+                <xs:enumeration value="Topographie"/>
+                <xs:enumeration value="Totentanz"/>
+                <xs:enumeration value="Tragödie"/>
+                <xs:enumeration value="Traktat"/>
+                <xs:enumeration value="Trivialliteratur"/>
+                <xs:enumeration value="Universitätsprogramm"/>
+                <xs:enumeration value="Urkundenbuch"/>
+                <xs:enumeration value="Verkaufskatalog"/>
+                <xs:enumeration value="Verordnung"/>
+                <xs:enumeration value="Verserzählung"/>
+                <xs:enumeration value="Vertrag"/>
+                <xs:enumeration value="Volksbuch"/>
+                <xs:enumeration value="Volksschrifttum"/>
+                <xs:enumeration value="Vorlesung"/>
+                <xs:enumeration value="Vorlesungsverzeichnis"/>
+                <xs:enumeration value="Wappenbuch"/>
+                <xs:enumeration value="Wörterbuch"/>
+                <xs:enumeration value="Zeitschrift"/>
+                <xs:enumeration value="Zeitung"/>
+                <xs:enumeration value="Zitatensammlung"/>
+            </xs:restriction>
+        </xs:simpleType>
+    </xs:element>
+    <xs:element name="mediaType" type="xs:string"/>
+    <xs:element name="languages">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element minOccurs="1" maxOccurs="unbounded" ref="language"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="language">
+        <xs:simpleType>
+            <xs:restriction base="xs:string"> <!-- Diese Liste kann durch Sprachbezeichnungen nach ISO 639-2 erweitert werden -->
+                <xs:enumeration value="ger"/>
+                <xs:enumeration value="lat"/>
+                <xs:enumeration value="fre"/>
+                <xs:enumeration value="ita"/>
+                <xs:enumeration value="spa"/>
+                <xs:enumeration value="eng"/>
+                <xs:enumeration value="dut"/>
+                <xs:enumeration value="ang"/>
+                <xs:enumeration value="ara"/>
+                <xs:enumeration value="arc"/>
+                <xs:enumeration value="arg"/>
+                <xs:enumeration value="arm"/>
+                <xs:enumeration value="ast"/>
+                <xs:enumeration value="ave"/>
+                <xs:enumeration value="aze"/>
+                <xs:enumeration value="baq"/>
+                <xs:enumeration value="bel"/>
+                <xs:enumeration value="bre"/>
+                <xs:enumeration value="bul"/>
+                <xs:enumeration value="cat"/>
+                <xs:enumeration value="chi"/>
+                <xs:enumeration value="chu"/>
+                <xs:enumeration value="cop"/>
+                <xs:enumeration value="cos"/>
+                <xs:enumeration value="csb"/>
+                <xs:enumeration value="cze"/>
+                <xs:enumeration value="dan"/>
+                <xs:enumeration value="dar"/>
+                <xs:enumeration value="dsb"/>
+                <xs:enumeration value="dum"/>
+                <xs:enumeration value="enm"/>
+                <xs:enumeration value="epo"/>
+                <xs:enumeration value="est"/>
+                <xs:enumeration value="fin"/>
+                <xs:enumeration value="frm"/>
+                <xs:enumeration value="fro"/>
+                <xs:enumeration value="fry"/>
+                <xs:enumeration value="fur"/>
+                <xs:enumeration value="geo"/>
+                <xs:enumeration value="gla"/>
+                <xs:enumeration value="gle"/>
+                <xs:enumeration value="glg"/>
+                <xs:enumeration value="gmh"/>
+                <xs:enumeration value="goh"/>
+                <xs:enumeration value="got"/>
+                <xs:enumeration value="grc"/>
+                <xs:enumeration value="gre"/>
+                <xs:enumeration value="gsw"/>
+                <xs:enumeration value="heb"/>
+                <xs:enumeration value="hin"/>
+                <xs:enumeration value="hit"/>
+                <xs:enumeration value="hrv"/>
+                <xs:enumeration value="hsb"/>
+                <xs:enumeration value="hun"/>
+                <xs:enumeration value="ice"/>
+                <xs:enumeration value="ind"/>
+                <xs:enumeration value="jpn"/>
+                <xs:enumeration value="kal"/>
+                <xs:enumeration value="kor"/>
+                <xs:enumeration value="kur"/>
+                <xs:enumeration value="lad"/>
+                <xs:enumeration value="lav"/>
+                <xs:enumeration value="lit"/>
+                <xs:enumeration value="ltz"/>
+                <xs:enumeration value="mac"/>
+                <xs:enumeration value="mga"/>
+                <xs:enumeration value="mis"/>
+                <xs:enumeration value="mlt"/>
+                <xs:enumeration value="mnc"/>
+                <xs:enumeration value="mol"/>
+                <xs:enumeration value="mon"/>
+                <xs:enumeration value="nap"/>
+                <xs:enumeration value="nds"/>
+                <xs:enumeration value="non"/>
+                <xs:enumeration value="nor"/>
+                <xs:enumeration value="oci"/>
+                <xs:enumeration value="ota"/>
+                <xs:enumeration value="pal"/>
+                <xs:enumeration value="peo"/>
+                <xs:enumeration value="per"/>
+                <xs:enumeration value="phn"/>
+                <xs:enumeration value="pol"/>
+                <xs:enumeration value="por"/>
+                <xs:enumeration value="pro"/>
+                <xs:enumeration value="pus"/>
+                <xs:enumeration value="qhe"/>
+                <xs:enumeration value="roh"/>
+                <xs:enumeration value="rom"/>
+                <xs:enumeration value="rum"/>
+                <xs:enumeration value="rus"/>
+                <xs:enumeration value="san"/>
+                <xs:enumeration value="sco"/>
+                <xs:enumeration value="sga"/>
+                <xs:enumeration value="sla"/>
+                <xs:enumeration value="slo"/>
+                <xs:enumeration value="slv"/>
+                <xs:enumeration value="srd"/>
+                <xs:enumeration value="srp"/>
+                <xs:enumeration value="sux"/>
+                <xs:enumeration value="swa"/>
+                <xs:enumeration value="swe"/>
+                <xs:enumeration value="syr"/>
+                <xs:enumeration value="tha"/>
+                <xs:enumeration value="tib"/>
+                <xs:enumeration value="tuk"/>
+                <xs:enumeration value="tur"/>
+                <xs:enumeration value="ukr"/>
+                <xs:enumeration value="und"/>
+                <xs:enumeration value="uzb"/>
+                <xs:enumeration value="vie"/>
+                <xs:enumeration value="vol"/>
+                <xs:enumeration value="wel"/>
+                <xs:enumeration value="wen"/>
+                <xs:enumeration value="yid"/>
+            </xs:restriction>
+        </xs:simpleType>
+    </xs:element>
+    <xs:element name="manifestation">
+        <xs:complexType>
+            <xs:all>
+                <xs:element minOccurs="1" ref="systemManifestation"/>
+                <xs:element minOccurs="1" ref="idManifestation"/>
+            </xs:all>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="systemManifestation">
+        <xs:simpleType>
+            <xs:restriction base="xs:string"> <!-- Diese Liste kann um neue Datenbanken erweitert werden, wenn ein stabiler Link, der die ID enthält, gebildet werden kann. -->
+                <xs:enumeration value="VD16"/>
+                <xs:enumeration value="VD17"/>
+                <xs:enumeration value="VD18"/>
+                <xs:enumeration value="EDIT16"/>
+                <!--<xs:enumeration value="USTC"/>-->
+                <xs:enumeration value="GBV"/>
+                <xs:enumeration value="SWB"/>
+                <xs:enumeration value="HBZ"/>
+                <xs:enumeration value="BVB"/>
+                <!--<xs:enumeration value="BSB"/>-->
+                <xs:enumeration value="HeBIS"/>
+                <xs:enumeration value="SBB"/>
+                <xs:enumeration value="DNB"/>
+                <xs:enumeration value="Paris BnF"/>
+                <xs:enumeration value="ESTC"/>
+                <xs:enumeration value="COPAC"/>
+                <xs:enumeration value="London BL"/>
+                <xs:enumeration value="LoC"/>
+                <xs:enumeration value="Den Haag KB"/>
+                <xs:enumeration value="Wien ÖNB"/>
+                <xs:enumeration value="Kopenhagen KB"/>
+                <xs:enumeration value="GW"/>
+                <xs:enumeration value="ISTC"/>
+                <!--<xs:enumeration value="INKA"/>-->
+                <xs:enumeration value="ManuMed"/>
+                <xs:enumeration value="SUDOC"/>
+                <xs:enumeration value="SBN"/>
+                <xs:enumeration value="UniCat"/>
+                <xs:enumeration value="NEBIS"/>
+                <xs:enumeration value="SWISSBIB"/>
+                <xs:enumeration value="RERO"/>
+                <!--<xs:enumeration value="LBVÖ"/>-->
+                <xs:enumeration value="STCN"/>
+                <!--<xs:enumeration value="UB Antwerpen"/>
+                <xs:enumeration value="UB Gent"/>
+                <xs:enumeration value="Josiah"/>
+                <xs:enumeration value="SOLO"/>
+                <xs:enumeration value="UUL"/>
+                <xs:enumeration value="BUvA"/>-->
+                <xs:enumeration value="Ohne Nachweis"/>
+                <xs:enumeration value="Ausgabe nicht bestimmbar"/>
+            </xs:restriction>
+        </xs:simpleType>
+    </xs:element>
+    <xs:element name="idManifestation" type="xs:string"/>
+    <xs:element name="originalItem">
+        <xs:complexType>
+            <xs:all>
+                <xs:element ref="institutionOriginal"/>
+                <xs:element ref="shelfmarkOriginal"/>
+                <xs:element minOccurs="0" ref="provenanceAttribute"/>
+                <xs:element minOccurs="0" ref="digitalCopyOriginal"/>
+                <xs:element minOccurs="0" ref="targetOPAC"/>
+                <xs:element minOccurs="0" ref="searchID"/>
+            </xs:all>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="institutionOriginal" type="xs:string"/>
+    <xs:element name="shelfmarkOriginal" type="xs:string"/>
+    <xs:element name="provenanceAttribute" type="xs:string"/>
+    <xs:element name="digitalCopyOriginal" type="xs:string"/>
+    <xs:element name="targetOPAC" type="xs:string"/>
+    <xs:element name="searchID" type="xs:string"/>
+    <xs:element name="work">
+        <xs:complexType>
+            <xs:all>
+                <xs:element minOccurs="1" ref="titleWork"/>
+                <xs:element minOccurs="0" ref="systemWork"/>
+                <xs:element minOccurs="0" ref="idWork"/>
+            </xs:all>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="titleWork" type="xs:string"/>
+    <xs:element name="systemWork">
+        <xs:simpleType>
+            <xs:restriction base="xs:string">
+                <xs:enumeration value="gnd"/>
+                <xs:enumeration value="wikipedia"/>
+            </xs:restriction>
+        </xs:simpleType>
+    </xs:element>
+    <xs:element name="idWork" type="xs:string"/>
+    <xs:element name="bound">
+        <xs:simpleType>
+            <xs:restriction base="xs:string">
+                <xs:enumeration value="gebunden"/>
+                <xs:enumeration value="ungebunden"/>
+            </xs:restriction>
+        </xs:simpleType>
+    </xs:element>
+    <xs:element name="comment" type="xs:string"/>
+    <xs:element name="copiesHAB">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element minOccurs="0" maxOccurs="unbounded" ref="copyHAB"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="copyHAB" type="xs:string"/>
+    <xs:element name="digitalCopy" type="xs:anyURI"/>
+    <xs:element name="place">
+        <xs:complexType mixed="true">
+            <xs:all>
+                <xs:element ref="placeName"/>
+                <xs:element minOccurs="0" ref="geoNames"/>
+                <xs:element minOccurs="0" ref="gnd"/>
+                <xs:element minOccurs="0" ref="getty"/>
+                <xs:element minOccurs="0" ref="geoData"/>
+
+            </xs:all>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="geoData">
+        <xs:complexType>
+            <xs:all>
+                <xs:element ref="lat"/>
+                <xs:element ref="long"/>
+            </xs:all>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="placeName" type="xs:string"/>
+    <xs:element name="geoNames" type="xs:string"/>
+    <xs:element name="getty" type="xs:string"/>
+    <xs:element name="lat" type="xs:string"/>
+    <xs:element name="long" type="xs:string"/>
+    <xs:element name="year" type="xs:string"/>
+    <xs:element name="beacon">
+        <xs:complexType mixed="true">
+            <xs:sequence>
+                <xs:element minOccurs="0" maxOccurs="unbounded" ref="beacon"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

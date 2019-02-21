@@ -22,11 +22,13 @@ $indexFields = array_merge($normalFields, $personFields, $placeFields, $arrayFie
 // The following fields are displayed with miscellanies as unordered lists
 $volumeFields = array('numberCat', 'catSubjectFormat', 'histSubject');
 
+/*
 // The following fields get additional word clouds or doughnuts if they are selected
 $wordCloudFields = array('publisher', 'format', 'histSubject', 'subjects', 'genres', 'mediaType', 'persName', 'gnd', 'role', 'placeName', 'languages', 'systemManifestation', 'institutionOriginal', 'shelfmarkOriginal', 'provenanceAttribute', 'beacon');
 $doughnutFields = array('persName', 'gender', 'format', 'histSubject', 'subjects', 'genres', 'mediaType', 'languages', 'systemManifestation', 'institutionOriginal', 'provenanceAttribute', 'bound', 'beacon');
 
 // Checkbox-Fields
 $checkboxFields = array('numberCat', 'catSubjectFormat', 'shelfmarkOriginal', 'histSubject', 'persName', 'gender', 'beacon', 'year', 'subjects', 'histShelfmark', 'genres', 'languages', 'placeName', 'publisher', 'format', 'volumes', 'mediaType', 'bound', 'systemManifestation', 'institutionOriginal', 'provenanceAttribute', 'pageCat', 'titleWork');
+*/
 
 ?>

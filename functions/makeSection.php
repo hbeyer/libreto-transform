@@ -158,6 +158,7 @@ function compareItemInVolume($a, $b) {
 
 
 function makeList($structure, $catalogue) {
+    $repository = new beacon_repository;
     $count = 0;
 	ob_start();
 	include 'templates/list.phtml';
@@ -167,7 +168,7 @@ function makeList($structure, $catalogue) {
 }
 
 function makeBeaconLinks($gnd, $repository) {
-    $linkArray = $repository->getLinks($gnd);
+    $linkArray = $repository->getLinks($gnd, '_blank');
     array_unshift($linkArray, '<a href="http://d-nb.info/gnd/'.$gnd.'" target="_blank">DNB</a>');
     return(implode(' | ', $linkArray));
 }

@@ -59,9 +59,9 @@ function loadMetadataFromNode($node) {
 }
 
 function makeItemFromNode($node) {
-	$simpleFields = array('id', 'pageCat', 'imageCat', 'numberCat', 'itemInVolume', 'volumes', 'titleCat', 'titleBib', 'titleNormalized', 'publisher', 'year', 'format', 'histSubject', 'mediaType', 'bound', 'comment');
+	$simpleFields = array('id', 'pageCat', 'imageCat', 'numberCat', 'itemInVolume', 'volumes', 'volumensMisc', 'titleCat', 'titleBib', 'titleNormalized', 'publisher', 'year', 'format', 'histSubject', 'histShelfmark', 'mediaType', 'bound', 'digitalCopy', 'comment');
 	$multiValuedFields = array('subjects', 'genres', 'languages', 'copiesHAB');
-	$subFieldFields = array('manifestation', 'originalItem', 'work');
+	$subFieldFields = array('manifestation', 'originalItem', 'work', 'volumeNote');
 	$item = new item;
 	$children = $node->childNodes;
 	foreach($children as $child) {
