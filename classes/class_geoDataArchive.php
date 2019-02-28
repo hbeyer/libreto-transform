@@ -271,7 +271,6 @@ class geoDataArchive {
 	function makeEntryFromGND($gnd) {
 		$target = 'http://d-nb.info/gnd/'.$gnd.'/about/lds';
 		$response = file_get_contents($target);
-		echo $response;
 		$RDF = new DOMDocument();
 		$RDF->load($target);
 			

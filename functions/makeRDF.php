@@ -18,9 +18,12 @@ function saveRDF($data, $catalogue, $base = 'http://bibliotheksrekonstruktion.ha
 
     $graph = addCollectionData($graph, $catalogue);
     $graph = addCatalogueEntries($catalogue, $graph, $data);
+    
+    require('AADGenres.php');
     foreach ($data as $item) {
-        addItem($graph, $item, $catalogue);
+        addItem($graph, $item, $catalogue, $aadgenres);
     }
+
     $graph = addPhysicalContext($graph, $data, $catalogue);
 
 	$serialiser = new EasyRdf_Serialiser_Turtle;
@@ -50,8 +53,10 @@ function saveRDFtoPath($data, $catalogue, $path, $base = 'http://bibliotheksreko
 
     $graph = addCollectionData($graph, $catalogue);
     $graph = addCatalogueEntries($catalogue, $graph, $data);
+
+    require('AADGenres.php');
     foreach ($data as $item) {
-        addItem($graph, $item, $catalogue);
+        addItem($graph, $item, $catalogue, $aadgenres);
     }
     $graph = addPhysicalContext($graph, $data, $catalogue);
 
@@ -124,7 +129,7 @@ function addCatalogueEntries($catalogue, $graph, $data) {
     return($graph);
 }
 
-function addItem($graph, $item, $catalogue) {
+function addItem($graph, $item, $catalogue, $aadgenres) {
     $collection = $graph->resource('br:'.$catalogue->fileName, 'libreto:Collection');
     $itemResource = $graph->resource('br:'.$catalogue->fileName.'/item_'.$item->id, 'libreto:Item');
     $itemResource->addResource('libreto:belongsTo', $collection);
@@ -148,7 +153,6 @@ function addItem($graph, $item, $catalogue) {
         $itemResource->addLiteral('libreto:bibliographicalFormat', $item->format);    
     }
 
-    include('AADGenres.php');
     foreach ($item->subjects as $subject) {
         $language = null;
         if (in_array(removeBlanks($subject), $aadgenres)) {
@@ -167,7 +171,6 @@ function addItem($graph, $item, $catalogue) {
     foreach ($item->languages as $language) {
         $itemResource->addLiteral('dcmt:language', $language, 'iso6392'); 
     }
-
     
     if ($item->bound === 0 or $item->bound === '0') {
         $itemResource->addLiteral('libreto:physicalForm', 'ungebunden', 'de');
@@ -268,17 +271,6 @@ function addPerson($graph, $catalogue, $item, $person) {
     if ($person->gnd) {
         $identifierGND = new EasyRdf_Literal($person->gnd, null, 'http://d-nb.info/standards/elementset/gnd#gndIdentifier');
         $personResource->add('dcmt:identifier', $identifierGND);
-
-    /*    if ($person->beacon and $person->gnd) {
-        include('beaconSources.php');
-            foreach ($person->beacon as $key){
-                $link = makeBeaconLink($person->gnd, $beaconSources[$key]['target']);
-                if ($link) {
-                    $personResource->addLiteral('libreto:biographicalInformation', $link);
-                }
-            }
-        }
-    */
     }
     $property = 'dcmt:contributor';
     if ($person->role == 'author' or $person->role == 'creator') {

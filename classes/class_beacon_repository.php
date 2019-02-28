@@ -4,7 +4,7 @@ class beacon_repository {
 
     public $errorMessages = array();
     public $lastUpdate;
-    public $valid = null;
+    public $valid = false;
     private $folder = 'beaconFiles';
     private $update_int = 1209600;
     private $filePermission = 0777;
@@ -100,7 +100,7 @@ class beacon_repository {
         ini_set('user_agent', $this->user);
         foreach ($this->beacon_sources as $key => $source) {
             if (!copy($source['location'], $this->folder.'/'.$key)) {
-                echo 'Kopieren von '.$source['location'].' nach '.$this->folder.'/'.$key.' schlug fehl.<br />';
+                throw new Exception('Kopieren von '.$source['location'].' nach '.$this->folder.'/'.$key.' schlug fehl.');
             }
             else {
                 chmod($this->folder.'/'.$key, $this->filePermission);
@@ -149,26 +149,21 @@ class beacon_repository {
     private function validate() {
         $status = null;
         if (!is_dir($this->folder)) {
-			echo 'Ordner existiert nicht';
-            $status = false;
+			throw new Exception('Ordner existiert nicht');
         }
         if (!file_exists($this->folder.'/changeDate')) {
-			echo 'changeDate existiert nicht';
-            $status = false;
+			throw new Exception('changeDate existiert nicht');
         }
         $date = intval(file_get_contents($this->folder.'/changeDate'));
         if ($date < 1400000000 or $date > date('U')) {
-			echo 'changeDate ist nicht plausibel';
-            $status = false;
+			throw new Exception('changeDate ist nicht plausibel');
         }
         foreach ($this->beacon_sources as $key => $source) {
             if (!file_exists($this->folder.'/'.$key)) {
-				echo $key.' existiert nicht';
-                $status = false;
+				throw new Exception($key.' existiert nicht');
             }
         }
-        $status = true;
-        $this->valid = $status;
+        $this->valid = true;
     }
 
 }

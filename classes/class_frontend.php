@@ -16,8 +16,9 @@ class frontend {
     }
 
     public function save() {
-        require(reconstruction::INCLUDEPATH.'makeSection.php');
-        require(reconstruction::INCLUDEPATH.'makeIndex.php');
+        // Die folgenden Dateien sind u. U. schon vorher inkludiert, wenn man reconstruction::saveAllFormats() ausgeführt hat.
+        require_once(reconstruction::INCLUDEPATH.'makeSection.php');
+        require_once(reconstruction::INCLUDEPATH.'makeIndex.php');
         require(reconstruction::INCLUDEPATH.'makeNavigation.php');
         require(reconstruction::INCLUDEPATH.'makePage.php');
         require(reconstruction::INCLUDEPATH.'makeEntry.php');

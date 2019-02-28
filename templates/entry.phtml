@@ -13,9 +13,9 @@ $proofWork = new reference($item->work['systemWork'], $item->work['idWork']);
 <?php elseif ($item->titleCat): ?>
                     <span class="titleBib">[Titel im Altkatalog:] <?php echo $item->titleCat; ?>,</span><span class="titleCat"><?php echo $item->titleCat; ?></span> 
 <?php endif; ?>
-<?php if ($item->bound == 0): ?>ungebunden<?php endif; ?>
+<?php if ($item->bound == 0 or $item->bound == 'ungebunden'): ?>ungebunden<?php if ($published): ?>, <?php endif; ?><?php endif; ?>
 <?php if ($item->volumes > 1): ?>
-                    <span class="volumes"><?php echo $item->volumes; ?> Bde., </span>
+                    <span class="volumes"><?php echo $item->volumes; ?> Bde.<?php if ($published): ?>, <?php endif; ?></span>
 <?php endif; ?>
 <?php if ($published): ?><span class="published"><?php echo $published; ?></span><?php endif; ?>
                     <a id="link<?php echo 'current_'.$count; ?>" href="javascript:toggle('<?php echo 'current_'.$count; ?>')">Mehr</a>

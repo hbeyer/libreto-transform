@@ -52,8 +52,9 @@ function makeIndex($data, $field) {
 		$index = mergeIndices($index1, $index2);
 	}
 	
+    require('languageCodes.php');
 	foreach($index as $entry) {
-		$entry->label = postprocessFields($field, $entry->label);
+		$entry->label = postprocessFields($field, $entry->label, $languageCodes);
 	}
 	
 	return($index);
@@ -201,7 +202,8 @@ function collectIDsSubObjects($data, $field, $subField) {
 }
 
 function collectIDsBeacon($data) {
-    $beaconSources = $_SESSION['beaconRepository']->beacon_sources;
+    $repository = new beacon_repository;
+    $beaconSources = $repository->beacon_sources;
 	$collect = array();
 	$count = 0;
 	foreach($data as $item) {
@@ -314,9 +316,9 @@ function preprocessFields($field, $value, $item) {
 	return($value);
 }
 
-function postprocessFields($field, $value) {
-	/* Ist nicht ideal, weil auch label vom Typ histSubject erfasst werden, aber vermutl. 
-	keine praktische Auswirkung, weil die Ersetzungsfunktion sehr eng gefasst ist. */
+function postprocessFields($field, $value, $languageCodes) {
+	// Ist nicht ideal, weil auch label vom Typ histSubject erfasst werden, aber vermutl. 
+	// keine praktische Auswirkung, weil die Ersetzungsfunktion sehr eng gefasst ist.
 	if($field == ('format' or 'catSubjectFormat')) {
 		$value = reverseSortingFormat($value);
 	}
@@ -325,7 +327,6 @@ function postprocessFields($field, $value) {
 			$value = 'ohne Angabe';
 		}
 		else {
-			include('languageCodes.php');
 			$value = $languageCodes[$value];
 		}
 	}
@@ -340,6 +341,14 @@ function postprocessFields($field, $value) {
 		if($value == '') {
 			$value = 'ohne Angabe';
 		}
+	}
+	if($field == 'bound') {
+		if($value == 0) {
+			$value = 'ungebunden';
+		}
+        else {
+            $value = 'gebunden';
+        }
 	}
 	if($field == 'year') {
 		if($value == 9999) {
@@ -373,7 +382,7 @@ function postponeVoid($collect) {
 		$test1 = in_array($key, $voidTerms);
 		if($test1) {
 			if(isset($voidKey)) {
-				echo 'Fehler: Mehr als ein leeres Feld in dem Index, der mit '.$collect[0].' beginnt.';
+				throw new Exception('Mehr als ein leeres Feld in dem Index, der mit '.$collect[0].' beginnt.');
 			}
 			else {
 				$voidKey = $key;

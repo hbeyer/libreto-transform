@@ -10,7 +10,7 @@
   <libreto:Collection rdf:about="http://bibliotheksrekonstruktion.hab.de/bahnsen">
     <dc:date xml:lang="xsd:gYear">1670</dc:date>
     <dc:title>Bibliothek Benedikt Bahnsen</dc:title>
-    <dc:description xml:lang="de">Die aus einem Auktionskatalog von 1670 rekonstruierte Bibliothek gehörte dem Chiliasten Benedikt Bahnsen (gest. 1669). Der aus Norddeutschland stammende und nach Amsterdam emigrierte Bahnsen war als Verleger, Buchhändler und Bücheragent, Mathematiker und Rechenmeister tätig. Erfasst sind alle Losnummern, d.h. Titel des Katalogs, die Tiefenerschließung umfasst indessen nur die beiden ersten Sachgruppen, die Libri Theologici und Libri Medici &amp; Chymici. Damit wird dem Alleinstellungsmerkmal dieser Bibliothek Rechnung getragen, bei der es sich um das umfangreichste Einzelrepositorium für nonkonformes und heterodoxes Schrifttum handeln dürfte. Die Erschließung erfolgte durch Dietrich Hakelberg, Jörn Münkner und Katrin Schmidt als bibliothekarischer Mitarbeiterin. Vgl. Dietrich Hakelberg, Die fanatischen Bücher des Benedikt Bahnsen: Leben und Bibliothek eines religiösen Dissidenten, in: Autorenbibliotheken: Erschließung, Rekonstruktion, Wissensordnung, hg. von Michael Knoche, Wiesbaden 2015, S. 113–146</dc:description>
+    <dc:description xml:lang="de">Die aus einem Auktionskatalog von 1670 rekonstruierte Bibliothek gehörte dem Chiliasten Benedikt Bahnsen (gest. 1669). Der aus Norddeutschland stammende und nach Amsterdam emigrierte Bahnsen war als Verleger, Buchhändler und Bücheragent, Mathematiker und Rechenmeister tätig. Erfasst sind alle Losnummern, d.h. Titel des Katalogs, die Tiefenerschließung umfasst indessen nur die beiden ersten Sachgruppen, die Libri Theologici und Libri Medici &amp; Chymici. Damit wird dem Alleinstellungsmerkmal dieser Bibliothek Rechnung getragen, bei der es sich um das umfangreichste Einzelrepositorium für nonkonformes und heterodoxes Schrifttum handeln dürfte. Vgl. Dietrich Hakelberg, Die fanatischen Bücher des Benedikt Bahnsen: Leben und Bibliothek eines religiösen Dissidenten, in: Autorenbibliotheken: Erschließung, Rekonstruktion, Wissensordnung, hg. von Michael Knoche, Wiesbaden 2015, S. 113–146</dc:description>
     <libreto:collector rdf:resource="http://d-nb.info/gnd/128989289"/>
   </libreto:Collection>
 
@@ -979,6 +979,7 @@ Zuvor vermehret mit einem Büchlein/ De Monetis Et Mensuris ... Insonderheit abe
             <libreto:comment>Format eigtl. 4°. Drucker ermittelt nach Alastair Hamilton: The Family of Love. I: Hendrik Niclaes (Baden-Baden 2003), S. 107, Nr. 8b</libreto:comment>
             <libreto:hasPlace rdf:resource="http://vocab.getty.edu/tgn/7004446"/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/118786105"/>
+            <libreto:hasManifestation rdf:resource="http://gso.gbv.de/DB=2.1/PPNSET?PPN=48412790X"/>
           </libreto:Item>
         </libreto:refersTo>
 
@@ -1007,6 +1008,7 @@ Zuvor vermehret mit einem Büchlein/ De Monetis Et Mensuris ... Insonderheit abe
             <libreto:comment>Format eigtl. 4°. Drucker ermittelt nach Alastair Hamilton: The Family of Love. I: Hendrik Niclaes (Baden-Baden 2003), S. 107, Nr. 8b</libreto:comment>
             <libreto:hasPlace rdf:resource="http://vocab.getty.edu/tgn/7004446"/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/118786105"/>
+            <libreto:hasManifestation rdf:resource="http://gso.gbv.de/DB=2.1/PPNSET?PPN=48412790X"/>
           </libreto:Item>
         </libreto:refersTo>
 
@@ -1833,7 +1835,7 @@ Zuvor vermehret mit einem Büchlein/ De Monetis Et Mensuris ... Insonderheit abe
           <libreto:Item rdf:about="br:bahnsen/item_bahnsen50">
             <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/bahnsen"/>
             <dc:type>Druck</dc:type>
-            <dc:title>Christlijcke sendtbrieuen, inholdende seer veele vnde verscheydene schoone godtl?cke vermaninghen vnde onderrichtinghen</dc:title>
+            <dc:title>Christlijcke sendtbrieuen, inholdende seer veele vnde verscheydene schoone godtlijcke vermaninghen vnde onderrichtinghen</dc:title>
             <dc:date xml:lang="xsd:gYear">[ca. 1600]</dc:date>
             <dc:publisher>Vennecool, Jacob Cornelisz</dc:publisher>
             <dbo:numberOfVolumes xml:lang="xsd:integer">1</dbo:numberOfVolumes>
@@ -1863,7 +1865,7 @@ Zuvor vermehret mit einem Büchlein/ De Monetis Et Mensuris ... Insonderheit abe
           <libreto:Item rdf:about="br:bahnsen/item_bahnsen51">
             <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/bahnsen"/>
             <dc:type>Druck</dc:type>
-            <dc:title>Christlijcke sendtbrieuen, inholdende seer veele vnde verscheydene schoone godtl?cke vermaninghen vnde onderrichtinghen</dc:title>
+            <dc:title>Christlijcke sendtbrieuen, inholdende seer veele vnde verscheydene schoone godtlijcke vermaninghen vnde onderrichtinghen</dc:title>
             <dc:date xml:lang="xsd:gYear">[ca. 1600]</dc:date>
             <dc:publisher>Vennecool, Jacob Cornelisz</dc:publisher>
             <dbo:numberOfVolumes xml:lang="xsd:integer">1</dbo:numberOfVolumes>
@@ -1893,7 +1895,7 @@ Zuvor vermehret mit einem Büchlein/ De Monetis Et Mensuris ... Insonderheit abe
           <libreto:Item rdf:about="br:bahnsen/item_bahnsen52">
             <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/bahnsen"/>
             <dc:type>Druck</dc:type>
-            <dc:title>Christlijcke sendtbrieuen, inholdende seer veele vnde verscheydene schoone godtl?cke vermaninghen vnde onderrichtinghen</dc:title>
+            <dc:title>Christlijcke sendtbrieuen, inholdende seer veele vnde verscheydene schoone godtlijcke vermaninghen vnde onderrichtinghen</dc:title>
             <dc:date xml:lang="xsd:gYear">[ca. 1600]</dc:date>
             <dc:publisher>Vennecool, Jacob Cornelisz</dc:publisher>
             <dbo:numberOfVolumes xml:lang="xsd:integer">1</dbo:numberOfVolumes>
@@ -3017,7 +3019,7 @@ Zuvor vermehret mit einem Büchlein/ De Monetis Et Mensuris ... Insonderheit abe
             <dc:subject>Theologie</dc:subject>
             <dc:language xml:lang="iso6392">ger</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
-            <libreto:comment>#VD17$per weigel, valentin and tit g!lden* griff and erj 1601-1670#</libreto:comment>
+            <libreto:comment>#VD17$per weigel, valentin and tit gülden* griff and erj 1601-1670#</libreto:comment>
             <libreto:hasPlace rdf:resource="http://vocab.getty.edu/tgn/1036898"/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/118630105"/>
             <libreto:hasContext>
@@ -3357,7 +3359,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
             <dc:subject>Theologie</dc:subject>
             <dc:language xml:lang="iso6392">ger</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
-            <libreto:comment>#VD17$per weigel, valentin and tit g!lden* griff and erj 1601-1670#</libreto:comment>
+            <libreto:comment>#VD17$per weigel, valentin and tit gülden* griff and erj 1601-1670#</libreto:comment>
             <libreto:hasPlace rdf:resource="http://vocab.getty.edu/tgn/1036898"/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/118630105"/>
             <libreto:hasContext>
@@ -3643,7 +3645,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
             <dc:subject>Theologie</dc:subject>
             <dc:language xml:lang="iso6392">ger</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
-            <libreto:comment>#VD17$per weigel, valentin and tit g!lden* griff and erj 1601-1670#</libreto:comment>
+            <libreto:comment>#VD17$per weigel, valentin and tit gülden* griff and erj 1601-1670#</libreto:comment>
             <libreto:hasPlace rdf:resource="http://vocab.getty.edu/tgn/1036898"/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/118630105"/>
             <libreto:hasContext>
@@ -4133,7 +4135,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
             <dc:subject>Theologie</dc:subject>
             <dc:language xml:lang="iso6392">ger</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
-            <libreto:comment>#VD17$per weigel, valentin and tit g!lden* griff and erj 1601-1670#</libreto:comment>
+            <libreto:comment>#VD17$per weigel, valentin and tit gülden* griff and erj 1601-1670#</libreto:comment>
             <libreto:hasPlace rdf:resource="http://vocab.getty.edu/tgn/1036898"/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/118630105"/>
             <libreto:hasContext>
@@ -4192,7 +4194,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
             <dc:subject>Theologie</dc:subject>
             <dc:language xml:lang="iso6392">ger</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
-            <libreto:comment>#VD17$per weigel, valentin and tit g!lden* griff and erj 1601-1670#</libreto:comment>
+            <libreto:comment>#VD17$per weigel, valentin and tit gülden* griff and erj 1601-1670#</libreto:comment>
             <libreto:hasPlace rdf:resource="http://vocab.getty.edu/tgn/1036898"/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/118630105"/>
           </libreto:Item>
@@ -5696,6 +5698,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
             <libreto:comment>Sehr selten überliefert, nur ein Ex. in Hannover GWLB: T-A 3730 (Stück 3); vgl. Moller, Cimbria literata I, S. 679 (in 4°)</libreto:comment>
             <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/121392309"/>
+            <libreto:hasManifestation rdf:resource="http://gso.gbv.de/DB=2.1/PPNSET?PPN=23135682X"/>
             <libreto:hasContext>
               <libreto:PhysicalContext>
                 <libreto:position>7</libreto:position>
@@ -6658,6 +6661,7 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/121392309"/>
+            <libreto:hasManifestation rdf:resource="http://gso.gbv.de/DB=2.1/PPNSET?PPN=23135682X"/>
           </libreto:Item>
         </libreto:refersTo>
 
@@ -8881,7 +8885,7 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
             <dc:subject>Theologie</dc:subject>
             <dc:language xml:lang="iso6392">ger</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
-            <libreto:comment>#VD17$per arndt, johann and tit parad!s*#</libreto:comment>
+            <libreto:comment>#VD17$per arndt, johann and tit paradis*#</libreto:comment>
             <dc:creator rdf:resource="http://d-nb.info/gnd/118504134"/>
           </libreto:Item>
         </libreto:refersTo>
@@ -9046,6 +9050,8 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
             <libreto:hasPlace>
               <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7007945">
                 <gn:name>Lüttich</gn:name>
+                <geo:lat xml:lang="xsd:decimal">50.638674</geo:lat>
+                <geo:long xml:lang="xsd:decimal">5.570228</geo:long>
               </libreto:Place>
             </libreto:hasPlace>
 
@@ -9656,6 +9662,13 @@ Nebenst beygefügtem Extract etlicher wunderlichen Newen Offenbahrungen/ angehen
             <libreto:hasPlace rdf:resource="http://vocab.getty.edu/tgn/7007831"/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/118512579"/>
             <dc:contributor rdf:resource="http://d-nb.info/gnd/1055650709"/>
+            <libreto:hasManifestation>
+              <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=2.1/PPNSET?PPN=50992719X">
+                <libreto:database>Gemeinsamer Bibliotheksverbund (GBV)</libreto:database>
+                <dc:identifier>50992719X</dc:identifier>
+              </libreto:Manifestation>
+            </libreto:hasManifestation>
+
           </libreto:Item>
         </libreto:refersTo>
 
@@ -11706,6 +11719,13 @@ Nebenst beygefügtem Extract etlicher wunderlichen Newen Offenbahrungen/ angehen
             <libreto:comment>Sehr seltene Ausgabe der niederdeutschen Passionsharmonie. Das einzig bekannte Ex. in Berlin SB (Signatur El 310) ist ein Kriegsverlust</libreto:comment>
             <libreto:hasPlace rdf:resource="http://vocab.getty.edu/tgn/7005289"/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/118517287"/>
+            <libreto:hasManifestation>
+              <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=2.1/PPNSET?PPN=37518032X">
+                <libreto:database>Gemeinsamer Bibliotheksverbund (GBV)</libreto:database>
+                <dc:identifier>37518032X</dc:identifier>
+              </libreto:Manifestation>
+            </libreto:hasManifestation>
+
             <libreto:hasContext>
               <libreto:PhysicalContext>
                 <libreto:position>1</libreto:position>
@@ -12837,6 +12857,13 @@ Nebenst beygefügtem Extract etlicher wunderlichen Newen Offenbahrungen/ angehen
             <libreto:comment>Fehlt im VD 17. Penman, Leigh A.: A Heterodox Publishing Enterprise of the Thirty Years’ War. The Amsterdam Office of Hans Fabel (1616-after 1650). In: The Library 15 (2014), S. 41, Nr. 52.</libreto:comment>
             <libreto:hasPlace rdf:resource="http://vocab.getty.edu/tgn/7006952"/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/128596627"/>
+            <libreto:hasManifestation>
+              <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=2.1/PPNSET?PPN=23680782X">
+                <libreto:database>Gemeinsamer Bibliotheksverbund (GBV)</libreto:database>
+                <dc:identifier>23680782X</dc:identifier>
+              </libreto:Manifestation>
+            </libreto:hasManifestation>
+
           </libreto:Item>
         </libreto:refersTo>
 
@@ -19875,7 +19902,13 @@ Darbey ein Schreiben vom Kriege/ an einen Leutenant ...</dc:title>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Format eigentl. 8°. SBB-PK Berlin: Kriegsverlust</libreto:comment>
             <libreto:hasPlace rdf:resource="http://vocab.getty.edu/tgn/7008772"/>
-            <dc:creator rdf:resource="http://d-nb.info/gnd/118637649"/>
+            <dc:creator>
+              <libreto:Person rdf:about="http://d-nb.info/gnd/11855462X">
+                <foaf:name>Hugo Argentinensis</foaf:name>
+                <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">11855462X</dc:identifier>
+              </libreto:Person>
+            </dc:creator>
+
             <libreto:hasManifestation>
               <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=2.1/PPNSET?PPN=411817914">
                 <libreto:database>Gemeinsamer Bibliotheksverbund (GBV)</libreto:database>
@@ -31281,6 +31314,13 @@ Item Elenchus Chronologicus Novus, per totam Sacram Scripturam Veteris &amp; Nov
               </libreto:Person>
             </dc:creator>
 
+            <libreto:hasManifestation>
+              <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=2.1/PPNSET?PPN=15161685X">
+                <libreto:database>Gemeinsamer Bibliotheksverbund (GBV)</libreto:database>
+                <dc:identifier>15161685X</dc:identifier>
+              </libreto:Manifestation>
+            </libreto:hasManifestation>
+
           </libreto:Item>
         </libreto:refersTo>
 
@@ -36626,6 +36666,13 @@ Ausgabebezeichnung: COLONIAE AGRIPPINAE,|| Apud Haeredes Arnoldi Birckmanni.|| M
             <libreto:hasPlace rdf:resource="http://vocab.getty.edu/tgn/4007173"/>
             <libreto:hasPlace rdf:resource="http://vocab.getty.edu/tgn/7007048"/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/116730803"/>
+            <libreto:hasManifestation>
+              <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=2.1/PPNSET?PPN=81695187X">
+                <libreto:database>Gemeinsamer Bibliotheksverbund (GBV)</libreto:database>
+                <dc:identifier>81695187X</dc:identifier>
+              </libreto:Manifestation>
+            </libreto:hasManifestation>
+
           </libreto:Item>
         </libreto:refersTo>
 
@@ -40839,6 +40886,8 @@ Iam Nunc Ab Autore denuo diligenter recognita ...</dc:title>
             <libreto:hasPlace>
               <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7012571">
                 <gn:name>Lemgo</gn:name>
+                <geo:lat xml:lang="xsd:decimal">52.033333</geo:lat>
+                <geo:long xml:lang="xsd:decimal">8.9</geo:long>
               </libreto:Place>
             </libreto:hasPlace>
 
@@ -60901,6 +60950,11 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
     <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">118786105</dc:identifier>
   </libreto:Person>
 
+  <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=2.1/PPNSET?PPN=48412790X">
+    <libreto:database>Gemeinsamer Bibliotheksverbund (GBV)</libreto:database>
+    <dc:identifier>48412790X</dc:identifier>
+  </libreto:Manifestation>
+
   <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=2.1/PPNSET?PPN=146786416">
     <libreto:database>Gemeinsamer Bibliotheksverbund (GBV)</libreto:database>
     <dc:identifier>146786416</dc:identifier>
@@ -61171,6 +61225,11 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
     <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">121392309</dc:identifier>
   </libreto:Person>
 
+  <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=2.1/PPNSET?PPN=23135682X">
+    <libreto:database>Gemeinsamer Bibliotheksverbund (GBV)</libreto:database>
+    <dc:identifier>23135682X</dc:identifier>
+  </libreto:Manifestation>
+
   <libreto:Place rdf:about="br:bahnsen/places/Newenstatt+%5Bfingiert%3F">
     <gn:name>Newenstatt [fingiert?</gn:name>
   </libreto:Place>
@@ -61367,6 +61426,8 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7007831">
     <gn:name>Thorn</gn:name>
+    <geo:lat xml:lang="xsd:decimal">53.0167</geo:lat>
+    <geo:long xml:lang="xsd:decimal">18.5833</geo:long>
   </libreto:Place>
 
   <libreto:Person rdf:about="http://d-nb.info/gnd/1055650709">
@@ -61591,6 +61652,8 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/1040842">
     <gn:name>Rees</gn:name>
+    <geo:lat xml:lang="xsd:decimal">51.7667</geo:lat>
+    <geo:long xml:lang="xsd:decimal">6.4</geo:long>
   </libreto:Place>
 
   <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=3:300618P">
@@ -61799,6 +61862,8 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7006464">
     <gn:name>Prag</gn:name>
+    <geo:lat xml:lang="xsd:decimal">50.1</geo:lat>
+    <geo:long xml:lang="xsd:decimal">14.4333</geo:long>
   </libreto:Place>
 
   <libreto:Person rdf:about="http://d-nb.info/gnd/121821153">
@@ -61833,6 +61898,8 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7007601">
     <gn:name>Breslau</gn:name>
+    <geo:lat xml:lang="xsd:decimal">51.1</geo:lat>
+    <geo:long xml:lang="xsd:decimal">17</geo:long>
   </libreto:Place>
 
   <libreto:Person rdf:about="http://d-nb.info/gnd/124596509">
@@ -61990,6 +62057,8 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7006948">
     <gn:name>Kampen</gn:name>
+    <geo:lat xml:lang="xsd:decimal">52.55</geo:lat>
+    <geo:long xml:lang="xsd:decimal">5.916667</geo:long>
   </libreto:Place>
 
   <libreto:Person rdf:about="http://d-nb.info/gnd/118575279">
@@ -62326,6 +62395,8 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7007726">
     <gn:name>Liegnitz</gn:name>
+    <geo:lat xml:lang="xsd:decimal">51.2</geo:lat>
+    <geo:long xml:lang="xsd:decimal">16.1667</geo:long>
   </libreto:Place>
 
   <libreto:Person rdf:about="http://d-nb.info/gnd/1037523938">

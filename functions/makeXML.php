@@ -158,6 +158,7 @@ function makeSubfieldName($fieldName) {
     return($fieldName);
 }
 
+/*
 function expandBeaconKeys($data) {
 	require_once('beaconSources.php');
 	foreach($data as $item) {
@@ -174,5 +175,6 @@ function expandBeaconKeys($data) {
 	}
 	return($data);
 }
+*/
 
 ?>

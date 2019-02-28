@@ -12,7 +12,7 @@ br:bahnsen
   a libreto:Collection ;
   dc:date "1670"@xsd:gYear ;
   dc:title "Bibliothek Benedikt Bahnsen" ;
-  dc:description "Die aus einem Auktionskatalog von 1670 rekonstruierte Bibliothek gehörte dem Chiliasten Benedikt Bahnsen (gest. 1669). Der aus Norddeutschland stammende und nach Amsterdam emigrierte Bahnsen war als Verleger, Buchhändler und Bücheragent, Mathematiker und Rechenmeister tätig. Erfasst sind alle Losnummern, d.h. Titel des Katalogs, die Tiefenerschließung umfasst indessen nur die beiden ersten Sachgruppen, die Libri Theologici und Libri Medici & Chymici. Damit wird dem Alleinstellungsmerkmal dieser Bibliothek Rechnung getragen, bei der es sich um das umfangreichste Einzelrepositorium für nonkonformes und heterodoxes Schrifttum handeln dürfte. Die Erschließung erfolgte durch Dietrich Hakelberg, Jörn Münkner und Katrin Schmidt als bibliothekarischer Mitarbeiterin. Vgl. Dietrich Hakelberg, Die fanatischen Bücher des Benedikt Bahnsen: Leben und Bibliothek eines religiösen Dissidenten, in: Autorenbibliotheken: Erschließung, Rekonstruktion, Wissensordnung, hg. von Michael Knoche, Wiesbaden 2015, S. 113–146"@de ;
+  dc:description "Die aus einem Auktionskatalog von 1670 rekonstruierte Bibliothek gehörte dem Chiliasten Benedikt Bahnsen (gest. 1669). Der aus Norddeutschland stammende und nach Amsterdam emigrierte Bahnsen war als Verleger, Buchhändler und Bücheragent, Mathematiker und Rechenmeister tätig. Erfasst sind alle Losnummern, d.h. Titel des Katalogs, die Tiefenerschließung umfasst indessen nur die beiden ersten Sachgruppen, die Libri Theologici und Libri Medici & Chymici. Damit wird dem Alleinstellungsmerkmal dieser Bibliothek Rechnung getragen, bei der es sich um das umfangreichste Einzelrepositorium für nonkonformes und heterodoxes Schrifttum handeln dürfte. Vgl. Dietrich Hakelberg, Die fanatischen Bücher des Benedikt Bahnsen: Leben und Bibliothek eines religiösen Dissidenten, in: Autorenbibliotheken: Erschließung, Rekonstruktion, Wissensordnung, hg. von Michael Knoche, Wiesbaden 2015, S. 113–146"@de ;
   libreto:collector gnd:128989289 .
 
 gnd:128989289
@@ -17069,7 +17069,8 @@ Zuvor vermehret mit einem Büchlein/ De Monetis Et Mensuris ... Insonderheit abe
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Format eigtl. 4°. Drucker ermittelt nach Alastair Hamilton: The Family of Love. I: Hendrik Niclaes (Baden-Baden 2003), S. 107, Nr. 8b" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7004446> ;
-  dc:creator gnd:118786105 .
+  dc:creator gnd:118786105 ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=48412790X> .
 
 <br:bahnsen/item_bahnsen25>
   a libreto:Item ;
@@ -17085,7 +17086,8 @@ Zuvor vermehret mit einem Büchlein/ De Monetis Et Mensuris ... Insonderheit abe
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Format eigtl. 4°. Drucker ermittelt nach Alastair Hamilton: The Family of Love. I: Hendrik Niclaes (Baden-Baden 2003), S. 107, Nr. 8b" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7004446> ;
-  dc:creator gnd:118786105 .
+  dc:creator gnd:118786105 ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=48412790X> .
 
 <br:bahnsen/item_bahnsen26>
   a libreto:Item ;
@@ -17520,7 +17522,7 @@ Zuvor vermehret mit einem Büchlein/ De Monetis Et Mensuris ... Insonderheit abe
   a libreto:Item ;
   libreto:belongsTo br:bahnsen ;
   dc:type "Druck" ;
-  dc:title "Christlijcke sendtbrieuen, inholdende seer veele vnde verscheydene schoone godtl?cke vermaninghen vnde onderrichtinghen" ;
+  dc:title "Christlijcke sendtbrieuen, inholdende seer veele vnde verscheydene schoone godtlijcke vermaninghen vnde onderrichtinghen" ;
   dc:date "[ca. 1600]"@xsd:gYear ;
   dc:publisher "Vennecool, Jacob Cornelisz" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
@@ -17538,7 +17540,7 @@ Zuvor vermehret mit einem Büchlein/ De Monetis Et Mensuris ... Insonderheit abe
   a libreto:Item ;
   libreto:belongsTo br:bahnsen ;
   dc:type "Druck" ;
-  dc:title "Christlijcke sendtbrieuen, inholdende seer veele vnde verscheydene schoone godtl?cke vermaninghen vnde onderrichtinghen" ;
+  dc:title "Christlijcke sendtbrieuen, inholdende seer veele vnde verscheydene schoone godtlijcke vermaninghen vnde onderrichtinghen" ;
   dc:date "[ca. 1600]"@xsd:gYear ;
   dc:publisher "Vennecool, Jacob Cornelisz" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
@@ -17556,7 +17558,7 @@ Zuvor vermehret mit einem Büchlein/ De Monetis Et Mensuris ... Insonderheit abe
   a libreto:Item ;
   libreto:belongsTo br:bahnsen ;
   dc:type "Druck" ;
-  dc:title "Christlijcke sendtbrieuen, inholdende seer veele vnde verscheydene schoone godtl?cke vermaninghen vnde onderrichtinghen" ;
+  dc:title "Christlijcke sendtbrieuen, inholdende seer veele vnde verscheydene schoone godtlijcke vermaninghen vnde onderrichtinghen" ;
   dc:date "[ca. 1600]"@xsd:gYear ;
   dc:publisher "Vennecool, Jacob Cornelisz" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
@@ -18184,7 +18186,7 @@ Zuvor vermehret mit einem Büchlein/ De Monetis Et Mensuris ... Insonderheit abe
   dc:subject "Theologie" ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
-  libreto:comment "#VD17$per weigel, valentin and tit g!lden* griff and erj 1601-1670#" ;
+  libreto:comment "#VD17$per weigel, valentin and tit gülden* griff and erj 1601-1670#" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/1036898> ;
   dc:creator gnd:118630105 ;
   libreto:hasContext [
@@ -18385,7 +18387,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
   dc:subject "Theologie" ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
-  libreto:comment "#VD17$per weigel, valentin and tit g!lden* griff and erj 1601-1670#" ;
+  libreto:comment "#VD17$per weigel, valentin and tit gülden* griff and erj 1601-1670#" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/1036898> ;
   dc:creator gnd:118630105 ;
   libreto:hasContext [
@@ -18553,7 +18555,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
   dc:subject "Theologie" ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
-  libreto:comment "#VD17$per weigel, valentin and tit g!lden* griff and erj 1601-1670#" ;
+  libreto:comment "#VD17$per weigel, valentin and tit gülden* griff and erj 1601-1670#" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/1036898> ;
   dc:creator gnd:118630105 ;
   libreto:hasContext [
@@ -18842,7 +18844,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
   dc:subject "Theologie" ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
-  libreto:comment "#VD17$per weigel, valentin and tit g!lden* griff and erj 1601-1670#" ;
+  libreto:comment "#VD17$per weigel, valentin and tit gülden* griff and erj 1601-1670#" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/1036898> ;
   dc:creator gnd:118630105 ;
   libreto:hasContext [
@@ -18875,7 +18877,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
   dc:subject "Theologie" ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
-  libreto:comment "#VD17$per weigel, valentin and tit g!lden* griff and erj 1601-1670#" ;
+  libreto:comment "#VD17$per weigel, valentin and tit gülden* griff and erj 1601-1670#" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/1036898> ;
   dc:creator gnd:118630105 .
 
@@ -19667,6 +19669,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
   libreto:comment "Sehr selten überliefert, nur ein Ex. in Hannover GWLB: T-A 3730 (Stück 3); vgl. Moller, Cimbria literata I, S. 679 (in 4°)" ;
   libreto:hasPlace <br:bahnsen/places/S.l.> ;
   dc:creator gnd:121392309 ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=23135682X> ;
   libreto:hasContext [
     a libreto:PhysicalContext ;
     libreto:position "7" ;
@@ -20114,7 +20117,8 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:hasPlace <br:bahnsen/places/S.l.> ;
-  dc:creator gnd:121392309 .
+  dc:creator gnd:121392309 ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=23135682X> .
 
 <br:bahnsen/item_bahnsen182>
   a libreto:Item ;
@@ -21191,7 +21195,7 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
   dc:subject "Theologie" ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
-  libreto:comment "#VD17$per arndt, johann and tit parad!s*#" ;
+  libreto:comment "#VD17$per arndt, johann and tit paradis*#" ;
   dc:creator gnd:118504134 .
 
 <br:bahnsen/item_bahnsen245>
@@ -21592,7 +21596,8 @@ Nebenst beygefügtem Extract etlicher wunderlichen Newen Offenbahrungen/ angehen
   libreto:comment "Bd. 4 der ersten Auswahlausgabe von Böhmes Werken. Erscheinungsort und Datierung nach Carlos Gilly: Zur Geschichte der Böhme-Biographien des Abraham von Franckenberg, in: Jakob Böhmes Weg in die Welt (Amsterdam 2007), S. 350–353. Herausgeber war vermutlich Gottfried Richter (Gilly). Zur Ausgabe vgl. Werner Buddecke: Die Jakob-Böhme-Ausgaben 1 (Göttingen 1937), S. 81–82, Nr. 32,4 (in 8°). Enth. u.a. die Biographie Böhmes von Abraham von Franckenberg, ferner \"Historia, und Geschicht, was sich mit dem Johann Beer in dem Zottenberge begeben\" und \"Fragment aus Johann Beers Hand, Was da ist, das ist. Entweder Gantz, als Gott, oder ein Theil\". Johann Beer war ein schlesischer Mystiker und stammte aus Schweidnitz. Sehr selten überliefert – das Berliner Exemplar (Berlin SB: Cs 11810-4) ist Kriegsverlust, ein weiteres befindet sich nach Dünnhaupt (I, S. 676, 1.I) in Wroclaw BU" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7007831> ;
   dc:creator gnd:118512579 ;
-  dc:contributor gnd:1055650709 .
+  dc:contributor gnd:1055650709 ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=50992719X> .
 
 <br:bahnsen/item_bahnsen267>
   a libreto:Item ;
@@ -22607,6 +22612,7 @@ Nebenst beygefügtem Extract etlicher wunderlichen Newen Offenbahrungen/ angehen
   libreto:comment "Sehr seltene Ausgabe der niederdeutschen Passionsharmonie. Das einzig bekannte Ex. in Berlin SB (Signatur El 310) ist ein Kriegsverlust" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7005289> ;
   dc:creator gnd:118517287 ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=37518032X> ;
   libreto:hasContext [
     a libreto:PhysicalContext ;
     libreto:position "1" ;
@@ -23150,7 +23156,8 @@ Nebenst beygefügtem Extract etlicher wunderlichen Newen Offenbahrungen/ angehen
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Fehlt im VD 17. Penman, Leigh A.: A Heterodox Publishing Enterprise of the Thirty Years’ War. The Amsterdam Office of Hans Fabel (1616-after 1650). In: The Library 15 (2014), S. 41, Nr. 52." ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7006952> ;
-  dc:creator gnd:128596627 .
+  dc:creator gnd:128596627 ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=23680782X> .
 
 <br:bahnsen/item_bahnsen362>
   a libreto:Item ;
@@ -26612,7 +26619,7 @@ Darbey ein Schreiben vom Kriege/ an einen Leutenant ...""" ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Format eigentl. 8°. SBB-PK Berlin: Kriegsverlust" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7008772> ;
-  dc:creator gnd:118637649 ;
+  dc:creator gnd:11855462X ;
   libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=411817914> .
 
 <br:bahnsen/item_bahnsen572>
@@ -32029,7 +32036,8 @@ Item Elenchus Chronologicus Novus, per totam Sacram Scripturam Veteris & Novi Te
   libreto:comment "Format eigtl. 4°" ;
   dc:hasFormat "http://reader.digitale-sammlungen.de/resolve/display/bsb10209636.html" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7011781> ;
-  dc:creator gnd:118720473 .
+  dc:creator gnd:118720473 ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=15161685X> .
 
 <br:bahnsen/item_bahnsen875>
   a libreto:Item ;
@@ -34564,7 +34572,8 @@ Ausgabebezeichnung: COLONIAE AGRIPPINAE,|| Apud Haeredes Arnoldi Birckmanni.|| M
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Siehe auch STCN 057147108" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/4007173>, <http://vocab.getty.edu/tgn/7007048> ;
-  dc:creator gnd:116730803 .
+  dc:creator gnd:116730803 ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=81695187X> .
 
 <br:bahnsen/item_bahnsen1022>
   a libreto:Item ;
@@ -44971,6 +44980,11 @@ gnd:118786105
   libreto:database "Gemeinsamer Bibliotheksverbund (GBV)" ;
   dc:identifier "149940726" .
 
+<http://gso.gbv.de/DB=2.1/PPNSET?PPN=48412790X>
+  a libreto:Manifestation ;
+  libreto:database "Gemeinsamer Bibliotheksverbund (GBV)" ;
+  dc:identifier "48412790X" .
+
 gnd:123403855
   a libreto:Person ;
   foaf:name "Lykosthenes, Konrad" ;
@@ -45548,6 +45562,11 @@ gnd:121392309
   a libreto:Manifestation ;
   libreto:database "Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)" ;
   dc:identifier "23:632093V" .
+
+<http://gso.gbv.de/DB=2.1/PPNSET?PPN=23135682X>
+  a libreto:Manifestation ;
+  libreto:database "Gemeinsamer Bibliotheksverbund (GBV)" ;
+  dc:identifier "23135682X" .
 
 <br:bahnsen/places/Newenstatt+%5Bfingiert%3F>
   a libreto:Place ;
@@ -46188,7 +46207,9 @@ gnd:11643998X
 
 <http://vocab.getty.edu/tgn/7007945>
   a libreto:Place ;
-  gn:name "Lüttich" .
+  gn:name "Lüttich" ;
+  geo:lat "50.638674"@xsd:decimal ;
+  geo:long "5.570228"@xsd:decimal .
 
 gnd:118898027
   a libreto:Person ;
@@ -46299,12 +46320,19 @@ gnd:11879728X
 
 <http://vocab.getty.edu/tgn/7007831>
   a libreto:Place ;
-  gn:name "Thorn" .
+  gn:name "Thorn" ;
+  geo:lat "53.0167"@xsd:decimal ;
+  geo:long "18.5833"@xsd:decimal .
 
 gnd:1055650709
   a libreto:Person ;
   foaf:name "Beer, Johannes" ;
   dc:identifier "1055650709"^^gndo:gndIdentifier .
+
+<http://gso.gbv.de/DB=2.1/PPNSET?PPN=50992719X>
+  a libreto:Manifestation ;
+  libreto:database "Gemeinsamer Bibliotheksverbund (GBV)" ;
+  dc:identifier "50992719X" .
 
 gnd:119160242
   a libreto:Person ;
@@ -46609,6 +46637,11 @@ gnd:118517287
   foaf:name "Bugenhagen, Johannes" ;
   dc:identifier "118517287"^^gndo:gndIdentifier .
 
+<http://gso.gbv.de/DB=2.1/PPNSET?PPN=37518032X>
+  a libreto:Manifestation ;
+  libreto:database "Gemeinsamer Bibliotheksverbund (GBV)" ;
+  dc:identifier "37518032X" .
+
 gnd:123140269
   a libreto:Person ;
   foaf:name "Felgenhauer, Paul" ;
@@ -46778,6 +46811,11 @@ gnd:128596627
   a libreto:Person ;
   foaf:name "Fabricius, Johann Jacob" ;
   dc:identifier "128596627"^^gndo:gndIdentifier .
+
+<http://gso.gbv.de/DB=2.1/PPNSET?PPN=23680782X>
+  a libreto:Manifestation ;
+  libreto:database "Gemeinsamer Bibliotheksverbund (GBV)" ;
+  dc:identifier "23680782X" .
 
 gnd:100563848
   a libreto:Person ;
@@ -47270,7 +47308,9 @@ gnd:135660777
 
 <http://vocab.getty.edu/tgn/1040842>
   a libreto:Place ;
-  gn:name "Rees" .
+  gn:name "Rees" ;
+  geo:lat "51.7667"@xsd:decimal ;
+  geo:long "6.4"@xsd:decimal .
 
 <br:bahnsen/persons/Stommel%2C+Peter>
   a libreto:Person ;
@@ -47837,6 +47877,11 @@ gnd:100702236
   geo:lat "45,7667"@xsd:decimal ;
   geo:long "4,8333"@xsd:decimal .
 
+gnd:11855462X
+  a libreto:Person ;
+  foaf:name "Hugo Argentinensis" ;
+  dc:identifier "11855462X"^^gndo:gndIdentifier .
+
 <http://gso.gbv.de/DB=2.1/PPNSET?PPN=411817914>
   a libreto:Manifestation ;
   libreto:database "Gemeinsamer Bibliotheksverbund (GBV)" ;
@@ -48005,7 +48050,9 @@ gnd:100065562
 
 <http://vocab.getty.edu/tgn/7006464>
   a libreto:Place ;
-  gn:name "Prag" .
+  gn:name "Prag" ;
+  geo:lat "50.1"@xsd:decimal ;
+  geo:long "14.4333"@xsd:decimal .
 
 gnd:134215451
   a libreto:Person ;
@@ -48188,7 +48235,9 @@ gnd:133022374
 
 <http://vocab.getty.edu/tgn/7007601>
   a libreto:Place ;
-  gn:name "Breslau" .
+  gn:name "Breslau" ;
+  geo:lat "51.1"@xsd:decimal ;
+  geo:long "17"@xsd:decimal .
 
 gnd:12421049X
   a libreto:Person ;
@@ -48904,7 +48953,9 @@ gnd:104073926
 
 <http://vocab.getty.edu/tgn/7006948>
   a libreto:Place ;
-  gn:name "Kampen" .
+  gn:name "Kampen" ;
+  geo:lat "52.55"@xsd:decimal ;
+  geo:long "5.916667"@xsd:decimal .
 
 gnd:12198012X
   a libreto:Person ;
@@ -50023,6 +50074,11 @@ gnd:118720473
   foaf:name "Harriot, Thomas" ;
   dc:identifier "118720473"^^gndo:gndIdentifier .
 
+<http://gso.gbv.de/DB=2.1/PPNSET?PPN=15161685X>
+  a libreto:Manifestation ;
+  libreto:database "Gemeinsamer Bibliotheksverbund (GBV)" ;
+  dc:identifier "15161685X" .
+
 gnd:11864548X
   a libreto:Person ;
   foaf:name "Apollonius Pergaeus" ;
@@ -50633,7 +50689,9 @@ gnd:118755323
 
 <http://vocab.getty.edu/tgn/7007726>
   a libreto:Place ;
-  gn:name "Liegnitz" .
+  gn:name "Liegnitz" ;
+  geo:lat "51.2"@xsd:decimal ;
+  geo:long "16.1667"@xsd:decimal .
 
 gnd:1037523938
   a libreto:Person ;
@@ -51124,6 +51182,11 @@ gnd:119747839
   a libreto:Manifestation ;
   libreto:database "Short Title Catalogue Netherlands" ;
   dc:identifier "831081430" .
+
+<http://gso.gbv.de/DB=2.1/PPNSET?PPN=81695187X>
+  a libreto:Manifestation ;
+  libreto:database "Gemeinsamer Bibliotheksverbund (GBV)" ;
+  dc:identifier "81695187X" .
 
 gnd:11863819X
   a libreto:Person ;
@@ -51918,7 +51981,9 @@ gnd:118783335
 
 <http://vocab.getty.edu/tgn/7012571>
   a libreto:Place ;
-  gn:name "Lemgo" .
+  gn:name "Lemgo" ;
+  geo:lat "52.033333"@xsd:decimal ;
+  geo:long "8.9"@xsd:decimal .
 
 gnd:119396181
   a libreto:Person ;

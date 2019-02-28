@@ -2,7 +2,8 @@
 
 function saveSolrXML($data, $catalogue, $fileName) {
 
-    $SOLRArray = makeSOLRArray($data);
+    include('languageCodes.php');
+    $SOLRArray = makeSOLRArray($data, $languageCodes);
     $SOLRArray = addMetaDataSOLR($catalogue, $SOLRArray);
 	//The following elements have to be repeated so that SOLR accepts them as multiValued. Delimiter is ";", as defined in flattenItem and resolveLanguages
 	$multiValued = array('languages', 'languagesFull', 'genres', 'subjects', 'author', 'contributor');
@@ -45,13 +46,13 @@ function saveSolrXML($data, $catalogue, $fileName) {
 	fwrite($handle, $result, 3000000);
 }
 
-function makeSOLRArray($data) {
+function makeSOLRArray($data, $languageCodes) {
 	$SOLRArray = array();
 	foreach($data as $item) {
 		$row = flattenItem($item);
 		$row = resolveManifestation($row);
 		$row = resolveOriginal($row);
-		$row = resolveLanguages($row);
+		$row = resolveLanguages($row, $languageCodes);
 		$row = addNormalizedYear($row);
 		$SOLRArray[] = $row;
 	}
@@ -194,8 +195,7 @@ function resolveOriginal($row) {
 	return($row);	
 }
 
-function resolveLanguages($row) {
-	include('languageCodes.php');
+function resolveLanguages($row, $languageCodes) {
 	$languagesFull = array();
 	if(isset($row['languages'])) {
 		$languages = explode(' ', $row['languages']);

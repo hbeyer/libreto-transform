@@ -4238,6 +4238,33 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+			<address>Kampen</address>
+			<TimeStamp>
+				<when>1561</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>5.916667,52.55</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Kampen</address>
+			<TimeStamp>
+				<when>1612</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>5.916667,52.55</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Kampen</address>
+			<TimeStamp>
+				<when>1612</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>5.916667,52.55</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<address>Kassel</address>
 			<TimeStamp>
 				<when>1608</when>
@@ -5222,6 +5249,42 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+			<address>Lemgo</address>
+			<TimeStamp>
+				<when>1603</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>8.9,52.033333</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Liegnitz</address>
+			<TimeStamp>
+				<when>1600</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>16.1667,51.2</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Liegnitz</address>
+			<TimeStamp>
+				<when>1600</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>16.1667,51.2</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Liegnitz</address>
+			<TimeStamp>
+				<when>1663</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>16.1667,51.2</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<address>London</address>
 			<TimeStamp>
 				<when>1578</when>
@@ -5354,6 +5417,15 @@
 			</TimeStamp>
 			<Point>
 				<coordinates>10.4,53.25</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Lüttich</address>
+			<TimeStamp>
+				<when>1597</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>5.570228,50.638674</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -6149,6 +6221,60 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+			<address>Prag</address>
+			<TimeStamp>
+				<when>1564</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>14.4333,50.1</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Prag</address>
+			<TimeStamp>
+				<when>1596</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>14.4333,50.1</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Prag</address>
+			<TimeStamp>
+				<when>1602</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>14.4333,50.1</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Prag</address>
+			<TimeStamp>
+				<when>1603</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>14.4333,50.1</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Rees</address>
+			<TimeStamp>
+				<when>1583</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>6.4,51.7667</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Rees</address>
+			<TimeStamp>
+				<when>1608</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>6.4,51.7667</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<address>Rostock</address>
 			<TimeStamp>
 				<when>1637</when>
@@ -6644,6 +6770,24 @@
 			</TimeStamp>
 			<Point>
 				<coordinates>9.1833,48.7667</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Thorn</address>
+			<TimeStamp>
+				<when>1653</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>18.5833,53.0167</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Thorn</address>
+			<TimeStamp>
+				<when>1653</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>18.5833,53.0167</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>

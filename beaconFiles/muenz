@@ -120,6 +120,12 @@
 <div id='section-carousel' class='carousel slide' data-ride='carousel'>
 <div class='carousel-inner' role='listbox'>
 <div class='item active'>
+<a class='carousel-caption' href='news?lang=de&news_id=1163' title='Nachrichten'>
+<p>8. gemeinsames Treffen des European Coin Finds Network und von nomisma.org</p>
+<p><time datetime='2019-05-02'>2.-4. Mai 2019</time></p>
+</a>
+</div>
+<div class='item'>
 <a class='carousel-caption' href='news?lang=de&news_id=1162' title='Nachrichten'>
 <p>Peter Robert Franke  (1926-2018)</p>
 <p><time datetime='2019-01-08'>8. Januar 2019</time></p>
@@ -147,12 +153,6 @@
 <a class='carousel-caption' href='news?lang=de&news_id=1103' title='Nachrichten'>
 <p>Ausstellung 'MUSE MACHT MONETEN' in Speyer</p>
 <p><time datetime='2018-06-21'>21. Juni 2018</time></p>
-</a>
-</div>
-<div class='item'>
-<a class='carousel-caption' href='news?lang=de&news_id=1102' title='Nachrichten'>
-<p>Jahresbericht des Münzkabinetts der Staatlichen Museen zu Berlin für 2017</p>
-<p><time datetime='2018-05-19'>19. Mai 2018</time></p>
 </a>
 </div>
 </div>

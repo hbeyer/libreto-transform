@@ -45,7 +45,7 @@ function loadXML($path) {
 
 function loadMetadataFromNode($node) {
 	$children = $node->childNodes;
-	$metadataFields = array('heading', 'owner', 'ownerGND', 'fileName', 'title', 'base', 'placeCat', 'year', 'institution', 'shelfmark', 'description', 'geoBrowserStorageID');
+	$metadataFields = array('heading', 'owner', 'ownerGND', 'fileName', 'title', 'base', 'placeCat', 'year', 'institution', 'shelfmark', 'description', 'geoBrowserStorageID', 'creatorReconstruction', 'yearReconstruction');
 	$catalogue = new catalogue();
 	foreach($children as $child) {
 		$field = strval($child->nodeName);
