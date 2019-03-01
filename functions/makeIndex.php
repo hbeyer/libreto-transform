@@ -52,9 +52,8 @@ function makeIndex($data, $field) {
 		$index = mergeIndices($index1, $index2);
 	}
 	
-    require('languageCodes.php');
 	foreach($index as $entry) {
-		$entry->label = postprocessFields($field, $entry->label, $languageCodes);
+		$entry->label = postprocessFields($field, $entry->label);
 	}
 	
 	return($index);
@@ -316,7 +315,7 @@ function preprocessFields($field, $value, $item) {
 	return($value);
 }
 
-function postprocessFields($field, $value, $languageCodes) {
+function postprocessFields($field, $value) {
 	// Ist nicht ideal, weil auch label vom Typ histSubject erfasst werden, aber vermutl. 
 	// keine praktische Auswirkung, weil die Ersetzungsfunktion sehr eng gefasst ist.
 	if($field == ('format' or 'catSubjectFormat')) {
@@ -327,7 +326,10 @@ function postprocessFields($field, $value, $languageCodes) {
 			$value = 'ohne Angabe';
 		}
 		else {
-			$value = $languageCodes[$value];
+            $langName = language_reference::getLanguage($value);
+            if ($langName) {
+                $value = $langName;
+            }
 		}
 	}
 	if($field == 'gender') {
