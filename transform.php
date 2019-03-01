@@ -6,7 +6,7 @@ foreach (glob("classes/class_*.php") as $filename) {
 }
 include('functions/encode.php');
 
-$reconstruction = new reconstruction('{Path to file}', '{Name for folder}', '{Format: xml|csv|sql_dh}');
+$reconstruction = new reconstruction('{Path to file}', '{Name for folder}', '{Format: xml|csv|php|sql_dh}');
 $reconstruction->enrichData();
 $reconstruction->saveAllFormats();
 $pages = array('histSubject', 'persName', 'year', 'placeName', 'publisher', 'subjects', 'genres', 'languages');

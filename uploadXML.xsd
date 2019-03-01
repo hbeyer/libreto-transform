@@ -23,6 +23,8 @@
         <xs:element minOccurs="0" maxOccurs="1" ref="shelfmark"/>
         <xs:element minOccurs="0" maxOccurs="1" ref="description"/>
         <xs:element minOccurs="0" maxOccurs="1" ref="geoBrowserStorageID"/>
+        <xs:element minOccurs="0" maxOccurs="1" ref="creatorReconstruction"/>
+        <xs:element minOccurs="0" maxOccurs="1" ref="yearReconstruction"/>
       </xs:all>
     </xs:complexType>
   </xs:element>
@@ -37,6 +39,8 @@
   <xs:element name="shelfmark" type="xs:string"/>
   <xs:element name="description" type="xs:string"/>
   <xs:element name="geoBrowserStorageID" type="xs:string"/>
+  <xs:element name="creatorReconstruction" type="xs:string"/>
+  <xs:element name="yearReconstruction" type="xs:string"/>
   <xs:element name="item">
     <xs:complexType>
       <xs:all>
@@ -180,6 +184,7 @@
         <xs:enumeration value="LoC"/>
         <xs:enumeration value="Den Haag KB"/>
         <xs:enumeration value="Wien ÖNB"/>
+        <xs:enumeration value="ÖNB"/> <!-- Synonym für Wien ÖNB -->
         <xs:enumeration value="Kopenhagen KB"/>
         <xs:enumeration value="GW"/>
         <xs:enumeration value="ISTC"/>

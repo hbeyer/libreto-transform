@@ -54,6 +54,12 @@ class  uploader {
     private function loadXML() {
 	    $xml = new DOMDocument();
 	    $xml->load($this->path);
+        if ($xml == FALSE) {
+            throw new Exception('XML-Dokument ist nicht wohlgeformt');
+        }
+        if (!$xml->schemaValidate('uploadXML.xsd')) {
+            throw new Exception('XML-Dokument validiert nicht gegen das Schma uploadXML.xsd');
+        }
 	    $resultArray = array();
 	    $nodeList = $xml->getElementsByTagName('item');
 	    foreach ($nodeList as $node) {

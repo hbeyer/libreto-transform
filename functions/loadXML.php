@@ -1,5 +1,21 @@
 ﻿<?php
 
+function loadXML($path) {
+	$xml = new DOMDocument();
+	$xml->load($path);
+	$metadataNode = $xml->getElementsByTagName('metadata');
+	if($metadataNode->item(0)) {
+		loadMetadataFromNode($metadataNode->item(0));
+	}
+	$resultArray = array();
+	$nodeList = $xml->getElementsByTagName('item');
+	foreach ($nodeList as $node) {
+		$item = makeItemFromNode($node);
+		$resultArray[] = $item;
+	}
+	return($resultArray);
+}
+
 function validateXML($path, $pathSchema, $pathMODS) {
 	$xml = new DOMDocument();
 	$xml->load($path);
@@ -25,22 +41,6 @@ function validateXML($path, $pathSchema, $pathMODS) {
 			return('Die Validierung gegen das <a href="'.$pathSchema.'" target="_blank">Schema</a> ist fehlgeschlagen.');
 		}		
 	}
-}
-
-function loadXML($path) {
-	$xml = new DOMDocument();
-	$xml->load($path);
-	$metadataNode = $xml->getElementsByTagName('metadata');
-	if($metadataNode->item(0)) {
-		loadMetadataFromNode($metadataNode->item(0));
-	}
-	$resultArray = array();
-	$nodeList = $xml->getElementsByTagName('item');
-	foreach ($nodeList as $node) {
-		$item = makeItemFromNode($node);
-		$resultArray[] = $item;
-	}
-	return($resultArray);
 }
 
 function loadMetadataFromNode($node) {
