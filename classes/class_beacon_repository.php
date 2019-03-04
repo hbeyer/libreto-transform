@@ -8,7 +8,7 @@ class beacon_repository {
     private $folder = 'beaconFiles';
     private $update_int = 1209600;
     private $filePermission = 0777;
-    private $user = 'Dr. Hartmut Beyer, Wolfenbüttel';
+    private $user = '';
     public $beacon_sources = array(
         'wkp' => array('label' => 'Wikipedia', 'location' => 'http://tools.wmflabs.org/persondata/beacon/dewiki.txt', 'target' => 'http://tools.wmflabs.org/persondata/redirect/gnd/de/{ID}'),
         'ddb' => array('label' => 'Deutsche Digitale Bibliothek', 'location' => 'https://www.archivportal-d.de/static/de/beacon-archivportal-persons.txt', 'target' => 'https://www.archivportal-d.de/person/gnd/{ID}'), 		
@@ -64,14 +64,13 @@ class beacon_repository {
 			}
             $this->update();            
         }
-        else {
-            $dateArchive = intval(file_get_contents($this->folder.'/changeDate'));
-            $this->lastUpdate = date('Y-m-d H:i:s', $dateArchive);
-            if ((date('U') - $dateArchive) > $this->update_int) {
-                $this->update();
-            }
-        }
-        
+        require('private/settings.php');
+        $this->user = $userAgentHTTP;
+        $dateArchive = intval(file_get_contents($this->folder.'/changeDate'));
+        $this->lastUpdate = date('Y-m-d H:i:s', $dateArchive);
+        if ((date('U') - $dateArchive) > $this->update_int) {
+            $this->update();
+        }        
     }
 
     public function getLinks($gnd, $target = '') {
