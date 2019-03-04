@@ -42,7 +42,7 @@ function saveSolrXML($data, $catalogue, $fileName) {
 	$dom->appendChild($rootElement);
 	$result = $dom->saveXML();
 	$handle = fopen($folder.$fileName.'-SOLR.xml', "w");
-	fwrite($handle, $result, 3000000);
+	fwrite($handle, $result, 10000000);
 }
 
 function makeSOLRArray($data) {

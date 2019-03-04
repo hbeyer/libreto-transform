@@ -87,23 +87,6 @@ class reconstruction {
         saveSolrXML($this->content, $this->catalogue, reconstruction::FOLDER.'/'.$this->fileName.'/'.$this->fileName);
     }
 
-    private function loadXML($path) {
-        require(reconstruction::INCLUDEPATH.'loadXML.php');
-	    $xml = new DOMDocument();
-	    $xml->load($path);
-	    $metadataNode = $xml->getElementsByTagName('metadata');
-	    if($metadataNode->item(0)) {
-		    $this->catalogue = loadMetadataFromNode($metadataNode->item(0));
-	    }
-	    $resultArray = array();
-	    $nodeList = $xml->getElementsByTagName('item');
-	    foreach ($nodeList as $node) {
-		    $item = makeItemFromNode($node);
-		    $resultArray[] = $item;
-	    }
-	    $this->content = $resultArray;
-    }
-
     private function insertIDs() {
         $count = 0;
         foreach ($this->content as $item) {
@@ -145,7 +128,7 @@ class reconstruction {
     }
 
     public function insertGeoData() {    
-        require('private/userGeoNames.php');
+        require_once('private/settings.php');
         $archiveGeoNames = new geoDataArchive('geoNames');
         $archiveGND = new geoDataArchive('gnd');
         $archiveGetty = new geoDataArchive('getty');

@@ -1,0 +1,6 @@
+<?php
+
+$impressum = ''; // Link zum Impressum des Webangebots
+$userGeoNames = ''; // Username bei www.geonames.org, der für den Download von Geodaten verwendet werden soll
+
+?>

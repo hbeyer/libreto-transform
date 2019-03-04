@@ -73,7 +73,7 @@ function makeGeoDataSheet($data, $folderName, $format) {
 	// Abspeichern der im String $content zwischengespeicherten Daten in einer Datei im Projektordner
 	$fileName = $folderName.'/printingPlaces.'.$ending;
 	$datei = fopen($fileName,"w");
-	fwrite($datei, $content, 30000000);
+	fwrite($datei, $content, 10000000);
 	fclose($datei);
 	
 }

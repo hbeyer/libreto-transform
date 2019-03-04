@@ -10,7 +10,7 @@ function makeTEI($data, $folder, catalogue $catalogue) {
 	insertBibliography($dom, $data, $catalogue);
 	$xml = $dom->saveXML();
 	$handle = fopen($folder.'/'.$catalogue->fileName.'-tei.xml', 'w');
-	fwrite($handle, $xml, 3000000);
+	fwrite($handle, $xml, 10000000);
 }
 
 function insertMetadata($dom, $catalogue) {

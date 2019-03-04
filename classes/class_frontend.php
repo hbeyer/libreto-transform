@@ -15,17 +15,17 @@ class frontend {
         }
     }
 
-    public function save() {
+    public function build() {
         // Die folgenden Dateien sind u. U. schon vorher inkludiert, wenn man reconstruction::saveAllFormats() ausgeführt hat.
         require_once(reconstruction::INCLUDEPATH.'makeSection.php');
         require_once(reconstruction::INCLUDEPATH.'makeIndex.php');
+        require('private/settings.php');
         require(reconstruction::INCLUDEPATH.'makeNavigation.php');
         require(reconstruction::INCLUDEPATH.'makePage.php');
         require(reconstruction::INCLUDEPATH.'makeEntry.php');
         require(reconstruction::INCLUDEPATH.'makeCloudList.php');
         require(reconstruction::INCLUDEPATH.'makeDoughnutList.php');
         require(reconstruction::INCLUDEPATH.'auxiliaryFunctions.php');
-        require('private/impressum.php');
         recurse_copy('assets', reconstruction::FOLDER.'/'.$this->reconstruction->fileName.'/assets');
 
     	/* Hier werden die Strukturen (jeweils ein Array aus section-Objekten) gebildet 

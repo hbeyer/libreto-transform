@@ -14,6 +14,6 @@ $doughnuts = array('histSubject', 'placeName', 'subjects', 'genres', 'format', '
 $clouds = array('persName', 'placeName', 'subjects', 'genres', 'publisher');
 $facetList = new facetList($pages, $doughnuts, $clouds);
 $frontend = new frontend($reconstruction, $facetList);
-$frontend->save();
+$frontend->build();
 
 ?>
