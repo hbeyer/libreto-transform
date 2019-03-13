@@ -99,7 +99,7 @@ class beacon_repository {
         ini_set('user_agent', $this->user);
         foreach ($this->beacon_sources as $key => $source) {
             if (!copy($source['location'], $this->folder.'/'.$key)) {
-                throw new Exception('Kopieren von '.$source['location'].' nach '.$this->folder.'/'.$key.' schlug fehl.');
+                echo 'Kopieren von '.$source['location'].' nach '.$this->folder.'/'.$key.' schlug fehl.';
             }
             else {
                 chmod($this->folder.'/'.$key, $this->filePermission);

@@ -81,8 +81,8 @@ class geoDataArchive {
         }
         elseif ($type == 'getty') {
             $entry = $this->getByGetty($id);
-            if (!get_class($entry) == 'geoDataArchiveEntry') {
-                $entry = makeEntryFromGetty($id);
+            if (get_class($entry) != 'geoDataArchiveEntry') {
+                $entry = $this->makeEntryFromGetty($id);
             }
         }
         if (get_class($entry) == 'geoDataArchiveEntry') {
@@ -91,12 +91,21 @@ class geoDataArchive {
         }
         return(null);
     }
+
+
+    function getByType($id, $type) {
+		foreach($this->content as $entry) {
+			if($entry->$type == $id) {
+				return($entry);
+			}
+		}
+        return(null);        
+    }
 	
 	function getByGeoNames($id) {
 		foreach($this->content as $entry) {
 			if($entry->geoNames == $id) {
 				return($entry);
-				break;
 			}
 		}
         return(null);
@@ -106,7 +115,6 @@ class geoDataArchive {
 		foreach($this->content as $entry) {
 			if($entry->gnd == $id) {
 				return($entry);
-				break;
 			}
 		}
         return(null);

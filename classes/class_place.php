@@ -45,6 +45,7 @@ class place {
         $entry = $geoDataArchive->getFromWeb($this->$type, $type, $user);
         if (get_class($entry) == 'geoDataArchiveEntry') {
             $this->geoData = array('lat' => $entry->lat, 'long' => $entry->long);
+            $geoDataArchive->insertEntryIfNew($type, $this->$type, $entry);
             return(true);
         }
         return(false);

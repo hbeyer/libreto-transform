@@ -1,7 +1,7 @@
 #FORMAT: BEACON
 #VERSION: 0.1
 #TARGET: http://beacon.findbuch.de/pnd-resolver/hls/{ID}
-#TIMESTAMP: 2019-01-25T00:20:10Z
+#TIMESTAMP: 2019-02-22T00:20:09Z
 #CONTACT: Redaktion HLS <www@dhs.ch>
 #FEED: https://beacon.findbuch.de/downloads/hls/hls-pndbeacon.txt
 #EXAMPLES: 118723758
@@ -12,7 +12,7 @@
 #PREFIX: http://d-nb.info/gnd/
 #DESCRIPTION: Eintrag im Historischen Lexikon der Schweiz (HLS)
 #ISIL: CH-001499-7
-#X-REVISION: 186 [2018-03-25T08:35:58Z]
+#X-REVISION: 187 [2018-03-25T08:35:58Z]
 #X-EXTENT: 20139 unique identifiers of type SeeAlso::Identifier::PND
 10002503X
 100027385

@@ -141,7 +141,8 @@ class reconstruction {
                     $place->addGeoData($archiveGND, 'gnd');
                  }
                  elseif ($place->getty) {
-                    $place->addGeoData($archiveGetty, 'getty');
+                    $test = $place->addGeoData($archiveGetty, 'getty');
+                    if ($test == false) { var_dump($place); }
                  }
             }
         }
