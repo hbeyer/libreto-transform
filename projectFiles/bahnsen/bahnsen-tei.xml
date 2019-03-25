@@ -15,7 +15,7 @@
             <name type="country">Germany</name>
           </address>
         </publisher>
-        <date when="2019-03-04">2019</date>
+        <date when="2019-03-25">2019</date>
       </publicationStmt>
       <sourceDesc>
         <listWit>
@@ -6152,7 +6152,7 @@ Br&#xFC;ning, V. F. Bibliographie der alchemistischen Literatur 2055. Verf. ermi
           <bibl xml:id="bahnsen5-reference" corresp="bahnsen5">
             <title>(| |: #=H )[=Frankfurt/Oder: Johann und Friedrich Hartmann 1595][Wittenberg: Zacharias Krafft 1587]</title>
             <pubPlace>
-              <rs type="place" key="getty_7005972">Frankfurt/O.</rs>
+              <rs type="place" key="getty_7005972">Frankfurt an der Oder</rs>
             </pubPlace>
             <pubPlace>
               <rs type="place" key="getty_7012349">Wittenberg</rs>
@@ -6177,7 +6177,7 @@ Jetzo auffs new revidirt/ und mit Zusetzung vieler in erster edition theils au&#
               <rs type="person" key="gnd_116270381">Agricola, Conrad</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Hoffmann, Wolfgang/Ruland, Johann</publisher>
             <date when="1640">1640</date>
@@ -6307,7 +6307,7 @@ Nunc denuo in Germania in lucem typis mandati.</title>
               <rs type="person" key="gnd_1055343830">Heyden, Johann</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Feyerabend, Johann</publisher>
             <date when="1584">1584</date>
@@ -6334,7 +6334,7 @@ Nunc denuo in Germania in lucem typis mandati.</title>
               <rs type="place" key="getty_7012346">Stra&#xDF;burg</rs>
             </pubPlace>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Heyden, Jakob van der/Kieser, Eberhard</publisher>
             <date when="1622">1622</date>
@@ -6635,7 +6635,7 @@ Zuvor vermehret mit einem B&#xFC;chlein/ De Monetis Et Mensuris ... Insonderheit
               <rs type="person" key="gnd_118575449">Luther, Martin</rs>
             </editor>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Peter Fischer Erben/Saur, Johannes</publisher>
             <date when="1604">1604</date>
@@ -6932,7 +6932,7 @@ Zuvor vermehret mit einem B&#xFC;chlein/ De Monetis Et Mensuris ... Insonderheit
               <rs type="person" key="gnd_118630105">Weigel, Valentin</rs>
             </editor>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Jennis, Lucas</publisher>
             <date when="1619">1619</date>
@@ -6947,7 +6947,7 @@ Zuvor vermehret mit einem B&#xFC;chlein/ De Monetis Et Mensuris ... Insonderheit
               <rs type="person" key="gnd_118630105">Weigel, Valentin</rs>
             </editor>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Jennis, Lucas</publisher>
             <date when="1619">1619</date>
@@ -6959,7 +6959,7 @@ Zuvor vermehret mit einem B&#xFC;chlein/ De Monetis Et Mensuris ... Insonderheit
               <rs type="person" key="gnd_118630105">Weigel, Valentin</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_1036898">Halle/S.</rs>
+              <rs type="place" key="getty_1036898">Halle (Saale)</rs>
             </pubPlace>
             <publisher>Krusicke, Joachim</publisher>
             <date when="1618">1618</date>
@@ -6978,7 +6978,7 @@ Zuvor vermehret mit einem B&#xFC;chlein/ De Monetis Et Mensuris ... Insonderheit
               <rs type="person" key="gnd_118630105">Weigel, Valentin</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_1036898">Halle/S.</rs>
+              <rs type="place" key="getty_1036898">Halle (Saale)</rs>
             </pubPlace>
             <publisher>Krusicke, Joachim</publisher>
             <date when="1618">1618</date>
@@ -6990,7 +6990,7 @@ Zuvor vermehret mit einem B&#xFC;chlein/ De Monetis Et Mensuris ... Insonderheit
               <rs type="person" key="gnd_118630105">Weigel, Valentin</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_1036898">Halle/S.</rs>
+              <rs type="place" key="getty_1036898">Halle (Saale)</rs>
             </pubPlace>
             <publisher>Krusicke, Joachim</publisher>
             <date when="1618">1618</date>
@@ -7002,7 +7002,7 @@ Zuvor vermehret mit einem B&#xFC;chlein/ De Monetis Et Mensuris ... Insonderheit
               <rs type="person" key="gnd_118630105">Weigel, Valentin</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_1036898">Halle/S.</rs>
+              <rs type="place" key="getty_1036898">Halle (Saale)</rs>
             </pubPlace>
             <publisher>Krusicke, Joachim</publisher>
             <idno type="VD17">Ausgabe nicht bestimmbar</idno>
@@ -7013,7 +7013,7 @@ Zuvor vermehret mit einem B&#xFC;chlein/ De Monetis Et Mensuris ... Insonderheit
               <rs type="person" key="gnd_118630105">Weigel, Valentin</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_1036898">Halle/S.</rs>
+              <rs type="place" key="getty_1036898">Halle (Saale)</rs>
             </pubPlace>
             <publisher>Krusicke, Joachim</publisher>
             <date when="1618">1618</date>
@@ -7025,7 +7025,7 @@ Zuvor vermehret mit einem B&#xFC;chlein/ De Monetis Et Mensuris ... Insonderheit
               <rs type="person" key="gnd_118630105">Weigel, Valentin</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_1036898">Halle/S.</rs>
+              <rs type="place" key="getty_1036898">Halle (Saale)</rs>
             </pubPlace>
             <publisher>Krusicke, Joachim</publisher>
             <date when="1618">1618</date>
@@ -7037,7 +7037,7 @@ Zuvor vermehret mit einem B&#xFC;chlein/ De Monetis Et Mensuris ... Insonderheit
               <rs type="person" key="gnd_118630105">Weigel, Valentin</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_1036898">Halle/S.</rs>
+              <rs type="place" key="getty_1036898">Halle (Saale)</rs>
             </pubPlace>
             <publisher>Krusicke, Joachim</publisher>
             <date when="1618">1618</date>
@@ -7049,7 +7049,7 @@ Zuvor vermehret mit einem B&#xFC;chlein/ De Monetis Et Mensuris ... Insonderheit
               <rs type="person" key="gnd_118630105">Weigel, Valentin</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_1036898">Halle/S.</rs>
+              <rs type="place" key="getty_1036898">Halle (Saale)</rs>
             </pubPlace>
             <publisher>Krusicke, Joachim</publisher>
             <date when="1618">1618</date>
@@ -7067,7 +7067,7 @@ Zuvor vermehret mit einem B&#xFC;chlein/ De Monetis Et Mensuris ... Insonderheit
               <rs type="person" key="gnd_124685838">Staricius, Johannes</rs>
             </editor>
             <pubPlace>
-              <rs type="place" key="getty_1036898">Halle/S.</rs>
+              <rs type="place" key="getty_1036898">Halle (Saale)</rs>
             </pubPlace>
             <publisher>Krusicke, Joachim</publisher>
             <date when="1618">1618</date>
@@ -7089,7 +7089,7 @@ Zuvor vermehret mit einem B&#xFC;chlein/ De Monetis Et Mensuris ... Insonderheit
               <rs type="person" key="gnd_118630105">Weigel, Valentin</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_1036898">Halle/S.</rs>
+              <rs type="place" key="getty_1036898">Halle (Saale)</rs>
             </pubPlace>
             <publisher>Krusicke, Joachim</publisher>
             <idno type="VD17">Ausgabe nicht bestimmbar</idno>
@@ -7105,7 +7105,7 @@ Zuvor vermehret mit einem B&#xFC;chlein/ De Monetis Et Mensuris ... Insonderheit
             <title>Unterschiedliche/ Sehr notwendige Theologische Tract&#xE4;tlein : I. Vom Alten Newen Jerusalem/ ... II. Christliche Unterrichtung/ wie die G&#xF6;ttliche Schrifft zuvergleichen und zu urtheilen/ ... III. Au&#xDF; was Grund die Liebe entspringt/ ...
 Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica Christi, k&#xFC;rtzlich tractiert wird ...</title>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Emmel, Egenolff</publisher>
             <date when="1619">1619</date>
@@ -7132,7 +7132,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
               <rs type="person" key="gnd_118630105">Weigel, Valentin</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_1036898">Halle/S.</rs>
+              <rs type="place" key="getty_1036898">Halle (Saale)</rs>
             </pubPlace>
             <publisher>Krusicke, Joachim/Starck, Heinrich</publisher>
             <date when="1618">1618</date>
@@ -7144,7 +7144,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
               <rs type="person" key="gnd_118630105">Weigel, Valentin</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_1036898">Halle/S.</rs>
+              <rs type="place" key="getty_1036898">Halle (Saale)</rs>
             </pubPlace>
             <publisher>Krusicke, Joachim</publisher>
             <date when="1618">1618</date>
@@ -7156,7 +7156,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
               <rs type="person" key="gnd_118630105">Weigel, Valentin</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_1036898">Halle/S.</rs>
+              <rs type="place" key="getty_1036898">Halle (Saale)</rs>
             </pubPlace>
             <publisher>Krusicke, Joachim</publisher>
             <date when="1618">1618</date>
@@ -7168,7 +7168,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
               <rs type="person" key="gnd_118630105">Weigel, Valentin</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_1036898">Halle/S.</rs>
+              <rs type="place" key="getty_1036898">Halle (Saale)</rs>
             </pubPlace>
             <publisher>Krusicke, Joachim</publisher>
             <date when="1618">1618</date>
@@ -7186,7 +7186,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
               <rs type="person" key="gnd_124685838">Staricius, Johannes</rs>
             </editor>
             <pubPlace>
-              <rs type="place" key="getty_1036898">Halle/S.</rs>
+              <rs type="place" key="getty_1036898">Halle (Saale)</rs>
             </pubPlace>
             <publisher>Krusicke, Joachim</publisher>
             <date when="1618">1618</date>
@@ -7198,7 +7198,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
               <rs type="person" key="gnd_118630105">Weigel, Valentin</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_1036898">Halle/S.</rs>
+              <rs type="place" key="getty_1036898">Halle (Saale)</rs>
             </pubPlace>
             <publisher>Krusicke, Joachim</publisher>
             <idno type="VD17">Ausgabe nicht bestimmbar</idno>
@@ -7218,7 +7218,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
             <author>
               <rs type="person" key="gnd_118630105">Weigel, Valentin</rs>
             </author>
-            <pubPlace>Newstatt [fingiert</pubPlace>
+            <pubPlace>Newstatt (fingiert)</pubPlace>
             <date when="1618">1618</date>
             <idno type="VD17">1:073039F</idno>
           </bibl>
@@ -7227,7 +7227,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
             <author>
               <rs type="person" key="gnd_118630105">Weigel, Valentin</rs>
             </author>
-            <pubPlace>Newstatt [fingiert</pubPlace>
+            <pubPlace>Newstatt (fingiert)</pubPlace>
             <date when="1618">1618</date>
             <idno type="VD17">1:073039F</idno>
           </bibl>
@@ -7254,7 +7254,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
               <rs type="person" key="gnd_118630105">Weigel, Valentin</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_1036898">Halle/S.</rs>
+              <rs type="place" key="getty_1036898">Halle (Saale)</rs>
             </pubPlace>
             <publisher>Krusicke, Joachim</publisher>
             <date when="1618">1618</date>
@@ -7273,7 +7273,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
               <rs type="person" key="gnd_118630105">Weigel, Valentin</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_1036898">Halle/S.</rs>
+              <rs type="place" key="getty_1036898">Halle (Saale)</rs>
             </pubPlace>
             <publisher>Krusicke, Joachim</publisher>
             <idno type="VD17">Ausgabe nicht bestimmbar</idno>
@@ -7284,7 +7284,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
               <rs type="person" key="gnd_118630105">Weigel, Valentin</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_1036898">Halle/S.</rs>
+              <rs type="place" key="getty_1036898">Halle (Saale)</rs>
             </pubPlace>
             <publisher>Krusicke, Joachim</publisher>
             <idno type="VD17">Ausgabe nicht bestimmbar</idno>
@@ -7301,7 +7301,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
               <rs type="person" key="gnd_124685838">Staricius, Johannes</rs>
             </editor>
             <pubPlace>
-              <rs type="place" key="getty_1036898">Halle/S.</rs>
+              <rs type="place" key="getty_1036898">Halle (Saale)</rs>
             </pubPlace>
             <publisher>Krusicke, Joachim</publisher>
             <date when="1618">1618</date>
@@ -7313,7 +7313,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
               <rs type="person" key="gnd_118630105">Weigel, Valentin</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_1036898">Halle/S.</rs>
+              <rs type="place" key="getty_1036898">Halle (Saale)</rs>
             </pubPlace>
             <publisher>Krusicke, Joachim</publisher>
             <date when="1618">1618</date>
@@ -7325,7 +7325,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
               <rs type="person" key="gnd_118630105">Weigel, Valentin</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_1036898">Halle/S.</rs>
+              <rs type="place" key="getty_1036898">Halle (Saale)</rs>
             </pubPlace>
             <publisher>Krusicke, Joachim</publisher>
             <date when="1618">1618</date>
@@ -7337,7 +7337,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
               <rs type="person" key="gnd_118630105">Weigel, Valentin</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_1036898">Halle/S.</rs>
+              <rs type="place" key="getty_1036898">Halle (Saale)</rs>
             </pubPlace>
             <publisher>Krusicke, Joachim</publisher>
             <date when="1618">1618</date>
@@ -7349,7 +7349,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
               <rs type="person" key="gnd_118630105">Weigel, Valentin</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_1036898">Halle/S.</rs>
+              <rs type="place" key="getty_1036898">Halle (Saale)</rs>
             </pubPlace>
             <publisher>Krusicke, Joachim</publisher>
             <date when="1618">1618</date>
@@ -7389,7 +7389,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
               <rs type="person" key="gnd_118630105">Weigel, Valentin</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_1036898">Halle/S.</rs>
+              <rs type="place" key="getty_1036898">Halle (Saale)</rs>
             </pubPlace>
             <publisher>Krusicke, Joachim</publisher>
             <date when="1618">1618</date>
@@ -7408,7 +7408,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
               <rs type="person" key="gnd_118630105">Weigel, Valentin</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_1036898">Halle/S.</rs>
+              <rs type="place" key="getty_1036898">Halle (Saale)</rs>
             </pubPlace>
             <publisher>Krusicke, Joachim</publisher>
             <idno type="VD17">Ausgabe nicht bestimmbar</idno>
@@ -7426,7 +7426,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
               <rs type="person" key="gnd_118630105">Weigel, Valentin</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_1036898">Halle/S.</rs>
+              <rs type="place" key="getty_1036898">Halle (Saale)</rs>
             </pubPlace>
             <publisher>Krusicke, Joachim</publisher>
             <idno type="VD17">Ausgabe nicht bestimmbar</idno>
@@ -7437,7 +7437,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
               <rs type="person" key="gnd_118630105">Weigel, Valentin</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_1036898">Halle/S.</rs>
+              <rs type="place" key="getty_1036898">Halle (Saale)</rs>
             </pubPlace>
             <publisher>Krusicke, Joachim</publisher>
             <date when="1618">1618</date>
@@ -7854,7 +7854,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
             <author>
               <rs type="person" key="gnd_140038310">Lohmann, Hartwig</rs>
             </author>
-            <pubPlace>Newenstatt [fingiert?</pubPlace>
+            <pubPlace>Newenstatt (fingiert?)</pubPlace>
             <publisher>Frey, Ernst</publisher>
             <date when="1625">1625</date>
             <idno type="GBV">231387903</idno>
@@ -7865,7 +7865,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
               <rs type="person" key="gnd_118630105">Weigel, Valentin</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_1036898">Halle/S.</rs>
+              <rs type="place" key="getty_1036898">Halle (Saale)</rs>
             </pubPlace>
             <publisher>Krusicke, Joachim</publisher>
             <date when="1618">1618</date>
@@ -7883,7 +7883,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
             <author>
               <rs type="person" key="gnd_140038310">Lohmann, Hartwig</rs>
             </author>
-            <pubPlace>Newenstatt [fingiert?</pubPlace>
+            <pubPlace>Newenstatt (fingiert?)</pubPlace>
             <publisher>Frey, Ernst</publisher>
             <date when="1625">1625</date>
             <idno type="GBV">231385765</idno>
@@ -7990,7 +7990,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
               <rs type="person" key="gnd_11745446X">Scultetus, Bartholom&#xE4;us</rs>
             </editor>
             <pubPlace>
-              <rs type="place" key="getty_7005972">Frankfurt/O.</rs>
+              <rs type="place" key="getty_7005972">Frankfurt an der Oder</rs>
             </pubPlace>
             <publisher>Eichorn, Andreas/Thieme, Johann</publisher>
             <date when="1600">1600</date>
@@ -8368,7 +8368,7 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
               <rs type="person" key="gnd_12157623X">Capito, Johann</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Jennis, Lucas/Starck, Heinrich</publisher>
             <date when="1618">1618</date>
@@ -8585,7 +8585,7 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
               <rs type="person" key="gnd_118630105">Weigel, Valentin</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_1036898">Halle/S.</rs>
+              <rs type="place" key="getty_1036898">Halle (Saale)</rs>
             </pubPlace>
             <publisher>Krusicke, Joachim</publisher>
             <date when="1615">1615</date>
@@ -8619,7 +8619,7 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
               <rs type="person" key="gnd_120942151">Napier, John</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>S.n.</publisher>
             <date when="1615">1615</date>
@@ -9083,7 +9083,7 @@ Nebenst beygef&#xFC;gtem Extract etlicher wunderlichen Newen Offenbahrungen/ ang
               <rs type="person" key="gnd_119688875">Goldwurm, Kaspar</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Egenolff, Christian d.&#xC4;.</publisher>
             <idno type="VD16">Ausgabe nicht bestimmbar</idno>
@@ -9434,7 +9434,7 @@ Nebenst beygef&#xFC;gtem Extract etlicher wunderlichen Newen Offenbahrungen/ ang
               <rs type="person" key="gnd_118630105">Weigel, Valentin</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_1036898">Halle/S.</rs>
+              <rs type="place" key="getty_1036898">Halle (Saale)</rs>
             </pubPlace>
             <publisher>Krusicke, Joachim</publisher>
             <date when="1617">1617</date>
@@ -9527,7 +9527,7 @@ Nebenst beygef&#xFC;gtem Extract etlicher wunderlichen Newen Offenbahrungen/ ang
               <rs type="person" key="gnd_11853467X">Franck, Sebastian</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Jacob, Cyriacus</publisher>
             <date when="1550">1550</date>
@@ -9539,7 +9539,7 @@ Nebenst beygef&#xFC;gtem Extract etlicher wunderlichen Newen Offenbahrungen/ ang
               <rs type="person" key="gnd_11853467X">Franck, Sebastian</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Jacob, Cyriacus</publisher>
             <date when="1550">1550</date>
@@ -9870,7 +9870,7 @@ Nebenst beygef&#xFC;gtem Extract etlicher wunderlichen Newen Offenbahrungen/ ang
               <rs type="person" key="gnd_120533758">Houwaert, Jan Baptist</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <date when="1611">1611</date>
           </bibl>
@@ -9979,7 +9979,7 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
               <rs type="person" key="gnd_123624878">Spangenberg, Johann</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Egenolff, Christian d.&#xC4;.</publisher>
             <date when="1546">1546</date>
@@ -10470,7 +10470,7 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
               <rs type="person" key="gnd_118621009">Tauler, Johannes</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Le Blon, Christoph</publisher>
             <date when="1656">1656</date>
@@ -10668,7 +10668,7 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
               <rs type="person" key="gnd_121145905">Hoburg, Christian</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Merian, Matthaeus d.&#xC4;.</publisher>
             <date when="1644">1644</date>
@@ -10785,7 +10785,7 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
           <bibl xml:id="bahnsen453-reference" corresp="bahnsen453">
             <title>Christlicher Ritter/ Das ist/ Wie ein jeder wahrer Christ/ unter dem Regiment und Siegsfahnen/ seines General Feldhauptmanns Jesu Christi/ wider die drey Hauptfeinde/ den Satan/ die Welt/ und sein eygen Fleisch/ t&#xE4;glich zu Feld ligen/ und denselben obsiegen mu&#xDF; / Vor nunmehr dann hundert Jahren/ von einem dieses Kriegs wolerfahrnen Helden/ auffgesetzt/ jetzt aber bey diesen kriegerischen Zeiten M&#xE4;nniglich zur Auffmunterung und Nachricht an Tag gegeben</title>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Merian, Matthaeus d.&#xC4;.</publisher>
             <date when="1644">1644</date>
@@ -11385,7 +11385,7 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
               <rs type="person" key="gnd_118630105">Weigel, Valentin</rs>
             </editor>
             <pubPlace>
-              <rs type="place" key="getty_1036898">Halle/S.</rs>
+              <rs type="place" key="getty_1036898">Halle (Saale)</rs>
             </pubPlace>
             <publisher>Krusicke, Joachim/Hynitzsch, Erasmus</publisher>
             <date when="1609">1609</date>
@@ -11669,7 +11669,7 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
             <title>Perspicillum Bellicum, Das ist: Kriegs-Perspectiv : In welchem mann erkennen kann/ was der Krieg sey/ woher er komme/ und ob ein Christ ... kan Krieg f&#xFC;hren/ wieder seine Feinde/ f&#xFC;r den Glauben und Religion ...
 Darbey ein Schreiben vom Kriege/ an einen Leutenant ...</title>
             <pubPlace>
-              <rs type="place" key="getty_7003127">Bremen</rs>
+              <rs type="place" key="getty_7005286">Bremen</rs>
             </pubPlace>
             <publisher>Berger, Erhard</publisher>
             <date when="1652">1652</date>
@@ -11821,7 +11821,7 @@ Darbey ein Schreiben vom Kriege/ an einen Leutenant ...</title>
               <rs type="person" key="gnd_10008723X">Coler, Johann</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Sch&#xF6;nwetter, Johann Gottfried/Beyer, Johannes</publisher>
             <date when="1640">1640</date>
@@ -11886,7 +11886,7 @@ Darbey ein Schreiben vom Kriege/ an einen Leutenant ...</title>
               <rs type="person" key="gnd_117421359">Toxites, Michael</rs>
             </editor>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Lechler, Martin/Feyerabend, Sigmund</publisher>
             <date when="1571">1571</date>
@@ -11908,7 +11908,7 @@ Darbey ein Schreiben vom Kriege/ an einen Leutenant ...</title>
               <rs type="person" key="gnd_118522833">Croll, Oswald</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Tampach, Gottfried</publisher>
             <idno type="VD17">Ausgabe nicht bestimmbar</idno>
@@ -12124,7 +12124,7 @@ Allen frommen Hau&#xDF;wirthen ... nicht allein aus dem Latein in Deutsche Sprac
               <rs type="person" key="gnd_100835767">Schenck, Johann Georg</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Theodor de Bry der &#xC4;ltere Erben/Becker, Matth&#xE4;us d.J.</publisher>
             <date when="1610">1610</date>
@@ -12156,7 +12156,7 @@ Allen frommen Hau&#xDF;wirthen ... nicht allein aus dem Latein in Deutsche Sprac
               <rs type="person" key="gnd_121821153">Grasse, Johann</rs>
             </editor>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Jennis, Lucas</publisher>
             <date when="1625">1625</date>
@@ -12201,7 +12201,7 @@ Allen frommen Hau&#xDF;wirthen ... nicht allein aus dem Latein in Deutsche Sprac
               <rs type="person" key="gnd_118595083">Plinius Secundus, Gaius</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Braubach, Peter</publisher>
             <date when="1553">1553</date>
@@ -12213,7 +12213,7 @@ Allen frommen Hau&#xDF;wirthen ... nicht allein aus dem Latein in Deutsche Sprac
               <rs type="person" key="gnd_124552889">Figulus, Benedictus</rs>
             </editor>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Stein, Nikolaus/Richter, Wolfgang</publisher>
             <date when="1608">1608</date>
@@ -12333,7 +12333,7 @@ Und nun zum andern mahl etwas vermehret unnd gebessert / Durch Iustum Stengeln B
               <rs type="person" key="gnd_128548029">Hippodamus, Johannes</rs>
             </editor>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Spies, Johann</publisher>
             <date when="1604">1604</date>
@@ -12345,7 +12345,7 @@ Und nun zum andern mahl etwas vermehret unnd gebessert / Durch Iustum Stengeln B
               <rs type="person" key="gnd_124582958">Hoghelande, Theobaldus van</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Richter, Wolfgang/Spies, Johann</publisher>
             <date when="1600">1600</date>
@@ -12367,7 +12367,7 @@ Und nun zum andern mahl etwas vermehret unnd gebessert / Durch Iustum Stengeln B
           <bibl xml:id="bahnsen620-reference" corresp="bahnsen620">
             <title>Gart der Gesundheit || Zu Latein/ HORTVS SANI=||TATIS. Sagt in vier Thei=||len/ wie hernach folget.||[Sp. 1] Von ||[Sp. 2] ... Vierf&#xFC;ssigen vnd Kriechenden || ... V&#xF6;geln vnd den Fliegenden || ... Fischen vnd Schwimmenden.|| ... [Sp. 3] Thieren.|| Darau&#xDF; durch die nat&#xFC;rliche Meister ge=||zogen/ was dem Menschen zu seiner gesundt=||heit dienstlich ist ... ||</title>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>G&#xFC;lfferich, Hermann</publisher>
             <date when="1552">1552</date>
@@ -12426,7 +12426,7 @@ Sampt einem andern Tract&#xE4;tlin/ Von dem Schnee und Ey&#xDF; ...</title>
               <rs type="person" key="gnd_118789341">Palladius, Rutilius Taurus Aemilianus</rs>
             </editor>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Schmidt, Peter</publisher>
             <date when="1566">1566</date>
@@ -12510,7 +12510,7 @@ Sampt einem andern Tract&#xE4;tlin/ Von dem Schnee und Ey&#xDF; ...</title>
               <rs type="person" key="gnd_115686150">Kozak, Johann Sophron</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7003127">Bremen</rs>
+              <rs type="place" key="getty_7005286">Bremen</rs>
             </pubPlace>
             <publisher>Villiers, Berthold de</publisher>
             <date when="1640">1640</date>
@@ -12712,7 +12712,7 @@ Sampt einem andern Tract&#xE4;tlin/ Von dem Schnee und Ey&#xDF; ...</title>
               <rs type="person" key="gnd_119287064">Maier, Michael</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
@@ -12722,7 +12722,7 @@ Sampt einem andern Tract&#xE4;tlin/ Von dem Schnee und Ey&#xDF; ...</title>
               <rs type="person" key="gnd_119287064">Maier, Michael</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
@@ -12746,7 +12746,7 @@ Beneben der rechten und warhafftigen Physica Naturali Rotunda durch eine Visione
               <rs type="person" key="gnd_121821153">Grasse, Johann</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Bringer, Johann</publisher>
             <date when="1617">1617</date>
@@ -12775,7 +12775,7 @@ Beneben der rechten und warhafftigen Physica Naturali Rotunda durch eine Visione
               <rs type="person" key="gnd_118630105">Weigel, Valentin</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_1036898">Halle/S.</rs>
+              <rs type="place" key="getty_1036898">Halle (Saale)</rs>
             </pubPlace>
             <publisher>Krusicke, Joachim</publisher>
             <date when="1616">1616</date>
@@ -12830,7 +12830,7 @@ Beneben der rechten und warhafftigen Physica Naturali Rotunda durch eine Visione
             <title>Iudicia Clarissimorum Aliquot Ac Doctissimorum Virorum, Locorum Intervallis Dissitorum, gravissima de Statu &amp; Religione Fraternitatis celebrarissimae de Rosea Cruce : Partim Soluta, Partim Ligata Oratione Conscripta, &amp; in gratiam verae ac solidae cum Philosophiae, tum Theosophiae studiosorum uno quasi fasciculo comprehensa
 Quibus Accessere Epistolae Duae Germanicae eiusdem argumenti, pari ingenii acumine, &amp; iudicii maturitate commendatae</title>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Bringer, Johann</publisher>
             <date when="1616">1616</date>
@@ -12854,7 +12854,7 @@ Quibus Accessere Epistolae Duae Germanicae eiusdem argumenti, pari ingenii acumi
               <rs type="person" key="gnd_129751413">Molther, Georg</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Bringer, Johann/Berner, Johann</publisher>
             <date when="1616">1616</date>
@@ -12908,7 +12908,7 @@ Quibus Accessere Epistolae Duae Germanicae eiusdem argumenti, pari ingenii acumi
               <rs type="person" key="gnd_119546655">Siebmacher, Johann</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
@@ -12930,7 +12930,7 @@ Quibus Accessere Epistolae Duae Germanicae eiusdem argumenti, pari ingenii acumi
               <rs type="person" key="gnd_131367331">C. V. M. V. S.</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005972">Frankfurt/O.</rs>
+              <rs type="place" key="getty_7005972">Frankfurt an der Oder</rs>
             </pubPlace>
             <publisher>Thieme, Johann</publisher>
             <date when="1619">1619</date>
@@ -13265,7 +13265,7 @@ Dabey dan[n] auch seine Practica, au&#xDF; den f&#xFC;rnemsten Secretis ... Item
               <rs type="person" key="gnd_118717812">Goclenius, Rudolph d.J.</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Zunner, Johann David I.</publisher>
             <date when="1642">1642</date>
@@ -13303,7 +13303,7 @@ Accesserunt in fine memorabilia experimenta &amp; observationes Chiromanticae : 
               <rs type="person" key="gnd_124494498">Faber, Georg</rs>
             </editor>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
@@ -13328,7 +13328,7 @@ Accesserunt in fine memorabilia experimenta &amp; observationes Chiromanticae : 
               <rs type="person" key="gnd_121365034">Fioravanti, Leonardo</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Berner, Johann/Humm, Anton</publisher>
             <date when="1618">1618</date>
@@ -13340,7 +13340,7 @@ Accesserunt in fine memorabilia experimenta &amp; observationes Chiromanticae : 
               <rs type="person" key="gnd_121365034">Fioravanti, Leonardo</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Berner, Johann/Hoffmann, Nikolaus d.&#xC4;.</publisher>
             <date when="1604">1604</date>
@@ -13375,7 +13375,7 @@ Dabey auch zwey sehr n&#xFC;tzliche andere B&#xFC;chlein ... angeh&#xE4;ngt: Neh
               <rs type="person" key="gnd_119546655">Siebmacher, Johann</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Le Blon, Christoph</publisher>
             <date when="1661">1661</date>
@@ -13389,7 +13389,7 @@ Dabey auch zwey sehr n&#xFC;tzliche andere B&#xFC;chlein ... angeh&#xE4;ngt: Neh
               <rs type="person" key="gnd_119546655">Siebmacher, Johann</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Le Blon, Christoph</publisher>
             <date when="1661">1661</date>
@@ -13404,7 +13404,7 @@ Dabey auch zwey sehr n&#xFC;tzliche andere B&#xFC;chlein ... angeh&#xE4;ngt: Neh
               <rs type="person" key="gnd_129552461">Horing, Michael</rs>
             </editor>
             <pubPlace>
-              <rs type="place" key="getty_1036898">Halle/S.</rs>
+              <rs type="place" key="getty_1036898">Halle (Saale)</rs>
             </pubPlace>
             <publisher>Oelschl&#xE4;gel, Michael/Schmidt, Peter</publisher>
             <date when="1618">1618</date>
@@ -13416,7 +13416,7 @@ Dabey auch zwey sehr n&#xFC;tzliche andere B&#xFC;chlein ... angeh&#xE4;ngt: Neh
               <rs type="person" key="gnd_118604376">Ryff, Walther Hermann</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Christian Egenolff Erben</publisher>
             <date when="1593">1593</date>
@@ -13480,7 +13480,7 @@ Diu desideratum &amp; expetitum, nunc vero primum in lucem editum.</title>
               <rs type="person" key="gnd_124147682">Kornmann, Heinrich</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Por&#xDF;, Johann Jakob/Wolff, Johann II.</publisher>
             <date when="1610">1610</date>
@@ -13492,7 +13492,7 @@ Diu desideratum &amp; expetitum, nunc vero primum in lucem editum.</title>
               <rs type="person" key="gnd_124147682">Kornmann, Heinrich</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Fischer, Jakob/Becker, Matth&#xE4;us d.&#xC4;. Witwe</publisher>
             <date when="1614">1614</date>
@@ -13504,7 +13504,7 @@ Diu desideratum &amp; expetitum, nunc vero primum in lucem editum.</title>
               <rs type="person" key="gnd_117498564">Falloppio, Gabriele</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Le Blon, Christoph/Hoffmann, Wolfgang</publisher>
             <date when="1641">1641</date>
@@ -13515,7 +13515,7 @@ Diu desideratum &amp; expetitum, nunc vero primum in lucem editum.</title>
 4020 Itzunder zum andernmahl in Truck geben/ vnd an vielen orten trefflich gemehret</title>
             <author>Schnurr, Balthasar</author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Humm, Anton</publisher>
             <date when="1615">1615</date>
@@ -13588,7 +13588,7 @@ Denuo, amicorum rogatu, in publicum emissum, ac triplici Indice ornatum.</title>
               <rs type="person" key="gnd_124537960">Baricelli, Giulio Cesare</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Jennis, Lucas/Jacobi, Paul</publisher>
             <date when="1620">1620</date>
@@ -13600,7 +13600,7 @@ Denuo, amicorum rogatu, in publicum emissum, ac triplici Indice ornatum.</title>
               <rs type="person" key="gnd_124364195">Scheunemann, Henning</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Stein, Nikolaus</publisher>
             <date when="1610">1610</date>
@@ -13690,7 +13690,7 @@ Denuo, amicorum rogatu, in publicum emissum, ac triplici Indice ornatum.</title>
               <rs type="person" key="gnd_104292326">Claves, Gaston LeDoux de</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_1036898">Halle/S.</rs>
+              <rs type="place" key="getty_1036898">Halle (Saale)</rs>
             </pubPlace>
             <publisher>Krusicke, Joachim/Schmidt, Peter</publisher>
             <date when="1617">1617</date>
@@ -13782,7 +13782,7 @@ Denuo, amicorum rogatu, in publicum emissum, ac triplici Indice ornatum.</title>
           <bibl xml:id="bahnsen752-reference" corresp="bahnsen752">
             <title>Probier B&#xFC;chlein auff Gold/ Silber/ Ertz und Metall/ : mit viel k&#xF6;stlichen Alchimistischen K&#xFC;nsten/ sampt aller Zugeh&#xF6;r/ auch Instrumenten darzu dienstlich. Mehr de&#xDF; Goldf&#xE4;rbens besondere KunstSt&#xFC;cklin. Item ein Erkl&#xE4;rung der Bergknamen/ f&#xFC;r die newen angehenden Bergkleuth. Alles mit sonderm Flei&#xDF; f&#xFC;r die Liebhaber der Kunst beschrieben. ...</title>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Steinmeyer, Vincentius/Latomus, Sigismundus</publisher>
             <date when="1608">1608</date>
@@ -13881,7 +13881,7 @@ Item/ Arcula Itineraria, oder Reyse-K&#xE4;stlein/ F&#xFC;r allerand Kranckheite
               <rs type="person" key="gnd_119287064">Maier, Michael</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Jennis, Lucas/Hoffmann, Nikolaus d.&#xC4;.</publisher>
             <date when="1618">1618</date>
@@ -13919,7 +13919,7 @@ Allen ... mitgetheilet/ und jetzo zum andern mahl correctior in Truck gegeben</t
               <rs type="person" key="gnd_121821153">Grasse, Johann</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Zunner, Johann David I.</publisher>
             <date when="1643">1643</date>
@@ -14076,7 +14076,7 @@ Anjetzo aber anderweit/ in Verlegung Georg Bechers Apotheckers in ermelten Carls
               <rs type="person" key="gnd_12134679X">Kerzenmacher, Peter</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <pubPlace>Darmstadt</pubPlace>
             <publisher>Steinmeyer, Vincentius/Hofmann, Balthasar</publisher>
@@ -14089,7 +14089,7 @@ Anjetzo aber anderweit/ in Verlegung Georg Bechers Apotheckers in ermelten Carls
               <rs type="person" key="gnd_12134679X">Kerzenmacher, Peter</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <pubPlace>Darmstadt</pubPlace>
             <publisher>Steinmeyer, Vincentius/Hofmann, Balthasar</publisher>
@@ -14154,7 +14154,7 @@ Zum zweytenmal Gedruckt ...</title>
               <rs type="person" key="gnd_12453693X">Hupka, M. A.</rs>
             </editor>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Wust, Balthasar Christoph d.&#xC4;.</publisher>
             <date when="1661">1661</date>
@@ -14357,7 +14357,7 @@ Zum zweytenmal Gedruckt ...</title>
               <rs type="person" key="gnd_104196920">Scribonius, Wilhelm Adolf</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Wechel, Johann/Fischer, Peter</publisher>
             <date when="1591">1591</date>
@@ -14456,7 +14456,7 @@ Zum andernmal auffgelegt.</title>
           <bibl xml:id="bahnsen809-reference" corresp="bahnsen809">
             <title>Ars Magica Sive Magia Naturalis Et Artificiosa, Stupendos Et abstrusos effectus ... horasque planetarias exhibens : Antehac nunquam visa, cognitave. Nunc primum Ex Vetustissimis veterum Sophorum, &amp; artis Magicae peritissimis Artificibus eruta, &amp; ob insignem utilitatem ac iucunditatem luci publica commissa. Cui praeit Magia Superstitiosa De daemonum variis generibus, faunis, satyris, lamiis &amp; spectris, eorumque operationibus diversis disquisitio plane recondita ...</title>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Humm, Anton</publisher>
             <date when="1631">1631</date>
@@ -14580,7 +14580,7 @@ Zum andernmal auffgelegt.</title>
               <rs type="person" key="gnd_118580485">Melanchthon, Philipp</rs>
             </editor>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Egenolff, Christian d.&#xC4;.</publisher>
             <idno type="VD16">Ausgabe nicht bestimmbar</idno>
@@ -14663,7 +14663,7 @@ Zusampt einem angehenckten Tract&#xE4;tlein, von allerley gebrannten Wassern, we
               <rs type="person" key="gnd_102520879">Abelinus, Johann Philipp</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Merian, Matthaeus d.&#xC4;.</publisher>
             <date when="1643">1643</date>
@@ -14867,7 +14867,7 @@ Zusampt einem angehenckten Tract&#xE4;tlein, von allerley gebrannten Wassern, we
               <rs type="person" key="gnd_118590251">Orosius, Paulus</rs>
             </editor>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Schmidt, Johann/Feyerabend, Sigmund</publisher>
             <date when="1581">1581</date>
@@ -15070,7 +15070,7 @@ Mit vielen sch&#xF6;nen newen Kupfferst&#xFC;cken und LandBeschreibungen vermehr
               <rs type="person" key="gnd_119363577">Merian, Matthaeus d.J.</rs>
             </editor>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Merian, Matthaeus d.J./Hoffmann, Wolfgang</publisher>
             <idno type="VD17">Ausgabe nicht nachweisbar</idno>
@@ -15098,7 +15098,7 @@ Item Elenchus Chronologicus Novus, per totam Sacram Scripturam Veteris &amp; Nov
               <rs type="person" key="gnd_119132591">Garzoni, Giovanni</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Wechel, Andreas</publisher>
             <date when="1580">1580</date>
@@ -15137,7 +15137,7 @@ Item Elenchus Chronologicus Novus, per totam Sacram Scripturam Veteris &amp; Nov
               <rs type="person" key="gnd_104281960">Wallhausen, Johann Jacob von</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Fitzer, William/Hoffmann, Wolfgang</publisher>
             <date when="1634">1634</date>
@@ -15431,7 +15431,7 @@ Item Elenchus Chronologicus Novus, per totam Sacram Scripturam Veteris &amp; Nov
               <rs type="person" key="gnd_104348348">Calchum, Wilhelm von</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7003127">Bremen</rs>
+              <rs type="place" key="getty_7005286">Bremen</rs>
             </pubPlace>
             <publisher>S.n.</publisher>
             <date when="1629">1629</date>
@@ -15443,7 +15443,7 @@ Item Elenchus Chronologicus Novus, per totam Sacram Scripturam Veteris &amp; Nov
               <rs type="person" key="gnd_104281960">Wallhausen, Johann Jacob von</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Fitzer, William/Hoffmann, Wolfgang</publisher>
             <date when="1634">1634</date>
@@ -15972,7 +15972,7 @@ Editio Tertia: Cui recens accessit Problematum Architectonicorum Liber unus.</ti
               <rs type="person" key="gnd_117689599">Pitiscus, Bartholomaeus</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Rosa, Jonas/Hoffmann, Nikolaus d.&#xC4;.</publisher>
             <date when="1612">1612</date>
@@ -15987,7 +15987,7 @@ Editio Tertia: Cui recens accessit Problematum Architectonicorum Liber unus.</ti
               <rs type="person" key="gnd_117689599">Pitiscus, Bartholomaeus</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Rosa, Jonas/Hoffmann, Nikolaus d.&#xC4;.</publisher>
             <date when="1612">1612</date>
@@ -16027,7 +16027,7 @@ De&#xDF;gleichen Von dem Marscheiden/ Bergwercken/ Wasserwagen/ und andern herrl
               <rs type="person" key="gnd_11899901X">Reinhold, Erasmus d.&#xC4;.</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Bringer, Johann</publisher>
             <date when="1615">1615</date>
@@ -16155,7 +16155,7 @@ und jetzt zum zweytenmal getruckt</title>
               <rs type="person" key="gnd_121786935">Jacob, Simon</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Christian Egenolff Erben/Becker, Matthaeus d.&#xC4;.</publisher>
             <idno type="VD17">Ausgabe nicht nachweisbar</idno>
@@ -16166,7 +16166,7 @@ und jetzt zum zweytenmal getruckt</title>
               <rs type="person" key="gnd_121786935">Jacob, Simon</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Rab, Georg d.&#xC4;./Feyerabend, Sigmund</publisher>
             <date when="1565">1565</date>
@@ -16178,7 +16178,7 @@ und jetzt zum zweytenmal getruckt</title>
               <rs type="person" key="gnd_121786935">Jacob, Simon</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Rab, Georg d.&#xC4;./Feyerabend, Sigmund</publisher>
             <date when="1565">1565</date>
@@ -16218,7 +16218,7 @@ und jetzt zum zweytenmal getruckt</title>
               <rs type="person" key="gnd_118598228">Ramus, Petrus</rs>
             </editor>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <pubPlace>
               <rs type="place" key="getty_7004431">Kassel</rs>
@@ -16246,7 +16246,7 @@ und jetzt zum zweytenmal getruckt</title>
               <rs type="person" key="gnd_118598228">Ramus, Petrus</rs>
             </editor>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <pubPlace>
               <rs type="place" key="getty_7004431">Kassel</rs>
@@ -16301,7 +16301,7 @@ Ausgabebezeichnung: M.D.LXXI.||[s.l.](Gedr#[ue]ckt zu K#[oe]nigs=||berg in Preus
               <rs type="person" key="gnd_119180049">Cramer, Daniel</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Spies, Johann/Romanus Beatus Erben</publisher>
             <date when="1602">1602</date>
@@ -16745,7 +16745,7 @@ Ausgabebezeichnung: COLONIAE AGRIPPINAE,|| Apud Haeredes Arnoldi Birckmanni.|| M
               <rs type="person" key="gnd_124539181">Kessler, Franz</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Saur, Johannes</publisher>
             <date when="1605">1605</date>
@@ -16853,7 +16853,7 @@ Ausgabebezeichnung: COLONIAE AGRIPPINAE,|| Apud Haeredes Arnoldi Birckmanni.|| M
               <rs type="person" key="gnd_119130084">Faulhaber, Johannes</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <pubPlace>
               <rs type="place" key="getty_7004334">N&#xFC;rnberg</rs>
@@ -16895,7 +16895,7 @@ Ausgabebezeichnung: COLONIAE AGRIPPINAE,|| Apud Haeredes Arnoldi Birckmanni.|| M
               <rs type="person" key="gnd_119130084">Faulhaber, Johannes</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Humm, Anton/Richter, Wolfgang</publisher>
             <date when="1610">1610</date>
@@ -16949,7 +16949,7 @@ Ausgabebezeichnung: COLONIAE AGRIPPINAE,|| Apud Haeredes Arnoldi Birckmanni.|| M
               <rs type="person" key="gnd_116188510">Pinicianus, Johann</rs>
             </editor>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Rab, Georg d.&#xC4;./Han, Weigand</publisher>
             <date when="1561">1561</date>
@@ -17160,7 +17160,7 @@ Ausgabebezeichnung: COLONIAE AGRIPPINAE,|| Apud Haeredes Arnoldi Birckmanni.|| M
               <rs type="person" key="gnd_117144991">Origanus, David</rs>
             </editor>
             <pubPlace>
-              <rs type="place" key="getty_7005972">Frankfurt/O.</rs>
+              <rs type="place" key="getty_7005972">Frankfurt an der Oder</rs>
             </pubPlace>
             <publisher>Eichorn, Johann</publisher>
             <date when="1612">1612</date>
@@ -17218,7 +17218,7 @@ Ausgabebezeichnung: COLONIAE AGRIPPINAE,|| Apud Haeredes Arnoldi Birckmanni.|| M
               <rs type="person" key="gnd_128759992">Hirzgarter, Matthias</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Merian, Matthaeus d.&#xC4;.</publisher>
             <date when="1643">1643</date>
@@ -17243,7 +17243,7 @@ Ausgabebezeichnung: COLONIAE AGRIPPINAE,|| Apud Haeredes Arnoldi Birckmanni.|| M
               <rs type="person" key="gnd_116229292">Dryander, Johann</rs>
             </editor>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Egenolff, Christian d.&#xC4;.</publisher>
             <date when="1570">1570</date>
@@ -17527,7 +17527,7 @@ Ausgabebezeichnung: COLONIAE AGRIPPINAE,|| Apud Haeredes Arnoldi Birckmanni.|| M
           <bibl xml:id="bahnsen1062-reference" corresp="bahnsen1062">
             <title>ASTRONOMIA || Teutsch.|| HJmmels Lauff/|| Wirckung vnnd Nat&#xFC;rliche || Jnfluentz der Planeten vnnd Gestirn/|| Au&#xDF; grund der Astronomei/ ... Mit sampt Astronomischer v&#xF1; Ma=||thematischer Jnstrument/ als Astrolabien/ Quadranten/ Comp&#xE4;st/ Sonn || vhren/ vnd Nocturnal/ K&#xFC;nstlicher zurichtung ... ||</title>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Christian Egenolff Erben</publisher>
             <date when="1571">1571</date>
@@ -17650,7 +17650,7 @@ Jetzunder zum andernmal in Truck verfertiget/ und an vielen Orten verbessert / D
               <rs type="person" key="gnd_11899901X">Reinhold, Erasmus d.&#xC4;.</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Bringer, Johann</publisher>
             <date when="1615">1615</date>
@@ -18088,7 +18088,7 @@ Iam Nunc Ab Autore denuo diligenter recognita ...</title>
               <rs type="person" key="gnd_12465973X">Fincel, Hiob</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Rebart, Thomas</publisher>
             <date when="1566">1566</date>
@@ -18100,7 +18100,7 @@ Iam Nunc Ab Autore denuo diligenter recognita ...</title>
               <rs type="person" key="gnd_12465973X">Fincel, Hiob</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Weigand Han Erben</publisher>
             <date when="1567">1567</date>
@@ -18280,7 +18280,7 @@ Iam Nunc Ab Autore denuo diligenter recognita ...</title>
               <rs type="person" key="gnd_121786935">Jacob, Simon</rs>
             </editor>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Christian Egenolff Erben</publisher>
             <date when="1580">1580</date>
@@ -18368,7 +18368,7 @@ Iam Nunc Ab Autore denuo diligenter recognita ...</title>
               <rs type="person" key="gnd_11695423X">Neufville, Gerard de</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7003127">Bremen</rs>
+              <rs type="place" key="getty_7005286">Bremen</rs>
             </pubPlace>
             <publisher>Heusmann, Georg/Wille, Johann</publisher>
             <date when="1624">1624</date>
@@ -18454,7 +18454,7 @@ Anjetzo zum Andernmahl &#xFC;bers&#xE4;hen/ vermehrt/ und wiederumb in Druck geg
               <rs type="person" key="gnd_104240342">Wesellow, Otto</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7003127">Bremen</rs>
+              <rs type="place" key="getty_7005286">Bremen</rs>
             </pubPlace>
             <publisher>K&#xF6;hler, Peter/Villiers, Berthold de</publisher>
             <date when="1653">1653</date>
@@ -18539,7 +18539,7 @@ Neben angehengter Conferirung und vergeleichung/ de&#xDF; Frucht- und Weinmasses
               <rs type="person" key="gnd_1047508389">M&#xFC;llinghausen von Schwelm, Gottschalck</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Marne, Claude de/Johann Aubry Erben</publisher>
             <date when="1602">1602</date>
@@ -18551,7 +18551,7 @@ Neben angehengter Conferirung und vergeleichung/ de&#xDF; Frucht- und Weinmasses
               <rs type="person" key="gnd_119628139">Brandt, Sebastian</rs>
             </author>
             <pubPlace>
-              <rs type="place" key="getty_7005293">Frankfurt/M.</rs>
+              <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Basse, Nikolaus</publisher>
             <date when="1596">1596</date>

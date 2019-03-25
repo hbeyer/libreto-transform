@@ -18,7 +18,7 @@ function saveXML($data, $catalogue, $folderName) {
 
 function insertMetadataFromCatalogue($dom, $root, $catalogue) {
 	$metadata = $dom->createElement('metadata');
-	$metadataFields = array('heading', 'owner', 'ownerGND', 'fileName', 'title', 'base', 'placeCat', 'year', 'institution', 'shelfmark', 'description', 'geoBrowserStorageID');
+	$metadataFields = array('heading', 'owner', 'ownerGND', 'fileName', 'title', 'base', 'placeCat', 'year', 'institution', 'shelfmark', 'description', 'geoBrowserStorageID', 'creatorReconstruction', 'yearReconstruction');
 	foreach($catalogue as $key => $value) {
 		if(in_array($key, $metadataFields) and $value) {
 			$element = $dom->createElement($key);

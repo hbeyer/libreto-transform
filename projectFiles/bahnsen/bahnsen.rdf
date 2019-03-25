@@ -85,8 +85,8 @@
             <libreto:hasPlace>
               <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7009264">
                 <gn:name>La Rochelle</gn:name>
-                <geo:lat xml:lang="xsd:decimal">46,1667</geo:lat>
-                <geo:long xml:lang="xsd:decimal">-1,15</geo:long>
+                <geo:lat xml:lang="xsd:decimal">46.1667</geo:lat>
+                <geo:long xml:lang="xsd:decimal">-1.15</geo:long>
               </libreto:Place>
             </libreto:hasPlace>
 
@@ -1267,6 +1267,8 @@ Zuvor vermehret mit einem Büchlein/ De Monetis Et Mensuris ... Insonderheit abe
             <libreto:hasPlace>
               <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7012653">
                 <gn:name>Pforzheim</gn:name>
+                <geo:lat xml:lang="xsd:decimal">48.883333</geo:lat>
+                <geo:long xml:lang="xsd:decimal">8.7</geo:long>
               </libreto:Place>
             </libreto:hasPlace>
 
@@ -3431,7 +3433,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Druckort fingiert. Erst 1621 erschienen?</libreto:comment>
             <dc:hasFormat>KEYPhttp://www.gbv.de/vd/vd17/1:073039F</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/Newstatt+%5Bfingiert"/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/Newstatt+%28fingiert%29"/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/118630105"/>
             <libreto:hasManifestation rdf:resource="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=1:073039F"/>
             <libreto:hasContext>
@@ -3467,7 +3469,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Buch 2, in VD17 1:073039F enth.</libreto:comment>
             <dc:hasFormat>KEYPhttp://www.gbv.de/vd/vd17/1:073039F</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/Newstatt+%5Bfingiert"/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/Newstatt+%28fingiert%29"/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/118630105"/>
             <libreto:hasManifestation rdf:resource="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=1:073039F"/>
             <libreto:hasContext>
@@ -5488,6 +5490,8 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
             <libreto:hasPlace>
               <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7012851">
                 <gn:name>Nordhausen</gn:name>
+                <geo:lat xml:lang="xsd:decimal">51.516667</geo:lat>
+                <geo:long xml:lang="xsd:decimal">10.8</geo:long>
               </libreto:Place>
             </libreto:hasPlace>
 
@@ -5732,7 +5736,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
             <dc:language xml:lang="iso6392">ger</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Sehr selten überliefert, nur ein Ex. in Hannover GWLB: T-A 3730 (Stück 7); vgl. Moller, Cimbria literata I, S. 360 (in 4°)</libreto:comment>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/Newenstatt+%5Bfingiert%3F"/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/Newenstatt+%28fingiert%3F%29"/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/140038310"/>
             <libreto:hasManifestation>
               <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=2.1/PPNSET?PPN=231387903">
@@ -5852,7 +5856,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
             <dc:language xml:lang="iso6392">ger</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Sehr selten überliefert, nur ein Ex. in Hannover GWLB: T-A 3730 (Stück 6)</libreto:comment>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/Newenstatt+%5Bfingiert%3F"/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/Newenstatt+%28fingiert%3F%29"/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/140038310"/>
             <libreto:hasManifestation>
               <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=2.1/PPNSET?PPN=231385765">
@@ -6173,7 +6177,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
             <libreto:hasPlace>
               <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7003262">
                 <gn:name>Verona</gn:name>
-                <geo:lat xml:lang="xsd:decimal">45,45</geo:lat>
+                <geo:lat xml:lang="xsd:decimal">45.45</geo:lat>
                 <geo:long xml:lang="xsd:decimal">11</geo:long>
               </libreto:Place>
             </libreto:hasPlace>
@@ -6616,8 +6620,8 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
             <libreto:hasPlace>
               <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7012892">
                 <gn:name>Zerbst</gn:name>
-                <geo:lat xml:lang="xsd:decimal">51,9667</geo:lat>
-                <geo:long xml:lang="xsd:decimal">12,0833</geo:long>
+                <geo:lat xml:lang="xsd:decimal">51.9667</geo:lat>
+                <geo:long xml:lang="xsd:decimal">12.0833</geo:long>
               </libreto:Place>
             </libreto:hasPlace>
 
@@ -7500,6 +7504,8 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
             <libreto:hasPlace>
               <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7007077">
                 <gn:name>Zwolle</gn:name>
+                <geo:lat xml:lang="xsd:decimal">52.5</geo:lat>
+                <geo:long xml:lang="xsd:decimal">6.083333</geo:long>
               </libreto:Place>
             </libreto:hasPlace>
 
@@ -7981,8 +7987,8 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
             <libreto:hasPlace>
               <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7007064">
                 <gn:name>Enkhuizen</gn:name>
-                <geo:lat xml:lang="xsd:decimal">52,7167</geo:lat>
-                <geo:long xml:lang="xsd:decimal">5,2833</geo:long>
+                <geo:lat xml:lang="xsd:decimal">52.7167</geo:lat>
+                <geo:long xml:lang="xsd:decimal">5.2833</geo:long>
               </libreto:Place>
             </libreto:hasPlace>
 
@@ -8201,8 +8207,8 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
             <libreto:hasPlace>
               <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7006798">
                 <gn:name>Dordrecht</gn:name>
-                <geo:lat xml:lang="xsd:decimal">51,8</geo:lat>
-                <geo:long xml:lang="xsd:decimal">4,6667</geo:long>
+                <geo:lat xml:lang="xsd:decimal">51.8</geo:lat>
+                <geo:long xml:lang="xsd:decimal">4.6667</geo:long>
               </libreto:Place>
             </libreto:hasPlace>
 
@@ -9292,8 +9298,8 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
             <libreto:hasPlace>
               <libreto:Place rdf:about="http://vocab.getty.edu/tgn/1048257">
                 <gn:name>Wormerveer</gn:name>
-                <geo:lat xml:lang="xsd:decimal">52,5</geo:lat>
-                <geo:long xml:lang="xsd:decimal">4,7833</geo:long>
+                <geo:lat xml:lang="xsd:decimal">52.5</geo:lat>
+                <geo:long xml:lang="xsd:decimal">4.7833</geo:long>
               </libreto:Place>
             </libreto:hasPlace>
 
@@ -10515,6 +10521,8 @@ Nebenst beygefügtem Extract etlicher wunderlichen Newen Offenbahrungen/ angehen
             <libreto:hasPlace>
               <libreto:Place rdf:about="http://vocab.getty.edu/tgn/1040112">
                 <gn:name>Lich</gn:name>
+                <geo:lat xml:lang="xsd:decimal">50.516667</geo:lat>
+                <geo:long xml:lang="xsd:decimal">8.833333</geo:long>
               </libreto:Place>
             </libreto:hasPlace>
 
@@ -11128,8 +11136,8 @@ Nebenst beygefügtem Extract etlicher wunderlichen Newen Offenbahrungen/ angehen
             <libreto:hasPlace>
               <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7012317">
                 <gn:name>Halberstadt</gn:name>
-                <geo:lat xml:lang="xsd:decimal">51,9</geo:lat>
-                <geo:long xml:lang="xsd:decimal">11,05</geo:long>
+                <geo:lat xml:lang="xsd:decimal">51.9</geo:lat>
+                <geo:long xml:lang="xsd:decimal">11.05</geo:long>
               </libreto:Place>
             </libreto:hasPlace>
 
@@ -12446,8 +12454,8 @@ Nebenst beygefügtem Extract etlicher wunderlichen Newen Offenbahrungen/ angehen
             <libreto:hasPlace>
               <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7007949">
                 <gn:name>Löwen</gn:name>
-                <geo:lat xml:lang="xsd:decimal">50,8833</geo:lat>
-                <geo:long xml:lang="xsd:decimal">4,7</geo:long>
+                <geo:lat xml:lang="xsd:decimal">50.8833</geo:lat>
+                <geo:long xml:lang="xsd:decimal">4.7</geo:long>
               </libreto:Place>
             </libreto:hasPlace>
 
@@ -14364,8 +14372,8 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
             <libreto:hasPlace>
               <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7012354">
                 <gn:name>Zwickau</gn:name>
-                <geo:lat xml:lang="xsd:decimal">50,7333</geo:lat>
-                <geo:long xml:lang="xsd:decimal">12,5</geo:long>
+                <geo:lat xml:lang="xsd:decimal">50.7333</geo:lat>
+                <geo:long xml:lang="xsd:decimal">12.5</geo:long>
               </libreto:Place>
             </libreto:hasPlace>
 
@@ -17706,8 +17714,8 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
             <libreto:hasPlace>
               <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7012327">
                 <gn:name>Lübeck</gn:name>
-                <geo:lat xml:lang="xsd:decimal">53,8667</geo:lat>
-                <geo:long xml:lang="xsd:decimal">10,7</geo:long>
+                <geo:lat xml:lang="xsd:decimal">53.8667</geo:lat>
+                <geo:long xml:lang="xsd:decimal">10.7</geo:long>
               </libreto:Place>
             </libreto:hasPlace>
 
@@ -18212,6 +18220,8 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
             <libreto:hasPlace>
               <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7008589">
                 <gn:name>Vianen</gn:name>
+                <geo:lat xml:lang="xsd:decimal">45.524785</geo:lat>
+                <geo:long xml:lang="xsd:decimal">4.873453</geo:long>
               </libreto:Place>
             </libreto:hasPlace>
 
@@ -18342,8 +18352,8 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
             <libreto:hasPlace>
               <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7003712">
                 <gn:name>Berlin</gn:name>
-                <geo:lat xml:lang="xsd:decimal">52,517413</geo:lat>
-                <geo:long xml:lang="xsd:decimal">13,405961</geo:long>
+                <geo:lat xml:lang="xsd:decimal">52.516667</geo:lat>
+                <geo:long xml:lang="xsd:decimal">13.4</geo:long>
               </libreto:Place>
             </libreto:hasPlace>
 
@@ -19250,7 +19260,7 @@ Darbey ein Schreiben vom Kriege/ an einen Leutenant ...</dc:title>
             <dc:language xml:lang="iso6392">ger</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <dc:hasFormat>KEYPhttp://www.gbv.de/vd/vd17/23:280101A</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="http://vocab.getty.edu/tgn/7003127"/>
+            <libreto:hasPlace rdf:resource="http://vocab.getty.edu/tgn/7005286"/>
             <libreto:hasManifestation>
               <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=23:280101A">
                 <libreto:database>Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)</libreto:database>
@@ -19370,6 +19380,8 @@ Darbey ein Schreiben vom Kriege/ an einen Leutenant ...</dc:title>
             <libreto:hasPlace>
               <libreto:Place rdf:about="http://vocab.getty.edu/tgn/1040922">
                 <gn:name>Rinteln</gn:name>
+                <geo:lat xml:lang="xsd:decimal">52.183333</geo:lat>
+                <geo:long xml:lang="xsd:decimal">9.083333</geo:long>
               </libreto:Place>
             </libreto:hasPlace>
 
@@ -20613,8 +20625,8 @@ Allen frommen Haußwirthen ... nicht allein aus dem Latein in Deutsche Sprach ge
             <libreto:hasPlace>
               <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7005177">
                 <gn:name>Heidelberg</gn:name>
-                <geo:lat xml:lang="xsd:decimal">49,4167</geo:lat>
-                <geo:long xml:lang="xsd:decimal">8,7</geo:long>
+                <geo:lat xml:lang="xsd:decimal">49.4167</geo:lat>
+                <geo:long xml:lang="xsd:decimal">8.7</geo:long>
               </libreto:Place>
             </libreto:hasPlace>
 
@@ -22059,7 +22071,7 @@ Sampt einem andern Tractätlin/ Von dem Schnee und Eyß ...</dc:title>
             <dc:language xml:lang="iso6392">lat</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <dc:hasFormat>http://digital.slub-dresden.de/ppn323900143</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="http://vocab.getty.edu/tgn/7003127"/>
+            <libreto:hasPlace rdf:resource="http://vocab.getty.edu/tgn/7005286"/>
             <dc:creator>
               <libreto:Person rdf:about="http://d-nb.info/gnd/115686150">
                 <foaf:name>Kozak, Johann Sophron</foaf:name>
@@ -24397,6 +24409,8 @@ Quibus Accessere Epistolae Duae Germanicae eiusdem argumenti, pari ingenii acumi
             <libreto:hasPlace>
               <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7012626">
                 <gn:name>Oberursel</gn:name>
+                <geo:lat xml:lang="xsd:decimal">50.2</geo:lat>
+                <geo:long xml:lang="xsd:decimal">8.583333</geo:long>
               </libreto:Place>
             </libreto:hasPlace>
 
@@ -24742,8 +24756,8 @@ Quibus Accessere Epistolae Duae Germanicae eiusdem argumenti, pari ingenii acumi
             <libreto:hasPlace>
               <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7012815">
                 <gn:name>Gera</gn:name>
-                <geo:lat xml:lang="xsd:decimal">50,8667</geo:lat>
-                <geo:long xml:lang="xsd:decimal">12,0833</geo:long>
+                <geo:lat xml:lang="xsd:decimal">50.8667</geo:lat>
+                <geo:long xml:lang="xsd:decimal">12.0833</geo:long>
               </libreto:Place>
             </libreto:hasPlace>
 
@@ -25080,8 +25094,8 @@ Accesserunt in fine memorabilia experimenta &amp; observationes Chiromanticae : 
             <libreto:hasPlace>
               <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7012330">
                 <gn:name>Marburg</gn:name>
-                <geo:lat xml:lang="xsd:decimal">50,8167</geo:lat>
-                <geo:long xml:lang="xsd:decimal">8,7667</geo:long>
+                <geo:lat xml:lang="xsd:decimal">50.8167</geo:lat>
+                <geo:long xml:lang="xsd:decimal">8.7667</geo:long>
               </libreto:Place>
             </libreto:hasPlace>
 
@@ -27440,12 +27454,16 @@ Anjetzo aber anderweit/ in Verlegung Georg Bechers Apotheckers in ermelten Carls
             <libreto:hasPlace>
               <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7011521">
                 <gn:name>Karlsbad</gn:name>
+                <geo:lat xml:lang="xsd:decimal">50.2167</geo:lat>
+                <geo:long xml:lang="xsd:decimal">12.8667</geo:long>
               </libreto:Place>
             </libreto:hasPlace>
 
             <libreto:hasPlace>
               <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7004326">
                 <gn:name>Bayreuth</gn:name>
+                <geo:lat xml:lang="xsd:decimal">49.45</geo:lat>
+                <geo:long xml:lang="xsd:decimal">11.5833</geo:long>
               </libreto:Place>
             </libreto:hasPlace>
 
@@ -29326,8 +29344,8 @@ Zum andernmal auffgelegt.</dc:title>
             <libreto:hasPlace>
               <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7012310">
                 <gn:name>Altona</gn:name>
-                <geo:lat xml:lang="xsd:decimal">53,55</geo:lat>
-                <geo:long xml:lang="xsd:decimal">9,9333</geo:long>
+                <geo:lat xml:lang="xsd:decimal">53.55</geo:lat>
+                <geo:long xml:lang="xsd:decimal">9.9333</geo:long>
               </libreto:Place>
             </libreto:hasPlace>
 
@@ -30221,6 +30239,8 @@ Zusampt einem angehenckten Tractätlein, von allerley gebrannten Wassern, welche
             <libreto:hasPlace>
               <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7011712">
                 <gn:name>Brüx</gn:name>
+                <geo:lat xml:lang="xsd:decimal">50.5167</geo:lat>
+                <geo:long xml:lang="xsd:decimal">13.65</geo:long>
               </libreto:Place>
             </libreto:hasPlace>
 
@@ -30467,6 +30487,8 @@ Dat boek dat men hiet Fasciculus temporum</dc:title>
             <libreto:hasPlace>
               <libreto:Place rdf:about="http://vocab.getty.edu/tgn/1036417">
                 <gn:name>Barth</gn:name>
+                <geo:lat xml:lang="xsd:decimal">54.366667</geo:lat>
+                <geo:long xml:lang="xsd:decimal">12.733333</geo:long>
               </libreto:Place>
             </libreto:hasPlace>
 
@@ -31714,7 +31736,7 @@ Item Elenchus Chronologicus Novus, per totam Sacram Scripturam Veteris &amp; Nov
             <dc:language xml:lang="iso6392">ger</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <dc:hasFormat>KEYPhttp://www.gbv.de/vd/vd17/39:124619R</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="http://vocab.getty.edu/tgn/7003127"/>
+            <libreto:hasPlace rdf:resource="http://vocab.getty.edu/tgn/7005286"/>
             <dc:creator>
               <libreto:Person rdf:about="http://d-nb.info/gnd/104348348">
                 <foaf:name>Calchum, Wilhelm von</foaf:name>
@@ -32055,8 +32077,8 @@ Accesserunt Variarum Dissertationum libri octo, ad authores illos intelligendos 
             <libreto:hasPlace>
               <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7017035">
                 <gn:name>Ingolstadt</gn:name>
-                <geo:lat xml:lang="xsd:decimal">48,7667</geo:lat>
-                <geo:long xml:lang="xsd:decimal">11,4333</geo:long>
+                <geo:lat xml:lang="xsd:decimal">48.7667</geo:lat>
+                <geo:long xml:lang="xsd:decimal">11.4333</geo:long>
               </libreto:Place>
             </libreto:hasPlace>
 
@@ -32861,8 +32883,8 @@ Accessere plenioris usus ergo. Tabulae Sinuum, Tangentium, Et Secantium / Ex Ope
             <libreto:hasPlace>
               <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7003085">
                 <gn:name>Padua</gn:name>
-                <geo:lat xml:lang="xsd:decimal">45,4167</geo:lat>
-                <geo:long xml:lang="xsd:decimal">11,8833</geo:long>
+                <geo:lat xml:lang="xsd:decimal">45.4167</geo:lat>
+                <geo:long xml:lang="xsd:decimal">11.8833</geo:long>
               </libreto:Place>
             </libreto:hasPlace>
 
@@ -32904,6 +32926,8 @@ Accessere plenioris usus ergo. Tabulae Sinuum, Tangentium, Et Secantium / Ex Ope
             <libreto:hasPlace>
               <libreto:Place rdf:about="http://vocab.getty.edu/tgn/1048861">
                 <gn:name>Sagan</gn:name>
+                <geo:lat xml:lang="xsd:decimal">51.6167</geo:lat>
+                <geo:long xml:lang="xsd:decimal">15.3333</geo:long>
               </libreto:Place>
             </libreto:hasPlace>
 
@@ -32944,6 +32968,8 @@ Accessere plenioris usus ergo. Tabulae Sinuum, Tangentium, Et Secantium / Ex Ope
             <libreto:hasPlace>
               <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7007015">
                 <gn:name>Harlingen</gn:name>
+                <geo:lat xml:lang="xsd:decimal">53.183333</geo:lat>
+                <geo:long xml:lang="xsd:decimal">5.416667</geo:long>
               </libreto:Place>
             </libreto:hasPlace>
 
@@ -34102,8 +34128,8 @@ Ausgabebezeichnung: M.D.LXXI.||[s.l.](Gedr#[ue]ckt zu K#[oe]nigs=||berg in Preus
             <libreto:hasPlace>
               <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7013050">
                 <gn:name>Königsberg</gn:name>
-                <geo:lat xml:lang="xsd:decimal">54,6667</geo:lat>
-                <geo:long xml:lang="xsd:decimal">20,5</geo:long>
+                <geo:lat xml:lang="xsd:decimal">54.6667</geo:lat>
+                <geo:long xml:lang="xsd:decimal">20.5</geo:long>
               </libreto:Place>
             </libreto:hasPlace>
 
@@ -37213,8 +37239,8 @@ Ausgabebezeichnung: COLONIAE AGRIPPINAE,|| Apud Haeredes Arnoldi Birckmanni.|| M
             <libreto:hasPlace>
               <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7003321">
                 <gn:name>Wien</gn:name>
-                <geo:lat xml:lang="xsd:decimal">48,2167</geo:lat>
-                <geo:long xml:lang="xsd:decimal">16,3667</geo:long>
+                <geo:lat xml:lang="xsd:decimal">48.2167</geo:lat>
+                <geo:long xml:lang="xsd:decimal">16.3667</geo:long>
               </libreto:Place>
             </libreto:hasPlace>
 
@@ -38645,6 +38671,8 @@ Jetzunder zum andernmal in Truck verfertiget/ und an vielen Orten verbessert / D
             <libreto:hasPlace>
               <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7003597">
                 <gn:name>Sorø</gn:name>
+                <geo:lat xml:lang="xsd:decimal">55.4333</geo:lat>
+                <geo:long xml:lang="xsd:decimal">11.5667</geo:long>
               </libreto:Place>
             </libreto:hasPlace>
 
@@ -39569,6 +39597,8 @@ Jetzunder zum andernmal in Truck verfertiget/ und an vielen Orten verbessert / D
             <libreto:hasPlace>
               <libreto:Place rdf:about="http://vocab.getty.edu/tgn/1039321">
                 <gn:name>Grebenstein</gn:name>
+                <geo:lat xml:lang="xsd:decimal">51.45</geo:lat>
+                <geo:long xml:lang="xsd:decimal">9.416667</geo:long>
               </libreto:Place>
             </libreto:hasPlace>
 
@@ -41040,7 +41070,7 @@ Iam Nunc Ab Autore denuo diligenter recognita ...</dc:title>
             <dc:language xml:lang="iso6392">lat</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Weiterer Drucker/Verleger: Thomas de Villiers Erben</libreto:comment>
-            <libreto:hasPlace rdf:resource="http://vocab.getty.edu/tgn/7003127"/>
+            <libreto:hasPlace rdf:resource="http://vocab.getty.edu/tgn/7005286"/>
             <dc:creator>
               <libreto:Person rdf:about="http://d-nb.info/gnd/11695423X">
                 <foaf:name>Neufville, Gerard de</foaf:name>
@@ -41366,7 +41396,7 @@ Anjetzo zum Andernmahl übersähen/ vermehrt/ und wiederumb in Druck gegäben / 
             <dbo:genre xml:lang="http://uri.gbv.de/terminology/aadgenres/">Rechenbuch</dbo:genre>
             <dc:language xml:lang="iso6392">ger</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
-            <libreto:hasPlace rdf:resource="http://vocab.getty.edu/tgn/7003127"/>
+            <libreto:hasPlace rdf:resource="http://vocab.getty.edu/tgn/7005286"/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/104240342"/>
             <libreto:hasManifestation>
               <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=2.1/PPNSET?PPN=817328424">
@@ -41522,8 +41552,8 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
             <libreto:hasPlace>
               <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7005938">
                 <gn:name>Gotha</gn:name>
-                <geo:lat xml:lang="xsd:decimal">50,95</geo:lat>
-                <geo:long xml:lang="xsd:decimal">10,7167</geo:long>
+                <geo:lat xml:lang="xsd:decimal">50.95</geo:lat>
+                <geo:long xml:lang="xsd:decimal">10.7167</geo:long>
               </libreto:Place>
             </libreto:hasPlace>
 
@@ -60824,8 +60854,8 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7004334">
     <gn:name>Nürnberg</gn:name>
-    <geo:lat xml:lang="xsd:decimal">49,449713</geo:lat>
-    <geo:long xml:lang="xsd:decimal">11,07634</geo:long>
+    <geo:lat xml:lang="xsd:decimal">49.447778</geo:lat>
+    <geo:long xml:lang="xsd:decimal">11.068333</geo:long>
   </libreto:Place>
 
   <libreto:Person rdf:about="http://d-nb.info/gnd/118575449">
@@ -60835,13 +60865,13 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7007279">
     <gn:name>Genf</gn:name>
-    <geo:lat xml:lang="xsd:decimal">46,2167</geo:lat>
-    <geo:long xml:lang="xsd:decimal">6,15</geo:long>
+    <geo:lat xml:lang="xsd:decimal">46.2167</geo:lat>
+    <geo:long xml:lang="xsd:decimal">6.15</geo:long>
   </libreto:Place>
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7005289">
     <gn:name>Hamburg</gn:name>
-    <geo:lat xml:lang="xsd:decimal">53,55</geo:lat>
+    <geo:lat xml:lang="xsd:decimal">53.55</geo:lat>
     <geo:long xml:lang="xsd:decimal">10</geo:long>
   </libreto:Place>
 
@@ -60851,27 +60881,27 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
   </libreto:Person>
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7005972">
-    <gn:name>Frankfurt/O.</gn:name>
-    <geo:lat xml:lang="xsd:decimal">52,35</geo:lat>
-    <geo:long xml:lang="xsd:decimal">14,55</geo:long>
+    <gn:name>Frankfurt an der Oder</gn:name>
+    <geo:lat xml:lang="xsd:decimal">52.35</geo:lat>
+    <geo:long xml:lang="xsd:decimal">14.55</geo:long>
   </libreto:Place>
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7012349">
     <gn:name>Wittenberg</gn:name>
-    <geo:lat xml:lang="xsd:decimal">51,8833</geo:lat>
-    <geo:long xml:lang="xsd:decimal">12,65</geo:long>
+    <geo:lat xml:lang="xsd:decimal">51.8833</geo:lat>
+    <geo:long xml:lang="xsd:decimal">12.65</geo:long>
   </libreto:Place>
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7006804">
     <gn:name>Delft</gn:name>
     <geo:lat xml:lang="xsd:decimal">52</geo:lat>
-    <geo:long xml:lang="xsd:decimal">4,3667</geo:long>
+    <geo:long xml:lang="xsd:decimal">4.3667</geo:long>
   </libreto:Place>
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7005293">
-    <gn:name>Frankfurt/M.</gn:name>
-    <geo:lat xml:lang="xsd:decimal">50,1167</geo:lat>
-    <geo:long xml:lang="xsd:decimal">8,6833</geo:long>
+    <gn:name>Frankfurt am Main</gn:name>
+    <geo:lat xml:lang="xsd:decimal">50.1167</geo:lat>
+    <geo:long xml:lang="xsd:decimal">8.6833</geo:long>
   </libreto:Place>
 
   <libreto:Person rdf:about="http://d-nb.info/gnd/119167360">
@@ -60881,32 +60911,32 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7007269">
     <gn:name>Basel</gn:name>
-    <geo:lat xml:lang="xsd:decimal">47,55</geo:lat>
-    <geo:long xml:lang="xsd:decimal">7,6</geo:long>
+    <geo:lat xml:lang="xsd:decimal">47.55</geo:lat>
+    <geo:long xml:lang="xsd:decimal">7.6</geo:long>
   </libreto:Place>
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7007856">
     <gn:name>Antwerpen</gn:name>
-    <geo:lat xml:lang="xsd:decimal">51,2139</geo:lat>
-    <geo:long xml:lang="xsd:decimal">4,4015</geo:long>
+    <geo:lat xml:lang="xsd:decimal">51.2139</geo:lat>
+    <geo:long xml:lang="xsd:decimal">4.4015</geo:long>
   </libreto:Place>
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7004456">
     <gn:name>Magdeburg</gn:name>
-    <geo:lat xml:lang="xsd:decimal">52,125861</geo:lat>
-    <geo:long xml:lang="xsd:decimal">11,632825</geo:long>
+    <geo:lat xml:lang="xsd:decimal">52.166667</geo:lat>
+    <geo:long xml:lang="xsd:decimal">11.666667</geo:long>
   </libreto:Place>
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7012346">
     <gn:name>Straßburg</gn:name>
-    <geo:lat xml:lang="xsd:decimal">48,5833</geo:lat>
-    <geo:long xml:lang="xsd:decimal">7,75</geo:long>
+    <geo:lat xml:lang="xsd:decimal">48.5833</geo:lat>
+    <geo:long xml:lang="xsd:decimal">7.75</geo:long>
   </libreto:Place>
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7006952">
     <gn:name>Amsterdam</gn:name>
-    <geo:lat xml:lang="xsd:decimal">52,35</geo:lat>
-    <geo:long xml:lang="xsd:decimal">4,9167</geo:long>
+    <geo:lat xml:lang="xsd:decimal">52.35</geo:lat>
+    <geo:long xml:lang="xsd:decimal">4.9167</geo:long>
   </libreto:Place>
 
   <libreto:Person rdf:about="http://d-nb.info/gnd/118621009">
@@ -60916,14 +60946,14 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7004446">
     <gn:name>Köln</gn:name>
-    <geo:lat xml:lang="xsd:decimal">50,9333</geo:lat>
-    <geo:long xml:lang="xsd:decimal">6,95</geo:long>
+    <geo:lat xml:lang="xsd:decimal">50.9333</geo:lat>
+    <geo:long xml:lang="xsd:decimal">6.95</geo:long>
   </libreto:Place>
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7012329">
     <gn:name>Leipzig</gn:name>
-    <geo:lat xml:lang="xsd:decimal">51,3333</geo:lat>
-    <geo:long xml:lang="xsd:decimal">12,4167</geo:long>
+    <geo:lat xml:lang="xsd:decimal">51.3333</geo:lat>
+    <geo:long xml:lang="xsd:decimal">12.4167</geo:long>
   </libreto:Place>
 
   <libreto:Person rdf:about="http://d-nb.info/gnd/118809563">
@@ -60967,8 +60997,8 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7007557">
     <gn:name>Bern</gn:name>
-    <geo:lat xml:lang="xsd:decimal">46,95</geo:lat>
-    <geo:long xml:lang="xsd:decimal">7,4333</geo:long>
+    <geo:lat xml:lang="xsd:decimal">46.95</geo:lat>
+    <geo:long xml:lang="xsd:decimal">7.4333</geo:long>
   </libreto:Place>
 
   <libreto:Manifestation rdf:about="http://gateway-bayern.de/VD16+F 2103">
@@ -60978,14 +61008,14 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7004324">
     <gn:name>Augsburg</gn:name>
-    <geo:lat xml:lang="xsd:decimal">48,3667</geo:lat>
-    <geo:long xml:lang="xsd:decimal">10,8833</geo:long>
+    <geo:lat xml:lang="xsd:decimal">48.3667</geo:lat>
+    <geo:long xml:lang="xsd:decimal">10.8833</geo:long>
   </libreto:Place>
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7005300">
     <gn:name>Emden</gn:name>
-    <geo:lat xml:lang="xsd:decimal">53,3667</geo:lat>
-    <geo:long xml:lang="xsd:decimal">7,2167</geo:long>
+    <geo:lat xml:lang="xsd:decimal">53.3667</geo:lat>
+    <geo:long xml:lang="xsd:decimal">7.2167</geo:long>
   </libreto:Place>
 
   <libreto:Manifestation rdf:about="http://gateway-bayern.de/VD16+ZV 20750">
@@ -61006,13 +61036,13 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7004449">
     <gn:name>Mainz</gn:name>
     <geo:lat xml:lang="xsd:decimal">50</geo:lat>
-    <geo:long xml:lang="xsd:decimal">8,2711</geo:long>
+    <geo:long xml:lang="xsd:decimal">8.2711</geo:long>
   </libreto:Place>
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7004426">
     <gn:name>Tübingen</gn:name>
-    <geo:lat xml:lang="xsd:decimal">48,5333</geo:lat>
-    <geo:long xml:lang="xsd:decimal">9,05</geo:long>
+    <geo:lat xml:lang="xsd:decimal">48.5333</geo:lat>
+    <geo:long xml:lang="xsd:decimal">9.05</geo:long>
   </libreto:Place>
 
   <libreto:Manifestation rdf:about="http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=067452779">
@@ -61036,8 +61066,8 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7006805">
     <gn:name>Gouda</gn:name>
-    <geo:lat xml:lang="xsd:decimal">52,0167</geo:lat>
-    <geo:long xml:lang="xsd:decimal">4,7</geo:long>
+    <geo:lat xml:lang="xsd:decimal">52.0167</geo:lat>
+    <geo:long xml:lang="xsd:decimal">4.7</geo:long>
   </libreto:Place>
 
   <libreto:Manifestation rdf:about="http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=860760987">
@@ -61047,8 +61077,8 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7006792">
     <gn:name>Rotterdam</gn:name>
-    <geo:lat xml:lang="xsd:decimal">51,9167</geo:lat>
-    <geo:long xml:lang="xsd:decimal">4,5</geo:long>
+    <geo:lat xml:lang="xsd:decimal">51.9167</geo:lat>
+    <geo:long xml:lang="xsd:decimal">4.5</geo:long>
   </libreto:Place>
 
   <libreto:Person rdf:about="http://d-nb.info/gnd/118585517">
@@ -61063,6 +61093,8 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/1037684">
     <gn:name>Schleusingen</gn:name>
+    <geo:lat xml:lang="xsd:decimal">50.516667</geo:lat>
+    <geo:long xml:lang="xsd:decimal">10.75</geo:long>
   </libreto:Place>
 
   <libreto:Person rdf:about="http://d-nb.info/gnd/118582038">
@@ -61091,9 +61123,9 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
   </libreto:Manifestation>
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/1036898">
-    <gn:name>Halle/S.</gn:name>
-    <geo:lat xml:lang="xsd:decimal">51,482573</geo:lat>
-    <geo:long xml:lang="xsd:decimal">11,97035</geo:long>
+    <gn:name>Halle (Saale)</gn:name>
+    <geo:lat xml:lang="xsd:decimal">51.5</geo:lat>
+    <geo:long xml:lang="xsd:decimal">12</geo:long>
   </libreto:Place>
 
   <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=3:004373K">
@@ -61151,8 +61183,8 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
     <dc:identifier>23:263455M</dc:identifier>
   </libreto:Manifestation>
 
-  <libreto:Place rdf:about="br:bahnsen/places/Newstatt+%5Bfingiert">
-    <gn:name>Newstatt [fingiert</gn:name>
+  <libreto:Place rdf:about="br:bahnsen/places/Newstatt+%28fingiert%29">
+    <gn:name>Newstatt (fingiert)</gn:name>
   </libreto:Place>
 
   <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=1:073039F">
@@ -61162,8 +61194,8 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7024031">
     <gn:name>Erfurt</gn:name>
-    <geo:lat xml:lang="xsd:decimal">50,9833</geo:lat>
-    <geo:long xml:lang="xsd:decimal">11,0333</geo:long>
+    <geo:lat xml:lang="xsd:decimal">50.9833</geo:lat>
+    <geo:long xml:lang="xsd:decimal">11.0333</geo:long>
   </libreto:Place>
 
   <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=23:271514C">
@@ -61184,14 +61216,14 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7004717">
     <gn:name>Rostock</gn:name>
-    <geo:lat xml:lang="xsd:decimal">54,0833</geo:lat>
-    <geo:long xml:lang="xsd:decimal">12,1333</geo:long>
+    <geo:lat xml:lang="xsd:decimal">54.0833</geo:lat>
+    <geo:long xml:lang="xsd:decimal">12.1333</geo:long>
   </libreto:Place>
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7012806">
     <gn:name>Eisleben</gn:name>
-    <geo:lat xml:lang="xsd:decimal">51,5333</geo:lat>
-    <geo:long xml:lang="xsd:decimal">11,55</geo:long>
+    <geo:lat xml:lang="xsd:decimal">51.5333</geo:lat>
+    <geo:long xml:lang="xsd:decimal">11.55</geo:long>
   </libreto:Place>
 
   <libreto:Person rdf:about="http://d-nb.info/gnd/119009137">
@@ -61201,8 +61233,8 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7004982">
     <gn:name>Dortmund</gn:name>
-    <geo:lat xml:lang="xsd:decimal">51,5167</geo:lat>
-    <geo:long xml:lang="xsd:decimal">7,45</geo:long>
+    <geo:lat xml:lang="xsd:decimal">51.5167</geo:lat>
+    <geo:long xml:lang="xsd:decimal">7.45</geo:long>
   </libreto:Place>
 
   <libreto:Person rdf:about="http://d-nb.info/gnd/117124974">
@@ -61230,8 +61262,8 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
     <dc:identifier>23135682X</dc:identifier>
   </libreto:Manifestation>
 
-  <libreto:Place rdf:about="br:bahnsen/places/Newenstatt+%5Bfingiert%3F">
-    <gn:name>Newenstatt [fingiert?</gn:name>
+  <libreto:Place rdf:about="br:bahnsen/places/Newenstatt+%28fingiert%3F%29">
+    <gn:name>Newenstatt (fingiert?)</gn:name>
   </libreto:Place>
 
   <libreto:Person rdf:about="http://d-nb.info/gnd/140038310">
@@ -61241,6 +61273,8 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7012700">
     <gn:name>Schleswig</gn:name>
+    <geo:lat xml:lang="xsd:decimal">54.516667</geo:lat>
+    <geo:long xml:lang="xsd:decimal">9.55</geo:long>
   </libreto:Place>
 
   <libreto:Person rdf:about="http://d-nb.info/gnd/118736256">
@@ -61255,8 +61289,8 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7004431">
     <gn:name>Kassel</gn:name>
-    <geo:lat xml:lang="xsd:decimal">51,314672</geo:lat>
-    <geo:long xml:lang="xsd:decimal">9,478124</geo:long>
+    <geo:lat xml:lang="xsd:decimal">51.316667</geo:lat>
+    <geo:long xml:lang="xsd:decimal">9.5</geo:long>
   </libreto:Place>
 
   <libreto:Person rdf:about="br:bahnsen/persons/Thombergius%2C+Herboldus">
@@ -61276,18 +61310,20 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7005939">
     <gn:name>Mühlhausen i. E.</gn:name>
     <gn:name>Mühlhausen (Thür.)</gn:name>
+    <geo:lat xml:lang="xsd:decimal">51.216667</geo:lat>
+    <geo:long xml:lang="xsd:decimal">10.45</geo:long>
   </libreto:Place>
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7006940">
     <gn:name>Deventer</gn:name>
-    <geo:lat xml:lang="xsd:decimal">52,25</geo:lat>
-    <geo:long xml:lang="xsd:decimal">6,2</geo:long>
+    <geo:lat xml:lang="xsd:decimal">52.25</geo:lat>
+    <geo:long xml:lang="xsd:decimal">6.2</geo:long>
   </libreto:Place>
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7004445">
     <gn:name>Münster</gn:name>
-    <geo:lat xml:lang="xsd:decimal">51,961088</geo:lat>
-    <geo:long xml:lang="xsd:decimal">7,618604</geo:long>
+    <geo:lat xml:lang="xsd:decimal">51.966667</geo:lat>
+    <geo:long xml:lang="xsd:decimal">7.633333</geo:long>
   </libreto:Place>
 
   <libreto:Person rdf:about="http://d-nb.info/gnd/104091061">
@@ -61302,8 +61338,8 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7007057">
     <gn:name>Alkmaar</gn:name>
-    <geo:lat xml:lang="xsd:decimal">52,6333</geo:lat>
-    <geo:long xml:lang="xsd:decimal">4,75</geo:long>
+    <geo:lat xml:lang="xsd:decimal">52.6333</geo:lat>
+    <geo:long xml:lang="xsd:decimal">4.75</geo:long>
   </libreto:Place>
 
   <libreto:Person rdf:about="http://d-nb.info/gnd/118519565">
@@ -61348,8 +61384,8 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7005295">
     <gn:name>Hanau</gn:name>
-    <geo:lat xml:lang="xsd:decimal">50,1333</geo:lat>
-    <geo:long xml:lang="xsd:decimal">8,9167</geo:long>
+    <geo:lat xml:lang="xsd:decimal">50.1333</geo:lat>
+    <geo:long xml:lang="xsd:decimal">8.9167</geo:long>
   </libreto:Place>
 
   <libreto:Person rdf:about="http://d-nb.info/gnd/120942151">
@@ -61379,8 +61415,8 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7004436">
     <gn:name>Lüneburg</gn:name>
-    <geo:lat xml:lang="xsd:decimal">53,25</geo:lat>
-    <geo:long xml:lang="xsd:decimal">10,4</geo:long>
+    <geo:lat xml:lang="xsd:decimal">53.25</geo:lat>
+    <geo:long xml:lang="xsd:decimal">10.4</geo:long>
   </libreto:Place>
 
   <libreto:Person rdf:about="http://d-nb.info/gnd/11643998X">
@@ -61415,8 +61451,8 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7007302">
     <gn:name>Zürich</gn:name>
-    <geo:lat xml:lang="xsd:decimal">47,3833</geo:lat>
-    <geo:long xml:lang="xsd:decimal">8,55</geo:long>
+    <geo:lat xml:lang="xsd:decimal">47.3833</geo:lat>
+    <geo:long xml:lang="xsd:decimal">8.55</geo:long>
   </libreto:Place>
 
   <libreto:Person rdf:about="http://d-nb.info/gnd/11879728X">
@@ -61447,8 +61483,8 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7008038">
     <gn:name>Paris</gn:name>
-    <geo:lat xml:lang="xsd:decimal">48,8667</geo:lat>
-    <geo:long xml:lang="xsd:decimal">2,3333</geo:long>
+    <geo:lat xml:lang="xsd:decimal">48.8667</geo:lat>
+    <geo:long xml:lang="xsd:decimal">2.3333</geo:long>
   </libreto:Place>
 
   <libreto:Manifestation rdf:about="http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=860914593">
@@ -61497,8 +61533,8 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7006810">
     <gn:name>Den Haag</gn:name>
-    <geo:lat xml:lang="xsd:decimal">52,0833</geo:lat>
-    <geo:long xml:lang="xsd:decimal">4,3</geo:long>
+    <geo:lat xml:lang="xsd:decimal">52.0833</geo:lat>
+    <geo:long xml:lang="xsd:decimal">4.3</geo:long>
   </libreto:Place>
 
   <libreto:Person rdf:about="http://d-nb.info/gnd/118517287">
@@ -61533,8 +61569,8 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7005108">
     <gn:name>Worms</gn:name>
-    <geo:lat xml:lang="xsd:decimal">49,6356</geo:lat>
-    <geo:long xml:lang="xsd:decimal">8,3597</geo:long>
+    <geo:lat xml:lang="xsd:decimal">49.6356</geo:lat>
+    <geo:long xml:lang="xsd:decimal">8.3597</geo:long>
   </libreto:Place>
 
   <libreto:Manifestation rdf:about="http://gateway-bayern.de/VD16+D 560">
@@ -61549,18 +61585,20 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7011781">
     <gn:name>London</gn:name>
-    <geo:lat xml:lang="xsd:decimal">51,5142</geo:lat>
-    <geo:long xml:lang="xsd:decimal">-0,0931</geo:long>
+    <geo:lat xml:lang="xsd:decimal">51.5142</geo:lat>
+    <geo:long xml:lang="xsd:decimal">-0.0931</geo:long>
   </libreto:Place>
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7177436">
     <gn:name>Hagenau</gn:name>
+    <geo:lat xml:lang="xsd:decimal">49.016111</geo:lat>
+    <geo:long xml:lang="xsd:decimal">9.74</geo:long>
   </libreto:Place>
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7006809">
     <gn:name>Leiden</gn:name>
-    <geo:lat xml:lang="xsd:decimal">52,15</geo:lat>
-    <geo:long xml:lang="xsd:decimal">4,5</geo:long>
+    <geo:lat xml:lang="xsd:decimal">52.15</geo:lat>
+    <geo:long xml:lang="xsd:decimal">4.5</geo:long>
   </libreto:Place>
 
   <libreto:Person rdf:about="http://d-nb.info/gnd/133461890">
@@ -61595,20 +61633,20 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/4007173">
     <gn:name>Middelburg</gn:name>
-    <geo:lat xml:lang="xsd:decimal">51,2561</geo:lat>
-    <geo:long xml:lang="xsd:decimal">3,416</geo:long>
+    <geo:lat xml:lang="xsd:decimal">51.2561</geo:lat>
+    <geo:long xml:lang="xsd:decimal">3.416</geo:long>
   </libreto:Place>
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7007006">
     <gn:name>Leeuwarden</gn:name>
-    <geo:lat xml:lang="xsd:decimal">53,2</geo:lat>
-    <geo:long xml:lang="xsd:decimal">5,7833</geo:long>
+    <geo:lat xml:lang="xsd:decimal">53.2</geo:lat>
+    <geo:long xml:lang="xsd:decimal">5.7833</geo:long>
   </libreto:Place>
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7006926">
     <gn:name>Utrecht</gn:name>
-    <geo:lat xml:lang="xsd:decimal">52,0833</geo:lat>
-    <geo:long xml:lang="xsd:decimal">5,1333</geo:long>
+    <geo:lat xml:lang="xsd:decimal">52.0833</geo:lat>
+    <geo:long xml:lang="xsd:decimal">5.1333</geo:long>
   </libreto:Place>
 
   <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=12:104668K">
@@ -61673,8 +61711,8 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7005630">
     <gn:name>Goslar</gn:name>
-    <geo:lat xml:lang="xsd:decimal">51,9</geo:lat>
-    <geo:long xml:lang="xsd:decimal">10,4333</geo:long>
+    <geo:lat xml:lang="xsd:decimal">51.9</geo:lat>
+    <geo:long xml:lang="xsd:decimal">10.4333</geo:long>
   </libreto:Place>
 
   <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=3:300622Z">
@@ -61684,8 +61722,8 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7005973">
     <gn:name>Jena</gn:name>
-    <geo:lat xml:lang="xsd:decimal">50,9333</geo:lat>
-    <geo:long xml:lang="xsd:decimal">11,5833</geo:long>
+    <geo:lat xml:lang="xsd:decimal">50.9333</geo:lat>
+    <geo:long xml:lang="xsd:decimal">11.5833</geo:long>
   </libreto:Place>
 
   <libreto:Manifestation rdf:about="http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=108915654">
@@ -61734,8 +61772,8 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7007048">
     <gn:name>Haarlem</gn:name>
-    <geo:lat xml:lang="xsd:decimal">52,3667</geo:lat>
-    <geo:long xml:lang="xsd:decimal">4,65</geo:long>
+    <geo:lat xml:lang="xsd:decimal">52.3667</geo:lat>
+    <geo:long xml:lang="xsd:decimal">4.65</geo:long>
   </libreto:Place>
 
   <libreto:Person rdf:about="http://d-nb.info/gnd/118793004">
@@ -61748,10 +61786,10 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
     <dc:identifier>146826434</dc:identifier>
   </libreto:Manifestation>
 
-  <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7003127">
+  <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7005286">
     <gn:name>Bremen</gn:name>
-    <geo:lat xml:lang="xsd:decimal">53,0833</geo:lat>
-    <geo:long xml:lang="xsd:decimal">8,8</geo:long>
+    <geo:lat xml:lang="xsd:decimal">53.083333</geo:lat>
+    <geo:long xml:lang="xsd:decimal">8.8</geo:long>
   </libreto:Place>
 
   <libreto:Person rdf:about="http://d-nb.info/gnd/102446822">
@@ -61776,8 +61814,8 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7008772">
     <gn:name>Lyon</gn:name>
-    <geo:lat xml:lang="xsd:decimal">45,7667</geo:lat>
-    <geo:long xml:lang="xsd:decimal">4,8333</geo:long>
+    <geo:lat xml:lang="xsd:decimal">45.7667</geo:lat>
+    <geo:long xml:lang="xsd:decimal">4.8333</geo:long>
   </libreto:Place>
 
   <libreto:Person rdf:about="http://d-nb.info/gnd/124676103">
@@ -61914,8 +61952,8 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7004425">
     <gn:name>Stuttgart</gn:name>
-    <geo:lat xml:lang="xsd:decimal">48,7667</geo:lat>
-    <geo:long xml:lang="xsd:decimal">9,1833</geo:long>
+    <geo:lat xml:lang="xsd:decimal">48.7667</geo:lat>
+    <geo:long xml:lang="xsd:decimal">9.1833</geo:long>
   </libreto:Place>
 
   <libreto:Person rdf:about="http://d-nb.info/gnd/118507036">
@@ -61970,7 +62008,7 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7012813">
     <gn:name>Görlitz</gn:name>
-    <geo:lat xml:lang="xsd:decimal">51,1667</geo:lat>
+    <geo:lat xml:lang="xsd:decimal">51.1667</geo:lat>
     <geo:long xml:lang="xsd:decimal">15</geo:long>
   </libreto:Place>
 
@@ -62031,8 +62069,8 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7003474">
     <gn:name>Kopenhagen</gn:name>
-    <geo:lat xml:lang="xsd:decimal">55,7167</geo:lat>
-    <geo:long xml:lang="xsd:decimal">12,5667</geo:long>
+    <geo:lat xml:lang="xsd:decimal">55.7167</geo:lat>
+    <geo:long xml:lang="xsd:decimal">12.5667</geo:long>
   </libreto:Place>
 
   <libreto:Person rdf:about="http://d-nb.info/gnd/121365034">
@@ -62142,8 +62180,8 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7006984">
     <gn:name>Groningen</gn:name>
-    <geo:lat xml:lang="xsd:decimal">53,2167</geo:lat>
-    <geo:long xml:lang="xsd:decimal">6,55</geo:long>
+    <geo:lat xml:lang="xsd:decimal">53.2167</geo:lat>
+    <geo:long xml:lang="xsd:decimal">6.55</geo:long>
   </libreto:Place>
 
   <libreto:Person rdf:about="http://d-nb.info/gnd/102520879">
@@ -62168,6 +62206,8 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7004439">
     <gn:name>Oldenburg</gn:name>
+    <geo:lat xml:lang="xsd:decimal">53</geo:lat>
+    <geo:long xml:lang="xsd:decimal">8</geo:long>
   </libreto:Place>
 
   <libreto:Person rdf:about="http://d-nb.info/gnd/118701215">
@@ -62272,6 +62312,8 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7009875">
     <gn:name>Uranienborg</gn:name>
+    <geo:lat xml:lang="xsd:decimal">55.9057932</geo:lat>
+    <geo:long xml:lang="xsd:decimal">12.6782824</geo:long>
   </libreto:Place>
 
   <libreto:Person rdf:about="http://d-nb.info/gnd/118598228">
@@ -62446,20 +62488,20 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7007016">
     <gn:name>Franeker</gn:name>
-    <geo:lat xml:lang="xsd:decimal">53,2</geo:lat>
-    <geo:long xml:lang="xsd:decimal">5,5333</geo:long>
+    <geo:lat xml:lang="xsd:decimal">53.2</geo:lat>
+    <geo:long xml:lang="xsd:decimal">5.5333</geo:long>
   </libreto:Place>
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7004455">
     <gn:name>Dresden</gn:name>
-    <geo:lat xml:lang="xsd:decimal">51,05</geo:lat>
-    <geo:long xml:lang="xsd:decimal">13,75</geo:long>
+    <geo:lat xml:lang="xsd:decimal">51.05</geo:lat>
+    <geo:long xml:lang="xsd:decimal">13.75</geo:long>
   </libreto:Place>
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7007809">
     <gn:name>Stettin</gn:name>
-    <geo:lat xml:lang="xsd:decimal">53,430617</geo:lat>
-    <geo:long xml:lang="xsd:decimal">14,547719</geo:long>
+    <geo:lat xml:lang="xsd:decimal">53.4167</geo:lat>
+    <geo:long xml:lang="xsd:decimal">14.5333</geo:long>
   </libreto:Place>
 
   <libreto:Person rdf:about="http://d-nb.info/gnd/116096055">
@@ -62499,8 +62541,8 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7018159">
     <gn:name>Venedig</gn:name>
-    <geo:lat xml:lang="xsd:decimal">45,4386</geo:lat>
-    <geo:long xml:lang="xsd:decimal">12,3267</geo:long>
+    <geo:lat xml:lang="xsd:decimal">45.4386</geo:lat>
+    <geo:long xml:lang="xsd:decimal">12.3267</geo:long>
   </libreto:Place>
 
   <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=2.1/PPNSET?PPN=151626898">
@@ -62534,8 +62576,8 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7007056">
     <gn:name>Hoorn</gn:name>
-    <geo:lat xml:lang="xsd:decimal">52,65</geo:lat>
-    <geo:long xml:lang="xsd:decimal">5,0667</geo:long>
+    <geo:lat xml:lang="xsd:decimal">52.65</geo:lat>
+    <geo:long xml:lang="xsd:decimal">5.0667</geo:long>
   </libreto:Place>
 
   <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=2.1/PPNSET?PPN=382468872">
@@ -62554,6 +62596,8 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7006876">
     <gn:name>Arnheim</gn:name>
+    <geo:lat xml:lang="xsd:decimal">51.983333</geo:lat>
+    <geo:long xml:lang="xsd:decimal">5.916667</geo:long>
   </libreto:Place>
 
   <libreto:Person rdf:about="http://d-nb.info/gnd/104240342">
@@ -62568,8 +62612,8 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7013260">
     <gn:name>Hannover</gn:name>
-    <geo:lat xml:lang="xsd:decimal">52,3667</geo:lat>
-    <geo:long xml:lang="xsd:decimal">9,7167</geo:long>
+    <geo:lat xml:lang="xsd:decimal">52.3667</geo:lat>
+    <geo:long xml:lang="xsd:decimal">9.7167</geo:long>
   </libreto:Place>
 
   <libreto:Person rdf:about="http://d-nb.info/gnd/117417092">
@@ -62584,8 +62628,8 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7004434">
     <gn:name>Braunschweig</gn:name>
-    <geo:lat xml:lang="xsd:decimal">52,2667</geo:lat>
-    <geo:long xml:lang="xsd:decimal">10,5333</geo:long>
+    <geo:lat xml:lang="xsd:decimal">52.2667</geo:lat>
+    <geo:long xml:lang="xsd:decimal">10.5333</geo:long>
   </libreto:Place>
 
   <libreto:Person rdf:about="http://d-nb.info/gnd/123253780">
@@ -62615,8 +62659,8 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
 
   <libreto:Place rdf:about="http://vocab.getty.edu/tgn/7007660">
     <gn:name>Danzig</gn:name>
-    <geo:lat xml:lang="xsd:decimal">54,3667</geo:lat>
-    <geo:long xml:lang="xsd:decimal">18,6833</geo:long>
+    <geo:lat xml:lang="xsd:decimal">54.3667</geo:lat>
+    <geo:long xml:lang="xsd:decimal">18.6833</geo:long>
   </libreto:Place>
 
   <libreto:Person rdf:about="http://d-nb.info/gnd/124367194">

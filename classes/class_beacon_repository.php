@@ -3,12 +3,11 @@
 class beacon_repository {
 
     public $errorMessages = array();
-    public $lastUpdate;
-    public $valid = false;
+    public $lastUpdate;    
     private $folder = 'beaconFiles';
     private $update_int = 1209600;
     private $filePermission = 0777;
-    private $user = '';
+    private $user = 'Dr. Hartmut Beyer, Wolfenbüttel';
     public $beacon_sources = array(
         'wkp' => array('label' => 'Wikipedia', 'location' => 'http://tools.wmflabs.org/persondata/beacon/dewiki.txt', 'target' => 'http://tools.wmflabs.org/persondata/redirect/gnd/de/{ID}'),
         'ddb' => array('label' => 'Deutsche Digitale Bibliothek', 'location' => 'https://www.archivportal-d.de/static/de/beacon-archivportal-persons.txt', 'target' => 'https://www.archivportal-d.de/person/gnd/{ID}'), 		
@@ -44,7 +43,8 @@ class beacon_repository {
         'kall' => array('label' => 'Kalliope Verbundkatalog', 'location' => 'http://kalliope.staatsbibliothek-berlin.de/beacon/beacon.txt', 'target' => 'http://kalliope.staatsbibliothek-berlin.de/de/eac?eac.id={ID}'),	
         'zdn' => array('label' => 'Zentrale Datenbank Nachlässe', 'location' => 'http://www.historische-kommission-muenchen-editionen.de/beacond/zdn.php?beacon', 'target' => 'http://www.historische-kommission-muenchen-editionen.de/beacond/zdn.php?pnd={ID}'), 
         'sf2' => array('label' => 'Schatullrechnungen Friedrichs des Großen', 'location' => 'http://www.historische-kommission-muenchen-editionen.de/beacond/friedrich_schatullrechnungen.php?beacon', 'target' => 'http://www.historische-kommission-muenchen-editionen.de/beacond/friedrich_schatullrechnungen.php?pnd={ID}'),	
-        'dta' => array('label' => 'Deutsches Textarchiv', 'location' => 'http://www.deutschestextarchiv.de/api/beacon', 'target' => 'http://www.deutschestextarchiv.de/api/pnd/{ID}'),
+        'fsh' => array('label' => 'Bio-bibliographisches Register zum Archiv der Franckeschen Stiftungen', 'location' => 'http://www.francke-halle.de/beacon/beacon.txt', 'target' => 'http://archiv.francke-halle.de/zeig_start.fau?prj=ifaust8_afst&dm=Archiv&listex=GND+&zeig={ID}'),
+		'dta' => array('label' => 'Deutsches Textarchiv', 'location' => 'http://www.deutschestextarchiv.de/api/beacon', 'target' => 'http://www.deutschestextarchiv.de/api/pnd/{ID}'),
         'cors' => array('label' => 'correspSearch – Verzeichnisse von Briefeditionen', 'location' => 'http://correspsearch.net/api/v1/gnd-beacon.xql?correspondent=all', 'target' => 'http://correspsearch.bbaw.de/search.xql?correspondent=http://d-nb.info/gnd/{ID}&l=de'),
         'muenz' => array('label' => 'Katalog des Münzkabinetts Staatliche Museen zu Berlin', 'location' => 'http://ww2.smb.museum/ikmk/beacon_gnd.php', 'target' => 'http://ww2.smb.museum/ikmk/filter_text.php?filter%5B0%5D%5Bfield%5D=gnd&filter%5B0%5D%5Btext%5D={ID}'),	
         'dpi' => array('label' => 'Digitaler Portraitindex', 'location' => 'http://www.portraitindex.de/pnd_beacon.txt', 'target' => 'http://www.portraitindex.de/dokumente/pnd/{ID}'),
@@ -56,21 +56,25 @@ class beacon_repository {
 
 // '' => array('label' => '', 'location' => '', 'target' => ''),
 
-    function __construct() {
-        $this->validate();
-        if ($this->valid != true) {
+
+    function __construct($update = true) {
+		$dateArchive = intval(file_get_contents($this->folder.'/changeDate'));
+		$this->lastUpdate = date('Y-m-d H:i:s', $dateArchive);		
+		if ($update == false) {
+			return;
+		}
+        elseif ($this->validate() == false) {
 			if (!is_dir($this->folder)) {
 				mkdir($this->folder, 0777);
 			}
             $this->update();            
         }
-        require('private/settings.php');
-        $this->user = $userAgentHTTP;
-        $dateArchive = intval(file_get_contents($this->folder.'/changeDate'));
-        $this->lastUpdate = date('Y-m-d H:i:s', $dateArchive);
-        if ((date('U') - $dateArchive) > $this->update_int) {
-            $this->update();
-        }        
+        else {
+            if ((date('U') - $dateArchive) > $this->update_int) {
+                $this->update();
+            }
+        }
+        
     }
 
     public function getLinks($gnd, $target = '') {
@@ -99,7 +103,7 @@ class beacon_repository {
         ini_set('user_agent', $this->user);
         foreach ($this->beacon_sources as $key => $source) {
             if (!copy($source['location'], $this->folder.'/'.$key)) {
-                echo 'Kopieren von '.$source['location'].' nach '.$this->folder.'/'.$key.' schlug fehl.';
+                echo 'Kopieren von '.$source['location'].' nach '.$this->folder.'/'.$key.' schlug fehl.<br />';
             }
             else {
                 chmod($this->folder.'/'.$key, $this->filePermission);
@@ -146,23 +150,26 @@ class beacon_repository {
     }
 
     private function validate() {
-        $status = null;
         if (!is_dir($this->folder)) {
-			throw new Exception('Ordner existiert nicht');
+			echo 'Ordner existiert nicht';
+            return(false);
         }
         if (!file_exists($this->folder.'/changeDate')) {
-			throw new Exception('changeDate existiert nicht');
+			echo 'changeDate existiert nicht';
+            return(false);
         }
         $date = intval(file_get_contents($this->folder.'/changeDate'));
         if ($date < 1400000000 or $date > date('U')) {
-			throw new Exception('changeDate ist nicht plausibel');
+			echo 'changeDate ist nicht plausibel';
+            return(false);
         }
         foreach ($this->beacon_sources as $key => $source) {
             if (!file_exists($this->folder.'/'.$key)) {
-				throw new Exception($key.' existiert nicht');
+				echo $key.' existiert nicht';
+                return(false);
             }
         }
-        $this->valid = true;
+        return(true);
     }
 
 }

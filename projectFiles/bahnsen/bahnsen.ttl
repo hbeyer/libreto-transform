@@ -18431,7 +18431,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Druckort fingiert. Erst 1621 erschienen?" ;
   dc:hasFormat "KEYPhttp://www.gbv.de/vd/vd17/1:073039F" ;
-  libreto:hasPlace <br:bahnsen/places/Newstatt+%5Bfingiert> ;
+  libreto:hasPlace <br:bahnsen/places/Newstatt+%28fingiert%29> ;
   dc:creator gnd:118630105 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=1:073039F> ;
   libreto:hasContext [
@@ -18453,7 +18453,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Buch 2, in VD17 1:073039F enth." ;
   dc:hasFormat "KEYPhttp://www.gbv.de/vd/vd17/1:073039F" ;
-  libreto:hasPlace <br:bahnsen/places/Newstatt+%5Bfingiert> ;
+  libreto:hasPlace <br:bahnsen/places/Newstatt+%28fingiert%29> ;
   dc:creator gnd:118630105 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=1:073039F> ;
   libreto:hasContext [
@@ -19689,7 +19689,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Sehr selten überliefert, nur ein Ex. in Hannover GWLB: T-A 3730 (Stück 7); vgl. Moller, Cimbria literata I, S. 360 (in 4°)" ;
-  libreto:hasPlace <br:bahnsen/places/Newenstatt+%5Bfingiert%3F> ;
+  libreto:hasPlace <br:bahnsen/places/Newenstatt+%28fingiert%3F%29> ;
   dc:creator gnd:140038310 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=231387903> ;
   libreto:hasContext [
@@ -19755,7 +19755,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Sehr selten überliefert, nur ein Ex. in Hannover GWLB: T-A 3730 (Stück 6)" ;
-  libreto:hasPlace <br:bahnsen/places/Newenstatt+%5Bfingiert%3F> ;
+  libreto:hasPlace <br:bahnsen/places/Newenstatt+%28fingiert%3F%29> ;
   dc:creator gnd:140038310 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=231385765> ;
   libreto:hasContext [
@@ -26294,7 +26294,7 @@ Darbey ein Schreiben vom Kriege/ an einen Leutenant ...""" ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   dc:hasFormat "KEYPhttp://www.gbv.de/vd/vd17/23:280101A" ;
-  libreto:hasPlace <http://vocab.getty.edu/tgn/7003127> ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7005286> ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=23:280101A> .
 
 <br:bahnsen/item_bahnsen549>
@@ -27649,7 +27649,7 @@ Sampt einem andern Tractätlin/ Von dem Schnee und Eyß ...""" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   dc:hasFormat "http://digital.slub-dresden.de/ppn323900143" ;
-  libreto:hasPlace <http://vocab.getty.edu/tgn/7003127> ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7005286> ;
   dc:creator gnd:115686150 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=14:681189B> .
 
@@ -32225,7 +32225,7 @@ Item Elenchus Chronologicus Novus, per totam Sacram Scripturam Veteris & Novi Te
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   dc:hasFormat "KEYPhttp://www.gbv.de/vd/vd17/39:124619R" ;
-  libreto:hasPlace <http://vocab.getty.edu/tgn/7003127> ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7005286> ;
   dc:creator gnd:104348348 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=39:124619R> .
 
@@ -36503,7 +36503,7 @@ Iam Nunc Ab Autore denuo diligenter recognita ...""" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Weiterer Drucker/Verleger: Thomas de Villiers Erben" ;
-  libreto:hasPlace <http://vocab.getty.edu/tgn/7003127> ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7005286> ;
   dc:creator gnd:11695423X ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=23:260655K> .
 
@@ -36649,7 +36649,7 @@ Anjetzo zum Andernmahl übersähen/ vermehrt/ und wiederumb in Druck gegäben / 
   dbo:genre "Rechenbuch"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
-  libreto:hasPlace <http://vocab.getty.edu/tgn/7003127> ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7005286> ;
   dc:creator gnd:104240342 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=817328424> .
 
@@ -44694,8 +44694,8 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
 <http://vocab.getty.edu/tgn/7004334>
   a libreto:Place ;
   gn:name "Nürnberg" ;
-  geo:lat "49,449713"@xsd:decimal ;
-  geo:long "11,07634"@xsd:decimal .
+  geo:lat "49.447778"@xsd:decimal ;
+  geo:long "11.068333"@xsd:decimal .
 
 gnd:118575449
   a libreto:Person ;
@@ -44710,19 +44710,19 @@ gnd:118575449
 <http://vocab.getty.edu/tgn/7007279>
   a libreto:Place ;
   gn:name "Genf" ;
-  geo:lat "46,2167"@xsd:decimal ;
-  geo:long "6,15"@xsd:decimal .
+  geo:lat "46.2167"@xsd:decimal ;
+  geo:long "6.15"@xsd:decimal .
 
 <http://vocab.getty.edu/tgn/7009264>
   a libreto:Place ;
   gn:name "La Rochelle" ;
-  geo:lat "46,1667"@xsd:decimal ;
-  geo:long "-1,15"@xsd:decimal .
+  geo:lat "46.1667"@xsd:decimal ;
+  geo:long "-1.15"@xsd:decimal .
 
 <http://vocab.getty.edu/tgn/7005289>
   a libreto:Place ;
   gn:name "Hamburg" ;
-  geo:lat "53,55"@xsd:decimal ;
+  geo:lat "53.55"@xsd:decimal ;
   geo:long "10"@xsd:decimal .
 
 gnd:121469182
@@ -44752,15 +44752,15 @@ gnd:128953543
 
 <http://vocab.getty.edu/tgn/7005972>
   a libreto:Place ;
-  gn:name "Frankfurt/O." ;
-  geo:lat "52,35"@xsd:decimal ;
-  geo:long "14,55"@xsd:decimal .
+  gn:name "Frankfurt an der Oder" ;
+  geo:lat "52.35"@xsd:decimal ;
+  geo:long "14.55"@xsd:decimal .
 
 <http://vocab.getty.edu/tgn/7012349>
   a libreto:Place ;
   gn:name "Wittenberg" ;
-  geo:lat "51,8833"@xsd:decimal ;
-  geo:long "12,65"@xsd:decimal .
+  geo:lat "51.8833"@xsd:decimal ;
+  geo:long "12.65"@xsd:decimal .
 
 <http://gateway-bayern.de/VD16+B 2880>
   a libreto:Manifestation ;
@@ -44771,7 +44771,7 @@ gnd:128953543
   a libreto:Place ;
   gn:name "Delft" ;
   geo:lat "52"@xsd:decimal ;
-  geo:long "4,3667"@xsd:decimal .
+  geo:long "4.3667"@xsd:decimal .
 
 <http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=840006861>
   a libreto:Manifestation ;
@@ -44780,9 +44780,9 @@ gnd:128953543
 
 <http://vocab.getty.edu/tgn/7005293>
   a libreto:Place ;
-  gn:name "Frankfurt/M." ;
-  geo:lat "50,1167"@xsd:decimal ;
-  geo:long "8,6833"@xsd:decimal .
+  gn:name "Frankfurt am Main" ;
+  geo:lat "50.1167"@xsd:decimal ;
+  geo:long "8.6833"@xsd:decimal .
 
 gnd:116270381
   a libreto:Person ;
@@ -44807,14 +44807,14 @@ gnd:119167360
 <http://vocab.getty.edu/tgn/7007269>
   a libreto:Place ;
   gn:name "Basel" ;
-  geo:lat "47,55"@xsd:decimal ;
-  geo:long "7,6"@xsd:decimal .
+  geo:lat "47.55"@xsd:decimal ;
+  geo:long "7.6"@xsd:decimal .
 
 <http://vocab.getty.edu/tgn/7007856>
   a libreto:Place ;
   gn:name "Antwerpen" ;
-  geo:lat "51,2139"@xsd:decimal ;
-  geo:long "4,4015"@xsd:decimal .
+  geo:lat "51.2139"@xsd:decimal ;
+  geo:long "4.4015"@xsd:decimal .
 
 <http://gso.gbv.de/DB=2.1/PPNSET?PPN=151851387>
   a libreto:Manifestation ;
@@ -44824,8 +44824,8 @@ gnd:119167360
 <http://vocab.getty.edu/tgn/7004456>
   a libreto:Place ;
   gn:name "Magdeburg" ;
-  geo:lat "52,125861"@xsd:decimal ;
-  geo:long "11,632825"@xsd:decimal .
+  geo:lat "52.166667"@xsd:decimal ;
+  geo:long "11.666667"@xsd:decimal .
 
 <http://gateway-bayern.de/VD16+L 3957>
   a libreto:Manifestation ;
@@ -44840,8 +44840,8 @@ gnd:119167360
 <http://vocab.getty.edu/tgn/7012346>
   a libreto:Place ;
   gn:name "Straßburg" ;
-  geo:lat "48,5833"@xsd:decimal ;
-  geo:long "7,75"@xsd:decimal .
+  geo:lat "48.5833"@xsd:decimal ;
+  geo:long "7.75"@xsd:decimal .
 
 <http://gateway-bayern.de/VD16+L 5602>
   a libreto:Manifestation ;
@@ -44856,8 +44856,8 @@ gnd:119167360
 <http://vocab.getty.edu/tgn/7006952>
   a libreto:Place ;
   gn:name "Amsterdam" ;
-  geo:lat "52,35"@xsd:decimal ;
-  geo:long "4,9167"@xsd:decimal .
+  geo:lat "52.35"@xsd:decimal ;
+  geo:long "4.9167"@xsd:decimal .
 
 gnd:118621009
   a libreto:Person ;
@@ -44872,8 +44872,8 @@ gnd:118621009
 <http://vocab.getty.edu/tgn/7004446>
   a libreto:Place ;
   gn:name "Köln" ;
-  geo:lat "50,9333"@xsd:decimal ;
-  geo:long "6,95"@xsd:decimal .
+  geo:lat "50.9333"@xsd:decimal ;
+  geo:long "6.95"@xsd:decimal .
 
 <http://gateway-bayern.de/VD16+J 777>
   a libreto:Manifestation ;
@@ -44903,8 +44903,8 @@ gnd:1055343830
 <http://vocab.getty.edu/tgn/7012329>
   a libreto:Place ;
   gn:name "Leipzig" ;
-  geo:lat "51,3333"@xsd:decimal ;
-  geo:long "12,4167"@xsd:decimal .
+  geo:lat "51.3333"@xsd:decimal ;
+  geo:long "12.4167"@xsd:decimal .
 
 gnd:119148218
   a libreto:Person ;
@@ -45012,7 +45012,9 @@ gnd:11854988X
 
 <http://vocab.getty.edu/tgn/7012653>
   a libreto:Place ;
-  gn:name "Pforzheim" .
+  gn:name "Pforzheim" ;
+  geo:lat "48.883333"@xsd:decimal ;
+  geo:long "8.7"@xsd:decimal .
 
 gnd:11853467X
   a libreto:Person ;
@@ -45032,8 +45034,8 @@ gnd:11853467X
 <http://vocab.getty.edu/tgn/7007557>
   a libreto:Place ;
   gn:name "Bern" ;
-  geo:lat "46,95"@xsd:decimal ;
-  geo:long "7,4333"@xsd:decimal .
+  geo:lat "46.95"@xsd:decimal ;
+  geo:long "7.4333"@xsd:decimal .
 
 <http://gateway-bayern.de/VD16+F 2103>
   a libreto:Manifestation ;
@@ -45043,8 +45045,8 @@ gnd:11853467X
 <http://vocab.getty.edu/tgn/7004324>
   a libreto:Place ;
   gn:name "Augsburg" ;
-  geo:lat "48,3667"@xsd:decimal ;
-  geo:long "10,8833"@xsd:decimal .
+  geo:lat "48.3667"@xsd:decimal ;
+  geo:long "10.8833"@xsd:decimal .
 
 <http://gateway-bayern.de/VD16+F 2101>
   a libreto:Manifestation ;
@@ -45054,8 +45056,8 @@ gnd:11853467X
 <http://vocab.getty.edu/tgn/7005300>
   a libreto:Place ;
   gn:name "Emden" ;
-  geo:lat "53,3667"@xsd:decimal ;
-  geo:long "7,2167"@xsd:decimal .
+  geo:lat "53.3667"@xsd:decimal ;
+  geo:long "7.2167"@xsd:decimal .
 
 <http://gateway-bayern.de/VD16+ZV 20750>
   a libreto:Manifestation ;
@@ -45081,7 +45083,7 @@ gnd:118590235
   a libreto:Place ;
   gn:name "Mainz" ;
   geo:lat "50"@xsd:decimal ;
-  geo:long "8,2711"@xsd:decimal .
+  geo:long "8.2711"@xsd:decimal .
 
 gnd:118513249
   a libreto:Person ;
@@ -45096,8 +45098,8 @@ gnd:123437393
 <http://vocab.getty.edu/tgn/7004426>
   a libreto:Place ;
   gn:name "Tübingen" ;
-  geo:lat "48,5333"@xsd:decimal ;
-  geo:long "9,05"@xsd:decimal .
+  geo:lat "48.5333"@xsd:decimal ;
+  geo:long "9.05"@xsd:decimal .
 
 <http://gateway-bayern.de/VD16+B 2669>
   a libreto:Manifestation ;
@@ -45156,8 +45158,8 @@ gnd:122006690
 <http://vocab.getty.edu/tgn/7006805>
   a libreto:Place ;
   gn:name "Gouda" ;
-  geo:lat "52,0167"@xsd:decimal ;
-  geo:long "4,7"@xsd:decimal .
+  geo:lat "52.0167"@xsd:decimal ;
+  geo:long "4.7"@xsd:decimal .
 
 <http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=860760987>
   a libreto:Manifestation ;
@@ -45167,8 +45169,8 @@ gnd:122006690
 <http://vocab.getty.edu/tgn/7006792>
   a libreto:Place ;
   gn:name "Rotterdam" ;
-  geo:lat "51,9167"@xsd:decimal ;
-  geo:long "4,5"@xsd:decimal .
+  geo:lat "51.9167"@xsd:decimal ;
+  geo:long "4.5"@xsd:decimal .
 
 <http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=056564899>
   a libreto:Manifestation ;
@@ -45227,7 +45229,9 @@ gnd:121289907
 
 <http://vocab.getty.edu/tgn/1037684>
   a libreto:Place ;
-  gn:name "Schleusingen" .
+  gn:name "Schleusingen" ;
+  geo:lat "50.516667"@xsd:decimal ;
+  geo:long "10.75"@xsd:decimal .
 
 gnd:118582038
   a libreto:Person ;
@@ -45256,9 +45260,9 @@ gnd:118630105
 
 <http://vocab.getty.edu/tgn/1036898>
   a libreto:Place ;
-  gn:name "Halle/S." ;
-  geo:lat "51,482573"@xsd:decimal ;
-  geo:long "11,97035"@xsd:decimal .
+  gn:name "Halle (Saale)" ;
+  geo:lat "51.5"@xsd:decimal ;
+  geo:long "12"@xsd:decimal .
 
 <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=3:004373K>
   a libreto:Manifestation ;
@@ -45330,9 +45334,9 @@ gnd:11859169X
   libreto:database "Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)" ;
   dc:identifier "3:004379E" .
 
-<br:bahnsen/places/Newstatt+%5Bfingiert>
+<br:bahnsen/places/Newstatt+%28fingiert%29>
   a libreto:Place ;
-  gn:name "Newstatt [fingiert" .
+  gn:name "Newstatt (fingiert)" .
 
 <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=1:073039F>
   a libreto:Manifestation ;
@@ -45347,8 +45351,8 @@ gnd:11859169X
 <http://vocab.getty.edu/tgn/7024031>
   a libreto:Place ;
   gn:name "Erfurt" ;
-  geo:lat "50,9833"@xsd:decimal ;
-  geo:long "11,0333"@xsd:decimal .
+  geo:lat "50.9833"@xsd:decimal ;
+  geo:long "11.0333"@xsd:decimal .
 
 <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=23:271514C>
   a libreto:Manifestation ;
@@ -45459,8 +45463,8 @@ gnd:121333272
 <http://vocab.getty.edu/tgn/7004717>
   a libreto:Place ;
   gn:name "Rostock" ;
-  geo:lat "54,0833"@xsd:decimal ;
-  geo:long "12,1333"@xsd:decimal .
+  geo:lat "54.0833"@xsd:decimal ;
+  geo:long "12.1333"@xsd:decimal .
 
 gnd:121761142
   a libreto:Person ;
@@ -45475,8 +45479,8 @@ gnd:121761142
 <http://vocab.getty.edu/tgn/7012806>
   a libreto:Place ;
   gn:name "Eisleben" ;
-  geo:lat "51,5333"@xsd:decimal ;
-  geo:long "11,55"@xsd:decimal .
+  geo:lat "51.5333"@xsd:decimal ;
+  geo:long "11.55"@xsd:decimal .
 
 gnd:119009137
   a libreto:Person ;
@@ -45496,8 +45500,8 @@ gnd:104278439
 <http://vocab.getty.edu/tgn/7004982>
   a libreto:Place ;
   gn:name "Dortmund" ;
-  geo:lat "51,5167"@xsd:decimal ;
-  geo:long "7,45"@xsd:decimal .
+  geo:lat "51.5167"@xsd:decimal ;
+  geo:long "7.45"@xsd:decimal .
 
 gnd:124596592
   a libreto:Person ;
@@ -45531,7 +45535,9 @@ gnd:129689440
 
 <http://vocab.getty.edu/tgn/7012851>
   a libreto:Place ;
-  gn:name "Nordhausen" .
+  gn:name "Nordhausen" ;
+  geo:lat "51.516667"@xsd:decimal ;
+  geo:long "10.8"@xsd:decimal .
 
 <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=75:646724R>
   a libreto:Manifestation ;
@@ -45568,9 +45574,9 @@ gnd:121392309
   libreto:database "Gemeinsamer Bibliotheksverbund (GBV)" ;
   dc:identifier "23135682X" .
 
-<br:bahnsen/places/Newenstatt+%5Bfingiert%3F>
+<br:bahnsen/places/Newenstatt+%28fingiert%3F%29>
   a libreto:Place ;
-  gn:name "Newenstatt [fingiert?" .
+  gn:name "Newenstatt (fingiert?)" .
 
 gnd:140038310
   a libreto:Person ;
@@ -45634,7 +45640,7 @@ gnd:124744885
 <http://vocab.getty.edu/tgn/7003262>
   a libreto:Place ;
   gn:name "Verona" ;
-  geo:lat "45,45"@xsd:decimal ;
+  geo:lat "45.45"@xsd:decimal ;
   geo:long "11"@xsd:decimal .
 
 gnd:128592907
@@ -45664,7 +45670,9 @@ gnd:122171357
 
 <http://vocab.getty.edu/tgn/7012700>
   a libreto:Place ;
-  gn:name "Schleswig" .
+  gn:name "Schleswig" ;
+  geo:lat "54.516667"@xsd:decimal ;
+  geo:long "9.55"@xsd:decimal .
 
 gnd:118736256
   a libreto:Person ;
@@ -45699,8 +45707,8 @@ gnd:11546364X
 <http://vocab.getty.edu/tgn/7004431>
   a libreto:Place ;
   gn:name "Kassel" ;
-  geo:lat "51,314672"@xsd:decimal ;
-  geo:long "9,478124"@xsd:decimal .
+  geo:lat "51.316667"@xsd:decimal ;
+  geo:long "9.5"@xsd:decimal .
 
 gnd:104319402
   a libreto:Person ;
@@ -45764,8 +45772,8 @@ gnd:122558464
 <http://vocab.getty.edu/tgn/7012892>
   a libreto:Place ;
   gn:name "Zerbst" ;
-  geo:lat "51,9667"@xsd:decimal ;
-  geo:long "12,0833"@xsd:decimal .
+  geo:lat "51.9667"@xsd:decimal ;
+  geo:long "12.0833"@xsd:decimal .
 
 gnd:11962785X
   a libreto:Person ;
@@ -45839,7 +45847,9 @@ gnd:120159198
 
 <http://vocab.getty.edu/tgn/7005939>
   a libreto:Place ;
-  gn:name "Mühlhausen i. E.", "Mühlhausen (Thür.)" .
+  gn:name "Mühlhausen i. E.", "Mühlhausen (Thür.)" ;
+  geo:lat "51.216667"@xsd:decimal ;
+  geo:long "10.45"@xsd:decimal .
 
 gnd:119639661
   a libreto:Person ;
@@ -45869,8 +45879,8 @@ gnd:104041196
 <http://vocab.getty.edu/tgn/7006940>
   a libreto:Place ;
   gn:name "Deventer" ;
-  geo:lat "52,25"@xsd:decimal ;
-  geo:long "6,2"@xsd:decimal .
+  geo:lat "52.25"@xsd:decimal ;
+  geo:long "6.2"@xsd:decimal .
 
 <http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=297931776>
   a libreto:Manifestation ;
@@ -45880,8 +45890,8 @@ gnd:104041196
 <http://vocab.getty.edu/tgn/7004445>
   a libreto:Place ;
   gn:name "Münster" ;
-  geo:lat "51,961088"@xsd:decimal ;
-  geo:long "7,618604"@xsd:decimal .
+  geo:lat "51.966667"@xsd:decimal ;
+  geo:long "7.633333"@xsd:decimal .
 
 gnd:104091061
   a libreto:Person ;
@@ -45924,7 +45934,9 @@ gnd:118516507
 
 <http://vocab.getty.edu/tgn/7007077>
   a libreto:Place ;
-  gn:name "Zwolle" .
+  gn:name "Zwolle" ;
+  geo:lat "52.5"@xsd:decimal ;
+  geo:long "6.083333"@xsd:decimal .
 
 gnd:124852599
   a libreto:Person ;
@@ -45974,8 +45986,8 @@ gnd:122688309
 <http://vocab.getty.edu/tgn/7007057>
   a libreto:Place ;
   gn:name "Alkmaar" ;
-  geo:lat "52,6333"@xsd:decimal ;
-  geo:long "4,75"@xsd:decimal .
+  geo:lat "52.6333"@xsd:decimal ;
+  geo:long "4.75"@xsd:decimal .
 
 gnd:116139374
   a libreto:Person ;
@@ -46044,8 +46056,8 @@ gnd:118521691
 <http://vocab.getty.edu/tgn/7007064>
   a libreto:Place ;
   gn:name "Enkhuizen" ;
-  geo:lat "52,7167"@xsd:decimal ;
-  geo:long "5,2833"@xsd:decimal .
+  geo:lat "52.7167"@xsd:decimal ;
+  geo:long "5.2833"@xsd:decimal .
 
 gnd:102210675
   a libreto:Person ;
@@ -46080,8 +46092,8 @@ gnd:118530666
 <http://vocab.getty.edu/tgn/7006798>
   a libreto:Place ;
   gn:name "Dordrecht" ;
-  geo:lat "51,8"@xsd:decimal ;
-  geo:long "4,6667"@xsd:decimal .
+  geo:lat "51.8"@xsd:decimal ;
+  geo:long "4.6667"@xsd:decimal .
 
 gnd:104320990
   a libreto:Person ;
@@ -46116,8 +46128,8 @@ gnd:123866154
 <http://vocab.getty.edu/tgn/7005295>
   a libreto:Place ;
   gn:name "Hanau" ;
-  geo:lat "50,1333"@xsd:decimal ;
-  geo:long "8,9167"@xsd:decimal .
+  geo:lat "50.1333"@xsd:decimal ;
+  geo:long "8.9167"@xsd:decimal .
 
 <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=3:612582B>
   a libreto:Manifestation ;
@@ -46167,8 +46179,8 @@ gnd:118642766
 <http://vocab.getty.edu/tgn/7004436>
   a libreto:Place ;
   gn:name "Lüneburg" ;
-  geo:lat "53,25"@xsd:decimal ;
-  geo:long "10,4"@xsd:decimal .
+  geo:lat "53.25"@xsd:decimal ;
+  geo:long "10.4"@xsd:decimal .
 
 gnd:118596128
   a libreto:Person ;
@@ -46259,8 +46271,8 @@ gnd:179169939
 <http://vocab.getty.edu/tgn/1048257>
   a libreto:Place ;
   gn:name "Wormerveer" ;
-  geo:lat "52,5"@xsd:decimal ;
-  geo:long "4,7833"@xsd:decimal .
+  geo:lat "52.5"@xsd:decimal ;
+  geo:long "4.7833"@xsd:decimal .
 
 gnd:139182977
   a libreto:Person ;
@@ -46305,8 +46317,8 @@ gnd:122307399
 <http://vocab.getty.edu/tgn/7007302>
   a libreto:Place ;
   gn:name "Zürich" ;
-  geo:lat "47,3833"@xsd:decimal ;
-  geo:long "8,55"@xsd:decimal .
+  geo:lat "47.3833"@xsd:decimal ;
+  geo:long "8.55"@xsd:decimal .
 
 gnd:11879728X
   a libreto:Person ;
@@ -46387,8 +46399,8 @@ gnd:119354780
 <http://vocab.getty.edu/tgn/7008038>
   a libreto:Place ;
   gn:name "Paris" ;
-  geo:lat "48,8667"@xsd:decimal ;
-  geo:long "2,3333"@xsd:decimal .
+  geo:lat "48.8667"@xsd:decimal ;
+  geo:long "2.3333"@xsd:decimal .
 
 gnd:118649817
   a libreto:Person ;
@@ -46436,7 +46448,9 @@ gnd:118870874
 
 <http://vocab.getty.edu/tgn/1040112>
   a libreto:Place ;
-  gn:name "Lich" .
+  gn:name "Lich" ;
+  geo:lat "50.516667"@xsd:decimal ;
+  geo:long "8.833333"@xsd:decimal .
 
 gnd:118801996
   a libreto:Person ;
@@ -46550,8 +46564,8 @@ gnd:117643246
 <http://vocab.getty.edu/tgn/7012317>
   a libreto:Place ;
   gn:name "Halberstadt" ;
-  geo:lat "51,9"@xsd:decimal ;
-  geo:long "11,05"@xsd:decimal .
+  geo:lat "51.9"@xsd:decimal ;
+  geo:long "11.05"@xsd:decimal .
 
 <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=35:721117Y>
   a libreto:Manifestation ;
@@ -46624,8 +46638,8 @@ gnd:118502883
 <http://vocab.getty.edu/tgn/7006810>
   a libreto:Place ;
   gn:name "Den Haag" ;
-  geo:lat "52,0833"@xsd:decimal ;
-  geo:long "4,3"@xsd:decimal .
+  geo:lat "52.0833"@xsd:decimal ;
+  geo:long "4.3"@xsd:decimal .
 
 <http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=15975805X>
   a libreto:Manifestation ;
@@ -46753,8 +46767,8 @@ gnd:116883391
 <http://vocab.getty.edu/tgn/7007949>
   a libreto:Place ;
   gn:name "Löwen" ;
-  geo:lat "50,8833"@xsd:decimal ;
-  geo:long "4,7"@xsd:decimal .
+  geo:lat "50.8833"@xsd:decimal ;
+  geo:long "4.7"@xsd:decimal .
 
 gnd:121897427
   a libreto:Person ;
@@ -46794,8 +46808,8 @@ gnd:118647377
 <http://vocab.getty.edu/tgn/7005108>
   a libreto:Place ;
   gn:name "Worms" ;
-  geo:lat "49,6356"@xsd:decimal ;
-  geo:long "8,3597"@xsd:decimal .
+  geo:lat "49.6356"@xsd:decimal ;
+  geo:long "8.3597"@xsd:decimal .
 
 <http://gateway-bayern.de/VD16+D 560>
   a libreto:Manifestation ;
@@ -46854,8 +46868,8 @@ gnd:123444934
 <http://vocab.getty.edu/tgn/7011781>
   a libreto:Place ;
   gn:name "London" ;
-  geo:lat "51,5142"@xsd:decimal ;
-  geo:long "-0,0931"@xsd:decimal .
+  geo:lat "51.5142"@xsd:decimal ;
+  geo:long "-0.0931"@xsd:decimal .
 
 gnd:136456421
   a libreto:Person ;
@@ -46908,13 +46922,15 @@ gnd:124408494
 
 <http://vocab.getty.edu/tgn/7177436>
   a libreto:Place ;
-  gn:name "Hagenau" .
+  gn:name "Hagenau" ;
+  geo:lat "49.016111"@xsd:decimal ;
+  geo:long "9.74"@xsd:decimal .
 
 <http://vocab.getty.edu/tgn/7006809>
   a libreto:Place ;
   gn:name "Leiden" ;
-  geo:lat "52,15"@xsd:decimal ;
-  geo:long "4,5"@xsd:decimal .
+  geo:lat "52.15"@xsd:decimal ;
+  geo:long "4.5"@xsd:decimal .
 
 gnd:117632058
   a libreto:Person ;
@@ -47078,8 +47094,8 @@ gnd:118855050
 <http://vocab.getty.edu/tgn/7012354>
   a libreto:Place ;
   gn:name "Zwickau" ;
-  geo:lat "50,7333"@xsd:decimal ;
-  geo:long "12,5"@xsd:decimal .
+  geo:lat "50.7333"@xsd:decimal ;
+  geo:long "12.5"@xsd:decimal .
 
 <http://gateway-bayern.de/VD16+B 3992>
   a libreto:Manifestation ;
@@ -47129,8 +47145,8 @@ gnd:118684531
 <http://vocab.getty.edu/tgn/4007173>
   a libreto:Place ;
   gn:name "Middelburg" ;
-  geo:lat "51,2561"@xsd:decimal ;
-  geo:long "3,416"@xsd:decimal .
+  geo:lat "51.2561"@xsd:decimal ;
+  geo:long "3.416"@xsd:decimal .
 
 <br:bahnsen/persons/Haerlem%2C+Floris+van>
   a libreto:Person ;
@@ -47148,8 +47164,8 @@ gnd:118684531
 <http://vocab.getty.edu/tgn/7007006>
   a libreto:Place ;
   gn:name "Leeuwarden" ;
-  geo:lat "53,2"@xsd:decimal ;
-  geo:long "5,7833"@xsd:decimal .
+  geo:lat "53.2"@xsd:decimal ;
+  geo:long "5.7833"@xsd:decimal .
 
 gnd:129728446
   a libreto:Person ;
@@ -47189,8 +47205,8 @@ gnd:123032326
 <http://vocab.getty.edu/tgn/7006926>
   a libreto:Place ;
   gn:name "Utrecht" ;
-  geo:lat "52,0833"@xsd:decimal ;
-  geo:long "5,1333"@xsd:decimal .
+  geo:lat "52.0833"@xsd:decimal ;
+  geo:long "5.1333"@xsd:decimal .
 
 <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=1:053068M>
   a libreto:Manifestation ;
@@ -47418,8 +47434,8 @@ gnd:130075752
 <http://vocab.getty.edu/tgn/7005630>
   a libreto:Place ;
   gn:name "Goslar" ;
-  geo:lat "51,9"@xsd:decimal ;
-  geo:long "10,4333"@xsd:decimal .
+  geo:lat "51.9"@xsd:decimal ;
+  geo:long "10.4333"@xsd:decimal .
 
 gnd:118671928
   a libreto:Person ;
@@ -47502,8 +47518,8 @@ gnd:172611415
 <http://vocab.getty.edu/tgn/7005973>
   a libreto:Place ;
   gn:name "Jena" ;
-  geo:lat "50,9333"@xsd:decimal ;
-  geo:long "11,5833"@xsd:decimal .
+  geo:lat "50.9333"@xsd:decimal ;
+  geo:long "11.5833"@xsd:decimal .
 
 gnd:118538624
   a libreto:Person ;
@@ -47601,8 +47617,8 @@ gnd:118853805
 <http://vocab.getty.edu/tgn/7012327>
   a libreto:Place ;
   gn:name "Lübeck" ;
-  geo:lat "53,8667"@xsd:decimal ;
-  geo:long "10,7"@xsd:decimal .
+  geo:lat "53.8667"@xsd:decimal ;
+  geo:long "10.7"@xsd:decimal .
 
 <http://gateway-bayern.de/VD16+E 3469>
   a libreto:Manifestation ;
@@ -47651,7 +47667,9 @@ gnd:128533986
 
 <http://vocab.getty.edu/tgn/7008589>
   a libreto:Place ;
-  gn:name "Vianen" .
+  gn:name "Vianen" ;
+  geo:lat "45.524785"@xsd:decimal ;
+  geo:long "4.873453"@xsd:decimal .
 
 <br:bahnsen/persons/Zanchius%2C+Hieronymus>
   a libreto:Person ;
@@ -47665,8 +47683,8 @@ gnd:128533986
 <http://vocab.getty.edu/tgn/7003712>
   a libreto:Place ;
   gn:name "Berlin" ;
-  geo:lat "52,517413"@xsd:decimal ;
-  geo:long "13,405961"@xsd:decimal .
+  geo:lat "52.516667"@xsd:decimal ;
+  geo:long "13.4"@xsd:decimal .
 
 gnd:121745554
   a libreto:Person ;
@@ -47724,8 +47742,8 @@ gnd:11873475X
 <http://vocab.getty.edu/tgn/7007048>
   a libreto:Place ;
   gn:name "Haarlem" ;
-  geo:lat "52,3667"@xsd:decimal ;
-  geo:long "4,65"@xsd:decimal .
+  geo:lat "52.3667"@xsd:decimal ;
+  geo:long "4.65"@xsd:decimal .
 
 gnd:116652039
   a libreto:Person ;
@@ -47802,11 +47820,11 @@ gnd:129122815
   libreto:database "Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)" ;
   dc:identifier "39:118079M" .
 
-<http://vocab.getty.edu/tgn/7003127>
+<http://vocab.getty.edu/tgn/7005286>
   a libreto:Place ;
   gn:name "Bremen" ;
-  geo:lat "53,0833"@xsd:decimal ;
-  geo:long "8,8"@xsd:decimal .
+  geo:lat "53.083333"@xsd:decimal ;
+  geo:long "8.8"@xsd:decimal .
 
 <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=23:280101A>
   a libreto:Manifestation ;
@@ -47819,7 +47837,9 @@ gnd:129122815
 
 <http://vocab.getty.edu/tgn/1040922>
   a libreto:Place ;
-  gn:name "Rinteln" .
+  gn:name "Rinteln" ;
+  geo:lat "52.183333"@xsd:decimal ;
+  geo:long "9.083333"@xsd:decimal .
 
 gnd:102446822
   a libreto:Person ;
@@ -47874,8 +47894,8 @@ gnd:100702236
 <http://vocab.getty.edu/tgn/7008772>
   a libreto:Place ;
   gn:name "Lyon" ;
-  geo:lat "45,7667"@xsd:decimal ;
-  geo:long "4,8333"@xsd:decimal .
+  geo:lat "45.7667"@xsd:decimal ;
+  geo:long "4.8333"@xsd:decimal .
 
 gnd:11855462X
   a libreto:Person ;
@@ -48020,8 +48040,8 @@ gnd:100210007
 <http://vocab.getty.edu/tgn/7005177>
   a libreto:Place ;
   gn:name "Heidelberg" ;
-  geo:lat "49,4167"@xsd:decimal ;
-  geo:long "8,7"@xsd:decimal .
+  geo:lat "49.4167"@xsd:decimal ;
+  geo:long "8.7"@xsd:decimal .
 
 <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=1:091110C>
   a libreto:Manifestation ;
@@ -48297,8 +48317,8 @@ gnd:12466489X
 <http://vocab.getty.edu/tgn/7004425>
   a libreto:Place ;
   gn:name "Stuttgart" ;
-  geo:lat "48,7667"@xsd:decimal ;
-  geo:long "9,1833"@xsd:decimal .
+  geo:lat "48.7667"@xsd:decimal ;
+  geo:long "9.1833"@xsd:decimal .
 
 gnd:119368390
   a libreto:Person ;
@@ -48493,7 +48513,7 @@ gnd:121004562
 <http://vocab.getty.edu/tgn/7012813>
   a libreto:Place ;
   gn:name "Görlitz" ;
-  geo:lat "51,1667"@xsd:decimal ;
+  geo:lat "51.1667"@xsd:decimal ;
   geo:long "15"@xsd:decimal .
 
 gnd:104072296
@@ -48588,7 +48608,9 @@ gnd:128617209
 
 <http://vocab.getty.edu/tgn/7012626>
   a libreto:Place ;
-  gn:name "Oberursel" .
+  gn:name "Oberursel" ;
+  geo:lat "50.2"@xsd:decimal ;
+  geo:long "8.583333"@xsd:decimal .
 
 <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=23:292821P>
   a libreto:Manifestation ;
@@ -48628,8 +48650,8 @@ gnd:119076101
 <http://vocab.getty.edu/tgn/7012815>
   a libreto:Place ;
   gn:name "Gera" ;
-  geo:lat "50,8667"@xsd:decimal ;
-  geo:long "12,0833"@xsd:decimal .
+  geo:lat "50.8667"@xsd:decimal ;
+  geo:long "12.0833"@xsd:decimal .
 
 gnd:124494153
   a libreto:Person ;
@@ -48689,8 +48711,8 @@ gnd:118717812
 <http://vocab.getty.edu/tgn/7012330>
   a libreto:Place ;
   gn:name "Marburg" ;
-  geo:lat "50,8167"@xsd:decimal ;
-  geo:long "8,7667"@xsd:decimal .
+  geo:lat "50.8167"@xsd:decimal ;
+  geo:long "8.7667"@xsd:decimal .
 
 <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=23:243081X>
   a libreto:Manifestation ;
@@ -48720,8 +48742,8 @@ gnd:124494498
 <http://vocab.getty.edu/tgn/7003474>
   a libreto:Place ;
   gn:name "Kopenhagen" ;
-  geo:lat "55,7167"@xsd:decimal ;
-  geo:long "12,5667"@xsd:decimal .
+  geo:lat "55.7167"@xsd:decimal ;
+  geo:long "12.5667"@xsd:decimal .
 
 gnd:122144880
   a libreto:Person ;
@@ -49228,11 +49250,15 @@ gnd:124379567
 
 <http://vocab.getty.edu/tgn/7011521>
   a libreto:Place ;
-  gn:name "Karlsbad" .
+  gn:name "Karlsbad" ;
+  geo:lat "50.2167"@xsd:decimal ;
+  geo:long "12.8667"@xsd:decimal .
 
 <http://vocab.getty.edu/tgn/7004326>
   a libreto:Place ;
-  gn:name "Bayreuth" .
+  gn:name "Bayreuth" ;
+  geo:lat "49.45"@xsd:decimal ;
+  geo:long "11.5833"@xsd:decimal .
 
 gnd:124548148
   a libreto:Person ;
@@ -49567,8 +49593,8 @@ gnd:118745425
 <http://vocab.getty.edu/tgn/7006984>
   a libreto:Place ;
   gn:name "Groningen" ;
-  geo:lat "53,2167"@xsd:decimal ;
-  geo:long "6,55"@xsd:decimal .
+  geo:lat "53.2167"@xsd:decimal ;
+  geo:long "6.55"@xsd:decimal .
 
 gnd:119222973
   a libreto:Person ;
@@ -49603,8 +49629,8 @@ gnd:12953675X
 <http://vocab.getty.edu/tgn/7012310>
   a libreto:Place ;
   gn:name "Altona" ;
-  geo:lat "53,55"@xsd:decimal ;
-  geo:long "9,9333"@xsd:decimal .
+  geo:lat "53.55"@xsd:decimal ;
+  geo:long "9.9333"@xsd:decimal .
 
 gnd:132448572
   a libreto:Person ;
@@ -49688,7 +49714,9 @@ gnd:116956852
 
 <http://vocab.getty.edu/tgn/7004439>
   a libreto:Place ;
-  gn:name "Oldenburg" .
+  gn:name "Oldenburg" ;
+  geo:lat "53"@xsd:decimal ;
+  geo:long "8"@xsd:decimal .
 
 gnd:118701215
   a libreto:Person ;
@@ -49794,7 +49822,9 @@ gnd:124439047
 
 <http://vocab.getty.edu/tgn/7011712>
   a libreto:Place ;
-  gn:name "Brüx" .
+  gn:name "Brüx" ;
+  geo:lat "50.5167"@xsd:decimal ;
+  geo:long "13.65"@xsd:decimal .
 
 gnd:118923021
   a libreto:Person ;
@@ -49852,7 +49882,9 @@ gnd:118749536
 
 <http://vocab.getty.edu/tgn/1036417>
   a libreto:Place ;
-  gn:name "Barth" .
+  gn:name "Barth" ;
+  geo:lat "54.366667"@xsd:decimal ;
+  geo:long "12.733333"@xsd:decimal .
 
 gnd:119382806
   a libreto:Person ;
@@ -50256,8 +50288,8 @@ gnd:124359647
 <http://vocab.getty.edu/tgn/7017035>
   a libreto:Place ;
   gn:name "Ingolstadt" ;
-  geo:lat "48,7667"@xsd:decimal ;
-  geo:long "11,4333"@xsd:decimal .
+  geo:lat "48.7667"@xsd:decimal ;
+  geo:long "11.4333"@xsd:decimal .
 
 gnd:118645455
   a libreto:Person ;
@@ -50341,7 +50373,9 @@ gnd:142253308
 
 <http://vocab.getty.edu/tgn/7009875>
   a libreto:Place ;
-  gn:name "Uranienborg" .
+  gn:name "Uranienborg" ;
+  geo:lat "55.9057932"@xsd:decimal ;
+  geo:long "12.6782824"@xsd:decimal .
 
 <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=23:286506M>
   a libreto:Manifestation ;
@@ -50441,8 +50475,8 @@ gnd:117662496
 <http://vocab.getty.edu/tgn/7003085>
   a libreto:Place ;
   gn:name "Padua" ;
-  geo:lat "45,4167"@xsd:decimal ;
-  geo:long "11,8833"@xsd:decimal .
+  geo:lat "45.4167"@xsd:decimal ;
+  geo:long "11.8833"@xsd:decimal .
 
 <http://gso.gbv.de/DB=2.1/PPNSET?PPN=599719192>
   a libreto:Manifestation ;
@@ -50451,7 +50485,9 @@ gnd:117662496
 
 <http://vocab.getty.edu/tgn/1048861>
   a libreto:Place ;
-  gn:name "Sagan" .
+  gn:name "Sagan" ;
+  geo:lat "51.6167"@xsd:decimal ;
+  geo:long "15.3333"@xsd:decimal .
 
 gnd:118561448
   a libreto:Person ;
@@ -50465,7 +50501,9 @@ gnd:118561448
 
 <http://vocab.getty.edu/tgn/7007015>
   a libreto:Place ;
-  gn:name "Harlingen" .
+  gn:name "Harlingen" ;
+  geo:lat "53.183333"@xsd:decimal ;
+  geo:long "5.416667"@xsd:decimal .
 
 gnd:130841862
   a libreto:Person ;
@@ -50669,8 +50707,8 @@ gnd:122149270
 <http://vocab.getty.edu/tgn/7013050>
   a libreto:Place ;
   gn:name "Königsberg" ;
-  geo:lat "54,6667"@xsd:decimal ;
-  geo:long "20,5"@xsd:decimal .
+  geo:lat "54.6667"@xsd:decimal ;
+  geo:long "20.5"@xsd:decimal .
 
 gnd:119326213
   a libreto:Person ;
@@ -50821,8 +50859,8 @@ gnd:123376041
 <http://vocab.getty.edu/tgn/7007016>
   a libreto:Place ;
   gn:name "Franeker" ;
-  geo:lat "53,2"@xsd:decimal ;
-  geo:long "5,5333"@xsd:decimal .
+  geo:lat "53.2"@xsd:decimal ;
+  geo:long "5.5333"@xsd:decimal .
 
 <http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=119380129>
   a libreto:Manifestation ;
@@ -50876,8 +50914,8 @@ gnd:122070666
 <http://vocab.getty.edu/tgn/7004455>
   a libreto:Place ;
   gn:name "Dresden" ;
-  geo:lat "51,05"@xsd:decimal ;
-  geo:long "13,75"@xsd:decimal .
+  geo:lat "51.05"@xsd:decimal ;
+  geo:long "13.75"@xsd:decimal .
 
 gnd:120093308
   a libreto:Person ;
@@ -50927,8 +50965,8 @@ gnd:118537229
 <http://vocab.getty.edu/tgn/7007809>
   a libreto:Place ;
   gn:name "Stettin" ;
-  geo:lat "53,430617"@xsd:decimal ;
-  geo:long "14,547719"@xsd:decimal .
+  geo:lat "53.4167"@xsd:decimal ;
+  geo:long "14.5333"@xsd:decimal .
 
 gnd:118791028
   a libreto:Person ;
@@ -51151,8 +51189,8 @@ gnd:124779255
 <http://vocab.getty.edu/tgn/7018159>
   a libreto:Place ;
   gn:name "Venedig" ;
-  geo:lat "45,4386"@xsd:decimal ;
-  geo:long "12,3267"@xsd:decimal .
+  geo:lat "45.4386"@xsd:decimal ;
+  geo:long "12.3267"@xsd:decimal .
 
 gnd:119747839
   a libreto:Person ;
@@ -51304,8 +51342,8 @@ gnd:131748807
 <http://vocab.getty.edu/tgn/7003321>
   a libreto:Place ;
   gn:name "Wien" ;
-  geo:lat "48,2167"@xsd:decimal ;
-  geo:long "16,3667"@xsd:decimal .
+  geo:lat "48.2167"@xsd:decimal ;
+  geo:long "16.3667"@xsd:decimal .
 
 gnd:11980025X
   a libreto:Person ;
@@ -51452,8 +51490,8 @@ gnd:1055582193
 <http://vocab.getty.edu/tgn/7007056>
   a libreto:Place ;
   gn:name "Hoorn" ;
-  geo:lat "52,65"@xsd:decimal ;
-  geo:long "5,0667"@xsd:decimal .
+  geo:lat "52.65"@xsd:decimal ;
+  geo:long "5.0667"@xsd:decimal .
 
 <http://gso.gbv.de/DB=2.1/PPNSET?PPN=382468872>
   a libreto:Manifestation ;
@@ -51550,7 +51588,9 @@ gnd:131740067
 
 <http://vocab.getty.edu/tgn/7006876>
   a libreto:Place ;
-  gn:name "Arnheim" .
+  gn:name "Arnheim" ;
+  geo:lat "51.983333"@xsd:decimal ;
+  geo:long "5.916667"@xsd:decimal .
 
 gnd:12245961X
   a libreto:Person ;
@@ -51579,7 +51619,9 @@ gnd:11862086X
 
 <http://vocab.getty.edu/tgn/7003597>
   a libreto:Place ;
-  gn:name "Sorø" .
+  gn:name "Sorø" ;
+  geo:lat "55.4333"@xsd:decimal ;
+  geo:long "11.5667"@xsd:decimal .
 
 gnd:118726714
   a libreto:Person ;
@@ -51736,8 +51778,8 @@ gnd:118833324
 <http://vocab.getty.edu/tgn/7013260>
   a libreto:Place ;
   gn:name "Hannover" ;
-  geo:lat "52,3667"@xsd:decimal ;
-  geo:long "9,7167"@xsd:decimal .
+  geo:lat "52.3667"@xsd:decimal ;
+  geo:long "9.7167"@xsd:decimal .
 
 gnd:119215918
   a libreto:Person ;
@@ -51751,7 +51793,9 @@ gnd:119215918
 
 <http://vocab.getty.edu/tgn/1039321>
   a libreto:Place ;
-  gn:name "Grebenstein" .
+  gn:name "Grebenstein" ;
+  geo:lat "51.45"@xsd:decimal ;
+  geo:long "9.416667"@xsd:decimal .
 
 <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=39:115302R>
   a libreto:Manifestation ;
@@ -51875,8 +51919,8 @@ gnd:120261057
 <http://vocab.getty.edu/tgn/7004434>
   a libreto:Place ;
   gn:name "Braunschweig" ;
-  geo:lat "52,2667"@xsd:decimal ;
-  geo:long "10,5333"@xsd:decimal .
+  geo:lat "52.2667"@xsd:decimal ;
+  geo:long "10.5333"@xsd:decimal .
 
 gnd:123253780
   a libreto:Person ;
@@ -51926,8 +51970,8 @@ gnd:118558021
 <http://vocab.getty.edu/tgn/7007660>
   a libreto:Place ;
   gn:name "Danzig" ;
-  geo:lat "54,3667"@xsd:decimal ;
-  geo:long "18,6833"@xsd:decimal .
+  geo:lat "54.3667"@xsd:decimal ;
+  geo:long "18.6833"@xsd:decimal .
 
 gnd:124535062
   a libreto:Person ;
@@ -52087,8 +52131,8 @@ gnd:130251879
 <http://vocab.getty.edu/tgn/7005938>
   a libreto:Place ;
   gn:name "Gotha" ;
-  geo:lat "50,95"@xsd:decimal ;
-  geo:long "10,7167"@xsd:decimal .
+  geo:lat "50.95"@xsd:decimal ;
+  geo:long "10.7167"@xsd:decimal .
 
 gnd:119123053
   a libreto:Person ;

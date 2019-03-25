@@ -69,14 +69,14 @@ class geoDataArchive {
     public function getFromWeb($id, $type, $user) {
         if ($type == 'geoNames') {
             $entry = $this->getByGeoNames($id);
-            if (!get_class($entry) == 'geoDataArchiveEntry') {
-                $entry = makeEntryFromGeoNames($id, $user);
+            if (get_class($entry) != 'geoDataArchiveEntry') {
+                $entry = $this->makeEntryFromGeoNames($id, $user);
             }
         }
         elseif ($type == 'gnd') {
             $entry = $this->getByGND($id);
-            if (!get_class($entry) == 'geoDataArchiveEntry') {
-                $entry = makeEntryFromGNDTTL($id);
+            if (get_class($entry) != 'geoDataArchiveEntry') {
+                $entry = $this->makeEntryFromGNDTTL($id);
             }
         }
         elseif ($type == 'getty') {
@@ -163,6 +163,13 @@ class geoDataArchive {
 		}
 		$this->content = $resultArray;	
 	}
+
+    function reloadEntry($type, $id, $user = '') {
+        $this->deleteByID($type, $id);
+        $entry = $this->getFromWeb($id, $type, $user);
+        $test = $this->insertEntryIfNew($type, $id, $entry);
+        return($test);
+    }
 	
 	function loadFromGeoBrowserCSV($type, $fileName) {
 		$csv = array_map('str_getcsv', file($fileName));
@@ -256,6 +263,7 @@ class geoDataArchive {
 		preg_match('~Point \( ([+-][0-9]{1,3}\.[0-9]{1,10}) ([+-][0-9]{1,3}\.[0-9]{1,10}) \)~', $response, $hitsPoint);
 		
 		$entry = new geoDataArchiveEntry();
+        $entry->gnd = $gnd;
 		if(isset($hitsPrefLabel[1])) {
 			$entry->label = replaceArrowBrackets($hitsPrefLabel[1]);
 		}
@@ -269,10 +277,9 @@ class geoDataArchive {
 		if(isset($hitsPoint[1]) and isset($hitsPoint[2])) {
 			$entry->long = $hitsPoint[1];
 			$entry->lat = $hitsPoint[2];
-		}
-		$entry->gnd = $gnd;
-		
-		return($entry);
+            return($entry);
+		}		
+		return(null);
 	}
 	
 	//Created for entries in RDF/XML-format. Meanwhile, the interface delivers RDF/TTL (see above)

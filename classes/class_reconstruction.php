@@ -134,16 +134,18 @@ class reconstruction {
         $archiveGetty = new geoDataArchive('getty');
         foreach ($this->content as $item) {
             foreach ($item->places as $place) {
-                 if ($place->geoNames) {
+                if ($place->testIfReal() === 0) {
+                    continue;
+                }
+                if ($place->geoNames) {
                     $place->addGeoData($archiveGeoNames, 'geoNames', $userGeoNames);
-                 }
-                 elseif ($place->gnd) {
+                }
+                elseif ($place->gnd) {
                     $place->addGeoData($archiveGND, 'gnd');
-                 }
-                 elseif ($place->getty) {
-                    $test = $place->addGeoData($archiveGetty, 'getty');
-                    if ($test == false) { var_dump($place); }
-                 }
+                }
+                elseif ($place->getty) {
+                    $place->addGeoData($archiveGetty, 'getty');
+                }
             }
         }
         $archiveGeoNames->saveToFile('geoNames');
