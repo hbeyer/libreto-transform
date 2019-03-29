@@ -26,7 +26,7 @@ class item	{ //Refers to an item (book, manuscript, etc.) listed in the catalogu
 	public $manifestation = array('systemManifestation' => '', 'idManifestation' => ''); //Entry in a bibliographic database or library catalogue			
 	public $originalItem = array('institutionOriginal' => '', 'shelfmarkOriginal' => '', 'provenanceAttribute' => '', 'digitalCopyOriginal' => '', 'targetOPAC' => '', 'searchID' => '');
 	public $work = array('titleWork' => '', 'systemWork' => '', 'idWork' => ''); //Entry for the work in a public database.			
-	public $bound = null;
+	public $bound = 1;
 	public $comment;
 	public $digitalCopy;
 	public $copiesHAB = array(); //Array of shelfmarks from the HAB
@@ -139,6 +139,15 @@ class item	{ //Refers to an item (book, manuscript, etc.) listed in the catalogu
         }
         $this->persons = $personsNew;
     }
+
+    public function trimTitles() {
+        $fields = array('titleCat', 'titleBib', 'titleNormalized');
+        $translation = array('...' => '…');
+        foreach ($fields as $field) {
+            $this->$field = strtr($this->$field, $translation);
+            $this->$field = trim($this->$field);
+        }
+    }    
 	
 }
 

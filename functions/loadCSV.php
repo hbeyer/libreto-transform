@@ -13,6 +13,7 @@ function loadCSV($path) {
 		$row = array_map('convertWindowsToUTF8', $row);
         $row = mapRow($row, $fieldNames);
         $item = makeItemFromAssocArray($row);
+        $item->trimTitles();
 		$data[] = $item;
 	}
 	return($data);

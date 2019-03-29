@@ -11,6 +11,7 @@ function loadXML($path) {
 	$nodeList = $xml->getElementsByTagName('item');
 	foreach ($nodeList as $node) {
 		$item = makeItemFromNode($node);
+        $item->trimTitles();
 		$resultArray[] = $item;
 	}
 	return($resultArray);
