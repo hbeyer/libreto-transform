@@ -4,7 +4,7 @@ Set of scripts for transforming library reconstruction data into reusable data f
 *Autor: Hartmut Beyer (beyer@hab.de)*
 
 ## Anforderungen
-Die Anwendung erfordert einen Server mit PHP (Version 5.6–7.3) und schreibenden Zugriff auf Dateien und Ordner innerhalb des Programmordners.
+Die Anwendung erfordert einen Server mit PHP (getestet mit Version 5.6–7.3) und schreibenden Zugriff auf Dateien und Ordner innerhalb des Programmordners.
 
 ## Installation
 Kopieren Sie alle Dateien in einen Ordner auf dem Server.
