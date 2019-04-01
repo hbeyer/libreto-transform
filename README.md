@@ -14,7 +14,7 @@ Benennen Sie im Ordner ***private/*** die Datei **settings.php.template** um in 
 - Unter `$userAgentHTTP` Ihren Namen in beliebiger Form
 - Unter `$impressum` die URL des Impressums, das für die Publikation der Seite gültig ist
 
-Um eine Datenbankverbindung zu nutzen, kann analog die Datei ***connectionData.php.template*** genutzt werden (proprietäres Schema)
+Um eine Datenbankverbindung zu nutzen, kann analog die Datei ***connectionData.php.template*** angepasst werden (proprietäres Schema)
 
 ## Datenerfassung
 Daten können in XML oder in CSV (Tabellenkalkulationsprogramm) erfasst werden. Zur Anlage eines XML-Dokuments nutzen Sie das Schema ***libreto-schema.xsd***. Im XML-Dokument werden sowohl die Erschließungsdaten als auch die Metadaten zur Sammlung hinterlegt. Zur Erstellung einer CSV-Datei nutzen Sie das Beispieldokument ***example.csv***. Die Metadaten werden in diesem Fall bei der Transformation erfasst. Die Benutzung der einzelnen Felder ist im Word-Dokument ***Dokumentation_CSV.doc*** beschrieben.
