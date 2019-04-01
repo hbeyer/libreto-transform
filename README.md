@@ -21,10 +21,11 @@ Zur Erstellung einer CSV-Datei nutzen Sie das Beispieldokument ***example.csv***
 Die Benutzung der einzelnen Felder ist im Word-Dokument ***Dokumentation_CSV.doc*** beschrieben.
 
 ## Transformation
-Ein Transformationsskript kann unter Verwendung der Datei ***transform.php*** erstellt werden. Hierin muss zunächst ein Objekt der Klasse `reconstruction` erzeugt werden. Dieses hat folgende Parametern:
-- Pfad zur Ausgangsdatei mit Dateiname und -Endung.
-- Dateiname für das Projekt
-- Format der Ausgangsdatei. Neben 'xml' und 'csv' sind für kundige Anwender/innen auch die Optionen 'php' (serialisierter PHP-Dateien) und 'sql_dh' (Datenbank mit proprietärem Schema) erlaubt.
+Ein Transformationsskript kann unter Verwendung der Datei ***transform.php*** erstellt werden. Hierin muss zunächst ein Objekt der Klasse `reconstruction` in folgender Weise erzeugt werden:
+`reconstruction::__construct(string $path, string $fileName, [string $format = 'xml'])`
+- `$path`: Pfad zur Ausgangsdatei mit Dateiname und -Endung.
+- `$fileName`: Dateiname für das Projekt
+- `$format`: Format der Ausgangsdatei. Neben 'xml' (Standardwert) und 'csv' sind für kundige Anwender/innen auch die Optionen 'php' (serialisierter PHP-Dateien) und 'sql_dh' (Datenbank mit proprietärem Schema) erlaubt.
 Die Methode `reconstruction::enrichData()` fügt Geodaten für Orte sowie Links zu biographischen Nachweissystemen bei Personen hinzu.
 Die Methode `reconstruction::saveAllFormats()` speichert im Ordner ***projectFiles/{Dateiname}*** die Daten in folgenden Formaten ab: CSV, XML, RDF/XML, Turtle, TEI, SOLR-XML. Außerdem werden die Geodaten im KML- und CSV-Format ausgegeben. Zur Erzeugung einer Kartenansicht muss die Datei `printingPlaces.csv` im Datasheet Editor (https://geobrowser.de.dariah.eu/edit/) hochgeladen und die ID der Datensammlung als `geoBrowserStorageID` bei den Metadaten eingefügt werden.
 
@@ -32,7 +33,8 @@ Die Methode `reconstruction::saveAllFormats()` speichert im Ordner ***projectFil
 Wurde eine andere Option als 'xml' bei der Erstellung des Objekts von der Klassse `reconstruction` gewählt, so kommt beim Ausführen des Skripts zunächst eine Aufforderung zum Ausfüllen der Datei ***projectFiles/{Dateiname}/{Dateiname}-cat.php***. Hier müssen alle Angaben in geschweiften Klammern ersetzt bzw. die entsprechende Zeile entfernt werden.
 
 ## Erzeugen der Website
-Hierzu muss zunächst ein Objekt der Klasse `facetList` erzeugt werden. Bei Erzeugung des Objekts ohne Parameter werden für die Auswahl der darzustellenden Felder Standardsets angewandt. Die Sets können in der folgenden Weise überschrieben werden: `facetList::__construct([array:$pages [array:$doughnuts] [array:$clouds]])`
+Hierzu muss zunächst ein Objekt der Klasse `facetList` erzeugt werden. Bei Erzeugung des Objekts ohne Parameter werden für die Auswahl der darzustellenden Felder Standardsets angewandt. Die Sets können in der folgenden Weise überschrieben werden:
+`facetList::__construct([array $pages [array $doughnuts] [array $clouds]])`
 - `$pages`: Array mit Namen von Feldern, die als eigene Seite dargestellt werden sollen
 - `$doughnuts`: Array mit Namen von Feldern, die als Kreisdiagramm dargestellt werden sollen
 - `$clouds`: Array mit Namen von Feldern, die als Wortwolken dargestellt werden sollen
