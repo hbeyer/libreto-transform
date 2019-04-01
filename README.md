@@ -44,4 +44,8 @@ Hierzu muss zunächst ein Objekt der Klasse `facetList` erzeugt werden. Bei Erze
 - `$doughnuts`: Array mit Namen von Feldern, die als Kreisdiagramm dargestellt werden sollen
 - `$clouds`: Array mit Namen von Feldern, die als Wortwolken dargestellt werden sollen
 
-Anschließend wird ein neues Objekt der Klasse `frontend` erzeugt, das als Parameter die Objekte der Klassen `reconstruction` und `fieldList` übergeben bekommt. Die Methode `frontend::build()` sorgt dafür, dass die Ergebnisse als statische HTML-Dateien im Verzeichnis ***projectFiles/{Dateiname}*** abgespeichert werden.
+Anschließend wird ein neues Objekt der Klasse `frontend` erzeugt:
+`frontend::__construct($reconstruction, $fieldList)`
+- `$reconstruction`: Ein Objekt der Klasse `reconstruction`
+- `$fieldList`: Ein Objekt der Klasse `fieldList`
+Die Methode `frontend::build()` sorgt dafür, dass die Ergebnisse als statische HTML-Dateien im Verzeichnis ***projectFiles/{Dateiname}*** abgespeichert werden.
