@@ -272,14 +272,19 @@ function addPerson($graph, $catalogue, $item, $person) {
         $identifierGND = new EasyRdf_Literal($person->gnd, null, 'http://d-nb.info/standards/elementset/gnd#gndIdentifier');
         $personResource->add('dcmt:identifier', $identifierGND);
     }
-    $property = 'dcmt:contributor';
-    if ($person->role == 'author' or $person->role == 'creator') {
-        $property = 'dcmt:creator';
+    if ($person->role == 'borrower') {
+    	$lending = $graph->newBNode('libreto:Lending');
+    	$lending->addLiteral('libreto:dateLending', $person->dateLending, 'xsd:date');
+    	$lending->addResource('libreto:borrower', $personResource);
+ 
     }
-    elseif ($person->role == 'borrower') {
-        $property = 'libreto:borrower';   
-    }
-    $item->addResource($property, $personResource);
+    else {    
+	    $property = 'dcmt:contributor';
+	    if ($person->role == 'author' or $person->role == 'creator') {
+	        $property = 'dcmt:creator';
+	    }
+	    $item->addResource($property, $personResource);
+	}
     return;
 }
 
