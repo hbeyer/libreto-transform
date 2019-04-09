@@ -107,6 +107,7 @@
         <xs:element minOccurs="0" ref="gnd"/>
         <xs:element minOccurs="0" ref="gender"/>
         <xs:element ref="role"/>
+        <xs:element minOccurs="0" ref="dateLending"/>
         <xs:element minOccurs="0" ref="beacon"/>
       </xs:all>
     </xs:complexType>
@@ -115,6 +116,7 @@
   <xs:element name="gnd" type="xs:string"/>
   <xs:element name="gender" type="xs:string"/>
   <xs:element name="role" type="xs:string"/>
+  <xs:element name="dateLending" type="xs:string"/>
   <xs:element name="titleNormalized" type="xs:string"/>
   <xs:element name="places">
     <xs:complexType>

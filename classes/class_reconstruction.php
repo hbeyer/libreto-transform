@@ -25,13 +25,13 @@ class reconstruction {
         }
     }
 
-    public function enrichData() {
+    public function enrichData($beaconUpdate = true) {
         if ($this->valid == 0) {
             return;
         }
         $this->addVolumeInformation();
         $this->insertGeoData();
-        $this->insertBeacon();
+        $this->insertBeacon($beaconUpdate);
     }
 
     public function saveAllFormats() {
@@ -110,8 +110,8 @@ class reconstruction {
         $this->content = $result;
     }
 
-    public function insertBeacon() {
-        $repository = new beacon_repository;
+    public function insertBeacon($beaconupdate = true) {
+        $repository = new beacon_repository($beaconupdate);
         $gnds = array();
         foreach ($this->content as $item) {
             foreach ($item->persons as $person) {

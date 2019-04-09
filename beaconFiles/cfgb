@@ -1,9 +1,9 @@
 #FORMAT: BEACON
 #TARGET: http://www.historische-kommission-muenchen-editionen.de/beacond/gauss.php?pnd={ID}
 #FEED: http://www.historische-kommission-muenchen-editionen.de/beacond/gauss.php?beacon
-#MESSAGE: Carl Friedrich Gauss Briefwechsel - Onlineverzeichnis
-#INSTITUTION: LMU München
-#DESCRIPTION:  http://gauss.gwi.uni-muenchen.de (PND Zuordnung: 266)
+#MESSAGE: Der komplette Briefwechsel von Carl Friedrich Gauß - Korrespondenten
+#INSTITUTION: AdW Göttingen, Prof. Folkerts
+#DESCRIPTION:  http://gauss.adw-goe.de/search-filter?field=correspondent (PND Zuordnung: 266)
 #TIMESTAMP: 2013-01-12
 #REVISIT: 2013-09-01
 104234644|5181

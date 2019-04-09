@@ -24,6 +24,12 @@ function zipFolderContent($folder, $fileName) {
 		die('cannot open '.$fileName);
 	}	
 	$options = array('add_path' => $fileName.'/', 'remove_all_path' => TRUE);
+	$optionsCSS = array('add_path' => $fileName.'/assets/css/', 'remove_all_path' => TRUE);
+	$optionsFonts = array('add_path' => $fileName.'/assets/fonts/', 'remove_all_path' => TRUE);
+	$optionsJS = array('add_path' => $fileName.'/assets/js/', 'remove_all_path' => TRUE);
+	$zip->addGlob($folder.'/assets/css/*.css', 0, $optionsCSS);
+	$zip->addGlob($folder.'/assets/fonts/*', 0, $optionsFonts);
+	$zip->addGlob($folder.'/assets/js/*.js', 0, $optionsJS);
 	$zip->addGlob($folder.'/*.html', 0, $options);
 	$zip->addGlob($folder.'/*.x*', 0, $options);
 	$zip->addGlob($folder.'/*.js', 0, $options);

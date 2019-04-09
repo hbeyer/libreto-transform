@@ -134,7 +134,7 @@ function insertPlaces($item, $node) {
 }
 
 function makePersonFromNode($node) {
-	$properties = array('persName', 'gnd', 'gender', 'role');
+	$properties = array('persName', 'gnd', 'gender', 'role', 'dateLending');
 	$children = $node->childNodes;
 	$person = new person;
 	foreach($children as $child) {

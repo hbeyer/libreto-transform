@@ -7,7 +7,7 @@ to generate a separate page.
  */
 
 $normalFields = array('id', 'pageCat', 'imageCat', 'numberCat', 'itemInVolume', 'volumes', 'volumesMisc', 'titleCat', 'titleBib', 'titleNormalized', 'publisher', 'year', 'format', 'histSubject', 'histShelfmark', 'mediaType', 'bound', 'comment', 'digitalCopy');
-$personFields = array('persName', 'gnd', 'gender', 'role', 'beacon');
+$personFields = array('persName', 'gnd', 'gender', 'role', 'beacon', 'dateLending');
 $placeFields = array('placeName', 'getty', 'geoNames');
 //$arrayFields = array('languages', 'subjects', 'genres', 'beacon');
 $arrayFields = array('languages', 'subjects', 'genres');
@@ -15,7 +15,7 @@ $workFields = array('titleWork', 'systemWork', 'idWork');
 $manifestationFields = array('systemManifestation');
 $originalItemFields = array('institutionOriginal', 'shelfmarkOriginal', 'provenanceAttribute', 'targetOPAC', 'searchID');
 // The following values do not correspond to a field, but they can be submitted to the function makeIndex
-$virtualFields = array('catSubjectFormat');
+$virtualFields = array('catSubjectFormat', 'borrower');
 
 $indexFields = array_merge($normalFields, $personFields, $placeFields, $arrayFields, $workFields, $manifestationFields, $originalItemFields, $virtualFields);
 

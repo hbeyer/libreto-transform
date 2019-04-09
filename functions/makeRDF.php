@@ -276,6 +276,9 @@ function addPerson($graph, $catalogue, $item, $person) {
     if ($person->role == 'author' or $person->role == 'creator') {
         $property = 'dcmt:creator';
     }
+    elseif ($person->role == 'borrower') {
+        $property = 'libreto:borrower';   
+    }
     $item->addResource($property, $personResource);
     return;
 }

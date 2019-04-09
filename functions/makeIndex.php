@@ -13,6 +13,9 @@ function makeIndex($data, $field) {
 	elseif($field == 'persName') {
 		$collect = collectIDsPersons($data);
 	}
+	elseif ($field == 'borrower') {
+		$collect = collectIDsPersons($data, 'borrower');
+	}
 	elseif($field == 'placeName') {
 		$collect = collectIDsPlaces($data);
 	}
@@ -221,7 +224,40 @@ function collectIDsBeacon($data) {
 	return($return);
 }
 
-function collectIDsPersons($data) {
+function collectIDsPersons($data, $role = '') {
+	$collectGND = array();
+	$collectName = array();
+	$count = 0;
+	foreach($data as $item) {
+		$gnds = array();
+		foreach($item->persons as $person) {
+			if ($role == 'borrower' and $person->role != 'borrower') {
+				continue;
+			}
+			if ($role != 'borrower' and $person->role == 'borrower') {
+				continue;
+			}
+			$key = $person->gnd;
+			$name = preprocessFields('persName', $person->persName, $item);
+			if($key == '') {
+					$key = $name;
+			}
+			if(array_key_exists($key, $collectGND) == FALSE) {
+				$collectGND[$key] = array();
+				$collectName[$key] = $name;
+			}
+			if (in_array($key, $gnds) == FALSE) {
+				$collectGND[$key][] = $count;
+				$gnds[] = $key;
+			}
+		}
+		$count++;
+	}
+	$return = array('collect' => $collectGND, 'concordanceGND' => $collectName);
+	return($return);
+}
+
+/*function collectIDsPersons($data) {
 	$collectGND = array();
 	$collectName = array();
 	$count = 0;
@@ -246,7 +282,7 @@ function collectIDsPersons($data) {
 	}
 	$return = array('collect' => $collectGND, 'concordanceGND' => $collectName);
 	return($return);
-}
+}*/
 
 function collectIDsPlaces($data) {
 	$collectPlaceName = array();

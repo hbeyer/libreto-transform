@@ -71,7 +71,10 @@ function translateFieldNames($field) {
 		'mediaType' => 'Materialarten', 
 		'systemManifestation' => 'Nachweise', 
 		'genres' => 'Gattungen',
-        'bound' => 'Bindung');
+        'bound' => 'Bindung',
+    	'borrower' => 'Entleihende',
+    	'dateLending' => 'Leihdatum'
+    	);
 	$result = strtr($field, $translation);
 	return($result);		
 }
@@ -98,7 +101,9 @@ function translateFieldNamesButtons($field) {
 		'provenanceAttribute' => 'Provenienzmerkmale',
 		'genres' => 'Gattungen',
 		'bibliographicalLevel' => 'Bibliographische Gattungen',
-        'bound' => 'Bindung'
+        'bound' => 'Bindung',
+    	'borrower' => 'Entleihende',
+    	'dateLending' => 'Leihdatum'
 		);
 	$result = strtr($field, $translation);
 	return($result);		
@@ -132,7 +137,9 @@ function translateCheckboxNames($field) {
 		'volumes' => 'B&auml;nde', 
 		'mediaType' => 'Materialart', 
 		'systemManifestation' => 'Nachgewiesen in', 
-		'genres' => 'Gattung'
+		'genres' => 'Gattung',
+    	'borrower' => 'Entleihende',
+    	'dateLending' => 'Leihdatum'
 		);
 	$result = strtr($field, $translation);
 	return($result);		
