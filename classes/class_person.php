@@ -6,7 +6,7 @@ class person {
 	public $gender;
 	public $role = 'author'; //author, contributor, etc.
 	public $beacon = array(); //Presence in databases is denoted by keys from class beaconData
-	public $dateLending;
+	public $dateLending = null;
 
 	public function __set($name, $value) {
 		$translation = array(

@@ -92,19 +92,24 @@ function flattenItem($item) {
 function flattenPersons($persons) {
 	$result = array();
 	$collectAuthors = array();
+	$collectBorrowers = array();
 	$collectContributors = array();
+	$collectDateLending = array();
 	foreach($persons as $person) {
 		$gnd = '';
 		if($person->gnd) {
 			$gnd = '#'.$person->gnd;
-			/*if(isset($person->beacon[0])) {
-				$fieldNameBeacon = 'beacon_'.$person->gnd;
-				$beaconString = resolveBeacon($person->beacon, $person->gnd);
-				$result[$fieldNameBeacon] = $beaconString;
-			}*/
 		}
 		if($person->role == 'author') {
 			$collectAuthors[] = $person->persName.$gnd;
+		}
+		elseif($person->role == 'borrower') {
+			$borrower = $person->persName.$gnd;
+			if ($person->dateLending != null) {
+				$borrower = $borrower.'~'.$person->dateLending;
+				$collectDateLending[] = $person->dateLending;
+			}			
+			$collectBorrowers[] = $borrower;
 		}
 		else {
 			$collectContributors[] = $person->persName.$gnd;
@@ -112,6 +117,12 @@ function flattenPersons($persons) {
 	}
 	if(isset($collectAuthors[0])) {
 		$result['author'] = implode(';', $collectAuthors);
+	}
+	if(isset($collectBorrowers[0])) {
+		$result['borrower'] = implode(';', $collectBorrowers);
+	}
+	if(isset($collectDateLending[0])) {
+		$result['dateLending'] = implode(';', $collectDateLending);
 	}
 	if(isset($collectContributors[0])) {
 		$result['contributor'] = implode(';', $collectContributors);
