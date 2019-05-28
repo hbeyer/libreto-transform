@@ -9,6 +9,9 @@
         </xs:complexType>
     </xs:element>
     <xs:element name="metadata">
+        <xs:annotation>
+            <xs:documentation xml:lang="ger">Allgemeine Angaben zur rekonstruierten Sammlung und den verwendeten Quellen</xs:documentation>
+        </xs:annotation>
         <xs:complexType>
             <xs:all>
                 <xs:element maxOccurs="1" ref="heading"/>
@@ -28,22 +31,74 @@
             </xs:all>
         </xs:complexType>
     </xs:element>
-    <xs:element name="heading" type="xs:string"/>
-    <xs:element name="owner" type="xs:string"/>
-    <xs:element name="ownerGND" type="xs:string"/>
-    <xs:element name="fileName" type="xs:normalizedString"/>
-    <xs:element name="title" type="xs:string"/>
-    <xs:element name="base" type="xs:anyURI"/>
-    <xs:element name="placeCat" type="xs:string"/>
-    <xs:element name="institution" type="xs:string"/>
-    <xs:element name="shelfmark" type="xs:string"/>
-    <xs:element name="description" type="xs:string"/>
-    <xs:element name="geoBrowserStorageID" type="xs:string"/>
-    <xs:element name="creatorReconstruction" type="xs:string"/>
-    <xs:element name="yearReconstruction" type="xs:string"/>
+    <xs:element name="heading" type="xs:string">
+        <xs:annotation>
+            <xs:documentation xml:lang="ger">Titel der rekonstruierten Sammlung</xs:documentation>
+        </xs:annotation>
+    </xs:element>
+    <xs:element name="owner" type="xs:string">
+        <xs:annotation>
+            <xs:documentation xml:lang="ger">Person oder Institution, die Urheber der Sammlung ist</xs:documentation>
+        </xs:annotation>        
+    </xs:element>
+    <xs:element name="ownerGND" type="xs:string">
+        <xs:annotation>
+            <xs:documentation xml:lang="ger">GND-Nummer der Person oder Institution, die Urheber der Sammlung ist</xs:documentation>
+        </xs:annotation>        
+    </xs:element>
+    <xs:element name="fileName" type="xs:normalizedString">
+        <xs:annotation>
+            <xs:documentation xml:lang="ger">Dateiname für den Projektordner sowie zur Bildung von IDs</xs:documentation>
+        </xs:annotation>
+    </xs:element>
+    <xs:element name="title" type="xs:string">
+        <xs:annotation>
+            <xs:documentation xml:lang="ger">Titel des ausgewerteten Altkatalogs</xs:documentation>
+        </xs:annotation>        
+    </xs:element>
+    <xs:element name="base" type="xs:anyURI">
+        <xs:annotation>
+            <xs:documentation xml:lang="ger">URL, mit der man durch Anhängen der Image-Nummer Links auf einzelne Seiten des digitalisierten Altkatalogs bilden kann</xs:documentation>
+        </xs:annotation>        
+    </xs:element>
+    <xs:element name="placeCat" type="xs:string">
+        <xs:annotation>
+            <xs:documentation xml:lang="ger">Erscheinungs- oder Entstehungsort des Altkatalogs</xs:documentation>
+        </xs:annotation>        
+    </xs:element>
+    <xs:element name="institution" type="xs:string">
+        <xs:annotation>
+            <xs:documentation xml:lang="ger">Institution, die den Altkatalog besitzt</xs:documentation>
+        </xs:annotation>        
+    </xs:element>
+    <xs:element name="shelfmark" type="xs:string">
+        <xs:annotation>
+            <xs:documentation xml:lang="ger">Signatur des Altkatalogs</xs:documentation>
+        </xs:annotation>        
+    </xs:element>
+    <xs:element name="description" type="xs:string">
+        <xs:annotation>
+            <xs:documentation xml:lang="ger">Abstract zur rekonstruierten Sammlung</xs:documentation>
+        </xs:annotation>        
+    </xs:element>
+    <xs:element name="geoBrowserStorageID" type="xs:string">
+        <xs:annotation>
+            <xs:documentation xml:lang="ger">ID eines zur Sammlung gehörigen Geodatenblattes im DARIAH Geo-Browser</xs:documentation>
+        </xs:annotation>        
+    </xs:element>
+    <xs:element name="creatorReconstruction" type="xs:string">
+        <xs:annotation>
+            <xs:documentation xml:lang="ger">Urheber der Rekonstruktion bzw. daran beteiligte Personen (Freitextfeld)</xs:documentation>
+        </xs:annotation>        
+    </xs:element>
+    <xs:element name="yearReconstruction" type="xs:string">
+        <xs:annotation>
+            <xs:documentation xml:lang="ger">Jahr, in dem die Rekonstruktion zuerst veröffentlicht wurde</xs:documentation>
+        </xs:annotation>        
+    </xs:element>
     <xs:element name="item">
         <xs:annotation>
-            <xs:documentation xml:lang="ger">Ein Sammlungsstück in der zu erschließenden historischen Sammlung, bei Bibliotheken meist ein Titel. Medientyp und bibliographisches Level ergeben sich aus den erhobenen Daten</xs:documentation>
+            <xs:documentation xml:lang="ger">Ein Sammlungsstück in der zu erschließenden historischen Sammlung (auch Titel genannt). Medientyp und bibliographisches Level ergeben sich aus den erhobenen Daten</xs:documentation>
         </xs:annotation>
         <xs:complexType>
             <xs:all>
@@ -117,6 +172,11 @@
             <xs:documentation xml:lang="ger">Der bibliographierte Titel aus einem bibliographischen Nachweissystem (z. B. VD17). Das Nachweissystem wird unter manifestation nach einer normierten Liste angegeben</xs:documentation>
         </xs:annotation>
     </xs:element>
+    <xs:element name="titleNormalized" type="xs:string">
+        <xs:annotation>
+            <xs:documentation xml:lang="ger">Orthographisch normalisierte Form des Titels für die Anzeige (optional)</xs:documentation>
+        </xs:annotation>
+    </xs:element>    
     <xs:element name="persons">
         <xs:annotation>
             <xs:documentation xml:lang="ger">Personenliste für Verfasser(innen) und beteiligte Personen. Drucker und Verleger nur als publisher</xs:documentation>
@@ -194,11 +254,6 @@
                 <xs:enumeration value="contributor"/>
             </xs:restriction>
         </xs:simpleType>
-    </xs:element>
-    <xs:element name="titleNormalized" type="xs:string">
-        <xs:annotation>
-            <xs:documentation xml:lang="ger">Orthographisch normalisierte Form des Titels für die Anzeige (optional)</xs:documentation>
-        </xs:annotation>
     </xs:element>
     <xs:element name="places">
         <xs:annotation>
@@ -301,7 +356,6 @@
     <xs:element name="genre">
         <xs:simpleType>
             <xs:restriction base="xs:string">
-                <!-- Diese Liste kann erweitert werden, wenn es inhaltlich sinnvoll ist -->
                 <xs:enumeration value="Adressbuch"/>
                 <xs:enumeration value="Agende"/>
                 <xs:enumeration value="Akademieschrift"/>
@@ -780,7 +834,7 @@
     </xs:element>
     <xs:element name="targetOPAC" type="xs:string">
         <xs:annotation>
-            <xs:documentation xml:lang="ger">Soll das Originalexemplar in einem Katalog aufgerufen werden, muss hier die URL des Katalogs angegeben werden, das Suchwort wird durch {ID} ersetzt. Beispiel: http://opac.lbs-braunschweig.gbv.de/DB=2/REL?PPN={ID}</xs:documentation>
+            <xs:documentation xml:lang="ger">Soll das Originalexemplar in einem Katalog aufgerufen werden, muss hier die URL des Katalogs angegeben werden, das Suchwort wird durch {ID} ersetzt. Beispiel: http://opac.lbs-braunschweig.gbv.de/DB=2/REL?PPN={ID}. Bei Handschriften kann hier ein Link zu Manuscripta Mediaevalia oder ein anderes Nachweissystem gesetzt werden</xs:documentation>
         </xs:annotation>
     </xs:element>
     <xs:element name="searchID" type="xs:string">
