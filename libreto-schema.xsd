@@ -139,7 +139,7 @@
     </xs:element>
     <xs:element name="pageCat" type="xs:string">
         <xs:annotation>
-            <xs:documentation xml:lang="ger">Seite(n) im Altkatalog, wo der Titel erscheint</xs:documentation>
+            <xs:documentation xml:lang="ger">Seite(n) im Altkatalog, auf der oder denen Titel erscheint</xs:documentation>
         </xs:annotation>
     </xs:element>
     <xs:element name="imageCat" type="xs:integer">
@@ -221,7 +221,7 @@
     </xs:element>
     <xs:element name="role">
         <xs:annotation>
-            <xs:documentation xml:lang="ger">Beziehungskennzeichnung (s. RDA 18.5). Alternativ kann mit den DC-Eigenschaften creator und contributor gearbeitet werden</xs:documentation>
+            <xs:documentation xml:lang="ger">Beziehungskennzeichnung (s. RDA D-A-CH 18.5 und Anhang I). Alternativ kann mit den DC-Eigenschaften creator und contributor gearbeitet werden</xs:documentation>
         </xs:annotation>
         <xs:simpleType>
             <xs:restriction base="xs:string">
@@ -613,7 +613,7 @@
     <xs:element name="language">
         <xs:simpleType>
             <xs:restriction base="xs:string">
-                <!-- Diese Liste kann durch Sprachbezeichnungen nach ISO 639-2 erweitert werden -->
+                <!-- Diese Liste kann durch weitere Sprachbezeichnungen nach ISO 639-2 erweitert werden -->
                 <xs:enumeration value="ger"/>
                 <xs:enumeration value="lat"/>
                 <xs:enumeration value="fre"/>
@@ -760,7 +760,7 @@
                 <xs:enumeration value="BVB"/>
                 <!--<xs:enumeration value="BSB"/>-->
                 <xs:enumeration value="HeBIS"/>
-                <xs:enumeration value="SBB"/>
+                <!--<xs:enumeration value="SBB"/>-->
                 <xs:enumeration value="DNB"/>
                 <xs:enumeration value="Paris BnF"/>
                 <xs:enumeration value="ESTC"/>
@@ -781,6 +781,7 @@
                 <xs:enumeration value="RERO"/>
                 <!--<xs:enumeration value="LBVÖ"/>-->
                 <xs:enumeration value="STCN"/>
+                <xs:enumeration value="ZDB"/>
                 <!--<xs:enumeration value="UB Antwerpen"/>
                 <xs:enumeration value="UB Gent"/>
                 <xs:enumeration value="Josiah"/>
@@ -824,7 +825,7 @@
     </xs:element>
     <xs:element name="provenanceAttribute" type="xs:string">
         <xs:annotation>
-            <xs:documentation xml:lang="ger">Summarische Angabe über die Merkmale des Originals, die für seine Identifikation ausschlaggebend sind</xs:documentation>
+            <xs:documentation xml:lang="ger">Summarische Angabe über die Merkmale des Originals, die für seine Identifikation und bzw. die Zuordnung zu dieser konkreten Sammlung ausschlaggebend sind</xs:documentation>
         </xs:annotation>
     </xs:element>
     <xs:element name="digitalCopyOriginal" type="xs:string">
@@ -839,7 +840,7 @@
     </xs:element>
     <xs:element name="searchID" type="xs:string">
         <xs:annotation>
-            <xs:documentation xml:lang="ger">Soll zum Aufrufen des Originalexempalrs nicht die Signatur unter shelfmarkOriginal, sondern ein Identifier wie die PPN verwendet werden, muss er hier eingetragen werden</xs:documentation>
+            <xs:documentation xml:lang="ger">Soll zum Aufrufen des Originalexemplars nicht die Signatur unter shelfmarkOriginal, sondern ein Identifier wie die PPN verwendet werden, muss er hier eingetragen werden</xs:documentation>
         </xs:annotation>
     </xs:element>
     <xs:element name="work">
@@ -856,7 +857,7 @@
     </xs:element>
     <xs:element name="titleWork" type="xs:string">
         <xs:annotation>
-            <xs:documentation xml:lang="ger">Bevorzugter Titel für das Werk. Er kann einem Nachweissystem entnommen oder frei gebildet werden. Der Autor wird weggelassen, sofern er unter persons verzeichnet ist</xs:documentation>
+            <xs:documentation xml:lang="ger">Bevorzugter Titel für das Werk. Er kann einem Nachweissystem entnommen oder frei gebildet werden (vgl. RDA D-A-CH 6.2.2). Der Autor wird weggelassen, sofern er unter persons verzeichnet ist</xs:documentation>
         </xs:annotation>
     </xs:element>
     <xs:element name="systemWork">
