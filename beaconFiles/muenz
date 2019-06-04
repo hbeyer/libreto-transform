@@ -26,7 +26,7 @@
   <link rel="mask-icon" href="https://ikmk.smb.museum/special/favicons/safari-pinned-tab.svg" color="#5bbad5" />
   <meta name="theme-color" content="#ffffff" />
   <link href="https://ikmk.smb.museum/assets/css/main.min.css?1502031675" rel="stylesheet" />
-  <link href="https://ikmk.smb.museum/layout/extended.css?1544461047" rel="stylesheet" />
+  <link href="https://ikmk.smb.museum/layout/extended.css?1559134564" rel="stylesheet" />
   <link href="https://ikmk.smb.museum/special/local.css?1542821856" rel="stylesheet" />
   
   <!--[if lt IE 9]>
@@ -48,7 +48,7 @@
     </div>
   </div>
   <div id="navbar-mobile" class="navbar-collapse collapse">
-<ul class="nav navbar-nav"><li><a href="home?lang=de" title="Start">Start</a></li><li><a href="quick_search?lang=de" title="Schnellsuche">Schnellsuche</a></li><li><a href="tag_search?lang=de" title="Schlagwortsuche">Schlagwortsuche</a></li><li><a href="reference_search?lang=de" title="Referenzsuche">Referenzsuche</a></li><li><a href="department_search?lang=de" title="Abteilungen">Abteilungen</a></li><li><a href="holding_search?lang=de" title="Bestände">Bestände</a></li><li><a href="map_search?lang=de" title="Karte">Karte</a></li><li><ul class="nav-footer"><li><a href="news?lang=de" title="Nachrichten">Nachrichten</a></li><li><a href="contact?lang=de" title="Kontakt">Kontakt</a></li><li><a href="about?lang=de" title="Über uns">Über uns</a></li><li><ul class="nav-languages"><li class="active"><a href="https://ikmk.smb.museum/home?lang=de" title="Deutsch">DE</a></li><li><a href="https://ikmk.smb.museum/home?lang=en" title="English">EN</a></li></ul></li></ul></li></ul>
+<ul class="nav navbar-nav"><li><a href="home?lang=de" title="Start">Start</a></li><li><a href="quick_search?lang=de" title="Schnellsuche">Schnellsuche</a></li><li><a href="tag_search?lang=de" title="Schlagwortsuche">Schlagwortsuche</a></li><li><a href="reference_search?lang=de" title="Referenzsuche">Referenzsuche</a></li><li><a href="department_search?lang=de" title="Abteilungen">Abteilungen</a></li><li><a href="holding_search?lang=de" title="Bestände">Bestände</a></li><li><a href="collection_search?lang=de" title="Sammlungen">Sammlungen</a></li><li><a href="map_search?lang=de" title="Karte">Karte</a></li><li><ul class="nav-footer"><li><a href="news?lang=de" title="Nachrichten">Nachrichten</a></li><li><a href="contact?lang=de" title="Kontakt">Kontakt</a></li><li><a href="about?lang=de" title="Über uns">Über uns</a></li><li><ul class="nav-languages"><li class="active"><a href="https://ikmk.smb.museum/home?lang=de" title="Deutsch">DE</a></li><li><a href="https://ikmk.smb.museum/home?lang=en" title="English">EN</a></li></ul></li></ul></li></ul>
   </div>
 </nav><nav id="nav-desktop" class="navbar navbar-default navbar-fixed-top">
   <div class="container-fluid">
@@ -71,7 +71,7 @@
   </div>
   <div class="container-fluid">
     <div class="container">
-<ul class="nav navbar-nav"><li class="active"><a href="home?lang=de" title="Start">Start</a></li><li class="dropdown"><a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">Suche</a><ul class="dropdown-menu"><li><a href="quick_search?lang=de" title="Schnellsuche" class="quick_search">Schnellsuche</a></li><li><a href="extended_search?lang=de" title="Erweiterte Suche" class="extended_search">Erweiterte Suche</a></li><li><a href="tag_search?lang=de" title="Schlagwortsuche" class="tag_search">Schlagwortsuche</a></li><li><a href="reference_search?lang=de" title="Referenzsuche" class="reference_search">Referenzsuche</a></li><li><a href="department_search?lang=de" title="Abteilungen" class="department_search">Abteilungen</a></li><li><a href="holding_search?lang=de" title="Bestände" class="holding_search">Bestände</a></li></ul></li><li><a href="map_search?lang=de" title="Karte">Karte</a></li></ul>
+<ul class="nav navbar-nav"><li class="active"><a href="home?lang=de" title="Start">Start</a></li><li class="dropdown"><a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">Suche</a><ul class="dropdown-menu"><li><a href="quick_search?lang=de" title="Schnellsuche" class="quick_search">Schnellsuche</a></li><li><a href="extended_search?lang=de" title="Erweiterte Suche" class="extended_search">Erweiterte Suche</a></li><li><a href="tag_search?lang=de" title="Schlagwortsuche" class="tag_search">Schlagwortsuche</a></li><li><a href="reference_search?lang=de" title="Referenzsuche" class="reference_search">Referenzsuche</a></li><li><a href="department_search?lang=de" title="Abteilungen" class="department_search">Abteilungen</a></li><li><a href="holding_search?lang=de" title="Bestände" class="holding_search">Bestände</a></li><li><a href="collection_search?lang=de" title="Sammlungen" class="collection_search">Sammlungen</a></li></ul></li><li><a href="map_search?lang=de" title="Karte">Karte</a></li></ul>
     </div>
     
   </div>
@@ -120,9 +120,21 @@
 <div id='section-carousel' class='carousel slide' data-ride='carousel'>
 <div class='carousel-inner' role='listbox'>
 <div class='item active'>
+<a class='carousel-caption' href='news?lang=de&news_id=1187' title='Nachrichten'>
+<p>Stellenausschreibung Wissenschaftliche/r Mitarbeiter/in Münzkabinett vom 11.04.2019 (Bewerbungsfrist 9.5.2019)</p>
+<p><time datetime='2019-05-09'>bis 9. Mai 2019</time></p>
+</a>
+</div>
+<div class='item'>
 <a class='carousel-caption' href='news?lang=de&news_id=1163' title='Nachrichten'>
 <p>8. gemeinsames Treffen des European Coin Finds Network und von nomisma.org</p>
 <p><time datetime='2019-05-02'>2.-4. Mai 2019</time></p>
+</a>
+</div>
+<div class='item'>
+<a class='carousel-caption' href='news?lang=de&news_id=1192' title='Nachrichten'>
+<p>Interaktiver Katalog des Münzkabinetts (IKMK) nun bei 35.000 Objekteinträgen</p>
+<p><time datetime='2019-04-25'>25. April 2019</time></p>
 </a>
 </div>
 <div class='item'>
@@ -141,18 +153,6 @@
 <a class='carousel-caption' href='news?lang=de&news_id=1162' title='Nachrichten'>
 <p>Peter Robert Franke  (1926-2018)</p>
 <p><time datetime='2019-01-08'>8. Januar 2019</time></p>
-</a>
-</div>
-<div class='item'>
-<a class='carousel-caption' href='news?lang=de&news_id=1149' title='Nachrichten'>
-<p>Der Interaktive Katalog des Münzkabinetts (IKMK) erreicht die 34.000</p>
-<p><time datetime='2018-12-16'>16. Dezember 2018</time></p>
-</a>
-</div>
-<div class='item'>
-<a class='carousel-caption' href='news?lang=de&news_id=1135' title='Nachrichten'>
-<p>Der Interaktive Katalog des Münzkabinetts IKMK</p>
-<p><time datetime='2018-10-25'>25. Oktober 2018</time></p>
 </a>
 </div>
 </div>
@@ -210,7 +210,7 @@
             <div class="row">
                 <div class="col-sm-4">
                     <p><b>Interaktiver Katalog des Münzkabinetts</b></p>
-<ul class="list-unstyled"><li><a href="imprint" title="Impressum">Impressum</a></li><li><a href="security" title="Datenschutzerklärung">Datenschutzerklärung</a></li></ul>
+<ul class="list-unstyled"><li><a href="https://ikmk.smb.museum/imprint?lang=de" title="Impressum">Impressum</a></li><li><a href="https://ikmk.smb.museum/security?lang=de" title="Datenschutzerklärung">Datenschutzerklärung</a></li></ul>
                 </div>
 <div class="col-sm-4"><p><b>Wir bedanken uns für die Unterstützung bei</b></p><ul class="list-unstyled"><li><a href="http://www.dfg.de" target="_blank" title="dfg.de"><img alt="Logo DFG" class="img-responsive" src="https://ikmk.smb.museum/special/logos/logo_dfg.png"></a></li>
 <li><a href="https://www.bmbf.de" target="_blank" title="bmbf.de"><img alt="Logo BMBF" class="img-responsive" src="https://ikmk.smb.museum/special/logos/logo_bmbf.png"></a></li></ul></div>

@@ -73,7 +73,8 @@ function translateFieldNames($field) {
 		'genres' => 'Gattungen',
         'bound' => 'Bindung',
     	'borrower' => 'Entleihende',
-    	'dateLending' => 'Leihdatum'
+    	'dateLending' => 'Leihdatum',
+    	'titleWork' => 'Werktitel'
     	);
 	$result = strtr($field, $translation);
 	return($result);		
@@ -219,8 +220,9 @@ function removeSpecial($name) {
 }
 
 function convertWindowsToUTF8($string) {
-  $charset =  mb_detect_encoding($string, "windows-1250, Windows-1252, ISO-8859-1, ISO-8859-15", true);
-  $string =  mb_convert_encoding($string, "UTF-8", $charset);
+  //$charset =  mb_detect_encoding($string, "Windows-1250,Windows-1252,ISO-8859-1,ISO-8859-15");
+  //$string =  mb_convert_encoding($string, "UTF-8", $charset);
+  $string =  mb_convert_encoding($string, "UTF-8", "Windows-1252");
   return $string;
 }
 

@@ -69,19 +69,19 @@ class geoDataArchive {
     public function getFromWeb($id, $type, $user) {
         if ($type == 'geoNames') {
             $entry = $this->getByGeoNames($id);
-            if (get_class($entry) != 'geoDataArchiveEntry') {
+            if ($entry == null) {
                 $entry = $this->makeEntryFromGeoNames($id, $user);
             }
         }
         elseif ($type == 'gnd') {
             $entry = $this->getByGND($id);
-            if (get_class($entry) != 'geoDataArchiveEntry') {
+            if ($entry == null) {
                 $entry = $this->makeEntryFromGNDTTL($id);
             }
         }
         elseif ($type == 'getty') {
             $entry = $this->getByGetty($id);
-            if (get_class($entry) != 'geoDataArchiveEntry') {
+            if ($entry == null) {
                 $entry = $this->makeEntryFromGetty($id);
             }
         }
