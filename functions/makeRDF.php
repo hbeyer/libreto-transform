@@ -323,7 +323,7 @@ function addManifestation($graph, $itemResource, $item) {
 }
 
 function addWork($graph, $itemResource, $item) {
-    $reference = new reference($item->manifestation['systemManifestation'], $item->manifestation['idManifestation'], 'work');
+    $reference = new reference($item->work['systemWork'], $item->work['idWork'], 'work');
     if (!$reference) {
         return(null);
     }

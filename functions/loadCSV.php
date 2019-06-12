@@ -1,6 +1,5 @@
 <?php
 
-
 function loadCSV($path) {
 	$fieldNames = getColumnNames($path);
 	$data = array();
@@ -111,7 +110,7 @@ function makeItemFromAssocArray($row) {
     foreach ($placeFields as $field) {
         if (!empty($row[$field])) {
             $place = new place;
-            preg_match('~([^#]+)#?(getty|gnd|geoNames)?(.+)~', $row[$field], $hits);
+            preg_match('~([^#]+)#?(getty|gnd|geoNames)?(.+)?~', $row[$field], $hits);
             if (!empty($hits[1])) {
                 $place->placeName = $hits[1];
             }
