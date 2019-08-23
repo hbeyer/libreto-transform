@@ -212,11 +212,11 @@ function insertBibliographicData($bibl, $dom, $item) {
 		}
 		$bibl->appendChild($pubPlace);
 	}
-	if($item->publisher) {
-		$publisherText = $dom->createTextNode(html_entity_decode($item->publisher));
-		$publisher = $dom->createElement('publisher');
-		$publisher->appendChild($publisherText);
-		$bibl->appendChild($publisher);	
+	foreach($item->publishers as $publisher) {
+		$publisherText = $dom->createTextNode(html_entity_decode($publisher));
+		$publisherElement = $dom->createElement('publisher');
+		$publisherElement->appendChild($publisherText);
+		$bibl->appendChild($publisherElement);	
 	}
 	if($item->year) {
 		$yearText = $dom->createTextNode($item->year);

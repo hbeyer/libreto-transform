@@ -1,292 +1,303 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
-  <xs:element name="collection">
-    <xs:complexType>
-      <xs:sequence>
-        <xs:element minOccurs="0" maxOccurs="1" ref="metadata"/>
-        <xs:element minOccurs="1" maxOccurs="unbounded" ref="item"/>
-      </xs:sequence>
-    </xs:complexType>
-  </xs:element>
-  <xs:element name="metadata">
-    <xs:complexType>
-      <xs:all>
-        <xs:element minOccurs="0" maxOccurs="1" ref="heading"/>
-        <xs:element minOccurs="0" maxOccurs="1" ref="owner"/>
-        <xs:element minOccurs="0" maxOccurs="1" ref="ownerGND"/>
-        <xs:element minOccurs="0" maxOccurs="1" ref="fileName"/>
-        <xs:element minOccurs="0" maxOccurs="1" ref="title"/>
-        <xs:element minOccurs="0" maxOccurs="1" ref="base"/>
-        <xs:element minOccurs="0" maxOccurs="1" ref="placeCat"/>
-        <xs:element minOccurs="0" maxOccurs="1" ref="year"/>
-        <xs:element minOccurs="0" maxOccurs="1" ref="institution"/>
-        <xs:element minOccurs="0" maxOccurs="1" ref="shelfmark"/>
-        <xs:element minOccurs="0" maxOccurs="1" ref="description"/>
-        <xs:element minOccurs="0" maxOccurs="1" ref="geoBrowserStorageID"/>
-        <xs:element minOccurs="0" maxOccurs="1" ref="creatorReconstruction"/>
-        <xs:element minOccurs="0" maxOccurs="1" ref="yearReconstruction"/>
-      </xs:all>
-    </xs:complexType>
-  </xs:element>
-  <xs:element name="heading" type="xs:string"/>
-  <xs:element name="owner" type="xs:string"/>
-  <xs:element name="ownerGND" type="xs:string"/>
-  <xs:element name="fileName" type="xs:normalizedString"/>
-  <xs:element name="title" type="xs:string"/>
-  <xs:element name="base" type="xs:anyURI"/>
-  <xs:element name="placeCat" type="xs:string"/>
-  <xs:element name="institution" type="xs:string"/>
-  <xs:element name="shelfmark" type="xs:string"/>
-  <xs:element name="description" type="xs:string"/>
-  <xs:element name="geoBrowserStorageID" type="xs:string"/>
-  <xs:element name="creatorReconstruction" type="xs:string"/>
-  <xs:element name="yearReconstruction" type="xs:string"/>
-  <xs:element name="item">
-    <xs:complexType>
-      <xs:all>
-        <xs:element minOccurs="0" ref="titleCat"/>
-        <xs:element minOccurs="0" ref="titleBib"/>
-        <xs:element minOccurs="0" ref="id"/>
-        <xs:element minOccurs="0" ref="pageCat"/>
-        <xs:element minOccurs="0" ref="imageCat"/>
-        <xs:element minOccurs="0" ref="numberCat"/>
-        <xs:element minOccurs="0" ref="itemInVolume"/>
-        <xs:element minOccurs="0" ref="volumes"/>
-        <xs:element minOccurs="0" ref="volumeNote"/>		
-        <xs:element minOccurs="0" ref="persons"/>
-        <xs:element minOccurs="0" ref="titleNormalized"/>
-        <xs:element minOccurs="0" ref="places"/>
-        <xs:element minOccurs="0" ref="publisher"/>
-        <xs:element minOccurs="0" ref="year"/>
-        <xs:element minOccurs="0" ref="format"/>
-        <xs:element minOccurs="0" ref="histSubject"/>
-        <xs:element minOccurs="0" ref="histShelfmark"/>
-        <xs:element minOccurs="0" ref="subjects"/>
-        <xs:element minOccurs="0" ref="genres"/>
-        <xs:element minOccurs="0" ref="mediaType"/>
-        <xs:element minOccurs="0" ref="languages"/>
-        <xs:element minOccurs="0" ref="manifestation"/>
-        <xs:element minOccurs="0" ref="originalItem"/>
-        <xs:element minOccurs="0" ref="work"/>
-        <xs:element minOccurs="0" ref="bound"/>
-        <xs:element minOccurs="0" ref="comment"/>
-        <xs:element minOccurs="0" ref="copiesHAB"/>
-        <xs:element minOccurs="0" ref="digitalCopy"/>
-      </xs:all>
-    </xs:complexType>
-  </xs:element>
-  <xs:element name="id" type="xs:string"/>
-  <xs:element name="pageCat" type="xs:string"/>
-  <xs:element name="imageCat" type="xs:integer"/>
-  <xs:element name="numberCat" type="xs:string"/>
-  <xs:element name="itemInVolume" type="xs:string"/>
-  <xs:element name="volumes" type="xs:integer"/>  
-  <xs:element name="volumeNote">
-    <xs:complexType>
-      <xs:all>
-        <xs:element minOccurs="0" ref="misc"/>
-        <xs:element minOccurs="0" ref="positionMisc"/>
-      </xs:all>
-    </xs:complexType>
-  </xs:element>
-    <xs:element name="misc" type="xs:string"/> 
-    <xs:element name="positionMisc" type="xs:integer"/> 
-  <xs:element name="titleCat" type="xs:string"/>
-  <xs:element name="titleBib" type="xs:string"/>
-  <xs:element name="persons">
-    <xs:complexType>
-      <xs:sequence>
-        <xs:element minOccurs="1" maxOccurs="unbounded" ref="person"/>
-      </xs:sequence>
-    </xs:complexType>
-  </xs:element>
-  <xs:element name="person">
-    <xs:complexType>
-      <xs:all>
-        <xs:element ref="persName"/>
-        <xs:element minOccurs="0" ref="gnd"/>
-        <xs:element minOccurs="0" ref="gender"/>
-        <xs:element ref="role"/>
-        <xs:element minOccurs="0" ref="dateLending"/>
-        <xs:element minOccurs="0" ref="beacon"/>
-      </xs:all>
-    </xs:complexType>
-  </xs:element>
-  <xs:element name="persName" type="xs:string"/>
-  <xs:element name="gnd" type="xs:string"/>
-  <xs:element name="gender" type="xs:string"/>
-  <xs:element name="role" type="xs:string"/>
-  <xs:element name="dateLending" type="xs:string"/>
-  <xs:element name="titleNormalized" type="xs:string"/>
-  <xs:element name="places">
-    <xs:complexType>
-      <xs:sequence>
-        <xs:element maxOccurs="unbounded" ref="place"/>
-      </xs:sequence>
-    </xs:complexType>
-  </xs:element>
-  <xs:element name="publisher" type="xs:string"/>
-  <xs:element name="format" type="xs:string"/>
-  <xs:element name="histSubject" type="xs:string"/>
-  <xs:element name="histShelfmark" type="xs:string"/>  
-  <xs:element name="subjects">
-    <xs:complexType>
-      <xs:sequence>
-        <xs:element minOccurs="1" maxOccurs="unbounded" ref="subject"/>
-      </xs:sequence>
-    </xs:complexType>
-  </xs:element>
-  <xs:element name="subject" type="xs:string"/>
-  <xs:element name="genres">
-    <xs:complexType>
-      <xs:sequence>
-        <xs:element minOccurs="1" maxOccurs="unbounded" ref="genre"/>
-      </xs:sequence>
-    </xs:complexType>
-  </xs:element>
-  <xs:element name="genre" type="xs:string"/>
-  <xs:element name="mediaType" type="xs:string"/>
-  <xs:element name="languages">
-    <xs:complexType>
-      <xs:sequence>
-        <xs:element minOccurs="1" maxOccurs="unbounded" ref="language"/>
-      </xs:sequence>
-    </xs:complexType>
-  </xs:element>
-  <xs:element name="language" type="xs:string"/>
-  <xs:element name="manifestation">
-    <xs:complexType>
-      <xs:all>
-        <xs:element minOccurs="0" ref="systemManifestation"/>
-        <xs:element minOccurs="0" ref="idManifestation"/>
-      </xs:all>
-    </xs:complexType>
-  </xs:element>
-  <xs:element name="systemManifestation">
-    <xs:simpleType>
-      <xs:restriction base="xs:string">
-        <xs:enumeration value="VD16"/>
-        <xs:enumeration value="VD17"/>
-        <xs:enumeration value="VD18"/>
-        <xs:enumeration value="EDIT16"/>
-        <xs:enumeration value="EDIT"/> <!-- Synonym für EDIT16 -->
-        <xs:enumeration value="ESTC"/>
-        <xs:enumeration value="USTC"/>
-        <xs:enumeration value="WorldCat"/>
-        <xs:enumeration value="GBV"/>
-        <xs:enumeration value="GVK"/> <!-- Synonym für GBV -->
-        <xs:enumeration value="SWB"/>
-        <xs:enumeration value="HBZ"/>
-        <xs:enumeration value="BVB"/>
-        <xs:enumeration value="BSB"/> <!-- Synonym für BVB -->
-        <xs:enumeration value="HeBIS"/>
-        <xs:enumeration value="ZDB"/>    
-        <xs:enumeration value="Paris BnF"/>
-        <xs:enumeration value="London BL"/>
-        <xs:enumeration value="LoC"/>
-        <xs:enumeration value="Den Haag KB"/>
-        <xs:enumeration value="Wien ÖNB"/>
-        <xs:enumeration value="ÖNB"/> <!-- Synonym für Wien ÖNB -->
-        <xs:enumeration value="Kopenhagen KB"/>
-        <xs:enumeration value="GW"/>
-        <xs:enumeration value="ISTC"/>
-        <xs:enumeration value="INKA"/>
-        <xs:enumeration value="ManuMed"/>
-        <xs:enumeration value="SUDOC"/>
-        <xs:enumeration value="COPAC"/>
-        <xs:enumeration value="SBN"/>
-        <xs:enumeration value="UniCat"/>
-        <xs:enumeration value="NEBIS"/>
-        <xs:enumeration value="SWISSBIB"/>
-        <xs:enumeration value="RERO"/>
-        <xs:enumeration value="LBVÖ"/>
-        <xs:enumeration value="STCN"/>
-        <xs:enumeration value="UB Antwerpen"/>
-        <xs:enumeration value="UB Gent"/>        
-        <xs:enumeration value="Josiah"/>
-        <xs:enumeration value="SOLO"/>
-        <xs:enumeration value="UUL"/>
-        <xs:enumeration value="BUvA"/>
-        <xs:enumeration value="HvA"/>
-        <xs:enumeration value="SBB"/>
-        <xs:enumeration value="DNB"/>
-        <xs:enumeration value="Ohne Nachweis"/>
-        <xs:enumeration value="Ausgabe nicht bestimmbar"/>
-      </xs:restriction>
-    </xs:simpleType>
-  </xs:element>
-  <xs:element name="idManifestation" type="xs:string"/>
-  <xs:element name="originalItem">
-    <xs:complexType>
-      <xs:all>
-        <xs:element minOccurs="0" ref="institutionOriginal"/>
-        <xs:element minOccurs="0" ref="shelfmarkOriginal"/>
-        <xs:element minOccurs="0" ref="provenanceAttribute"/>
-        <xs:element minOccurs="0" ref="digitalCopyOriginal"/>
-        <xs:element minOccurs="0" ref="targetOPAC"/>
-        <xs:element minOccurs="0" ref="searchID"/>
-      </xs:all>
-    </xs:complexType>
-  </xs:element>
-  <xs:element name="institutionOriginal" type="xs:string"/>
-  <xs:element name="shelfmarkOriginal" type="xs:string"/>
-  <xs:element name="provenanceAttribute" type="xs:string"/>
-  <xs:element name="digitalCopyOriginal" type="xs:string"/>
-  <xs:element name="targetOPAC" type="xs:string"/>
-  <xs:element name="searchID" type="xs:string"/> 
-  <xs:element name="work">
-    <xs:complexType>
-      <xs:all>
-        <xs:element minOccurs="0" ref="titleWork"/>
-        <xs:element minOccurs="0" ref="systemWork"/>
-        <xs:element minOccurs="0" ref="idWork"/>
-      </xs:all>
-    </xs:complexType>
-  </xs:element>
-  <xs:element name="titleWork" type="xs:string"/> 
-  <xs:element name="systemWork" type="xs:string"/> 
-  <xs:element name="idWork" type="xs:string"/> 
-  <xs:element name="bound" type="xs:integer"/>
-  <xs:element name="comment" type="xs:string"/>
-  <xs:element name="copiesHAB">
-    <xs:complexType>
-      <xs:sequence>
-        <xs:element minOccurs="0" maxOccurs="unbounded" ref="copyHAB"/>
-      </xs:sequence>
-    </xs:complexType>
-  </xs:element>
-  <xs:element name="copyHAB" type="xs:string"/>
-  <xs:element name="digitalCopy" type="xs:anyURI"/>
-  <xs:element name="place">
-    <xs:complexType mixed="true">
-      <xs:all>
-        <xs:element minOccurs="0" ref="geoData"/>
-        <xs:element minOccurs="0" ref="getty"/>
-        <xs:element minOccurs="0" ref="gnd"/>
-        <xs:element minOccurs="0" ref="geoNames"/>
-        <xs:element ref="placeName"/>
-      </xs:all>
-    </xs:complexType>
-  </xs:element>
-  <xs:element name="geoData">
-    <xs:complexType>
-      <xs:all>
-        <xs:element ref="lat"/>
-        <xs:element ref="long"/>
-      </xs:all>
-    </xs:complexType>
-  </xs:element>
-  <xs:element name="lat" type="xs:string"/>
-  <xs:element name="long" type="xs:string"/>
-  <xs:element name="getty" type="xs:string"/>
-  <xs:element name="geoNames" type="xs:string"/>
-  <xs:element name="placeName" type="xs:string"/>
-  <xs:element name="year" type="xs:string"/>
-  <xs:element name="beacon">
-    <xs:complexType mixed="true">
-      <xs:sequence>
-        <xs:element minOccurs="0" maxOccurs="unbounded" ref="beacon"/>
-      </xs:sequence>
-    </xs:complexType>
-  </xs:element>
+<xs:schema elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="collection">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element maxOccurs="1" minOccurs="0" ref="metadata"/>
+				<xs:element maxOccurs="unbounded" minOccurs="1" ref="item"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="metadata">
+		<xs:complexType>
+			<xs:all>
+				<xs:element maxOccurs="1" minOccurs="0" ref="heading"/>
+				<xs:element maxOccurs="1" minOccurs="0" ref="owner"/>
+				<xs:element maxOccurs="1" minOccurs="0" ref="ownerGND"/>
+				<xs:element maxOccurs="1" minOccurs="0" ref="fileName"/>
+				<xs:element maxOccurs="1" minOccurs="0" ref="title"/>
+				<xs:element maxOccurs="1" minOccurs="0" ref="base"/>
+				<xs:element maxOccurs="1" minOccurs="0" ref="placeCat"/>
+				<xs:element maxOccurs="1" minOccurs="0" ref="year"/>
+				<xs:element maxOccurs="1" minOccurs="0" ref="institution"/>
+				<xs:element maxOccurs="1" minOccurs="0" ref="shelfmark"/>
+				<xs:element maxOccurs="1" minOccurs="0" ref="description"/>
+				<xs:element maxOccurs="1" minOccurs="0" ref="geoBrowserStorageID"/>
+				<xs:element maxOccurs="1" minOccurs="0" ref="creatorReconstruction"/>
+				<xs:element maxOccurs="1" minOccurs="0" ref="yearReconstruction"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="heading" type="xs:string"/>
+	<xs:element name="owner" type="xs:string"/>
+	<xs:element name="ownerGND" type="xs:string"/>
+	<xs:element name="fileName" type="xs:normalizedString"/>
+	<xs:element name="title" type="xs:string"/>
+	<xs:element name="base" type="xs:anyURI"/>
+	<xs:element name="placeCat" type="xs:string"/>
+	<xs:element name="institution" type="xs:string"/>
+	<xs:element name="shelfmark" type="xs:string"/>
+	<xs:element name="description" type="xs:string"/>
+	<xs:element name="geoBrowserStorageID" type="xs:string"/>
+	<xs:element name="creatorReconstruction" type="xs:string"/>
+	<xs:element name="yearReconstruction" type="xs:string"/>
+	<xs:element name="item">
+		<xs:complexType>
+			<xs:all>
+				<xs:element minOccurs="0" ref="titleCat"/>
+				<xs:element minOccurs="0" ref="titleBib"/>
+				<xs:element minOccurs="0" ref="id"/>
+				<xs:element minOccurs="0" ref="pageCat"/>
+				<xs:element minOccurs="0" ref="imageCat"/>
+				<xs:element minOccurs="0" ref="numberCat"/>
+				<xs:element minOccurs="0" ref="itemInVolume"/>
+				<xs:element minOccurs="0" ref="volumes"/>
+				<xs:element minOccurs="0" ref="volumeNote"/>
+				<xs:element minOccurs="0" ref="persons"/>
+				<xs:element minOccurs="0" ref="titleNormalized"/>
+				<xs:element minOccurs="0" ref="places"/>
+				<xs:element minOccurs="0" ref="publishers"/>
+				<xs:element minOccurs="0" ref="year"/>
+				<xs:element minOccurs="0" ref="format"/>
+				<xs:element minOccurs="0" ref="histSubject"/>
+				<xs:element minOccurs="0" ref="histShelfmark"/>
+				<xs:element minOccurs="0" ref="subjects"/>
+				<xs:element minOccurs="0" ref="genres"/>
+				<xs:element minOccurs="0" ref="mediaType"/>
+				<xs:element minOccurs="0" ref="languages"/>
+				<xs:element minOccurs="0" ref="manifestation"/>
+				<xs:element minOccurs="0" ref="originalItem"/>
+				<xs:element minOccurs="0" ref="work"/>
+				<xs:element minOccurs="0" ref="bound"/>
+				<xs:element minOccurs="0" ref="comment"/>
+				<xs:element minOccurs="0" ref="copiesHAB"/>
+				<xs:element minOccurs="0" ref="digitalCopy"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="id" type="xs:string"/>
+	<xs:element name="pageCat" type="xs:string"/>
+	<xs:element name="imageCat" type="xs:integer"/>
+	<xs:element name="numberCat" type="xs:string"/>
+	<xs:element name="itemInVolume" type="xs:string"/>
+	<xs:element name="volumes" type="xs:integer"/>
+	<xs:element name="volumeNote">
+		<xs:complexType>
+			<xs:all>
+				<xs:element minOccurs="0" ref="misc"/>
+				<xs:element minOccurs="0" ref="positionMisc"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="misc" type="xs:string"/>
+	<xs:element name="positionMisc" type="xs:integer"/>
+	<xs:element name="titleCat" type="xs:string"/>
+	<xs:element name="titleBib" type="xs:string"/>
+	<xs:element name="persons">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element maxOccurs="unbounded" minOccurs="1" ref="person"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="person">
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="persName"/>
+				<xs:element minOccurs="0" ref="gnd"/>
+				<xs:element minOccurs="0" ref="gender"/>
+				<xs:element ref="role"/>
+				<xs:element minOccurs="0" ref="dateLending"/>
+				<xs:element minOccurs="0" ref="beacon"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="persName" type="xs:string"/>
+	<xs:element name="gnd" type="xs:string"/>
+	<xs:element name="gender" type="xs:string"/>
+	<xs:element name="role" type="xs:string"/>
+	<xs:element name="dateLending" type="xs:string"/>
+	<xs:element name="titleNormalized" type="xs:string"/>
+	<xs:element name="places">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element maxOccurs="unbounded" ref="place"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="format" type="xs:string"/>
+	<xs:element name="histSubject" type="xs:string"/>
+	<xs:element name="histShelfmark" type="xs:string"/>
+	<xs:element name="publishers">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element maxOccurs="unbounded" minOccurs="1" ref="publisher"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="publisher" type="xs:string"/>
+	<xs:element name="subjects">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element maxOccurs="unbounded" minOccurs="1" ref="subject"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="subject" type="xs:string"/>
+	<xs:element name="genres">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element maxOccurs="unbounded" minOccurs="1" ref="genre"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="genre" type="xs:string"/>
+	<xs:element name="mediaType" type="xs:string"/>
+	<xs:element name="languages">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element maxOccurs="unbounded" minOccurs="1" ref="language"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="language" type="xs:string"/>
+	<xs:element name="manifestation">
+		<xs:complexType>
+			<xs:all>
+				<xs:element minOccurs="0" ref="systemManifestation"/>
+				<xs:element minOccurs="0" ref="idManifestation"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="systemManifestation">
+		<xs:simpleType>
+			<xs:restriction base="xs:string">
+				<xs:enumeration value="VD16"/>
+				<xs:enumeration value="VD17"/>
+				<xs:enumeration value="VD18"/>
+				<xs:enumeration value="EDIT16"/>
+				<xs:enumeration value="EDIT"/>
+				<!-- Synonym für EDIT16 -->
+				<xs:enumeration value="ESTC"/>
+				<xs:enumeration value="USTC"/>
+				<xs:enumeration value="WorldCat"/>
+				<xs:enumeration value="GBV"/>
+				<xs:enumeration value="GVK"/>
+				<!-- Synonym für GBV -->
+				<xs:enumeration value="SWB"/>
+				<xs:enumeration value="HBZ"/>
+				<xs:enumeration value="BVB"/>
+				<xs:enumeration value="BSB"/>
+				<!-- Synonym für BVB -->
+				<xs:enumeration value="HeBIS"/>
+				<xs:enumeration value="ZDB"/>
+				<xs:enumeration value="Paris BnF"/>
+				<xs:enumeration value="London BL"/>
+				<xs:enumeration value="LoC"/>
+				<xs:enumeration value="Den Haag KB"/>
+				<xs:enumeration value="Wien ÖNB"/>
+				<xs:enumeration value="ÖNB"/>
+				<!-- Synonym für Wien ÖNB -->
+				<xs:enumeration value="Kopenhagen KB"/>
+				<xs:enumeration value="GW"/>
+				<xs:enumeration value="ISTC"/>
+				<xs:enumeration value="INKA"/>
+				<xs:enumeration value="ManuMed"/>
+				<xs:enumeration value="SUDOC"/>
+				<xs:enumeration value="COPAC"/>
+				<xs:enumeration value="SBN"/>
+				<xs:enumeration value="UniCat"/>
+				<xs:enumeration value="NEBIS"/>
+				<xs:enumeration value="SWISSBIB"/>
+				<xs:enumeration value="RERO"/>
+				<xs:enumeration value="LBVÖ"/>
+				<xs:enumeration value="STCN"/>
+				<xs:enumeration value="UB Antwerpen"/>
+				<xs:enumeration value="UB Gent"/>
+				<xs:enumeration value="Josiah"/>
+				<xs:enumeration value="SOLO"/>
+				<xs:enumeration value="UUL"/>
+				<xs:enumeration value="BUvA"/>
+				<xs:enumeration value="HvA"/>
+				<xs:enumeration value="SBB"/>
+				<xs:enumeration value="DNB"/>
+				<xs:enumeration value="Ohne Nachweis"/>
+				<xs:enumeration value="Ausgabe nicht bestimmbar"/>
+			</xs:restriction>
+		</xs:simpleType>
+	</xs:element>
+	<xs:element name="idManifestation" type="xs:string"/>
+	<xs:element name="originalItem">
+		<xs:complexType>
+			<xs:all>
+				<xs:element minOccurs="0" ref="institutionOriginal"/>
+				<xs:element minOccurs="0" ref="shelfmarkOriginal"/>
+				<xs:element minOccurs="0" ref="provenanceAttribute"/>
+				<xs:element minOccurs="0" ref="digitalCopyOriginal"/>
+				<xs:element minOccurs="0" ref="targetOPAC"/>
+				<xs:element minOccurs="0" ref="searchID"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="institutionOriginal" type="xs:string"/>
+	<xs:element name="shelfmarkOriginal" type="xs:string"/>
+	<xs:element name="provenanceAttribute" type="xs:string"/>
+	<xs:element name="digitalCopyOriginal" type="xs:string"/>
+	<xs:element name="targetOPAC" type="xs:string"/>
+	<xs:element name="searchID" type="xs:string"/>
+	<xs:element name="work">
+		<xs:complexType>
+			<xs:all>
+				<xs:element minOccurs="0" ref="titleWork"/>
+				<xs:element minOccurs="0" ref="systemWork"/>
+				<xs:element minOccurs="0" ref="idWork"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="titleWork" type="xs:string"/>
+	<xs:element name="systemWork" type="xs:string"/>
+	<xs:element name="idWork" type="xs:string"/>
+	<xs:element name="bound" type="xs:integer"/>
+	<xs:element name="comment" type="xs:string"/>
+	<xs:element name="copiesHAB">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element maxOccurs="unbounded" minOccurs="0" ref="copyHAB"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="copyHAB" type="xs:string"/>
+	<xs:element name="digitalCopy" type="xs:anyURI"/>
+	<xs:element name="place">
+		<xs:complexType mixed="true">
+			<xs:all>
+				<xs:element minOccurs="0" ref="geoData"/>
+				<xs:element minOccurs="0" ref="getty"/>
+				<xs:element minOccurs="0" ref="gnd"/>
+				<xs:element minOccurs="0" ref="geoNames"/>
+				<xs:element ref="placeName"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="geoData">
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="lat"/>
+				<xs:element ref="long"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="lat" type="xs:string"/>
+	<xs:element name="long" type="xs:string"/>
+	<xs:element name="getty" type="xs:string"/>
+	<xs:element name="geoNames" type="xs:string"/>
+	<xs:element name="placeName" type="xs:string"/>
+	<xs:element name="year" type="xs:string"/>
+	<xs:element name="beacon">
+		<xs:complexType mixed="true">
+			<xs:sequence>
+				<xs:element maxOccurs="unbounded" minOccurs="0" ref="beacon"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
 </xs:schema>

@@ -5,7 +5,7 @@ function saveSolrXML($data, $catalogue, $fileName) {
     $SOLRArray = makeSOLRArray($data);
     $SOLRArray = addMetaDataSOLR($catalogue, $SOLRArray);
 	//The following elements have to be repeated so that SOLR accepts them as multiValued. Delimiter is ";", as defined in flattenItem and resolveLanguages
-	$multiValued = array('languages', 'languagesFull', 'genres', 'subjects', 'author', 'contributor');
+	$multiValued = array('languages', 'languagesFull', 'genres', 'subjects', 'author', 'contributor', 'publishers');
 	$fileNameBare = shortenPath($fileName);
 	$folder = '';
 	$dom = new DOMDocument('1.0', 'UTF-8');

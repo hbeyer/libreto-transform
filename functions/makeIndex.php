@@ -318,7 +318,7 @@ function preprocessFields($field, $value, $item) {
 			$value = 's. l.';
 		}
 	}
-	elseif($field == 'publisher') {
+	elseif($field == 'publishers') {
 		$value = trim($value, '[]');
 		$test = preg_match('~[sSoO]\.? ?[nN]\.?|ohne Angabe|unbekannt|ohne Namen~', $value);
 		if($value == '' or $test == 1) {

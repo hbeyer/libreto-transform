@@ -19,7 +19,7 @@ class flatItem {
 		public $contributor4;
 		public $place1;
 		public $place2;
-		public $publisher;
+		public $publishers;
 		public $year;
 		public $format;
 		public $histSubject;
@@ -70,7 +70,7 @@ function templateInsertItem($template, $item) {
 
 	//Einfügen der einfachen Felder
 	
-	$normalFields = array('id', 'pageCat', 'imageCat', 'numberCat', 'itemInVolume', 'titleCat', 'titleBib', 'titleNormalized', 'publisher', 'year', 'format', 'histSubject', 'mediaType', 'bound', 'comment', 'digitalCopy');
+	$normalFields = array('id', 'pageCat', 'imageCat', 'numberCat', 'itemInVolume', 'titleCat', 'titleBib', 'titleNormalized', 'year', 'format', 'histSubject', 'mediaType', 'bound', 'comment', 'digitalCopy');
 	
 	foreach($normalFields as $field) {
 		$template->$field = $item->$field;
@@ -87,7 +87,7 @@ function templateInsertItem($template, $item) {
 	}
 	
  	// Einfügen der durch ";" unterteilten Felder
-	$arrayFields = array('languages', 'subjects', 'genres', 'copiesHAB');
+	$arrayFields = array('languages', 'subjects', 'genres', 'publishers', 'copiesHAB');
 	foreach($arrayFields as $field) {
 		$string = implode(';', $item->$field);
 		$template->$field = $string;

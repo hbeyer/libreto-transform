@@ -14,7 +14,7 @@ class item	{ //Refers to an item (book, manuscript, etc.) listed in the catalogu
 	public $titleNormalized; // A normalized form of the title to facilitate reading and searching
 	public $persons = array(); //Objects of the class person
 	public $places = array(); //Objects of the class place
-	public $publisher;
+	public $publishers = array();
 	public $year;
 	public $format;
 	public $histSubject;
@@ -79,6 +79,7 @@ class item	{ //Refers to an item (book, manuscript, etc.) listed in the catalogu
 			$place->placeName = removeBrackets($value);
 			$this->places[] = $place;
 		}
+/*
 		elseif (substr($name, 0, 5) == 'Druck') {
 			if (!$this->publisher) {
 				$this->publisher = removeBrackets($value);
@@ -87,6 +88,13 @@ class item	{ //Refers to an item (book, manuscript, etc.) listed in the catalogu
 				$this->publisher .= '/'.removeBrackets($value);
 			}
 		}
+*/
+		elseif (substr($name, 0, 5) == 'Druck') {
+			$publishers = explode(';', $value);
+			array_map('trim', $publishers);
+			array_map('removeBrackets', $publishers);
+			array_merge($this->publishers, $publishers);
+		}		
 		elseif ($name == 'Sachbegriff') {
 			$this->subjects[] = $value;
 		}

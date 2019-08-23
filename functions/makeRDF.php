@@ -143,16 +143,15 @@ function addItem($graph, $item, $catalogue, $aadgenres) {
     if ($item->year) {
         $itemResource->addLiteral('dcmt:date', $item->year, 'xsd:gYear');
     }
-    if ($item->publisher) {
-        $itemResource->addLiteral('dcmt:publisher', $item->publisher);    
-    }
     if ($item->volumes) {
         $itemResource->addLiteral('dbo:numberOfVolumes', $item->volumes, 'xsd:integer');    
     }
     if ($item->format) {
         $itemResource->addLiteral('libreto:bibliographicalFormat', $item->format);    
     }
-
+    foreach ($item->publishers as $publisher) {
+        $itemResource->addLiteral('dcmt:publisher', $publisher); 
+    }
     foreach ($item->subjects as $subject) {
         $language = null;
         if (in_array(removeBlanks($subject), $aadgenres)) {
@@ -167,11 +166,9 @@ function addItem($graph, $item, $catalogue, $aadgenres) {
         }
         $itemResource->addLiteral('dbo:genre', $genre, $language); 
     }
-
     foreach ($item->languages as $language) {
         $itemResource->addLiteral('dcmt:language', $language, 'iso6392'); 
-    }
-    
+    }    
     if ($item->bound === 0 or $item->bound === '0') {
         $itemResource->addLiteral('libreto:physicalForm', 'ungebunden', 'de');
     }

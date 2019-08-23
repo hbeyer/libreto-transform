@@ -32,14 +32,14 @@ function makeItemFromAssocArray($row) {
 
 	$item = new item();
     
-    $simpleFields = array('pageCat', 'imageCat', 'numberCat', 'titleCat', 'titleBib', 'titleNormalized', 'publisher', 'year', 'format', 'mediaType', 'bound', 'comment', 'digitalCopy');
+    $simpleFields = array('pageCat', 'imageCat', 'numberCat', 'titleCat', 'titleBib', 'titleNormalized', 'year', 'format', 'mediaType', 'bound', 'comment', 'digitalCopy');
     foreach ($simpleFields as $field) {
         if (!empty($row[$field])) {
             $item->$field = trim($row[$field]);
         }
     }
 
-    $semicolonFields = array('subjects', 'genres', 'languages', 'copiesHAB');
+    $semicolonFields = array('subjects', 'genres', 'languages', 'publishers', 'copiesHAB');
     foreach ($semicolonFields as $field) {
         if (!empty($row[$field])) {
            	$item->$field = explode(';', $row[$field]);
@@ -215,7 +215,7 @@ function validateCSV($path, $minColumns) {
 
 function getColumnNames($path) {
 	$result = array();
-	$allowed = array('id', 'pageCat', 'imageCat', 'numberCat', 'itemInVolume', 'titleCat', 'titleBib', 'titleNormalized', 'author1', 'author2', 'author3', 'author4', 'contributor1', 'contributor2', 'contributor3', 'contributor4', 'place1', 'place2', 'publisher', 'year', 'format', 'histSubject', 'subjects', 'genres', 'mediaType', 'languages', 'systemManifestation', 'idManifestation', 'institutionOriginal', 'shelfmarkOriginal', 'provenanceAttribute', 'digitalCopyOriginal', 'targetOPAC', 'searchID', 'titleWork', 'systemWork', 'idWork', 'bound', 'comment', 'digitalCopy', 'copiesHAB');
+	$allowed = array('id', 'pageCat', 'imageCat', 'numberCat', 'itemInVolume', 'titleCat', 'titleBib', 'titleNormalized', 'author1', 'author2', 'author3', 'author4', 'contributor1', 'contributor2', 'contributor3', 'contributor4', 'place1', 'place2', 'publishers', 'year', 'format', 'histSubject', 'subjects', 'genres', 'mediaType', 'languages', 'systemManifestation', 'idManifestation', 'institutionOriginal', 'shelfmarkOriginal', 'provenanceAttribute', 'digitalCopyOriginal', 'targetOPAC', 'searchID', 'titleWork', 'systemWork', 'idWork', 'bound', 'comment', 'digitalCopy', 'copiesHAB');
 	$csv = file_get_contents($path);
 	$document = str_getcsv($csv, "\n");
 	$fieldNames = str_getcsv($document[0], ";");

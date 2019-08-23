@@ -2,15 +2,15 @@
 
 class facetList {
 
-    public $pages = array('histSubject', 'persName', 'year', 'placeName', 'subjects', 'genres', 'languages', 'publisher');
+    public $pages = array('histSubject', 'persName', 'year', 'placeName', 'subjects', 'genres', 'languages', 'publishers');
     public $doughnuts = array('histSubject', 'placeName', 'subjects', 'genres', 'format', 'mediaType', 'languages');
-    public $clouds = array('persName', 'placeName', 'subjects', 'genres', 'publisher');
+    public $clouds = array('persName', 'placeName', 'subjects', 'genres', 'publishers');
     public $volumeFields = array('numberCat', 'catSubjectFormat', 'histSubject');
 
 
-    private $allowedPages = array('numberCat', 'catSubjectFormat', 'shelfmarkOriginal', 'histSubject', 'persName', 'gender', 'beacon', 'year', 'subjects', 'histShelfmark', 'genres', 'languages', 'placeName', 'publisher', 'format', 'volumes', 'mediaType', 'bound', 'systemManifestation', 'institutionOriginal', 'provenanceAttribute', 'pageCat', 'titleWork', 'borrower', 'dateLending');
+    private $allowedPages = array('numberCat', 'catSubjectFormat', 'shelfmarkOriginal', 'histSubject', 'persName', 'gender', 'beacon', 'year', 'subjects', 'histShelfmark', 'genres', 'languages', 'placeName', 'publishers', 'format', 'volumes', 'mediaType', 'bound', 'systemManifestation', 'institutionOriginal', 'provenanceAttribute', 'pageCat', 'titleWork', 'borrower', 'dateLending');
     private $allowedDoughnuts = array('persName', 'gender', 'format', 'histSubject', 'subjects', 'genres', 'mediaType', 'languages', 'systemManifestation', 'institutionOriginal', 'provenanceAttribute', 'bound', 'beacon');
-    private $allowedClouds = array('publisher', 'format', 'histSubject', 'subjects', 'genres', 'mediaType', 'persName', 'gnd', 'role', 'placeName', 'languages', 'systemManifestation', 'institutionOriginal', 'shelfmarkOriginal', 'provenanceAttribute', 'beacon', 'borrower');
+    private $allowedClouds = array('publishers', 'format', 'histSubject', 'subjects', 'genres', 'mediaType', 'persName', 'gnd', 'role', 'placeName', 'languages', 'systemManifestation', 'institutionOriginal', 'shelfmarkOriginal', 'provenanceAttribute', 'beacon', 'borrower');
 
 
     function __construct($pages = null, $doughnuts = null, $clouds = null) {
