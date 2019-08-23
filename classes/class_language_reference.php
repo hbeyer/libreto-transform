@@ -117,7 +117,8 @@ abstract class language_reference {
 	    'vie' => 'Vietnamesisch',
 	    'vol' => 'Volapük',
 	    'gsw' => 'Waliserdeutsch',
-	    'bel' => 'Weißrussisch'
+	    'bel' => 'Weißrussisch',
+	    'mul' => 'Verschiedene Sprachen'
 	);
 
     static function getLanguage($code) {

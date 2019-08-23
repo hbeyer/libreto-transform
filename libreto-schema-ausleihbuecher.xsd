@@ -13,7 +13,7 @@
             <xs:documentation xml:lang="ger">Allgemeine Angaben zur rekonstruierten Sammlung und den verwendeten Quellen</xs:documentation>
         </xs:annotation>
         <xs:complexType>
-            <xs:all>
+            <xs:choice maxOccurs="unbounded">
                 <xs:element maxOccurs="1" ref="heading"/>
                 <xs:element minOccurs="0" maxOccurs="1" ref="owner"/>
                 <xs:element minOccurs="0" maxOccurs="1" ref="ownerGND"/>
@@ -28,7 +28,7 @@
                 <xs:element minOccurs="0" maxOccurs="1" ref="geoBrowserStorageID"/>
                 <xs:element minOccurs="0" ref="creatorReconstruction"/>
                 <xs:element minOccurs="0" maxOccurs="1" ref="yearReconstruction"/>
-            </xs:all>
+            </xs:choice>
         </xs:complexType>
     </xs:element>
     <xs:element name="heading" type="xs:string">
@@ -101,7 +101,7 @@
             <xs:documentation xml:lang="ger">Ein Sammlungsstück in der zu erschließenden historischen Sammlung (auch Titel genannt). Medientyp und bibliographisches Level ergeben sich aus den erhobenen Daten</xs:documentation>
         </xs:annotation>
         <xs:complexType>
-            <xs:all>
+            <xs:choice maxOccurs="unbounded">
                 <xs:element minOccurs="0" ref="titleCat"/>
                 <xs:element minOccurs="0" ref="titleBib"/>
                 <xs:element minOccurs="0" ref="id"/>
@@ -129,9 +129,30 @@
                 <xs:element minOccurs="0" ref="comment"/>
                 <xs:element minOccurs="0" ref="copiesHAB"/>
                 <xs:element minOccurs="0" ref="digitalCopy"/>
-            </xs:all>
+                <!-- Provisorische Felder -->
+                <xs:element minOccurs="0" maxOccurs="unbounded" ref="subjects_free"/>
+                <xs:element minOccurs="0" ref="edition"/>
+                <!-- Provisorische Felder -->
+            </xs:choice>
         </xs:complexType>
     </xs:element>
+
+    
+    <!-- Provisorische Felder -->
+    <xs:element name="subjects_free" type="xs:string">
+        <xs:annotation>
+            <xs:documentation xml:lang="ger">Provisorisches Feld für Ausleihbücher</xs:documentation>
+        </xs:annotation>
+    </xs:element>
+
+    <xs:element name="edition" type="xs:string">
+        <xs:annotation>
+            <xs:documentation xml:lang="ger">Provisorisches Feld für Ausleihbücher</xs:documentation>
+        </xs:annotation>
+    </xs:element>
+    <!-- Provisorische Felder -->
+
+
 
     <xs:element name="id" type="xs:string">
         <xs:annotation>
@@ -190,13 +211,13 @@
     </xs:element>
     <xs:element name="person">
         <xs:complexType>
-            <xs:all>
+            <xs:choice maxOccurs="unbounded">
                 <xs:element ref="persName"/>
                 <xs:element minOccurs="0" ref="gnd"/>
                 <xs:element minOccurs="0" ref="gender"/>
                 <xs:element minOccurs="0" maxOccurs="unbounded" ref="dateLending"/>
                 <xs:element ref="role"/>
-            </xs:all>
+            </xs:choice>
         </xs:complexType>
     </xs:element>
     <xs:element name="persName" type="xs:string">
