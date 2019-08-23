@@ -13,7 +13,7 @@
             <xs:documentation xml:lang="ger">Allgemeine Angaben zur rekonstruierten Sammlung und den verwendeten Quellen</xs:documentation>
         </xs:annotation>
         <xs:complexType>
-            <xs:choice maxOccurs="unbounded">
+            <xs:all>
                 <xs:element maxOccurs="1" ref="heading"/>
                 <xs:element minOccurs="0" maxOccurs="1" ref="owner"/>
                 <xs:element minOccurs="0" maxOccurs="1" ref="ownerGND"/>
@@ -22,13 +22,13 @@
                 <xs:element minOccurs="0" maxOccurs="1" ref="base"/>
                 <xs:element minOccurs="0" maxOccurs="1" ref="placeCat"/>
                 <xs:element maxOccurs="1" ref="year"/>
-                <xs:element minOccurs="1" maxOccurs="unbounded" ref="institution"/>
+                <xs:element minOccurs="1" ref="institution"/>
                 <xs:element minOccurs="0" maxOccurs="1" ref="shelfmark"/>
                 <xs:element minOccurs="0" maxOccurs="1" ref="description"/>
                 <xs:element minOccurs="0" maxOccurs="1" ref="geoBrowserStorageID"/>
-                <xs:element minOccurs="0" maxOccurs="unbounded"  ref="creatorReconstruction"/>
+                <xs:element minOccurs="0" ref="creatorReconstruction"/>
                 <xs:element minOccurs="0" maxOccurs="1" ref="yearReconstruction"/>
-            </xs:choice>
+            </xs:all>
         </xs:complexType>
     </xs:element>
     <xs:element name="heading" type="xs:string">
@@ -132,6 +132,7 @@
             </xs:all>
         </xs:complexType>
     </xs:element>
+
     <xs:element name="id" type="xs:string">
         <xs:annotation>
             <xs:documentation xml:lang="ger">Die ID wird vom System vergeben</xs:documentation>
@@ -189,13 +190,13 @@
     </xs:element>
     <xs:element name="person">
         <xs:complexType>
-            <xs:choice maxOccurs="unbounded">
+            <xs:all>
                 <xs:element ref="persName"/>
                 <xs:element minOccurs="0" ref="gnd"/>
                 <xs:element minOccurs="0" ref="gender"/>
                 <xs:element minOccurs="0" maxOccurs="unbounded" ref="dateLending"/>
                 <xs:element ref="role"/>
-            </xs:choice>
+            </xs:all>
         </xs:complexType>
     </xs:element>
     <xs:element name="persName" type="xs:string">
