@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <collection>
   <metadata>
     <owner>Antoinette Amalie von Braunschweig-Wolfenbüttel</owner>
@@ -4014,7 +4014,6 @@
         </geoData>
       </place>
     </places>
-    <publisher>Waisenhaus</publisher>
     <year>1715</year>
     <format>8°</format>
     <histSubject>I. Repositorium. in Octav</histSubject>
@@ -4036,6 +4035,9 @@
     <copiesHAB>
       <copyHAB>M: Th 828</copyHAB>
     </copiesHAB>
+    <publishers>
+      <publisher>Waisenhaus</publisher>
+    </publishers>
   </item>
   <item>
     <id>77</id>
@@ -4063,7 +4065,6 @@
         </geoData>
       </place>
     </places>
-    <publisher>Waisenhaus</publisher>
     <year>1730</year>
     <format>8°</format>
     <histSubject>I. Repositorium. in Octav</histSubject>
@@ -4085,6 +4086,9 @@
     <copiesHAB>
       <copyHAB>M: Te 977</copyHAB>
     </copiesHAB>
+    <publishers>
+      <publisher>Waisenhaus</publisher>
+    </publishers>
   </item>
   <item>
     <id>78</id>
@@ -4166,7 +4170,6 @@
         </geoData>
       </place>
     </places>
-    <publisher>Schreiber, Thomas Johann</publisher>
     <year>1743</year>
     <format>8°</format>
     <histSubject>I. Repositorium. in Octav</histSubject>
@@ -4189,6 +4192,9 @@
     <copiesHAB>
       <copyHAB>M: Te 1476</copyHAB>
     </copiesHAB>
+    <publishers>
+      <publisher>Schreiber, Thomas Johann</publisher>
+    </publishers>
   </item>
   <item>
     <id>80</id>
@@ -4216,7 +4222,6 @@
         </geoData>
       </place>
     </places>
-    <publisher>Esaiae Fellgiebels sel. Wittib und Erben</publisher>
     <year>1709</year>
     <format>8°</format>
     <histSubject>I. Repositorium. in Octav</histSubject>
@@ -4238,6 +4243,9 @@
     <copiesHAB>
       <copyHAB>M: Th 2406</copyHAB>
     </copiesHAB>
+    <publishers>
+      <publisher>Esaiae Fellgiebels sel. Wittib und Erben</publisher>
+    </publishers>
   </item>
   <item>
     <id>81</id>
@@ -4314,7 +4322,6 @@
         </geoData>
       </place>
     </places>
-    <publisher>Wiedemann, Johann Christian Otto</publisher>
     <year>1743</year>
     <format>8°</format>
     <histSubject>I. Repositorium. in Octav</histSubject>
@@ -4336,6 +4343,9 @@
     <copiesHAB>
       <copyHAB>M: Gm 3933</copyHAB>
     </copiesHAB>
+    <publishers>
+      <publisher>Wiedemann, Johann Christian Otto</publisher>
+    </publishers>
   </item>
   <item>
     <id>83</id>
@@ -5464,7 +5474,6 @@
         </geoData>
       </place>
     </places>
-    <publisher>Hassert, Nikolaus</publisher>
     <year>1700</year>
     <format>8°</format>
     <histSubject>I. Repositorium. in Octav</histSubject>
@@ -5486,6 +5495,9 @@
     <copiesHAB>
       <copyHAB>M: Ti 83</copyHAB>
     </copiesHAB>
+    <publishers>
+      <publisher>Hassert, Nikolaus</publisher>
+    </publishers>
   </item>
   <item>
     <id>108</id>
@@ -6366,7 +6378,6 @@
         </geoData>
       </place>
     </places>
-    <publisher>Heinich, Johann</publisher>
     <year>1690</year>
     <format>8° und 12°</format>
     <histSubject>I. Repositorium. in Octav. und Duod</histSubject>
@@ -6388,6 +6399,9 @@
     <copiesHAB>
       <copyHAB>M: Th 2280</copyHAB>
     </copiesHAB>
+    <publishers>
+      <publisher>Heinich, Johann</publisher>
+    </publishers>
   </item>
   <item>
     <id>127</id>
@@ -9953,7 +9967,6 @@
         </geoData>
       </place>
     </places>
-    <publisher>Zunner, Johann David</publisher>
     <format>2°</format>
     <histSubject>II und III. Repositorium. in Folio</histSubject>
     <subjects>
@@ -9975,6 +9988,9 @@
     <copiesHAB>
       <copyHAB>M: Ge 2° 4:1</copyHAB>
     </copiesHAB>
+    <publishers>
+      <publisher>Zunner, Johann David</publisher>
+    </publishers>
   </item>
   <item>
     <id>199</id>
@@ -10854,7 +10870,6 @@
         </geoData>
       </place>
     </places>
-    <publisher>Schröder, Ludolph</publisher>
     <year>1719</year>
     <format>4°</format>
     <histSubject>II. und III. Repositorium. in Quart</histSubject>
@@ -10876,6 +10891,9 @@
     <copiesHAB>
       <copyHAB>M: Gn 1008</copyHAB>
     </copiesHAB>
+    <publishers>
+      <publisher>Schröder, Ludolph</publisher>
+    </publishers>
   </item>
   <item>
     <id>217</id>
@@ -10935,7 +10953,6 @@
         <role>author</role>
       </person>
     </persons>
-    <publisher>Dentan, Jean Jaques</publisher>
     <year>1689</year>
     <format>4°</format>
     <histSubject>II. und III. Repositorium. in Quart</histSubject>
@@ -10957,6 +10974,9 @@
     <copiesHAB>
       <copyHAB>M: Kb 63</copyHAB>
     </copiesHAB>
+    <publishers>
+      <publisher>Dentan, Jean Jaques</publisher>
+    </publishers>
   </item>
   <item>
     <id>219</id>
@@ -13143,7 +13163,6 @@
         </geoData>
       </place>
     </places>
-    <publisher>Thomassin, Simon</publisher>
     <year>1694</year>
     <format>8°</format>
     <histSubject>II. und III. Repositorium. in Octav</histSubject>
@@ -13167,6 +13186,9 @@
       <copyHAB>M: Uf 195</copyHAB>
       <copyHAB>H: T 1059.4° Helmst.</copyHAB>
     </copiesHAB>
+    <publishers>
+      <publisher>Thomassin, Simon</publisher>
+    </publishers>
   </item>
   <item>
     <id>266</id>
@@ -21440,7 +21462,6 @@
         </geoData>
       </place>
     </places>
-    <publisher>Scheltus, Jacobus, I.</publisher>
     <year>1674</year>
     <format>12°</format>
     <histSubject>II. und III. Repositorium. in Duod</histSubject>
@@ -21465,6 +21486,9 @@
       <copyHAB>M: Gp 309</copyHAB>
       <copyHAB>M: Gp 310</copyHAB>
     </copiesHAB>
+    <publishers>
+      <publisher>Scheltus, Jacobus, I.</publisher>
+    </publishers>
   </item>
   <item>
     <id>436</id>
@@ -29046,7 +29070,6 @@
         </geoData>
       </place>
     </places>
-    <publisher>Schiller, Benjamin</publisher>
     <year>1703</year>
     <format>8° und 12°</format>
     <histSubject>IV. Repositorium. in Octav und Duod</histSubject>
@@ -29068,6 +29091,9 @@
     <copiesHAB>
       <copyHAB>M: Cc 363</copyHAB>
     </copiesHAB>
+    <publishers>
+      <publisher>Schiller, Benjamin</publisher>
+    </publishers>
   </item>
   <item>
     <id>600</id>
@@ -29149,7 +29175,6 @@
         </geoData>
       </place>
     </places>
-    <publisher>Hakelmann, Albrecht</publisher>
     <year>1646</year>
     <format>8° und 12°</format>
     <histSubject>IV. Repositorium. in Octav und Duod</histSubject>
@@ -29172,6 +29197,9 @@
     <copiesHAB>
       <copyHAB>M: Li 5859</copyHAB>
     </copiesHAB>
+    <publishers>
+      <publisher>Hakelmann, Albrecht</publisher>
+    </publishers>
   </item>
   <item>
     <id>602</id>
@@ -29366,7 +29394,6 @@
         </geoData>
       </place>
     </places>
-    <publisher>Fievet, Philipp II.</publisher>
     <year>1692</year>
     <format>12°</format>
     <histSubject>IV. Repositorium. in Duod</histSubject>
@@ -29388,6 +29415,9 @@
     <copiesHAB>
       <copyHAB>M: Gp 265</copyHAB>
     </copiesHAB>
+    <publishers>
+      <publisher>Fievet, Philipp II.</publisher>
+    </publishers>
   </item>
   <item>
     <id>606</id>
@@ -29571,7 +29601,6 @@
         </geoData>
       </place>
     </places>
-    <publisher>Groschuff, Friedrich</publisher>
     <year>1699</year>
     <format>12°</format>
     <histSubject>IV. Repositorium. in Duod</histSubject>
@@ -29593,6 +29622,9 @@
     <copiesHAB>
       <copyHAB>XFilm 20:6</copyHAB>
     </copiesHAB>
+    <publishers>
+      <publisher>Groschuff, Friedrich</publisher>
+    </publishers>
   </item>
   <item>
     <id>610</id>
@@ -30317,7 +30349,7 @@
       <shelfmarkOriginal>Cod. Guelf. 266. Extrav.</shelfmarkOriginal>
     </originalItem>
     <bound>1</bound>
-    <comment>Aus dem Besitz von Herzog Ferdinand Albrecht II. von Braunschweig. Alte Signatur R 6 - 665 - b. Unter dem Titel "Ortsverzeichnis zu einer Landkarte von Ungarn" in: Die neueren Handschriften der Gruppe Extravagantes. Teil 3. 220.1 Extrav. - 317 Extrav. Beschrieben von Wolf-Dieter Otte. Frankfurt a. M. 1993, S. 166.</comment>
+    <comment>Aus dem Besitz von Herzog Ferdinand Albrecht II. von Braunschweig. Alte Signatur R 6 - 665 - b. Unter dem Titel &quot;Ortsverzeichnis zu einer Landkarte von Ungarn&quot; in: Die neueren Handschriften der Gruppe Extravagantes. Teil 3. 220.1 Extrav. - 317 Extrav. Beschrieben von Wolf-Dieter Otte. Frankfurt a. M. 1993, S. 166.</comment>
   </item>
   <item>
     <id>627</id>
@@ -30812,7 +30844,6 @@
         </geoData>
       </place>
     </places>
-    <publisher>Krottendorf, Johann Friedrich</publisher>
     <year>1732-1733</year>
     <histSubject>Repositorium IV Bücher in allerley Format und Bande</histSubject>
     <subjects>
@@ -30833,6 +30864,9 @@
     <copiesHAB>
       <copyHAB>M: Gv 711</copyHAB>
     </copiesHAB>
+    <publishers>
+      <publisher>Krottendorf, Johann Friedrich</publisher>
+    </publishers>
   </item>
   <item>
     <id>639</id>
@@ -31831,7 +31865,6 @@
         </geoData>
       </place>
     </places>
-    <publisher>Schnorr, Paul Dietrich</publisher>
     <year>1735</year>
     <format>2°</format>
     <histSubject>Repositorium V LeichenPredigten und Parentationes in Folio</histSubject>
@@ -31855,6 +31888,9 @@
       <copyHAB>H: 1240 Helmst. Dr. 1</copyHAB>
       <copyHAB>H: Helmst. 23. Dr. 13.3</copyHAB>
     </copiesHAB>
+    <publishers>
+      <publisher>Schnorr, Paul Dietrich</publisher>
+    </publishers>
   </item>
   <item>
     <id>661</id>
@@ -31930,7 +31966,6 @@
         </geoData>
       </place>
     </places>
-    <publisher>König, Samuel</publisher>
     <year>1735</year>
     <format>2°</format>
     <histSubject>Repositorium V LeichenPredigten und Parentationes in Folio</histSubject>
@@ -31952,6 +31987,9 @@
     <copiesHAB>
       <copyHAB>Xa 4° 1:17 (9)</copyHAB>
     </copiesHAB>
+    <publishers>
+      <publisher>König, Samuel</publisher>
+    </publishers>
   </item>
   <item>
     <id>663</id>
@@ -32137,7 +32175,6 @@
         </geoData>
       </place>
     </places>
-    <publisher>Bartsch, Christian</publisher>
     <year>1704</year>
     <format>2°</format>
     <histSubject>Repositorium V LeichenPredigten und Parentationes in Folio</histSubject>
@@ -32159,6 +32196,9 @@
     <copiesHAB>
       <copyHAB>M: Gn 4° Sammelbd. 14 (1)</copyHAB>
     </copiesHAB>
+    <publishers>
+      <publisher>Bartsch, Christian</publisher>
+    </publishers>
   </item>
   <item>
     <id>667</id>
@@ -36722,7 +36762,6 @@
         </geoData>
       </place>
     </places>
-    <publisher>Néaulme, Jean</publisher>
     <year>1760</year>
     <format>8°</format>
     <histSubject>V. Repositorium. Mehrenteils Historische Bücher in Octav</histSubject>
@@ -36746,6 +36785,9 @@
     <copiesHAB>
       <copyHAB>M: Lm 1640a</copyHAB>
     </copiesHAB>
+    <publishers>
+      <publisher>Néaulme, Jean</publisher>
+    </publishers>
   </item>
   <item>
     <id>781</id>
@@ -38560,7 +38602,6 @@
         </geoData>
       </place>
     </places>
-    <publisher>Weygand</publisher>
     <year>1736-1737</year>
     <histSubject>V. Repositorium</histSubject>
     <subjects>
@@ -38578,6 +38619,9 @@
       <idManifestation>129847003</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <publishers>
+      <publisher>Weygand</publisher>
+    </publishers>
   </item>
   <item>
     <id>826</id>
