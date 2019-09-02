@@ -41,6 +41,10 @@ function makeIndex($data, $field) {
 	if($field == 'histSubject') {
 		$index = makeEntries($collect, $field);
 	}
+	elseif($field == 'numberCat') {
+		$collect = sortCollectInt($collect);
+		$index = makeEntries($collect, $field);
+	}
 	elseif(isset($collect)) {
 		$collect = sortCollect($collect);
 		$index = makeEntries($collect, $field);
@@ -409,6 +413,12 @@ function sortCollect($collect) {
 	else {
 		ksort($collect['collect'], SORT_STRING | SORT_FLAG_CASE);
 	}
+	$collect['collect'] = postponeVoid($collect['collect']);
+	return($collect);
+}
+
+function sortCollectInt($collect) {
+	ksort($collect['collect']);
 	$collect['collect'] = postponeVoid($collect['collect']);
 	return($collect);
 }

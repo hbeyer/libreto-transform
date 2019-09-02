@@ -26,8 +26,8 @@ gnd:117671622
   dc:type "Book" ;
   dc:title "Christophori a Costa aromatum & medicamentorum in Orientali India nascentium liber" ;
   dc:date "1582"@xsd:gYear ;
-  dc:publisher "Plantin" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Plantin" ;
   dc:subject "Pharmazie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -63,8 +63,8 @@ gnd:100003532
   dc:type "Book" ;
   dc:title "Theodori Adamii I.V.D. Ad doctrinae oratoriae studiosos in Acad. Iulia programma" ;
   dc:date "1598"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Rhetorik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -105,8 +105,8 @@ gnd:104106379
   dc:type "Book" ;
   dc:title "De vi rationis dicendi oratio" ;
   dc:date "1599"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Rhetorik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -136,8 +136,8 @@ gnd:104106379
   dc:type "Book" ;
   dc:title "Oratio funebris generosissimo et heroica indole perillustri adolescenti Iulio Holsatiae et Schomburgensium dynastae : in Academia Julia V. Eid. Mart. / Publice dicta a Theodoro Adamio: inde perscripta & edita" ;
   dc:date "1601"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Gelegenheitsschrift"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -167,8 +167,8 @@ gnd:104106379
   dc:type "Book" ;
   dc:title "Oratio funebris memoriae et honori meritissimae et illustrissimae heroinae Hedvigis Brandeburgicae, Brunsuigensium & Lunaeburgensium principis, / habita in Acad. Iulia a Theodoro Adamio, ipso die exequiarum, qui erat XIII. Cal. IX br. anno [MD]CII" ;
   dc:date "1602"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Gelegenheitsschrift"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -198,8 +198,8 @@ gnd:104106379
   dc:type "Book" ;
   dc:title "Viro clarissimo & excellentissimo dn. Duncano Liddelio Scoto philosophiae et medicinae doctori & superiorum mathematum professori, gratulantur collegae et familiares" ;
   dc:date "1596"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Gelegenheitsschrift"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -224,8 +224,8 @@ gnd:104106379
   dc:type "Book" ;
   dc:title "Aetii contractae ex veteribus medicinae tetra bibli" ;
   dc:date "1560"@xsd:gYear ;
-  dc:publisher "Honoratis" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Honoratis" ;
   dc:subject "Antike Medizin" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -261,8 +261,8 @@ gnd:100935516
   dc:type "Book" ;
   dc:title "Muhamedis Alfragani Arabis chronologica et astronomica elementa, e Palatinae bibliothecae veteribus libris versa, expleta, & scholiis expolita" ;
   dc:date "1590"@xsd:gYear ;
-  dc:publisher "Wechel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Wechel" ;
   dc:subject "Astronomie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -298,8 +298,8 @@ gnd:100728847
   dc:type "Book" ;
   dc:title "Historia plerarunque [sic] partium humani corporis, membratim scripta, et in usum tyronum retractatius edita" ;
   dc:date "1585"@xsd:gYear ;
-  dc:publisher "Cratonis" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Cratonis" ;
   dc:subject "Anatomie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -335,8 +335,8 @@ gnd:100006353
   dc:type "Book" ;
   dc:title "Alexandri Tralliani libri duodecim" ;
   dc:date "1575"@xsd:gYear ;
-  dc:publisher "Harsy" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Harsy" ;
   dc:subject "Antike Medizin" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -366,8 +366,8 @@ gnd:118869477
   dc:type "Book" ;
   dc:title "Divi Alphonsi Romanorum et Hispaniarum Regis, astronomicae tabulae in propriam integritatem restitutae" ;
   dc:date "1545"@xsd:gYear ;
-  dc:publisher "Wechel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Wechel" ;
   dc:subject "Astronomie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -403,8 +403,8 @@ gnd:11864811X
   dc:type "Book" ;
   dc:title "Paraphrasis in nonum librum Rhazae ad Regem Almansorem, de affectuum singularium corporis partium curatione" ;
   dc:date "1592"@xsd:gYear ;
-  dc:publisher "Lehman" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lehman" ;
   dc:subject "Therapeutik" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -434,8 +434,8 @@ gnd:118864173
   dc:type "Book" ;
   dc:title "De medendis febribus ars medica" ;
   dc:date "1569"@xsd:gYear ;
-  dc:publisher "Maria" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Maria" ;
   dc:subject "Therapeutik" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -471,8 +471,8 @@ gnd:100010652
   dc:type "Book" ;
   dc:title "Donati Antonii ab Altomari de medendis humani corporis malis, ars medica" ;
   dc:date "1570"@xsd:gYear ;
-  dc:publisher "Altomari" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Altomari" ;
   dc:subject "Therapeutik" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -497,8 +497,8 @@ gnd:100010652
   dc:type "Book" ;
   dc:title "Amati Lusitani curationum medicinalium centuriae duae, prima & secunda" ;
   dc:date "1567"@xsd:gYear ;
-  dc:publisher "Rouille" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Rouille" ;
   dc:subject "Therapeutik" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -528,8 +528,8 @@ gnd:119046776
   dc:type "Book" ;
   dc:title "Instrumentum sinuum seu primi mobilis" ;
   dc:date "1541"@xsd:gYear ;
-  dc:publisher "Petreius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Petreius" ;
   dc:subject "Astronomie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -565,8 +565,8 @@ gnd:118645455
   dc:type "Book" ;
   dc:title "Cosmographia Petri Apiani, per Gemmam Frisium apud Lovanienses medicum & mathematicum insignem, iam demum ab omnibus vindicata mendis, ac nonnullis quoque locis aucta. Additis eiusdem argumenti libellis ipsius Gemmae Frisii" ;
   dc:date "1550"@xsd:gYear ;
-  dc:publisher "Bontio" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Bontio" ;
   dc:subject "Geographie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -591,19 +591,25 @@ gnd:118645455
   dc:type "Book" ;
   dc:title "De recta curandorum vulnerum ratione, et aliis eius artis praeceptis libri II" ;
   dc:date "1574"@xsd:gYear ;
-  dc:publisher "Plantin" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Plantin" ;
   dc:subject "Therapeutik" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:hasPlace <br:liddel/places/Antwerpen> ;
   dc:creator gnd:129832286 ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=18700790X> ;
   libreto:hasOriginalItem <https://aulib.abdn.ac.uk/F?func=direct&local_base=ABN01&doc_number=401201> .
 
 gnd:129832286
   a libreto:Person ;
   foaf:name "Arcaeus, Franciscus" ;
   dc:identifier "129832286"^^gndo:gndIdentifier .
+
+<http://gso.gbv.de/DB=2.1/PPNSET?PPN=18700790X>
+  a libreto:Manifestation ;
+  libreto:database "Gemeinsamer Bibliotheksverbund (GBV)" ;
+  dc:identifier "18700790X" .
 
 <https://aulib.abdn.ac.uk/F?func=direct&local_base=ABN01&doc_number=401201>
   a libreto:OriginalItem ;
@@ -616,8 +622,8 @@ gnd:129832286
   dc:type "Book" ;
   dc:title "De morbis libri XIV" ;
   dc:date "1558"@xsd:gYear ;
-  dc:publisher "Forus" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Forus" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -647,13 +653,14 @@ gnd:124915248
   dc:type "Book" ;
   dc:title "Operum Aristotelis tomus I(II)" ;
   dc:date "1597"@xsd:gYear ;
-  dc:publisher "Laimarie, Guillaume de" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Laimarie, Guillaume de" ;
   dc:subject "Philosophie" ;
   dc:language "grc"@iso6392, "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:hasPlace <br:liddel/places/Genf> ;
   dc:creator gnd:118650130 ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=15122773X> ;
   libreto:hasOriginalItem <https://aulib.abdn.ac.uk/F?func=direct&local_base=ABN01&doc_number=860791> .
 
 <br:liddel/places/Genf>
@@ -667,6 +674,11 @@ gnd:118650130
   foaf:name "Aristoteles" ;
   dc:identifier "118650130"^^gndo:gndIdentifier .
 
+<http://gso.gbv.de/DB=2.1/PPNSET?PPN=15122773X>
+  a libreto:Manifestation ;
+  libreto:database "Gemeinsamer Bibliotheksverbund (GBV)" ;
+  dc:identifier "15122773X" .
+
 <https://aulib.abdn.ac.uk/F?func=direct&local_base=ABN01&doc_number=860791>
   a libreto:OriginalItem ;
   libreto:owner "Aberdeen, Sir Duncan Rice Library" ;
@@ -678,8 +690,8 @@ gnd:118650130
   dc:type "Book" ;
   dc:title "Aristotelis Organon : hoc est, libri ad logicam disciplinam pertinentes. Addita in fine varia locorum lectio" ;
   dc:date "1585"@xsd:gYear ;
-  dc:publisher "Wechel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Wechel" ;
   dc:subject "Philosophie" ;
   dc:language "grc"@iso6392, "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -709,8 +721,8 @@ gnd:118650130
   dc:type "Book" ;
   dc:title "Aristotelis Artis rhetoricae libri III. Rhetorices ad Alexandrum lib. I. De arte poetica liber I. : Addita in fine varia locorum lectio, partim e probatioribus editionibus; partim e Petri Victorij commentarijs, & aliorum doctorum virorum obseruationibus" ;
   dc:date "1584"@xsd:gYear ;
-  dc:publisher "Wechel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Wechel" ;
   dc:subject "Rhetorik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "grc"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -740,8 +752,8 @@ gnd:118650130
   dc:type "Book" ;
   dc:title "Aristotelis Ethicorum, sive De moribus, ad Nicomachum libri decem" ;
   dc:date "1584"@xsd:gYear ;
-  dc:publisher "Wechel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Wechel" ;
   dc:subject "Philosophie" ;
   dc:language "grc"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -766,8 +778,8 @@ gnd:118650130
   dc:type "Book" ;
   dc:title "Aristotelis Ethicorum magnoru[m] libri 2, Ethicoru[m] Eudemiorum l. 7 ; De virtutibus [et] vitijs l. 1. : Theophrasti Characteres ethici : Alexandri Aphrodis. Quod virtus non sufficiat ad beatitudinem" ;
   dc:date "1584"@xsd:gYear ;
-  dc:publisher "Wechel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Wechel" ;
   dc:subject "Philosophie" ;
   dc:language "grc"@iso6392, "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -797,8 +809,8 @@ gnd:118650130
   dc:type "Book" ;
   dc:title "Aristotelis Politicorum et oeconomicorum libri qui exstant" ;
   dc:date "1587"@xsd:gYear ;
-  dc:publisher "Wechel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Wechel" ;
   dc:subject "Philosophie" ;
   dc:language "grc"@iso6392, "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -828,8 +840,8 @@ gnd:118650130
   dc:type "Book" ;
   dc:title "Aristotelis Physicae auscultationis lib. 8. De De caelo 4. De gener. & corruptione 2. Meterologicorum 4. De Mundo I. De anima 3" ;
   dc:date "1584"@xsd:gYear ;
-  dc:publisher "Wechel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Wechel" ;
   dc:subject "Philosophie" ;
   dc:language "grc"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -854,8 +866,8 @@ gnd:118650130
   dc:type "Book" ;
   dc:title "Aristotelis et Theophrasti metaphysica" ;
   dc:date "1585"@xsd:gYear ;
-  dc:publisher "Wechel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Wechel" ;
   dc:subject "Philosophie" ;
   dc:language "grc"@iso6392, "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -885,8 +897,8 @@ gnd:118650130
   dc:type "Book" ;
   dc:title "Aristotelis, Alexandri, et Cassii Problemata, cum Theophrasteorum quorundam collectaneis" ;
   dc:date "1585"@xsd:gYear ;
-  dc:publisher "Wechel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Wechel" ;
   dc:subject "Philosophie" ;
   dc:language "grc"@iso6392, "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -911,8 +923,8 @@ gnd:118650130
   dc:type "Book" ;
   dc:title "Aristotelis Varia opuscula" ;
   dc:date "1587"@xsd:gYear ;
-  dc:publisher "Wechel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Wechel" ;
   dc:subject "Philosophie" ;
   dc:language "grc"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -942,8 +954,8 @@ gnd:118650130
   dc:type "Book" ;
   dc:title "De partibus animalium" ;
   dc:date "1585"@xsd:gYear ;
-  dc:publisher "Wechel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Wechel" ;
   dc:subject "Philosophie" ;
   dc:language "grc"@iso6392, "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -968,8 +980,8 @@ gnd:118650130
   dc:type "Book" ;
   dc:title "Aristotelis De animalium historia libri X. Additae Theophrasto collectanea quaedam de animalibus" ;
   dc:date "1587"@xsd:gYear ;
-  dc:publisher "Wechel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Wechel" ;
   dc:subject "Philosophie" ;
   dc:language "grc"@iso6392, "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -999,8 +1011,8 @@ gnd:118650130
   dc:type "Book" ;
   dc:title "Aristotelis opera quae exstant" ;
   dc:date "1584-1587"@xsd:gYear ;
-  dc:publisher "Wechel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Wechel" ;
   dc:subject "Philosophie" ;
   dc:language "grc"@iso6392, "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -1019,8 +1031,8 @@ gnd:118650130
   dc:type "Book" ;
   dc:title "Articella nuperrime impressa cum quam plurimis tractatibus pristinae impressioni superadditis" ;
   dc:date "1519"@xsd:gYear ;
-  dc:publisher "Myt" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Myt" ;
   dc:subject "Antike Medizin" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -1044,8 +1056,8 @@ gnd:118650130
   dc:type "Book" ;
   dc:title "Horatii Augenii epistolarum & consultationum medicinalium libri XXIII in duos tomos distributi" ;
   dc:date "1597"@xsd:gYear ;
-  dc:publisher "Wechel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Wechel" ;
   dc:subject "Consilia" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -1080,8 +1092,8 @@ gnd:122479807
   dc:type "Book" ;
   dc:title "Horatii Augenii de ratione curandi per sanguinis missionem libri XVII" ;
   dc:date "1598"@xsd:gYear ;
-  dc:publisher "Wechel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Wechel" ;
   dc:subject "Therapeutik" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -1111,8 +1123,8 @@ gnd:122479807
   dc:type "Book" ;
   dc:title "De gemmis et lapidibus pretiosis, eorumq[ue]; viribus & vsu tractatus, Italica lingua conscriptus" ;
   dc:date "1603"@xsd:gYear ;
-  dc:publisher "Becker" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Becker" ;
   dc:subject "Pharmazie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -1142,8 +1154,8 @@ gnd:124534406
   dc:type "Book" ;
   dc:title "Basilii Magni oratio ad adolescentes" ;
   dc:date "1599"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Theologie" ;
   dc:language "grc"@iso6392, "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -1173,8 +1185,8 @@ gnd:118637797
   dc:type "Book" ;
   dc:title "Caspari Bauhini Basil. Medici & Profess. De corporis humani fabrica libri IIII" ;
   dc:date "1590"@xsd:gYear ;
-  dc:publisher "Henricpetri" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Henricpetri" ;
   dc:subject "Anatomie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -1210,8 +1222,8 @@ gnd:11884962X
   dc:type "Book" ;
   dc:title "Bernardi Gordonii opus, Lilium medicinae inscriptum, de morborum prope omnium curatione" ;
   dc:date "1578"@xsd:gYear ;
-  dc:publisher "Rouille" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Rouille" ;
   dc:subject "Therapeutik" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -1241,8 +1253,8 @@ gnd:100937829
   dc:type "Book" ;
   dc:title "Bertrucii Bononiensis compendium sive collectorium artis medicae, tam practicae quam speculativae" ;
   dc:date "1537"@xsd:gYear ;
-  dc:publisher "Novesianum" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Novesianum" ;
   dc:subject "Medizin"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -1278,19 +1290,25 @@ gnd:10097029X
   dc:type "Book" ;
   dc:title "De peste quaestiones duae explicatae : una, sitne contagiosa, alter, an & quatenus sit Christianis per secessionem vitanda" ;
   dc:date "1579"@xsd:gYear ;
-  dc:publisher "Vignon" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Vignon" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:hasPlace <br:liddel/places/Genf> ;
   dc:creator gnd:118662864 ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=15036220X> ;
   libreto:hasOriginalItem <https://aulib.abdn.ac.uk/F?func=direct&local_base=ABN01&doc_number=397945> .
 
 gnd:118662864
   a libreto:Person ;
   foaf:name "Bèze, Théodore de" ;
   dc:identifier "118662864"^^gndo:gndIdentifier .
+
+<http://gso.gbv.de/DB=2.1/PPNSET?PPN=15036220X>
+  a libreto:Manifestation ;
+  libreto:database "Gemeinsamer Bibliotheksverbund (GBV)" ;
+  dc:identifier "15036220X" .
 
 <https://aulib.abdn.ac.uk/F?func=direct&local_base=ABN01&doc_number=397945>
   a libreto:OriginalItem ;
@@ -1303,8 +1321,8 @@ gnd:118662864
   dc:type "Book" ;
   dc:title "Biblia. Das ist : die ganze heylige Shrifft, Teutsch, Doct. Mart. Luth" ;
   dc:date "1595"@xsd:gYear ;
-  dc:publisher "Fischer" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Fischer" ;
   dc:subject "Theologie" ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -1328,8 +1346,8 @@ gnd:118662864
   dc:type "Book" ;
   dc:title "Io. Bodini methodus ad facilem historiarum cognitionem" ;
   dc:date "1591"@xsd:gYear ;
-  dc:publisher "Mareschal" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Mareschal" ;
   dc:subject "Geschichte" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -1359,8 +1377,8 @@ gnd:118512307
   dc:type "Book" ;
   dc:title "Pestordnung in der Stadt Hamburg" ;
   dc:date "1597"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Epidemiologie" ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -1396,8 +1414,8 @@ gnd:116223324
   dc:type "Book" ;
   dc:title "Theses de peste" ;
   dc:date "1591"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -1422,8 +1440,8 @@ gnd:116223324
   dc:type "Book" ;
   dc:title "Introductio. In divinam chemiae artem integra Magistri Boni Lombardi Ferrariensis physici" ;
   dc:date "1572"@xsd:gYear ;
-  dc:publisher "Henripectri" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Henripectri" ;
   dc:subject "Alchemie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -1453,8 +1471,8 @@ gnd:100050840
   dc:type "Book" ;
   dc:title "Ygieine. Sanitatis conservatrix. Seu in sex Galeni libros de sanitate tuenda enarratio" ;
   dc:date "1591"@xsd:gYear ;
-  dc:publisher "Myliander" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Myliander" ;
   dc:subject "Diätetik" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -1495,8 +1513,8 @@ gnd:116248424
   dc:type "Book" ;
   dc:title "Iacobi Bordingi medici clarissimi : physiologia. Ygieine. Pathologia. Prout has medicinae partes in inclytis Academiis Rostochiensi & Haffniensi, publice enarravit" ;
   dc:date "1591"@xsd:gYear ;
-  dc:publisher "Myliander" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Myliander" ;
   dc:subject "Medizin"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -1526,8 +1544,8 @@ gnd:116248424
   dc:type "Book" ;
   dc:title "Allgemeine Weltbeschreibung, : das ist: Eigentliche vn[d] warhafftige Erzehlung, aller der gantzen Welt vornembster Landschafften, Statten vnnd Volckern" ;
   dc:date "1596"@xsd:gYear ;
-  dc:publisher "Gymnich" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Gymnich" ;
   dc:subject "Geographie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -1557,8 +1575,8 @@ gnd:118942824
   dc:type "Book" ;
   dc:title "De mundi aetherei recentioribus phaenomenis" ;
   dc:date "1588"@xsd:gYear ;
-  dc:publisher "Weida" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Weida" ;
   dc:subject "Astronomie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -1599,8 +1617,8 @@ gnd:118514237
   dc:type "Book" ;
   dc:title "Tychonis Brahe Dani epistolarum astronomicarum libri" ;
   dc:date "1596"@xsd:gYear ;
-  dc:publisher "Brahe" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Brahe" ;
   dc:subject "Astronomie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392, "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -1630,8 +1648,8 @@ gnd:118514237
   dc:type "Book" ;
   dc:title "Astronomiae instauratae progymnasmata. Pars 1" ;
   dc:date "1610"@xsd:gYear ;
-  dc:publisher "Tampach" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Tampach" ;
   dc:subject "Astronomie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -1656,8 +1674,8 @@ gnd:118514237
   dc:type "Book" ;
   dc:title "Hieronimi Brasauolae de officiis medicis libellus" ;
   dc:date "1590"@xsd:gYear ;
-  dc:publisher "Mamarellum" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Mamarellum" ;
   dc:subject "Medizin"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -1693,8 +1711,8 @@ gnd:100053793
   dc:type "Book" ;
   dc:title "Hausz Artzneybuchlein, gute gebreuchliche vnd bewerte Artzneyen, zu allerhand gebrechen desz gantzen Leibs fur den gemeinen Man" ;
   dc:date "1580"@xsd:gYear ;
-  dc:publisher "Bassée, Nicolas" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Bassée, Nicolas" ;
   dc:subject "Pharmazie" ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -1724,13 +1742,14 @@ gnd:119238217
   dc:type "Book" ;
   dc:title "Therapeutica; hoc est, de sanitate restituenda, medicinae pars altera" ;
   dc:date "1598"@xsd:gYear ;
-  dc:publisher "Wechel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Wechel" ;
   dc:subject "Therapeutik" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:hasPlace <br:liddel/places/Frankfurt+am+Main> ;
   dc:creator gnd:119350386 ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=15106492X> ;
   libreto:hasOriginalItem <https://aulib.abdn.ac.uk/F?func=direct&local_base=ABN01&doc_number=858138> ;
   libreto:hasContext [
     a libreto:PhysicalContext ;
@@ -1743,6 +1762,11 @@ gnd:119350386
   foaf:name "Bright, Timothie" ;
   dc:identifier "119350386"^^gndo:gndIdentifier .
 
+<http://gso.gbv.de/DB=2.1/PPNSET?PPN=15106492X>
+  a libreto:Manifestation ;
+  libreto:database "Gemeinsamer Bibliotheksverbund (GBV)" ;
+  dc:identifier "15106492X" .
+
 <https://aulib.abdn.ac.uk/F?func=direct&local_base=ABN01&doc_number=858138>
   a libreto:OriginalItem ;
   libreto:owner "Aberdeen, Sir Duncan Rice Library" ;
@@ -1754,8 +1778,8 @@ gnd:119350386
   dc:type "Book" ;
   dc:title "Hygieina, id est, de sanitate tuenda, medicinae pars prima" ;
   dc:date "1598"@xsd:gYear ;
-  dc:publisher "Paltheniana" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Paltheniana" ;
   dc:subject "Diätetik" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -1785,8 +1809,8 @@ gnd:119350386
   dc:type "Book" ;
   dc:title "De sanitate tuenda, medicinae pars prima" ;
   dc:date "1588"@xsd:gYear ;
-  dc:publisher "Wechel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Wechel" ;
   dc:subject "Diätetik" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -1811,8 +1835,8 @@ gnd:119350386
   dc:type "Book" ;
   dc:title "De sanitate restituenda, medicinae pars altera" ;
   dc:date "1589"@xsd:gYear ;
-  dc:publisher "Wechel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Wechel" ;
   dc:subject "Therapeutik" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -1842,8 +1866,8 @@ gnd:119350386
   dc:type "Book" ;
   dc:title "Henrici Brucaei Belgae Mathematicarum Exercitationum Libri Duo" ;
   dc:date "1575"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Mathematik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -1873,8 +1897,8 @@ gnd:128649127
   dc:type "Book" ;
   dc:title "Propositiones sequentes de apoplexia" ;
   dc:date "1589"@xsd:gYear ;
-  dc:publisher "Myliander" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Myliander" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -1904,8 +1928,8 @@ gnd:128649127
   dc:type "Book" ;
   dc:title "Propositiones sequentes de hydrope" ;
   dc:date "1587"@xsd:gYear ;
-  dc:publisher "Myliander" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Myliander" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -1935,8 +1959,8 @@ gnd:128649127
   dc:type "Book" ;
   dc:title "De scorbuto" ;
   dc:date "1589"@xsd:gYear ;
-  dc:publisher "Myliander" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Myliander" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -1966,8 +1990,8 @@ gnd:128649127
   dc:type "Book" ;
   dc:title "Praxis medicinae theorica et empirica in qua morborum internorum cognitio, eosundemque curatio traditur" ;
   dc:date "1579"@xsd:gYear ;
-  dc:publisher "Plantin" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Plantin" ;
   dc:subject "Medizin"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -1997,8 +2021,8 @@ gnd:172853109
   dc:type "Book" ;
   dc:title "De re cibaria libri XXII, omnium ciborum genera, omnium gentium moribus & usu probata complectentes" ;
   dc:date "1600"@xsd:gYear ;
-  dc:publisher "Paltheniana" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Paltheniana" ;
   dc:subject "Diätetik" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -2028,8 +2052,8 @@ gnd:124549373
   dc:type "Book" ;
   dc:title "Commentariorum C. Iulii Caesaris de bello Gallico lib. VII. et civili Pompeiano lib. III" ;
   dc:date "1584"@xsd:gYear ;
-  dc:publisher "Wechel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Wechel" ;
   dc:subject "Geschichte" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -2059,8 +2083,8 @@ gnd:118518275
   dc:type "Book" ;
   dc:title "Observatio et descriptio novi sideris, qvod in principio Octobris Anno Christi 1572. forma stellae primae magnitudinis apparuit, & per totius Anni" ;
   dc:date "1573"@xsd:gYear ;
-  dc:publisher "Eichorn" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Eichorn" ;
   dc:subject "Astronomie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -2096,8 +2120,8 @@ gnd:119635690
   dc:type "Book" ;
   dc:title "Synopsis commentariorum de peste" ;
   dc:date "1583"@xsd:gYear ;
-  dc:publisher "Gerlachin" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Gerlachin" ;
   dc:subject "Epidemiologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -2127,8 +2151,8 @@ gnd:119101459
   dc:type "Book" ;
   dc:title "Ad illustrissimum potentissimumq; principem ac dominum Dn. Joachimum Fridericum Marchionem Brandeburgensem ... Francofurtum ingredientem, ut solenni more fidelitatis iuramento sibi cives obstringeret, gratulatio" ;
   dc:date "1598"@xsd:gYear ;
-  dc:publisher "Hartman" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Hartman" ;
   dc:subject "Politik" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -2158,8 +2182,8 @@ gnd:128981512
   dc:type "Book" ;
   dc:title "De vita ac laudibus dn. Lamperti Distelmeieri, Marchiae Cancellarij, politici, iurisconsulti & oratoris clarissimi./ Balthasaris Caminaei oratio" ;
   dc:date "1590"@xsd:gYear ;
-  dc:publisher "[s. n.]" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "[s. n.]" ;
   dc:subject "Gelegenheitsschrift"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -2184,8 +2208,8 @@ gnd:128981512
   dc:type "Book" ;
   dc:title "Hippocratis aphorismi, ex noua Claudii Campensii interpretatione" ;
   dc:date "1579"@xsd:gYear ;
-  dc:publisher "Ranot" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Ranot" ;
   dc:subject "Antike Medizin" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -2215,8 +2239,8 @@ gnd:119639785
   dc:type "Book" ;
   dc:title "Practica medicina seu methodus cognoscendorum et curandorum omnium humani corporis affectuum" ;
   dc:date "1594"@xsd:gYear ;
-  dc:publisher "Fischer" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Fischer" ;
   dc:subject "Medizin"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -2246,8 +2270,8 @@ gnd:124537359
   dc:type "Book" ;
   dc:title "De urinis tractatus" ;
   dc:date "1595"@xsd:gYear ;
-  dc:publisher "Faber" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Faber" ;
   dc:subject "Diagnostik" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -2278,8 +2302,8 @@ gnd:124537359
   dc:type "Book" ;
   dc:title "Contradicentium medicorum liber" ;
   dc:date "1545"@xsd:gYear ;
-  dc:publisher "Scotus" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Scotus" ;
   dc:subject "Medizin"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -2309,8 +2333,8 @@ gnd:11863822X
   dc:type "Book" ;
   dc:title "Tomus I. Hieronymi Cardani Mediolanensis civisque Bononiensis, ars curandi parua, quae est absolutiss. medendi methodus, & alia, nunc primum aedit, opera, in duos tomos divisa, quae versa pagina indicabit, omnia autem qualia sint autoris Epistola vere praedicat" ;
   dc:date "1566"@xsd:gYear ;
-  dc:publisher "Henricpetri" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Henricpetri" ;
   dc:subject "Therapeutik" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -2335,8 +2359,8 @@ gnd:11863822X
   dc:type "Book" ;
   dc:title "Io. Carionis mathematici chronicorum libri tres : catalogus Pontificorum, Caesarum, Regum & Ducum Venetorum" ;
   dc:date "1553"@xsd:gYear ;
-  dc:publisher "Valgris" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Valgris" ;
   dc:subject "Geschichte" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -2366,8 +2390,8 @@ gnd:119026376
   dc:type "Book" ;
   dc:title "Krautterbuch" ;
   dc:date "1589"@xsd:gYear ;
-  dc:publisher "Bertram" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Bertram" ;
   dc:subject "Pharmazie" ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -2408,8 +2432,8 @@ gnd:124534473
   dc:type "Book" ;
   dc:title "Practica, auss den furnemesten Secretis" ;
   dc:date "1590"@xsd:gYear ;
-  dc:publisher "Bertram" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Bertram" ;
   dc:subject "Medizin"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -2439,8 +2463,8 @@ gnd:124534473
   dc:type "Book" ;
   dc:title "Joannis Caselii Ad Graecarum disciplinarum & sincerae amicitiae cultores, in academia Julia, programma" ;
   dc:date "1598"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Gelegenheitsschrift"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -2470,8 +2494,8 @@ gnd:116118547
   dc:type "Book" ;
   dc:title "Io. Caselii Ad CL. V. Eobaldum Brummerum, I.U.D. amplissimae reip. Stargardiensis in Pomerania syndicum, lugentem carissimae uxoris obitum, pro consolatione epistola" ;
   dc:date "1598"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Gelegenheitsschrift"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -2501,8 +2525,8 @@ gnd:116118547
   dc:type "Book" ;
   dc:title "Joan. Caselii De bono academiae oratio" ;
   dc:date "1599"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Gelegenheitsschrift"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -2532,8 +2556,8 @@ gnd:116118547
   dc:type "Book" ;
   dc:title "Ioannis Caselii ad magnae exspectationis adolescentem, Leonardum de Borg, Osnabrugensem, epistola. Drasanti pathein" ;
   dc:date "1600"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Gelegenheitsschrift"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -2563,8 +2587,8 @@ gnd:116118547
   dc:type "Book" ;
   dc:title "Joan. Caselii Diamarturia adversum duos sycophanticos libellos, in contumeliam aliquot academiae Juliae philosophorum, nuper Lemgouiae editos" ;
   dc:date "1600"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Gelegenheitsschrift"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -2594,8 +2618,8 @@ gnd:116118547
   dc:type "Book" ;
   dc:title "Propolitikos" ;
   dc:date "1600"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Politik" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -2625,8 +2649,8 @@ gnd:116118547
   dc:type "Book" ;
   dc:title "Joannis Caselii Ad Ernestum viri nobilissimi, Joannis, serenissimo Electori Brandeburg. a consiliis, filium, Coderritium, parainesis" ;
   dc:date "1601"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Politik" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -2656,8 +2680,8 @@ gnd:116118547
   dc:type "Book" ;
   dc:title "Programma sub exequias serenissimae principis, divae Hedvigis Brandeburgicae : ad studiosam iuventutem academiae Iuliae" ;
   dc:date "1602"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Gelegenheitsschrift"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -2687,8 +2711,8 @@ gnd:116118547
   dc:type "Book" ;
   dc:title "Ioannis Caselii Ad Gregorium Cernicovium Francofurdianum : parainesis" ;
   dc:date "1602"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Politik" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -2718,8 +2742,8 @@ gnd:116118547
   dc:type "Book" ;
   dc:title "Diagraphē magisterii philosophici. / Joannis Caselii oratio" ;
   dc:date "1602"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Gelegenheitsschrift"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -2749,8 +2773,8 @@ gnd:116118547
   dc:type "Book" ;
   dc:title "Programma sub dies festos Paschatis, P.P. in academia Julia" ;
   dc:date "1603"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Gelegenheitsschrift"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -2780,8 +2804,8 @@ gnd:116118547
   dc:type "Book" ;
   dc:title "Programma, in academia Iulia Dionysijs P.P" ;
   dc:date "1603"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Gelegenheitsschrift"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -2811,8 +2835,8 @@ gnd:116118547
   dc:type "Book" ;
   dc:title "Ioan. Caselius, ad Laurentium Scheurlum, novum academiae Iuliae hospitem, xenios" ;
   dc:date "1594"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Gelegenheitsschrift"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -2837,8 +2861,8 @@ gnd:116118547
   dc:type "Book" ;
   dc:title "Ioan. Caselii ad Ernestum ab Honroda a nobis iter suscipientem patauium epistola. Ioan. Peparini ad eundem carmen propempticon" ;
   dc:date "1596"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Gelegenheitsschrift"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -2868,8 +2892,8 @@ gnd:116118547
   dc:type "Book" ;
   dc:title "Ioan. Caselii retor sive De magistro dicendi" ;
   dc:date "1596"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Rhetorik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -2899,8 +2923,8 @@ gnd:116118547
   dc:type "Book" ;
   dc:title "Ioannis Caselii neos kai prodidaskalos, ille ad tirones academicos, hic ad eos, qui in academiis privatas scholas habent" ;
   dc:date "1597"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Gelegenheitsschrift"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -2930,8 +2954,8 @@ gnd:116118547
   dc:type "Book" ;
   dc:title "Iouleion ad R.mum & Ill.mum principem Henricum Iulium, Episcopum Halberstad. Ducem Brunsuig. & Lunaeburg" ;
   dc:date "1596"@xsd:gYear ;
-  dc:publisher "Myliander" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Myliander" ;
   dc:subject "Gelegenheitsschrift"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -2961,8 +2985,8 @@ gnd:116118547
   dc:type "Book" ;
   dc:title "Joannis Caselii ad illustrissimum Principem Dn. Huldericum, serenissimi regis Daniae Friderici II. filium, heredem Noruegiae, Ducem Holsatiae etc. Epistola genethliaca" ;
   dc:date "1592"@xsd:gYear ;
-  dc:publisher "In Academia Julia" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "In Academia Julia" ;
   dc:subject "Gelegenheitsschrift"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -2987,8 +3011,8 @@ gnd:116118547
   dc:type "Book" ;
   dc:title "Joannis Caselii Ad Gvilelmvm Henricvm Cranichfeldivm. Epistola parainetik?" ;
   dc:date "1592"@xsd:gYear ;
-  dc:publisher "In Academia Julia" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "In Academia Julia" ;
   dc:subject "Politik" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -3018,8 +3042,8 @@ gnd:116118547
   dc:type "Book" ;
   dc:title "Ioannis Caselii Eucharistikos, Siue De Academia. Orationis argumentum sequente ad lectorem epistola plenius declaratur" ;
   dc:date "1592"@xsd:gYear ;
-  dc:publisher "In Academia Julia" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "In Academia Julia" ;
   dc:subject "Gelegenheitsschrift"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -3049,8 +3073,8 @@ gnd:116118547
   dc:type "Book" ;
   dc:title "Elogium Erhardi Hofmanni, bonarum artium magistri, professoris mathematum in acad. Iulia. Perscriptum ab Ioann. Caselio" ;
   dc:date "1593"@xsd:gYear ;
-  dc:publisher "In Academia Julia" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "In Academia Julia" ;
   dc:subject "Gelegenheitsschrift"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -3080,8 +3104,8 @@ gnd:116118547
   dc:type "Book" ;
   dc:title "Epitaphios Elisabethae Bureniae perscriptus ab Joanne Caselio" ;
   dc:date "1593"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Gelegenheitsschrift"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -3111,8 +3135,8 @@ gnd:116118547
   dc:type "Book" ;
   dc:title "Ioannis Caselii Programma P.P. Idib. Nouemb. 1593. Eiusdem commentatio: cum plaeriq; se à litteris, & per eas ad certum vitae genus, siue aliam professionem applicent, quibus litteris, tamquam necessarijs adminiculis illorum cuiq; ad finem suum opus esse videatur" ;
   dc:date "1594"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Gelegenheitsschrift"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -3142,8 +3166,8 @@ gnd:116118547
   dc:type "Book" ;
   dc:title "Ioannis Caselii Ad Guilelmum Henricum Cranichfeldium, Patricium Erphurdiensem epistola parainetik?. Eiusdem aliae, plaeraeq[ue] eiusdem generis" ;
   dc:date "1594"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Gelegenheitsschrift"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -3173,8 +3197,8 @@ gnd:116118547
   dc:type "Book" ;
   dc:title "Io. Caselii Ad Mathiam, generosi dn. Danielis filium, de Schulenburgk parainetikos" ;
   dc:date "1595"@xsd:gYear ;
-  dc:publisher "In Academia Julia" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "In Academia Julia" ;
   dc:subject "Gelegenheitsschrift"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -3204,8 +3228,8 @@ gnd:116118547
   dc:type "Book" ;
   dc:title "Ioannis Caselii oratio funebris Ioanni Georgio a Leisten, nobili equiti Megapolitano" ;
   dc:date "1596"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Gelegenheitsschrift"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -3235,8 +3259,8 @@ gnd:116118547
   dc:type "Book" ;
   dc:title "Tractatus brevis de natura, et causis pestis, quae hoc anno M.D. XCVI Hamburgensem civitatem affligit" ;
   dc:date "1596"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Epidemiologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -3266,8 +3290,8 @@ gnd:124497012
   dc:type "Book" ;
   dc:title "Keb?tos Th?baiu Pinax = Cebetis Thebani Tabvla : in qua omnes vitae humanae rationes ob oculos ponuntur, & vna vera ostenditur, quam ingredi oportet eum, qui se non ipse in exilium praecipitare, quam tuto loco constituere malit" ;
   dc:date "1594"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Philosophie" ;
   dc:language "grc"@iso6392, "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -3297,8 +3321,8 @@ gnd:100076378
   dc:type "Book" ;
   dc:title "De metallicis : libri tres" ;
   dc:date "1602"@xsd:gYear ;
-  dc:publisher "Agricola" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Agricola" ;
   dc:subject "Physik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -3328,8 +3352,8 @@ gnd:117668257
   dc:type "Book" ;
   dc:title "Enchiridion chirurgicum praeter tutissimam Chalmetei practicen breuem externorum affectuum theoriam complectens" ;
   dc:date "1588"@xsd:gYear ;
-  dc:publisher "Lertout" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lertout" ;
   dc:subject "Chirurgie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -3359,8 +3383,8 @@ gnd:1022100882
   dc:type "Book" ;
   dc:title "Enchiridion medicum de cognoscendis curandisque tam externis, quam internis humani corporis morbis" ;
   dc:date "1583"@xsd:gYear ;
-  dc:publisher "Oporinus" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Oporinus" ;
   dc:subject "Medizin"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -3390,8 +3414,8 @@ gnd:119091232
   dc:type "Book" ;
   dc:title "Tractatio geometrica. De qvadratvra circvli, in decem capita distribvta. Adversus errores tam veterum, quam recentiorum mechanicorum. / Scripta a M. Iacobo Christmanno Ioannisbergensi, inclytae Academiae Heidelbergensis Professore" ;
   dc:date "1595"@xsd:gYear ;
-  dc:publisher "Paltheniana" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Paltheniana" ;
   dc:subject "Mathematik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -3426,8 +3450,8 @@ gnd:124886760
   dc:type "Book" ;
   dc:title "Epistola chronologica ad clarissimvm virvm Ivstvm Lipsivm: qua constans annorum Hebraeorum connexio demonstratur, et non leues aliorum errores luculenter refutantur: / Scripta à M. Iacobo Christmanno Ioannisbergensi, inclytae academiae Heidelbergae Professore" ;
   dc:date "1591"@xsd:gYear ;
-  dc:publisher "Harnisch" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Harnisch" ;
   dc:subject "Astronomie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -3463,8 +3487,8 @@ gnd:124886760
   dc:type "Book" ;
   dc:title "Observationum solarium libri tres. In quibus explicatur verus motus solis in zodiaco: & universa doctrina triangulorum, ad rationes apparentium coelestium accommodatur" ;
   dc:date "1601"@xsd:gYear ;
-  dc:publisher "Zetzner" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Zetzner" ;
   dc:subject "Astronomie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -3489,8 +3513,8 @@ gnd:124886760
   dc:type "Book" ;
   dc:title "Davidis Chytraei Chronologia Historiae Herodoti et Thvcydidis. Cui adiecta est series temporum mundi à prima conditione usque ad hunc annum M. D. XCII. deducta" ;
   dc:date "1593"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Geschichte" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -3520,8 +3544,8 @@ gnd:119009137
   dc:type "Book" ;
   dc:title "Dauidis Chytraei chronici Saxoniae & vicini orbis arctoj pars secunda" ;
   dc:date "1590"@xsd:gYear ;
-  dc:publisher "Myliander" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Myliander" ;
   dc:subject "Geschichte" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -3546,8 +3570,8 @@ gnd:119009137
   dc:type "Book" ;
   dc:title "M. Tullii Ciceronis alterum epistolarum volumen. Ad T. Atticum. Ad M. Brutum. Ad Quintum fratrem. (Ad Octavium.)" ;
   dc:date "1541"@xsd:gYear ;
-  dc:publisher "Rihel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Rihel" ;
   dc:subject "Literatur" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -3577,8 +3601,8 @@ gnd:118520814
   dc:type "Book" ;
   dc:title "In hoc volumine haec continentur. Rhetoricorum ad C. Herennium lib. IIII, M.T. Ciceronis de inventione lib. II. Eiusdem de oratore ad Quintum fratrem lib. III ... de claris oratoribus ... lib. I .... orator ad Brutum lib. I ... topica ad Trebatium lib. I ... oratoriae partitiones lib. I" ;
   dc:date "1578"@xsd:gYear ;
-  dc:publisher "Rihel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Rihel" ;
   dc:subject "Rhetorik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -3603,8 +3627,8 @@ gnd:118520814
   dc:type "Book" ;
   dc:title "M.T. Ciceronis epistolarum volumen primum quod est librorum XVI" ;
   dc:date "1583"@xsd:gYear ;
-  dc:publisher "Rihel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Rihel" ;
   dc:subject "Literatur" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -3629,8 +3653,8 @@ gnd:118520814
   dc:type "Book" ;
   dc:title "M.T. Ciceronis librorum philosophicorum volumen I. Post Naugerianam & Victorianam correctionem, emendatum a Ioan. Sturmio" ;
   dc:date "1574"@xsd:gYear ;
-  dc:publisher "Rihel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Rihel" ;
   dc:subject "Philosophie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -3655,8 +3679,8 @@ gnd:118520814
   dc:type "Book" ;
   dc:title "M.T. Ciceronis de officiis lib. III. Cato maior, sive de Senectute. Laelius, sive de Amicitia. Somnium Scipionis. Paradox. Sylloge lib. de Repub. Post postremam Navgerianam & Victorianam correctionem, emendata a Ioanne Sturmio" ;
   dc:date "1582"@xsd:gYear ;
-  dc:publisher "Rihel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Rihel" ;
   dc:subject "Philosophie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -3681,19 +3705,25 @@ gnd:118520814
   dc:type "Book" ;
   dc:title "Caroli Clusii rariorum aliquot stirpium per Hispanias obseruatarum historia, libris duobus expressa" ;
   dc:date "1576"@xsd:gYear ;
-  dc:publisher "Plantin" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Plantin" ;
   dc:subject "Geschichte" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:hasPlace <br:liddel/places/Antwerpen> ;
   dc:creator gnd:118890646 ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=15117721X> ;
   libreto:hasOriginalItem <https://aulib.abdn.ac.uk/F?func=direct&local_base=ABN01&doc_number=398402> .
 
 gnd:118890646
   a libreto:Person ;
   foaf:name "L'Ecluse, Charles de" ;
   dc:identifier "118890646"^^gndo:gndIdentifier .
+
+<http://gso.gbv.de/DB=2.1/PPNSET?PPN=15117721X>
+  a libreto:Manifestation ;
+  libreto:database "Gemeinsamer Bibliotheksverbund (GBV)" ;
+  dc:identifier "15117721X" .
 
 <https://aulib.abdn.ac.uk/F?func=direct&local_base=ABN01&doc_number=398402>
   a libreto:OriginalItem ;
@@ -3706,8 +3736,8 @@ gnd:118890646
   dc:type "Book" ;
   dc:title "Caroli Clusii aliquot notae in Garciae aromatum historiam" ;
   dc:date "1582"@xsd:gYear ;
-  dc:publisher "Plantin" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Plantin" ;
   dc:subject "Pharmazie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -3732,8 +3762,8 @@ gnd:118890646
   dc:type "Book" ;
   dc:title "Baptistae Codronchii de vitiis vocis, libri duo" ;
   dc:date "1597"@xsd:gYear ;
-  dc:publisher "Wechel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Wechel" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -3763,8 +3793,8 @@ gnd:124764584
   dc:type "Book" ;
   dc:title "Disputationum medicarum de febris pestilentis cognitione et curatione, libri duo: / autore Gerardo Columba. Accessit tractatus singularis Nicolai Macchelli medici Mutimensis de morbo gallico, eiusque curatione" ;
   dc:date "1601"@xsd:gYear ;
-  dc:publisher "Beati" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Beati" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -3794,8 +3824,8 @@ gnd:124549179
   dc:type "Book" ;
   dc:title "Realdi Columbi de re anatomica libri XV" ;
   dc:date "1572"@xsd:gYear ;
-  dc:publisher "Wechel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Wechel" ;
   dc:subject "Anatomie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -3825,8 +3855,8 @@ gnd:119341026
   dc:type "Book" ;
   dc:title "Ioan. Petri Contareni Veneti Historiae de bello nuper Venetis a Selimo II. Turcarum Imperatore illato, liber unus" ;
   dc:date "1573"@xsd:gYear ;
-  dc:publisher "Perna" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Perna" ;
   dc:subject "Geschichte" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -3856,8 +3886,8 @@ gnd:104326034
   dc:type "Book" ;
   dc:title "De revolutionibus orbium caelestium" ;
   dc:date "1543"@xsd:gYear ;
-  dc:publisher "Petreius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Petreius" ;
   dc:subject "Astronomie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -3887,8 +3917,8 @@ gnd:118565273
   dc:type "Book" ;
   dc:title "De revolutionibus orbium caelestium" ;
   dc:date "1566"@xsd:gYear ;
-  dc:publisher "Petri" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Petri" ;
   dc:subject "Astronomie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -3913,8 +3943,8 @@ gnd:118565273
   dc:type "Book" ;
   dc:title "De igneis medicinae praesidiis libri duo" ;
   dc:date "1595"@xsd:gYear ;
-  dc:publisher "Meittum" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Meittum" ;
   dc:subject "Medizin"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -3944,8 +3974,8 @@ gnd:133059588
   dc:type "Book" ;
   dc:title "Diexodus medica de hepatis dispositionibus in publicam collationem" ;
   dc:date "1580"@xsd:gYear ;
-  dc:publisher "Ostein" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Ostein" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -3969,8 +3999,8 @@ gnd:13824426X
   dc:type "Book" ;
   dc:title "Hieronymi Crassi tractatus" ;
   dc:date "1562"@xsd:gYear ;
-  dc:publisher "Ziletti" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Ziletti" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -4000,8 +4030,8 @@ gnd:100094147
   dc:type "Book" ;
   dc:title "Consiliorum & epistolarum medicinalium [v. 1-5]" ;
   dc:date "1591-1594"@xsd:gYear ;
-  dc:publisher "Wechel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Wechel" ;
   dc:subject "Consilia" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -4031,8 +4061,8 @@ gnd:119440067
   dc:type "Book" ;
   dc:title "Medulla destillatoria et medica" ;
   dc:date "1594"@xsd:gYear ;
-  dc:publisher "Wegener" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Wegener" ;
   dc:subject "Pharmazie" ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -4068,8 +4098,8 @@ gnd:124521401
   dc:type "Book" ;
   dc:title "Lexicon graecolatinum recentiss" ;
   dc:date "1593"@xsd:gYear ;
-  dc:publisher "Laemarium" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Laemarium" ;
   dc:subject "Literatur" ;
   dc:language "lat"@iso6392, "grc"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -4099,8 +4129,8 @@ gnd:118862758
   dc:type "Book" ;
   dc:title "Dionis Chrysostomi elegantes & perbreves orationes duae : altera de philosophia, altera de philosopho" ;
   dc:date "1600"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Rhetorik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "grc"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -4130,8 +4160,8 @@ gnd:11867966X
   dc:type "Book" ;
   dc:title "De exercitio dicendi : oratio" ;
   dc:date "1595"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Rhetorik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -4156,19 +4186,25 @@ gnd:11867966X
   dc:type "Book" ;
   dc:title "Pedanii Dioscoridis de medicinali materia, libri sex" ;
   dc:date "1550"@xsd:gYear ;
-  dc:publisher "Arnollet" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Arnollet" ;
   dc:subject "Antike Medizin" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:hasPlace <br:liddel/places/Lyon> ;
   dc:creator gnd:118843400 ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=36625720X> ;
   libreto:hasOriginalItem <https://aulib.abdn.ac.uk/F?func=direct&local_base=ABN01&doc_number=401215> .
 
 gnd:118843400
   a libreto:Person ;
   foaf:name "Dioscorides, Pedanius" ;
   dc:identifier "118843400"^^gndo:gndIdentifier .
+
+<http://gso.gbv.de/DB=2.1/PPNSET?PPN=36625720X>
+  a libreto:Manifestation ;
+  libreto:database "Gemeinsamer Bibliotheksverbund (GBV)" ;
+  dc:identifier "36625720X" .
 
 <https://aulib.abdn.ac.uk/F?func=direct&local_base=ABN01&doc_number=401215>
   a libreto:OriginalItem ;
@@ -4181,8 +4217,8 @@ gnd:118843400
   dc:type "Book" ;
   dc:title "Florum, et coronariarum odoratarumque nonnullarum herbarum historia" ;
   dc:date "1568"@xsd:gYear ;
-  dc:publisher "Plantin" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Plantin" ;
   dc:subject "Pharmazie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -4217,8 +4253,8 @@ gnd:117646083
   dc:type "Book" ;
   dc:title "Historia frumentorum, leguminum, palustrium et aquatilium herbarum, ac eorum, quae eo pertinent" ;
   dc:date "1569"@xsd:gYear ;
-  dc:publisher "Plantin" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Plantin" ;
   dc:subject "Pharmazie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -4248,8 +4284,8 @@ gnd:117646083
   dc:type "Book" ;
   dc:title "Purgantium aliarumque eo facientium, tum et radicum, conuoluulorum ac deleteriarum herbarum histori libri IIII" ;
   dc:date "1574"@xsd:gYear ;
-  dc:publisher "Plantin" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Plantin" ;
   dc:subject "Pharmazie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -4274,8 +4310,8 @@ gnd:117646083
   dc:type "Book" ;
   dc:title "Dictionarium Theophrasti Paracelsi, continens obscuriorum vocabulorum, quibus in suis scriptus passim utitur, definitiones" ;
   dc:date "1583"@xsd:gYear ;
-  dc:publisher "Rab" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Rab" ;
   dc:subject "Alchemie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -4310,8 +4346,8 @@ gnd:12443794X
   dc:type "Book" ;
   dc:title "Ios. Quercetani cons. et medici regii Liber de priscorum philosophorum verae medicinae materia, praeparationis modo, atque in curandis morbis, praestantia" ;
   dc:date "1603"@xsd:gYear ;
-  dc:publisher "Vignon" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Vignon" ;
   dc:subject "Medizin"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -4346,8 +4382,8 @@ gnd:124523072
   dc:type "Book" ;
   dc:title "Ad veritatem hermeticae medicinae ex Hippocratis veterumque decretis ac therapeusi, nec non viuae rerum anatomicae exegesi, ipsiusque naturae luce stabliliendam, adversus cuiusdam anonymi phatasmata responsio" ;
   dc:date "1605"@xsd:gYear ;
-  dc:publisher "Richter" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Richter" ;
   dc:subject "Medizin"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -4372,8 +4408,8 @@ gnd:124523072
   dc:type "Book" ;
   dc:title "Historia plantarum. Earum imagines, nomenclaturae qualitates, & natale solum" ;
   dc:date "1561"@xsd:gYear ;
-  dc:publisher "Cotier" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Cotier" ;
   dc:subject "Pharmazie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -4403,8 +4439,8 @@ gnd:139220089
   dc:type "Book" ;
   dc:title "Moralis philosophiae medulla ... nempe Epicteti enchiricion" ;
   dc:date "1554"@xsd:gYear ;
-  dc:publisher "Rihel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Rihel" ;
   dc:subject "Philosophie" ;
   dc:language "lat"@iso6392, "grc"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -4434,8 +4470,8 @@ gnd:118530577
   dc:type "Book" ;
   dc:title "Apophthegmatum ex optimis utriusque linguae scriptoribus, per Des. Erasmum Rot. collectorum, libri VIII" ;
   dc:date "1558"@xsd:gYear ;
-  dc:publisher "Froben" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Froben" ;
   dc:subject "Literatur" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -4465,8 +4501,8 @@ gnd:118530666
   dc:type "Book" ;
   dc:title "Familiarium colloquiorum Des. Erasmi Rot. opus, ex postrema autoris recognitione, adiectis in margine difficilium locorum scholiis" ;
   dc:date "1551"@xsd:gYear ;
-  dc:publisher "Gymnich" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Gymnich" ;
   dc:subject "Literatur" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -4491,8 +4527,8 @@ gnd:118530666
   dc:type "Book" ;
   dc:title "Disputatio de putredine: in qua natura, differentiae, et causa putredinis, ex Aristotele, & ipsa rerum evidentia, clarè exponitur, consensio inter philosophos & medicos declaratur, omnia denique ad perfectam eius notitiam necessaria, diligenter explicantur" ;
   dc:date "1580"@xsd:gYear ;
-  dc:publisher "Ostein" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Ostein" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -4522,8 +4558,8 @@ gnd:118685066
   dc:type "Book" ;
   dc:title "Euclidis Megarensis Geometricorum eleme[n]torum libri XV" ;
   dc:date "1516"@xsd:gYear ;
-  dc:publisher "Estienne" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Estienne" ;
   dc:subject "Mathematik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -4553,8 +4589,8 @@ gnd:118638955
   dc:type "Book" ;
   dc:title "Gulielmi Fabricii selectae observationes chirurgicae quinque & viginti" ;
   dc:date "1598"@xsd:gYear ;
-  dc:publisher "Cartier" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Cartier" ;
   dc:subject "Chirurgie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -4584,8 +4620,8 @@ gnd:118531751
   dc:type "Book" ;
   dc:title "Gabrielis Faloppii libelli duo : alter de ulceribus, alter de tumoribus praeter naturam" ;
   dc:date "1563"@xsd:gYear ;
-  dc:publisher "Bertelli" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Bertelli" ;
   dc:subject "Medizin"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -4615,8 +4651,8 @@ gnd:117498564
   dc:type "Book" ;
   dc:title "Gabrielis Falloppii opera quae adhuc extant omnia" ;
   dc:date "1584"@xsd:gYear ;
-  dc:publisher "Wechel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Wechel" ;
   dc:subject "Medizin"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -4641,8 +4677,8 @@ gnd:117498564
   dc:type "Book" ;
   dc:title "Io. Fernelii de abditis rerum causis libri duo" ;
   dc:date "1581"@xsd:gYear ;
-  dc:publisher "Wechel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Wechel" ;
   dc:subject "Medizin"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -4677,8 +4713,8 @@ gnd:119220903
   dc:type "Book" ;
   dc:title "Io. Fernelii Ambiani, universa medicina" ;
   dc:date "1581"@xsd:gYear ;
-  dc:publisher "Wechel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Wechel" ;
   dc:subject "Medizin"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -4708,8 +4744,8 @@ gnd:119220903
   dc:type "Book" ;
   dc:title "Medicinalium consiliorum ... centuria" ;
   dc:date "1593"@xsd:gYear ;
-  dc:publisher "Wechel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Wechel" ;
   dc:subject "Consilia" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -4734,8 +4770,8 @@ gnd:119220903
   dc:type "Book" ;
   dc:title "Therapeutices vniuersalis, seu medendi rationis, libri septem" ;
   dc:date "1581"@xsd:gYear ;
-  dc:publisher "Wechel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Wechel" ;
   dc:subject "Therapeutik" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -4760,14 +4796,20 @@ gnd:119220903
   dc:type "Book" ;
   dc:title "De vacuandi ratione liber" ;
   dc:date "1549"@xsd:gYear ;
-  dc:publisher "Rouille" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Rouille" ;
   dc:subject "Therapeutik" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:hasPlace <br:liddel/places/Lyon> ;
   dc:creator gnd:119220903 ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=66608864> ;
   libreto:hasOriginalItem <https://aulib.abdn.ac.uk/F?func=direct&local_base=ABN01&doc_number=398028> .
+
+<http://gso.gbv.de/DB=2.1/PPNSET?PPN=66608864>
+  a libreto:Manifestation ;
+  libreto:database "Gemeinsamer Bibliotheksverbund (GBV)" ;
+  dc:identifier "66608864" .
 
 <https://aulib.abdn.ac.uk/F?func=direct&local_base=ABN01&doc_number=398028>
   a libreto:OriginalItem ;
@@ -4780,8 +4822,8 @@ gnd:119220903
   dc:type "Book" ;
   dc:title "Vera medendi methodus, duobus libris comprehensa" ;
   dc:date "1602"@xsd:gYear ;
-  dc:publisher "Fabrius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Fabrius" ;
   dc:subject "Therapeutik" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -4811,8 +4853,8 @@ gnd:172908213
   dc:type "Book" ;
   dc:title "Marsilii Ficini de vita libri tres" ;
   dc:date "1541"@xsd:gYear ;
-  dc:publisher "Westemerum" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Westemerum" ;
   dc:subject "Philosophie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -4842,8 +4884,8 @@ gnd:118532855
   dc:type "Book" ;
   dc:title "Thomae Finkii Flenspurgensis geometriae rotundi libri xiiii" ;
   dc:date "1583"@xsd:gYear ;
-  dc:publisher "Henripetri" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Henripetri" ;
   dc:subject "Mathematik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -4873,8 +4915,8 @@ gnd:116514272
   dc:type "Book" ;
   dc:title "Astronomicon" ;
   dc:date "1533"@xsd:gYear ;
-  dc:publisher "Hervag" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Hervag" ;
   dc:subject "Astronomie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -4904,8 +4946,8 @@ gnd:118683659
   dc:type "Book" ;
   dc:title "Observationum et curationum medicinalium. Book 29" ;
   dc:date "1603"@xsd:gYear ;
-  dc:publisher "Plantin" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Plantin" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -4941,8 +4983,8 @@ gnd:118994808
   dc:type "Book" ;
   dc:title "Obseruationum et curationum medicinalium libri tres, nempe tertius de febribus, intermittentibus, quartus de hecticis : ac quintus de febribus compositis" ;
   dc:date "1589"@xsd:gYear ;
-  dc:publisher "Plantin" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Plantin" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -4972,19 +5014,25 @@ gnd:118994808
   dc:type "Book" ;
   dc:title "Obseruationum & curationum medicinalium de febribus ephemeris et continuis libri duo" ;
   dc:date "1589"@xsd:gYear ;
-  dc:publisher "Plantin" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Plantin" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:hasPlace <br:liddel/places/Leiden> ;
   dc:creator gnd:118994808 ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=25272609X> ;
   libreto:hasOriginalItem <https://aulib.abdn.ac.uk/F?func=direct&local_base=ABN01&doc_number=401375> ;
   libreto:hasContext [
     a libreto:PhysicalContext ;
     libreto:position "2" ;
     libreto:inMiscellany <br:liddel/miscellany_20>
   ] .
+
+<http://gso.gbv.de/DB=2.1/PPNSET?PPN=25272609X>
+  a libreto:Manifestation ;
+  libreto:database "Gemeinsamer Bibliotheksverbund (GBV)" ;
+  dc:identifier "25272609X" .
 
 <https://aulib.abdn.ac.uk/F?func=direct&local_base=ABN01&doc_number=401375>
   a libreto:OriginalItem ;
@@ -4997,8 +5045,8 @@ gnd:118994808
   dc:type "Book" ;
   dc:title "Obseruationum & curationum medicinalium de febribus publice grassantibus liber sextus" ;
   dc:date "1591"@xsd:gYear ;
-  dc:publisher "Plantin" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Plantin" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -5028,8 +5076,8 @@ gnd:118994808
   dc:type "Book" ;
   dc:title "Obseruationum & curationonm[sic] medicinalium de febribus publice grassantibus liber sixtus [Dublette?]" ;
   dc:date "1591"@xsd:gYear ;
-  dc:publisher "Plantin" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Plantin" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -5053,8 +5101,8 @@ gnd:118994808
   dc:type "Book" ;
   dc:title "Obseruationum et curationum medicinalium libri tres, nempe tertius de febribus intermittentibus, quartus de hecticis : ac quintus de febribus compositis" ;
   dc:date "1591"@xsd:gYear ;
-  dc:publisher "Plantin" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Plantin" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -5084,8 +5132,8 @@ gnd:118994808
   dc:type "Book" ;
   dc:title "Obseruationum & curationum medicinalium de febribus ephemeris et continuis libri duo" ;
   dc:date "1593"@xsd:gYear ;
-  dc:publisher "Plantin" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Plantin" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -5115,8 +5163,8 @@ gnd:118994808
   dc:type "Book" ;
   dc:title "Observationum et curationum medicinalium libri tres" ;
   dc:date "1590"@xsd:gYear ;
-  dc:publisher "Plantin" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Plantin" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -5141,8 +5189,8 @@ gnd:118994808
   dc:type "Book" ;
   dc:title "De Holometri fabrica et usu instrumento geometrico olim ab Abele Fullonio ... invento" ;
   dc:date "1577"@xsd:gYear ;
-  dc:publisher "Perna" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Perna" ;
   dc:subject "Mathematik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -5172,8 +5220,8 @@ gnd:100815235
   dc:type "Book" ;
   dc:title "Le cose maravigliose dell' alma citta di Roma" ;
   dc:date "1561"@xsd:gYear ;
-  dc:publisher "Blado" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Blado" ;
   dc:subject "Geographie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "ita"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -5203,8 +5251,8 @@ gnd:123614805
   dc:type "Book" ;
   dc:title "Salomonis Frencelii de concordia oratio" ;
   dc:date "1597"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Politik" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -5234,8 +5282,8 @@ gnd:100126030
   dc:type "Book" ;
   dc:title "Salomonis Frencelii de triplici Patria oratio. Habita in Academiâ Iulia. Accesserunt clarorum virorum Epistolae, etc" ;
   dc:date "1594"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Philosophie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -5260,8 +5308,8 @@ gnd:100126030
   dc:type "Book" ;
   dc:title "De sanandis totius humani corporis malis libri quinque" ;
   dc:date "1547"@xsd:gYear ;
-  dc:publisher "Frellon" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Frellon" ;
   dc:subject "Medizin"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -5291,8 +5339,8 @@ gnd:119059487
   dc:type "Book" ;
   dc:title "Methodus seu ratio compendiaria cognoscendi veram solidamque medicinam" ;
   dc:date "1550"@xsd:gYear ;
-  dc:publisher "Du Puys" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Du Puys" ;
   dc:subject "Medizin"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -5317,8 +5365,8 @@ gnd:119059487
   dc:type "Book" ;
   dc:title "Programma P.P. in funere lectissimae foeminae, coniugis doctissimi viri Theodori Hupaei, ICti" ;
   dc:date "1602"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Gelegenheitsschrift"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -5348,8 +5396,8 @@ gnd:100407749
   dc:type "Book" ;
   dc:title "De lumbricis alvum occupantibus, ac de ratione curandi eos, qui ab illis infestantur, commentarius, / Hieronymo Gabucino Fanensi autore. Index omnium capitum rerumq[ue] hoc libro memorabilium, cum Graecarum vocum interpretatione accuratissima" ;
   dc:date "1549"@xsd:gYear ;
-  dc:publisher "Rouille" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Rouille" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -5379,8 +5427,8 @@ gnd:100136532
   dc:type "Book" ;
   dc:title "Io. Baptistae Montani in libros Galeni de arte curandi ad Glauconem explanationes" ;
   dc:date "1554"@xsd:gYear ;
-  dc:publisher "Constantinus" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Constantinus" ;
   dc:subject "Antike Medizin" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -5410,8 +5458,8 @@ gnd:128545720
   dc:type "Book" ;
   dc:title "Clavdii Galeni Pergamensis De tuenda ualetudine secunda, libri sex" ;
   dc:date "1538-1539"@xsd:gYear ;
-  dc:publisher "Lasius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lasius" ;
   dc:subject "Antike Medizin" ;
   dc:language "grc"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -5441,8 +5489,8 @@ gnd:118537202
   dc:type "Book" ;
   dc:title "Claudii Galeni Pergameni Asclepiadeae verae veterisque medicinae instauratoris liber absolutissimus, quem tekhnen iatriken, hoc est, artem medicinalem, inscripsit" ;
   dc:date "1541"@xsd:gYear ;
-  dc:publisher "Westemer" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Westemer" ;
   dc:subject "Antike Medizin" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -5467,8 +5515,8 @@ gnd:118537202
   dc:type "Book" ;
   dc:title "Galeni aureolus libellus : quomodo quis & dinoscat & sanet proprios animi sui affectus: ex emendatione accurata" ;
   dc:date "1592"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Antike Medizin" ;
   dc:language "grc"@iso6392, "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -5498,8 +5546,8 @@ gnd:118537202
   dc:type "Book" ;
   dc:title "Galeni libellus quemadmodum quis animi sui affectus dinoscat & corrigat. / Joanne Caselio interprete" ;
   dc:date "1596"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Antike Medizin" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -5529,8 +5577,8 @@ gnd:118537202
   dc:type "Book" ;
   dc:title "Epitomes omnium Galeni ... operum ... sectio prima (-quarta) per Andream Locunam ... collecta" ;
   dc:date "1548"@xsd:gYear ;
-  dc:publisher "Scotus" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Scotus" ;
   dc:subject "Antike Medizin" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -5555,8 +5603,8 @@ gnd:118537202
   dc:type "Book" ;
   dc:title "Cl. Galeni ... omnia, quae extant, in Latinum sermonem conversa ... His accedunt nunc primum Con. Gesneri Praefatio et Prolegomena tripartita, De vita Galeni, eiusque libris et interpretibus. Ex III. Officin. Frobenianae editione" ;
   dc:date "1561-1562"@xsd:gYear ;
-  dc:publisher "Froben" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Froben" ;
   dc:subject "Antike Medizin" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -5581,8 +5629,8 @@ gnd:118537202
   dc:type "Book" ;
   dc:title "Theatrum Galeni, hoc est, universae medicinae a ... Galeno traditae promptuarium, quo vel indicis loco in omnes Galeni libros" ;
   dc:date "1568"@xsd:gYear ;
-  dc:publisher "Episcopius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Episcopius" ;
   dc:subject "Antike Medizin" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -5607,8 +5655,8 @@ gnd:118537202
   dc:type "Book" ;
   dc:title "De arthritidis praeseruatione, et curatione clarorum medicorum, consilia" ;
   dc:date "1592"@xsd:gYear ;
-  dc:publisher "Wechel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Wechel" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -5638,8 +5686,8 @@ gnd:119681447
   dc:type "Book" ;
   dc:title "Auli Gellii luculentissimi scriptoris, Noctes Atticae. Accesserunt ... Petri Mosellani in easdem perdoctae annotationes, suis quaeque locis appositae" ;
   dc:date "1537"@xsd:gYear ;
-  dc:publisher "Gymnich" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Gymnich" ;
   dc:subject "Rhetorik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -5669,8 +5717,8 @@ gnd:174132174
   dc:type "Book" ;
   dc:title "Gemmae Frisii de radio astronomico et geometrico liber" ;
   dc:date "1545"@xsd:gYear ;
-  dc:publisher "Bontiou" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Bontiou" ;
   dc:subject "Astronomie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -5700,8 +5748,8 @@ gnd:111548993
   dc:type "Book" ;
   dc:title "Epistolarum medicinalium libri III" ;
   dc:date "1577"@xsd:gYear ;
-  dc:publisher "Frosch" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Frosch" ;
   dc:subject "Consilia" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -5737,8 +5785,8 @@ gnd:118694413
   dc:type "Book" ;
   dc:title "Sanitatis tuendae praecepta" ;
   dc:date "1556"@xsd:gYear ;
-  dc:publisher "Gesner" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Gesner" ;
   dc:subject "Diätetik" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -5763,8 +5811,8 @@ gnd:118694413
   dc:type "Book" ;
   dc:title "In nonum librum Rasis Arabis medici ad Almansorem regem, de partium morbis eruditissima commentaria" ;
   dc:date "1564"@xsd:gYear ;
-  dc:publisher "Perna" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Perna" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -5794,8 +5842,8 @@ gnd:100288286
   dc:type "Book" ;
   dc:title "Pauli Iovii ... historiarum sui temporis" ;
   dc:date "1555-1556"@xsd:gYear ;
-  dc:publisher "Frisius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Frisius" ;
   dc:subject "Geschichte" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -5819,8 +5867,8 @@ gnd:118958682
   dc:type "Book" ;
   dc:title "Isagoge optica : Cum disceptatione geometrica de vniuerso geometriae magisterio, hoc est, geodaesia rectarum per radium, & aliis quaestionibus philosophicis, iuxta auream P. Rami methodum concinnata, et in inclyta Marpurgensi Academia pro insignibus magisterii philosophici consequendis publice ad disputandum proposita sub praesidio philosophi acutissimi" ;
   dc:date "1593"@xsd:gYear ;
-  dc:publisher "Wechel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Wechel" ;
   dc:subject "Physik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -5850,8 +5898,8 @@ gnd:119396181
   dc:type "Book" ;
   dc:title "Secreta medicinae Guilelmi Varignanae medici consumatissimi ad varios curandos morbos veriss. auctoritatibus illustrata" ;
   dc:date "1597"@xsd:gYear ;
-  dc:publisher "Henricpetri" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Henricpetri" ;
   dc:subject "Therapeutik" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -5881,8 +5929,8 @@ gnd:100944639
   dc:type "Book" ;
   dc:title "Thaddaei Hagecii ab Hayck epistola ad Martinum Mulium" ;
   dc:date "1580"@xsd:gYear ;
-  dc:publisher "Fritsch" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Fritsch" ;
   dc:subject "Physik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -5918,8 +5966,8 @@ gnd:123435919
   dc:type "Book" ;
   dc:title "Apodixis physica et mathematica de cometis tum in genere" ;
   dc:date "1591"@xsd:gYear ;
-  dc:publisher "Fritsch" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Fritsch" ;
   dc:subject "Physik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -5944,8 +5992,8 @@ gnd:123435919
   dc:type "Book" ;
   dc:title "Opticae thesaurus" ;
   dc:date "1572"@xsd:gYear ;
-  dc:publisher "Episciopus" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Episciopus" ;
   dc:subject "Physik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -5975,8 +6023,8 @@ gnd:118648160
   dc:type "Book" ;
   dc:title "De elementis, horum mixtione, mixtorumq[ue] ratione seu temperamento" ;
   dc:date "1590"@xsd:gYear ;
-  dc:publisher "Bertram" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Bertram" ;
   dc:subject "Physik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -6006,8 +6054,8 @@ gnd:116550473
   dc:type "Book" ;
   dc:title "Kurtze und Notwendige Ordnung: Wie man sich in jetzt grassierender geschwinden Pestilentz mit Gottlicher hulff praeseruieren, oder vor dem Gifft verwaren muge" ;
   dc:date "1597"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Epidemiologie" ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -6037,8 +6085,8 @@ gnd:6016963-1
   dc:type "Book" ;
   dc:title "De partis affectae dignotione, theses: qvas, praeside diuina triade, ex decreto iussuq[ue] ampliss. et claris. Collegij Asclepiadei in florentiss. ac celeberr. Basiliensium Academia, pro felici Laureae Apollineae Doctoralis impetratione, publicè defendas suscipiet Andreas Helvvigius Anclamensium Pom. Med. ord. Ad 20. Iunij, hora locoq[ue] consuetis" ;
   dc:date "1587"@xsd:gYear ;
-  dc:publisher "Ostein" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Ostein" ;
   dc:subject "Diagnostik" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -6068,8 +6116,8 @@ gnd:12481476X
   dc:type "Book" ;
   dc:title "Ioannis Heurnii de febribus liber" ;
   dc:date "1598"@xsd:gYear ;
-  dc:publisher "Plantin" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Plantin" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -6104,8 +6152,8 @@ gnd:119011832
   dc:type "Book" ;
   dc:title "Ioannis Heurnii de peste liber" ;
   dc:date "1600"@xsd:gYear ;
-  dc:publisher "Plantin" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Plantin" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -6135,8 +6183,8 @@ gnd:119011832
   dc:type "Book" ;
   dc:title "De morbis pectoris liber" ;
   dc:date "1602"@xsd:gYear ;
-  dc:publisher "Plantin" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Plantin" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -6166,8 +6214,8 @@ gnd:119011832
   dc:type "Book" ;
   dc:title "De morbis oculorum, aurium, nasi, dentium et oris, liber" ;
   dc:date "1602"@xsd:gYear ;
-  dc:publisher "Plantin" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Plantin" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -6197,8 +6245,8 @@ gnd:119011832
   dc:type "Book" ;
   dc:title "Praxis medicinae nova ratio, qua, libris tribus methodi ad praxin medicam, aditus focillimus aperitur ad omnes morbos curandos" ;
   dc:date "1590"@xsd:gYear ;
-  dc:publisher "Plantin" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Plantin" ;
   dc:subject "Therapeutik" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -6223,8 +6271,8 @@ gnd:119011832
   dc:type "Book" ;
   dc:title "I. Heurnii de morbis qui in singulis partibus humani capitis insidere consueverunt" ;
   dc:date "1594"@xsd:gYear ;
-  dc:publisher "Plantin" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Plantin" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -6249,8 +6297,8 @@ gnd:119011832
   dc:type "Book" ;
   dc:title "Iacobi Hollerii ... in Aphorismos Hippocratis commentarii septem, illustrati scholiis ... per Ioan. Liebautium" ;
   dc:date "1597"@xsd:gYear ;
-  dc:publisher "Osthaus" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Osthaus" ;
   dc:subject "Antike Medizin" ;
   dc:language "grc"@iso6392, "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -6286,8 +6334,8 @@ gnd:100975429
   dc:type "Book" ;
   dc:title "Hippocratis Aphorismi Graece et Latine ... cum brevi expositione ex Galeni commentariis desumpta. Eiusd. Hippocr. Praenotionum libri tres, cum explicatione eodem ex fonte hausta. Per Ioannem Butinum. Insigniores aliquot sententiae selectae ex libris Aurelii Cornelii Celsi" ;
   dc:date "1580"@xsd:gYear ;
-  dc:publisher "Tornaesius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Tornaesius" ;
   dc:subject "Antike Medizin" ;
   dc:language "grc"@iso6392, "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -6317,8 +6365,8 @@ gnd:11855140X
   dc:type "Book" ;
   dc:title "Liber prognosticorum Hippocratis Coi ... nuper e graeco in latinum sermonem translatus : additis annotationibus in Galeni commentarios ... autore Christophoro de Vega" ;
   dc:date "1551"@xsd:gYear ;
-  dc:publisher "Beringos" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Beringos" ;
   dc:subject "Antike Medizin" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -6343,8 +6391,8 @@ gnd:11855140X
   dc:type "Book" ;
   dc:title "Hippolyti episcopi Canon Paschalis : cvm Iosephi Scaligeri commentario. Excerpta ex Computo Graeco Isacii Argyri de correctione Paschatis. Ioseph Scligeri Elenchus & castigatio anni Gregoriani" ;
   dc:date "1595"@xsd:gYear ;
-  dc:publisher "Plantin" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Plantin" ;
   dc:subject "Mathematik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -6374,8 +6422,8 @@ gnd:118551418
   dc:type "Book" ;
   dc:title "Opera mineralia, siue de Lapide Philosophico" ;
   dc:date "1600"@xsd:gYear ;
-  dc:publisher "Schilders" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Schilders" ;
   dc:subject "Alchemie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -6411,8 +6459,8 @@ gnd:129564311
   dc:type "Book" ;
   dc:title "Archimedis opinio de arenae numero explicata et geometricè examinata" ;
   dc:date "1593"@xsd:gYear ;
-  dc:publisher "Lamberg" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lamberg" ;
   dc:subject "Mathematik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -6442,19 +6490,25 @@ gnd:104375299
   dc:type "Book" ;
   dc:title "De mysteriis Aegyptiorvm, Chaldaeorum, Assyriorum. Procluvs in Platonicum alcibiadem de anima, atque daemone. Item de sacrificio & magia. Poryhyrivs de diuinu atq[ue] daemonib[us]. Psellvs de daemonibus. Mercvrii trismegisti Pimander. Eiusdem Asclepius" ;
   dc:date "1577"@xsd:gYear ;
-  dc:publisher "Tournes" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Tournes" ;
   dc:subject "Philosophie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:hasPlace <br:liddel/places/Lyon> ;
   dc:creator gnd:118555154 ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=22535196X> ;
   libreto:hasOriginalItem <https://aulib.abdn.ac.uk/F?func=direct&local_base=ABN01&doc_number=851626> .
 
 gnd:118555154
   a libreto:Person ;
   foaf:name "Iamblichus Chalcidensis" ;
   dc:identifier "118555154"^^gndo:gndIdentifier .
+
+<http://gso.gbv.de/DB=2.1/PPNSET?PPN=22535196X>
+  a libreto:Manifestation ;
+  libreto:database "Gemeinsamer Bibliotheksverbund (GBV)" ;
+  dc:identifier "22535196X" .
 
 <https://aulib.abdn.ac.uk/F?func=direct&local_base=ABN01&doc_number=851626>
   a libreto:OriginalItem ;
@@ -6467,8 +6521,8 @@ gnd:118555154
   dc:type "Book" ;
   dc:title "Chiromantia: 1. Physiognomia, ex aspectu membrorum hominis. 2. Periaxiomata, de faciebus signorum. 3. Canones astrologici, de iudiciis aegitudinum. 4: Astrologia naturalis. 5: Complexionum noticia, iuxta dominium planetarum" ;
   dc:date "1534"@xsd:gYear ;
-  dc:publisher "Schultum" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Schultum" ;
   dc:subject "Astronomie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -6498,8 +6552,8 @@ gnd:100976093
   dc:type "Book" ;
   dc:title "Gebri Arabis philosophi de alchemia" ;
   dc:date "1599"@xsd:gYear ;
-  dc:publisher "Zetzner" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Zetzner" ;
   dc:subject "Alchemie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -6523,8 +6577,8 @@ gnd:11886Ğ4718
   dc:type "Book" ;
   dc:title "Liber de consideratione quintae essentiae omnium rerum" ;
   dc:date "1597"@xsd:gYear ;
-  dc:publisher "Waldkirch" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Waldkirch" ;
   dc:subject "Alchemie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -6554,8 +6608,8 @@ gnd:118875256
   dc:type "Book" ;
   dc:title "Actuarij Ioannis filij Zachariæ Opera: De actionibus et spiritus animalis affectib[us], eiu?sq[ue] nutritione lib. II. De vrinis lib. VII. Methodi medendi lib. VI. Rerum ac verboru[m] memorabilium index" ;
   dc:date "1556"@xsd:gYear ;
-  dc:publisher "Turrisan" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Turrisan" ;
   dc:subject "Physik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -6585,8 +6639,8 @@ gnd:100948251
   dc:type "Book" ;
   dc:title "Ioannis Chrysostomi Orationes duae : altera de humilitate; altera de seraphim" ;
   dc:date "1600"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Theologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -6621,8 +6675,8 @@ gnd:118557831
   dc:type "Book" ;
   dc:title "In natalem Jesu Christi" ;
   dc:date "1601"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Theologie" ;
   dc:language "grc"@iso6392, "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -6652,8 +6706,8 @@ gnd:118557831
   dc:type "Book" ;
   dc:title "Ioannis Anglici praxis medica, Rosa Anglica dicta, quatuor libris distincta" ;
   dc:date "1593"@xsd:gYear ;
-  dc:publisher "Manger" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Manger" ;
   dc:subject "Medizin"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -6683,8 +6737,8 @@ gnd:100949584
   dc:type "Book" ;
   dc:title "Thomae Jordani luis novae in Moravia exortae descriptio" ;
   dc:date "1580"@xsd:gYear ;
-  dc:publisher "Wechel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Wechel" ;
   dc:subject "Epidemiologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -6714,8 +6768,8 @@ gnd:124891004
   dc:type "Book" ;
   dc:title "Icones stirpium, seu plantarum tam exoticarum quam indigenarum" ;
   dc:date "1591"@xsd:gYear ;
-  dc:publisher "Plantin" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Plantin" ;
   dc:subject "Physik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392, "fre"@iso6392, "ger"@iso6392, "dut"@iso6392, "ita"@iso6392, "spa"@iso6392, "eng"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -6745,8 +6799,8 @@ gnd:124418392
   dc:type "Book" ;
   dc:title "Joann. Langii Lembergii epistolarum medicinalium volumen tripartitum" ;
   dc:date "1589"@xsd:gYear ;
-  dc:publisher "Wechel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Wechel" ;
   dc:subject "Consilia" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -6776,8 +6830,8 @@ gnd:104270314
   dc:type "Book" ;
   dc:title "Triangulorum geometriae" ;
   dc:date "1591"@xsd:gYear ;
-  dc:publisher "Plantin" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Plantin" ;
   dc:subject "Mathematik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -6807,8 +6861,8 @@ gnd:116730803
   dc:type "Book" ;
   dc:title "De spectris, lemuribus et magnis atque insolitis fragoribus, variisque praesagitionibus quae plerunque obitum hominum, magnas clades, mutationesque imperiorum praecedunt, : liber unus" ;
   dc:date "1570"@xsd:gYear ;
-  dc:publisher "Crispin" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Crispin" ;
   dc:subject "Physik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -6838,8 +6892,8 @@ gnd:100182747
   dc:type "Book" ;
   dc:title "Iulii Palmarii Constantini, medici Parisiensis, De morbis contagiosis libri septem" ;
   dc:date "1601"@xsd:gYear ;
-  dc:publisher "Marnium" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Marnium" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -6869,8 +6923,8 @@ gnd:124553265
   dc:type "Book" ;
   dc:title "Bibliotheca medica. Siue catalogus illorum, qui ex professo artem medicam in hunc usque annum scriptis illustrarunt" ;
   dc:date "1590"@xsd:gYear ;
-  dc:publisher "Waldkirch" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Waldkirch" ;
   dc:subject "Medizin"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -6900,8 +6954,8 @@ gnd:100993664
   dc:type "Book" ;
   dc:title "Similitudinum ac parabolarum quae in Bibliis ex herbis atque arboribus desumuntur, dilucida explicatio" ;
   dc:date "1591"@xsd:gYear ;
-  dc:publisher "Wechel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Wechel" ;
   dc:subject "Theologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -6931,8 +6985,8 @@ gnd:129744638
   dc:type "Book" ;
   dc:title "Herbarum atque arborum quae in Bibliis passim obuiae sunt, & ex quibus sacri vates similitudines desumunt, ac collationes rebus accommodant, dilucida explicatio" ;
   dc:date "1566"@xsd:gYear ;
-  dc:publisher "Simonem" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Simonem" ;
   dc:subject "Theologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -6957,8 +7011,8 @@ gnd:129744638
   dc:type "Book" ;
   dc:title "Leonis Imperatoris de bellico apparatu liber" ;
   dc:date "1554"@xsd:gYear ;
-  dc:publisher "Isingrin" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Isingrin" ;
   dc:subject "Geschichte" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -6988,8 +7042,8 @@ gnd:118901486
   dc:type "Book" ;
   dc:title "In quartum meteororum, de mistorum affectionibus ob primas tactiles qulitates" ;
   dc:date "1593"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Physik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -7019,8 +7073,8 @@ gnd:118901486
   dc:type "Book" ;
   dc:title "De praesagiis in aegris disputatio prior" ;
   dc:date "1598"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Diagnostik" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -7050,8 +7104,8 @@ gnd:118901486
   dc:type "Book" ;
   dc:title "Disputatio de methodo medendi et officiis medici" ;
   dc:date "1598"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Medizin"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -7081,8 +7135,8 @@ gnd:118901486
   dc:type "Book" ;
   dc:title "Disputationum pathologicarum septima" ;
   dc:date "1598"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -7112,8 +7166,8 @@ gnd:118901486
   dc:type "Book" ;
   dc:title "Disputationum pathologicarum octava" ;
   dc:date "1598"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -7143,8 +7197,8 @@ gnd:118901486
   dc:type "Book" ;
   dc:title "Disputationum pathologicarum quinta" ;
   dc:date "1598"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -7174,8 +7228,8 @@ gnd:118901486
   dc:type "Book" ;
   dc:title "Disputationum pathologicarum sexta" ;
   dc:date "1598"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -7205,8 +7259,8 @@ gnd:118901486
   dc:type "Book" ;
   dc:title "Disputationum pathologicarum nona" ;
   dc:date "1598"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -7236,8 +7290,8 @@ gnd:118901486
   dc:type "Book" ;
   dc:title "Dispvtatio de methodo medendi et officiis medici" ;
   dc:date "1598"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Therapeutik" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -7257,8 +7311,8 @@ gnd:118901486
   dc:type "Book" ;
   dc:title "De peste, deque eius natura, causis, differentiis et signis, disputatio prior" ;
   dc:date "1598"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Epidemiologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -7288,8 +7342,8 @@ gnd:118901486
   dc:type "Book" ;
   dc:title "Disputatio medica de phlebotomia, hirvdinibus, scarificatione, et cucurbitulis" ;
   dc:date "1601"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -7319,8 +7373,8 @@ gnd:118901486
   dc:type "Book" ;
   dc:title "De ratione purgandi" ;
   dc:date "1601"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Therapeutik" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -7350,8 +7404,8 @@ gnd:118901486
   dc:type "Book" ;
   dc:title "Dispvtatio medica de arthritide" ;
   dc:date "1601"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -7381,8 +7435,8 @@ gnd:118901486
   dc:type "Book" ;
   dc:title "De febris natura, differentiis, causis, signis, et curatione in genere" ;
   dc:date "1601"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -7412,8 +7466,8 @@ gnd:118901486
   dc:type "Book" ;
   dc:title "Disputatio de febribus secvnda. Continens ephemerae natvram, differentias, cavsas, signa & curationem" ;
   dc:date "1601"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -7443,8 +7497,8 @@ gnd:118901486
   dc:type "Book" ;
   dc:title "De natura et facultatibus medicamentorum" ;
   dc:date "1601"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Pharmazie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -7474,8 +7528,8 @@ gnd:118901486
   dc:type "Book" ;
   dc:title "De compositione et praeparatione medicamentorum in genere" ;
   dc:date "1601"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Pharmazie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -7505,8 +7559,8 @@ gnd:118901486
   dc:type "Book" ;
   dc:title "De phlebotomia, hirudinibus, scarificatione, et cucurbitulis" ;
   dc:date "1601"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -7531,8 +7585,8 @@ gnd:118901486
   dc:type "Book" ;
   dc:title "Disputatio tertia de febribus continens febrium putridarum naturam, causas, differentias & signa" ;
   dc:date "1602"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -7562,8 +7616,8 @@ gnd:118901486
   dc:type "Book" ;
   dc:title "De methodo curandi febres putridas tam in genere quàm in specie" ;
   dc:date "1603"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -7593,8 +7647,8 @@ gnd:118901486
   dc:type "Book" ;
   dc:title "Disputatio de medicina eiusque partibus, et methodis in disciplinis. Quam D.F.E.A. Sub praesidio clarissimi atque doctissimi viri Dn. Duncani Liddelii philosophiae & med. Doctoris, Mathematum in Ac. Iulia profess. publ. pro viribus ingenij defendet Elias Bonvinius Vratisl. Sil" ;
   dc:date "1597"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Medizin"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -7619,8 +7673,8 @@ gnd:118901486
   dc:type "Book" ;
   dc:title "Disputatio physiologica de generatione hominis. Ad quam F. S. A. praeside Duncano Liddelio philosophiae et medicinae doctore & in incluta Iulia mathematum superiorum professore, publicè respondebit in auditorio maiori Balthasar Carisius Beuthaniensis Silesius. A.D. VIII. Eid Augusti, hora 6" ;
   dc:date "1597"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Physiologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -7650,8 +7704,8 @@ gnd:118901486
   dc:type "Book" ;
   dc:title "Disputationum medicarum quinta, de natura et differentiis partium humani corporis, Quam praeside clarissimo atque doctissimo viro, Duncano Liddelio, philosoph. et med. D, ac mathematum superiorum in ac. Iulia profess. tueri conabitur M. Ioannes Deiterus" ;
   dc:date "1597"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Physiologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -7681,8 +7735,8 @@ gnd:118901486
   dc:type "Book" ;
   dc:title "Physiologicarum disputationum secunda De temperamentis, Quam D.A.N. Praeside clarissimo atque doctissimo viro Dn. Duncano Liddelio, philosophiae et medicinae doctore, ac mathematum superiorum professore publico in academia Iulia, Pro ingenij sui modulo defendere conabitur Guilielmus Gross Vratislauensis phil. & med. studiosus" ;
   dc:date "1597"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Physiologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -7712,8 +7766,8 @@ gnd:118901486
   dc:type "Book" ;
   dc:title "Disputationum physiologicarum quarta, de anima eiusque facultatibus in genere, Quam praeside clarissimo doctissimoque viro, Dn. Duncano Liddelio Scoto phil. et med. doctore, ac in incluta Iulia mathematum professore p. pro viri defendet Andreas Adamius è Salinus Heroum" ;
   dc:date "1597"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Physik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -7743,8 +7797,8 @@ gnd:118901486
   dc:type "Book" ;
   dc:title "Disputationum physiologicarum quinta, de calido innato et spiritibus, in qua A. SS. trin. partes defendentis sub praesidio clarissimi doctissimiq. viri, Dn. Duncani Liddelii philosophiae et med. doctoris, ac mathematum superiorum in Ac. Iulia profess. publ. suscipiet. Tobias Ludovici Vinariensis" ;
   dc:date "1597"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Physik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -7774,8 +7828,8 @@ gnd:118901486
   dc:type "Book" ;
   dc:title "Disputationum physiologicarum sexta. De naturalibus facultatibus in genere, et in specie, de altrice & auctrice. Quam D.A. praeside clarissimo doctissimoque viro Dn. Duncano Liddelio Scoto phil. & medic. Doctore, ac in inclutâ Iulia mathematum superiorum professore. pub. pro ingenij defendet Georgius Goephardi Brunsuicensis" ;
   dc:date "1597"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Physik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -7805,8 +7859,8 @@ gnd:118901486
   dc:type "Book" ;
   dc:title "Disputationum physiologicarum nona, de animali facultate in genere, et de sensibus exterioribus, quam A. D. N. sub praesidio clarissimi atque doctissimi viri, Dn. Duncani Liddelii philosoph. & medic. doctoris ac superiorum mathematum in Academia Iulia professoris publ. Pro viribus ingenij defendet Michael Neostephanus Rostochiensis" ;
   dc:date "1597"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Physik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -7836,8 +7890,8 @@ gnd:118901486
   dc:type "Book" ;
   dc:title "Disputationum physiologicarum postrema, de sensibus interioribus, facultate intellectiva & motiva" ;
   dc:date "1597"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Physik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -7867,8 +7921,8 @@ gnd:118901486
   dc:type "Book" ;
   dc:title "De causis morborum in genere" ;
   dc:date "1597"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -7898,8 +7952,8 @@ gnd:118901486
   dc:type "Book" ;
   dc:title "Propositiones physiologicae de humoribus" ;
   dc:date "1597"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Physik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -7929,8 +7983,8 @@ gnd:118901486
   dc:type "Book" ;
   dc:title "Disputationum pathologicarum prima, de morbis, et morborum differentiis: Ad quam, sub praesidio clarissimi viri dn. Duncani Liddelii phil. et med. doctoris, et in inclutâ Iuliâ publici professoris, 9. calend. Novemb. Anni 1597. Respondit Elias Bonvinius Vratislauiensis" ;
   dc:date "1598"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -7960,8 +8014,8 @@ gnd:118901486
   dc:type "Book" ;
   dc:title "De morborum caussis in specie" ;
   dc:date "1598"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -7991,8 +8045,8 @@ gnd:118901486
   dc:type "Book" ;
   dc:title "De symptomatibus et symptomatum differentiis" ;
   dc:date "1598"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Diagnostik" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -8022,8 +8076,8 @@ gnd:118901486
   dc:type "Book" ;
   dc:title "De elementis, elementorum mutua, permutatione et mixtione" ;
   dc:date "1600"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Physik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -8053,8 +8107,8 @@ gnd:118901486
   dc:type "Book" ;
   dc:title "Disputatio de philosophia eiusque instrumentis. Proposita in illustri Academia Iulia à M. Duncano Liddelio Mathematum Professore: quam publicè defendet Cornelius Martinus Antuerpius. Erit disputatio die 24. Ianuarij" ;
   dc:date "1592"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Philosophie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -8079,8 +8133,8 @@ gnd:118901486
   dc:type "Book" ;
   dc:title "De misti generatione, eiusq[ue] corruptione: in primis vero de corruptione naturali quae putredo dicitur" ;
   dc:date "1593"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Physik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -8105,8 +8159,8 @@ gnd:118901486
   dc:type "Book" ;
   dc:title "De concoctione" ;
   dc:date "1595"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Physik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -8136,8 +8190,8 @@ gnd:118901486
   dc:type "Book" ;
   dc:title "De paralysi" ;
   dc:date "1605"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -8167,8 +8221,8 @@ gnd:118901486
   dc:type "Book" ;
   dc:title "De apoplexia" ;
   dc:date "1605"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -8198,8 +8252,8 @@ gnd:118901486
   dc:type "Book" ;
   dc:title "De convulsione" ;
   dc:date "1605"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -8229,8 +8283,8 @@ gnd:118901486
   dc:type "Book" ;
   dc:title "Disputationum medicinalium Duncani Liddelii Scoti, philosophiae et medicinae doctoris, & professoris publici in Academia Iulia. Pars prima" ;
   dc:date "1605"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Medizin"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -8254,8 +8308,8 @@ gnd:118901486
   dc:type "Book" ;
   dc:title "Oratio in funere illustrissimi principis ac Dn. D. Johannis Guilielmi Ducis Saxoniae Lantgravii Thuringiae, Marchionis Misniae, habita Jenae ad XII. Calend. April: anno 1573" ;
   dc:date "1601"@xsd:gYear ;
-  dc:publisher "s. n." ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "s. n." ;
   dc:subject "Gelegenheitsschrift"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -8289,8 +8343,8 @@ gnd:11857342X
   dc:type "Book" ;
   dc:title "T. Livii Patavini historarum ab urbe condita decadis tertiae liber primus (-decadis quintae liber quintus) L. Flori in eundem epitome" ;
   dc:date "1588"@xsd:gYear ;
-  dc:publisher "s. n." ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "s. n." ;
   dc:subject "Geschichte" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -8320,8 +8374,8 @@ gnd:118573624
   dc:type "Book" ;
   dc:title "Raimundi Lulii de secretis naturae sinue quinta essentia libri duo" ;
   dc:date "1541"@xsd:gYear ;
-  dc:publisher "Beck" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Beck" ;
   dc:subject "Physik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -8351,8 +8405,8 @@ gnd:118575279
   dc:type "Book" ;
   dc:title "Calumnia Luciani" ;
   dc:date "1594"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Literatur" ;
   dc:language "lat"@iso6392, "grc"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -8387,8 +8441,8 @@ gnd:118575228
   dc:type "Book" ;
   dc:title "Calumnia Luciani" ;
   dc:date "1595"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Literatur" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -8418,8 +8472,8 @@ gnd:118575228
   dc:type "Book" ;
   dc:title "Secreta secretorum Raymundi Lullii et Hermetis philosophorum" ;
   dc:date "1592"@xsd:gYear ;
-  dc:publisher "Cholinus" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Cholinus" ;
   dc:subject "Physik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -8444,8 +8498,8 @@ gnd:118575228
   dc:type "Book" ;
   dc:title "Consideratio & observatio cometae aetherei astronomica" ;
   dc:date "1581"@xsd:gYear ;
-  dc:publisher "Mylius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Mylius" ;
   dc:subject "Astronomie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -8475,8 +8529,8 @@ gnd:119211637
   dc:type "Book" ;
   dc:title "Disputatio de eclipsibus solis et lunae, quam; Diuinâ fauente gratiâ: praeside clarissimo viro, Domino M. Michaele Maestlino, Goeppingensi, mathematum inclyta Tubingensi, academia professore, praeceptore suo honorando, in auditorio Homerico, die 8. Ian. horis pomeridianis defendere conabitur Marcus ab Hohenfeld in Aistershem & Almegk" ;
   dc:date "1596"@xsd:gYear ;
-  dc:publisher "Gruppenbach" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Gruppenbach" ;
   dc:subject "Astronomie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -8507,8 +8561,8 @@ gnd:119211637
   dc:type "Book" ;
   dc:title "Kurtzer nutzlicher vnd notiger Bericht, wie man sich jtziger zeit der Pestilentz verhalten, vnd die Artzeney so Anno 82 auff der Raths der Altenstadt Magdeburgk Apoteck verordnet, vnnd jtzo diese s 97 Jahres aus befehl eines Erbarn Rahts [sic]" ;
   dc:date "1597"@xsd:gYear ;
-  dc:publisher "Dunker" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Dunker" ;
   dc:subject "Epidemiologie" ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -8538,8 +8592,8 @@ gnd:4036934-1
   dc:type "Book" ;
   dc:title "Methodi cognoscendorum simplicium libri tres" ;
   dc:date "1559"@xsd:gYear ;
-  dc:publisher "Valgrisi" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Valgrisi" ;
   dc:subject "Diagnostik" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -8569,8 +8623,8 @@ gnd:130026778
   dc:type "Book" ;
   dc:title "Practica theorica empirica morborum interiorum" ;
   dc:date "1592"@xsd:gYear ;
-  dc:publisher "Albin" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Albin" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -8606,8 +8660,8 @@ gnd:102831963
   dc:type "Book" ;
   dc:title "Disputationem logicarum adversus Ramistas prima de subiecto & fine logicae" ;
   dc:date "1596"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Philosophie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -8642,8 +8696,8 @@ gnd:12490582X
   dc:type "Book" ;
   dc:title "Ad Conradi Hoddaei M.D. et Gotting. phys. teretismata quibus Cornelii Martini Andwerpii professoris logici in incluta Iulii Academ. pub. primae contra Ramistas disputationi de subiecto & fine logicae obstrepit, responsio autoris" ;
   dc:date "1597"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Physik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -8668,8 +8722,8 @@ gnd:12490582X
   dc:type "Book" ;
   dc:title "Cornelii Martini Antwerpii programma. Ad studiosam logices iuventutem in inclyta Iulii Academia" ;
   dc:date "1597"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Philosophie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -8699,8 +8753,8 @@ gnd:12490582X
   dc:type "Book" ;
   dc:title "Clarissimo viro Duncano Liddelio Scoto artium et philosophiae M. in incluta Iulia professori mathematum primario amico meo veteri de summo in medicina gratulabar" ;
   dc:date "1596"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Gelegenheitsschrift"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -8725,8 +8779,8 @@ gnd:12490582X
   dc:type "Book" ;
   dc:title "Alexandri Massariae praelectiones de morbis mulierum, conceptus & partus" ;
   dc:date "1600"@xsd:gYear ;
-  dc:publisher "Lamberg" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lamberg" ;
   dc:subject "Gynäkologie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -8756,8 +8810,8 @@ gnd:124557759
   dc:type "Book" ;
   dc:title "P. Andreae Matthioli opusculum, de simplicium medicamentorum facultatibus secundum locos & genera" ;
   dc:date "1571"@xsd:gYear ;
-  dc:publisher "Rouille" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Rouille" ;
   dc:subject "Pharmazie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -8787,8 +8841,8 @@ gnd:118731912
   dc:type "Book" ;
   dc:title "Medici antiqui omnes, qui latinis literis diversorum morborum genera & remedia persecuti sunt, undique conquisiti, & uno volumine comprehensi, ut eorum, qui se medicinae studio dediderunt, commodo consulatur. Index in omnes plenissimus" ;
   dc:date "1547"@xsd:gYear ;
-  dc:publisher "Aldus" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Aldus" ;
   dc:subject "Antike Medizin" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -8812,8 +8866,8 @@ gnd:118731912
   dc:type "Book" ;
   dc:title "De chorographia libri tres" ;
   dc:date "1576"@xsd:gYear ;
-  dc:publisher "Henricpetre" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Henricpetre" ;
   dc:subject "Geographie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -8843,8 +8897,8 @@ gnd:118783025
   dc:type "Book" ;
   dc:title "Ludouici Mercati libri II de communi et peculiari praesidiorum artis medicae indicatione" ;
   dc:date "1588"@xsd:gYear ;
-  dc:publisher "Ciolti" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Ciolti" ;
   dc:subject "Medizin"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -8874,8 +8928,8 @@ gnd:124547451
   dc:type "Book" ;
   dc:title "Libellus de essentia, causis, signis & curatione febris malignae" ;
   dc:date "1594"@xsd:gYear ;
-  dc:publisher "Waldkirch" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Waldkirch" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -8900,8 +8954,8 @@ gnd:124547451
   dc:type "Book" ;
   dc:title "Hieronymi Mercurialis de peste in vniuersum, praesertim vero de Veneta & Patauina" ;
   dc:date "1577"@xsd:gYear ;
-  dc:publisher "Perna" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Perna" ;
   dc:subject "Epidemiologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -8936,8 +8990,8 @@ gnd:120540339
   dc:type "Book" ;
   dc:title "De decoratione liber" ;
   dc:date "1587"@xsd:gYear ;
-  dc:publisher "Wechel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Wechel" ;
   dc:subject "Therapeutik" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -8967,8 +9021,8 @@ gnd:120540339
   dc:type "Book" ;
   dc:title "Hieronymi Mercurialis liber responsorum et consultationum medicinalium" ;
   dc:date "1588"@xsd:gYear ;
-  dc:publisher "Waldkirch" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Waldkirch" ;
   dc:subject "Consilia" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -8993,8 +9047,8 @@ gnd:120540339
   dc:type "Book" ;
   dc:title "De puerorum morbis tractatus locupletissimi; varia doctrina referti, ned solum medicis, verum etiam philosophis magnopere utiles" ;
   dc:date "1584"@xsd:gYear ;
-  dc:publisher "Wechel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Wechel" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -9024,8 +9078,8 @@ gnd:120540339
   dc:type "Book" ;
   dc:title "Theses de causis, differentiis, et curatione febrium iuxta et pestis" ;
   dc:date "1591"@xsd:gYear ;
-  dc:publisher "Gruppenbach" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Gruppenbach" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -9055,8 +9109,8 @@ gnd:102520054
   dc:type "Book" ;
   dc:title "Simplicium medicamentorum ex nouo orbe delatorum, quorum in medicina vsus est, historiae liber tertius" ;
   dc:date "1582"@xsd:gYear ;
-  dc:publisher "Plantin" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Plantin" ;
   dc:subject "Pharmazie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -9086,8 +9140,8 @@ gnd:12421049X
   dc:type "Book" ;
   dc:title "Hieronymi Mont-alti de homine sano, libri III" ;
   dc:date "1591"@xsd:gYear ;
-  dc:publisher "Wechel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Wechel" ;
   dc:subject "Diätetik" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -9117,8 +9171,8 @@ gnd:119766574
   dc:type "Book" ;
   dc:title "Ioan. Baptistae Montani opuscula varia ac praeclara : in quibus tota fere medicina methodice explicatur" ;
   dc:date "1558"@xsd:gYear ;
-  dc:publisher "Perna" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Perna" ;
   dc:subject "Medizin"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -9143,8 +9197,8 @@ gnd:119766574
   dc:type "Book" ;
   dc:title "Io. Baptistae Montani in nonum librum Rhasis ad Mansorem expositio" ;
   dc:date "1554"@xsd:gYear ;
-  dc:publisher "Constantium" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Constantium" ;
   dc:subject "Medizin"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -9169,8 +9223,8 @@ gnd:119766574
   dc:type "Book" ;
   dc:title "Consultationes medicae Ioannis Baptistae Montani. Antea quidem Ioannis Cratonis Vratislaviensis medici Caesarei opera atque studio correctae, emendatae, adauctae : nunc vero et novorum consiliorum appendice, & necessariis veterum additionibus locupletatae" ;
   dc:date "1572"@xsd:gYear ;
-  dc:publisher "Petri" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Petri" ;
   dc:subject "Consilia" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -9195,8 +9249,8 @@ gnd:119766574
   dc:type "Book" ;
   dc:title "Compendium totius medicinae, quo de complexionum arcanis indiciis, morborum praecipuorum causis, prognosticis & signis, deque fabrica receptorum tractatur" ;
   dc:date "1588"@xsd:gYear ;
-  dc:publisher "Corvin" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Corvin" ;
   dc:subject "Medizin"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -9232,8 +9286,8 @@ gnd:124555640
   dc:type "Book" ;
   dc:title "De omnium particularium morborum curatione, sic ut febres quoque & tumores praeter naturam complectatur, liber" ;
   dc:date "1568"@xsd:gYear ;
-  dc:publisher "Rihel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Rihel" ;
   dc:subject "Therapeutik" ;
   dc:language "grc"@iso6392, "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -9263,8 +9317,8 @@ gnd:118837923
   dc:type "Book" ;
   dc:title "Oribasii collectorum medicinalium libri XVII qui ex magno septuaginta librorum volumine ad nostram aetatem soli pervenerunt" ;
   dc:date "1555"@xsd:gYear ;
-  dc:publisher "Manutius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Manutius" ;
   dc:subject "Antike Medizin" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -9294,8 +9348,8 @@ gnd:119008653
   dc:type "Book" ;
   dc:title "Hieronymi Osorii Lusitani, De gloria libri quinque, de nobilitate ciuili et christiana libri totidem. Additis marginalibus, & indice locupletissimo" ;
   dc:date "1584"@xsd:gYear ;
-  dc:publisher "Perna" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Perna" ;
   dc:subject "Politik" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -9325,8 +9379,8 @@ gnd:119483858
   dc:type "Book" ;
   dc:title "Aurora thesaurusque philosophorum, Theophrasti Paracelsi" ;
   dc:date "1577"@xsd:gYear ;
-  dc:publisher "Guarinus" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Guarinus" ;
   dc:subject "Alchemie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -9356,8 +9410,8 @@ gnd:11859169X
   dc:type "Book" ;
   dc:title "Erster [-Zehender] Theil der Bücher und Schrifften des Edlen, hochgelehrten unnd bewehrten Philosophi unnd Medici, Philippi Theophrasti Bombast von Hohenheim, Paracelsus genannt" ;
   dc:date "1603"@xsd:gYear ;
-  dc:publisher "Wechel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Wechel" ;
   dc:subject "Alchemie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392, "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -9382,8 +9436,8 @@ gnd:11859169X
   dc:type "Book" ;
   dc:title "Archidoxorvm Avreoli Ph. Theophrasti Paracelsi de secretis natvrae mysteriis libri decem" ;
   dc:date "1570"@xsd:gYear ;
-  dc:publisher "Perna" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Perna" ;
   dc:subject "Alchemie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -9413,8 +9467,8 @@ gnd:11859169X
   dc:type "Book" ;
   dc:title "De summis naturae mysterijs libri tres" ;
   dc:date "1570"@xsd:gYear ;
-  dc:publisher "Perna" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Perna" ;
   dc:subject "Alchemie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -9444,8 +9498,8 @@ gnd:11859169X
   dc:type "Book" ;
   dc:title "Philosophiae et medicinae utriusque universae, compendium" ;
   dc:date "1568"@xsd:gYear ;
-  dc:publisher "Fabricius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Fabricius" ;
   dc:subject "Medizin"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -9475,8 +9529,8 @@ gnd:11859169X
   dc:type "Book" ;
   dc:title "Metamorphosis. Doctoris Theophrasti von Hohenheim der zerstörten güten Künsten unnd Artzney Restauratoris gewaltigs unnd nutzlichs schreiben" ;
   dc:date "1572"@xsd:gYear ;
-  dc:publisher "Apiarius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Apiarius" ;
   dc:subject "Medizin"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -9501,8 +9555,8 @@ gnd:11859169X
   dc:type "Book" ;
   dc:title "Drey herrliche Schrifften herzen Doctors, Theophrasti, von Hohenheim" ;
   dc:date "1572"@xsd:gYear ;
-  dc:publisher "Apiarius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Apiarius" ;
   dc:subject "Medizin"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -9532,8 +9586,8 @@ gnd:11859169X
   dc:type "Book" ;
   dc:title "Von Eygenschafften, eines volkomnen Wundtartzets" ;
   dc:date "1571"@xsd:gYear ;
-  dc:publisher "Müller" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Müller" ;
   dc:subject "Medizin"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -9563,8 +9617,8 @@ gnd:11859169X
   dc:type "Book" ;
   dc:title "Medicorum ac philosophorum facile principiis Theophrasti Pracelsi Eremitae libri V. de vita longa, incognitarum rerum, & hucusque a nemine tractatarum referitissimi" ;
   dc:date "1566?"@xsd:gYear ;
-  dc:publisher "Perna" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Perna" ;
   dc:subject "Alchemie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -9589,8 +9643,8 @@ gnd:11859169X
   dc:type "Book" ;
   dc:title "Chirurgia vulnerum, cum recentium, tum veterum, occultorum & manifestorum ulcerum, &c" ;
   dc:date "1569"@xsd:gYear ;
-  dc:publisher "Perna" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Perna" ;
   dc:subject "Chirurgie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -9620,8 +9674,8 @@ gnd:11859169X
   dc:type "Book" ;
   dc:title "De morbis tartar" ;
   dc:date "1570"@xsd:gYear ;
-  dc:publisher "Perna" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Perna" ;
   dc:subject "Medizin"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -9651,8 +9705,8 @@ gnd:11859169X
   dc:type "Book" ;
   dc:title "De modo pharmacandi" ;
   dc:date "1570"@xsd:gYear ;
-  dc:publisher "Perna" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Perna" ;
   dc:subject "Pharmazie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -9682,8 +9736,8 @@ gnd:11859169X
   dc:type "Book" ;
   dc:title "Libellus de urinarum ac pulsuum iudicijs" ;
   dc:date "1568"@xsd:gYear ;
-  dc:publisher "Emmel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Emmel" ;
   dc:subject "Diagnostik" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -9713,8 +9767,8 @@ gnd:11859169X
   dc:type "Book" ;
   dc:title "Libri quatuordecim paragraphorum" ;
   dc:date "1575"@xsd:gYear ;
-  dc:publisher "Mylius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Mylius" ;
   dc:subject "Medizin"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -9744,8 +9798,8 @@ gnd:11859169X
   dc:type "Book" ;
   dc:title "Cheirurgia. Wahrhafftiger Beschreibunge der Wundartzney des hochgelerten und wolerfahrnen Medici Theophrasti Paracelsi. Der erste (-ander) Theil" ;
   dc:date "1586"@xsd:gYear ;
-  dc:publisher "Wardkirch" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Wardkirch" ;
   dc:subject "Chirurgie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -9770,8 +9824,8 @@ gnd:11859169X
   dc:type "Book" ;
   dc:title "Paradoxa duo in educatione principum : unum de victu, de reliquo splendore alterum" ;
   dc:date "1600"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Politik" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -9796,8 +9850,8 @@ gnd:11859169X
   dc:type "Book" ;
   dc:title "Disputatio de memoria laesa. Quae eius sedes adfecta: quis adfectus: quae causae: & tandem, quod aliquando per se aliquando per consensum laedatur" ;
   dc:date "1591"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -9832,8 +9886,8 @@ gnd:116045825
   dc:type "Book" ;
   dc:title "Disputatio de epilepsia in illustri Iulia proposita à Francisco Parcovio Rostochiense Phil. & Med. Doct. ac Professore ordinario" ;
   dc:date "1593"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -9863,8 +9917,8 @@ gnd:116045825
   dc:type "Book" ;
   dc:title "De pleuritide" ;
   dc:date "1594"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -9894,8 +9948,8 @@ gnd:116045825
   dc:type "Book" ;
   dc:title "Themata de melancholia quae Praeside magnifico et clariss. viro, Francisco Parcovio Philosophiae & Medicinae Doctore, & in illustri Iulia facultatis Medicae professore & Decano, ac pro tempore Academiae vicerectore. Pro licentia consequendi gradum Doctoris in Medicina, publicè examinanda proposuit, M. Duncanus Liddelius Scotus superiorum Mathematum ibidem professor. Fiet disputatio 23. Septemb" ;
   dc:date "1596"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -9920,8 +9974,8 @@ gnd:116045825
   dc:type "Book" ;
   dc:title "Disputatio medica complectens rationem ac methodum universalem dignoscendorum locorum malè adfectorum & adfectuum praeter naturam; ut illam Galenus lib. 1 & 2 de locis adfectis persequitur" ;
   dc:date "1591"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Diagnostik" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -9946,8 +10000,8 @@ gnd:116045825
   dc:type "Book" ;
   dc:title "Pauli Aeginetae opera" ;
   dc:date "1551"@xsd:gYear ;
-  dc:publisher "Rouillium" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Rouillium" ;
   dc:subject "Medizin"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -9977,8 +10031,8 @@ gnd:100957129
   dc:type "Book" ;
   dc:title "Pausaniae de florentiss. veteris Graeciae regionibus commentarii a Romulo Amasaeo ... conversi" ;
   dc:date "1557"@xsd:gYear ;
-  dc:publisher "Isingrin" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Isingrin" ;
   dc:subject "Geographie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -10008,8 +10062,8 @@ gnd:118592246
   dc:type "Book" ;
   dc:title "Universi seu mundi diatyposis" ;
   dc:date "1586"@xsd:gYear ;
-  dc:publisher "Myliander" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Myliander" ;
   dc:subject "Physik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -10039,8 +10093,8 @@ gnd:124820468
   dc:type "Book" ;
   dc:title "Tractatus varii, de vera praeparatione et usu medicamentorum chymicorum nunc primum editi" ;
   dc:date "1594"@xsd:gYear ;
-  dc:publisher "Feyerabend" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Feyerabend" ;
   dc:subject "Pharmazie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -10070,8 +10124,8 @@ gnd:10024775X
   dc:type "Book" ;
   dc:title "Conciliator differentiarum philosophorum & medicorum ... cum duplici antiqua tabula : differentiarum videlicet: & tractatus de venenis" ;
   dc:date "1523"@xsd:gYear ;
-  dc:publisher "Zeis" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Zeis" ;
   dc:subject "Medizin"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -10101,8 +10155,8 @@ gnd:118889443
   dc:type "Book" ;
   dc:title "Tractatus super propositiones Ptolemaei de sinubus & chordis" ;
   dc:date "1541"@xsd:gYear ;
-  dc:publisher "Petreius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Petreius" ;
   dc:subject "Astronomie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -10132,8 +10186,8 @@ gnd:118790684
   dc:type "Book" ;
   dc:title "Theoricae novae planetarum Georgii Purbachii Germani, ab Erasmo Reinholdo Salueldensi pluribus figuris auctae, & illustratae scholijs, quibus studiosi praeparentur, ac inuitentur ad lectionem ipsius Ptolemaei" ;
   dc:date "1580"@xsd:gYear ;
-  dc:publisher "Crato" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Crato" ;
   dc:subject "Astronomie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -10158,8 +10212,8 @@ gnd:118790684
   dc:type "Book" ;
   dc:title "Severini Pinaei, Carnutensis, Parisiis in chirurgia magistri primi, opusculum physiologum, anatomicum, physikos vere admirandum, librique duobus distinctum" ;
   dc:date "1599"@xsd:gYear ;
-  dc:publisher "Paltheniana" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Paltheniana" ;
   dc:subject "Physiologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -10189,8 +10243,8 @@ gnd:124555446
   dc:type "Book" ;
   dc:title "Nic. Pisonis de cognoscendis et curandis praecipue internis humani corporis morbis libri tres" ;
   dc:date "1585"@xsd:gYear ;
-  dc:publisher "Wechel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Wechel" ;
   dc:subject "Diagnostik" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -10220,8 +10274,8 @@ gnd:119742446
   dc:type "Book" ;
   dc:title "Almanach nouum Petri Pitati Veronensis mathematici, ad annos undecim, incipiens ab anno Christi. M DL II. usq[ue] ad annum M D LXII. Isagogica in coelestem astronomicam disciplinam" ;
   dc:date "1553"@xsd:gYear ;
-  dc:publisher "Morhart" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Morhart" ;
   dc:subject "Astronomie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -10251,8 +10305,8 @@ gnd:100396003
   dc:type "Book" ;
   dc:title "Andreae Planeri Athesini quaestionum dialecticarum pars prima, continens doctrinam Praedicabilium, Praedicamentorum, & libri Peri ermeneias Organi Aristotelis : nunc recenter sententiarum numero aucta" ;
   dc:date "1584"@xsd:gYear ;
-  dc:publisher "Gruppenbach" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Gruppenbach" ;
   dc:subject "Philosophie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -10287,8 +10341,8 @@ gnd:116204915
   dc:type "Book" ;
   dc:title "Organi Aristotelis Analytica priora. Quaestionibus exposita per Anream Planerum ... Pars altera" ;
   dc:date "1582"@xsd:gYear ;
-  dc:publisher "Gruppenbach" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Gruppenbach" ;
   dc:subject "Philosophie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -10318,8 +10372,8 @@ gnd:116204915
   dc:type "Book" ;
   dc:title "Scientia demonstrandi, ab Aristotele ... duobus Posteriorum Analyticorum libris in Organo ... conscripta ... nunc ... tertia hac quaestionum dialecticarum parte exposita ab Andrea Planero" ;
   dc:date "1586"@xsd:gYear ;
-  dc:publisher "Gruppenbach" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Gruppenbach" ;
   dc:subject "Philosophie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -10344,8 +10398,8 @@ gnd:116204915
   dc:type "Book" ;
   dc:title "De divina & miranda formatione humani foetus" ;
   dc:date "1576"@xsd:gYear ;
-  dc:publisher "Wyriot" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Wyriot" ;
   dc:subject "Physiologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -10375,8 +10429,8 @@ gnd:116204915
   dc:type "Book" ;
   dc:title "Disputatio de gerokomike et analeptike medicinae" ;
   dc:date "1585"@xsd:gYear ;
-  dc:publisher "Gruppenbach" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Gruppenbach" ;
   dc:subject "Medizin"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -10406,8 +10460,8 @@ gnd:116204915
   dc:type "Book" ;
   dc:title "Disputatio posteriorem, doctrinae de differentiis symptomatum, partem continens" ;
   dc:date "1589"@xsd:gYear ;
-  dc:publisher "Gruppenbach" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Gruppenbach" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -10437,8 +10491,8 @@ gnd:116204915
   dc:type "Book" ;
   dc:title "Disputatio de methodo medendi, seu therapeutica medicinae parte" ;
   dc:date "1592"@xsd:gYear ;
-  dc:publisher "Gruppenbach" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Gruppenbach" ;
   dc:subject "Therapeutik" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -10468,8 +10522,8 @@ gnd:116204915
   dc:type "Book" ;
   dc:title "Felicis Plateri de febribus liber" ;
   dc:date "1597"@xsd:gYear ;
-  dc:publisher "Wechel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Wechel" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -10499,8 +10553,8 @@ gnd:118594915
   dc:type "Book" ;
   dc:title "Omnia ... opera tralatione Marsilii Ficini, emendatione et ad Graecum codicum collatione Simonis Grynaei, summa diligentia repurgata" ;
   dc:date "1546"@xsd:gYear ;
-  dc:publisher "Froben" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Froben" ;
   dc:subject "Philosophie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -10530,8 +10584,8 @@ gnd:118594893
   dc:type "Book" ;
   dc:title "Plat?nos Nom?n proomion. Ek D. Kai E. Nom?n" ;
   dc:date "1594"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Philosophie" ;
   dc:language "grc"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -10556,8 +10610,8 @@ gnd:118594893
   dc:type "Book" ;
   dc:title "Historia mundi naturalis C. Plinii Secundi, : hoc est: amplissimum, lucidissimum, perspicacissimumque, nec non plane mirandum totius vniversi, rerumque naturalium speculum" ;
   dc:date "1582"@xsd:gYear ;
-  dc:publisher "Feyerabend" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Feyerabend" ;
   dc:subject "Physik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -10587,8 +10641,8 @@ gnd:118595091
   dc:type "Book" ;
   dc:title "Plutarchi de curiositate libellus. / Ioan. Caselio interprete. Adiectis quibusdam eiusdem notis, quae ad aliquot locorum illustrationem facere videbantur" ;
   dc:date "1595"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Philosophie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -10618,8 +10672,8 @@ gnd:118595237
   dc:type "Book" ;
   dc:title "De nimis licentiosa ac liberaliore intempestivaque sanguinis missione, qua hodie plerique abutuntur : brevis tractatio" ;
   dc:date "1596"@xsd:gYear ;
-  dc:publisher "Frellon" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Frellon" ;
   dc:subject "Therapeutik" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -10649,8 +10703,8 @@ gnd:100250696
   dc:type "Book" ;
   dc:title "De rebus coelestibus libri XIIII" ;
   dc:date "1556"@xsd:gYear ;
-  dc:publisher "Petri" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Petri" ;
   dc:subject "Astronomie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -10680,8 +10734,8 @@ gnd:118833324
   dc:type "Book" ;
   dc:title "Theses de epilepsia sive morbo comitiali" ;
   dc:date "1588"@xsd:gYear ;
-  dc:publisher "Osterberg" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Osterberg" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -10710,8 +10764,8 @@ gnd:118833324
   dc:type "Book" ;
   dc:title "Claudii Ptolemaei Pheludiensis Alexandrini Almagestum seu magnae constructionis mathematicae opus plane diuinum" ;
   dc:date "1528"@xsd:gYear ;
-  dc:publisher "Junta" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Junta" ;
   dc:subject "Astronomie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -10741,8 +10795,8 @@ gnd:118641786
   dc:type "Book" ;
   dc:title "Claudij Ptolemaei, De praedictionibus astronomicis, cui titulum fecerunt Quadripartitu[m], gr?cè & latinè, libri IIII" ;
   dc:date "1553"@xsd:gYear ;
-  dc:publisher "Oporinus" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Oporinus" ;
   dc:subject "Astronomie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "grc"@iso6392, "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -10767,8 +10821,8 @@ gnd:118641786
   dc:type "Book" ;
   dc:title "P. Rami arithmeticae libri dvo : geometriae septem et viginti" ;
   dc:date "1580"@xsd:gYear ;
-  dc:publisher "Episcopius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Episcopius" ;
   dc:subject "Mathematik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -10803,8 +10857,8 @@ gnd:118598228
   dc:type "Book" ;
   dc:title "P. Rami scholarum mathematicarum libri unus et triginta" ;
   dc:date "1569"@xsd:gYear ;
-  dc:publisher "Episcopius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Episcopius" ;
   dc:subject "Mathematik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -10834,8 +10888,8 @@ gnd:118598228
   dc:type "Book" ;
   dc:title "P. Rami professoris Dialecticae libri duo. Exemplis omnium artium & scientiarum illustrai, non solúm divinis, sedetiam mysticis, mathematicis, physicis, medicis, juridicis, poëticis & oratoriis, / per Rolandum Makilmenaeum Scotum" ;
   dc:date "1580"@xsd:gYear ;
-  dc:publisher "Wechel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Wechel" ;
   dc:subject "Philosophie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -10860,8 +10914,8 @@ gnd:118598228
   dc:type "Book" ;
   dc:title "Henrici Rantzouii, de conseruanda valetudine liber" ;
   dc:date "1580"@xsd:gYear ;
-  dc:publisher "Plantin" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Plantin" ;
   dc:subject "Diätetik" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -10891,8 +10945,8 @@ gnd:11898716X
   dc:type "Book" ;
   dc:title "In laudem operis calendarij" ;
   dc:date "1514"@xsd:gYear ;
-  dc:publisher "Liechtenstein" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Liechtenstein" ;
   dc:subject "Astronomie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -10922,8 +10976,8 @@ gnd:118641913
   dc:type "Book" ;
   dc:title "Ioannis de Monteregio tabulae directionum profectionumque, non tam astrologiae indiciariae, quam tabulis instrumentisque innumeris fabricandis utiles ac necessariae" ;
   dc:date "1584"@xsd:gYear ;
-  dc:publisher "Welack" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Welack" ;
   dc:subject "Astronomie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -10948,8 +11002,8 @@ gnd:118641913
   dc:type "Book" ;
   dc:title "De triangulis omnimodes" ;
   dc:date "1533"@xsd:gYear ;
-  dc:publisher "Petreius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Petreius" ;
   dc:subject "Astronomie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -10974,8 +11028,8 @@ gnd:118641913
   dc:type "Book" ;
   dc:title "Prutenicae tabulae coelestium motuum" ;
   dc:date "1551"@xsd:gYear ;
-  dc:publisher "Morhart" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Morhart" ;
   dc:subject "Astronomie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -11005,8 +11059,8 @@ gnd:11899901X
   dc:type "Book" ;
   dc:title "Hieronymi Reusneri diexodicarum exercitationum liber de scorbuto" ;
   dc:date "1600"@xsd:gYear ;
-  dc:publisher "Paltheniana" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Paltheniana" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -11041,8 +11095,8 @@ gnd:116453133
   dc:type "Book" ;
   dc:title "Hieronymi Reusneri, Nordlingensium Poliatri, diexodicarum exercitationum liber de scorbuto" ;
   dc:date "1600"@xsd:gYear ;
-  dc:publisher "Paltheniana" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Paltheniana" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -11067,8 +11121,8 @@ gnd:116453133
   dc:type "Book" ;
   dc:title "Geodaesia Ranzouiana : Landt rechnen vnd Feldmessen, sampt messen allerhand grosse" ;
   dc:date "1583"@xsd:gYear ;
-  dc:publisher "Defner" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Defner" ;
   dc:subject "Mathematik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -11098,8 +11152,8 @@ gnd:118837087
   dc:type "Book" ;
   dc:title "Nicolai Raymari Ursi dithmarsi. Fundamentum astronomicum" ;
   dc:date "1588"@xsd:gYear ;
-  dc:publisher "Jobin" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Jobin" ;
   dc:subject "Astronomie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -11124,8 +11178,8 @@ gnd:118837087
   dc:type "Book" ;
   dc:title "De rebus Gallicis praecipuis epitome ab anno reparatae salutis nostrae 1555 usque ad praesentem 1594" ;
   dc:date "1594"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Geschichte" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -11155,8 +11209,8 @@ gnd:100392326
   dc:type "Book" ;
   dc:title "Amati Lusitani curationum medicinalium, centuriae duae, quinta et sexta" ;
   dc:date "1564"@xsd:gYear ;
-  dc:publisher "Rouille" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Rouille" ;
   dc:subject "Therapeutik" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -11181,8 +11235,8 @@ gnd:100392326
   dc:type "Book" ;
   dc:title "Ideae mathematicae pars prima, sive methodus polygonorum" ;
   dc:date "1593"@xsd:gYear ;
-  dc:publisher "Keerberg" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Keerberg" ;
   dc:subject "Mathematik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -11212,8 +11266,8 @@ gnd:100255426
   dc:type "Book" ;
   dc:title "Gulielmi Rondeletii methodus curandorum omnium morborum corporis humani in tres libros distincta" ;
   dc:date "1576"@xsd:gYear ;
-  dc:publisher "Rouille" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Rouille" ;
   dc:subject "Therapeutik" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -11237,8 +11291,8 @@ gnd:117593966
   dc:type "Book" ;
   dc:title "Balduini Ronssei Venatio medica, continens remedia ad omnes, a capite ad calcem usque, morbos" ;
   dc:date "1589"@xsd:gYear ;
-  dc:publisher "Plantin" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Plantin" ;
   dc:subject "Therapeutik" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -11268,8 +11322,8 @@ gnd:12411976X
   dc:type "Book" ;
   dc:title "De destillatione liber : in quo stillatitiorum liquorum, qui ad medicinam faciunt, methodus ac vires explicantur: et chemicae artis veritas, ratione, & experimento comprobatur" ;
   dc:date "1585"@xsd:gYear ;
-  dc:publisher "Henricpetri" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Henricpetri" ;
   dc:subject "Alchemie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -11299,8 +11353,8 @@ gnd:119809516
   dc:type "Book" ;
   dc:title "Chiromentiae theorica, practica, concordantia genethliaca, vetustis novitate addita" ;
   dc:date "1595"@xsd:gYear ;
-  dc:publisher "Pistorius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Pistorius" ;
   dc:subject "Magie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -11336,8 +11390,8 @@ gnd:119810069
   dc:type "Book" ;
   dc:title "Eustachii Rudii de humani corporis affectibus dignoscendis, praedicendis, curandis & conseruandis" ;
   dc:date "1592-1595"@xsd:gYear ;
-  dc:publisher "Meiteum" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Meiteum" ;
   dc:subject "Medizin"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -11367,8 +11421,8 @@ gnd:131775545
   dc:type "Book" ;
   dc:title "De partibus corporis humani exercitationes quaedam : quibus generatio, substantia, usus, sanitas, morbus & curatio illarum exponitiur. / Autore Christophoro Rumbaum Iaurano Silesio" ;
   dc:date "1586"@xsd:gYear ;
-  dc:publisher "Henricpetri" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Henricpetri" ;
   dc:subject "Medizin"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -11398,8 +11452,8 @@ gnd:119812029
   dc:type "Book" ;
   dc:title "Artzneybuch : vast wunderkostlich, fur allerley von ime selbst, zufelligen ... des gantzen Leybs gebrechligkeyt ... zu gebrauchen" ;
   dc:date "1549"@xsd:gYear ;
-  dc:publisher "Daubman" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Daubman" ;
   dc:subject "Pharmazie" ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -11429,8 +11483,8 @@ gnd:119813017
   dc:type "Book" ;
   dc:title "Mesolabii expositio / Bern. Salignaco authore" ;
   dc:date "1574"@xsd:gYear ;
-  dc:publisher "Calvin" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Calvin" ;
   dc:subject "Astronomie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -11460,8 +11514,8 @@ gnd:119813815
   dc:type "Book" ;
   dc:title "De febre pestilenti tractatus et cvrationes qvorvndam particularium morborum, quorum tractatio ab ordinariis practicis non habetur" ;
   dc:date "1586"@xsd:gYear ;
-  dc:publisher "Wechel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Wechel" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -11491,8 +11545,8 @@ gnd:124509924
   dc:type "Book" ;
   dc:title "Historiae C. Crispi Sallustii de L. Sergii Catilinae coniuratione, ac bello Iugurthino. Ex castigatione Ioan. Rivii ... & aliorum ... novissime recognitae" ;
   dc:date "1578-1584"@xsd:gYear ;
-  dc:publisher "Gymnich" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Gymnich" ;
   dc:subject "Geschichte" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -11522,8 +11576,8 @@ gnd:118605097
   dc:type "Book" ;
   dc:title "Opus aureum ac preclarum : de recenti memoria in lucem traditum: signa causas et curas febrium complectens" ;
   dc:date "1517"@xsd:gYear ;
-  dc:publisher "s.n." ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "s.n." ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -11553,8 +11607,8 @@ gnd:100953093
   dc:type "Book" ;
   dc:title "Practica maior Io. Michaelis Savonarolae" ;
   dc:date "1559"@xsd:gYear ;
-  dc:publisher "Juntas" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Juntas" ;
   dc:subject "Therapeutik" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -11584,8 +11638,8 @@ gnd:118955896
   dc:type "Book" ;
   dc:title "Julii Caesaris Scaligeri liber XV de subtilitate" ;
   dc:date "1582"@xsd:gYear ;
-  dc:publisher "Wechel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Wechel" ;
   dc:subject "Rhetorik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -11615,8 +11669,8 @@ gnd:118794809
   dc:type "Book" ;
   dc:title "Disputationum physicarum et medicarum libri VIII" ;
   dc:date "1590"@xsd:gYear ;
-  dc:publisher "Wechel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Wechel" ;
   dc:subject "Physik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -11646,13 +11700,14 @@ gnd:118606875
   dc:type "Book" ;
   dc:title "Familia Othomannica : et quas singuli ex ea tyranni clades Christianis nefarie intulerint" ;
   dc:date "1596"@xsd:gYear ;
-  dc:publisher "Adam" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Adam" ;
   dc:subject "Geschichte" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:hasPlace <br:liddel/places/Prag> ;
   dc:creator gnd:128428600 ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=14117126X> ;
   libreto:hasOriginalItem <https://aulib.abdn.ac.uk/F?func=direct&local_base=ABN01&doc_number=859008> .
 
 <br:liddel/places/Prag>
@@ -11666,6 +11721,11 @@ gnd:128428600
   foaf:name "Scheurl, Lorenz Gotthard" ;
   dc:identifier "128428600"^^gndo:gndIdentifier .
 
+<http://gso.gbv.de/DB=2.1/PPNSET?PPN=14117126X>
+  a libreto:Manifestation ;
+  libreto:database "Gemeinsamer Bibliotheksverbund (GBV)" ;
+  dc:identifier "14117126X" .
+
 <https://aulib.abdn.ac.uk/F?func=direct&local_base=ABN01&doc_number=859008>
   a libreto:OriginalItem ;
   libreto:owner "Aberdeen, Sir Duncan Rice Library" ;
@@ -11677,8 +11737,8 @@ gnd:128428600
   dc:type "Book" ;
   dc:title "Tabulae resolutae astronomicae Iohannis Schoneri Mathematici Clasissimi, ex quibus omnium siderum motus facillimè calculari possunt secundum praecepta in planetarum theoricis tradita" ;
   dc:date "1588"@xsd:gYear ;
-  dc:publisher "Welack" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Welack" ;
   dc:subject "Astronomie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -11708,8 +11768,8 @@ gnd:118795341
   dc:type "Book" ;
   dc:title "Consilium oder Rathschlag vor die beschwerliche jetzo regierende Plage der Roten Ruhr vnd andere schädliche Bauchflüsse. Daneben ein kurtzer Bericht wie ein jeder sich vor der Pestilentz bewahren vnd von derselbigen sich erledigen soll" ;
   dc:date "1584"@xsd:gYear ;
-  dc:publisher "Egenollfs" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Egenollfs" ;
   dc:subject "Epidemiologie" ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -11739,8 +11799,8 @@ gnd:128676353
   dc:type "Book" ;
   dc:title "Librorum septem de beneficiis primus" ;
   dc:date "1592"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Philosophie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -11770,8 +11830,8 @@ gnd:118613200
   dc:type "Book" ;
   dc:title "Idea medicinae philosophicae, fundamenta continens totius doctrinæ Paracelsicae, Hippocraticae, & Galenicae. / Authore Petro Seuerino Dano philosopho & medico" ;
   dc:date "1571"@xsd:gYear ;
-  dc:publisher "Perna" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Perna" ;
   dc:subject "Medizin"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -11801,19 +11861,25 @@ gnd:128402091
   dc:type "Book" ;
   dc:title "Causa aestus maris" ;
   dc:date "1590"@xsd:gYear ;
-  dc:publisher "Mamarella" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Mamarella" ;
   dc:subject "Physik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:hasPlace <br:liddel/places/Ferrara> ;
   dc:creator gnd:100337066 ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=30239009X> ;
   libreto:hasOriginalItem <https://aulib.abdn.ac.uk/F?func=direct&local_base=ABN01&doc_number=401022> .
 
 gnd:100337066
   a libreto:Person ;
   foaf:name "Sfondrati, Pandolfo" ;
   dc:identifier "100337066"^^gndo:gndIdentifier .
+
+<http://gso.gbv.de/DB=2.1/PPNSET?PPN=30239009X>
+  a libreto:Manifestation ;
+  libreto:database "Gemeinsamer Bibliotheksverbund (GBV)" ;
+  dc:identifier "30239009X" .
 
 <https://aulib.abdn.ac.uk/F?func=direct&local_base=ABN01&doc_number=401022>
   a libreto:OriginalItem ;
@@ -11826,8 +11892,8 @@ gnd:100337066
   dc:type "Book" ;
   dc:title "De compositione et vsu theriacae libri duo" ;
   dc:date "1600"@xsd:gYear ;
-  dc:publisher "Beatus" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Beatus" ;
   dc:subject "Pharmazie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -11857,8 +11923,8 @@ gnd:100408346
   dc:type "Book" ;
   dc:title "Artificiosa curandae pestis methodus libellis duobus comprehensa" ;
   dc:date "1576"@xsd:gYear ;
-  dc:publisher "Steinman" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Steinman" ;
   dc:subject "Epidemiologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -11888,8 +11954,8 @@ gnd:124441270
   dc:type "Book" ;
   dc:title "Consiliorvm medicinalivm Reineri Solenandri Bvdericensis, doctoris, medici Dvcis Clivensivm, &c. sectiones quinque" ;
   dc:date "1596"@xsd:gYear ;
-  dc:publisher "Wechel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Wechel" ;
   dc:subject "Consilia" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -11919,8 +11985,8 @@ gnd:124555322
   dc:type "Book" ;
   dc:title "C. Ivlii Solini Polyhistor, rervm toto orbe memorabilium thesaurus locupletissimus" ;
   dc:date "1538"@xsd:gYear ;
-  dc:publisher "Isingrin" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Isingrin" ;
   dc:subject "Geschichte" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -11950,8 +12016,8 @@ gnd:118797948
   dc:type "Book" ;
   dc:title "De inuentione, descriptione, temperie, viribus, et in primis vsu, thermarum D. Caroli IIII imperatoris, libellus breuis et vtilis / Scriptvs A Fabiano Sommero Philosophiae Et Artis medicae Doctore, ex Thermis Carolinis oriundo" ;
   dc:date "1571"@xsd:gYear ;
-  dc:publisher "Steinman" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Steinman" ;
   dc:subject "Balneologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -11981,8 +12047,8 @@ gnd:124598293
   dc:type "Book" ;
   dc:title "Themata Medica. De animae facvltatibvs, earvndemque fvnctionibvs" ;
   dc:date "1591"@xsd:gYear ;
-  dc:publisher "Bertram" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Bertram" ;
   dc:subject "Physiologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -12012,8 +12078,8 @@ gnd:124765726
   dc:type "Book" ;
   dc:title "Elucidatio fabricae ususque astrolabii" ;
   dc:date "1594"@xsd:gYear ;
-  dc:publisher "Falckenburg" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Falckenburg" ;
   dc:subject "Astronomie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -12043,8 +12109,8 @@ gnd:118798979
   dc:type "Book" ;
   dc:title "De intestinorum lumbricis theses medicae, quas scitu jussuq[ue] Collegii Medici in inclytâ Basiliem" ;
   dc:date "1594"@xsd:gYear ;
-  dc:publisher "Waldkirch" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Waldkirch" ;
   dc:subject "Physiologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -12068,8 +12134,8 @@ gnd:120745984
   dc:type "Book" ;
   dc:title "Audomari Talaei Rhetorica & P. Rami praelectionibus observata" ;
   dc:date "1584"@xsd:gYear ;
-  dc:publisher "Wechel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Wechel" ;
   dc:subject "Rhetorik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -12099,8 +12165,8 @@ gnd:104268344
   dc:type "Book" ;
   dc:title "Regiment und kurtzer Bericht, wie man sich in Sterbenslaufften, da die Pestilentz ein reisset, halten, auch wie man sich vor dieser Sucht bewehren vnnd wie de Inficirten geheylet werden sollen" ;
   dc:date "1586"@xsd:gYear ;
-  dc:publisher "Bassée, Nicolas" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Bassée, Nicolas" ;
   dc:subject "Epidemiologie" ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -12130,8 +12196,8 @@ gnd:10413030X
   dc:type "Book" ;
   dc:title "New Wasserschatz, das ist: von allen heylsamen metallischen minerischen Badern unnd Wassern, Sonderlich aber von den newen erfundenen Sawerbrunnen zu Langen Schwalbach in der Nidergraffschafft Katzenelnbogen, und im Schwartzwald in dem loblichen Stifft Strassburg in S. Petersthal unnd der Greiszbach, bey dem Weiler Greiszbach gelegen" ;
   dc:date "1593"@xsd:gYear ;
-  dc:publisher "Bassée, Nicolas" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Bassée, Nicolas" ;
   dc:subject "Balneologie" ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -12156,8 +12222,8 @@ gnd:10413030X
   dc:type "Book" ;
   dc:title "Victoris Trincavellii Omnia opera" ;
   dc:date "1592"@xsd:gYear ;
-  dc:publisher "Junta" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Junta" ;
   dc:subject "Medizin"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -12182,8 +12248,8 @@ gnd:10413030X
   dc:type "Book" ;
   dc:title "De catharsi. Themata medica breviter, et dilucida methodo proposita, quae universam eius vim, & naturam, cumq[ue] hac circumstantiarum observationem generaliter docent iuxta ornatissimorum in medicina procerum doctrinam" ;
   dc:date "1583"@xsd:gYear ;
-  dc:publisher "Eichorn" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Eichorn" ;
   dc:subject "Therapeutik" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -12206,8 +12272,8 @@ gnd:10413030X
   dc:type "Book" ;
   dc:title "Epitome trium terrae partium" ;
   dc:date "1548"@xsd:gYear ;
-  dc:publisher "Frosch" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Frosch" ;
   dc:subject "Geographie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -12237,8 +12303,8 @@ gnd:118625780
   dc:type "Book" ;
   dc:title "Observationum medicinalium libri sex" ;
   dc:date "1573"@xsd:gYear ;
-  dc:publisher "Gryphius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Gryphius" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -12273,8 +12339,8 @@ gnd:119856379
   dc:type "Book" ;
   dc:title "Controversiarum medicarum et philosophicarum libri decem" ;
   dc:date "1582"@xsd:gYear ;
-  dc:publisher "Wechel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Wechel" ;
   dc:subject "Medizin"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -12309,8 +12375,8 @@ gnd:118959484
   dc:type "Book" ;
   dc:title "De motu tractatus" ;
   dc:date "1584"@xsd:gYear ;
-  dc:publisher "Stoer" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Stoer" ;
   dc:subject "Physik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -12340,8 +12406,8 @@ gnd:12272190X
   dc:type "Book" ;
   dc:title "De iudiciis urinarum tractatus" ;
   dc:date "1549"@xsd:gYear ;
-  dc:publisher "Rouille" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Rouille" ;
   dc:subject "Diagnostik" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -12371,8 +12437,8 @@ gnd:119856727
   dc:type "Book" ;
   dc:title "Liber de arte medendi" ;
   dc:date "1564"@xsd:gYear ;
-  dc:publisher "Rouille" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Rouille" ;
   dc:subject "Therapeutik" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -12402,8 +12468,8 @@ gnd:100653596
   dc:type "Book" ;
   dc:title "Pub. Vegetii viri illustris mulomedicina" ;
   dc:date "1574"@xsd:gYear ;
-  dc:publisher "Perna" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Perna" ;
   dc:subject "Antike Medizin" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -12433,8 +12499,8 @@ gnd:11880409X
   dc:type "Book" ;
   dc:title "Analysis methodica ivris pontificii" ;
   dc:date "1579"@xsd:gYear ;
-  dc:publisher "Behem" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Behem" ;
   dc:subject "Jurisprudenz" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -12470,19 +12536,25 @@ gnd:100654223
   dc:type "Book" ;
   dc:title "Anatomes totius, aere insculpta delineatio cui addita est epitome innumeris mendis repurgata, quam de corporis humani fabrica conscriptis claris. And. Vesalius" ;
   dc:date "1564"@xsd:gYear ;
-  dc:publisher "Wechel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Wechel" ;
   dc:subject "Anatomie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:hasPlace <br:liddel/places/Paris> ;
   dc:creator gnd:172433495 ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=45044340X> ;
   libreto:hasOriginalItem <https://aulib.abdn.ac.uk/F?func=direct&local_base=ABN01&doc_number=398012> .
 
 gnd:172433495
   a libreto:Person ;
   foaf:name "Vesalius, Andreas" ;
   dc:identifier "172433495"^^gndo:gndIdentifier .
+
+<http://gso.gbv.de/DB=2.1/PPNSET?PPN=45044340X>
+  a libreto:Manifestation ;
+  libreto:database "Gemeinsamer Bibliotheksverbund (GBV)" ;
+  dc:identifier "45044340X" .
 
 <https://aulib.abdn.ac.uk/F?func=direct&local_base=ABN01&doc_number=398012>
   a libreto:OriginalItem ;
@@ -12495,8 +12567,8 @@ gnd:172433495
   dc:type "Book" ;
   dc:title "Benedicti Victori Fauentini medici clariss. Medicationis empeiricae libri tres" ;
   dc:date "1598"@xsd:gYear ;
-  dc:publisher "Collinz" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Collinz" ;
   dc:subject "Therapeutik" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -12526,8 +12598,8 @@ gnd:115697705
   dc:type "Book" ;
   dc:title "Practica in arte chirurgica copiosa" ;
   dc:date "1516"@xsd:gYear ;
-  dc:publisher "Portonarus/Myt" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Portonarus/Myt" ;
   dc:subject "Chirurgie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -12557,8 +12629,8 @@ gnd:128765224
   dc:type "Book" ;
   dc:title "Vitae virorvm illvstrivm, autoribus Aemylio Probo de uita excellentium imperatorum ex uetustorum & probatae fidei exemplarium collatione, à mendis quibus scatebat, repurgato" ;
   dc:date "1563"@xsd:gYear ;
-  dc:publisher "Petri" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Petri" ;
   dc:subject "Geschichte" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -12582,8 +12654,8 @@ gnd:128765224
   dc:type "Book" ;
   dc:title "De vita, rebus gestis, ac obitu Stephani Primi Regis Poloniae, orationes duae" ;
   dc:date "1587"@xsd:gYear ;
-  dc:publisher "Myliander" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Myliander" ;
   dc:subject "Geschichte" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -12613,8 +12685,8 @@ gnd:119864487
   dc:type "Book" ;
   dc:title "Antidotarium speciale" ;
   dc:date "1581"@xsd:gYear ;
-  dc:publisher "Episcopius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Episcopius" ;
   dc:subject "Pharmazie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -12649,8 +12721,8 @@ gnd:100679463
   dc:type "Book" ;
   dc:title "Antidotarium generale" ;
   dc:date "1580"@xsd:gYear ;
-  dc:publisher "Episcopius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Episcopius" ;
   dc:subject "Pharmazie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -12680,8 +12752,8 @@ gnd:100679463
   dc:type "Book" ;
   dc:title "Antidotarium speciale" ;
   dc:date "1581"@xsd:gYear ;
-  dc:publisher "Episcopius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Episcopius" ;
   dc:subject "Pharmazie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -12701,8 +12773,8 @@ gnd:100679463
   dc:type "Book" ;
   dc:title "In Pandectas iuris ciuilis" ;
   dc:date "1583"@xsd:gYear ;
-  dc:publisher "Michel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Michel" ;
   dc:subject "Jurisprudenz" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -12726,8 +12798,8 @@ gnd:11757287X
   dc:type "Book" ;
   dc:title "Artzney Buch : von etlichen bisz anher vnbekannten vnnd vnbeschriebenen Kranckheyten" ;
   dc:date "1588"@xsd:gYear ;
-  dc:publisher "Bassée, Nicolas" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Bassée, Nicolas" ;
   dc:subject "Pharmazie" ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -12757,8 +12829,8 @@ gnd:118632043
   dc:type "Book" ;
   dc:title "Ars magirica, hoc est, coquinaria, de cibariis, ferculis, opsoniis, almentis & potibus diversis parandis, eorumque facultatibus" ;
   dc:date "1563"@xsd:gYear ;
-  dc:publisher "Gesner" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Gesner" ;
   dc:subject "Pharmazie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -12788,8 +12860,8 @@ gnd:124960812
   dc:type "Book" ;
   dc:title "Ein new Artzney Buch darinn fast alle Glieder desz menschlichen Leibs, sampt ihren Kranckheiten vnd Gebrechen vnd wie man dieselbigen curieren soll" ;
   dc:date "1582"@xsd:gYear ;
-  dc:publisher "Harisch" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Harisch" ;
   dc:subject "Pharmazie" ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -12825,8 +12897,8 @@ gnd:124557066
   dc:type "Book" ;
   dc:title "Vera totius medicinae forma" ;
   dc:date "1588"@xsd:gYear ;
-  dc:publisher "Plantin" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Plantin" ;
   dc:subject "Medizin"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -12856,8 +12928,8 @@ gnd:10070560X
   dc:type "Book" ;
   dc:title "Methodus tum simplicium tum compositorum medicamentorum" ;
   dc:date "1596"@xsd:gYear ;
-  dc:publisher "Gross" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Gross" ;
   dc:subject "Pharmazie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -12887,8 +12959,8 @@ gnd:118880578
   dc:type "Book" ;
   dc:title "Diodori Euchyontis De polychymia, libri quattuor" ;
   dc:date "1567"@xsd:gYear ;
-  dc:publisher "s. n." ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "s. n." ;
   dc:subject "Alchemie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -12918,8 +12990,8 @@ gnd:100131603
   dc:type "Book" ;
   dc:title "Gynaeciorum siue de mulierum affectibus commentarii Graecorum Latinorum, barbarorum" ;
   dc:date "1586-1588"@xsd:gYear ;
-  dc:publisher "Waldkirch" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Waldkirch" ;
   dc:subject "Gynäkologie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392, "grc"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -12944,8 +13016,8 @@ gnd:100131603
   dc:type "Book" ;
   dc:title "Opera quae in hunc diem edidit, in quinq[ue] tomos divisa: quorum argumentorum et seriem versa pagina ostendet" ;
   dc:date "1587"@xsd:gYear ;
-  dc:publisher "Mareschal" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Mareschal" ;
   dc:subject "Philosophie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -12975,8 +13047,8 @@ gnd:119079577
   dc:type "Book" ;
   dc:title "Almanach perpetuum exactissime nuper emendatum omnium celi motuum cum additionibus in eo factis tenens complementum" ;
   dc:date "1502"@xsd:gYear ;
-  dc:publisher "Liechtenstein" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Liechtenstein" ;
   dc:subject "Astronomie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -13006,8 +13078,8 @@ gnd:100967280
   dc:type "Book" ;
   dc:title "Consiliorum & epistolarum medicinalium [v. 6-7]" ;
   dc:date "1611"@xsd:gYear ;
-  dc:publisher "Wechel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Wechel" ;
   dc:subject "Consilia" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -13021,8 +13093,8 @@ gnd:100967280
   dc:type "Book" ;
   dc:title "De Febribus. Disputatio Prima, Continens Naturam, Differentias, causas, signa & curationem febris in genere" ;
   dc:date "1605"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -13052,8 +13124,8 @@ gnd:100967280
   dc:type "Book" ;
   dc:title "Disputatio II. De Febribus. Continens Febris Ephemerae Naturam, differentias, causas, signa & curationem" ;
   dc:date "1605"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -13078,8 +13150,8 @@ gnd:100967280
   dc:type "Book" ;
   dc:title "Disputatio III. De Febribus. Continens Putridarum Febrium Et putredinis, naturam, differentias, & causas" ;
   dc:date "1605"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -13104,8 +13176,8 @@ gnd:100967280
   dc:type "Book" ;
   dc:title "Disputatio V. De Febribus. Continens Methodum Curandi febres putridas in genere" ;
   dc:date "1605"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -13130,8 +13202,8 @@ gnd:100967280
   dc:type "Book" ;
   dc:title "Disputatio VI. De Febribus. Continens Curationem Omnium febrium putridarum in specie" ;
   dc:date "1605"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -13156,8 +13228,8 @@ gnd:100967280
   dc:type "Book" ;
   dc:title "Disputatio De Febri Hectica" ;
   dc:date "1605"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -13182,8 +13254,8 @@ gnd:100967280
   dc:type "Book" ;
   dc:title "Disputatio IIX. De Pestis Febrisque Pestilentialis natura, caussis, differentiis & signis, &c" ;
   dc:date "1605"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -13208,8 +13280,8 @@ gnd:100967280
   dc:type "Book" ;
   dc:title "Disputatio IX. De Praeservatione Et Curatione Pestis" ;
   dc:date "1605"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -13234,8 +13306,8 @@ gnd:100967280
   dc:type "Book" ;
   dc:title "Disputatio X. De Variolis Et Morbillis" ;
   dc:date "1606"@xsd:gYear ;
-  dc:publisher "Lucius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Lucius" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -13260,8 +13332,8 @@ gnd:100967280
   dc:type "Book" ;
   dc:title "Consiliorvm Et Epistolarum Medicinalium, Io. Cratonis A Kraftheim, Archiatri Cæsarei ... Liber Sextvs" ;
   dc:date "1611"@xsd:gYear ;
-  dc:publisher "Wechel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Wechel" ;
   dc:subject "Consilia" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -13287,8 +13359,8 @@ gnd:100967280
   dc:type "Book" ;
   dc:title "Consiliorvm Et Epistolarum Medicinalium, Io. Cratonis A Kraftheim, Archiatri Cæsarei ... Liber Septimvs" ;
   dc:date "1611"@xsd:gYear ;
-  dc:publisher "Wechel" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Wechel" ;
   dc:subject "Consilia" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -13313,8 +13385,8 @@ gnd:100967280
   dc:type "Book" ;
   dc:title "De febribus libri tres" ;
   dc:date "1610"@xsd:gYear ;
-  dc:publisher "Sumptibus Frobenianis" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Sumptibus Frobenianis" ;
   dc:subject "Pathologie" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
@@ -13339,8 +13411,8 @@ gnd:100967280
   dc:type "Book" ;
   dc:title "Apotelesma, sive corpus perfectum scholiorum ad quatuor libros Institutionum iuris civilis" ;
   dc:date "1586"@xsd:gYear ;
-  dc:publisher "Rouillius" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
+  dc:publisher "Rouillius" ;
   dc:subject "Jurisprudenz" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;

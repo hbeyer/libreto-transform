@@ -35,7 +35,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Plantin</publisher>
+    <publishers>
+      <publisher>Plantin</publisher>
+    </publishers>
     <year>1582</year>
     <subjects>
       <subject>Pharmazie</subject>
@@ -87,7 +89,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1598</year>
     <subjects>
       <subject>Rhetorik</subject>
@@ -139,7 +143,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1599</year>
     <subjects>
       <subject>Rhetorik</subject>
@@ -191,7 +197,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1601</year>
     <subjects>
       <subject>Gelegenheitsschrift</subject>
@@ -243,7 +251,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1602</year>
     <subjects>
       <subject>Gelegenheitsschrift</subject>
@@ -291,7 +301,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1596</year>
     <subjects>
       <subject>Gelegenheitsschrift</subject>
@@ -336,7 +348,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Honoratis</publisher>
+    <publishers>
+      <publisher>Honoratis</publisher>
+    </publishers>
     <year>1560</year>
     <subjects>
       <subject>Antike Medizin</subject>
@@ -381,7 +395,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Wechel</publisher>
+    <publishers>
+      <publisher>Wechel</publisher>
+    </publishers>
     <year>1590</year>
     <subjects>
       <subject>Astronomie</subject>
@@ -430,7 +446,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Cratonis</publisher>
+    <publishers>
+      <publisher>Cratonis</publisher>
+    </publishers>
     <year>1585</year>
     <subjects>
       <subject>Anatomie</subject>
@@ -475,7 +493,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Harsy</publisher>
+    <publishers>
+      <publisher>Harsy</publisher>
+    </publishers>
     <year>1575</year>
     <subjects>
       <subject>Antike Medizin</subject>
@@ -528,7 +548,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Wechel</publisher>
+    <publishers>
+      <publisher>Wechel</publisher>
+    </publishers>
     <year>1545</year>
     <subjects>
       <subject>Astronomie</subject>
@@ -576,7 +598,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lehman</publisher>
+    <publishers>
+      <publisher>Lehman</publisher>
+    </publishers>
     <year>1592</year>
     <subjects>
       <subject>Therapeutik</subject>
@@ -608,6 +632,7 @@
         <gnd>100010652</gnd>
         <role>author</role>
         <beacon>
+          <beacon>dbi</beacon>
           <beacon>dpi</beacon>
         </beacon>
       </person>
@@ -621,7 +646,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Maria</publisher>
+    <publishers>
+      <publisher>Maria</publisher>
+    </publishers>
     <year>1569</year>
     <subjects>
       <subject>Therapeutik</subject>
@@ -653,6 +680,7 @@
         <gnd>100010652</gnd>
         <role>author</role>
         <beacon>
+          <beacon>dbi</beacon>
           <beacon>dpi</beacon>
         </beacon>
       </person>
@@ -666,7 +694,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Altomari</publisher>
+    <publishers>
+      <publisher>Altomari</publisher>
+    </publishers>
     <year>1570</year>
     <subjects>
       <subject>Therapeutik</subject>
@@ -699,6 +729,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>dbi</beacon>
           <beacon>dpi</beacon>
         </beacon>
       </person>
@@ -712,7 +743,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Rouille</publisher>
+    <publishers>
+      <publisher>Rouille</publisher>
+    </publishers>
     <year>1567</year>
     <subjects>
       <subject>Therapeutik</subject>
@@ -750,6 +783,7 @@
           <beacon>gesa</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
+          <beacon>fsh</beacon>
           <beacon>dpi</beacon>
           <beacon>vkk</beacon>
         </beacon>
@@ -764,7 +798,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Petreius</publisher>
+    <publishers>
+      <publisher>Petreius</publisher>
+    </publishers>
     <year>1541</year>
     <subjects>
       <subject>Astronomie</subject>
@@ -802,6 +838,7 @@
           <beacon>gesa</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
+          <beacon>fsh</beacon>
           <beacon>dpi</beacon>
           <beacon>vkk</beacon>
         </beacon>
@@ -816,7 +853,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Bontio</publisher>
+    <publishers>
+      <publisher>Bontio</publisher>
+    </publishers>
     <year>1550</year>
     <subjects>
       <subject>Geographie</subject>
@@ -858,7 +897,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Plantin</publisher>
+    <publishers>
+      <publisher>Plantin</publisher>
+    </publishers>
     <year>1574</year>
     <subjects>
       <subject>Therapeutik</subject>
@@ -891,6 +932,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>dbi</beacon>
           <beacon>dpi</beacon>
         </beacon>
       </person>
@@ -904,7 +946,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Forus</publisher>
+    <publishers>
+      <publisher>Forus</publisher>
+    </publishers>
     <year>1558</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -955,7 +999,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Laimarie, Guillaume de</publisher>
+    <publishers>
+      <publisher>Laimarie, Guillaume de</publisher>
+    </publishers>
     <year>1597</year>
     <subjects>
       <subject>Philosophie</subject>
@@ -1011,7 +1057,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Wechel</publisher>
+    <publishers>
+      <publisher>Wechel</publisher>
+    </publishers>
     <year>1585</year>
     <subjects>
       <subject>Philosophie</subject>
@@ -1067,7 +1115,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Wechel</publisher>
+    <publishers>
+      <publisher>Wechel</publisher>
+    </publishers>
     <year>1584</year>
     <subjects>
       <subject>Rhetorik</subject>
@@ -1118,7 +1168,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Wechel</publisher>
+    <publishers>
+      <publisher>Wechel</publisher>
+    </publishers>
     <year>1584</year>
     <subjects>
       <subject>Philosophie</subject>
@@ -1173,7 +1225,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Wechel</publisher>
+    <publishers>
+      <publisher>Wechel</publisher>
+    </publishers>
     <year>1584</year>
     <subjects>
       <subject>Philosophie</subject>
@@ -1229,7 +1283,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Wechel</publisher>
+    <publishers>
+      <publisher>Wechel</publisher>
+    </publishers>
     <year>1587</year>
     <subjects>
       <subject>Philosophie</subject>
@@ -1281,7 +1337,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Wechel</publisher>
+    <publishers>
+      <publisher>Wechel</publisher>
+    </publishers>
     <year>1584</year>
     <subjects>
       <subject>Philosophie</subject>
@@ -1336,7 +1394,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Wechel</publisher>
+    <publishers>
+      <publisher>Wechel</publisher>
+    </publishers>
     <year>1585</year>
     <subjects>
       <subject>Philosophie</subject>
@@ -1388,7 +1448,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Wechel</publisher>
+    <publishers>
+      <publisher>Wechel</publisher>
+    </publishers>
     <year>1585</year>
     <subjects>
       <subject>Philosophie</subject>
@@ -1444,7 +1506,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Wechel</publisher>
+    <publishers>
+      <publisher>Wechel</publisher>
+    </publishers>
     <year>1587</year>
     <subjects>
       <subject>Philosophie</subject>
@@ -1495,7 +1559,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Wechel</publisher>
+    <publishers>
+      <publisher>Wechel</publisher>
+    </publishers>
     <year>1585</year>
     <subjects>
       <subject>Philosophie</subject>
@@ -1551,7 +1617,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Wechel</publisher>
+    <publishers>
+      <publisher>Wechel</publisher>
+    </publishers>
     <year>1587</year>
     <subjects>
       <subject>Philosophie</subject>
@@ -1603,7 +1671,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Wechel</publisher>
+    <publishers>
+      <publisher>Wechel</publisher>
+    </publishers>
     <year>1584-1587</year>
     <subjects>
       <subject>Philosophie</subject>
@@ -1639,7 +1709,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Myt</publisher>
+    <publishers>
+      <publisher>Myt</publisher>
+    </publishers>
     <year>1519</year>
     <subjects>
       <subject>Antike Medizin</subject>
@@ -1689,7 +1761,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Wechel</publisher>
+    <publishers>
+      <publisher>Wechel</publisher>
+    </publishers>
     <year>1597</year>
     <subjects>
       <subject>Consilia</subject>
@@ -1739,7 +1813,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Wechel</publisher>
+    <publishers>
+      <publisher>Wechel</publisher>
+    </publishers>
     <year>1598</year>
     <subjects>
       <subject>Therapeutik</subject>
@@ -1781,7 +1857,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Becker</publisher>
+    <publishers>
+      <publisher>Becker</publisher>
+    </publishers>
     <year>1603</year>
     <subjects>
       <subject>Pharmazie</subject>
@@ -1817,6 +1895,7 @@
           <beacon>trithemius</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
+          <beacon>fsh</beacon>
           <beacon>dpi</beacon>
         </beacon>
       </person>
@@ -1830,7 +1909,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1599</year>
     <subjects>
       <subject>Theologie</subject>
@@ -1881,7 +1962,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Henricpetri</publisher>
+    <publishers>
+      <publisher>Henricpetri</publisher>
+    </publishers>
     <year>1590</year>
     <subjects>
       <subject>Anatomie</subject>
@@ -1928,7 +2011,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Rouille</publisher>
+    <publishers>
+      <publisher>Rouille</publisher>
+    </publishers>
     <year>1578</year>
     <subjects>
       <subject>Therapeutik</subject>
@@ -1973,7 +2058,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Novesianum</publisher>
+    <publishers>
+      <publisher>Novesianum</publisher>
+    </publishers>
     <year>1537</year>
     <subjects>
       <subject>Medizin</subject>
@@ -2026,7 +2113,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Vignon</publisher>
+    <publishers>
+      <publisher>Vignon</publisher>
+    </publishers>
     <year>1579</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -2061,7 +2150,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Fischer</publisher>
+    <publishers>
+      <publisher>Fischer</publisher>
+    </publishers>
     <year>1595</year>
     <subjects>
       <subject>Theologie</subject>
@@ -2108,7 +2199,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Mareschal</publisher>
+    <publishers>
+      <publisher>Mareschal</publisher>
+    </publishers>
     <year>1591</year>
     <subjects>
       <subject>Geschichte</subject>
@@ -2140,6 +2233,7 @@
         <gnd>116223324</gnd>
         <role>author</role>
         <beacon>
+          <beacon>wkp</beacon>
           <beacon>cph</beacon>
         </beacon>
       </person>
@@ -2153,7 +2247,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1597</year>
     <subjects>
       <subject>Epidemiologie</subject>
@@ -2185,6 +2281,7 @@
         <gnd>116223324</gnd>
         <role>author</role>
         <beacon>
+          <beacon>wkp</beacon>
           <beacon>cph</beacon>
         </beacon>
       </person>
@@ -2198,7 +2295,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1591</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -2243,7 +2342,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Henripectri</publisher>
+    <publishers>
+      <publisher>Henripectri</publisher>
+    </publishers>
     <year>1572</year>
     <subjects>
       <subject>Alchemie</subject>
@@ -2299,7 +2400,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Myliander</publisher>
+    <publishers>
+      <publisher>Myliander</publisher>
+    </publishers>
     <year>1591</year>
     <subjects>
       <subject>Diätetik</subject>
@@ -2355,7 +2458,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Myliander</publisher>
+    <publishers>
+      <publisher>Myliander</publisher>
+    </publishers>
     <year>1591</year>
     <subjects>
       <subject>Medizin</subject>
@@ -2400,7 +2505,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Gymnich</publisher>
+    <publishers>
+      <publisher>Gymnich</publisher>
+    </publishers>
     <year>1596</year>
     <subjects>
       <subject>Geographie</subject>
@@ -2456,7 +2563,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Weida</publisher>
+    <publishers>
+      <publisher>Weida</publisher>
+    </publishers>
     <year>1588</year>
     <subjects>
       <subject>Astronomie</subject>
@@ -2512,7 +2621,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Brahe</publisher>
+    <publishers>
+      <publisher>Brahe</publisher>
+    </publishers>
     <year>1596</year>
     <subjects>
       <subject>Astronomie</subject>
@@ -2565,7 +2676,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Tampach</publisher>
+    <publishers>
+      <publisher>Tampach</publisher>
+    </publishers>
     <year>1610</year>
     <subjects>
       <subject>Astronomie</subject>
@@ -2607,7 +2720,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Mamarellum</publisher>
+    <publishers>
+      <publisher>Mamarellum</publisher>
+    </publishers>
     <year>1590</year>
     <subjects>
       <subject>Medizin</subject>
@@ -2642,6 +2757,7 @@
           <beacon>wkp</beacon>
           <beacon>db</beacon>
           <beacon>kall</beacon>
+          <beacon>fsh</beacon>
         </beacon>
       </person>
     </persons>
@@ -2654,7 +2770,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Bassée, Nicolas</publisher>
+    <publishers>
+      <publisher>Bassée, Nicolas</publisher>
+    </publishers>
     <year>1580</year>
     <subjects>
       <subject>Pharmazie</subject>
@@ -2703,7 +2821,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Wechel</publisher>
+    <publishers>
+      <publisher>Wechel</publisher>
+    </publishers>
     <year>1598</year>
     <subjects>
       <subject>Therapeutik</subject>
@@ -2752,7 +2872,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Paltheniana</publisher>
+    <publishers>
+      <publisher>Paltheniana</publisher>
+    </publishers>
     <year>1598</year>
     <subjects>
       <subject>Diätetik</subject>
@@ -2797,7 +2919,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Wechel</publisher>
+    <publishers>
+      <publisher>Wechel</publisher>
+    </publishers>
     <year>1588</year>
     <subjects>
       <subject>Diätetik</subject>
@@ -2846,7 +2970,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Wechel</publisher>
+    <publishers>
+      <publisher>Wechel</publisher>
+    </publishers>
     <year>1589</year>
     <subjects>
       <subject>Therapeutik</subject>
@@ -2895,7 +3021,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1575</year>
     <subjects>
       <subject>Mathematik</subject>
@@ -2948,7 +3076,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Myliander</publisher>
+    <publishers>
+      <publisher>Myliander</publisher>
+    </publishers>
     <year>1589</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -3001,7 +3131,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Myliander</publisher>
+    <publishers>
+      <publisher>Myliander</publisher>
+    </publishers>
     <year>1587</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -3054,7 +3186,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Myliander</publisher>
+    <publishers>
+      <publisher>Myliander</publisher>
+    </publishers>
     <year>1589</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -3096,7 +3230,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Plantin</publisher>
+    <publishers>
+      <publisher>Plantin</publisher>
+    </publishers>
     <year>1579</year>
     <subjects>
       <subject>Medizin</subject>
@@ -3138,7 +3274,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Paltheniana</publisher>
+    <publishers>
+      <publisher>Paltheniana</publisher>
+    </publishers>
     <year>1600</year>
     <subjects>
       <subject>Diätetik</subject>
@@ -3188,7 +3326,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Wechel</publisher>
+    <publishers>
+      <publisher>Wechel</publisher>
+    </publishers>
     <year>1584</year>
     <subjects>
       <subject>Geschichte</subject>
@@ -3230,7 +3370,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Eichorn</publisher>
+    <publishers>
+      <publisher>Eichorn</publisher>
+    </publishers>
     <year>1573</year>
     <subjects>
       <subject>Astronomie</subject>
@@ -3280,7 +3422,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Gerlachin</publisher>
+    <publishers>
+      <publisher>Gerlachin</publisher>
+    </publishers>
     <year>1583</year>
     <subjects>
       <subject>Epidemiologie</subject>
@@ -3326,7 +3470,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Hartman</publisher>
+    <publishers>
+      <publisher>Hartman</publisher>
+    </publishers>
     <year>1598</year>
     <subjects>
       <subject>Politik</subject>
@@ -3372,7 +3518,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>[s. n.]</publisher>
+    <publishers>
+      <publisher>[s. n.]</publisher>
+    </publishers>
     <year>1590</year>
     <subjects>
       <subject>Gelegenheitsschrift</subject>
@@ -3414,7 +3562,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Ranot</publisher>
+    <publishers>
+      <publisher>Ranot</publisher>
+    </publishers>
     <year>1579</year>
     <subjects>
       <subject>Antike Medizin</subject>
@@ -3461,7 +3611,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Fischer</publisher>
+    <publishers>
+      <publisher>Fischer</publisher>
+    </publishers>
     <year>1594</year>
     <subjects>
       <subject>Medizin</subject>
@@ -3508,7 +3660,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Faber</publisher>
+    <publishers>
+      <publisher>Faber</publisher>
+    </publishers>
     <year>1595</year>
     <subjects>
       <subject>Diagnostik</subject>
@@ -3545,6 +3699,7 @@
           <beacon>db</beacon>
           <beacon>dbi</beacon>
           <beacon>kall</beacon>
+          <beacon>fsh</beacon>
           <beacon>dpi</beacon>
         </beacon>
       </person>
@@ -3558,7 +3713,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Scotus</publisher>
+    <publishers>
+      <publisher>Scotus</publisher>
+    </publishers>
     <year>1545</year>
     <subjects>
       <subject>Medizin</subject>
@@ -3595,6 +3752,7 @@
           <beacon>db</beacon>
           <beacon>dbi</beacon>
           <beacon>kall</beacon>
+          <beacon>fsh</beacon>
           <beacon>dpi</beacon>
         </beacon>
       </person>
@@ -3608,7 +3766,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Henricpetri</publisher>
+    <publishers>
+      <publisher>Henricpetri</publisher>
+    </publishers>
     <year>1566</year>
     <subjects>
       <subject>Therapeutik</subject>
@@ -3657,7 +3817,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Valgris</publisher>
+    <publishers>
+      <publisher>Valgris</publisher>
+    </publishers>
     <year>1553</year>
     <subjects>
       <subject>Geschichte</subject>
@@ -3707,7 +3869,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Bertram</publisher>
+    <publishers>
+      <publisher>Bertram</publisher>
+    </publishers>
     <year>1589</year>
     <subjects>
       <subject>Pharmazie</subject>
@@ -3757,7 +3921,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Bertram</publisher>
+    <publishers>
+      <publisher>Bertram</publisher>
+    </publishers>
     <year>1590</year>
     <subjects>
       <subject>Medizin</subject>
@@ -3812,7 +3978,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1598</year>
     <subjects>
       <subject>Gelegenheitsschrift</subject>
@@ -3871,7 +4039,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1598</year>
     <subjects>
       <subject>Gelegenheitsschrift</subject>
@@ -3930,7 +4100,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1599</year>
     <subjects>
       <subject>Gelegenheitsschrift</subject>
@@ -3989,7 +4161,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1600</year>
     <subjects>
       <subject>Gelegenheitsschrift</subject>
@@ -4048,7 +4222,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1600</year>
     <subjects>
       <subject>Gelegenheitsschrift</subject>
@@ -4107,7 +4283,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1600</year>
     <subjects>
       <subject>Politik</subject>
@@ -4166,7 +4344,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1601</year>
     <subjects>
       <subject>Politik</subject>
@@ -4225,7 +4405,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1602</year>
     <subjects>
       <subject>Gelegenheitsschrift</subject>
@@ -4284,7 +4466,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1602</year>
     <subjects>
       <subject>Politik</subject>
@@ -4343,7 +4527,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1602</year>
     <subjects>
       <subject>Gelegenheitsschrift</subject>
@@ -4402,7 +4588,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1603</year>
     <subjects>
       <subject>Gelegenheitsschrift</subject>
@@ -4461,7 +4649,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1603</year>
     <subjects>
       <subject>Gelegenheitsschrift</subject>
@@ -4516,7 +4706,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1594</year>
     <subjects>
       <subject>Gelegenheitsschrift</subject>
@@ -4575,7 +4767,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1596</year>
     <subjects>
       <subject>Gelegenheitsschrift</subject>
@@ -4634,7 +4828,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1596</year>
     <subjects>
       <subject>Rhetorik</subject>
@@ -4693,7 +4889,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1597</year>
     <subjects>
       <subject>Gelegenheitsschrift</subject>
@@ -4752,7 +4950,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Myliander</publisher>
+    <publishers>
+      <publisher>Myliander</publisher>
+    </publishers>
     <year>1596</year>
     <subjects>
       <subject>Gelegenheitsschrift</subject>
@@ -4807,7 +5007,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>In Academia Julia</publisher>
+    <publishers>
+      <publisher>In Academia Julia</publisher>
+    </publishers>
     <year>1592</year>
     <subjects>
       <subject>Gelegenheitsschrift</subject>
@@ -4866,7 +5068,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>In Academia Julia</publisher>
+    <publishers>
+      <publisher>In Academia Julia</publisher>
+    </publishers>
     <year>1592</year>
     <subjects>
       <subject>Politik</subject>
@@ -4925,7 +5129,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>In Academia Julia</publisher>
+    <publishers>
+      <publisher>In Academia Julia</publisher>
+    </publishers>
     <year>1592</year>
     <subjects>
       <subject>Gelegenheitsschrift</subject>
@@ -4984,7 +5190,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>In Academia Julia</publisher>
+    <publishers>
+      <publisher>In Academia Julia</publisher>
+    </publishers>
     <year>1593</year>
     <subjects>
       <subject>Gelegenheitsschrift</subject>
@@ -5043,7 +5251,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1593</year>
     <subjects>
       <subject>Gelegenheitsschrift</subject>
@@ -5102,7 +5312,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1594</year>
     <subjects>
       <subject>Gelegenheitsschrift</subject>
@@ -5161,7 +5373,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1594</year>
     <subjects>
       <subject>Gelegenheitsschrift</subject>
@@ -5220,7 +5434,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>In Academia Julia</publisher>
+    <publishers>
+      <publisher>In Academia Julia</publisher>
+    </publishers>
     <year>1595</year>
     <subjects>
       <subject>Gelegenheitsschrift</subject>
@@ -5279,7 +5495,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1596</year>
     <subjects>
       <subject>Gelegenheitsschrift</subject>
@@ -5325,7 +5543,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1596</year>
     <subjects>
       <subject>Epidemiologie</subject>
@@ -5373,7 +5593,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1594</year>
     <subjects>
       <subject>Philosophie</subject>
@@ -5422,7 +5644,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Agricola</publisher>
+    <publishers>
+      <publisher>Agricola</publisher>
+    </publishers>
     <year>1602</year>
     <subjects>
       <subject>Physik</subject>
@@ -5464,7 +5688,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lertout</publisher>
+    <publishers>
+      <publisher>Lertout</publisher>
+    </publishers>
     <year>1588</year>
     <subjects>
       <subject>Chirurgie</subject>
@@ -5510,7 +5736,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Oporinus</publisher>
+    <publishers>
+      <publisher>Oporinus</publisher>
+    </publishers>
     <year>1583</year>
     <subjects>
       <subject>Medizin</subject>
@@ -5562,7 +5790,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Paltheniana</publisher>
+    <publishers>
+      <publisher>Paltheniana</publisher>
+    </publishers>
     <year>1595</year>
     <subjects>
       <subject>Mathematik</subject>
@@ -5614,7 +5844,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Harnisch</publisher>
+    <publishers>
+      <publisher>Harnisch</publisher>
+    </publishers>
     <year>1591</year>
     <subjects>
       <subject>Astronomie</subject>
@@ -5662,7 +5894,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Zetzner</publisher>
+    <publishers>
+      <publisher>Zetzner</publisher>
+    </publishers>
     <year>1601</year>
     <subjects>
       <subject>Astronomie</subject>
@@ -5701,6 +5935,7 @@
           <beacon>cprm</beacon>
           <beacon>gesa</beacon>
           <beacon>kall</beacon>
+          <beacon>fsh</beacon>
           <beacon>dpi</beacon>
         </beacon>
       </person>
@@ -5714,7 +5949,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1593</year>
     <subjects>
       <subject>Geschichte</subject>
@@ -5753,6 +5990,7 @@
           <beacon>cprm</beacon>
           <beacon>gesa</beacon>
           <beacon>kall</beacon>
+          <beacon>fsh</beacon>
           <beacon>dpi</beacon>
         </beacon>
       </person>
@@ -5766,7 +6004,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Myliander</publisher>
+    <publishers>
+      <publisher>Myliander</publisher>
+    </publishers>
     <year>1590</year>
     <subjects>
       <subject>Geschichte</subject>
@@ -5805,6 +6045,7 @@
           <beacon>gspd</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
+          <beacon>fsh</beacon>
           <beacon>dpi</beacon>
           <beacon>vkk</beacon>
           <beacon>cmvw</beacon>
@@ -5820,7 +6061,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Rihel</publisher>
+    <publishers>
+      <publisher>Rihel</publisher>
+    </publishers>
     <year>1541</year>
     <subjects>
       <subject>Literatur</subject>
@@ -5859,6 +6102,7 @@
           <beacon>gspd</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
+          <beacon>fsh</beacon>
           <beacon>dpi</beacon>
           <beacon>vkk</beacon>
           <beacon>cmvw</beacon>
@@ -5874,7 +6118,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Rihel</publisher>
+    <publishers>
+      <publisher>Rihel</publisher>
+    </publishers>
     <year>1578</year>
     <subjects>
       <subject>Rhetorik</subject>
@@ -5913,6 +6159,7 @@
           <beacon>gspd</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
+          <beacon>fsh</beacon>
           <beacon>dpi</beacon>
           <beacon>vkk</beacon>
           <beacon>cmvw</beacon>
@@ -5928,7 +6175,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Rihel</publisher>
+    <publishers>
+      <publisher>Rihel</publisher>
+    </publishers>
     <year>1583</year>
     <subjects>
       <subject>Literatur</subject>
@@ -5967,6 +6216,7 @@
           <beacon>gspd</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
+          <beacon>fsh</beacon>
           <beacon>dpi</beacon>
           <beacon>vkk</beacon>
           <beacon>cmvw</beacon>
@@ -5982,7 +6232,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Rihel</publisher>
+    <publishers>
+      <publisher>Rihel</publisher>
+    </publishers>
     <year>1574</year>
     <subjects>
       <subject>Philosophie</subject>
@@ -6021,6 +6273,7 @@
           <beacon>gspd</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
+          <beacon>fsh</beacon>
           <beacon>dpi</beacon>
           <beacon>vkk</beacon>
           <beacon>cmvw</beacon>
@@ -6036,7 +6289,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Rihel</publisher>
+    <publishers>
+      <publisher>Rihel</publisher>
+    </publishers>
     <year>1582</year>
     <subjects>
       <subject>Philosophie</subject>
@@ -6088,7 +6343,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Plantin</publisher>
+    <publishers>
+      <publisher>Plantin</publisher>
+    </publishers>
     <year>1576</year>
     <subjects>
       <subject>Geschichte</subject>
@@ -6140,7 +6397,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Plantin</publisher>
+    <publishers>
+      <publisher>Plantin</publisher>
+    </publishers>
     <year>1582</year>
     <subjects>
       <subject>Pharmazie</subject>
@@ -6182,7 +6441,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Wechel</publisher>
+    <publishers>
+      <publisher>Wechel</publisher>
+    </publishers>
     <year>1597</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -6224,7 +6485,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Beati</publisher>
+    <publishers>
+      <publisher>Beati</publisher>
+    </publishers>
     <year>1601</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -6271,7 +6534,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Wechel</publisher>
+    <publishers>
+      <publisher>Wechel</publisher>
+    </publishers>
     <year>1572</year>
     <subjects>
       <subject>Anatomie</subject>
@@ -6316,7 +6581,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Perna</publisher>
+    <publishers>
+      <publisher>Perna</publisher>
+    </publishers>
     <year>1573</year>
     <subjects>
       <subject>Geschichte</subject>
@@ -6367,7 +6634,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Petreius</publisher>
+    <publishers>
+      <publisher>Petreius</publisher>
+    </publishers>
     <year>1543</year>
     <subjects>
       <subject>Astronomie</subject>
@@ -6418,7 +6687,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Petri</publisher>
+    <publishers>
+      <publisher>Petri</publisher>
+    </publishers>
     <year>1566</year>
     <subjects>
       <subject>Astronomie</subject>
@@ -6464,7 +6735,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Meittum</publisher>
+    <publishers>
+      <publisher>Meittum</publisher>
+    </publishers>
     <year>1595</year>
     <subjects>
       <subject>Medizin</subject>
@@ -6506,7 +6779,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Ostein</publisher>
+    <publishers>
+      <publisher>Ostein</publisher>
+    </publishers>
     <year>1580</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -6548,7 +6823,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Ziletti</publisher>
+    <publishers>
+      <publisher>Ziletti</publisher>
+    </publishers>
     <year>1562</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -6599,7 +6876,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Wechel</publisher>
+    <publishers>
+      <publisher>Wechel</publisher>
+    </publishers>
     <year>1591-1594</year>
     <subjects>
       <subject>Consilia</subject>
@@ -6644,7 +6923,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Wegener</publisher>
+    <publishers>
+      <publisher>Wegener</publisher>
+    </publishers>
     <year>1594</year>
     <subjects>
       <subject>Pharmazie</subject>
@@ -6693,7 +6974,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Laemarium</publisher>
+    <publishers>
+      <publisher>Laemarium</publisher>
+    </publishers>
     <year>1593</year>
     <subjects>
       <subject>Literatur</subject>
@@ -6739,7 +7022,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1600</year>
     <subjects>
       <subject>Rhetorik</subject>
@@ -6784,7 +7069,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1595</year>
     <subjects>
       <subject>Rhetorik</subject>
@@ -6817,6 +7104,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>jen</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
           <beacon>dpi</beacon>
@@ -6832,7 +7120,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Arnollet</publisher>
+    <publishers>
+      <publisher>Arnollet</publisher>
+    </publishers>
     <year>1550</year>
     <subjects>
       <subject>Antike Medizin</subject>
@@ -6888,7 +7178,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Plantin</publisher>
+    <publishers>
+      <publisher>Plantin</publisher>
+    </publishers>
     <year>1568</year>
     <subjects>
       <subject>Pharmazie</subject>
@@ -6944,7 +7236,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Plantin</publisher>
+    <publishers>
+      <publisher>Plantin</publisher>
+    </publishers>
     <year>1569</year>
     <subjects>
       <subject>Pharmazie</subject>
@@ -6996,7 +7290,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Plantin</publisher>
+    <publishers>
+      <publisher>Plantin</publisher>
+    </publishers>
     <year>1574</year>
     <subjects>
       <subject>Pharmazie</subject>
@@ -7047,7 +7343,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Rab</publisher>
+    <publishers>
+      <publisher>Rab</publisher>
+    </publishers>
     <year>1583</year>
     <subjects>
       <subject>Alchemie</subject>
@@ -7100,7 +7398,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Vignon</publisher>
+    <publishers>
+      <publisher>Vignon</publisher>
+    </publishers>
     <year>1603</year>
     <subjects>
       <subject>Medizin</subject>
@@ -7149,7 +7449,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Richter</publisher>
+    <publishers>
+      <publisher>Richter</publisher>
+    </publishers>
     <year>1605</year>
     <subjects>
       <subject>Medizin</subject>
@@ -7194,7 +7496,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Cotier</publisher>
+    <publishers>
+      <publisher>Cotier</publisher>
+    </publishers>
     <year>1561</year>
     <subjects>
       <subject>Pharmazie</subject>
@@ -7243,7 +7547,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Rihel</publisher>
+    <publishers>
+      <publisher>Rihel</publisher>
+    </publishers>
     <year>1554</year>
     <subjects>
       <subject>Philosophie</subject>
@@ -7285,6 +7591,7 @@
           <beacon>gesa</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
+          <beacon>fsh</beacon>
           <beacon>cors</beacon>
           <beacon>dpi</beacon>
           <beacon>vkk</beacon>
@@ -7300,7 +7607,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Froben</publisher>
+    <publishers>
+      <publisher>Froben</publisher>
+    </publishers>
     <year>1558</year>
     <subjects>
       <subject>Literatur</subject>
@@ -7341,6 +7650,7 @@
           <beacon>gesa</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
+          <beacon>fsh</beacon>
           <beacon>cors</beacon>
           <beacon>dpi</beacon>
           <beacon>vkk</beacon>
@@ -7356,7 +7666,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Gymnich</publisher>
+    <publishers>
+      <publisher>Gymnich</publisher>
+    </publishers>
     <year>1551</year>
     <subjects>
       <subject>Literatur</subject>
@@ -7406,7 +7718,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Ostein</publisher>
+    <publishers>
+      <publisher>Ostein</publisher>
+    </publishers>
     <year>1580</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -7439,6 +7753,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>jen</beacon>
           <beacon>kall</beacon>
           <beacon>dpi</beacon>
         </beacon>
@@ -7453,7 +7768,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Estienne</publisher>
+    <publishers>
+      <publisher>Estienne</publisher>
+    </publishers>
     <year>1516</year>
     <subjects>
       <subject>Mathematik</subject>
@@ -7503,7 +7820,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Cartier</publisher>
+    <publishers>
+      <publisher>Cartier</publisher>
+    </publishers>
     <year>1598</year>
     <subjects>
       <subject>Chirurgie</subject>
@@ -7552,7 +7871,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Bertelli</publisher>
+    <publishers>
+      <publisher>Bertelli</publisher>
+    </publishers>
     <year>1563</year>
     <subjects>
       <subject>Medizin</subject>
@@ -7601,7 +7922,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Wechel</publisher>
+    <publishers>
+      <publisher>Wechel</publisher>
+    </publishers>
     <year>1584</year>
     <subjects>
       <subject>Medizin</subject>
@@ -7652,7 +7975,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Wechel</publisher>
+    <publishers>
+      <publisher>Wechel</publisher>
+    </publishers>
     <year>1581</year>
     <subjects>
       <subject>Medizin</subject>
@@ -7703,7 +8028,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Wechel</publisher>
+    <publishers>
+      <publisher>Wechel</publisher>
+    </publishers>
     <year>1581</year>
     <subjects>
       <subject>Medizin</subject>
@@ -7750,7 +8077,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Wechel</publisher>
+    <publishers>
+      <publisher>Wechel</publisher>
+    </publishers>
     <year>1593</year>
     <subjects>
       <subject>Consilia</subject>
@@ -7797,7 +8126,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Wechel</publisher>
+    <publishers>
+      <publisher>Wechel</publisher>
+    </publishers>
     <year>1581</year>
     <subjects>
       <subject>Therapeutik</subject>
@@ -7844,7 +8175,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Rouille</publisher>
+    <publishers>
+      <publisher>Rouille</publisher>
+    </publishers>
     <year>1549</year>
     <subjects>
       <subject>Therapeutik</subject>
@@ -7886,7 +8219,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Fabrius</publisher>
+    <publishers>
+      <publisher>Fabrius</publisher>
+    </publishers>
     <year>1602</year>
     <subjects>
       <subject>Therapeutik</subject>
@@ -7939,7 +8274,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Westemerum</publisher>
+    <publishers>
+      <publisher>Westemerum</publisher>
+    </publishers>
     <year>1541</year>
     <subjects>
       <subject>Philosophie</subject>
@@ -7988,7 +8325,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Henripetri</publisher>
+    <publishers>
+      <publisher>Henripetri</publisher>
+    </publishers>
     <year>1583</year>
     <subjects>
       <subject>Mathematik</subject>
@@ -8034,7 +8373,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Hervag</publisher>
+    <publishers>
+      <publisher>Hervag</publisher>
+    </publishers>
     <year>1533</year>
     <subjects>
       <subject>Astronomie</subject>
@@ -8082,7 +8423,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Plantin</publisher>
+    <publishers>
+      <publisher>Plantin</publisher>
+    </publishers>
     <year>1603</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -8134,7 +8477,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Plantin</publisher>
+    <publishers>
+      <publisher>Plantin</publisher>
+    </publishers>
     <year>1589</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -8186,7 +8531,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Plantin</publisher>
+    <publishers>
+      <publisher>Plantin</publisher>
+    </publishers>
     <year>1589</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -8238,7 +8585,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Plantin</publisher>
+    <publishers>
+      <publisher>Plantin</publisher>
+    </publishers>
     <year>1591</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -8290,7 +8639,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Plantin</publisher>
+    <publishers>
+      <publisher>Plantin</publisher>
+    </publishers>
     <year>1591</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -8342,7 +8693,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Plantin</publisher>
+    <publishers>
+      <publisher>Plantin</publisher>
+    </publishers>
     <year>1591</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -8394,7 +8747,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Plantin</publisher>
+    <publishers>
+      <publisher>Plantin</publisher>
+    </publishers>
     <year>1593</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -8442,7 +8797,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Plantin</publisher>
+    <publishers>
+      <publisher>Plantin</publisher>
+    </publishers>
     <year>1590</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -8487,7 +8844,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Perna</publisher>
+    <publishers>
+      <publisher>Perna</publisher>
+    </publishers>
     <year>1577</year>
     <subjects>
       <subject>Mathematik</subject>
@@ -8529,7 +8888,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Blado</publisher>
+    <publishers>
+      <publisher>Blado</publisher>
+    </publishers>
     <year>1561</year>
     <subjects>
       <subject>Geographie</subject>
@@ -8575,7 +8936,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1597</year>
     <subjects>
       <subject>Politik</subject>
@@ -8621,7 +8984,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1594</year>
     <subjects>
       <subject>Philosophie</subject>
@@ -8672,7 +9037,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Frellon</publisher>
+    <publishers>
+      <publisher>Frellon</publisher>
+    </publishers>
     <year>1547</year>
     <subjects>
       <subject>Medizin</subject>
@@ -8723,7 +9090,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Du Puys</publisher>
+    <publishers>
+      <publisher>Du Puys</publisher>
+    </publishers>
     <year>1550</year>
     <subjects>
       <subject>Medizin</subject>
@@ -8770,7 +9139,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1602</year>
     <subjects>
       <subject>Gelegenheitsschrift</subject>
@@ -8812,7 +9183,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Rouille</publisher>
+    <publishers>
+      <publisher>Rouille</publisher>
+    </publishers>
     <year>1549</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -8861,7 +9234,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Constantinus</publisher>
+    <publishers>
+      <publisher>Constantinus</publisher>
+    </publishers>
     <year>1554</year>
     <subjects>
       <subject>Antike Medizin</subject>
@@ -8911,7 +9286,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lasius</publisher>
+    <publishers>
+      <publisher>Lasius</publisher>
+    </publishers>
     <year>1538-1539</year>
     <subjects>
       <subject>Antike Medizin</subject>
@@ -8961,7 +9338,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Westemer</publisher>
+    <publishers>
+      <publisher>Westemer</publisher>
+    </publishers>
     <year>1541</year>
     <subjects>
       <subject>Antike Medizin</subject>
@@ -9015,7 +9394,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1592</year>
     <subjects>
       <subject>Antike Medizin</subject>
@@ -9070,7 +9451,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1596</year>
     <subjects>
       <subject>Antike Medizin</subject>
@@ -9120,7 +9503,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Scotus</publisher>
+    <publishers>
+      <publisher>Scotus</publisher>
+    </publishers>
     <year>1548</year>
     <subjects>
       <subject>Antike Medizin</subject>
@@ -9170,7 +9555,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Froben</publisher>
+    <publishers>
+      <publisher>Froben</publisher>
+    </publishers>
     <year>1561-1562</year>
     <subjects>
       <subject>Antike Medizin</subject>
@@ -9220,7 +9607,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Episcopius</publisher>
+    <publishers>
+      <publisher>Episcopius</publisher>
+    </publishers>
     <year>1568</year>
     <subjects>
       <subject>Antike Medizin</subject>
@@ -9262,7 +9651,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Wechel</publisher>
+    <publishers>
+      <publisher>Wechel</publisher>
+    </publishers>
     <year>1592</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -9304,7 +9695,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Gymnich</publisher>
+    <publishers>
+      <publisher>Gymnich</publisher>
+    </publishers>
     <year>1537</year>
     <subjects>
       <subject>Rhetorik</subject>
@@ -9354,7 +9747,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Bontiou</publisher>
+    <publishers>
+      <publisher>Bontiou</publisher>
+    </publishers>
     <year>1545</year>
     <subjects>
       <subject>Astronomie</subject>
@@ -9407,7 +9802,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Frosch</publisher>
+    <publishers>
+      <publisher>Frosch</publisher>
+    </publishers>
     <year>1577</year>
     <subjects>
       <subject>Consilia</subject>
@@ -9460,7 +9857,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Gesner</publisher>
+    <publishers>
+      <publisher>Gesner</publisher>
+    </publishers>
     <year>1556</year>
     <subjects>
       <subject>Diätetik</subject>
@@ -9502,7 +9901,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Perna</publisher>
+    <publishers>
+      <publisher>Perna</publisher>
+    </publishers>
     <year>1564</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -9554,7 +9955,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Frisius</publisher>
+    <publishers>
+      <publisher>Frisius</publisher>
+    </publishers>
     <year>1555-1556</year>
     <subjects>
       <subject>Geschichte</subject>
@@ -9604,7 +10007,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Wechel</publisher>
+    <publishers>
+      <publisher>Wechel</publisher>
+    </publishers>
     <year>1593</year>
     <subjects>
       <subject>Physik</subject>
@@ -9649,7 +10054,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Henricpetri</publisher>
+    <publishers>
+      <publisher>Henricpetri</publisher>
+    </publishers>
     <year>1597</year>
     <subjects>
       <subject>Therapeutik</subject>
@@ -9697,7 +10104,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Fritsch</publisher>
+    <publishers>
+      <publisher>Fritsch</publisher>
+    </publishers>
     <year>1580</year>
     <subjects>
       <subject>Physik</subject>
@@ -9745,7 +10154,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Fritsch</publisher>
+    <publishers>
+      <publisher>Fritsch</publisher>
+    </publishers>
     <year>1591</year>
     <subjects>
       <subject>Physik</subject>
@@ -9792,7 +10203,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Episciopus</publisher>
+    <publishers>
+      <publisher>Episciopus</publisher>
+    </publishers>
     <year>1572</year>
     <subjects>
       <subject>Physik</subject>
@@ -9841,7 +10254,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Bertram</publisher>
+    <publishers>
+      <publisher>Bertram</publisher>
+    </publishers>
     <year>1590</year>
     <subjects>
       <subject>Physik</subject>
@@ -9886,7 +10301,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1597</year>
     <subjects>
       <subject>Epidemiologie</subject>
@@ -9931,7 +10348,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Ostein</publisher>
+    <publishers>
+      <publisher>Ostein</publisher>
+    </publishers>
     <year>1587</year>
     <subjects>
       <subject>Diagnostik</subject>
@@ -9984,7 +10403,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Plantin</publisher>
+    <publishers>
+      <publisher>Plantin</publisher>
+    </publishers>
     <year>1598</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -10037,7 +10458,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Plantin</publisher>
+    <publishers>
+      <publisher>Plantin</publisher>
+    </publishers>
     <year>1600</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -10090,7 +10513,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Plantin</publisher>
+    <publishers>
+      <publisher>Plantin</publisher>
+    </publishers>
     <year>1602</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -10143,7 +10568,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Plantin</publisher>
+    <publishers>
+      <publisher>Plantin</publisher>
+    </publishers>
     <year>1602</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -10192,7 +10619,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Plantin</publisher>
+    <publishers>
+      <publisher>Plantin</publisher>
+    </publishers>
     <year>1590</year>
     <subjects>
       <subject>Therapeutik</subject>
@@ -10241,7 +10670,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Plantin</publisher>
+    <publishers>
+      <publisher>Plantin</publisher>
+    </publishers>
     <year>1594</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -10283,7 +10714,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Osthaus</publisher>
+    <publishers>
+      <publisher>Osthaus</publisher>
+    </publishers>
     <year>1597</year>
     <subjects>
       <subject>Antike Medizin</subject>
@@ -10334,7 +10767,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Tornaesius</publisher>
+    <publishers>
+      <publisher>Tornaesius</publisher>
+    </publishers>
     <year>1580</year>
     <subjects>
       <subject>Antike Medizin</subject>
@@ -10385,7 +10820,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Beringos</publisher>
+    <publishers>
+      <publisher>Beringos</publisher>
+    </publishers>
     <year>1551</year>
     <subjects>
       <subject>Antike Medizin</subject>
@@ -10432,7 +10869,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Plantin</publisher>
+    <publishers>
+      <publisher>Plantin</publisher>
+    </publishers>
     <year>1595</year>
     <subjects>
       <subject>Mathematik</subject>
@@ -10477,7 +10916,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Schilders</publisher>
+    <publishers>
+      <publisher>Schilders</publisher>
+    </publishers>
     <year>1600</year>
     <subjects>
       <subject>Alchemie</subject>
@@ -10519,7 +10960,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lamberg</publisher>
+    <publishers>
+      <publisher>Lamberg</publisher>
+    </publishers>
     <year>1593</year>
     <subjects>
       <subject>Mathematik</subject>
@@ -10554,6 +10997,7 @@
           <beacon>wkp</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
+          <beacon>fsh</beacon>
           <beacon>dpi</beacon>
         </beacon>
       </person>
@@ -10567,7 +11011,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Tournes</publisher>
+    <publishers>
+      <publisher>Tournes</publisher>
+    </publishers>
     <year>1577</year>
     <subjects>
       <subject>Philosophie</subject>
@@ -10615,7 +11061,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Schultum</publisher>
+    <publishers>
+      <publisher>Schultum</publisher>
+    </publishers>
     <year>1534</year>
     <subjects>
       <subject>Astronomie</subject>
@@ -10657,7 +11105,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Zetzner</publisher>
+    <publishers>
+      <publisher>Zetzner</publisher>
+    </publishers>
     <year>1599</year>
     <subjects>
       <subject>Alchemie</subject>
@@ -10704,7 +11154,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Waldkirch</publisher>
+    <publishers>
+      <publisher>Waldkirch</publisher>
+    </publishers>
     <year>1597</year>
     <subjects>
       <subject>Alchemie</subject>
@@ -10735,6 +11187,9 @@
         <persName>Johannes Zacharias Actuarius</persName>
         <gnd>100948251</gnd>
         <role>author</role>
+        <beacon>
+          <beacon>wkp</beacon>
+        </beacon>
       </person>
     </persons>
     <places>
@@ -10746,7 +11201,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Turrisan</publisher>
+    <publishers>
+      <publisher>Turrisan</publisher>
+    </publishers>
     <year>1556</year>
     <subjects>
       <subject>Physik</subject>
@@ -10784,9 +11241,11 @@
         <beacon>
           <beacon>wkp</beacon>
           <beacon>trithemius</beacon>
+          <beacon>jen</beacon>
           <beacon>gspd</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
+          <beacon>fsh</beacon>
           <beacon>dpi</beacon>
           <beacon>vkk</beacon>
         </beacon>
@@ -10801,7 +11260,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1600</year>
     <subjects>
       <subject>Theologie</subject>
@@ -10839,9 +11300,11 @@
         <beacon>
           <beacon>wkp</beacon>
           <beacon>trithemius</beacon>
+          <beacon>jen</beacon>
           <beacon>gspd</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
+          <beacon>fsh</beacon>
           <beacon>dpi</beacon>
           <beacon>vkk</beacon>
         </beacon>
@@ -10856,7 +11319,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1601</year>
     <subjects>
       <subject>Theologie</subject>
@@ -10903,7 +11368,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Manger</publisher>
+    <publishers>
+      <publisher>Manger</publisher>
+    </publishers>
     <year>1593</year>
     <subjects>
       <subject>Medizin</subject>
@@ -10952,7 +11419,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Wechel</publisher>
+    <publishers>
+      <publisher>Wechel</publisher>
+    </publishers>
     <year>1580</year>
     <subjects>
       <subject>Epidemiologie</subject>
@@ -10999,7 +11468,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Plantin</publisher>
+    <publishers>
+      <publisher>Plantin</publisher>
+    </publishers>
     <year>1591</year>
     <subjects>
       <subject>Physik</subject>
@@ -11052,7 +11523,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Wechel</publisher>
+    <publishers>
+      <publisher>Wechel</publisher>
+    </publishers>
     <year>1589</year>
     <subjects>
       <subject>Consilia</subject>
@@ -11100,7 +11573,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Plantin</publisher>
+    <publishers>
+      <publisher>Plantin</publisher>
+    </publishers>
     <year>1591</year>
     <subjects>
       <subject>Mathematik</subject>
@@ -11151,7 +11626,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Crispin</publisher>
+    <publishers>
+      <publisher>Crispin</publisher>
+    </publishers>
     <year>1570</year>
     <subjects>
       <subject>Physik</subject>
@@ -11193,7 +11670,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Marnium</publisher>
+    <publishers>
+      <publisher>Marnium</publisher>
+    </publishers>
     <year>1601</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -11238,7 +11717,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Waldkirch</publisher>
+    <publishers>
+      <publisher>Waldkirch</publisher>
+    </publishers>
     <year>1590</year>
     <subjects>
       <subject>Medizin</subject>
@@ -11285,7 +11766,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Wechel</publisher>
+    <publishers>
+      <publisher>Wechel</publisher>
+    </publishers>
     <year>1591</year>
     <subjects>
       <subject>Theologie</subject>
@@ -11332,7 +11815,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Simonem</publisher>
+    <publishers>
+      <publisher>Simonem</publisher>
+    </publishers>
     <year>1566</year>
     <subjects>
       <subject>Theologie</subject>
@@ -11379,7 +11864,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Isingrin</publisher>
+    <publishers>
+      <publisher>Isingrin</publisher>
+    </publishers>
     <year>1554</year>
     <subjects>
       <subject>Geschichte</subject>
@@ -11431,7 +11918,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1593</year>
     <subjects>
       <subject>Physik</subject>
@@ -11483,7 +11972,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1598</year>
     <subjects>
       <subject>Diagnostik</subject>
@@ -11535,7 +12026,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1598</year>
     <subjects>
       <subject>Medizin</subject>
@@ -11587,7 +12080,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1598</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -11639,7 +12134,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1598</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -11691,7 +12188,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1598</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -11743,7 +12242,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1598</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -11795,7 +12296,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1598</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -11843,7 +12346,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1598</year>
     <subjects>
       <subject>Therapeutik</subject>
@@ -11895,7 +12400,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1598</year>
     <subjects>
       <subject>Epidemiologie</subject>
@@ -11947,7 +12454,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1601</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -11999,7 +12508,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1601</year>
     <subjects>
       <subject>Therapeutik</subject>
@@ -12051,7 +12562,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1601</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -12103,7 +12616,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1601</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -12155,7 +12670,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1601</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -12207,7 +12724,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1601</year>
     <subjects>
       <subject>Pharmazie</subject>
@@ -12259,7 +12778,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1601</year>
     <subjects>
       <subject>Pharmazie</subject>
@@ -12311,7 +12832,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1601</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -12363,7 +12886,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1602</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -12415,7 +12940,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1603</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -12463,7 +12990,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1597</year>
     <subjects>
       <subject>Medizin</subject>
@@ -12515,7 +13044,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1597</year>
     <subjects>
       <subject>Physiologie</subject>
@@ -12567,7 +13098,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1597</year>
     <subjects>
       <subject>Physiologie</subject>
@@ -12619,7 +13152,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1597</year>
     <subjects>
       <subject>Physiologie</subject>
@@ -12671,7 +13206,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1597</year>
     <subjects>
       <subject>Physik</subject>
@@ -12723,7 +13260,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1597</year>
     <subjects>
       <subject>Physik</subject>
@@ -12775,7 +13314,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1597</year>
     <subjects>
       <subject>Physik</subject>
@@ -12827,7 +13368,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1597</year>
     <subjects>
       <subject>Physik</subject>
@@ -12879,7 +13422,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1597</year>
     <subjects>
       <subject>Physik</subject>
@@ -12931,7 +13476,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1597</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -12983,7 +13530,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1597</year>
     <subjects>
       <subject>Physik</subject>
@@ -13035,7 +13584,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1598</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -13087,7 +13638,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1598</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -13139,7 +13692,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1598</year>
     <subjects>
       <subject>Diagnostik</subject>
@@ -13191,7 +13746,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1600</year>
     <subjects>
       <subject>Physik</subject>
@@ -13239,7 +13796,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1592</year>
     <subjects>
       <subject>Philosophie</subject>
@@ -13291,7 +13850,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1593</year>
     <subjects>
       <subject>Physik</subject>
@@ -13343,7 +13904,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1595</year>
     <subjects>
       <subject>Physik</subject>
@@ -13395,7 +13958,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1605</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -13447,7 +14012,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1605</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -13499,7 +14066,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1605</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -13551,7 +14120,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1605</year>
     <subjects>
       <subject>Medizin</subject>
@@ -13600,7 +14171,9 @@
         <placeName>s. l.</placeName>
       </place>
     </places>
-    <publisher>s. n.</publisher>
+    <publishers>
+      <publisher>s. n.</publisher>
+    </publishers>
     <year>1601</year>
     <subjects>
       <subject>Gelegenheitsschrift</subject>
@@ -13650,7 +14223,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>s. n.</publisher>
+    <publishers>
+      <publisher>s. n.</publisher>
+    </publishers>
     <year>1588</year>
     <subjects>
       <subject>Geschichte</subject>
@@ -13699,7 +14274,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Beck</publisher>
+    <publishers>
+      <publisher>Beck</publisher>
+    </publishers>
     <year>1541</year>
     <subjects>
       <subject>Physik</subject>
@@ -13752,7 +14329,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1594</year>
     <subjects>
       <subject>Literatur</subject>
@@ -13806,7 +14385,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1595</year>
     <subjects>
       <subject>Literatur</subject>
@@ -13855,7 +14436,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Cholinus</publisher>
+    <publishers>
+      <publisher>Cholinus</publisher>
+    </publishers>
     <year>1592</year>
     <subjects>
       <subject>Physik</subject>
@@ -13904,7 +14487,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Mylius</publisher>
+    <publishers>
+      <publisher>Mylius</publisher>
+    </publishers>
     <year>1581</year>
     <subjects>
       <subject>Astronomie</subject>
@@ -13953,7 +14538,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Gruppenbach</publisher>
+    <publishers>
+      <publisher>Gruppenbach</publisher>
+    </publishers>
     <year>1596</year>
     <subjects>
       <subject>Astronomie</subject>
@@ -13998,7 +14585,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Dunker</publisher>
+    <publishers>
+      <publisher>Dunker</publisher>
+    </publishers>
     <year>1597</year>
     <subjects>
       <subject>Epidemiologie</subject>
@@ -14043,7 +14632,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Valgrisi</publisher>
+    <publishers>
+      <publisher>Valgrisi</publisher>
+    </publishers>
     <year>1559</year>
     <subjects>
       <subject>Diagnostik</subject>
@@ -14085,7 +14676,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Albin</publisher>
+    <publishers>
+      <publisher>Albin</publisher>
+    </publishers>
     <year>1592</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -14139,7 +14732,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1596</year>
     <subjects>
       <subject>Philosophie</subject>
@@ -14193,7 +14788,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1597</year>
     <subjects>
       <subject>Physik</subject>
@@ -14247,7 +14844,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1597</year>
     <subjects>
       <subject>Philosophie</subject>
@@ -14297,7 +14896,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1596</year>
     <subjects>
       <subject>Gelegenheitsschrift</subject>
@@ -14343,7 +14944,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lamberg</publisher>
+    <publishers>
+      <publisher>Lamberg</publisher>
+    </publishers>
     <year>1600</year>
     <subjects>
       <subject>Gynäkologie</subject>
@@ -14379,6 +14982,7 @@
           <beacon>dbi</beacon>
           <beacon>phoh</beacon>
           <beacon>kall</beacon>
+          <beacon>fsh</beacon>
           <beacon>dta</beacon>
           <beacon>dpi</beacon>
           <beacon>vkk</beacon>
@@ -14394,7 +14998,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Rouille</publisher>
+    <publishers>
+      <publisher>Rouille</publisher>
+    </publishers>
     <year>1571</year>
     <subjects>
       <subject>Pharmazie</subject>
@@ -14429,7 +15035,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Aldus</publisher>
+    <publishers>
+      <publisher>Aldus</publisher>
+    </publishers>
     <year>1547</year>
     <subjects>
       <subject>Antike Medizin</subject>
@@ -14475,7 +15083,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Henricpetre</publisher>
+    <publishers>
+      <publisher>Henricpetre</publisher>
+    </publishers>
     <year>1576</year>
     <subjects>
       <subject>Geographie</subject>
@@ -14517,7 +15127,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Ciolti</publisher>
+    <publishers>
+      <publisher>Ciolti</publisher>
+    </publishers>
     <year>1588</year>
     <subjects>
       <subject>Medizin</subject>
@@ -14559,7 +15171,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Waldkirch</publisher>
+    <publishers>
+      <publisher>Waldkirch</publisher>
+    </publishers>
     <year>1594</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -14596,7 +15210,6 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
-          <beacon>dbi</beacon>
           <beacon>kall</beacon>
           <beacon>dpi</beacon>
         </beacon>
@@ -14611,7 +15224,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Perna</publisher>
+    <publishers>
+      <publisher>Perna</publisher>
+    </publishers>
     <year>1577</year>
     <subjects>
       <subject>Epidemiologie</subject>
@@ -14648,7 +15263,6 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
-          <beacon>dbi</beacon>
           <beacon>kall</beacon>
           <beacon>dpi</beacon>
         </beacon>
@@ -14663,7 +15277,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Wechel</publisher>
+    <publishers>
+      <publisher>Wechel</publisher>
+    </publishers>
     <year>1587</year>
     <subjects>
       <subject>Therapeutik</subject>
@@ -14696,7 +15312,6 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
-          <beacon>dbi</beacon>
           <beacon>kall</beacon>
           <beacon>dpi</beacon>
         </beacon>
@@ -14711,7 +15326,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Waldkirch</publisher>
+    <publishers>
+      <publisher>Waldkirch</publisher>
+    </publishers>
     <year>1588</year>
     <subjects>
       <subject>Consilia</subject>
@@ -14748,7 +15365,6 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
-          <beacon>dbi</beacon>
           <beacon>kall</beacon>
           <beacon>dpi</beacon>
         </beacon>
@@ -14763,7 +15379,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Wechel</publisher>
+    <publishers>
+      <publisher>Wechel</publisher>
+    </publishers>
     <year>1584</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -14813,7 +15431,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Gruppenbach</publisher>
+    <publishers>
+      <publisher>Gruppenbach</publisher>
+    </publishers>
     <year>1591</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -14858,7 +15478,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Plantin</publisher>
+    <publishers>
+      <publisher>Plantin</publisher>
+    </publishers>
     <year>1582</year>
     <subjects>
       <subject>Pharmazie</subject>
@@ -14900,7 +15522,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Wechel</publisher>
+    <publishers>
+      <publisher>Wechel</publisher>
+    </publishers>
     <year>1591</year>
     <subjects>
       <subject>Diätetik</subject>
@@ -14949,7 +15573,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Perna</publisher>
+    <publishers>
+      <publisher>Perna</publisher>
+    </publishers>
     <year>1558</year>
     <subjects>
       <subject>Medizin</subject>
@@ -14998,7 +15624,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Constantium</publisher>
+    <publishers>
+      <publisher>Constantium</publisher>
+    </publishers>
     <year>1554</year>
     <subjects>
       <subject>Medizin</subject>
@@ -15047,7 +15675,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Petri</publisher>
+    <publishers>
+      <publisher>Petri</publisher>
+    </publishers>
     <year>1572</year>
     <subjects>
       <subject>Consilia</subject>
@@ -15089,7 +15719,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Corvin</publisher>
+    <publishers>
+      <publisher>Corvin</publisher>
+    </publishers>
     <year>1588</year>
     <subjects>
       <subject>Medizin</subject>
@@ -15131,7 +15763,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Rihel</publisher>
+    <publishers>
+      <publisher>Rihel</publisher>
+    </publishers>
     <year>1568</year>
     <subjects>
       <subject>Therapeutik</subject>
@@ -15178,7 +15812,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Manutius</publisher>
+    <publishers>
+      <publisher>Manutius</publisher>
+    </publishers>
     <year>1555</year>
     <subjects>
       <subject>Antike Medizin</subject>
@@ -15223,7 +15859,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Perna</publisher>
+    <publishers>
+      <publisher>Perna</publisher>
+    </publishers>
     <year>1584</year>
     <subjects>
       <subject>Politik</subject>
@@ -15264,6 +15902,7 @@
           <beacon>gesa</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
+          <beacon>fsh</beacon>
           <beacon>dpi</beacon>
           <beacon>vkk</beacon>
           <beacon>imslp</beacon>
@@ -15279,7 +15918,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Guarinus</publisher>
+    <publishers>
+      <publisher>Guarinus</publisher>
+    </publishers>
     <year>1577</year>
     <subjects>
       <subject>Alchemie</subject>
@@ -15320,6 +15961,7 @@
           <beacon>gesa</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
+          <beacon>fsh</beacon>
           <beacon>dpi</beacon>
           <beacon>vkk</beacon>
           <beacon>imslp</beacon>
@@ -15335,7 +15977,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Wechel</publisher>
+    <publishers>
+      <publisher>Wechel</publisher>
+    </publishers>
     <year>1603</year>
     <subjects>
       <subject>Alchemie</subject>
@@ -15381,6 +16025,7 @@
           <beacon>gesa</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
+          <beacon>fsh</beacon>
           <beacon>dpi</beacon>
           <beacon>vkk</beacon>
           <beacon>imslp</beacon>
@@ -15396,7 +16041,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Perna</publisher>
+    <publishers>
+      <publisher>Perna</publisher>
+    </publishers>
     <year>1570</year>
     <subjects>
       <subject>Alchemie</subject>
@@ -15441,6 +16088,7 @@
           <beacon>gesa</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
+          <beacon>fsh</beacon>
           <beacon>dpi</beacon>
           <beacon>vkk</beacon>
           <beacon>imslp</beacon>
@@ -15456,7 +16104,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Perna</publisher>
+    <publishers>
+      <publisher>Perna</publisher>
+    </publishers>
     <year>1570</year>
     <subjects>
       <subject>Alchemie</subject>
@@ -15501,6 +16151,7 @@
           <beacon>gesa</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
+          <beacon>fsh</beacon>
           <beacon>dpi</beacon>
           <beacon>vkk</beacon>
           <beacon>imslp</beacon>
@@ -15516,7 +16167,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Fabricius</publisher>
+    <publishers>
+      <publisher>Fabricius</publisher>
+    </publishers>
     <year>1568</year>
     <subjects>
       <subject>Medizin</subject>
@@ -15557,6 +16210,7 @@
           <beacon>gesa</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
+          <beacon>fsh</beacon>
           <beacon>dpi</beacon>
           <beacon>vkk</beacon>
           <beacon>imslp</beacon>
@@ -15572,7 +16226,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Apiarius</publisher>
+    <publishers>
+      <publisher>Apiarius</publisher>
+    </publishers>
     <year>1572</year>
     <subjects>
       <subject>Medizin</subject>
@@ -15617,6 +16273,7 @@
           <beacon>gesa</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
+          <beacon>fsh</beacon>
           <beacon>dpi</beacon>
           <beacon>vkk</beacon>
           <beacon>imslp</beacon>
@@ -15632,7 +16289,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Apiarius</publisher>
+    <publishers>
+      <publisher>Apiarius</publisher>
+    </publishers>
     <year>1572</year>
     <subjects>
       <subject>Medizin</subject>
@@ -15677,6 +16336,7 @@
           <beacon>gesa</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
+          <beacon>fsh</beacon>
           <beacon>dpi</beacon>
           <beacon>vkk</beacon>
           <beacon>imslp</beacon>
@@ -15692,7 +16352,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Müller</publisher>
+    <publishers>
+      <publisher>Müller</publisher>
+    </publishers>
     <year>1571</year>
     <subjects>
       <subject>Medizin</subject>
@@ -15733,6 +16395,7 @@
           <beacon>gesa</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
+          <beacon>fsh</beacon>
           <beacon>dpi</beacon>
           <beacon>vkk</beacon>
           <beacon>imslp</beacon>
@@ -15748,7 +16411,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Perna</publisher>
+    <publishers>
+      <publisher>Perna</publisher>
+    </publishers>
     <year>1566?</year>
     <subjects>
       <subject>Alchemie</subject>
@@ -15793,6 +16458,7 @@
           <beacon>gesa</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
+          <beacon>fsh</beacon>
           <beacon>dpi</beacon>
           <beacon>vkk</beacon>
           <beacon>imslp</beacon>
@@ -15808,7 +16474,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Perna</publisher>
+    <publishers>
+      <publisher>Perna</publisher>
+    </publishers>
     <year>1569</year>
     <subjects>
       <subject>Chirurgie</subject>
@@ -15853,6 +16521,7 @@
           <beacon>gesa</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
+          <beacon>fsh</beacon>
           <beacon>dpi</beacon>
           <beacon>vkk</beacon>
           <beacon>imslp</beacon>
@@ -15868,7 +16537,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Perna</publisher>
+    <publishers>
+      <publisher>Perna</publisher>
+    </publishers>
     <year>1570</year>
     <subjects>
       <subject>Medizin</subject>
@@ -15913,6 +16584,7 @@
           <beacon>gesa</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
+          <beacon>fsh</beacon>
           <beacon>dpi</beacon>
           <beacon>vkk</beacon>
           <beacon>imslp</beacon>
@@ -15928,7 +16600,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Perna</publisher>
+    <publishers>
+      <publisher>Perna</publisher>
+    </publishers>
     <year>1570</year>
     <subjects>
       <subject>Pharmazie</subject>
@@ -15973,6 +16647,7 @@
           <beacon>gesa</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
+          <beacon>fsh</beacon>
           <beacon>dpi</beacon>
           <beacon>vkk</beacon>
           <beacon>imslp</beacon>
@@ -15988,7 +16663,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Emmel</publisher>
+    <publishers>
+      <publisher>Emmel</publisher>
+    </publishers>
     <year>1568</year>
     <subjects>
       <subject>Diagnostik</subject>
@@ -16033,6 +16710,7 @@
           <beacon>gesa</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
+          <beacon>fsh</beacon>
           <beacon>dpi</beacon>
           <beacon>vkk</beacon>
           <beacon>imslp</beacon>
@@ -16048,7 +16726,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Mylius</publisher>
+    <publishers>
+      <publisher>Mylius</publisher>
+    </publishers>
     <year>1575</year>
     <subjects>
       <subject>Medizin</subject>
@@ -16089,6 +16769,7 @@
           <beacon>gesa</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
+          <beacon>fsh</beacon>
           <beacon>dpi</beacon>
           <beacon>vkk</beacon>
           <beacon>imslp</beacon>
@@ -16104,7 +16785,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Wardkirch</publisher>
+    <publishers>
+      <publisher>Wardkirch</publisher>
+    </publishers>
     <year>1586</year>
     <subjects>
       <subject>Chirurgie</subject>
@@ -16159,7 +16842,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1600</year>
     <subjects>
       <subject>Politik</subject>
@@ -16212,7 +16897,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1591</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -16265,7 +16952,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1593</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -16318,7 +17007,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1594</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -16367,7 +17058,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1596</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -16416,7 +17109,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1591</year>
     <subjects>
       <subject>Diagnostik</subject>
@@ -16462,7 +17157,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Rouillium</publisher>
+    <publishers>
+      <publisher>Rouillium</publisher>
+    </publishers>
     <year>1551</year>
     <subjects>
       <subject>Medizin</subject>
@@ -16510,7 +17207,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Isingrin</publisher>
+    <publishers>
+      <publisher>Isingrin</publisher>
+    </publishers>
     <year>1557</year>
     <subjects>
       <subject>Geographie</subject>
@@ -16560,7 +17259,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Myliander</publisher>
+    <publishers>
+      <publisher>Myliander</publisher>
+    </publishers>
     <year>1586</year>
     <subjects>
       <subject>Physik</subject>
@@ -16606,7 +17307,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Feyerabend</publisher>
+    <publishers>
+      <publisher>Feyerabend</publisher>
+    </publishers>
     <year>1594</year>
     <subjects>
       <subject>Pharmazie</subject>
@@ -16654,7 +17357,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Zeis</publisher>
+    <publishers>
+      <publisher>Zeis</publisher>
+    </publishers>
     <year>1523</year>
     <subjects>
       <subject>Medizin</subject>
@@ -16702,7 +17407,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Petreius</publisher>
+    <publishers>
+      <publisher>Petreius</publisher>
+    </publishers>
     <year>1541</year>
     <subjects>
       <subject>Astronomie</subject>
@@ -16750,7 +17457,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Crato</publisher>
+    <publishers>
+      <publisher>Crato</publisher>
+    </publishers>
     <year>1580</year>
     <subjects>
       <subject>Astronomie</subject>
@@ -16792,7 +17501,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Paltheniana</publisher>
+    <publishers>
+      <publisher>Paltheniana</publisher>
+    </publishers>
     <year>1599</year>
     <subjects>
       <subject>Physiologie</subject>
@@ -16837,7 +17548,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Wechel</publisher>
+    <publishers>
+      <publisher>Wechel</publisher>
+    </publishers>
     <year>1585</year>
     <subjects>
       <subject>Diagnostik</subject>
@@ -16879,7 +17592,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Morhart</publisher>
+    <publishers>
+      <publisher>Morhart</publisher>
+    </publishers>
     <year>1553</year>
     <subjects>
       <subject>Astronomie</subject>
@@ -16934,7 +17649,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Gruppenbach</publisher>
+    <publishers>
+      <publisher>Gruppenbach</publisher>
+    </publishers>
     <year>1584</year>
     <subjects>
       <subject>Philosophie</subject>
@@ -16989,7 +17706,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Gruppenbach</publisher>
+    <publishers>
+      <publisher>Gruppenbach</publisher>
+    </publishers>
     <year>1582</year>
     <subjects>
       <subject>Philosophie</subject>
@@ -17040,7 +17759,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Gruppenbach</publisher>
+    <publishers>
+      <publisher>Gruppenbach</publisher>
+    </publishers>
     <year>1586</year>
     <subjects>
       <subject>Philosophie</subject>
@@ -17095,7 +17816,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Wyriot</publisher>
+    <publishers>
+      <publisher>Wyriot</publisher>
+    </publishers>
     <year>1576</year>
     <subjects>
       <subject>Physiologie</subject>
@@ -17150,7 +17873,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Gruppenbach</publisher>
+    <publishers>
+      <publisher>Gruppenbach</publisher>
+    </publishers>
     <year>1585</year>
     <subjects>
       <subject>Medizin</subject>
@@ -17205,7 +17930,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Gruppenbach</publisher>
+    <publishers>
+      <publisher>Gruppenbach</publisher>
+    </publishers>
     <year>1589</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -17260,7 +17987,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Gruppenbach</publisher>
+    <publishers>
+      <publisher>Gruppenbach</publisher>
+    </publishers>
     <year>1592</year>
     <subjects>
       <subject>Therapeutik</subject>
@@ -17310,7 +18039,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Wechel</publisher>
+    <publishers>
+      <publisher>Wechel</publisher>
+    </publishers>
     <year>1597</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -17347,6 +18078,7 @@
           <beacon>db</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
+          <beacon>fsh</beacon>
           <beacon>dpi</beacon>
           <beacon>vkk</beacon>
           <beacon>cmvw</beacon>
@@ -17362,7 +18094,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Froben</publisher>
+    <publishers>
+      <publisher>Froben</publisher>
+    </publishers>
     <year>1546</year>
     <subjects>
       <subject>Philosophie</subject>
@@ -17399,6 +18133,7 @@
           <beacon>db</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
+          <beacon>fsh</beacon>
           <beacon>dpi</beacon>
           <beacon>vkk</beacon>
           <beacon>cmvw</beacon>
@@ -17414,7 +18149,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1594</year>
     <subjects>
       <subject>Philosophie</subject>
@@ -17463,7 +18200,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Feyerabend</publisher>
+    <publishers>
+      <publisher>Feyerabend</publisher>
+    </publishers>
     <year>1582</year>
     <subjects>
       <subject>Physik</subject>
@@ -17498,6 +18237,7 @@
           <beacon>wkp</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
+          <beacon>fsh</beacon>
           <beacon>dpi</beacon>
           <beacon>vkk</beacon>
           <beacon>imslp</beacon>
@@ -17513,7 +18253,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1595</year>
     <subjects>
       <subject>Philosophie</subject>
@@ -17555,7 +18297,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Frellon</publisher>
+    <publishers>
+      <publisher>Frellon</publisher>
+    </publishers>
     <year>1596</year>
     <subjects>
       <subject>Therapeutik</subject>
@@ -17605,7 +18349,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Petri</publisher>
+    <publishers>
+      <publisher>Petri</publisher>
+    </publishers>
     <year>1556</year>
     <subjects>
       <subject>Astronomie</subject>
@@ -17646,7 +18392,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Osterberg</publisher>
+    <publishers>
+      <publisher>Osterberg</publisher>
+    </publishers>
     <year>1588</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -17696,7 +18444,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Junta</publisher>
+    <publishers>
+      <publisher>Junta</publisher>
+    </publishers>
     <year>1528</year>
     <subjects>
       <subject>Astronomie</subject>
@@ -17746,7 +18496,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Oporinus</publisher>
+    <publishers>
+      <publisher>Oporinus</publisher>
+    </publishers>
     <year>1553</year>
     <subjects>
       <subject>Astronomie</subject>
@@ -17799,7 +18551,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Episcopius</publisher>
+    <publishers>
+      <publisher>Episcopius</publisher>
+    </publishers>
     <year>1580</year>
     <subjects>
       <subject>Mathematik</subject>
@@ -17851,7 +18605,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Episcopius</publisher>
+    <publishers>
+      <publisher>Episcopius</publisher>
+    </publishers>
     <year>1569</year>
     <subjects>
       <subject>Mathematik</subject>
@@ -17899,7 +18655,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Wechel</publisher>
+    <publishers>
+      <publisher>Wechel</publisher>
+    </publishers>
     <year>1580</year>
     <subjects>
       <subject>Philosophie</subject>
@@ -17948,7 +18706,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Plantin</publisher>
+    <publishers>
+      <publisher>Plantin</publisher>
+    </publishers>
     <year>1580</year>
     <subjects>
       <subject>Diätetik</subject>
@@ -18001,7 +18761,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Liechtenstein</publisher>
+    <publishers>
+      <publisher>Liechtenstein</publisher>
+    </publishers>
     <year>1514</year>
     <subjects>
       <subject>Astronomie</subject>
@@ -18054,7 +18816,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Welack</publisher>
+    <publishers>
+      <publisher>Welack</publisher>
+    </publishers>
     <year>1584</year>
     <subjects>
       <subject>Astronomie</subject>
@@ -18107,7 +18871,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Petreius</publisher>
+    <publishers>
+      <publisher>Petreius</publisher>
+    </publishers>
     <year>1533</year>
     <subjects>
       <subject>Astronomie</subject>
@@ -18155,7 +18921,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Morhart</publisher>
+    <publishers>
+      <publisher>Morhart</publisher>
+    </publishers>
     <year>1551</year>
     <subjects>
       <subject>Astronomie</subject>
@@ -18204,7 +18972,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Paltheniana</publisher>
+    <publishers>
+      <publisher>Paltheniana</publisher>
+    </publishers>
     <year>1600</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -18253,7 +19023,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Paltheniana</publisher>
+    <publishers>
+      <publisher>Paltheniana</publisher>
+    </publishers>
     <year>1600</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -18299,7 +19071,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Defner</publisher>
+    <publishers>
+      <publisher>Defner</publisher>
+    </publishers>
     <year>1583</year>
     <subjects>
       <subject>Mathematik</subject>
@@ -18345,7 +19119,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Jobin</publisher>
+    <publishers>
+      <publisher>Jobin</publisher>
+    </publishers>
     <year>1588</year>
     <subjects>
       <subject>Astronomie</subject>
@@ -18387,7 +19163,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1594</year>
     <subjects>
       <subject>Geschichte</subject>
@@ -18420,6 +19198,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>dbi</beacon>
           <beacon>dpi</beacon>
         </beacon>
       </person>
@@ -18433,7 +19212,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Rouille</publisher>
+    <publishers>
+      <publisher>Rouille</publisher>
+    </publishers>
     <year>1564</year>
     <subjects>
       <subject>Therapeutik</subject>
@@ -18480,7 +19261,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Keerberg</publisher>
+    <publishers>
+      <publisher>Keerberg</publisher>
+    </publishers>
     <year>1593</year>
     <subjects>
       <subject>Mathematik</subject>
@@ -18528,7 +19311,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Rouille</publisher>
+    <publishers>
+      <publisher>Rouille</publisher>
+    </publishers>
     <year>1576</year>
     <subjects>
       <subject>Therapeutik</subject>
@@ -18570,7 +19355,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Plantin</publisher>
+    <publishers>
+      <publisher>Plantin</publisher>
+    </publishers>
     <year>1589</year>
     <subjects>
       <subject>Therapeutik</subject>
@@ -18612,7 +19399,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Henricpetri</publisher>
+    <publishers>
+      <publisher>Henricpetri</publisher>
+    </publishers>
     <year>1585</year>
     <subjects>
       <subject>Alchemie</subject>
@@ -18654,7 +19443,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Pistorius</publisher>
+    <publishers>
+      <publisher>Pistorius</publisher>
+    </publishers>
     <year>1595</year>
     <subjects>
       <subject>Magie</subject>
@@ -18696,7 +19487,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Meiteum</publisher>
+    <publishers>
+      <publisher>Meiteum</publisher>
+    </publishers>
     <year>1592-1595</year>
     <subjects>
       <subject>Medizin</subject>
@@ -18741,7 +19534,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Henricpetri</publisher>
+    <publishers>
+      <publisher>Henricpetri</publisher>
+    </publishers>
     <year>1586</year>
     <subjects>
       <subject>Medizin</subject>
@@ -18783,7 +19578,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Daubman</publisher>
+    <publishers>
+      <publisher>Daubman</publisher>
+    </publishers>
     <year>1549</year>
     <subjects>
       <subject>Pharmazie</subject>
@@ -18825,7 +19622,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Calvin</publisher>
+    <publishers>
+      <publisher>Calvin</publisher>
+    </publishers>
     <year>1574</year>
     <subjects>
       <subject>Astronomie</subject>
@@ -18867,7 +19666,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Wechel</publisher>
+    <publishers>
+      <publisher>Wechel</publisher>
+    </publishers>
     <year>1586</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -18903,6 +19704,7 @@
           <beacon>gspd</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
+          <beacon>fsh</beacon>
           <beacon>dpi</beacon>
           <beacon>vkk</beacon>
         </beacon>
@@ -18917,7 +19719,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Gymnich</publisher>
+    <publishers>
+      <publisher>Gymnich</publisher>
+    </publishers>
     <year>1578-1584</year>
     <subjects>
       <subject>Geschichte</subject>
@@ -18959,7 +19763,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>s.n.</publisher>
+    <publishers>
+      <publisher>s.n.</publisher>
+    </publishers>
     <year>1517</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -19007,7 +19813,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Juntas</publisher>
+    <publishers>
+      <publisher>Juntas</publisher>
+    </publishers>
     <year>1559</year>
     <subjects>
       <subject>Therapeutik</subject>
@@ -19057,7 +19865,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Wechel</publisher>
+    <publishers>
+      <publisher>Wechel</publisher>
+    </publishers>
     <year>1582</year>
     <subjects>
       <subject>Rhetorik</subject>
@@ -19108,7 +19918,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Wechel</publisher>
+    <publishers>
+      <publisher>Wechel</publisher>
+    </publishers>
     <year>1590</year>
     <subjects>
       <subject>Physik</subject>
@@ -19153,7 +19965,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Adam</publisher>
+    <publishers>
+      <publisher>Adam</publisher>
+    </publishers>
     <year>1596</year>
     <subjects>
       <subject>Geschichte</subject>
@@ -19202,7 +20016,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Welack</publisher>
+    <publishers>
+      <publisher>Welack</publisher>
+    </publishers>
     <year>1588</year>
     <subjects>
       <subject>Astronomie</subject>
@@ -19251,7 +20067,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Egenollfs</publisher>
+    <publishers>
+      <publisher>Egenollfs</publisher>
+    </publishers>
     <year>1584</year>
     <subjects>
       <subject>Epidemiologie</subject>
@@ -19302,7 +20120,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1592</year>
     <subjects>
       <subject>Philosophie</subject>
@@ -19347,7 +20167,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Perna</publisher>
+    <publishers>
+      <publisher>Perna</publisher>
+    </publishers>
     <year>1571</year>
     <subjects>
       <subject>Medizin</subject>
@@ -19389,7 +20211,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Mamarella</publisher>
+    <publishers>
+      <publisher>Mamarella</publisher>
+    </publishers>
     <year>1590</year>
     <subjects>
       <subject>Physik</subject>
@@ -19434,7 +20258,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Beatus</publisher>
+    <publishers>
+      <publisher>Beatus</publisher>
+    </publishers>
     <year>1600</year>
     <subjects>
       <subject>Pharmazie</subject>
@@ -19480,7 +20306,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Steinman</publisher>
+    <publishers>
+      <publisher>Steinman</publisher>
+    </publishers>
     <year>1576</year>
     <subjects>
       <subject>Epidemiologie</subject>
@@ -19527,7 +20355,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Wechel</publisher>
+    <publishers>
+      <publisher>Wechel</publisher>
+    </publishers>
     <year>1596</year>
     <subjects>
       <subject>Consilia</subject>
@@ -19573,7 +20403,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Isingrin</publisher>
+    <publishers>
+      <publisher>Isingrin</publisher>
+    </publishers>
     <year>1538</year>
     <subjects>
       <subject>Geschichte</subject>
@@ -19615,7 +20447,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Steinman</publisher>
+    <publishers>
+      <publisher>Steinman</publisher>
+    </publishers>
     <year>1571</year>
     <subjects>
       <subject>Balneologie</subject>
@@ -19657,7 +20491,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Bertram</publisher>
+    <publishers>
+      <publisher>Bertram</publisher>
+    </publishers>
     <year>1591</year>
     <subjects>
       <subject>Physiologie</subject>
@@ -19695,6 +20531,7 @@
           <beacon>fabricius</beacon>
           <beacon>mav</beacon>
           <beacon>kall</beacon>
+          <beacon>fsh</beacon>
           <beacon>dpi</beacon>
         </beacon>
       </person>
@@ -19708,7 +20545,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Falckenburg</publisher>
+    <publishers>
+      <publisher>Falckenburg</publisher>
+    </publishers>
     <year>1594</year>
     <subjects>
       <subject>Astronomie</subject>
@@ -19755,7 +20594,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Waldkirch</publisher>
+    <publishers>
+      <publisher>Waldkirch</publisher>
+    </publishers>
     <year>1594</year>
     <subjects>
       <subject>Physiologie</subject>
@@ -19797,7 +20638,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Wechel</publisher>
+    <publishers>
+      <publisher>Wechel</publisher>
+    </publishers>
     <year>1584</year>
     <subjects>
       <subject>Rhetorik</subject>
@@ -19847,7 +20690,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Bassée, Nicolas</publisher>
+    <publishers>
+      <publisher>Bassée, Nicolas</publisher>
+    </publishers>
     <year>1586</year>
     <subjects>
       <subject>Epidemiologie</subject>
@@ -19897,7 +20742,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Bassée, Nicolas</publisher>
+    <publishers>
+      <publisher>Bassée, Nicolas</publisher>
+    </publishers>
     <year>1593</year>
     <subjects>
       <subject>Balneologie</subject>
@@ -19943,7 +20790,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Junta</publisher>
+    <publishers>
+      <publisher>Junta</publisher>
+    </publishers>
     <year>1592</year>
     <subjects>
       <subject>Medizin</subject>
@@ -19984,7 +20833,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Eichorn</publisher>
+    <publishers>
+      <publisher>Eichorn</publisher>
+    </publishers>
     <year>1583</year>
     <subjects>
       <subject>Therapeutik</subject>
@@ -20021,6 +20872,7 @@
           <beacon>hls</beacon>
           <beacon>mav</beacon>
           <beacon>kall</beacon>
+          <beacon>fsh</beacon>
           <beacon>dpi</beacon>
         </beacon>
       </person>
@@ -20034,7 +20886,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Frosch</publisher>
+    <publishers>
+      <publisher>Frosch</publisher>
+    </publishers>
     <year>1548</year>
     <subjects>
       <subject>Geographie</subject>
@@ -20083,7 +20937,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Gryphius</publisher>
+    <publishers>
+      <publisher>Gryphius</publisher>
+    </publishers>
     <year>1573</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -20133,7 +20989,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Wechel</publisher>
+    <publishers>
+      <publisher>Wechel</publisher>
+    </publishers>
     <year>1582</year>
     <subjects>
       <subject>Medizin</subject>
@@ -20179,7 +21037,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Stoer</publisher>
+    <publishers>
+      <publisher>Stoer</publisher>
+    </publishers>
     <year>1584</year>
     <subjects>
       <subject>Physik</subject>
@@ -20221,7 +21081,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Rouille</publisher>
+    <publishers>
+      <publisher>Rouille</publisher>
+    </publishers>
     <year>1549</year>
     <subjects>
       <subject>Diagnostik</subject>
@@ -20263,7 +21125,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Rouille</publisher>
+    <publishers>
+      <publisher>Rouille</publisher>
+    </publishers>
     <year>1564</year>
     <subjects>
       <subject>Therapeutik</subject>
@@ -20310,7 +21174,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Perna</publisher>
+    <publishers>
+      <publisher>Perna</publisher>
+    </publishers>
     <year>1574</year>
     <subjects>
       <subject>Antike Medizin</subject>
@@ -20355,7 +21221,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Behem</publisher>
+    <publishers>
+      <publisher>Behem</publisher>
+    </publishers>
     <year>1579</year>
     <subjects>
       <subject>Jurisprudenz</subject>
@@ -20397,7 +21265,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Wechel</publisher>
+    <publishers>
+      <publisher>Wechel</publisher>
+    </publishers>
     <year>1564</year>
     <subjects>
       <subject>Anatomie</subject>
@@ -20442,7 +21312,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Collinz</publisher>
+    <publishers>
+      <publisher>Collinz</publisher>
+    </publishers>
     <year>1598</year>
     <subjects>
       <subject>Therapeutik</subject>
@@ -20488,7 +21360,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Portonarus/Myt</publisher>
+    <publishers>
+      <publisher>Portonarus/Myt</publisher>
+    </publishers>
     <year>1516</year>
     <subjects>
       <subject>Chirurgie</subject>
@@ -20523,7 +21397,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Petri</publisher>
+    <publishers>
+      <publisher>Petri</publisher>
+    </publishers>
     <year>1563</year>
     <subjects>
       <subject>Geschichte</subject>
@@ -20565,7 +21441,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Myliander</publisher>
+    <publishers>
+      <publisher>Myliander</publisher>
+    </publishers>
     <year>1587</year>
     <subjects>
       <subject>Geschichte</subject>
@@ -20614,7 +21492,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Episcopius</publisher>
+    <publishers>
+      <publisher>Episcopius</publisher>
+    </publishers>
     <year>1581</year>
     <subjects>
       <subject>Pharmazie</subject>
@@ -20663,7 +21543,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Episcopius</publisher>
+    <publishers>
+      <publisher>Episcopius</publisher>
+    </publishers>
     <year>1580</year>
     <subjects>
       <subject>Pharmazie</subject>
@@ -20708,7 +21590,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Episcopius</publisher>
+    <publishers>
+      <publisher>Episcopius</publisher>
+    </publishers>
     <year>1581</year>
     <subjects>
       <subject>Pharmazie</subject>
@@ -20758,7 +21642,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Michel</publisher>
+    <publishers>
+      <publisher>Michel</publisher>
+    </publishers>
     <year>1583</year>
     <subjects>
       <subject>Jurisprudenz</subject>
@@ -20807,7 +21693,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Bassée, Nicolas</publisher>
+    <publishers>
+      <publisher>Bassée, Nicolas</publisher>
+    </publishers>
     <year>1588</year>
     <subjects>
       <subject>Pharmazie</subject>
@@ -20856,7 +21744,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Gesner</publisher>
+    <publishers>
+      <publisher>Gesner</publisher>
+    </publishers>
     <year>1563</year>
     <subjects>
       <subject>Pharmazie</subject>
@@ -20903,7 +21793,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Harisch</publisher>
+    <publishers>
+      <publisher>Harisch</publisher>
+    </publishers>
     <year>1582</year>
     <subjects>
       <subject>Pharmazie</subject>
@@ -20945,7 +21837,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Plantin</publisher>
+    <publishers>
+      <publisher>Plantin</publisher>
+    </publishers>
     <year>1588</year>
     <subjects>
       <subject>Medizin</subject>
@@ -20993,7 +21887,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Gross</publisher>
+    <publishers>
+      <publisher>Gross</publisher>
+    </publishers>
     <year>1596</year>
     <subjects>
       <subject>Pharmazie</subject>
@@ -21039,7 +21935,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>s. n.</publisher>
+    <publishers>
+      <publisher>s. n.</publisher>
+    </publishers>
     <year>1567</year>
     <subjects>
       <subject>Alchemie</subject>
@@ -21085,7 +21983,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Waldkirch</publisher>
+    <publishers>
+      <publisher>Waldkirch</publisher>
+    </publishers>
     <year>1586-1588</year>
     <subjects>
       <subject>Gynäkologie</subject>
@@ -21133,7 +22033,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Mareschal</publisher>
+    <publishers>
+      <publisher>Mareschal</publisher>
+    </publishers>
     <year>1587</year>
     <subjects>
       <subject>Philosophie</subject>
@@ -21179,7 +22081,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Liechtenstein</publisher>
+    <publishers>
+      <publisher>Liechtenstein</publisher>
+    </publishers>
     <year>1502</year>
     <subjects>
       <subject>Astronomie</subject>
@@ -21230,7 +22134,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Wechel</publisher>
+    <publishers>
+      <publisher>Wechel</publisher>
+    </publishers>
     <year>1611</year>
     <subjects>
       <subject>Consilia</subject>
@@ -21281,7 +22187,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1605</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -21333,7 +22241,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1605</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -21385,7 +22295,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1605</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -21437,7 +22349,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1605</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -21489,7 +22403,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1605</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -21541,7 +22457,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1605</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -21593,7 +22511,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1605</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -21645,7 +22565,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1605</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -21697,7 +22619,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Lucius</publisher>
+    <publishers>
+      <publisher>Lucius</publisher>
+    </publishers>
     <year>1606</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -21748,7 +22672,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Wechel</publisher>
+    <publishers>
+      <publisher>Wechel</publisher>
+    </publishers>
     <year>1611</year>
     <subjects>
       <subject>Consilia</subject>
@@ -21803,7 +22729,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Wechel</publisher>
+    <publishers>
+      <publisher>Wechel</publisher>
+    </publishers>
     <year>1611</year>
     <subjects>
       <subject>Consilia</subject>
@@ -21851,7 +22779,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Sumptibus Frobenianis</publisher>
+    <publishers>
+      <publisher>Sumptibus Frobenianis</publisher>
+    </publishers>
     <year>1610</year>
     <subjects>
       <subject>Pathologie</subject>
@@ -21904,7 +22834,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Rouillius</publisher>
+    <publishers>
+      <publisher>Rouillius</publisher>
+    </publishers>
     <year>1586</year>
     <subjects>
       <subject>Jurisprudenz</subject>

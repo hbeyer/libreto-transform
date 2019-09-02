@@ -36,9 +36,9 @@
             <dc:type>Book</dc:type>
             <dc:title>THEATRVM || VITAE HVMA=||NAE A ̀THEODORO ZVINGERO || BASILIENSE || post primam CONR.LYCOSTHENIS || Rubeaquensis manum || plus myriade EXEMPLORVM auctum,|| methodicè digestum, accuratè || recognitum.|| Acceßit ELENCHVS TRIPLEX,|| Methodi scilicet, Titulorum, et || Exemplorum.||</dc:title>
             <dc:date xml:lang="xsd:gYear">1571</dc:date>
-            <dc:publisher>Froben, Ambrosius</dc:publisher>
             <dbo:numberOfVolumes xml:lang="xsd:integer">1</dbo:numberOfVolumes>
             <libreto:bibliographicalFormat>2°</libreto:bibliographicalFormat>
+            <dc:publisher>Froben, Ambrosius</dc:publisher>
             <dc:language xml:lang="iso6392">lat</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Wahrscheinlich handelt es sich um die hier in drei Bänden vorliegende zweite Ausgabe VD 16 Z 755 (Basel: Hieronymus Froben, 1571).</libreto:comment>
@@ -63,9 +63,9 @@
             <dc:type>Book</dc:type>
             <dc:title>THEATRVM || VITAE HVMA=||NAE A ̀THEODORO ZVINGERO || BASILIENSE || post primam CONR.LYCOSTHENIS || Rubeaquensis manum || plus myriade EXEMPLORVM auctum,|| methodicè digestum, accuratè || recognitum.|| Acceßit ELENCHVS TRIPLEX,|| Methodi scilicet, Titulorum, et || Exemplorum.||</dc:title>
             <dc:date xml:lang="xsd:gYear">1571</dc:date>
-            <dc:publisher>Froben, Ambrosius</dc:publisher>
             <dbo:numberOfVolumes xml:lang="xsd:integer">1</dbo:numberOfVolumes>
             <libreto:bibliographicalFormat>2°</libreto:bibliographicalFormat>
+            <dc:publisher>Froben, Ambrosius</dc:publisher>
             <dc:language xml:lang="iso6392">lat</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:hasPlace rdf:resource="http://vocab.getty.edu/tgn/7007269"/>
@@ -89,9 +89,9 @@
             <dc:type>Book</dc:type>
             <dc:title>THEATRVM || VITAE HVMA=||NAE A ̀THEODORO ZVINGERO || BASILIENSE || post primam CONR.LYCOSTHENIS || Rubeaquensis manum || plus myriade EXEMPLORVM auctum,|| methodicè digestum, accuratè || recognitum.|| Acceßit ELENCHVS TRIPLEX,|| Methodi scilicet, Titulorum, et || Exemplorum.||</dc:title>
             <dc:date xml:lang="xsd:gYear">1571</dc:date>
-            <dc:publisher>Froben, Ambrosius</dc:publisher>
             <dbo:numberOfVolumes xml:lang="xsd:integer">1</dbo:numberOfVolumes>
             <libreto:bibliographicalFormat>2°</libreto:bibliographicalFormat>
+            <dc:publisher>Froben, Ambrosius</dc:publisher>
             <dc:language xml:lang="iso6392">lat</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:hasPlace rdf:resource="http://vocab.getty.edu/tgn/7007269"/>
@@ -175,9 +175,9 @@
             <dc:type>Book</dc:type>
             <dc:title>CHRONOLOGIA.|| HOC EST,|| TEMPORVM DE=||MONSTRATIO EXACTISSIMA, AB || INITIO MVNDI, VSQVE AD ANNVM DOMI-||NI M.D.LXVIII. EX ECLIPSIBVS ET OBSERVATIONIBVS ASTRONOMI=||cis omnium temporum, sacris quoq; Biblijs, et optimis quibusq; Scri=||ptoribus summa fide concinnata.|| AVCTORE || GERARDO MERCATORE,|| Illustriss.Ducis Iuliae, Cliuiae, Bergis, &amp;amp;c.|| Cosmographo.||</dc:title>
             <dc:date xml:lang="xsd:gYear">1569</dc:date>
-            <dc:publisher>Birckmann, Arnold &amp;lt;Erben&amp;gt;</dc:publisher>
             <dbo:numberOfVolumes xml:lang="xsd:integer">1</dbo:numberOfVolumes>
             <libreto:bibliographicalFormat>2°</libreto:bibliographicalFormat>
+            <dc:publisher>Birckmann, Arnold (Erben)</dc:publisher>
             <dc:language xml:lang="iso6392">lat</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:hasPlace rdf:resource="http://vocab.getty.edu/tgn/7004446"/>
@@ -393,9 +393,9 @@
             <dc:type>Book</dc:type>
             <dc:title>ANNALIVM BOIORVM || LIBRI SEPTEM IO=||anne Auentino Au=||tore.|| ... Accessit ... || Index copiosus.||[Hrsg.v.(Hieronymus Zieglerus Ro=||tenburgensis ... ||)]</dc:title>
             <dc:date xml:lang="xsd:gYear">1554</dc:date>
-            <dc:publisher>Weißenhorn, Alexander</dc:publisher>
             <dbo:numberOfVolumes xml:lang="xsd:integer">1</dbo:numberOfVolumes>
             <libreto:bibliographicalFormat>2°</libreto:bibliographicalFormat>
+            <dc:publisher>Weißenhorn, Alexander</dc:publisher>
             <dc:language xml:lang="iso6392">lat</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:hasPlace>
@@ -445,9 +445,9 @@
             <dc:type>Book</dc:type>
             <dc:title>VITAE CAESARVM || QVARVM SCRIPTORES HI || [Sp.1] C. Suetonius Tranquillus || Aelius Spartianus || Aelius Lampridius ||...[Sp.2] Dion Cassius || Iulius Capitolinus ||...Eutropij libri X. integritati pristinae redditi.|| Ammianus Marcellinus longe alius quàm antehac unquam.|| Annotationes D. Erasmi Rot. &amp;amp; Baptistae Egnatij in uitas Caes.|| Accesserunt...Velleij Paterculi libri II ... || addito Indice copiosissimo.||</dc:title>
             <dc:date xml:lang="xsd:gYear">1546</dc:date>
-            <dc:publisher>Froben, Hieronymus</dc:publisher>
             <dbo:numberOfVolumes xml:lang="xsd:integer">1</dbo:numberOfVolumes>
             <libreto:bibliographicalFormat>2°</libreto:bibliographicalFormat>
+            <dc:publisher>Froben, Hieronymus</dc:publisher>
             <dc:language xml:lang="iso6392">lat</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Anthologie römischer Autoren mit Kommentaren zu den Kaiserviten von Erasmus von Rotterdam und Giovanni Battista Egnazio.</libreto:comment>
@@ -513,9 +513,9 @@
             <dc:type>Book</dc:type>
             <dc:title>Fasti et triumphi Rom. a Romulo rege vsque ad Carolum V Cæs. Aug. siue epitome regum, consulum, dictatorum, magistror. equitum, tribunorum militum consulari potestate, censorum, impp. &amp;amp; aliorum magistratuum Roman. cum Orientalium tum Occidentalium, ex antiquitatum monumentis maxima cum fide ac diligentia desumpta. Onuphrio Panuinio Veronensi f. Augustiniano authore. Additæ sunt suis locis impp. et orientalium, et occidentalium uerissimæ icones, ex vetustissimis numismatis quàm fidelissimè delineatæ.Ex Musæo Iacobi Stradæ Mantuani, ciuis Roamni, antiquarij.</dc:title>
             <dc:date xml:lang="xsd:gYear">1557</dc:date>
-            <dc:publisher>Strada, Giacomo</dc:publisher>
             <dbo:numberOfVolumes xml:lang="xsd:integer">1</dbo:numberOfVolumes>
             <libreto:bibliographicalFormat>2°</libreto:bibliographicalFormat>
+            <dc:publisher>Strada, Giacomo</dc:publisher>
             <dc:language xml:lang="iso6392">lat</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:hasPlace rdf:resource="http://vocab.getty.edu/tgn/7018159"/>
@@ -694,9 +694,9 @@
             <dc:type>Book</dc:type>
             <dc:title>Decimatertia Centuria || ECCLESIASTICAE || HISTORIAE, CONTINENS DE=||SCRIPTIONEM AMPLISSIMARVM RERVM IN || Regno Christi, quae Decimotertio post eius natiuitatem || seculo acciderunt ... || eodem ordine ... || ut superiores Centuriae ... || in || ciuitate Vuismaria,|| PER AVTORES CONTEXTA.|| Accessit ... || INDEX.||</dc:title>
             <dc:date xml:lang="xsd:gYear">1574</dc:date>
-            <dc:publisher>Oporinus, Johannes</dc:publisher>
             <dbo:numberOfVolumes xml:lang="xsd:integer">1</dbo:numberOfVolumes>
             <libreto:bibliographicalFormat>2°</libreto:bibliographicalFormat>
+            <dc:publisher>Oporinus, Johannes</dc:publisher>
             <dc:language xml:lang="iso6392">lat</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:hasPlace rdf:resource="http://vocab.getty.edu/tgn/7007269"/>
@@ -747,9 +747,9 @@
             <dc:type>Book</dc:type>
             <dc:title>IOANNIS || Hus, et Hie=||RONYMI PRAGEN=||SIS CONFESSORVM CHRISTI || HISTORIA ET MO=||NVMENTA, PARTIM ANNIS SV/||PERIORIBVS PVBLICATA,PARTIM NVNC || demum in lucem prolata &amp;amp; edita, cum scriptis &amp;amp; testimonijs multo-||rum ... || (ALTERA PARS.|| ADDITAE SVNT NAR=||RATIONES DE CONDEMNATIONE IN/||IVSTA, ET INDIGNO SVPPLICIO IOANNIS || HVS, ET HIERONYMI PRAGENSIS, AB INCERTIS AVTHO=||ribus ... ||)</dc:title>
             <dc:date xml:lang="xsd:gYear">1558</dc:date>
-            <dc:publisher>Neuber, Ulrich</dc:publisher>
             <dbo:numberOfVolumes xml:lang="xsd:integer">1</dbo:numberOfVolumes>
             <libreto:bibliographicalFormat>2°</libreto:bibliographicalFormat>
+            <dc:publisher>Neuber, Ulrich</dc:publisher>
             <dc:language xml:lang="iso6392">lat</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:hasPlace>
@@ -805,9 +805,9 @@
             <dc:type>Book</dc:type>
             <dc:title>CHRONOLOGIA SE=||cundum Graecorum rationem || temporibus expositis, autore || NICEPHORO archiepiscopo Con-||stantinopolis:|| CONVERSA in sermonem Latinum de Graeco, &amp;amp; explica-||ta à IOACHIMO CAMERARIO Pabeper/||gensi, nunc#́[que] primùm || edita.|| ADDITA EST Narratio eiusdem CAMERARII || de Synodo Nicaena, nunc denuò edita.|| ACCESSIT et noua enumeratio Oecumenicarum Syno-||dorum, indicatis temporibus et praeci-||puis negotijs illarum.||(EIUSDEM IOACHIMI || Camerarij || De Chronicis, seu certorum temporum in/||dicationibus, Libellus.|| ITEM,|| De sancto Spiritu, ex Disputatione quae ascribitur Ba/||silio Caesareae episcopo.||)</dc:title>
             <dc:date xml:lang="xsd:gYear">1561</dc:date>
-            <dc:publisher>Oporinus, Johannes</dc:publisher>
             <dbo:numberOfVolumes xml:lang="xsd:integer">1</dbo:numberOfVolumes>
             <libreto:bibliographicalFormat>2°</libreto:bibliographicalFormat>
+            <dc:publisher>Oporinus, Johannes</dc:publisher>
             <dc:language xml:lang="iso6392">lat</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:hasPlace rdf:resource="http://vocab.getty.edu/tgn/7007269"/>
@@ -850,9 +850,9 @@
             <dc:type>Book</dc:type>
             <dc:title>TEMPORVM A ̀|| condito mundo usque ad ulti||mam ipsius aetatem supputatio,|| partitioq́ue exactior.|| Vniuersae quidem historiae diuinae, ecclesiasticae || &amp;amp; exterę Latinorum, Gręcorum, Aegyptiorum,|| Chaldaeorum, Germanorum &amp;amp; aliarũ gentium || accommodata ... || Quã scribebat THEODORVS BIBLIANDER,|| ecclesię Tigurinę minister ... || Accessit ... || INDEX.||</dc:title>
             <dc:date xml:lang="xsd:gYear">1558</dc:date>
-            <dc:publisher>Kündig, Jakob</dc:publisher>
             <dbo:numberOfVolumes xml:lang="xsd:integer">1</dbo:numberOfVolumes>
             <libreto:bibliographicalFormat>2°</libreto:bibliographicalFormat>
+            <dc:publisher>Kündig, Jakob</dc:publisher>
             <dc:language xml:lang="iso6392">lat</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>VD16 B 5334 oder Druckvariante VD16 ZV 28110</libreto:comment>
@@ -1086,9 +1086,9 @@
             <dc:type>Book</dc:type>
             <dc:title>CHRONICON INSI/||gne Monasterij Hirsaugien/||sis, Ordinis S.Benedicti,|| PER || IOANNEM TRITEHEMIVM || ABBATEM SPANHEIMENSEM, VIRVM SVA || aetate doctiss. conscriptum, ac diu hactenus à multis || desideratum, nunc uerò primùm in || lucem editum.|| ... Accessit locuples rerum &amp;amp; uerborum in to/||to Opere memorabilium || INDEX.||[Hrsg.v.(GVILIELMVS || RADENSIS ... ||)]</dc:title>
             <dc:date xml:lang="xsd:gYear">1559</dc:date>
-            <dc:publisher>Kündig, Jakob</dc:publisher>
             <dbo:numberOfVolumes xml:lang="xsd:integer">1</dbo:numberOfVolumes>
             <libreto:bibliographicalFormat>2°</libreto:bibliographicalFormat>
+            <dc:publisher>Kündig, Jakob</dc:publisher>
             <dc:language xml:lang="iso6392">lat</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:hasPlace rdf:resource="http://vocab.getty.edu/tgn/7007269"/>
@@ -1130,9 +1130,9 @@
             <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/rehlinger"/>
             <dc:type>Book</dc:type>
             <dc:title>Opera.</dc:title>
-            <dc:publisher>Petri, Heinrich</dc:publisher>
             <dbo:numberOfVolumes xml:lang="xsd:integer">1</dbo:numberOfVolumes>
             <libreto:bibliographicalFormat>2°</libreto:bibliographicalFormat>
+            <dc:publisher>Petri, Heinrich</dc:publisher>
             <dc:language xml:lang="iso6392">lat</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>In Frage kommen VD 16 P 3093 (Basel: Heinrich Petri, 1551) oder VD 16 P 3094 (Basel: Heinrich Petri, 1571).</libreto:comment>
@@ -1223,11 +1223,11 @@
           <libreto:Item rdf:about="br:rehlinger/item_rehlinger33">
             <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/rehlinger"/>
             <dc:type>Book</dc:type>
-            <dc:title>DIONIS CASSII || Nicaei, Romanae historiae li-||bri &amp;lt;tot enim hodie extant&amp;gt; XXV.|| nimirum à XXXVI ad LXI.|| ... || Nunc primùm ... de Graecis Latini facti,|| GVILIELMO XYLANDRO Augu-||stano interprete.|| His accesserunt eiusdem Annotationes, ... || Additum eat IOANNIS XIPHILINI è Dio-||ne Compendium, Guil.Blanco Albiensi inter-||prete: ... ||</dc:title>
+            <dc:title>DIONIS CASSII || Nicaei, Romanae historiae li-||bri (tot enim hodie extant) XXV.|| nimirum à XXXVI ad LXI.|| ... || Nunc primùm ... de Graecis Latini facti,|| GVILIELMO XYLANDRO Augu-||stano interprete.|| His accesserunt eiusdem Annotationes, ... || Additum eat IOANNIS XIPHILINI è Dio-||ne Compendium, Guil.Blanco Albiensi inter-||prete: ... ||</dc:title>
             <dc:date xml:lang="xsd:gYear">1558</dc:date>
-            <dc:publisher>Oporinus, Johannes</dc:publisher>
             <dbo:numberOfVolumes xml:lang="xsd:integer">1</dbo:numberOfVolumes>
             <libreto:bibliographicalFormat>2°</libreto:bibliographicalFormat>
+            <dc:publisher>Oporinus, Johannes</dc:publisher>
             <dc:language xml:lang="iso6392">lat</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:hasPlace rdf:resource="http://vocab.getty.edu/tgn/7007269"/>
@@ -1328,9 +1328,9 @@
             <dc:type>Book</dc:type>
             <dc:title>GERMANICARVM RERVM || QVATVOR || CELEBRIORES VETVS=||TIORESQVE CHRONOGRAPHI, EARVM || DESCRIPTIONEM AB ORBE CONDITO VSQVE AD TEMPORA || Henrici IIII ... || deducen-||tee ... in lucem re-||uocati, &amp;amp; longè emendatius quàm antea impressi,|| cum nouo Indice.|| ... ||</dc:title>
             <dc:date xml:lang="xsd:gYear">1566</dc:date>
-            <dc:publisher>Rab, Georg d.Ä.</dc:publisher>
             <dbo:numberOfVolumes xml:lang="xsd:integer">1</dbo:numberOfVolumes>
             <libreto:bibliographicalFormat>2°</libreto:bibliographicalFormat>
+            <dc:publisher>Rab, Georg d.Ä.</dc:publisher>
             <dc:language xml:lang="iso6392">lat</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Enth. Johannes Turpinus: Historia de vita Caroli Magni et Rolandi; Regino von Prüm: Annales; Sigebert von Gembloux: Chronographia; Lambert von Hersfeld: De rebus gestis Germanorum. Hrsg. von Simon Schardius.</libreto:comment>
@@ -1437,9 +1437,9 @@
             <dc:type>Book</dc:type>
             <dc:title>Supplementum supplementi chronicarum ab ipso mundi exordio vsque ad redemptionis nostrae annum MCCCCCX editum. Et nouissime recognitum. Et castigatum a venerando patre Iacobo Phillippo Bergomate Ordinis heremitarum. Additis per eundem auctorem quampluribus vtilissimis &amp;amp; necessarijs additionibus. Necnon eleganti tabula nouiter excogitata quae omnia mirifice demonstrat.</dc:title>
             <dc:date xml:lang="xsd:gYear">1513</dc:date>
-            <dc:publisher>Rusconi, Giorgio</dc:publisher>
             <dbo:numberOfVolumes xml:lang="xsd:integer">1</dbo:numberOfVolumes>
             <libreto:bibliographicalFormat>2°</libreto:bibliographicalFormat>
+            <dc:publisher>Rusconi, Giorgio</dc:publisher>
             <dc:language xml:lang="iso6392">lat</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:hasPlace rdf:resource="http://vocab.getty.edu/tgn/7018159"/>
@@ -1468,9 +1468,9 @@
             <dc:type>Book</dc:type>
             <dc:title>HAERESEO||LOGIA,|| HOC EST,|| OPVS VETERVM || tam Graecorum quàm Latinorum || Theologorum,per quos omnes, quae per || Catholicam Christi Ecclesiam grassatae || sunt,haereses confutantur,&amp;amp; summa omnia Theologiae capita quaestioneś#[que] ... || &amp;amp; reliqui communes,quos tota The||ologia tractat,loci,explicantur.|| ... [Sp.I.]L. Caelius Lactantius Firmianus.|| Marius Victorinus.|| Proclus Episcop.Constantinopolitanus.|| ... || [Sp.II.] Beatus Fulgentius.|| Idacius Clarus.|| Timotheus Episcopus.|| ... ||</dc:title>
             <dc:date xml:lang="xsd:gYear">1556</dc:date>
-            <dc:publisher>Petri, Heinrich</dc:publisher>
             <dbo:numberOfVolumes xml:lang="xsd:integer">1</dbo:numberOfVolumes>
             <libreto:bibliographicalFormat>2°</libreto:bibliographicalFormat>
+            <dc:publisher>Petri, Heinrich</dc:publisher>
             <dc:language xml:lang="iso6392">lat</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:hasPlace rdf:resource="http://vocab.getty.edu/tgn/7007269"/>
@@ -1506,9 +1506,9 @@
             <dc:type>Book</dc:type>
             <dc:title>VVITICHINDI SAXO||NIS RERVM AB HENRICO ET OTTONE I IMPP. GE/||starum Libri III, unà cum alijs quibusdam raris &amp;amp; antehac non || lectis diuersorum autorum historijs, ab Anno salutis || D.CCC. us#[que] ad praesentem aetatem ... || Huc accessit rerum scitu dignarum copiosus index.||</dc:title>
             <dc:date xml:lang="xsd:gYear">1532</dc:date>
-            <dc:publisher>Herwagen, Johannes</dc:publisher>
             <dbo:numberOfVolumes xml:lang="xsd:integer">1</dbo:numberOfVolumes>
             <libreto:bibliographicalFormat>2°</libreto:bibliographicalFormat>
+            <dc:publisher>Herwagen, Johannes</dc:publisher>
             <dc:language xml:lang="iso6392">lat</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:hasPlace rdf:resource="http://vocab.getty.edu/tgn/7007269"/>
@@ -1551,9 +1551,9 @@
             <dc:type>Book</dc:type>
             <dc:title>EVTROPII INSIGNE || VOLVMEN QVO ROMANA HISTORIA VNIVERSA || describitur, ex diuersorum authorũ monumentis collecta ... || Additae sunt || Graecorum Imperatorum uitae de rebus in Oriente &amp;amp; Constantinopoli,|| Persia, Arabia#́[que] gestis ... || PAVLI Diaconi Aquileiensis De gestis Langobardorum Libri VI.||</dc:title>
             <dc:date xml:lang="xsd:gYear">1532</dc:date>
-            <dc:publisher>Froben, Hieronymus</dc:publisher>
             <dbo:numberOfVolumes xml:lang="xsd:integer">1</dbo:numberOfVolumes>
             <libreto:bibliographicalFormat>2°</libreto:bibliographicalFormat>
+            <dc:publisher>Froben, Hieronymus</dc:publisher>
             <dc:language xml:lang="iso6392">lat</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:hasPlace rdf:resource="http://vocab.getty.edu/tgn/7007269"/>
@@ -1596,9 +1596,9 @@
             <dc:type>Book</dc:type>
             <dc:title>Epitome pontificum Romanorum a s. Petro usque ad Paulum IIII Gestorum (videlicet) electionìsque singulorum, &amp;amp; conclauium compendiaria narratio. Cardinalium item nomina, dignitatum tituli, insignia legationes, patria et obitus. Onuphrio Panuinio Veronensi f. augustiniano authore. Ex musaeo Iacobi Stradae Mantuani, ciuis Romani, antiquarij.</dc:title>
             <dc:date xml:lang="xsd:gYear">1557</dc:date>
-            <dc:publisher>Strada, Giacomo</dc:publisher>
             <dbo:numberOfVolumes xml:lang="xsd:integer">1</dbo:numberOfVolumes>
             <libreto:bibliographicalFormat>2°</libreto:bibliographicalFormat>
+            <dc:publisher>Strada, Giacomo</dc:publisher>
             <dc:language xml:lang="iso6392">lat</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:hasPlace rdf:resource="http://vocab.getty.edu/tgn/7018159"/>
@@ -1628,9 +1628,9 @@
             <dc:type>Book</dc:type>
             <dc:title>Onuphrii Panuinii Veronensis fratris eremitae Augustiniani Fastorum libri V a Romulo rege vsque ad imp. Caesarem Carolum V Austrium Augustum. Eiusdem in fastorum libros commentarii.</dc:title>
             <dc:date xml:lang="xsd:gYear">1558</dc:date>
-            <dc:publisher>Valgrisi, Vincenzo</dc:publisher>
             <dbo:numberOfVolumes xml:lang="xsd:integer">1</dbo:numberOfVolumes>
             <libreto:bibliographicalFormat>2°</libreto:bibliographicalFormat>
+            <dc:publisher>Valgrisi, Vincenzo</dc:publisher>
             <dc:language xml:lang="iso6392">lat</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Eingebunden ist nur das [4] Bl., 72 S. umfassende enthaltene Werk mit eigenem Titelblatt von EDIT16 CNCE 37871 (Onofrio Panvinio: Fastorvm libri V a Romulo rege usque ad imp.Caesarem Carolum V Austrium Augustum. Venedig: Vincenzo Valgrisi, 1558. 2°).</libreto:comment>
@@ -1756,9 +1756,9 @@
             <dc:type>Book</dc:type>
             <dc:title>CATALOGVS TE/||stium ueritatis, qui ante nostram || aetatem Pontifici Romano, eiúsque || erroribus reclamarunt: iam denuò longè quàm || antea, &amp;amp; emendatior &amp;amp; au/||ctior editus.|| Opus ... || in quo ... || multi utiles libelli ... proferuntur ... || APPENDICI ... inserta est Vera Demon-||stratio, Quòd electio Praesulum et Episcoporum non ad Ecclesiasticos || solum, sed et ad Laicos ... pertineat ... || Cum Praefatione MATHIAE FLACII Illyrici ... || Acceßit et Rerum atq; uerborum toto Opere memorabilium || copiosus INDEX.|| ... ||</dc:title>
             <dc:date xml:lang="xsd:gYear">1562</dc:date>
-            <dc:publisher>Messerschmidt, Paul</dc:publisher>
             <dbo:numberOfVolumes xml:lang="xsd:integer">1</dbo:numberOfVolumes>
             <libreto:bibliographicalFormat>2°</libreto:bibliographicalFormat>
+            <dc:publisher>Messerschmidt, Paul</dc:publisher>
             <dc:language xml:lang="iso6392">lat</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:hasPlace>
@@ -1802,9 +1802,9 @@
             <dc:type>Book</dc:type>
             <dc:title>PRODIGI||ORVM AC || OSTENTORVM || CHRONICON,|| Quae praeter naturae ordinem, motum,|| ET OPERATIONEM, ET IN SVPERIO-||ribus &amp;amp; his inferioribus mundi regionibus, ab exordio mundi usque ad haec || nostra tempora, acciderunt ... || Partim ex probatis fide#́[que] || dignis authoribus Grecis, atque Latinis: partim etiam ex multorum || annorum propria obseruatione, summa fide, studio, ac se-||dulitate, adiectis etiam rerum omnium ueris ima-||ginibus, conscriptum per || CONRADVM LYCOSTHENEM || RVBEAQVENSEM.||</dc:title>
             <dc:date xml:lang="xsd:gYear">1557</dc:date>
-            <dc:publisher>Petri, Heinrich</dc:publisher>
             <dbo:numberOfVolumes xml:lang="xsd:integer">1</dbo:numberOfVolumes>
             <libreto:bibliographicalFormat>2°</libreto:bibliographicalFormat>
+            <dc:publisher>Petri, Heinrich</dc:publisher>
             <dc:language xml:lang="iso6392">lat</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:hasPlace rdf:resource="http://vocab.getty.edu/tgn/7007269"/>
@@ -1847,9 +1847,9 @@
             <dc:type>Book</dc:type>
             <dc:title>De origine et gestis regum Langobardorum libri VI.</dc:title>
             <dc:date xml:lang="xsd:gYear">1514</dc:date>
-            <dc:publisher>Ascensius, Jodocus Badius</dc:publisher>
             <dbo:numberOfVolumes xml:lang="xsd:integer">1</dbo:numberOfVolumes>
             <libreto:bibliographicalFormat>2°</libreto:bibliographicalFormat>
+            <dc:publisher>Ascensius, Jodocus Badius</dc:publisher>
             <dc:language xml:lang="iso6392">lat</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Ausgabe bei Renouard, Imprimeurs II, S. 256</libreto:comment>
@@ -1886,9 +1886,9 @@
             <dc:type>Book</dc:type>
             <dc:title>IORNAN||DES DE REBVS || GOTHORVM. PAV||LVS DIACONVS || FOROIVLIEN=||SIS DE GESTIS || LANGOBARDO=||RVM || [Hrsg.v.(CHVONRADI PEVTINGER ... || &amp;amp; Ioannis Stabij ... ||)]</dc:title>
             <dc:date xml:lang="xsd:gYear">1515</dc:date>
-            <dc:publisher>Miller, Johann</dc:publisher>
             <dbo:numberOfVolumes xml:lang="xsd:integer">1</dbo:numberOfVolumes>
             <libreto:bibliographicalFormat>2°</libreto:bibliographicalFormat>
+            <dc:publisher>Miller, Johann</dc:publisher>
             <dc:language xml:lang="iso6392">lat</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Herausgegeben von Conrad Peutinger und Johannes Stabius. Enth. auch Paulus Diaconus: De gestis Langobardorum (VD 16 P 1048).</libreto:comment>
@@ -1938,9 +1938,9 @@
             <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/rehlinger"/>
             <dc:type>Book</dc:type>
             <dc:date xml:lang="xsd:gYear">1514</dc:date>
-            <dc:publisher>Ascensius, Jodocus Badius</dc:publisher>
             <dbo:numberOfVolumes xml:lang="xsd:integer">1</dbo:numberOfVolumes>
             <libreto:bibliographicalFormat>2°</libreto:bibliographicalFormat>
+            <dc:publisher>Ascensius, Jodocus Badius</dc:publisher>
             <dc:language xml:lang="iso6392">lat</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Ausgabe bei Renouard, Imprimeurs II, S. 238</libreto:comment>
@@ -2128,9 +2128,9 @@
             <dc:type>Book</dc:type>
             <dc:title>C. IVLII || CAESARIS || COM=||mentaria.|| ET || Index eorum quae in his tractantur.||(per Raimũ||dum Marlianum ... ||)</dc:title>
             <dc:date xml:lang="xsd:gYear">1535</dc:date>
-            <dc:publisher>Herwagen, Johannes</dc:publisher>
             <dbo:numberOfVolumes xml:lang="xsd:integer">1</dbo:numberOfVolumes>
             <libreto:bibliographicalFormat>8°</libreto:bibliographicalFormat>
+            <dc:publisher>Herwagen, Johannes</dc:publisher>
             <dc:language xml:lang="iso6392">lat</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Nach der treffenden Titelaufnahme sehr wahrscheinlich VD 16 c 34.</libreto:comment>
@@ -2166,9 +2166,9 @@
             <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/rehlinger"/>
             <dc:type>Book</dc:type>
             <dc:title>Berosi sacerdotis Chaldaici, antiqvitatvm libri qvinqve, cum commentariis Ioannis Annii Viterbensis same theologice professoris.</dc:title>
-            <dc:publisher>Steels, Johannes</dc:publisher>
             <dbo:numberOfVolumes xml:lang="xsd:integer">1</dbo:numberOfVolumes>
             <libreto:bibliographicalFormat>8°</libreto:bibliographicalFormat>
+            <dc:publisher>Steels, Johannes</dc:publisher>
             <dc:language xml:lang="iso6392">lat</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>In Frage kommt eine der beiden Antwerpener Ausgaben bei Johannes Steels, 1545 oder 1552 Pettegree / Walsby, Netherlandish Books, 22132 oder 22133).</libreto:comment>
@@ -2301,9 +2301,9 @@
             <dc:type>Book</dc:type>
             <dc:title>PAVLI IO-||VII NOVOCOMEN-||SIS EPISCOPI NVCERI-||NI ELOGIA virorum bellica vir-||tute illustrium veris imaginibus sup-||posita, quae apud Musaeum spe-||ctantur, in libros septem || digesta.|| Doctorum item uirorum ingenij monumentis illu-||strium ab Auorum memoria publicatis, altero || tomo comprehensa.||</dc:title>
             <dc:date xml:lang="xsd:gYear">1561</dc:date>
-            <dc:publisher>Perna, Peter</dc:publisher>
             <dbo:numberOfVolumes xml:lang="xsd:integer">1</dbo:numberOfVolumes>
             <libreto:bibliographicalFormat>8°</libreto:bibliographicalFormat>
+            <dc:publisher>Perna, Peter</dc:publisher>
             <dc:language xml:lang="iso6392">lat</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:hasPlace rdf:resource="http://vocab.getty.edu/tgn/7007269"/>
@@ -2333,9 +2333,9 @@
             <dc:type>Book</dc:type>
             <dc:title>Elogia doctorum virorum ...</dc:title>
             <dc:date xml:lang="xsd:gYear">1561</dc:date>
-            <dc:publisher>Perna, Peter</dc:publisher>
             <dbo:numberOfVolumes xml:lang="xsd:integer">1</dbo:numberOfVolumes>
             <libreto:bibliographicalFormat>8°</libreto:bibliographicalFormat>
+            <dc:publisher>Perna, Peter</dc:publisher>
             <dc:language xml:lang="iso6392">lat</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:hasPlace rdf:resource="http://vocab.getty.edu/tgn/7007269"/>
@@ -2365,9 +2365,9 @@
             <dc:type>Book</dc:type>
             <dc:title>SAXONIA || ET || METROPOLIS || ALBERTI CRANTZII || HISTORICI DOCTISS. SACRAE || Theologiae &amp;amp; Iuris Canonici Doctoris || celeberrimi, ac Ecclesiae Ham-||burgensis quondàm || Decani.|| QVIBVS RES SAXONVM || ET ADIACENTIVM REGIONVM, AC || totius ferè Germaniae, in vtroque statu, tam || Ecclesiastico quàm Politico ... || expli-||cantur.|| Cum gemino rerum memorabilium co-||piosissimo INDICE.||</dc:title>
             <dc:date xml:lang="xsd:gYear">1574</dc:date>
-            <dc:publisher>Quentel, Johann &amp;lt;Erben&amp;gt;</dc:publisher>
             <dbo:numberOfVolumes xml:lang="xsd:integer">1</dbo:numberOfVolumes>
             <libreto:bibliographicalFormat>8°</libreto:bibliographicalFormat>
+            <dc:publisher>Quentel, Johann (Erben)</dc:publisher>
             <dc:language xml:lang="iso6392">lat</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:hasPlace rdf:resource="http://vocab.getty.edu/tgn/7004446"/>
@@ -2397,9 +2397,9 @@
             <dc:type>Book</dc:type>
             <dc:title>Metropolis [EST: Ecclesiastica historia sive metropolis].</dc:title>
             <dc:date xml:lang="xsd:gYear">1574</dc:date>
-            <dc:publisher>Quentel, Johann &amp;lt;Erben&amp;gt;</dc:publisher>
             <dbo:numberOfVolumes xml:lang="xsd:integer">1</dbo:numberOfVolumes>
             <libreto:bibliographicalFormat>8°</libreto:bibliographicalFormat>
+            <dc:publisher>Quentel, Johann (Erben)</dc:publisher>
             <dc:language xml:lang="iso6392">lat</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:hasPlace rdf:resource="http://vocab.getty.edu/tgn/7004446"/>
@@ -2429,9 +2429,9 @@
             <dc:type>Book</dc:type>
             <dc:title>PAVSANIAE || DE FLOREN-||TISS. VETERIS GRAE-||CIAE REGIONIBVS COM-||MENTARII || A ROMVLO AMASAEO,|| uiro utriusq: linguae peritiß. Summa || fide ac diligentia, conuersi.|| Cum indice &amp;amp; rerum &amp;amp; verborum || locupletissimo.||</dc:title>
             <dc:date xml:lang="xsd:gYear">1557</dc:date>
-            <dc:publisher>Isengrin, Michael</dc:publisher>
             <dbo:numberOfVolumes xml:lang="xsd:integer">1</dbo:numberOfVolumes>
             <libreto:bibliographicalFormat>8°</libreto:bibliographicalFormat>
+            <dc:publisher>Isengrin, Michael</dc:publisher>
             <dc:language xml:lang="iso6392">lat</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:hasPlace rdf:resource="http://vocab.getty.edu/tgn/7007269"/>
@@ -2467,9 +2467,9 @@
             <dc:type>Book</dc:type>
             <dc:title>HISTORIAE MISCELLAE || A || PAVLO AQVI||LEGIENSI DIACONO || PRIMVM COLLECTAE, POST || etiam à Landulpho Sagaci auctae pro-||ductae#́[que] ad Imperium Leonis || IIII. id est, annum Christi || DCCCVI.|| Libri XXIIII.|| In quibus praeter Eutropij, Flori ... || et aliorum historias, totam penè Ana||stasij Bibliothecarij Rom.Ecclesiasticam ... || contineri ... || polliceri possumus ... || adiecta Nicephori CP.episcopi Chronolo-||gia, et Indice copioso.||</dc:title>
             <dc:date xml:lang="xsd:gYear">1569</dc:date>
-            <dc:publisher>Perna, Peter</dc:publisher>
             <dbo:numberOfVolumes xml:lang="xsd:integer">1</dbo:numberOfVolumes>
             <libreto:bibliographicalFormat>8°</libreto:bibliographicalFormat>
+            <dc:publisher>Perna, Peter</dc:publisher>
             <dc:language xml:lang="iso6392">lat</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:hasPlace rdf:resource="http://vocab.getty.edu/tgn/7007269"/>
@@ -2602,9 +2602,9 @@
             <dc:type>Book</dc:type>
             <dc:title>IOSIPPVS || DE BELLO IV/||DAICO.|| Deinde decem Iudaeorum capti/||uitates &amp;amp; Decalogus cum ele-||ganti commentariolo Rab/||bi Aben Esra.||(Sebastiano Munstere || interprete.||) Hisce accesserunt Collectanea aliquot,|| quae Sebastianus Lepusculus Basi/|| liensis colligebat ... || Omnia Hebraicolatina.||</dc:title>
             <dc:date xml:lang="xsd:gYear">1559</dc:date>
-            <dc:publisher>Petri, Heinrich</dc:publisher>
             <dbo:numberOfVolumes xml:lang="xsd:integer">1</dbo:numberOfVolumes>
             <libreto:bibliographicalFormat>8°</libreto:bibliographicalFormat>
+            <dc:publisher>Petri, Heinrich</dc:publisher>
             <dc:language xml:lang="iso6392">heb</dc:language>
             <dc:language xml:lang="iso6392">lat</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
@@ -2647,9 +2647,9 @@
             <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/rehlinger"/>
             <dc:type>Book</dc:type>
             <dc:title>De haeresibus.</dc:title>
-            <dc:publisher>Petri, Heinrich</dc:publisher>
             <dbo:numberOfVolumes xml:lang="xsd:integer">1</dbo:numberOfVolumes>
             <libreto:bibliographicalFormat>8°</libreto:bibliographicalFormat>
+            <dc:publisher>Petri, Heinrich</dc:publisher>
             <dc:language xml:lang="iso6392">lat</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>In Frage kommen die Editio princeps, VD 16 F 1016 (Basel: Heinrich Petri, 1528), sowie VD 16 F 2017 (Basel: Heinrich Petri, 1539).</libreto:comment>

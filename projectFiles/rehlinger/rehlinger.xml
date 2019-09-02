@@ -49,7 +49,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Froben, Ambrosius</publisher>
+    <publishers>
+      <publisher>Froben, Ambrosius</publisher>
+    </publishers>
     <year>1571</year>
     <format>2°</format>
     <mediaType>Book</mediaType>
@@ -99,7 +101,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Froben, Ambrosius</publisher>
+    <publishers>
+      <publisher>Froben, Ambrosius</publisher>
+    </publishers>
     <year>1571</year>
     <format>2°</format>
     <mediaType>Book</mediaType>
@@ -148,7 +152,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Froben, Ambrosius</publisher>
+    <publishers>
+      <publisher>Froben, Ambrosius</publisher>
+    </publishers>
     <year>1571</year>
     <format>2°</format>
     <mediaType>Book</mediaType>
@@ -276,7 +282,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Birckmann, Arnold (Erben)</publisher>
+    <publishers>
+      <publisher>Birckmann, Arnold (Erben)</publisher>
+    </publishers>
     <year>1569</year>
     <format>2°</format>
     <mediaType>Book</mediaType>
@@ -389,6 +397,7 @@
           <beacon>wkp</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
+          <beacon>fsh</beacon>
           <beacon>dpi</beacon>
           <beacon>vkk</beacon>
           <beacon>imslp</beacon>
@@ -423,6 +432,7 @@
           <beacon>wkp</beacon>
           <beacon>fabricius</beacon>
           <beacon>sandrart</beacon>
+          <beacon>kall</beacon>
           <beacon>dpi</beacon>
           <beacon>vkk</beacon>
         </beacon>
@@ -544,7 +554,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Weißenhorn, Alexander</publisher>
+    <publishers>
+      <publisher>Weißenhorn, Alexander</publisher>
+    </publishers>
     <year>1554</year>
     <format>2°</format>
     <mediaType>Book</mediaType>
@@ -573,6 +585,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>gspd</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
           <beacon>dpi</beacon>
@@ -620,6 +633,7 @@
           <beacon>gesa</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
+          <beacon>fsh</beacon>
           <beacon>cors</beacon>
           <beacon>dpi</beacon>
           <beacon>vkk</beacon>
@@ -630,6 +644,7 @@
         <gnd>100118720</gnd>
         <role>contributor</role>
         <beacon>
+          <beacon>dbi</beacon>
           <beacon>fabricius</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
@@ -646,7 +661,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Froben, Hieronymus</publisher>
+    <publishers>
+      <publisher>Froben, Hieronymus</publisher>
+    </publishers>
     <year>1546</year>
     <format>2°</format>
     <mediaType>Book</mediaType>
@@ -698,7 +715,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Strada, Giacomo</publisher>
+    <publishers>
+      <publisher>Strada, Giacomo</publisher>
+    </publishers>
     <year>1557</year>
     <format>2°</format>
     <mediaType>Book</mediaType>
@@ -921,6 +940,7 @@
           <beacon>gspd</beacon>
           <beacon>gesa</beacon>
           <beacon>kall</beacon>
+          <beacon>fsh</beacon>
           <beacon>dpi</beacon>
           <beacon>vkk</beacon>
         </beacon>
@@ -963,7 +983,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Oporinus, Johannes</publisher>
+    <publishers>
+      <publisher>Oporinus, Johannes</publisher>
+    </publishers>
     <year>1574</year>
     <format>2°</format>
     <mediaType>Book</mediaType>
@@ -1024,7 +1046,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Neuber, Ulrich</publisher>
+    <publishers>
+      <publisher>Neuber, Ulrich</publisher>
+    </publishers>
     <year>1558</year>
     <format>2°</format>
     <mediaType>Book</mediaType>
@@ -1064,6 +1088,7 @@
           <beacon>cpl</beacon>
           <beacon>gesa</beacon>
           <beacon>kall</beacon>
+          <beacon>fsh</beacon>
           <beacon>cors</beacon>
           <beacon>dpi</beacon>
           <beacon>vkk</beacon>
@@ -1081,7 +1106,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Oporinus, Johannes</publisher>
+    <publishers>
+      <publisher>Oporinus, Johannes</publisher>
+    </publishers>
     <year>1561</year>
     <format>2°</format>
     <mediaType>Book</mediaType>
@@ -1133,7 +1160,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Kündig, Jakob</publisher>
+    <publishers>
+      <publisher>Kündig, Jakob</publisher>
+    </publishers>
     <year>1558</year>
     <format>2°</format>
     <mediaType>Book</mediaType>
@@ -1385,6 +1414,7 @@
           <beacon>fabricius</beacon>
           <beacon>gspd</beacon>
           <beacon>kall</beacon>
+          <beacon>fsh</beacon>
           <beacon>dpi</beacon>
         </beacon>
       </person>
@@ -1399,7 +1429,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Kündig, Jakob</publisher>
+    <publishers>
+      <publisher>Kündig, Jakob</publisher>
+    </publishers>
     <year>1559</year>
     <format>2°</format>
     <mediaType>Book</mediaType>
@@ -1453,7 +1485,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Petri, Heinrich</publisher>
+    <publishers>
+      <publisher>Petri, Heinrich</publisher>
+    </publishers>
     <format>2°</format>
     <mediaType>Book</mediaType>
     <languages>
@@ -1570,7 +1604,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Oporinus, Johannes</publisher>
+    <publishers>
+      <publisher>Oporinus, Johannes</publisher>
+    </publishers>
     <year>1558</year>
     <format>2°</format>
     <mediaType>Book</mediaType>
@@ -1734,7 +1770,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Rab, Georg d.Ä.</publisher>
+    <publishers>
+      <publisher>Rab, Georg d.Ä.</publisher>
+    </publishers>
     <year>1566</year>
     <format>2°</format>
     <mediaType>Book</mediaType>
@@ -1814,7 +1852,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Rusconi, Giorgio</publisher>
+    <publishers>
+      <publisher>Rusconi, Giorgio</publisher>
+    </publishers>
     <year>1513</year>
     <format>2°</format>
     <mediaType>Book</mediaType>
@@ -1860,7 +1900,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Petri, Heinrich</publisher>
+    <publishers>
+      <publisher>Petri, Heinrich</publisher>
+    </publishers>
     <year>1556</year>
     <format>2°</format>
     <mediaType>Book</mediaType>
@@ -1912,7 +1954,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Herwagen, Johannes</publisher>
+    <publishers>
+      <publisher>Herwagen, Johannes</publisher>
+    </publishers>
     <year>1532</year>
     <format>2°</format>
     <mediaType>Book</mediaType>
@@ -1958,7 +2002,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Froben, Hieronymus</publisher>
+    <publishers>
+      <publisher>Froben, Hieronymus</publisher>
+    </publishers>
     <year>1532</year>
     <format>2°</format>
     <mediaType>Book</mediaType>
@@ -2009,7 +2055,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Strada, Giacomo</publisher>
+    <publishers>
+      <publisher>Strada, Giacomo</publisher>
+    </publishers>
     <year>1557</year>
     <format>2°</format>
     <mediaType>Book</mediaType>
@@ -2060,7 +2108,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Valgrisi, Vincenzo</publisher>
+    <publishers>
+      <publisher>Valgrisi, Vincenzo</publisher>
+    </publishers>
     <year>1558</year>
     <format>2°</format>
     <mediaType>Book</mediaType>
@@ -2215,6 +2265,7 @@
           <beacon>gspd</beacon>
           <beacon>gesa</beacon>
           <beacon>kall</beacon>
+          <beacon>fsh</beacon>
           <beacon>dpi</beacon>
           <beacon>vkk</beacon>
         </beacon>
@@ -2230,7 +2281,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Messerschmidt, Paul</publisher>
+    <publishers>
+      <publisher>Messerschmidt, Paul</publisher>
+    </publishers>
     <year>1562</year>
     <format>2°</format>
     <mediaType>Book</mediaType>
@@ -2280,7 +2333,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Petri, Heinrich</publisher>
+    <publishers>
+      <publisher>Petri, Heinrich</publisher>
+    </publishers>
     <year>1557</year>
     <format>2°</format>
     <mediaType>Book</mediaType>
@@ -2332,7 +2387,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Ascensius, Jodocus Badius</publisher>
+    <publishers>
+      <publisher>Ascensius, Jodocus Badius</publisher>
+    </publishers>
     <year>1514</year>
     <format>2°</format>
     <mediaType>Book</mediaType>
@@ -2378,7 +2435,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Miller, Johann</publisher>
+    <publishers>
+      <publisher>Miller, Johann</publisher>
+    </publishers>
     <year>1515</year>
     <format>2°</format>
     <mediaType>Book</mediaType>
@@ -2427,7 +2486,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Ascensius, Jodocus Badius</publisher>
+    <publishers>
+      <publisher>Ascensius, Jodocus Badius</publisher>
+    </publishers>
     <year>1514</year>
     <format>2°</format>
     <mediaType>Book</mediaType>
@@ -2629,7 +2690,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Herwagen, Johannes</publisher>
+    <publishers>
+      <publisher>Herwagen, Johannes</publisher>
+    </publishers>
     <year>1535</year>
     <format>8°</format>
     <mediaType>Book</mediaType>
@@ -2674,7 +2737,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Steels, Johannes</publisher>
+    <publishers>
+      <publisher>Steels, Johannes</publisher>
+    </publishers>
     <format>8°</format>
     <mediaType>Book</mediaType>
     <languages>
@@ -2910,7 +2975,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Perna, Peter</publisher>
+    <publishers>
+      <publisher>Perna, Peter</publisher>
+    </publishers>
     <year>1561</year>
     <format>8°</format>
     <mediaType>Book</mediaType>
@@ -2959,7 +3026,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Perna, Peter</publisher>
+    <publishers>
+      <publisher>Perna, Peter</publisher>
+    </publishers>
     <year>1561</year>
     <format>8°</format>
     <mediaType>Book</mediaType>
@@ -2991,6 +3060,7 @@
           <beacon>db</beacon>
           <beacon>fabricius</beacon>
           <beacon>mav</beacon>
+          <beacon>gspd</beacon>
           <beacon>cpr</beacon>
           <beacon>cprm</beacon>
           <beacon>gesa</beacon>
@@ -3009,7 +3079,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Quentel, Johann (Erben)</publisher>
+    <publishers>
+      <publisher>Quentel, Johann (Erben)</publisher>
+    </publishers>
     <year>1574</year>
     <format>8°</format>
     <mediaType>Book</mediaType>
@@ -3041,6 +3113,7 @@
           <beacon>db</beacon>
           <beacon>fabricius</beacon>
           <beacon>mav</beacon>
+          <beacon>gspd</beacon>
           <beacon>cpr</beacon>
           <beacon>cprm</beacon>
           <beacon>gesa</beacon>
@@ -3059,7 +3132,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Quentel, Johann (Erben)</publisher>
+    <publishers>
+      <publisher>Quentel, Johann (Erben)</publisher>
+    </publishers>
     <year>1574</year>
     <format>8°</format>
     <mediaType>Book</mediaType>
@@ -3104,7 +3179,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Isengrin, Michael</publisher>
+    <publishers>
+      <publisher>Isengrin, Michael</publisher>
+    </publishers>
     <year>1557</year>
     <format>8°</format>
     <mediaType>Book</mediaType>
@@ -3142,7 +3219,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Perna, Peter</publisher>
+    <publishers>
+      <publisher>Perna, Peter</publisher>
+    </publishers>
     <year>1569</year>
     <format>8°</format>
     <mediaType>Book</mediaType>
@@ -3288,7 +3367,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Petri, Heinrich</publisher>
+    <publishers>
+      <publisher>Petri, Heinrich</publisher>
+    </publishers>
     <year>1559</year>
     <format>8°</format>
     <mediaType>Book</mediaType>
@@ -3337,7 +3418,9 @@
         </geoData>
       </place>
     </places>
-    <publisher>Petri, Heinrich</publisher>
+    <publishers>
+      <publisher>Petri, Heinrich</publisher>
+    </publishers>
     <format>8°</format>
     <mediaType>Book</mediaType>
     <languages>

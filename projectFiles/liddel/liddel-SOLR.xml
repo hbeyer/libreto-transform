@@ -7,7 +7,7 @@
     <field name="author">Acosta, Christóval#100003532</field>
     <field name="place_1">Antwerpen</field>
     <field name="coordinates_place_1">51.21989,4.40346</field>
-    <field name="publisher">Plantin</field>
+    <field name="publishers">Plantin</field>
     <field name="year">1582</field>
     <field name="subjects">Pharmazie</field>
     <field name="mediaType">Book</field>
@@ -39,7 +39,7 @@
     <field name="author">Adami, Theodor#104106379</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1598</field>
     <field name="subjects">Rhetorik</field>
     <field name="mediaType">Book</field>
@@ -71,7 +71,7 @@
     <field name="author">Adami, Theodor#104106379</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1599</field>
     <field name="subjects">Rhetorik</field>
     <field name="mediaType">Book</field>
@@ -103,7 +103,7 @@
     <field name="author">Adami, Theodor#104106379</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1601</field>
     <field name="subjects">Gelegenheitsschrift</field>
     <field name="mediaType">Book</field>
@@ -135,7 +135,7 @@
     <field name="author">Adami, Theodor#104106379</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1602</field>
     <field name="subjects">Gelegenheitsschrift</field>
     <field name="mediaType">Book</field>
@@ -164,7 +164,7 @@
     <field name="author">Adami, Theodor#104106379</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1596</field>
     <field name="subjects">Gelegenheitsschrift</field>
     <field name="mediaType">Book</field>
@@ -193,7 +193,7 @@
     <field name="author">Aetios von Amida#100935516</field>
     <field name="place_1">Lyon</field>
     <field name="coordinates_place_1">45.74846,4.84671</field>
-    <field name="publisher">Honoratis</field>
+    <field name="publishers">Honoratis</field>
     <field name="year">1560</field>
     <field name="subjects">Antike Medizin</field>
     <field name="mediaType">Book</field>
@@ -222,7 +222,7 @@
     <field name="author">Farġānī, Aḥmad Ibn-Muḥammad al-#100728847</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Wechel</field>
+    <field name="publishers">Wechel</field>
     <field name="year">1590</field>
     <field name="subjects">Astronomie</field>
     <field name="mediaType">Book</field>
@@ -251,7 +251,7 @@
     <field name="author">Alberti, Salomon#100006353</field>
     <field name="place_1">Wittenberg</field>
     <field name="coordinates_place_1">51.87437,12.60603</field>
-    <field name="publisher">Cratonis</field>
+    <field name="publishers">Cratonis</field>
     <field name="year">1585</field>
     <field name="subjects">Anatomie</field>
     <field name="mediaType">Book</field>
@@ -280,7 +280,7 @@
     <field name="author">Alexander Trallianus#118869477</field>
     <field name="place_1">Antwerpen</field>
     <field name="coordinates_place_1">51.21989,4.40346</field>
-    <field name="publisher">Harsy</field>
+    <field name="publishers">Harsy</field>
     <field name="year">1575</field>
     <field name="subjects">Antike Medizin</field>
     <field name="mediaType">Book</field>
@@ -309,7 +309,7 @@
     <field name="author">Alfonso X., Castilla, Rey#11864811X</field>
     <field name="place_1">Paris</field>
     <field name="coordinates_place_1">48.85341,2.3488</field>
-    <field name="publisher">Wechel</field>
+    <field name="publishers">Wechel</field>
     <field name="year">1545</field>
     <field name="subjects">Astronomie</field>
     <field name="mediaType">Book</field>
@@ -338,7 +338,7 @@
     <field name="author">Rāzī, Muḥammad Ibn-Zakarīyā ar-#118864173</field>
     <field name="place_1">Wittenberg</field>
     <field name="coordinates_place_1">51.87437,12.60603</field>
-    <field name="publisher">Lehman</field>
+    <field name="publishers">Lehman</field>
     <field name="year">1592</field>
     <field name="subjects">Therapeutik</field>
     <field name="mediaType">Book</field>
@@ -367,7 +367,7 @@
     <field name="author">Altomare, Donato A. d'#100010652</field>
     <field name="place_1">Venedig</field>
     <field name="coordinates_place_1">45.43713,12.33265</field>
-    <field name="publisher">Maria</field>
+    <field name="publishers">Maria</field>
     <field name="year">1569</field>
     <field name="subjects">Therapeutik</field>
     <field name="mediaType">Book</field>
@@ -396,7 +396,7 @@
     <field name="author">Altomare, Donato A. d'#100010652</field>
     <field name="place_1">Venedig</field>
     <field name="coordinates_place_1">45.43713,12.33265</field>
-    <field name="publisher">Altomari</field>
+    <field name="publishers">Altomari</field>
     <field name="year">1570</field>
     <field name="subjects">Therapeutik</field>
     <field name="mediaType">Book</field>
@@ -425,7 +425,7 @@
     <field name="author">Castelo Branco, João Rodrigues de#119046776</field>
     <field name="place_1">Lyon</field>
     <field name="coordinates_place_1">45.74846,4.84671</field>
-    <field name="publisher">Rouille</field>
+    <field name="publishers">Rouille</field>
     <field name="year">1567</field>
     <field name="subjects">Therapeutik</field>
     <field name="mediaType">Book</field>
@@ -454,7 +454,7 @@
     <field name="author">Apian, Petrus#118645455</field>
     <field name="place_1">Nürnberg</field>
     <field name="coordinates_place_1">49.45421,11.07752</field>
-    <field name="publisher">Petreius</field>
+    <field name="publishers">Petreius</field>
     <field name="year">1541</field>
     <field name="subjects">Astronomie</field>
     <field name="mediaType">Book</field>
@@ -483,7 +483,7 @@
     <field name="author">Apian, Petrus#118645455</field>
     <field name="place_1">Antwerpen</field>
     <field name="coordinates_place_1">51.21989,4.40346</field>
-    <field name="publisher">Bontio</field>
+    <field name="publishers">Bontio</field>
     <field name="year">1550</field>
     <field name="subjects">Geographie</field>
     <field name="mediaType">Book</field>
@@ -512,7 +512,7 @@
     <field name="author">Arcaeus, Franciscus#129832286</field>
     <field name="place_1">Antwerpen</field>
     <field name="coordinates_place_1">51.21989,4.40346</field>
-    <field name="publisher">Plantin</field>
+    <field name="publishers">Plantin</field>
     <field name="year">1574</field>
     <field name="subjects">Therapeutik</field>
     <field name="mediaType">Book</field>
@@ -541,7 +541,7 @@
     <field name="author">Argenterio, Giovanni#124915248</field>
     <field name="place_1">Lyon</field>
     <field name="coordinates_place_1">45.74846,4.84671</field>
-    <field name="publisher">Forus</field>
+    <field name="publishers">Forus</field>
     <field name="year">1558</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -570,7 +570,7 @@
     <field name="author">Aristoteles#118650130</field>
     <field name="place_1">Genf</field>
     <field name="coordinates_place_1">46.20222,6.14569</field>
-    <field name="publisher">Laimarie, Guillaume de</field>
+    <field name="publishers">Laimarie, Guillaume de</field>
     <field name="year">1597</field>
     <field name="subjects">Philosophie</field>
     <field name="mediaType">Book</field>
@@ -602,7 +602,7 @@
     <field name="author">Aristoteles#118650130</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Wechel</field>
+    <field name="publishers">Wechel</field>
     <field name="year">1585</field>
     <field name="subjects">Philosophie</field>
     <field name="mediaType">Book</field>
@@ -634,7 +634,7 @@
     <field name="author">Aristoteles#118650130</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Wechel</field>
+    <field name="publishers">Wechel</field>
     <field name="year">1584</field>
     <field name="subjects">Rhetorik</field>
     <field name="mediaType">Book</field>
@@ -663,7 +663,7 @@
     <field name="author">Aristoteles#118650130</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Wechel</field>
+    <field name="publishers">Wechel</field>
     <field name="year">1584</field>
     <field name="subjects">Philosophie</field>
     <field name="mediaType">Book</field>
@@ -695,7 +695,7 @@
     <field name="author">Aristoteles#118650130</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Wechel</field>
+    <field name="publishers">Wechel</field>
     <field name="year">1584</field>
     <field name="subjects">Philosophie</field>
     <field name="mediaType">Book</field>
@@ -727,7 +727,7 @@
     <field name="author">Aristoteles#118650130</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Wechel</field>
+    <field name="publishers">Wechel</field>
     <field name="year">1587</field>
     <field name="subjects">Philosophie</field>
     <field name="mediaType">Book</field>
@@ -756,7 +756,7 @@
     <field name="author">Aristoteles#118650130</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Wechel</field>
+    <field name="publishers">Wechel</field>
     <field name="year">1584</field>
     <field name="subjects">Philosophie</field>
     <field name="mediaType">Book</field>
@@ -788,7 +788,7 @@
     <field name="author">Aristoteles#118650130</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Wechel</field>
+    <field name="publishers">Wechel</field>
     <field name="year">1585</field>
     <field name="subjects">Philosophie</field>
     <field name="mediaType">Book</field>
@@ -817,7 +817,7 @@
     <field name="author">Aristoteles#118650130</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Wechel</field>
+    <field name="publishers">Wechel</field>
     <field name="year">1585</field>
     <field name="subjects">Philosophie</field>
     <field name="mediaType">Book</field>
@@ -849,7 +849,7 @@
     <field name="author">Aristoteles#118650130</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Wechel</field>
+    <field name="publishers">Wechel</field>
     <field name="year">1587</field>
     <field name="subjects">Philosophie</field>
     <field name="mediaType">Book</field>
@@ -878,7 +878,7 @@
     <field name="author">Aristoteles#118650130</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Wechel</field>
+    <field name="publishers">Wechel</field>
     <field name="year">1585</field>
     <field name="subjects">Philosophie</field>
     <field name="mediaType">Book</field>
@@ -910,7 +910,7 @@
     <field name="author">Aristoteles#118650130</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Wechel</field>
+    <field name="publishers">Wechel</field>
     <field name="year">1587</field>
     <field name="subjects">Philosophie</field>
     <field name="mediaType">Book</field>
@@ -939,7 +939,7 @@
     <field name="author">Aristoteles#118650130</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Wechel</field>
+    <field name="publishers">Wechel</field>
     <field name="year">1584-1587</field>
     <field name="subjects">Philosophie</field>
     <field name="mediaType">Book</field>
@@ -964,7 +964,7 @@
     <field name="titleBib">Articella nuperrime impressa cum quam plurimis tractatibus pristinae impressioni superadditis</field>
     <field name="place_1">Lyon</field>
     <field name="coordinates_place_1">45.74846,4.84671</field>
-    <field name="publisher">Myt</field>
+    <field name="publishers">Myt</field>
     <field name="year">1519</field>
     <field name="subjects">Antike Medizin</field>
     <field name="mediaType">Book</field>
@@ -996,7 +996,7 @@
     <field name="author">Augenio, Orazio#122479807</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Wechel</field>
+    <field name="publishers">Wechel</field>
     <field name="year">1597</field>
     <field name="subjects">Consilia</field>
     <field name="mediaType">Book</field>
@@ -1028,7 +1028,7 @@
     <field name="author">Augenio, Orazio#122479807</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Wechel</field>
+    <field name="publishers">Wechel</field>
     <field name="year">1598</field>
     <field name="subjects">Therapeutik</field>
     <field name="mediaType">Book</field>
@@ -1057,7 +1057,7 @@
     <field name="author">Bacci, Andrea#124534406</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Becker</field>
+    <field name="publishers">Becker</field>
     <field name="year">1603</field>
     <field name="subjects">Pharmazie</field>
     <field name="mediaType">Book</field>
@@ -1086,7 +1086,7 @@
     <field name="author">Basilius Caesariensis#118637797</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1599</field>
     <field name="subjects">Theologie</field>
     <field name="mediaType">Book</field>
@@ -1115,7 +1115,7 @@
     <field name="author">Bauhin, Caspar#11884962X</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Henricpetri</field>
+    <field name="publishers">Henricpetri</field>
     <field name="year">1590</field>
     <field name="subjects">Anatomie</field>
     <field name="mediaType">Book</field>
@@ -1144,7 +1144,7 @@
     <field name="author">Bernardus de Gordonio#100937829</field>
     <field name="place_1">Lyon</field>
     <field name="coordinates_place_1">45.74846,4.84671</field>
-    <field name="publisher">Rouille</field>
+    <field name="publishers">Rouille</field>
     <field name="year">1578</field>
     <field name="subjects">Therapeutik</field>
     <field name="mediaType">Book</field>
@@ -1173,7 +1173,7 @@
     <field name="author">Nicolaus Bertrucius#10097029X</field>
     <field name="place_1">Köln</field>
     <field name="coordinates_place_1">50.93333,6.95</field>
-    <field name="publisher">Novesianum</field>
+    <field name="publishers">Novesianum</field>
     <field name="year">1537</field>
     <field name="subjects">Medizin</field>
     <field name="mediaType">Book</field>
@@ -1202,7 +1202,7 @@
     <field name="author">Bèze, Théodore de#118662864</field>
     <field name="place_1">Genf</field>
     <field name="coordinates_place_1">46.20222,6.14569</field>
-    <field name="publisher">Vignon</field>
+    <field name="publishers">Vignon</field>
     <field name="year">1579</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -1230,7 +1230,7 @@
     <field name="titleBib">Biblia. Das ist : die ganze heylige Shrifft, Teutsch, Doct. Mart. Luth</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Fischer</field>
+    <field name="publishers">Fischer</field>
     <field name="year">1595</field>
     <field name="subjects">Theologie</field>
     <field name="mediaType">Book</field>
@@ -1259,7 +1259,7 @@
     <field name="author">Bodin, Jean#118512307</field>
     <field name="place_1">Lyon</field>
     <field name="coordinates_place_1">45.74846,4.84671</field>
-    <field name="publisher">Mareschal</field>
+    <field name="publishers">Mareschal</field>
     <field name="year">1591</field>
     <field name="subjects">Geschichte</field>
     <field name="mediaType">Book</field>
@@ -1288,7 +1288,7 @@
     <field name="author">Böckel, Johann#116223324</field>
     <field name="place_1">Hamburg</field>
     <field name="coordinates_place_1">53.57532,10.01534</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1597</field>
     <field name="subjects">Epidemiologie</field>
     <field name="mediaType">Book</field>
@@ -1317,7 +1317,7 @@
     <field name="author">Böckel, Johann#116223324</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1591</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -1346,7 +1346,7 @@
     <field name="author">Bonus, Petrus#100050840</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Henripectri</field>
+    <field name="publishers">Henripectri</field>
     <field name="year">1572</field>
     <field name="subjects">Alchemie</field>
     <field name="mediaType">Book</field>
@@ -1378,7 +1378,7 @@
     <field name="author">Bording, Jacob#116248424</field>
     <field name="place_1">Rostock</field>
     <field name="coordinates_place_1">54.0887,12.14049</field>
-    <field name="publisher">Myliander</field>
+    <field name="publishers">Myliander</field>
     <field name="year">1591</field>
     <field name="subjects">Diätetik</field>
     <field name="mediaType">Book</field>
@@ -1410,7 +1410,7 @@
     <field name="author">Bording, Jacob#116248424</field>
     <field name="place_1">Rostock</field>
     <field name="coordinates_place_1">54.0887,12.14049</field>
-    <field name="publisher">Myliander</field>
+    <field name="publishers">Myliander</field>
     <field name="year">1591</field>
     <field name="subjects">Medizin</field>
     <field name="mediaType">Book</field>
@@ -1439,7 +1439,7 @@
     <field name="author">Botero, Giovanni#118942824</field>
     <field name="place_1">Köln</field>
     <field name="coordinates_place_1">50.93333,6.95</field>
-    <field name="publisher">Gymnich</field>
+    <field name="publishers">Gymnich</field>
     <field name="year">1596</field>
     <field name="subjects">Geographie</field>
     <field name="mediaType">Book</field>
@@ -1471,7 +1471,7 @@
     <field name="author">Brahe, Tycho#118514237</field>
     <field name="place_1">Uraniborg</field>
     <field name="coordinates_place_1">55.9,12.7</field>
-    <field name="publisher">Weida</field>
+    <field name="publishers">Weida</field>
     <field name="year">1588</field>
     <field name="subjects">Astronomie</field>
     <field name="mediaType">Book</field>
@@ -1503,7 +1503,7 @@
     <field name="author">Brahe, Tycho#118514237</field>
     <field name="place_1">Uraniborg</field>
     <field name="coordinates_place_1">55.9,12.7</field>
-    <field name="publisher">Brahe</field>
+    <field name="publishers">Brahe</field>
     <field name="year">1596</field>
     <field name="subjects">Astronomie</field>
     <field name="mediaType">Book</field>
@@ -1532,7 +1532,7 @@
     <field name="author">Brahe, Tycho#118514237</field>
     <field name="place_1">Uraniborg</field>
     <field name="coordinates_place_1">55.9,12.7</field>
-    <field name="publisher">Tampach</field>
+    <field name="publishers">Tampach</field>
     <field name="year">1610</field>
     <field name="subjects">Astronomie</field>
     <field name="mediaType">Book</field>
@@ -1561,7 +1561,7 @@
     <field name="author">Brasavola, Girolamo#100053793</field>
     <field name="place_1">Ferrara</field>
     <field name="coordinates_place_1">44.83804,11.62057</field>
-    <field name="publisher">Mamarellum</field>
+    <field name="publishers">Mamarellum</field>
     <field name="year">1590</field>
     <field name="subjects">Medizin</field>
     <field name="mediaType">Book</field>
@@ -1590,7 +1590,7 @@
     <field name="author">Brunschwig, Hieronymus#119238217</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Bassée, Nicolas</field>
+    <field name="publishers">Bassée, Nicolas</field>
     <field name="year">1580</field>
     <field name="subjects">Pharmazie</field>
     <field name="mediaType">Book</field>
@@ -1622,7 +1622,7 @@
     <field name="author">Bright, Timothie#119350386</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Wechel</field>
+    <field name="publishers">Wechel</field>
     <field name="year">1598</field>
     <field name="subjects">Therapeutik</field>
     <field name="mediaType">Book</field>
@@ -1654,7 +1654,7 @@
     <field name="author">Bright, Timothie#119350386</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Paltheniana</field>
+    <field name="publishers">Paltheniana</field>
     <field name="year">1598</field>
     <field name="subjects">Diätetik</field>
     <field name="mediaType">Book</field>
@@ -1683,7 +1683,7 @@
     <field name="author">Bright, Timothie#119350386</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Wechel</field>
+    <field name="publishers">Wechel</field>
     <field name="year">1588</field>
     <field name="subjects">Diätetik</field>
     <field name="mediaType">Book</field>
@@ -1715,7 +1715,7 @@
     <field name="author">Bright, Timothie#119350386</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Wechel</field>
+    <field name="publishers">Wechel</field>
     <field name="year">1589</field>
     <field name="subjects">Therapeutik</field>
     <field name="mediaType">Book</field>
@@ -1744,7 +1744,7 @@
     <field name="author">Brucaeus, Heinrich#128649127</field>
     <field name="place_1">Rostock</field>
     <field name="coordinates_place_1">54.0887,12.14049</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1575</field>
     <field name="subjects">Mathematik</field>
     <field name="mediaType">Book</field>
@@ -1776,7 +1776,7 @@
     <field name="author">Brucaeus, Heinrich#128649127</field>
     <field name="place_1">Rostock</field>
     <field name="coordinates_place_1">54.0887,12.14049</field>
-    <field name="publisher">Myliander</field>
+    <field name="publishers">Myliander</field>
     <field name="year">1589</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -1808,7 +1808,7 @@
     <field name="author">Brucaeus, Heinrich#128649127</field>
     <field name="place_1">Rostock</field>
     <field name="coordinates_place_1">54.0887,12.14049</field>
-    <field name="publisher">Myliander</field>
+    <field name="publishers">Myliander</field>
     <field name="year">1587</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -1840,7 +1840,7 @@
     <field name="author">Brucaeus, Heinrich#128649127</field>
     <field name="place_1">Rostock</field>
     <field name="coordinates_place_1">54.0887,12.14049</field>
-    <field name="publisher">Myliander</field>
+    <field name="publishers">Myliander</field>
     <field name="year">1589</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -1869,7 +1869,7 @@
     <field name="author">Bruele, Gualtherus#172853109</field>
     <field name="place_1">Antwerpen</field>
     <field name="coordinates_place_1">51.21989,4.40346</field>
-    <field name="publisher">Plantin</field>
+    <field name="publishers">Plantin</field>
     <field name="year">1579</field>
     <field name="subjects">Medizin</field>
     <field name="mediaType">Book</field>
@@ -1898,7 +1898,7 @@
     <field name="author">Bruyerin, Jean-Baptiste#124549373</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Paltheniana</field>
+    <field name="publishers">Paltheniana</field>
     <field name="year">1600</field>
     <field name="subjects">Diätetik</field>
     <field name="mediaType">Book</field>
@@ -1927,7 +1927,7 @@
     <field name="author">Caesar, Gaius Iulius#118518275</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Wechel</field>
+    <field name="publishers">Wechel</field>
     <field name="year">1584</field>
     <field name="subjects">Geschichte</field>
     <field name="mediaType">Book</field>
@@ -1956,7 +1956,7 @@
     <field name="author">Camerarius, Elias#119635690</field>
     <field name="place_1">Frankfurt an der Oder</field>
     <field name="coordinates_place_1">52.34714,14.55062</field>
-    <field name="publisher">Eichorn</field>
+    <field name="publishers">Eichorn</field>
     <field name="year">1573</field>
     <field name="subjects">Astronomie</field>
     <field name="mediaType">Book</field>
@@ -1985,7 +1985,7 @@
     <field name="author">Camerarius, Joachim 1534-1598#119101459</field>
     <field name="place_1">Nürnberg</field>
     <field name="coordinates_place_1">49.45421,11.07752</field>
-    <field name="publisher">Gerlachin</field>
+    <field name="publishers">Gerlachin</field>
     <field name="year">1583</field>
     <field name="subjects">Epidemiologie</field>
     <field name="mediaType">Book</field>
@@ -2014,7 +2014,7 @@
     <field name="author">Caminaeus, Balthasar#128981512</field>
     <field name="place_1">Frankfurt an der Oder</field>
     <field name="coordinates_place_1">52.34714,14.55062</field>
-    <field name="publisher">Hartman</field>
+    <field name="publishers">Hartman</field>
     <field name="year">1598</field>
     <field name="subjects">Politik</field>
     <field name="mediaType">Book</field>
@@ -2043,7 +2043,7 @@
     <field name="author">Caminaeus, Balthasar#128981512</field>
     <field name="place_1">Frankfurt an der Oder</field>
     <field name="coordinates_place_1">52.34714,14.55062</field>
-    <field name="publisher">[s. n.]</field>
+    <field name="publishers">[s. n.]</field>
     <field name="year">1590</field>
     <field name="subjects">Gelegenheitsschrift</field>
     <field name="mediaType">Book</field>
@@ -2072,7 +2072,7 @@
     <field name="author">Champier, Claude#119639785</field>
     <field name="place_1">Lyon</field>
     <field name="coordinates_place_1">45.74846,4.84671</field>
-    <field name="publisher">Ranot</field>
+    <field name="publishers">Ranot</field>
     <field name="year">1579</field>
     <field name="subjects">Antike Medizin</field>
     <field name="mediaType">Book</field>
@@ -2101,7 +2101,7 @@
     <field name="author">Capivaccio, Girolamo#124537359</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Fischer</field>
+    <field name="publishers">Fischer</field>
     <field name="year">1594</field>
     <field name="subjects">Medizin</field>
     <field name="mediaType">Book</field>
@@ -2130,7 +2130,7 @@
     <field name="author">Capivaccio, Girolamo#124537359</field>
     <field name="place_1">Zerbst</field>
     <field name="coordinates_place_1">51.9662,12.08517</field>
-    <field name="publisher">Faber</field>
+    <field name="publishers">Faber</field>
     <field name="year">1595</field>
     <field name="subjects">Diagnostik</field>
     <field name="mediaType">Book</field>
@@ -2159,7 +2159,7 @@
     <field name="author">Cardano, Geronimo#11863822X</field>
     <field name="place_1">Venedig</field>
     <field name="coordinates_place_1">45.43713,12.33265</field>
-    <field name="publisher">Scotus</field>
+    <field name="publishers">Scotus</field>
     <field name="year">1545</field>
     <field name="subjects">Medizin</field>
     <field name="mediaType">Book</field>
@@ -2188,7 +2188,7 @@
     <field name="author">Cardano, Geronimo#11863822X</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Henricpetri</field>
+    <field name="publishers">Henricpetri</field>
     <field name="year">1566</field>
     <field name="subjects">Therapeutik</field>
     <field name="mediaType">Book</field>
@@ -2217,7 +2217,7 @@
     <field name="author">Carion, Johannes#119026376</field>
     <field name="place_1">Venedig</field>
     <field name="coordinates_place_1">45.43713,12.33265</field>
-    <field name="publisher">Valgris</field>
+    <field name="publishers">Valgris</field>
     <field name="year">1553</field>
     <field name="subjects">Geschichte</field>
     <field name="mediaType">Book</field>
@@ -2249,7 +2249,7 @@
     <field name="author">Carrichter, Bartholomaeus#124534473</field>
     <field name="place_1">Straßburg</field>
     <field name="coordinates_place_1">48.58392,7.74553</field>
-    <field name="publisher">Bertram</field>
+    <field name="publishers">Bertram</field>
     <field name="year">1589</field>
     <field name="subjects">Pharmazie</field>
     <field name="mediaType">Book</field>
@@ -2281,7 +2281,7 @@
     <field name="author">Carrichter, Bartholomaeus#124534473</field>
     <field name="place_1">Straßburg</field>
     <field name="coordinates_place_1">48.58392,7.74553</field>
-    <field name="publisher">Bertram</field>
+    <field name="publishers">Bertram</field>
     <field name="year">1590</field>
     <field name="subjects">Medizin</field>
     <field name="mediaType">Book</field>
@@ -2310,7 +2310,7 @@
     <field name="author">Caselius, Johannes#116118547</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1598</field>
     <field name="subjects">Gelegenheitsschrift</field>
     <field name="mediaType">Book</field>
@@ -2342,7 +2342,7 @@
     <field name="author">Caselius, Johannes#116118547</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1598</field>
     <field name="subjects">Gelegenheitsschrift</field>
     <field name="mediaType">Book</field>
@@ -2374,7 +2374,7 @@
     <field name="author">Caselius, Johannes#116118547</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1599</field>
     <field name="subjects">Gelegenheitsschrift</field>
     <field name="mediaType">Book</field>
@@ -2406,7 +2406,7 @@
     <field name="author">Caselius, Johannes#116118547</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1600</field>
     <field name="subjects">Gelegenheitsschrift</field>
     <field name="mediaType">Book</field>
@@ -2438,7 +2438,7 @@
     <field name="author">Caselius, Johannes#116118547</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1600</field>
     <field name="subjects">Gelegenheitsschrift</field>
     <field name="mediaType">Book</field>
@@ -2470,7 +2470,7 @@
     <field name="author">Caselius, Johannes#116118547</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1600</field>
     <field name="subjects">Politik</field>
     <field name="mediaType">Book</field>
@@ -2502,7 +2502,7 @@
     <field name="author">Caselius, Johannes#116118547</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1601</field>
     <field name="subjects">Politik</field>
     <field name="mediaType">Book</field>
@@ -2534,7 +2534,7 @@
     <field name="author">Caselius, Johannes#116118547</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1602</field>
     <field name="subjects">Gelegenheitsschrift</field>
     <field name="mediaType">Book</field>
@@ -2566,7 +2566,7 @@
     <field name="author">Caselius, Johannes#116118547</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1602</field>
     <field name="subjects">Politik</field>
     <field name="mediaType">Book</field>
@@ -2598,7 +2598,7 @@
     <field name="author">Caselius, Johannes#116118547</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1602</field>
     <field name="subjects">Gelegenheitsschrift</field>
     <field name="mediaType">Book</field>
@@ -2630,7 +2630,7 @@
     <field name="author">Caselius, Johannes#116118547</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1603</field>
     <field name="subjects">Gelegenheitsschrift</field>
     <field name="mediaType">Book</field>
@@ -2662,7 +2662,7 @@
     <field name="author">Caselius, Johannes#116118547</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1603</field>
     <field name="subjects">Gelegenheitsschrift</field>
     <field name="mediaType">Book</field>
@@ -2691,7 +2691,7 @@
     <field name="author">Caselius, Johannes#116118547</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1594</field>
     <field name="subjects">Gelegenheitsschrift</field>
     <field name="mediaType">Book</field>
@@ -2723,7 +2723,7 @@
     <field name="author">Caselius, Johannes#116118547</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1596</field>
     <field name="subjects">Gelegenheitsschrift</field>
     <field name="mediaType">Book</field>
@@ -2755,7 +2755,7 @@
     <field name="author">Caselius, Johannes#116118547</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1596</field>
     <field name="subjects">Rhetorik</field>
     <field name="mediaType">Book</field>
@@ -2787,7 +2787,7 @@
     <field name="author">Caselius, Johannes#116118547</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1597</field>
     <field name="subjects">Gelegenheitsschrift</field>
     <field name="mediaType">Book</field>
@@ -2819,7 +2819,7 @@
     <field name="author">Caselius, Johannes#116118547</field>
     <field name="place_1">Rostock</field>
     <field name="coordinates_place_1">54.0887,12.14049</field>
-    <field name="publisher">Myliander</field>
+    <field name="publishers">Myliander</field>
     <field name="year">1596</field>
     <field name="subjects">Gelegenheitsschrift</field>
     <field name="mediaType">Book</field>
@@ -2848,7 +2848,7 @@
     <field name="author">Caselius, Johannes#116118547</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">In Academia Julia</field>
+    <field name="publishers">In Academia Julia</field>
     <field name="year">1592</field>
     <field name="subjects">Gelegenheitsschrift</field>
     <field name="mediaType">Book</field>
@@ -2880,7 +2880,7 @@
     <field name="author">Caselius, Johannes#116118547</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">In Academia Julia</field>
+    <field name="publishers">In Academia Julia</field>
     <field name="year">1592</field>
     <field name="subjects">Politik</field>
     <field name="mediaType">Book</field>
@@ -2912,7 +2912,7 @@
     <field name="author">Caselius, Johannes#116118547</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">In Academia Julia</field>
+    <field name="publishers">In Academia Julia</field>
     <field name="year">1592</field>
     <field name="subjects">Gelegenheitsschrift</field>
     <field name="mediaType">Book</field>
@@ -2944,7 +2944,7 @@
     <field name="author">Caselius, Johannes#116118547</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">In Academia Julia</field>
+    <field name="publishers">In Academia Julia</field>
     <field name="year">1593</field>
     <field name="subjects">Gelegenheitsschrift</field>
     <field name="mediaType">Book</field>
@@ -2976,7 +2976,7 @@
     <field name="author">Caselius, Johannes#116118547</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1593</field>
     <field name="subjects">Gelegenheitsschrift</field>
     <field name="mediaType">Book</field>
@@ -3008,7 +3008,7 @@
     <field name="author">Caselius, Johannes#116118547</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1594</field>
     <field name="subjects">Gelegenheitsschrift</field>
     <field name="mediaType">Book</field>
@@ -3040,7 +3040,7 @@
     <field name="author">Caselius, Johannes#116118547</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1594</field>
     <field name="subjects">Gelegenheitsschrift</field>
     <field name="mediaType">Book</field>
@@ -3072,7 +3072,7 @@
     <field name="author">Caselius, Johannes#116118547</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">In Academia Julia</field>
+    <field name="publishers">In Academia Julia</field>
     <field name="year">1595</field>
     <field name="subjects">Gelegenheitsschrift</field>
     <field name="mediaType">Book</field>
@@ -3104,7 +3104,7 @@
     <field name="author">Caselius, Johannes#116118547</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1596</field>
     <field name="subjects">Gelegenheitsschrift</field>
     <field name="mediaType">Book</field>
@@ -3133,7 +3133,7 @@
     <field name="author">Castro, Rodericus a#124497012</field>
     <field name="place_1">Hamburg</field>
     <field name="coordinates_place_1">53.57532,10.01534</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1596</field>
     <field name="subjects">Epidemiologie</field>
     <field name="mediaType">Book</field>
@@ -3162,7 +3162,7 @@
     <field name="author">Cebes Philosophus#100076378</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1594</field>
     <field name="subjects">Philosophie</field>
     <field name="mediaType">Book</field>
@@ -3191,7 +3191,7 @@
     <field name="author">Cesalpino, Andrea#117668257</field>
     <field name="place_1">Nürnberg</field>
     <field name="coordinates_place_1">49.45421,11.07752</field>
-    <field name="publisher">Agricola</field>
+    <field name="publishers">Agricola</field>
     <field name="year">1602</field>
     <field name="subjects">Physik</field>
     <field name="mediaType">Book</field>
@@ -3220,7 +3220,7 @@
     <field name="author">Chaumette, Antoine#1022100882</field>
     <field name="place_1">Lyon</field>
     <field name="coordinates_place_1">45.74846,4.84671</field>
-    <field name="publisher">Lertout</field>
+    <field name="publishers">Lertout</field>
     <field name="year">1588</field>
     <field name="subjects">Chirurgie</field>
     <field name="mediaType">Book</field>
@@ -3249,7 +3249,7 @@
     <field name="author">Trincavelli, Vittore#119091232</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Oporinus</field>
+    <field name="publishers">Oporinus</field>
     <field name="year">1583</field>
     <field name="subjects">Medizin</field>
     <field name="mediaType">Book</field>
@@ -3281,7 +3281,7 @@
     <field name="author">Christmann, Jakob#124886760</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Paltheniana</field>
+    <field name="publishers">Paltheniana</field>
     <field name="year">1595</field>
     <field name="subjects">Mathematik</field>
     <field name="mediaType">Book</field>
@@ -3313,7 +3313,7 @@
     <field name="author">Christmann, Jakob#124886760</field>
     <field name="place_1">Heidelberg</field>
     <field name="coordinates_place_1">49.40768,8.69079</field>
-    <field name="publisher">Harnisch</field>
+    <field name="publishers">Harnisch</field>
     <field name="year">1591</field>
     <field name="subjects">Astronomie</field>
     <field name="mediaType">Book</field>
@@ -3342,7 +3342,7 @@
     <field name="author">Christmann, Jakob#124886760</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Zetzner</field>
+    <field name="publishers">Zetzner</field>
     <field name="year">1601</field>
     <field name="subjects">Astronomie</field>
     <field name="mediaType">Book</field>
@@ -3371,7 +3371,7 @@
     <field name="author">Chyträus, David#119009137</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1593</field>
     <field name="subjects">Geschichte</field>
     <field name="mediaType">Book</field>
@@ -3400,7 +3400,7 @@
     <field name="author">Chyträus, David#119009137</field>
     <field name="place_1">Rostock</field>
     <field name="coordinates_place_1">54.0887,12.14049</field>
-    <field name="publisher">Myliander</field>
+    <field name="publishers">Myliander</field>
     <field name="year">1590</field>
     <field name="subjects">Geschichte</field>
     <field name="mediaType">Book</field>
@@ -3429,7 +3429,7 @@
     <field name="author">Cicero, Marcus Tullius#118520814</field>
     <field name="place_1">Straßburg</field>
     <field name="coordinates_place_1">48.58392,7.74553</field>
-    <field name="publisher">Rihel</field>
+    <field name="publishers">Rihel</field>
     <field name="year">1541</field>
     <field name="subjects">Literatur</field>
     <field name="mediaType">Book</field>
@@ -3458,7 +3458,7 @@
     <field name="author">Cicero, Marcus Tullius#118520814</field>
     <field name="place_1">Straßburg</field>
     <field name="coordinates_place_1">48.58392,7.74553</field>
-    <field name="publisher">Rihel</field>
+    <field name="publishers">Rihel</field>
     <field name="year">1578</field>
     <field name="subjects">Rhetorik</field>
     <field name="mediaType">Book</field>
@@ -3487,7 +3487,7 @@
     <field name="author">Cicero, Marcus Tullius#118520814</field>
     <field name="place_1">Straßburg</field>
     <field name="coordinates_place_1">48.58392,7.74553</field>
-    <field name="publisher">Rihel</field>
+    <field name="publishers">Rihel</field>
     <field name="year">1583</field>
     <field name="subjects">Literatur</field>
     <field name="mediaType">Book</field>
@@ -3516,7 +3516,7 @@
     <field name="author">Cicero, Marcus Tullius#118520814</field>
     <field name="place_1">Straßburg</field>
     <field name="coordinates_place_1">48.58392,7.74553</field>
-    <field name="publisher">Rihel</field>
+    <field name="publishers">Rihel</field>
     <field name="year">1574</field>
     <field name="subjects">Philosophie</field>
     <field name="mediaType">Book</field>
@@ -3545,7 +3545,7 @@
     <field name="author">Cicero, Marcus Tullius#118520814</field>
     <field name="place_1">Straßburg</field>
     <field name="coordinates_place_1">48.58392,7.74553</field>
-    <field name="publisher">Rihel</field>
+    <field name="publishers">Rihel</field>
     <field name="year">1582</field>
     <field name="subjects">Philosophie</field>
     <field name="mediaType">Book</field>
@@ -3574,7 +3574,7 @@
     <field name="author">L'Ecluse, Charles de#118890646</field>
     <field name="place_1">Antwerpen</field>
     <field name="coordinates_place_1">51.21989,4.40346</field>
-    <field name="publisher">Plantin</field>
+    <field name="publishers">Plantin</field>
     <field name="year">1576</field>
     <field name="subjects">Geschichte</field>
     <field name="mediaType">Book</field>
@@ -3603,7 +3603,7 @@
     <field name="author">L'Ecluse, Charles de#118890646</field>
     <field name="place_1">Antwerpen</field>
     <field name="coordinates_place_1">51.21989,4.40346</field>
-    <field name="publisher">Plantin</field>
+    <field name="publishers">Plantin</field>
     <field name="year">1582</field>
     <field name="subjects">Pharmazie</field>
     <field name="mediaType">Book</field>
@@ -3632,7 +3632,7 @@
     <field name="author">Codronchius, Baptista#124764584</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Wechel</field>
+    <field name="publishers">Wechel</field>
     <field name="year">1597</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -3661,7 +3661,7 @@
     <field name="author">Columba, Gerardo#124549179</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Beati</field>
+    <field name="publishers">Beati</field>
     <field name="year">1601</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -3690,7 +3690,7 @@
     <field name="author">Colombo, Realdo#119341026</field>
     <field name="place_1">Paris</field>
     <field name="coordinates_place_1">48.85341,2.3488</field>
-    <field name="publisher">Wechel</field>
+    <field name="publishers">Wechel</field>
     <field name="year">1572</field>
     <field name="subjects">Anatomie</field>
     <field name="mediaType">Book</field>
@@ -3719,7 +3719,7 @@
     <field name="author">Contarini, Giovanni Pietro#104326034</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Perna</field>
+    <field name="publishers">Perna</field>
     <field name="year">1573</field>
     <field name="subjects">Geschichte</field>
     <field name="mediaType">Book</field>
@@ -3748,7 +3748,7 @@
     <field name="author">Kopernikus, Nikolaus#118565273</field>
     <field name="place_1">Nürnberg</field>
     <field name="coordinates_place_1">49.45421,11.07752</field>
-    <field name="publisher">Petreius</field>
+    <field name="publishers">Petreius</field>
     <field name="year">1543</field>
     <field name="subjects">Astronomie</field>
     <field name="mediaType">Book</field>
@@ -3777,7 +3777,7 @@
     <field name="author">Kopernikus, Nikolaus#118565273</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Petri</field>
+    <field name="publishers">Petri</field>
     <field name="year">1566</field>
     <field name="subjects">Astronomie</field>
     <field name="mediaType">Book</field>
@@ -3806,7 +3806,7 @@
     <field name="author">Costeo, Giovanni#133059588</field>
     <field name="place_1">Venedig</field>
     <field name="coordinates_place_1">45.43713,12.33265</field>
-    <field name="publisher">Meittum</field>
+    <field name="publishers">Meittum</field>
     <field name="year">1595</field>
     <field name="subjects">Medizin</field>
     <field name="mediaType">Book</field>
@@ -3835,7 +3835,7 @@
     <field name="author">Craig, John#13824426X</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Ostein</field>
+    <field name="publishers">Ostein</field>
     <field name="year">1580</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -3861,7 +3861,7 @@
     <field name="author">Crasso, Girolamo#100094147</field>
     <field name="place_1">Venedig</field>
     <field name="coordinates_place_1">45.43713,12.33265</field>
-    <field name="publisher">Ziletti</field>
+    <field name="publishers">Ziletti</field>
     <field name="year">1562</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -3890,7 +3890,7 @@
     <field name="author">Crato, Johannes#119440067</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Wechel</field>
+    <field name="publishers">Wechel</field>
     <field name="year">1591-1594</field>
     <field name="subjects">Consilia</field>
     <field name="mediaType">Book</field>
@@ -3919,7 +3919,7 @@
     <field name="author">Khunrath, Conrad#124521401</field>
     <field name="place_1">Schleswig</field>
     <field name="coordinates_place_1">54.52156,9.5586</field>
-    <field name="publisher">Wegener</field>
+    <field name="publishers">Wegener</field>
     <field name="year">1594</field>
     <field name="subjects">Pharmazie</field>
     <field name="mediaType">Book</field>
@@ -3948,7 +3948,7 @@
     <field name="author">Estienne, Henri#118862758</field>
     <field name="place_1">Genf</field>
     <field name="coordinates_place_1">46.20222,6.14569</field>
-    <field name="publisher">Laemarium</field>
+    <field name="publishers">Laemarium</field>
     <field name="year">1593</field>
     <field name="subjects">Literatur</field>
     <field name="mediaType">Book</field>
@@ -3977,7 +3977,7 @@
     <field name="author">Dio Chrysostomus#11867966X</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1600</field>
     <field name="subjects">Rhetorik</field>
     <field name="mediaType">Book</field>
@@ -4006,7 +4006,7 @@
     <field name="author">Dio Chrysostomus#11867966X</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1595</field>
     <field name="subjects">Rhetorik</field>
     <field name="mediaType">Book</field>
@@ -4035,7 +4035,7 @@
     <field name="author">Dioscorides, Pedanius#118843400</field>
     <field name="place_1">Lyon</field>
     <field name="coordinates_place_1">45.74846,4.84671</field>
-    <field name="publisher">Arnollet</field>
+    <field name="publishers">Arnollet</field>
     <field name="year">1550</field>
     <field name="subjects">Antike Medizin</field>
     <field name="mediaType">Book</field>
@@ -4067,7 +4067,7 @@
     <field name="author">Dodoens, Rembert#117646083</field>
     <field name="place_1">Antwerpen</field>
     <field name="coordinates_place_1">51.21989,4.40346</field>
-    <field name="publisher">Plantin</field>
+    <field name="publishers">Plantin</field>
     <field name="year">1568</field>
     <field name="subjects">Pharmazie</field>
     <field name="mediaType">Book</field>
@@ -4099,7 +4099,7 @@
     <field name="author">Dodoens, Rembert#117646083</field>
     <field name="place_1">Antwerpen</field>
     <field name="coordinates_place_1">51.21989,4.40346</field>
-    <field name="publisher">Plantin</field>
+    <field name="publishers">Plantin</field>
     <field name="year">1569</field>
     <field name="subjects">Pharmazie</field>
     <field name="mediaType">Book</field>
@@ -4128,7 +4128,7 @@
     <field name="author">Dodoens, Rembert#117646083</field>
     <field name="place_1">Antwerpen</field>
     <field name="coordinates_place_1">51.21989,4.40346</field>
-    <field name="publisher">Plantin</field>
+    <field name="publishers">Plantin</field>
     <field name="year">1574</field>
     <field name="subjects">Pharmazie</field>
     <field name="mediaType">Book</field>
@@ -4160,7 +4160,7 @@
     <field name="author">Dorn, Gerhard#12443794X</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Rab</field>
+    <field name="publishers">Rab</field>
     <field name="year">1583</field>
     <field name="subjects">Alchemie</field>
     <field name="mediaType">Book</field>
@@ -4192,7 +4192,7 @@
     <field name="author">Du Chesne, Joseph#124523072</field>
     <field name="place_1">Genf</field>
     <field name="coordinates_place_1">46.20222,6.14569</field>
-    <field name="publisher">Vignon</field>
+    <field name="publishers">Vignon</field>
     <field name="year">1603</field>
     <field name="subjects">Medizin</field>
     <field name="mediaType">Book</field>
@@ -4221,7 +4221,7 @@
     <field name="author">Du Chesne, Joseph#124523072</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Richter</field>
+    <field name="publishers">Richter</field>
     <field name="year">1605</field>
     <field name="subjects">Medizin</field>
     <field name="mediaType">Book</field>
@@ -4250,7 +4250,7 @@
     <field name="author">Du Pinet, Antoine#139220089</field>
     <field name="place_1">Lyon</field>
     <field name="coordinates_place_1">45.74846,4.84671</field>
-    <field name="publisher">Cotier</field>
+    <field name="publishers">Cotier</field>
     <field name="year">1561</field>
     <field name="subjects">Pharmazie</field>
     <field name="mediaType">Book</field>
@@ -4279,7 +4279,7 @@
     <field name="author">Epictetus#118530577</field>
     <field name="place_1">Straßburg</field>
     <field name="coordinates_place_1">48.58392,7.74553</field>
-    <field name="publisher">Rihel</field>
+    <field name="publishers">Rihel</field>
     <field name="year">1554</field>
     <field name="subjects">Philosophie</field>
     <field name="mediaType">Book</field>
@@ -4308,7 +4308,7 @@
     <field name="author">Erasmus, Desiderius#118530666</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Froben</field>
+    <field name="publishers">Froben</field>
     <field name="year">1558</field>
     <field name="subjects">Literatur</field>
     <field name="mediaType">Book</field>
@@ -4337,7 +4337,7 @@
     <field name="author">Erasmus, Desiderius#118530666</field>
     <field name="place_1">Köln</field>
     <field name="coordinates_place_1">50.93333,6.95</field>
-    <field name="publisher">Gymnich</field>
+    <field name="publishers">Gymnich</field>
     <field name="year">1551</field>
     <field name="subjects">Literatur</field>
     <field name="mediaType">Book</field>
@@ -4366,7 +4366,7 @@
     <field name="author">Erastus, Thomas#118685066</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Ostein</field>
+    <field name="publishers">Ostein</field>
     <field name="year">1580</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -4395,7 +4395,7 @@
     <field name="author">Euclides#118638955</field>
     <field name="place_1">Paris</field>
     <field name="coordinates_place_1">48.85341,2.3488</field>
-    <field name="publisher">Estienne</field>
+    <field name="publishers">Estienne</field>
     <field name="year">1516</field>
     <field name="subjects">Mathematik</field>
     <field name="mediaType">Book</field>
@@ -4424,7 +4424,7 @@
     <field name="author">Fabricius Hildanus, Wilhelm#118531751</field>
     <field name="place_1">Lyon</field>
     <field name="coordinates_place_1">45.74846,4.84671</field>
-    <field name="publisher">Cartier</field>
+    <field name="publishers">Cartier</field>
     <field name="year">1598</field>
     <field name="subjects">Chirurgie</field>
     <field name="mediaType">Book</field>
@@ -4453,7 +4453,7 @@
     <field name="author">Falloppio, Gabriele#117498564</field>
     <field name="place_1">Venedig</field>
     <field name="coordinates_place_1">45.43713,12.33265</field>
-    <field name="publisher">Bertelli</field>
+    <field name="publishers">Bertelli</field>
     <field name="year">1563</field>
     <field name="subjects">Medizin</field>
     <field name="mediaType">Book</field>
@@ -4482,7 +4482,7 @@
     <field name="author">Falloppio, Gabriele#117498564</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Wechel</field>
+    <field name="publishers">Wechel</field>
     <field name="year">1584</field>
     <field name="subjects">Medizin</field>
     <field name="mediaType">Book</field>
@@ -4514,7 +4514,7 @@
     <field name="author">Fernel, Jean#119220903</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Wechel</field>
+    <field name="publishers">Wechel</field>
     <field name="year">1581</field>
     <field name="subjects">Medizin</field>
     <field name="mediaType">Book</field>
@@ -4546,7 +4546,7 @@
     <field name="author">Fernel, Jean#119220903</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Wechel</field>
+    <field name="publishers">Wechel</field>
     <field name="year">1581</field>
     <field name="subjects">Medizin</field>
     <field name="mediaType">Book</field>
@@ -4575,7 +4575,7 @@
     <field name="author">Fernel, Jean#119220903</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Wechel</field>
+    <field name="publishers">Wechel</field>
     <field name="year">1593</field>
     <field name="subjects">Consilia</field>
     <field name="mediaType">Book</field>
@@ -4604,7 +4604,7 @@
     <field name="author">Fernel, Jean#119220903</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Wechel</field>
+    <field name="publishers">Wechel</field>
     <field name="year">1581</field>
     <field name="subjects">Therapeutik</field>
     <field name="mediaType">Book</field>
@@ -4633,7 +4633,7 @@
     <field name="author">Fernel, Jean#119220903</field>
     <field name="place_1">Lyon</field>
     <field name="coordinates_place_1">45.74846,4.84671</field>
-    <field name="publisher">Rouille</field>
+    <field name="publishers">Rouille</field>
     <field name="year">1549</field>
     <field name="subjects">Therapeutik</field>
     <field name="mediaType">Book</field>
@@ -4662,7 +4662,7 @@
     <field name="author">Ferrier, Auger#172908213</field>
     <field name="place_1">Lyon</field>
     <field name="coordinates_place_1">45.74846,4.84671</field>
-    <field name="publisher">Fabrius</field>
+    <field name="publishers">Fabrius</field>
     <field name="year">1602</field>
     <field name="subjects">Therapeutik</field>
     <field name="mediaType">Book</field>
@@ -4691,7 +4691,7 @@
     <field name="author">Ficinus, Marsilius#118532855</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Westemerum</field>
+    <field name="publishers">Westemerum</field>
     <field name="year">1541</field>
     <field name="subjects">Philosophie</field>
     <field name="mediaType">Book</field>
@@ -4720,7 +4720,7 @@
     <field name="author">Finck, Thomas#116514272</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Henripetri</field>
+    <field name="publishers">Henripetri</field>
     <field name="year">1583</field>
     <field name="subjects">Mathematik</field>
     <field name="mediaType">Book</field>
@@ -4749,7 +4749,7 @@
     <field name="author">Firmicus Maternus, Iulius#118683659</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Hervag</field>
+    <field name="publishers">Hervag</field>
     <field name="year">1533</field>
     <field name="subjects">Astronomie</field>
     <field name="mediaType">Book</field>
@@ -4778,7 +4778,7 @@
     <field name="author">Foreest, Pieter van#118994808</field>
     <field name="place_1">Leiden</field>
     <field name="coordinates_place_1">52.15833,4.49306</field>
-    <field name="publisher">Plantin</field>
+    <field name="publishers">Plantin</field>
     <field name="year">1603</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -4810,7 +4810,7 @@
     <field name="author">Foreest, Pieter van#118994808</field>
     <field name="place_1">Leiden</field>
     <field name="coordinates_place_1">52.15833,4.49306</field>
-    <field name="publisher">Plantin</field>
+    <field name="publishers">Plantin</field>
     <field name="year">1589</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -4842,7 +4842,7 @@
     <field name="author">Foreest, Pieter van#118994808</field>
     <field name="place_1">Leiden</field>
     <field name="coordinates_place_1">52.15833,4.49306</field>
-    <field name="publisher">Plantin</field>
+    <field name="publishers">Plantin</field>
     <field name="year">1589</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -4874,7 +4874,7 @@
     <field name="author">Foreest, Pieter van#118994808</field>
     <field name="place_1">Leiden</field>
     <field name="coordinates_place_1">52.15833,4.49306</field>
-    <field name="publisher">Plantin</field>
+    <field name="publishers">Plantin</field>
     <field name="year">1591</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -4906,7 +4906,7 @@
     <field name="author">Foreest, Pieter van#118994808</field>
     <field name="place_1">Leiden</field>
     <field name="coordinates_place_1">52.15833,4.49306</field>
-    <field name="publisher">Plantin</field>
+    <field name="publishers">Plantin</field>
     <field name="year">1591</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -4935,7 +4935,7 @@
     <field name="author">Foreest, Pieter van#118994808</field>
     <field name="place_1">Leiden</field>
     <field name="coordinates_place_1">52.15833,4.49306</field>
-    <field name="publisher">Plantin</field>
+    <field name="publishers">Plantin</field>
     <field name="year">1591</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -4967,7 +4967,7 @@
     <field name="author">Foreest, Pieter van#118994808</field>
     <field name="place_1">Leiden</field>
     <field name="coordinates_place_1">52.15833,4.49306</field>
-    <field name="publisher">Plantin</field>
+    <field name="publishers">Plantin</field>
     <field name="year">1593</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -4996,7 +4996,7 @@
     <field name="author">Foreest, Pieter van#118994808</field>
     <field name="place_1">Leiden</field>
     <field name="coordinates_place_1">52.15833,4.49306</field>
-    <field name="publisher">Plantin</field>
+    <field name="publishers">Plantin</field>
     <field name="year">1590</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -5025,7 +5025,7 @@
     <field name="author">Foullon, Abel#100815235</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Perna</field>
+    <field name="publishers">Perna</field>
     <field name="year">1577</field>
     <field name="subjects">Mathematik</field>
     <field name="mediaType">Book</field>
@@ -5054,7 +5054,7 @@
     <field name="author">Franzini, Girolamo#123614805</field>
     <field name="place_1">Rom</field>
     <field name="coordinates_place_1">41.89193,12.51133</field>
-    <field name="publisher">Blado</field>
+    <field name="publishers">Blado</field>
     <field name="year">1561</field>
     <field name="subjects">Geographie</field>
     <field name="mediaType">Book</field>
@@ -5080,7 +5080,7 @@
     <field name="author">Frenzel von Friedenthal, Salomon#100126030</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1597</field>
     <field name="subjects">Politik</field>
     <field name="mediaType">Book</field>
@@ -5109,7 +5109,7 @@
     <field name="author">Frenzel von Friedenthal, Salomon#100126030</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1594</field>
     <field name="subjects">Philosophie</field>
     <field name="mediaType">Book</field>
@@ -5138,7 +5138,7 @@
     <field name="author">Fuchs, Leonhart#119059487</field>
     <field name="place_1">Lyon</field>
     <field name="coordinates_place_1">45.74846,4.84671</field>
-    <field name="publisher">Frellon</field>
+    <field name="publishers">Frellon</field>
     <field name="year">1547</field>
     <field name="subjects">Medizin</field>
     <field name="mediaType">Book</field>
@@ -5167,7 +5167,7 @@
     <field name="author">Fuchs, Leonhart#119059487</field>
     <field name="place_1">Paris</field>
     <field name="coordinates_place_1">48.85341,2.3488</field>
-    <field name="publisher">Du Puys</field>
+    <field name="publishers">Du Puys</field>
     <field name="year">1550</field>
     <field name="subjects">Medizin</field>
     <field name="mediaType">Book</field>
@@ -5196,7 +5196,7 @@
     <field name="author">Sigfridus, Johannes#100407749</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1602</field>
     <field name="subjects">Gelegenheitsschrift</field>
     <field name="mediaType">Book</field>
@@ -5225,7 +5225,7 @@
     <field name="author">Gabuccini, Girolamo#100136532</field>
     <field name="place_1">Lyon</field>
     <field name="coordinates_place_1">45.74846,4.84671</field>
-    <field name="publisher">Rouille</field>
+    <field name="publishers">Rouille</field>
     <field name="year">1549</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -5254,7 +5254,7 @@
     <field name="author">Monte, Giovanni Battista da#128545720</field>
     <field name="place_1">Venedig</field>
     <field name="coordinates_place_1">45.43713,12.33265</field>
-    <field name="publisher">Constantinus</field>
+    <field name="publishers">Constantinus</field>
     <field name="year">1554</field>
     <field name="subjects">Antike Medizin</field>
     <field name="mediaType">Book</field>
@@ -5283,7 +5283,7 @@
     <field name="author">Galenus#118537202</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Lasius</field>
+    <field name="publishers">Lasius</field>
     <field name="year">1538-1539</field>
     <field name="subjects">Antike Medizin</field>
     <field name="mediaType">Book</field>
@@ -5312,7 +5312,7 @@
     <field name="author">Galenus#118537202</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Westemer</field>
+    <field name="publishers">Westemer</field>
     <field name="year">1541</field>
     <field name="subjects">Antike Medizin</field>
     <field name="mediaType">Book</field>
@@ -5344,7 +5344,7 @@
     <field name="author">Galenus#118537202</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1592</field>
     <field name="subjects">Antike Medizin</field>
     <field name="mediaType">Book</field>
@@ -5376,7 +5376,7 @@
     <field name="author">Galenus#118537202</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1596</field>
     <field name="subjects">Antike Medizin</field>
     <field name="mediaType">Book</field>
@@ -5405,7 +5405,7 @@
     <field name="author">Galenus#118537202</field>
     <field name="place_1">Venedig</field>
     <field name="coordinates_place_1">45.43713,12.33265</field>
-    <field name="publisher">Scotus</field>
+    <field name="publishers">Scotus</field>
     <field name="year">1548</field>
     <field name="subjects">Antike Medizin</field>
     <field name="mediaType">Book</field>
@@ -5434,7 +5434,7 @@
     <field name="author">Galenus#118537202</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Froben</field>
+    <field name="publishers">Froben</field>
     <field name="year">1561-1562</field>
     <field name="subjects">Antike Medizin</field>
     <field name="mediaType">Book</field>
@@ -5463,7 +5463,7 @@
     <field name="author">Galenus#118537202</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Episcopius</field>
+    <field name="publishers">Episcopius</field>
     <field name="year">1568</field>
     <field name="subjects">Antike Medizin</field>
     <field name="mediaType">Book</field>
@@ -5492,7 +5492,7 @@
     <field name="author">Garet, Henri#119681447</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Wechel</field>
+    <field name="publishers">Wechel</field>
     <field name="year">1592</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -5521,7 +5521,7 @@
     <field name="author">Gellius, Aulus#174132174</field>
     <field name="place_1">Köln</field>
     <field name="coordinates_place_1">50.93333,6.95</field>
-    <field name="publisher">Gymnich</field>
+    <field name="publishers">Gymnich</field>
     <field name="year">1537</field>
     <field name="subjects">Rhetorik</field>
     <field name="mediaType">Book</field>
@@ -5550,7 +5550,7 @@
     <field name="author">Gemma Frisius, Rainer#111548993</field>
     <field name="place_1">Antwerpen</field>
     <field name="coordinates_place_1">51.21989,4.40346</field>
-    <field name="publisher">Bontiou</field>
+    <field name="publishers">Bontiou</field>
     <field name="year">1545</field>
     <field name="subjects">Astronomie</field>
     <field name="mediaType">Book</field>
@@ -5579,7 +5579,7 @@
     <field name="author">Gessner, Conrad#118694413</field>
     <field name="place_1">Zürich</field>
     <field name="coordinates_place_1">47.36667,8.55</field>
-    <field name="publisher">Frosch</field>
+    <field name="publishers">Frosch</field>
     <field name="year">1577</field>
     <field name="subjects">Consilia</field>
     <field name="mediaType">Book</field>
@@ -5608,7 +5608,7 @@
     <field name="author">Gessner, Conrad#118694413</field>
     <field name="place_1">Zürich</field>
     <field name="coordinates_place_1">47.36667,8.55</field>
-    <field name="publisher">Gesner</field>
+    <field name="publishers">Gesner</field>
     <field name="year">1556</field>
     <field name="subjects">Diätetik</field>
     <field name="mediaType">Book</field>
@@ -5637,7 +5637,7 @@
     <field name="author">Giachini, Leonardo#100288286</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Perna</field>
+    <field name="publishers">Perna</field>
     <field name="year">1564</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -5666,7 +5666,7 @@
     <field name="author">Giovio, Paolo#118958682</field>
     <field name="place_1">Straßburg</field>
     <field name="coordinates_place_1">48.58392,7.74553</field>
-    <field name="publisher">Frisius</field>
+    <field name="publishers">Frisius</field>
     <field name="year">1555-1556</field>
     <field name="subjects">Geschichte</field>
     <field name="mediaType">Book</field>
@@ -5695,7 +5695,7 @@
     <field name="author">Goclenius, Rudolph#119396181</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Wechel</field>
+    <field name="publishers">Wechel</field>
     <field name="year">1593</field>
     <field name="subjects">Physik</field>
     <field name="mediaType">Book</field>
@@ -5724,7 +5724,7 @@
     <field name="author">Guilelmus Varignana#100944639</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Henricpetri</field>
+    <field name="publishers">Henricpetri</field>
     <field name="year">1597</field>
     <field name="subjects">Therapeutik</field>
     <field name="mediaType">Book</field>
@@ -5753,7 +5753,7 @@
     <field name="author">Hájek z Hájku, Tadeá#123435919</field>
     <field name="place_1">Görlitz</field>
     <field name="coordinates_place_1">51.15518,14.98853</field>
-    <field name="publisher">Fritsch</field>
+    <field name="publishers">Fritsch</field>
     <field name="year">1580</field>
     <field name="subjects">Physik</field>
     <field name="mediaType">Book</field>
@@ -5782,7 +5782,7 @@
     <field name="author">Hájek z Hájku, Tadeá#123435919</field>
     <field name="place_1">Görlitz</field>
     <field name="coordinates_place_1">51.15518,14.98853</field>
-    <field name="publisher">Fritsch</field>
+    <field name="publishers">Fritsch</field>
     <field name="year">1591</field>
     <field name="subjects">Physik</field>
     <field name="mediaType">Book</field>
@@ -5811,7 +5811,7 @@
     <field name="author">Ibn-al-Haitam, al-Ḥasan Ibn-al-Ḥasan#118648160</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Episciopus</field>
+    <field name="publishers">Episciopus</field>
     <field name="year">1572</field>
     <field name="subjects">Physik</field>
     <field name="mediaType">Book</field>
@@ -5840,7 +5840,7 @@
     <field name="author">Havenreuter, Johann Ludwig#116550473</field>
     <field name="place_1">Straßburg</field>
     <field name="coordinates_place_1">48.58392,7.74553</field>
-    <field name="publisher">Bertram</field>
+    <field name="publishers">Bertram</field>
     <field name="year">1590</field>
     <field name="subjects">Physik</field>
     <field name="mediaType">Book</field>
@@ -5869,7 +5869,7 @@
     <field name="author">Universität Helmstedt / Medizinische Fakultät#6016963-1</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1597</field>
     <field name="subjects">Epidemiologie</field>
     <field name="mediaType">Book</field>
@@ -5898,7 +5898,7 @@
     <field name="author">Helwig, Andreas#12481476X</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Ostein</field>
+    <field name="publishers">Ostein</field>
     <field name="year">1587</field>
     <field name="subjects">Diagnostik</field>
     <field name="mediaType">Book</field>
@@ -5930,7 +5930,7 @@
     <field name="author">Heurne, Johan van#119011832</field>
     <field name="place_1">Leiden</field>
     <field name="coordinates_place_1">52.15833,4.49306</field>
-    <field name="publisher">Plantin</field>
+    <field name="publishers">Plantin</field>
     <field name="year">1598</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -5962,7 +5962,7 @@
     <field name="author">Heurne, Johan van#119011832</field>
     <field name="place_1">Leiden</field>
     <field name="coordinates_place_1">52.15833,4.49306</field>
-    <field name="publisher">Plantin</field>
+    <field name="publishers">Plantin</field>
     <field name="year">1600</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -5994,7 +5994,7 @@
     <field name="author">Heurne, Johan van#119011832</field>
     <field name="place_1">Leiden</field>
     <field name="coordinates_place_1">52.15833,4.49306</field>
-    <field name="publisher">Plantin</field>
+    <field name="publishers">Plantin</field>
     <field name="year">1602</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -6026,7 +6026,7 @@
     <field name="author">Heurne, Johan van#119011832</field>
     <field name="place_1">Leiden</field>
     <field name="coordinates_place_1">52.15833,4.49306</field>
-    <field name="publisher">Plantin</field>
+    <field name="publishers">Plantin</field>
     <field name="year">1602</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -6055,7 +6055,7 @@
     <field name="author">Heurne, Johan van#119011832</field>
     <field name="place_1">Leiden</field>
     <field name="coordinates_place_1">52.15833,4.49306</field>
-    <field name="publisher">Plantin</field>
+    <field name="publishers">Plantin</field>
     <field name="year">1590</field>
     <field name="subjects">Therapeutik</field>
     <field name="mediaType">Book</field>
@@ -6084,7 +6084,7 @@
     <field name="author">Heurne, Johan van#119011832</field>
     <field name="place_1">Leiden</field>
     <field name="coordinates_place_1">52.15833,4.49306</field>
-    <field name="publisher">Plantin</field>
+    <field name="publishers">Plantin</field>
     <field name="year">1594</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -6113,7 +6113,7 @@
     <field name="author">Houllier, Jacques#100975429</field>
     <field name="place_1">Leipzig</field>
     <field name="coordinates_place_1">51.33962,12.37129</field>
-    <field name="publisher">Osthaus</field>
+    <field name="publishers">Osthaus</field>
     <field name="year">1597</field>
     <field name="subjects">Antike Medizin</field>
     <field name="mediaType">Book</field>
@@ -6142,7 +6142,7 @@
     <field name="author">Hippocrates#11855140X</field>
     <field name="place_1">Lyon</field>
     <field name="coordinates_place_1">45.74846,4.84671</field>
-    <field name="publisher">Tornaesius</field>
+    <field name="publishers">Tornaesius</field>
     <field name="year">1580</field>
     <field name="subjects">Antike Medizin</field>
     <field name="mediaType">Book</field>
@@ -6171,7 +6171,7 @@
     <field name="author">Hippocrates#11855140X</field>
     <field name="place_1">Lyon</field>
     <field name="coordinates_place_1">45.74846,4.84671</field>
-    <field name="publisher">Beringos</field>
+    <field name="publishers">Beringos</field>
     <field name="year">1551</field>
     <field name="subjects">Antike Medizin</field>
     <field name="mediaType">Book</field>
@@ -6200,7 +6200,7 @@
     <field name="author">Hippolytus Romanus#118551418</field>
     <field name="place_1">Leiden</field>
     <field name="coordinates_place_1">52.15833,4.49306</field>
-    <field name="publisher">Plantin</field>
+    <field name="publishers">Plantin</field>
     <field name="year">1595</field>
     <field name="subjects">Mathematik</field>
     <field name="mediaType">Book</field>
@@ -6229,7 +6229,7 @@
     <field name="author">Hollandus, Johan Isaac#129564311</field>
     <field name="place_1">Middelburg</field>
     <field name="coordinates_place_1">51.5,3.61389</field>
-    <field name="publisher">Schilders</field>
+    <field name="publishers">Schilders</field>
     <field name="year">1600</field>
     <field name="subjects">Alchemie</field>
     <field name="mediaType">Book</field>
@@ -6258,7 +6258,7 @@
     <field name="author">Hunnich, Christoph#104375299</field>
     <field name="place_1">Leipzig</field>
     <field name="coordinates_place_1">51.33962,12.37129</field>
-    <field name="publisher">Lamberg</field>
+    <field name="publishers">Lamberg</field>
     <field name="year">1593</field>
     <field name="subjects">Mathematik</field>
     <field name="mediaType">Book</field>
@@ -6287,7 +6287,7 @@
     <field name="author">Iamblichus Chalcidensis#118555154</field>
     <field name="place_1">Lyon</field>
     <field name="coordinates_place_1">45.74846,4.84671</field>
-    <field name="publisher">Tournes</field>
+    <field name="publishers">Tournes</field>
     <field name="year">1577</field>
     <field name="subjects">Philosophie</field>
     <field name="mediaType">Book</field>
@@ -6316,7 +6316,7 @@
     <field name="author">Indagine, Johannes ab#100976093</field>
     <field name="place_1">Straßburg</field>
     <field name="coordinates_place_1">48.58392,7.74553</field>
-    <field name="publisher">Schultum</field>
+    <field name="publishers">Schultum</field>
     <field name="year">1534</field>
     <field name="subjects">Astronomie</field>
     <field name="mediaType">Book</field>
@@ -6345,7 +6345,7 @@
     <field name="author">Ğābir Ibn-Ḥaiyān#11886Ğ4718</field>
     <field name="place_1">Straßburg</field>
     <field name="coordinates_place_1">48.58392,7.74553</field>
-    <field name="publisher">Zetzner</field>
+    <field name="publishers">Zetzner</field>
     <field name="year">1599</field>
     <field name="subjects">Alchemie</field>
     <field name="mediaType">Book</field>
@@ -6371,7 +6371,7 @@
     <field name="author">Johannes de Rupescissa, OFM#118875256</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Waldkirch</field>
+    <field name="publishers">Waldkirch</field>
     <field name="year">1597</field>
     <field name="subjects">Alchemie</field>
     <field name="mediaType">Book</field>
@@ -6400,7 +6400,7 @@
     <field name="author">Johannes Zacharias Actuarius#100948251</field>
     <field name="place_1">Paris</field>
     <field name="coordinates_place_1">48.85341,2.3488</field>
-    <field name="publisher">Turrisan</field>
+    <field name="publishers">Turrisan</field>
     <field name="year">1556</field>
     <field name="subjects">Physik</field>
     <field name="mediaType">Book</field>
@@ -6432,7 +6432,7 @@
     <field name="author">Johannes Chrysostomus#118557831</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1600</field>
     <field name="subjects">Theologie</field>
     <field name="mediaType">Book</field>
@@ -6464,7 +6464,7 @@
     <field name="author">Johannes Chrysostomus#118557831</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1601</field>
     <field name="subjects">Theologie</field>
     <field name="mediaType">Book</field>
@@ -6493,7 +6493,7 @@
     <field name="author">Johannes de Gadesden#100949584</field>
     <field name="place_1">Augsburg</field>
     <field name="coordinates_place_1">48.37154,10.89851</field>
-    <field name="publisher">Manger</field>
+    <field name="publishers">Manger</field>
     <field name="year">1593</field>
     <field name="subjects">Medizin</field>
     <field name="mediaType">Book</field>
@@ -6519,7 +6519,7 @@
     <field name="author">Jordán, Tamás#124891004</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Wechel</field>
+    <field name="publishers">Wechel</field>
     <field name="year">1580</field>
     <field name="subjects">Epidemiologie</field>
     <field name="mediaType">Book</field>
@@ -6549,7 +6549,7 @@
     <field name="author">Obel, Matthias de#124418392</field>
     <field name="place_1">Antwerpen</field>
     <field name="coordinates_place_1">51.21989,4.40346</field>
-    <field name="publisher">Plantin</field>
+    <field name="publishers">Plantin</field>
     <field name="year">1591</field>
     <field name="subjects">Physik</field>
     <field name="mediaType">Book</field>
@@ -6583,7 +6583,7 @@
     <field name="author">Lange, Johann#104270314</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Wechel</field>
+    <field name="publishers">Wechel</field>
     <field name="year">1589</field>
     <field name="subjects">Consilia</field>
     <field name="mediaType">Book</field>
@@ -6612,7 +6612,7 @@
     <field name="author">Lansbergen, Philips van#116730803</field>
     <field name="place_1">Leiden</field>
     <field name="coordinates_place_1">52.15833,4.49306</field>
-    <field name="publisher">Plantin</field>
+    <field name="publishers">Plantin</field>
     <field name="year">1591</field>
     <field name="subjects">Mathematik</field>
     <field name="mediaType">Book</field>
@@ -6641,7 +6641,7 @@
     <field name="author">Lavater, Ludwig#100182747</field>
     <field name="place_1">Genf</field>
     <field name="coordinates_place_1">46.20222,6.14569</field>
-    <field name="publisher">Crispin</field>
+    <field name="publishers">Crispin</field>
     <field name="year">1570</field>
     <field name="subjects">Physik</field>
     <field name="mediaType">Book</field>
@@ -6670,7 +6670,7 @@
     <field name="author">Le Paulmier, Julien#124553265</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Marnium</field>
+    <field name="publishers">Marnium</field>
     <field name="year">1601</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -6699,7 +6699,7 @@
     <field name="author">Lecocq, Pascal#100993664</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Waldkirch</field>
+    <field name="publishers">Waldkirch</field>
     <field name="year">1590</field>
     <field name="subjects">Medizin</field>
     <field name="mediaType">Book</field>
@@ -6728,7 +6728,7 @@
     <field name="author">Lemnius, Levinus#129744638</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Wechel</field>
+    <field name="publishers">Wechel</field>
     <field name="year">1591</field>
     <field name="subjects">Theologie</field>
     <field name="mediaType">Book</field>
@@ -6757,7 +6757,7 @@
     <field name="author">Lemnius, Levinus#129744638</field>
     <field name="place_1">Antwerpen</field>
     <field name="coordinates_place_1">51.21989,4.40346</field>
-    <field name="publisher">Simonem</field>
+    <field name="publishers">Simonem</field>
     <field name="year">1566</field>
     <field name="subjects">Theologie</field>
     <field name="mediaType">Book</field>
@@ -6786,7 +6786,7 @@
     <field name="author">Leo VI., Imperium Byzantinum, Imperator#118901486</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Isingrin</field>
+    <field name="publishers">Isingrin</field>
     <field name="year">1554</field>
     <field name="subjects">Geschichte</field>
     <field name="mediaType">Book</field>
@@ -6818,7 +6818,7 @@
     <field name="author">Liddell, Duncan#117671622</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1593</field>
     <field name="subjects">Physik</field>
     <field name="mediaType">Book</field>
@@ -6850,7 +6850,7 @@
     <field name="author">Liddell, Duncan#117671622</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1598</field>
     <field name="subjects">Diagnostik</field>
     <field name="mediaType">Book</field>
@@ -6882,7 +6882,7 @@
     <field name="author">Liddell, Duncan#117671622</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1598</field>
     <field name="subjects">Medizin</field>
     <field name="mediaType">Book</field>
@@ -6914,7 +6914,7 @@
     <field name="author">Liddell, Duncan#117671622</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1598</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -6946,7 +6946,7 @@
     <field name="author">Liddell, Duncan#117671622</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1598</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -6978,7 +6978,7 @@
     <field name="author">Liddell, Duncan#117671622</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1598</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -7010,7 +7010,7 @@
     <field name="author">Liddell, Duncan#117671622</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1598</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -7042,7 +7042,7 @@
     <field name="author">Liddell, Duncan#117671622</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1598</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -7071,7 +7071,7 @@
     <field name="author">Liddell, Duncan#117671622</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1598</field>
     <field name="subjects">Therapeutik</field>
     <field name="mediaType">Book</field>
@@ -7103,7 +7103,7 @@
     <field name="author">Liddell, Duncan#117671622</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1598</field>
     <field name="subjects">Epidemiologie</field>
     <field name="mediaType">Book</field>
@@ -7135,7 +7135,7 @@
     <field name="author">Liddell, Duncan#117671622</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1601</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -7167,7 +7167,7 @@
     <field name="author">Liddell, Duncan#117671622</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1601</field>
     <field name="subjects">Therapeutik</field>
     <field name="mediaType">Book</field>
@@ -7199,7 +7199,7 @@
     <field name="author">Liddell, Duncan#117671622</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1601</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -7231,7 +7231,7 @@
     <field name="author">Liddell, Duncan#117671622</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1601</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -7263,7 +7263,7 @@
     <field name="author">Liddell, Duncan#117671622</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1601</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -7295,7 +7295,7 @@
     <field name="author">Liddell, Duncan#117671622</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1601</field>
     <field name="subjects">Pharmazie</field>
     <field name="mediaType">Book</field>
@@ -7327,7 +7327,7 @@
     <field name="author">Liddell, Duncan#117671622</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1601</field>
     <field name="subjects">Pharmazie</field>
     <field name="mediaType">Book</field>
@@ -7359,7 +7359,7 @@
     <field name="author">Liddell, Duncan#117671622</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1601</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -7391,7 +7391,7 @@
     <field name="author">Liddell, Duncan#117671622</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1602</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -7423,7 +7423,7 @@
     <field name="author">Liddell, Duncan#117671622</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1603</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -7452,7 +7452,7 @@
     <field name="author">Liddell, Duncan#117671622</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1597</field>
     <field name="subjects">Medizin</field>
     <field name="mediaType">Book</field>
@@ -7484,7 +7484,7 @@
     <field name="author">Liddell, Duncan#117671622</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1597</field>
     <field name="subjects">Physiologie</field>
     <field name="mediaType">Book</field>
@@ -7516,7 +7516,7 @@
     <field name="author">Liddell, Duncan#117671622</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1597</field>
     <field name="subjects">Physiologie</field>
     <field name="mediaType">Book</field>
@@ -7548,7 +7548,7 @@
     <field name="author">Liddell, Duncan#117671622</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1597</field>
     <field name="subjects">Physiologie</field>
     <field name="mediaType">Book</field>
@@ -7580,7 +7580,7 @@
     <field name="author">Liddell, Duncan#117671622</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1597</field>
     <field name="subjects">Physik</field>
     <field name="mediaType">Book</field>
@@ -7612,7 +7612,7 @@
     <field name="author">Liddell, Duncan#117671622</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1597</field>
     <field name="subjects">Physik</field>
     <field name="mediaType">Book</field>
@@ -7644,7 +7644,7 @@
     <field name="author">Liddell, Duncan#117671622</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1597</field>
     <field name="subjects">Physik</field>
     <field name="mediaType">Book</field>
@@ -7676,7 +7676,7 @@
     <field name="author">Liddell, Duncan#117671622</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1597</field>
     <field name="subjects">Physik</field>
     <field name="mediaType">Book</field>
@@ -7708,7 +7708,7 @@
     <field name="author">Liddell, Duncan#117671622</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1597</field>
     <field name="subjects">Physik</field>
     <field name="mediaType">Book</field>
@@ -7740,7 +7740,7 @@
     <field name="author">Liddell, Duncan#117671622</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1597</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -7772,7 +7772,7 @@
     <field name="author">Liddell, Duncan#117671622</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1597</field>
     <field name="subjects">Physik</field>
     <field name="mediaType">Book</field>
@@ -7804,7 +7804,7 @@
     <field name="author">Liddell, Duncan#117671622</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1598</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -7836,7 +7836,7 @@
     <field name="author">Liddell, Duncan#117671622</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1598</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -7868,7 +7868,7 @@
     <field name="author">Liddell, Duncan#117671622</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1598</field>
     <field name="subjects">Diagnostik</field>
     <field name="mediaType">Book</field>
@@ -7900,7 +7900,7 @@
     <field name="author">Liddell, Duncan#117671622</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1600</field>
     <field name="subjects">Physik</field>
     <field name="mediaType">Book</field>
@@ -7929,7 +7929,7 @@
     <field name="author">Liddell, Duncan#117671622</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1592</field>
     <field name="subjects">Philosophie</field>
     <field name="mediaType">Book</field>
@@ -7961,7 +7961,7 @@
     <field name="author">Liddell, Duncan#117671622</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1593</field>
     <field name="subjects">Physik</field>
     <field name="mediaType">Book</field>
@@ -7993,7 +7993,7 @@
     <field name="author">Liddell, Duncan#117671622</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1595</field>
     <field name="subjects">Physik</field>
     <field name="mediaType">Book</field>
@@ -8025,7 +8025,7 @@
     <field name="author">Liddell, Duncan#117671622</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1605</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -8057,7 +8057,7 @@
     <field name="author">Liddell, Duncan#117671622</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1605</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -8089,7 +8089,7 @@
     <field name="author">Liddell, Duncan#117671622</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1605</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -8121,7 +8121,7 @@
     <field name="author">Liddell, Duncan#117671622</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1605</field>
     <field name="subjects">Medizin</field>
     <field name="mediaType">Book</field>
@@ -8146,7 +8146,7 @@
     <field name="titleBib">Oratio in funere illustrissimi principis ac Dn. D. Johannis Guilielmi Ducis Saxoniae Lantgravii Thuringiae, Marchionis Misniae, habita Jenae ad XII. Calend. April: anno 1573</field>
     <field name="author">Lipsius, Justus#11857342X</field>
     <field name="place_1">s. l.</field>
-    <field name="publisher">s. n.</field>
+    <field name="publishers">s. n.</field>
     <field name="year">1601</field>
     <field name="subjects">Gelegenheitsschrift</field>
     <field name="mediaType">Book</field>
@@ -8175,7 +8175,7 @@
     <field name="author">Livius, Titus#118573624</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">s. n.</field>
+    <field name="publishers">s. n.</field>
     <field name="year">1588</field>
     <field name="subjects">Geschichte</field>
     <field name="mediaType">Book</field>
@@ -8204,7 +8204,7 @@
     <field name="author">Lullus, Raimundus#118575279</field>
     <field name="place_1">Straßburg</field>
     <field name="coordinates_place_1">48.58392,7.74553</field>
-    <field name="publisher">Beck</field>
+    <field name="publishers">Beck</field>
     <field name="year">1541</field>
     <field name="subjects">Physik</field>
     <field name="mediaType">Book</field>
@@ -8236,7 +8236,7 @@
     <field name="author">Lucianus Samosatensis#118575228</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1594</field>
     <field name="subjects">Literatur</field>
     <field name="mediaType">Book</field>
@@ -8268,7 +8268,7 @@
     <field name="author">Lucianus Samosatensis#118575228</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1595</field>
     <field name="subjects">Literatur</field>
     <field name="mediaType">Book</field>
@@ -8297,7 +8297,7 @@
     <field name="author">Lullus, Raimundus#118575279</field>
     <field name="place_1">Köln</field>
     <field name="coordinates_place_1">50.93333,6.95</field>
-    <field name="publisher">Cholinus</field>
+    <field name="publishers">Cholinus</field>
     <field name="year">1592</field>
     <field name="subjects">Physik</field>
     <field name="mediaType">Book</field>
@@ -8326,7 +8326,7 @@
     <field name="author">Mästlin, Michael#119211637</field>
     <field name="place_1">Heidelberg</field>
     <field name="coordinates_place_1">49.40768,8.69079</field>
-    <field name="publisher">Mylius</field>
+    <field name="publishers">Mylius</field>
     <field name="year">1581</field>
     <field name="subjects">Astronomie</field>
     <field name="mediaType">Book</field>
@@ -8355,7 +8355,7 @@
     <field name="author">Mästlin, Michael#119211637</field>
     <field name="place_1">Tübingen</field>
     <field name="coordinates_place_1">48.52266,9.05222</field>
-    <field name="publisher">Gruppenbach</field>
+    <field name="publishers">Gruppenbach</field>
     <field name="year">1596</field>
     <field name="subjects">Astronomie</field>
     <field name="mediaType">Book</field>
@@ -8384,7 +8384,7 @@
     <field name="author">Magdeburg#4036934-1</field>
     <field name="place_1">Magdeburg</field>
     <field name="coordinates_place_1">52.12773,11.62916</field>
-    <field name="publisher">Dunker</field>
+    <field name="publishers">Dunker</field>
     <field name="year">1597</field>
     <field name="subjects">Epidemiologie</field>
     <field name="mediaType">Book</field>
@@ -8410,7 +8410,7 @@
     <field name="author">Maranta, Bartolomeo#130026778</field>
     <field name="place_1">Venedig</field>
     <field name="coordinates_place_1">45.43713,12.33265</field>
-    <field name="publisher">Valgrisi</field>
+    <field name="publishers">Valgrisi</field>
     <field name="year">1559</field>
     <field name="subjects">Diagnostik</field>
     <field name="mediaType">Book</field>
@@ -8439,7 +8439,7 @@
     <field name="author">Marquard, Johannes#102831963</field>
     <field name="place_1">Speyer</field>
     <field name="coordinates_place_1">49.32083,8.43111</field>
-    <field name="publisher">Albin</field>
+    <field name="publishers">Albin</field>
     <field name="year">1592</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -8471,7 +8471,7 @@
     <field name="author">Martini, Cornelis#12490582X</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1596</field>
     <field name="subjects">Philosophie</field>
     <field name="mediaType">Book</field>
@@ -8503,7 +8503,7 @@
     <field name="author">Martini, Cornelis#12490582X</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1597</field>
     <field name="subjects">Physik</field>
     <field name="mediaType">Book</field>
@@ -8535,7 +8535,7 @@
     <field name="author">Martini, Cornelis#12490582X</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1597</field>
     <field name="subjects">Philosophie</field>
     <field name="mediaType">Book</field>
@@ -8564,7 +8564,7 @@
     <field name="author">Martini, Cornelis#12490582X</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1596</field>
     <field name="subjects">Gelegenheitsschrift</field>
     <field name="mediaType">Book</field>
@@ -8593,7 +8593,7 @@
     <field name="author">Massaria, Alessandro#124557759</field>
     <field name="place_1">Leipzig</field>
     <field name="coordinates_place_1">51.33962,12.37129</field>
-    <field name="publisher">Lamberg</field>
+    <field name="publishers">Lamberg</field>
     <field name="year">1600</field>
     <field name="subjects">Gynäkologie</field>
     <field name="mediaType">Book</field>
@@ -8622,7 +8622,7 @@
     <field name="author">Mattioli, Pietro Andrea#118731912</field>
     <field name="place_1">Lyon</field>
     <field name="coordinates_place_1">45.74846,4.84671</field>
-    <field name="publisher">Rouille</field>
+    <field name="publishers">Rouille</field>
     <field name="year">1571</field>
     <field name="subjects">Pharmazie</field>
     <field name="mediaType">Book</field>
@@ -8650,7 +8650,7 @@
     <field name="titleBib">Medici antiqui omnes, qui latinis literis diversorum morborum genera &amp; remedia persecuti sunt, undique conquisiti, &amp; uno volumine comprehensi, ut eorum, qui se medicinae studio dediderunt, commodo consulatur. Index in omnes plenissimus</field>
     <field name="place_1">Venedig</field>
     <field name="coordinates_place_1">45.43713,12.33265</field>
-    <field name="publisher">Aldus</field>
+    <field name="publishers">Aldus</field>
     <field name="year">1547</field>
     <field name="subjects">Antike Medizin</field>
     <field name="mediaType">Book</field>
@@ -8679,7 +8679,7 @@
     <field name="author">Mela, Pomponius#118783025</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Henricpetre</field>
+    <field name="publishers">Henricpetre</field>
     <field name="year">1576</field>
     <field name="subjects">Geographie</field>
     <field name="mediaType">Book</field>
@@ -8708,7 +8708,7 @@
     <field name="author">Mercado, Luis de#124547451</field>
     <field name="place_1">Köln</field>
     <field name="coordinates_place_1">50.93333,6.95</field>
-    <field name="publisher">Ciolti</field>
+    <field name="publishers">Ciolti</field>
     <field name="year">1588</field>
     <field name="subjects">Medizin</field>
     <field name="mediaType">Book</field>
@@ -8737,7 +8737,7 @@
     <field name="author">Mercado, Luis de#124547451</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Waldkirch</field>
+    <field name="publishers">Waldkirch</field>
     <field name="year">1594</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -8769,7 +8769,7 @@
     <field name="author">Mercuriale, Girolamo#120540339</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Perna</field>
+    <field name="publishers">Perna</field>
     <field name="year">1577</field>
     <field name="subjects">Epidemiologie</field>
     <field name="mediaType">Book</field>
@@ -8801,7 +8801,7 @@
     <field name="author">Mercuriale, Girolamo#120540339</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Wechel</field>
+    <field name="publishers">Wechel</field>
     <field name="year">1587</field>
     <field name="subjects">Therapeutik</field>
     <field name="mediaType">Book</field>
@@ -8830,7 +8830,7 @@
     <field name="author">Mercuriale, Girolamo#120540339</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Waldkirch</field>
+    <field name="publishers">Waldkirch</field>
     <field name="year">1588</field>
     <field name="subjects">Consilia</field>
     <field name="mediaType">Book</field>
@@ -8862,7 +8862,7 @@
     <field name="author">Mercuriale, Girolamo#120540339</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Wechel</field>
+    <field name="publishers">Wechel</field>
     <field name="year">1584</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -8891,7 +8891,7 @@
     <field name="author">Mögling, Daniel#102520054</field>
     <field name="place_1">Tübingen</field>
     <field name="coordinates_place_1">48.52266,9.05222</field>
-    <field name="publisher">Gruppenbach</field>
+    <field name="publishers">Gruppenbach</field>
     <field name="year">1591</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -8920,7 +8920,7 @@
     <field name="author">Monardes, Nicolás#12421049X</field>
     <field name="place_1">Antwerpen</field>
     <field name="coordinates_place_1">51.21989,4.40346</field>
-    <field name="publisher">Plantin</field>
+    <field name="publishers">Plantin</field>
     <field name="year">1582</field>
     <field name="subjects">Pharmazie</field>
     <field name="mediaType">Book</field>
@@ -8949,7 +8949,7 @@
     <field name="author">Montalto, Girolamo#119766574</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Wechel</field>
+    <field name="publishers">Wechel</field>
     <field name="year">1591</field>
     <field name="subjects">Diätetik</field>
     <field name="mediaType">Book</field>
@@ -8978,7 +8978,7 @@
     <field name="author">Monte, Giovanni Battista da#128545720</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Perna</field>
+    <field name="publishers">Perna</field>
     <field name="year">1558</field>
     <field name="subjects">Medizin</field>
     <field name="mediaType">Book</field>
@@ -9007,7 +9007,7 @@
     <field name="author">Monte, Giovanni Battista da#128545720</field>
     <field name="place_1">Venedig</field>
     <field name="coordinates_place_1">45.43713,12.33265</field>
-    <field name="publisher">Constantium</field>
+    <field name="publishers">Constantium</field>
     <field name="year">1554</field>
     <field name="subjects">Medizin</field>
     <field name="mediaType">Book</field>
@@ -9036,7 +9036,7 @@
     <field name="author">Monte, Giovanni Battista da#128545720</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Petri</field>
+    <field name="publishers">Petri</field>
     <field name="year">1572</field>
     <field name="subjects">Consilia</field>
     <field name="mediaType">Book</field>
@@ -9065,7 +9065,7 @@
     <field name="author">Morescottus, Alfonsus#124555640</field>
     <field name="place_1">Herborn</field>
     <field name="coordinates_place_1">50.68135,8.30369</field>
-    <field name="publisher">Corvin</field>
+    <field name="publishers">Corvin</field>
     <field name="year">1588</field>
     <field name="subjects">Medizin</field>
     <field name="mediaType">Book</field>
@@ -9094,7 +9094,7 @@
     <field name="author">Theophanes Nonnus#118837923</field>
     <field name="place_1">Straßburg</field>
     <field name="coordinates_place_1">48.58392,7.74553</field>
-    <field name="publisher">Rihel</field>
+    <field name="publishers">Rihel</field>
     <field name="year">1568</field>
     <field name="subjects">Therapeutik</field>
     <field name="mediaType">Book</field>
@@ -9123,7 +9123,7 @@
     <field name="author">Oribasius#119008653</field>
     <field name="place_1">Venedig</field>
     <field name="coordinates_place_1">45.43713,12.33265</field>
-    <field name="publisher">Manutius</field>
+    <field name="publishers">Manutius</field>
     <field name="year">1555</field>
     <field name="subjects">Antike Medizin</field>
     <field name="mediaType">Book</field>
@@ -9152,7 +9152,7 @@
     <field name="author">Osório, Jerónimo#119483858</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Perna</field>
+    <field name="publishers">Perna</field>
     <field name="year">1584</field>
     <field name="subjects">Politik</field>
     <field name="mediaType">Book</field>
@@ -9181,7 +9181,7 @@
     <field name="author">Paracelsus#11859169X</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Guarinus</field>
+    <field name="publishers">Guarinus</field>
     <field name="year">1577</field>
     <field name="subjects">Alchemie</field>
     <field name="mediaType">Book</field>
@@ -9210,7 +9210,7 @@
     <field name="author">Paracelsus#11859169X</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Wechel</field>
+    <field name="publishers">Wechel</field>
     <field name="year">1603</field>
     <field name="subjects">Alchemie</field>
     <field name="mediaType">Book</field>
@@ -9242,7 +9242,7 @@
     <field name="author">Paracelsus#11859169X</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Perna</field>
+    <field name="publishers">Perna</field>
     <field name="year">1570</field>
     <field name="subjects">Alchemie</field>
     <field name="mediaType">Book</field>
@@ -9274,7 +9274,7 @@
     <field name="author">Paracelsus#11859169X</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Perna</field>
+    <field name="publishers">Perna</field>
     <field name="year">1570</field>
     <field name="subjects">Alchemie</field>
     <field name="mediaType">Book</field>
@@ -9306,7 +9306,7 @@
     <field name="author">Paracelsus#11859169X</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Fabricius</field>
+    <field name="publishers">Fabricius</field>
     <field name="year">1568</field>
     <field name="subjects">Medizin</field>
     <field name="mediaType">Book</field>
@@ -9335,7 +9335,7 @@
     <field name="author">Paracelsus#11859169X</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Apiarius</field>
+    <field name="publishers">Apiarius</field>
     <field name="year">1572</field>
     <field name="subjects">Medizin</field>
     <field name="mediaType">Book</field>
@@ -9367,7 +9367,7 @@
     <field name="author">Paracelsus#11859169X</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Apiarius</field>
+    <field name="publishers">Apiarius</field>
     <field name="year">1572</field>
     <field name="subjects">Medizin</field>
     <field name="mediaType">Book</field>
@@ -9399,7 +9399,7 @@
     <field name="author">Paracelsus#11859169X</field>
     <field name="place_1">Straßburg</field>
     <field name="coordinates_place_1">48.58392,7.74553</field>
-    <field name="publisher">Müller</field>
+    <field name="publishers">Müller</field>
     <field name="year">1571</field>
     <field name="subjects">Medizin</field>
     <field name="mediaType">Book</field>
@@ -9428,7 +9428,7 @@
     <field name="author">Paracelsus#11859169X</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Perna</field>
+    <field name="publishers">Perna</field>
     <field name="year">1566?</field>
     <field name="subjects">Alchemie</field>
     <field name="mediaType">Book</field>
@@ -9460,7 +9460,7 @@
     <field name="author">Paracelsus#11859169X</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Perna</field>
+    <field name="publishers">Perna</field>
     <field name="year">1569</field>
     <field name="subjects">Chirurgie</field>
     <field name="mediaType">Book</field>
@@ -9492,7 +9492,7 @@
     <field name="author">Paracelsus#11859169X</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Perna</field>
+    <field name="publishers">Perna</field>
     <field name="year">1570</field>
     <field name="subjects">Medizin</field>
     <field name="mediaType">Book</field>
@@ -9524,7 +9524,7 @@
     <field name="author">Paracelsus#11859169X</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Perna</field>
+    <field name="publishers">Perna</field>
     <field name="year">1570</field>
     <field name="subjects">Pharmazie</field>
     <field name="mediaType">Book</field>
@@ -9556,7 +9556,7 @@
     <field name="author">Paracelsus#11859169X</field>
     <field name="place_1">Straßburg</field>
     <field name="coordinates_place_1">48.58392,7.74553</field>
-    <field name="publisher">Emmel</field>
+    <field name="publishers">Emmel</field>
     <field name="year">1568</field>
     <field name="subjects">Diagnostik</field>
     <field name="mediaType">Book</field>
@@ -9588,7 +9588,7 @@
     <field name="author">Paracelsus#11859169X</field>
     <field name="place_1">Straßburg</field>
     <field name="coordinates_place_1">48.58392,7.74553</field>
-    <field name="publisher">Mylius</field>
+    <field name="publishers">Mylius</field>
     <field name="year">1575</field>
     <field name="subjects">Medizin</field>
     <field name="mediaType">Book</field>
@@ -9617,7 +9617,7 @@
     <field name="author">Paracelsus#11859169X</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Wardkirch</field>
+    <field name="publishers">Wardkirch</field>
     <field name="year">1586</field>
     <field name="subjects">Chirurgie</field>
     <field name="mediaType">Book</field>
@@ -9646,7 +9646,7 @@
     <field name="author">Caselius, Johannes#116118547</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1600</field>
     <field name="subjects">Politik</field>
     <field name="mediaType">Book</field>
@@ -9678,7 +9678,7 @@
     <field name="author">Parcovius, Franciscus#116045825</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1591</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -9710,7 +9710,7 @@
     <field name="author">Parcovius, Franciscus#116045825</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1593</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -9742,7 +9742,7 @@
     <field name="author">Parcovius, Franciscus#116045825</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1594</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -9771,7 +9771,7 @@
     <field name="author">Parcovius, Franciscus#116045825</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1596</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -9800,7 +9800,7 @@
     <field name="author">Parcovius, Franciscus#116045825</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1591</field>
     <field name="subjects">Diagnostik</field>
     <field name="mediaType">Book</field>
@@ -9829,7 +9829,7 @@
     <field name="author">Paulus Aegineta#100957129</field>
     <field name="place_1">Lyon</field>
     <field name="coordinates_place_1">45.74846,4.84671</field>
-    <field name="publisher">Rouillium</field>
+    <field name="publishers">Rouillium</field>
     <field name="year">1551</field>
     <field name="subjects">Medizin</field>
     <field name="mediaType">Book</field>
@@ -9858,7 +9858,7 @@
     <field name="author">Pausanias Periegeta#118592246</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Isingrin</field>
+    <field name="publishers">Isingrin</field>
     <field name="year">1557</field>
     <field name="subjects">Geographie</field>
     <field name="mediaType">Book</field>
@@ -9887,7 +9887,7 @@
     <field name="author">Pegel, Magnus#124820468</field>
     <field name="place_1">Rostock</field>
     <field name="coordinates_place_1">54.0887,12.14049</field>
-    <field name="publisher">Myliander</field>
+    <field name="publishers">Myliander</field>
     <field name="year">1586</field>
     <field name="subjects">Physik</field>
     <field name="mediaType">Book</field>
@@ -9916,7 +9916,7 @@
     <field name="author">Penot, Bernard Georges#10024775X</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Feyerabend</field>
+    <field name="publishers">Feyerabend</field>
     <field name="year">1594</field>
     <field name="subjects">Pharmazie</field>
     <field name="mediaType">Book</field>
@@ -9945,7 +9945,7 @@
     <field name="author">Petrus de Abano#118889443</field>
     <field name="place_1">Pavia</field>
     <field name="coordinates_place_1">45.19205,9.15917</field>
-    <field name="publisher">Zeis</field>
+    <field name="publishers">Zeis</field>
     <field name="year">1523</field>
     <field name="subjects">Medizin</field>
     <field name="mediaType">Book</field>
@@ -9971,7 +9971,7 @@
     <field name="author">Peuerbach, Georg von#118790684</field>
     <field name="place_1">Nürnberg</field>
     <field name="coordinates_place_1">49.45421,11.07752</field>
-    <field name="publisher">Petreius</field>
+    <field name="publishers">Petreius</field>
     <field name="year">1541</field>
     <field name="subjects">Astronomie</field>
     <field name="mediaType">Book</field>
@@ -10000,7 +10000,7 @@
     <field name="author">Peuerbach, Georg von#118790684</field>
     <field name="place_1">Wittenberg</field>
     <field name="coordinates_place_1">51.87437,12.60603</field>
-    <field name="publisher">Crato</field>
+    <field name="publishers">Crato</field>
     <field name="year">1580</field>
     <field name="subjects">Astronomie</field>
     <field name="mediaType">Book</field>
@@ -10029,7 +10029,7 @@
     <field name="author">Pineau, Severin#124555446</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Paltheniana</field>
+    <field name="publishers">Paltheniana</field>
     <field name="year">1599</field>
     <field name="subjects">Physiologie</field>
     <field name="mediaType">Book</field>
@@ -10058,7 +10058,7 @@
     <field name="author">Le Pois, Nicolas#119742446</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Wechel</field>
+    <field name="publishers">Wechel</field>
     <field name="year">1585</field>
     <field name="subjects">Diagnostik</field>
     <field name="mediaType">Book</field>
@@ -10087,7 +10087,7 @@
     <field name="author">Pitatus, Petrus#100396003</field>
     <field name="place_1">Tübingen</field>
     <field name="coordinates_place_1">48.52266,9.05222</field>
-    <field name="publisher">Morhart</field>
+    <field name="publishers">Morhart</field>
     <field name="year">1553</field>
     <field name="subjects">Astronomie</field>
     <field name="mediaType">Book</field>
@@ -10119,7 +10119,7 @@
     <field name="author">Planer, Andreas#116204915</field>
     <field name="place_1">Tübingen</field>
     <field name="coordinates_place_1">48.52266,9.05222</field>
-    <field name="publisher">Gruppenbach</field>
+    <field name="publishers">Gruppenbach</field>
     <field name="year">1584</field>
     <field name="subjects">Philosophie</field>
     <field name="mediaType">Book</field>
@@ -10151,7 +10151,7 @@
     <field name="author">Planer, Andreas#116204915</field>
     <field name="place_1">Tübingen</field>
     <field name="coordinates_place_1">48.52266,9.05222</field>
-    <field name="publisher">Gruppenbach</field>
+    <field name="publishers">Gruppenbach</field>
     <field name="year">1582</field>
     <field name="subjects">Philosophie</field>
     <field name="mediaType">Book</field>
@@ -10180,7 +10180,7 @@
     <field name="author">Planer, Andreas#116204915</field>
     <field name="place_1">Tübingen</field>
     <field name="coordinates_place_1">48.52266,9.05222</field>
-    <field name="publisher">Gruppenbach</field>
+    <field name="publishers">Gruppenbach</field>
     <field name="year">1586</field>
     <field name="subjects">Philosophie</field>
     <field name="mediaType">Book</field>
@@ -10212,7 +10212,7 @@
     <field name="author">Planer, Andreas#116204915</field>
     <field name="place_1">Straßburg</field>
     <field name="coordinates_place_1">48.58392,7.74553</field>
-    <field name="publisher">Wyriot</field>
+    <field name="publishers">Wyriot</field>
     <field name="year">1576</field>
     <field name="subjects">Physiologie</field>
     <field name="mediaType">Book</field>
@@ -10244,7 +10244,7 @@
     <field name="author">Planer, Andreas#116204915</field>
     <field name="place_1">Tübingen</field>
     <field name="coordinates_place_1">48.52266,9.05222</field>
-    <field name="publisher">Gruppenbach</field>
+    <field name="publishers">Gruppenbach</field>
     <field name="year">1585</field>
     <field name="subjects">Medizin</field>
     <field name="mediaType">Book</field>
@@ -10276,7 +10276,7 @@
     <field name="author">Planer, Andreas#116204915</field>
     <field name="place_1">Tübingen</field>
     <field name="coordinates_place_1">48.52266,9.05222</field>
-    <field name="publisher">Gruppenbach</field>
+    <field name="publishers">Gruppenbach</field>
     <field name="year">1589</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -10308,7 +10308,7 @@
     <field name="author">Planer, Andreas#116204915</field>
     <field name="place_1">Tübingen</field>
     <field name="coordinates_place_1">48.52266,9.05222</field>
-    <field name="publisher">Gruppenbach</field>
+    <field name="publishers">Gruppenbach</field>
     <field name="year">1592</field>
     <field name="subjects">Therapeutik</field>
     <field name="mediaType">Book</field>
@@ -10337,7 +10337,7 @@
     <field name="author">Platter, Felix#118594915</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Wechel</field>
+    <field name="publishers">Wechel</field>
     <field name="year">1597</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -10366,7 +10366,7 @@
     <field name="author">Plato#118594893</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Froben</field>
+    <field name="publishers">Froben</field>
     <field name="year">1546</field>
     <field name="subjects">Philosophie</field>
     <field name="mediaType">Book</field>
@@ -10395,7 +10395,7 @@
     <field name="author">Plato#118594893</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1594</field>
     <field name="subjects">Philosophie</field>
     <field name="mediaType">Book</field>
@@ -10424,7 +10424,7 @@
     <field name="author">Plinius Caecilius Secundus, Gaius#118595091</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Feyerabend</field>
+    <field name="publishers">Feyerabend</field>
     <field name="year">1582</field>
     <field name="subjects">Physik</field>
     <field name="mediaType">Book</field>
@@ -10453,7 +10453,7 @@
     <field name="author">Plutarchus#118595237</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1595</field>
     <field name="subjects">Philosophie</field>
     <field name="mediaType">Book</field>
@@ -10482,7 +10482,7 @@
     <field name="author">Pons, Jacques#100250696</field>
     <field name="place_1">Lyon</field>
     <field name="coordinates_place_1">45.74846,4.84671</field>
-    <field name="publisher">Frellon</field>
+    <field name="publishers">Frellon</field>
     <field name="year">1596</field>
     <field name="subjects">Therapeutik</field>
     <field name="mediaType">Book</field>
@@ -10511,7 +10511,7 @@
     <field name="author">Pontano, Giovanni Gioviano#118833324</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Petri</field>
+    <field name="publishers">Petri</field>
     <field name="year">1556</field>
     <field name="subjects">Astronomie</field>
     <field name="mediaType">Book</field>
@@ -10540,7 +10540,7 @@
     <field name="author">Preyss, Valentin</field>
     <field name="place_1">Königsberg</field>
     <field name="coordinates_place_1">54.70649,20.51095</field>
-    <field name="publisher">Osterberg</field>
+    <field name="publishers">Osterberg</field>
     <field name="year">1588</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -10566,7 +10566,7 @@
     <field name="author">Ptolemaeus, Claudius#118641786</field>
     <field name="place_1">Venedig</field>
     <field name="coordinates_place_1">45.43713,12.33265</field>
-    <field name="publisher">Junta</field>
+    <field name="publishers">Junta</field>
     <field name="year">1528</field>
     <field name="subjects">Astronomie</field>
     <field name="mediaType">Book</field>
@@ -10595,7 +10595,7 @@
     <field name="author">Ptolemaeus, Claudius#118641786</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Oporinus</field>
+    <field name="publishers">Oporinus</field>
     <field name="year">1553</field>
     <field name="subjects">Astronomie</field>
     <field name="mediaType">Book</field>
@@ -10627,7 +10627,7 @@
     <field name="author">Ramus, Petrus#118598228</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Episcopius</field>
+    <field name="publishers">Episcopius</field>
     <field name="year">1580</field>
     <field name="subjects">Mathematik</field>
     <field name="mediaType">Book</field>
@@ -10659,7 +10659,7 @@
     <field name="author">Ramus, Petrus#118598228</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Episcopius</field>
+    <field name="publishers">Episcopius</field>
     <field name="year">1569</field>
     <field name="subjects">Mathematik</field>
     <field name="mediaType">Book</field>
@@ -10688,7 +10688,7 @@
     <field name="author">Ramus, Petrus#118598228</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Wechel</field>
+    <field name="publishers">Wechel</field>
     <field name="year">1580</field>
     <field name="subjects">Philosophie</field>
     <field name="mediaType">Book</field>
@@ -10717,7 +10717,7 @@
     <field name="author">Rantzau, Heinrich#11898716X</field>
     <field name="place_1">Antwerpen</field>
     <field name="coordinates_place_1">51.21989,4.40346</field>
-    <field name="publisher">Plantin</field>
+    <field name="publishers">Plantin</field>
     <field name="year">1580</field>
     <field name="subjects">Diätetik</field>
     <field name="mediaType">Book</field>
@@ -10746,7 +10746,7 @@
     <field name="author">Regiomontanus, Johannes#118641913</field>
     <field name="place_1">Venedig</field>
     <field name="coordinates_place_1">45.43713,12.33265</field>
-    <field name="publisher">Liechtenstein</field>
+    <field name="publishers">Liechtenstein</field>
     <field name="year">1514</field>
     <field name="subjects">Astronomie</field>
     <field name="mediaType">Book</field>
@@ -10775,7 +10775,7 @@
     <field name="author">Regiomontanus, Johannes#118641913</field>
     <field name="place_1">Wittenberg</field>
     <field name="coordinates_place_1">51.87437,12.60603</field>
-    <field name="publisher">Welack</field>
+    <field name="publishers">Welack</field>
     <field name="year">1584</field>
     <field name="subjects">Astronomie</field>
     <field name="mediaType">Book</field>
@@ -10804,7 +10804,7 @@
     <field name="author">Regiomontanus, Johannes#118641913</field>
     <field name="place_1">Nürnberg</field>
     <field name="coordinates_place_1">49.45421,11.07752</field>
-    <field name="publisher">Petreius</field>
+    <field name="publishers">Petreius</field>
     <field name="year">1533</field>
     <field name="subjects">Astronomie</field>
     <field name="mediaType">Book</field>
@@ -10833,7 +10833,7 @@
     <field name="author">Reinhold, Erasmus#11899901X</field>
     <field name="place_1">Tübingen</field>
     <field name="coordinates_place_1">48.52266,9.05222</field>
-    <field name="publisher">Morhart</field>
+    <field name="publishers">Morhart</field>
     <field name="year">1551</field>
     <field name="subjects">Astronomie</field>
     <field name="mediaType">Book</field>
@@ -10865,7 +10865,7 @@
     <field name="author">Reusner, Hieronymus#116453133</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Paltheniana</field>
+    <field name="publishers">Paltheniana</field>
     <field name="year">1600</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -10897,7 +10897,7 @@
     <field name="author">Reusner, Hieronymus#116453133</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Paltheniana</field>
+    <field name="publishers">Paltheniana</field>
     <field name="year">1600</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -10926,7 +10926,7 @@
     <field name="author">Ursus, Nicolaus Reimarus#118837087</field>
     <field name="place_1">Leipzig</field>
     <field name="coordinates_place_1">51.33962,12.37129</field>
-    <field name="publisher">Defner</field>
+    <field name="publishers">Defner</field>
     <field name="year">1583</field>
     <field name="subjects">Mathematik</field>
     <field name="mediaType">Book</field>
@@ -10955,7 +10955,7 @@
     <field name="author">Ursus, Nicolaus Reimarus#118837087</field>
     <field name="place_1">Straßburg</field>
     <field name="coordinates_place_1">48.58392,7.74553</field>
-    <field name="publisher">Jobin</field>
+    <field name="publishers">Jobin</field>
     <field name="year">1588</field>
     <field name="subjects">Astronomie</field>
     <field name="mediaType">Book</field>
@@ -10984,7 +10984,7 @@
     <field name="author">Riseberg, Laurentius#100392326</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1594</field>
     <field name="subjects">Geschichte</field>
     <field name="mediaType">Book</field>
@@ -11013,7 +11013,7 @@
     <field name="author">Castelo Branco, João Rodrigues de#119046776</field>
     <field name="place_1">Lyon</field>
     <field name="coordinates_place_1">45.74846,4.84671</field>
-    <field name="publisher">Rouille</field>
+    <field name="publishers">Rouille</field>
     <field name="year">1564</field>
     <field name="subjects">Therapeutik</field>
     <field name="mediaType">Book</field>
@@ -11042,7 +11042,7 @@
     <field name="author">Roomen, Adriaan van#100255426</field>
     <field name="place_1">Antwerpen</field>
     <field name="coordinates_place_1">51.21989,4.40346</field>
-    <field name="publisher">Keerberg</field>
+    <field name="publishers">Keerberg</field>
     <field name="year">1593</field>
     <field name="subjects">Mathematik</field>
     <field name="mediaType">Book</field>
@@ -11071,7 +11071,7 @@
     <field name="author">Rondelet, Guillaume#117593966</field>
     <field name="place_1">Lyon</field>
     <field name="coordinates_place_1">45.74846,4.84671</field>
-    <field name="publisher">Rouille</field>
+    <field name="publishers">Rouille</field>
     <field name="year">1576</field>
     <field name="subjects">Therapeutik</field>
     <field name="mediaType">Book</field>
@@ -11097,7 +11097,7 @@
     <field name="author">Ronsseus, Balduinus#12411976X</field>
     <field name="place_1">Leiden</field>
     <field name="coordinates_place_1">52.15833,4.49306</field>
-    <field name="publisher">Plantin</field>
+    <field name="publishers">Plantin</field>
     <field name="year">1589</field>
     <field name="subjects">Therapeutik</field>
     <field name="mediaType">Book</field>
@@ -11126,7 +11126,7 @@
     <field name="author">Rossi, Girolamo#119809516</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Henricpetri</field>
+    <field name="publishers">Henricpetri</field>
     <field name="year">1585</field>
     <field name="subjects">Alchemie</field>
     <field name="mediaType">Book</field>
@@ -11155,7 +11155,7 @@
     <field name="author">Rothmann, Johannes#119810069</field>
     <field name="place_1">Erfurt</field>
     <field name="coordinates_place_1">50.9787,11.03283</field>
-    <field name="publisher">Pistorius</field>
+    <field name="publishers">Pistorius</field>
     <field name="year">1595</field>
     <field name="subjects">Magie</field>
     <field name="mediaType">Book</field>
@@ -11184,7 +11184,7 @@
     <field name="author">Rudio, Eustachio#131775545</field>
     <field name="place_1">Venedig</field>
     <field name="coordinates_place_1">45.43713,12.33265</field>
-    <field name="publisher">Meiteum</field>
+    <field name="publishers">Meiteum</field>
     <field name="year">1592-1595</field>
     <field name="subjects">Medizin</field>
     <field name="mediaType">Book</field>
@@ -11213,7 +11213,7 @@
     <field name="author">Rumbaum, Christoph#119812029</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Henricpetri</field>
+    <field name="publishers">Henricpetri</field>
     <field name="year">1586</field>
     <field name="subjects">Medizin</field>
     <field name="mediaType">Book</field>
@@ -11242,7 +11242,7 @@
     <field name="author">Sachse, Melchior#119813017</field>
     <field name="place_1">Nürnberg</field>
     <field name="coordinates_place_1">49.45421,11.07752</field>
-    <field name="publisher">Daubman</field>
+    <field name="publishers">Daubman</field>
     <field name="year">1549</field>
     <field name="subjects">Pharmazie</field>
     <field name="mediaType">Book</field>
@@ -11271,7 +11271,7 @@
     <field name="author">Salignac, Bernard#119813815</field>
     <field name="place_1">Genf</field>
     <field name="coordinates_place_1">46.20222,6.14569</field>
-    <field name="publisher">Calvin</field>
+    <field name="publishers">Calvin</field>
     <field name="year">1574</field>
     <field name="subjects">Astronomie</field>
     <field name="mediaType">Book</field>
@@ -11300,7 +11300,7 @@
     <field name="author">Salius Diversus, Petrus#124509924</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Wechel</field>
+    <field name="publishers">Wechel</field>
     <field name="year">1586</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -11329,7 +11329,7 @@
     <field name="author">Sallustius Crispus, Gaius#118605097</field>
     <field name="place_1">Köln</field>
     <field name="coordinates_place_1">50.93333,6.95</field>
-    <field name="publisher">Gymnich</field>
+    <field name="publishers">Gymnich</field>
     <field name="year">1578-1584</field>
     <field name="subjects">Geschichte</field>
     <field name="mediaType">Book</field>
@@ -11358,7 +11358,7 @@
     <field name="author">Marsilius de Sancta Sophia#100953093</field>
     <field name="place_1">Lyon</field>
     <field name="coordinates_place_1">45.74846,4.84671</field>
-    <field name="publisher">s.n.</field>
+    <field name="publishers">s.n.</field>
     <field name="year">1517</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -11387,7 +11387,7 @@
     <field name="author">Johannes Michael Savonarola#118955896</field>
     <field name="place_1">Venedig</field>
     <field name="coordinates_place_1">45.43713,12.33265</field>
-    <field name="publisher">Juntas</field>
+    <field name="publishers">Juntas</field>
     <field name="year">1559</field>
     <field name="subjects">Therapeutik</field>
     <field name="mediaType">Book</field>
@@ -11416,7 +11416,7 @@
     <field name="author">Scaliger, Julius Caesar#118794809</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Wechel</field>
+    <field name="publishers">Wechel</field>
     <field name="year">1582</field>
     <field name="subjects">Rhetorik</field>
     <field name="mediaType">Book</field>
@@ -11445,7 +11445,7 @@
     <field name="author">Schegk, Jacob der Ältere#118606875</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Wechel</field>
+    <field name="publishers">Wechel</field>
     <field name="year">1590</field>
     <field name="subjects">Physik</field>
     <field name="mediaType">Book</field>
@@ -11474,7 +11474,7 @@
     <field name="author">Scheurl, Lorenz Gotthard#128428600</field>
     <field name="place_1">Prag</field>
     <field name="coordinates_place_1">50.08804,14.42076</field>
-    <field name="publisher">Adam</field>
+    <field name="publishers">Adam</field>
     <field name="year">1596</field>
     <field name="subjects">Geschichte</field>
     <field name="mediaType">Book</field>
@@ -11503,7 +11503,7 @@
     <field name="author">Schöner, Johannes#118795341</field>
     <field name="place_1">Wittenberg</field>
     <field name="coordinates_place_1">51.87437,12.60603</field>
-    <field name="publisher">Welack</field>
+    <field name="publishers">Welack</field>
     <field name="year">1588</field>
     <field name="subjects">Astronomie</field>
     <field name="mediaType">Book</field>
@@ -11532,7 +11532,7 @@
     <field name="author">Schönfeld, Victorin#128676353</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Egenollfs</field>
+    <field name="publishers">Egenollfs</field>
     <field name="year">1584</field>
     <field name="subjects">Epidemiologie</field>
     <field name="mediaType">Book</field>
@@ -11561,7 +11561,7 @@
     <field name="author">Seneca, Lucius Annaeus Philosophus#118613200</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1592</field>
     <field name="subjects">Philosophie</field>
     <field name="mediaType">Book</field>
@@ -11590,7 +11590,7 @@
     <field name="author">Severinus, Petrus#128402091</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Perna</field>
+    <field name="publishers">Perna</field>
     <field name="year">1571</field>
     <field name="subjects">Medizin</field>
     <field name="mediaType">Book</field>
@@ -11619,7 +11619,7 @@
     <field name="author">Sfondrati, Pandolfo#100337066</field>
     <field name="place_1">Ferrara</field>
     <field name="coordinates_place_1">44.83804,11.62057</field>
-    <field name="publisher">Mamarella</field>
+    <field name="publishers">Mamarella</field>
     <field name="year">1590</field>
     <field name="subjects">Physik</field>
     <field name="mediaType">Book</field>
@@ -11648,7 +11648,7 @@
     <field name="author">Silvaticus, Johannes Baptista#100408346</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Beatus</field>
+    <field name="publishers">Beatus</field>
     <field name="year">1600</field>
     <field name="subjects">Pharmazie</field>
     <field name="mediaType">Book</field>
@@ -11677,7 +11677,7 @@
     <field name="author">Simoni, Simone#124441270</field>
     <field name="place_1">Leipzig</field>
     <field name="coordinates_place_1">51.33962,12.37129</field>
-    <field name="publisher">Steinman</field>
+    <field name="publishers">Steinman</field>
     <field name="year">1576</field>
     <field name="subjects">Epidemiologie</field>
     <field name="mediaType">Book</field>
@@ -11706,7 +11706,7 @@
     <field name="author">Solenander, Reiner#124555322</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Wechel</field>
+    <field name="publishers">Wechel</field>
     <field name="year">1596</field>
     <field name="subjects">Consilia</field>
     <field name="mediaType">Book</field>
@@ -11735,7 +11735,7 @@
     <field name="author">Solinus, Gaius Iulius#118797948</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Isingrin</field>
+    <field name="publishers">Isingrin</field>
     <field name="year">1538</field>
     <field name="subjects">Geschichte</field>
     <field name="mediaType">Book</field>
@@ -11764,7 +11764,7 @@
     <field name="author">Sommer, Fabian#124598293</field>
     <field name="place_1">Leipzig</field>
     <field name="coordinates_place_1">51.33962,12.37129</field>
-    <field name="publisher">Steinman</field>
+    <field name="publishers">Steinman</field>
     <field name="year">1571</field>
     <field name="subjects">Balneologie</field>
     <field name="mediaType">Book</field>
@@ -11793,7 +11793,7 @@
     <field name="author">Spach, Israel#124765726</field>
     <field name="place_1">Straßburg</field>
     <field name="coordinates_place_1">48.58392,7.74553</field>
-    <field name="publisher">Bertram</field>
+    <field name="publishers">Bertram</field>
     <field name="year">1591</field>
     <field name="subjects">Physiologie</field>
     <field name="mediaType">Book</field>
@@ -11822,7 +11822,7 @@
     <field name="author">Stöffler, Johannes#118798979</field>
     <field name="place_1">Köln</field>
     <field name="coordinates_place_1">50.93333,6.95</field>
-    <field name="publisher">Falckenburg</field>
+    <field name="publishers">Falckenburg</field>
     <field name="year">1594</field>
     <field name="subjects">Astronomie</field>
     <field name="mediaType">Book</field>
@@ -11851,7 +11851,7 @@
     <field name="author">Stupanus, Johann Niklaus#120745984</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Waldkirch</field>
+    <field name="publishers">Waldkirch</field>
     <field name="year">1594</field>
     <field name="subjects">Physiologie</field>
     <field name="mediaType">Book</field>
@@ -11877,7 +11877,7 @@
     <field name="author">Talon, Omer#104268344</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Wechel</field>
+    <field name="publishers">Wechel</field>
     <field name="year">1584</field>
     <field name="subjects">Rhetorik</field>
     <field name="mediaType">Book</field>
@@ -11906,7 +11906,7 @@
     <field name="author">Theodorus, Jacobus#10413030X</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Bassée, Nicolas</field>
+    <field name="publishers">Bassée, Nicolas</field>
     <field name="year">1586</field>
     <field name="subjects">Epidemiologie</field>
     <field name="mediaType">Book</field>
@@ -11935,7 +11935,7 @@
     <field name="author">Theodorus, Jacobus#10413030X</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Bassée, Nicolas</field>
+    <field name="publishers">Bassée, Nicolas</field>
     <field name="year">1593</field>
     <field name="subjects">Balneologie</field>
     <field name="mediaType">Book</field>
@@ -11964,7 +11964,7 @@
     <field name="author">Trincavelli, Vittore#119091232</field>
     <field name="place_1">Lyon</field>
     <field name="coordinates_place_1">45.74846,4.84671</field>
-    <field name="publisher">Junta</field>
+    <field name="publishers">Junta</field>
     <field name="year">1592</field>
     <field name="subjects">Medizin</field>
     <field name="mediaType">Book</field>
@@ -11993,7 +11993,7 @@
     <field name="author">Turnetus, Jacobus</field>
     <field name="place_1">Frankfurt an der Oder</field>
     <field name="coordinates_place_1">52.34714,14.55062</field>
-    <field name="publisher">Eichorn</field>
+    <field name="publishers">Eichorn</field>
     <field name="year">1583</field>
     <field name="subjects">Therapeutik</field>
     <field name="mediaType">Book</field>
@@ -12019,7 +12019,7 @@
     <field name="author">Vadianus, Joachim#118625780</field>
     <field name="place_1">Zürich</field>
     <field name="coordinates_place_1">47.36667,8.55</field>
-    <field name="publisher">Frosch</field>
+    <field name="publishers">Frosch</field>
     <field name="year">1548</field>
     <field name="subjects">Geographie</field>
     <field name="mediaType">Book</field>
@@ -12051,7 +12051,7 @@
     <field name="author">Valleriola, François#119856379</field>
     <field name="place_1">Lyon</field>
     <field name="coordinates_place_1">45.74846,4.84671</field>
-    <field name="publisher">Gryphius</field>
+    <field name="publishers">Gryphius</field>
     <field name="year">1573</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -12083,7 +12083,7 @@
     <field name="author">Valles, Francisco#118959484</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Wechel</field>
+    <field name="publishers">Wechel</field>
     <field name="year">1582</field>
     <field name="subjects">Medizin</field>
     <field name="mediaType">Book</field>
@@ -12112,7 +12112,7 @@
     <field name="author">Varro, Michael#12272190X</field>
     <field name="place_1">Genf</field>
     <field name="coordinates_place_1">46.20222,6.14569</field>
-    <field name="publisher">Stoer</field>
+    <field name="publishers">Stoer</field>
     <field name="year">1584</field>
     <field name="subjects">Physik</field>
     <field name="mediaType">Book</field>
@@ -12141,7 +12141,7 @@
     <field name="author">Vassès, Jean#119856727</field>
     <field name="place_1">Lyon</field>
     <field name="coordinates_place_1">45.74846,4.84671</field>
-    <field name="publisher">Rouille</field>
+    <field name="publishers">Rouille</field>
     <field name="year">1549</field>
     <field name="subjects">Diagnostik</field>
     <field name="mediaType">Book</field>
@@ -12170,7 +12170,7 @@
     <field name="author">Vega, Cristóbal de#100653596</field>
     <field name="place_1">Lyon</field>
     <field name="coordinates_place_1">45.74846,4.84671</field>
-    <field name="publisher">Rouille</field>
+    <field name="publishers">Rouille</field>
     <field name="year">1564</field>
     <field name="subjects">Therapeutik</field>
     <field name="mediaType">Book</field>
@@ -12199,7 +12199,7 @@
     <field name="author">Vegetius Renatus, Flavius#11880409X</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Perna</field>
+    <field name="publishers">Perna</field>
     <field name="year">1574</field>
     <field name="subjects">Antike Medizin</field>
     <field name="mediaType">Book</field>
@@ -12228,7 +12228,7 @@
     <field name="author">Venator, Daniel#100654223</field>
     <field name="place_1">Mainz</field>
     <field name="coordinates_place_1">49.98419,8.2791</field>
-    <field name="publisher">Behem</field>
+    <field name="publishers">Behem</field>
     <field name="year">1579</field>
     <field name="subjects">Jurisprudenz</field>
     <field name="mediaType">Book</field>
@@ -12257,7 +12257,7 @@
     <field name="author">Vesalius, Andreas#172433495</field>
     <field name="place_1">Paris</field>
     <field name="coordinates_place_1">48.85341,2.3488</field>
-    <field name="publisher">Wechel</field>
+    <field name="publishers">Wechel</field>
     <field name="year">1564</field>
     <field name="subjects">Anatomie</field>
     <field name="mediaType">Book</field>
@@ -12286,7 +12286,7 @@
     <field name="author">Vettori, Benedetto#115697705</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Collinz</field>
+    <field name="publishers">Collinz</field>
     <field name="year">1598</field>
     <field name="subjects">Therapeutik</field>
     <field name="mediaType">Book</field>
@@ -12315,7 +12315,7 @@
     <field name="author">Vigo, Giovanni da#128765224</field>
     <field name="place_1">Lyon</field>
     <field name="coordinates_place_1">45.74846,4.84671</field>
-    <field name="publisher">Portonarus/Myt</field>
+    <field name="publishers">Portonarus/Myt</field>
     <field name="year">1516</field>
     <field name="subjects">Chirurgie</field>
     <field name="mediaType">Book</field>
@@ -12343,7 +12343,7 @@
     <field name="titleBib">Vitae virorvm illvstrivm, autoribus Aemylio Probo de uita excellentium imperatorum ex uetustorum &amp; probatae fidei exemplarium collatione, à mendis quibus scatebat, repurgato</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Petri</field>
+    <field name="publishers">Petri</field>
     <field name="year">1563</field>
     <field name="subjects">Geschichte</field>
     <field name="mediaType">Book</field>
@@ -12372,7 +12372,7 @@
     <field name="author">Warszewicki, Krzysztof#119864487</field>
     <field name="place_1">Rostock</field>
     <field name="coordinates_place_1">54.0887,12.14049</field>
-    <field name="publisher">Myliander</field>
+    <field name="publishers">Myliander</field>
     <field name="year">1587</field>
     <field name="subjects">Geschichte</field>
     <field name="mediaType">Book</field>
@@ -12404,7 +12404,7 @@
     <field name="author">Wecker, Johann Jacob#100679463</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Episcopius</field>
+    <field name="publishers">Episcopius</field>
     <field name="year">1581</field>
     <field name="subjects">Pharmazie</field>
     <field name="mediaType">Book</field>
@@ -12436,7 +12436,7 @@
     <field name="author">Wecker, Johann Jacob#100679463</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Episcopius</field>
+    <field name="publishers">Episcopius</field>
     <field name="year">1580</field>
     <field name="subjects">Pharmazie</field>
     <field name="mediaType">Book</field>
@@ -12465,7 +12465,7 @@
     <field name="author">Wecker, Johann Jacob#100679463</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Episcopius</field>
+    <field name="publishers">Episcopius</field>
     <field name="year">1581</field>
     <field name="subjects">Pharmazie</field>
     <field name="mediaType">Book</field>
@@ -12494,7 +12494,7 @@
     <field name="author">Wesenbeck, Matthaeus#11757287X</field>
     <field name="place_1">Lyon</field>
     <field name="coordinates_place_1">45.74846,4.84671</field>
-    <field name="publisher">Michel</field>
+    <field name="publishers">Michel</field>
     <field name="year">1583</field>
     <field name="subjects">Jurisprudenz</field>
     <field name="mediaType">Book</field>
@@ -12520,7 +12520,7 @@
     <field name="author">Wier, Johannes#118632043</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Bassée, Nicolas</field>
+    <field name="publishers">Bassée, Nicolas</field>
     <field name="year">1588</field>
     <field name="subjects">Pharmazie</field>
     <field name="mediaType">Book</field>
@@ -12549,7 +12549,7 @@
     <field name="author">Willich, Jodocus#124960812</field>
     <field name="place_1">Zürich</field>
     <field name="coordinates_place_1">47.36667,8.55</field>
-    <field name="publisher">Gesner</field>
+    <field name="publishers">Gesner</field>
     <field name="year">1563</field>
     <field name="subjects">Pharmazie</field>
     <field name="mediaType">Book</field>
@@ -12578,7 +12578,7 @@
     <field name="author">Wirsung, Christoph#124557066</field>
     <field name="place_1">Neustadt an der Weinstraße</field>
     <field name="coordinates_place_1">49.35009,8.13886</field>
-    <field name="publisher">Harisch</field>
+    <field name="publishers">Harisch</field>
     <field name="year">1582</field>
     <field name="subjects">Pharmazie</field>
     <field name="mediaType">Book</field>
@@ -12607,7 +12607,7 @@
     <field name="author">Wittesteyn, Carolus#10070560X</field>
     <field name="place_1">Antwerpen</field>
     <field name="coordinates_place_1">51.21989,4.40346</field>
-    <field name="publisher">Plantin</field>
+    <field name="publishers">Plantin</field>
     <field name="year">1588</field>
     <field name="subjects">Medizin</field>
     <field name="mediaType">Book</field>
@@ -12636,7 +12636,7 @@
     <field name="author">Wittich, Johannes#118880578</field>
     <field name="place_1">Leipzig</field>
     <field name="coordinates_place_1">51.33962,12.37129</field>
-    <field name="publisher">Gross</field>
+    <field name="publishers">Gross</field>
     <field name="year">1596</field>
     <field name="subjects">Pharmazie</field>
     <field name="mediaType">Book</field>
@@ -12665,7 +12665,7 @@
     <field name="author">Wolf, Caspar#100131603</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">s. n.</field>
+    <field name="publishers">s. n.</field>
     <field name="year">1567</field>
     <field name="subjects">Alchemie</field>
     <field name="mediaType">Book</field>
@@ -12694,7 +12694,7 @@
     <field name="author">Wolf, Caspar#100131603</field>
     <field name="place_1">Basel</field>
     <field name="coordinates_place_1">47.55839,7.57327</field>
-    <field name="publisher">Waldkirch</field>
+    <field name="publishers">Waldkirch</field>
     <field name="year">1586-1588</field>
     <field name="subjects">Gynäkologie</field>
     <field name="mediaType">Book</field>
@@ -12723,7 +12723,7 @@
     <field name="author">Zabarella, Giacomo#119079577</field>
     <field name="place_1">Heidelberg</field>
     <field name="coordinates_place_1">49.40768,8.69079</field>
-    <field name="publisher">Mareschal</field>
+    <field name="publishers">Mareschal</field>
     <field name="year">1587</field>
     <field name="subjects">Philosophie</field>
     <field name="mediaType">Book</field>
@@ -12752,7 +12752,7 @@
     <field name="author">Avraham ben Šemu'el Zakut#100967280</field>
     <field name="place_1">Venedig</field>
     <field name="coordinates_place_1">45.43713,12.33265</field>
-    <field name="publisher">Liechtenstein</field>
+    <field name="publishers">Liechtenstein</field>
     <field name="year">1502</field>
     <field name="subjects">Astronomie</field>
     <field name="mediaType">Book</field>
@@ -12781,7 +12781,7 @@
     <field name="author">Crato, Johannes#119440067</field>
     <field name="place_1">Frankfurt am Main</field>
     <field name="coordinates_place_1">50.11552,8.68417</field>
-    <field name="publisher">Wechel</field>
+    <field name="publishers">Wechel</field>
     <field name="year">1611</field>
     <field name="subjects">Consilia</field>
     <field name="mediaType">Book</field>
@@ -12810,7 +12810,7 @@
     <field name="author">Liddell, Duncan#117671622</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1605</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -12842,7 +12842,7 @@
     <field name="author">Liddell, Duncan#117671622</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1605</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -12874,7 +12874,7 @@
     <field name="author">Liddell, Duncan#117671622</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1605</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -12906,7 +12906,7 @@
     <field name="author">Liddell, Duncan#117671622</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1605</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -12938,7 +12938,7 @@
     <field name="author">Liddell, Duncan#117671622</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1605</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -12970,7 +12970,7 @@
     <field name="author">Liddell, Duncan#117671622</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1605</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -13002,7 +13002,7 @@
     <field name="author">Liddell, Duncan#117671622</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1605</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -13034,7 +13034,7 @@
     <field name="author">Liddell, Duncan#117671622</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1605</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -13066,7 +13066,7 @@
     <field name="author">Liddell, Duncan#117671622</field>
     <field name="place_1">Helmstedt</field>
     <field name="coordinates_place_1">52.2279,11.00985</field>
-    <field name="publisher">Lucius</field>
+    <field name="publishers">Lucius</field>
     <field name="year">1606</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -13095,7 +13095,7 @@
     <field name="author">Crato, Johannes#119440067</field>
     <field name="place_1">Hanau</field>
     <field name="coordinates_place_1">50.13423,8.91418</field>
-    <field name="publisher">Wechel</field>
+    <field name="publishers">Wechel</field>
     <field name="year">1611</field>
     <field name="subjects">Consilia</field>
     <field name="mediaType">Book</field>
@@ -13127,7 +13127,7 @@
     <field name="author">Crato, Johannes#119440067</field>
     <field name="place_1">Hanau</field>
     <field name="coordinates_place_1">50.13423,8.91418</field>
-    <field name="publisher">Wechel</field>
+    <field name="publishers">Wechel</field>
     <field name="year">1611</field>
     <field name="subjects">Consilia</field>
     <field name="mediaType">Book</field>
@@ -13156,7 +13156,7 @@
     <field name="author">Liddell, Duncan#117671622</field>
     <field name="place_1">Hamburg</field>
     <field name="coordinates_place_1">53.57532,10.01534</field>
-    <field name="publisher">Sumptibus Frobenianis</field>
+    <field name="publishers">Sumptibus Frobenianis</field>
     <field name="year">1610</field>
     <field name="subjects">Pathologie</field>
     <field name="mediaType">Book</field>
@@ -13185,7 +13185,7 @@
     <field name="author">Münsinger von Frundeck, Joachim#118747622</field>
     <field name="place_1">Lyon</field>
     <field name="coordinates_place_1">45.74846,4.84671</field>
-    <field name="publisher">Rouillius</field>
+    <field name="publishers">Rouillius</field>
     <field name="year">1586</field>
     <field name="subjects">Jurisprudenz</field>
     <field name="mediaType">Book</field>

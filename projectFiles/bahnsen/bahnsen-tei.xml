@@ -15,7 +15,7 @@
             <name type="country">Germany</name>
           </address>
         </publisher>
-        <date when="2019-03-25">2019</date>
+        <date when="2019-09-02">2019</date>
       </publicationStmt>
       <sourceDesc>
         <listWit>
@@ -6157,7 +6157,8 @@ Br&#xFC;ning, V. F. Bibliographie der alchemistischen Literatur 2055. Verf. ermi
             <pubPlace>
               <rs type="place" key="getty_7012349">Wittenberg</rs>
             </pubPlace>
-            <publisher>Hartmann, Johann/Hartmann, Friedrich</publisher>
+            <publisher>Hartmann, Johann</publisher>
+            <publisher>Hartmann, Friedrich</publisher>
             <date when="1595">1595</date>
             <idno type="VD16">B 2880</idno>
           </bibl>
@@ -6179,7 +6180,8 @@ Jetzo auffs new revidirt/ und mit Zusetzung vieler in erster edition theils au&#
             <pubPlace>
               <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
-            <publisher>Hoffmann, Wolfgang/Ruland, Johann</publisher>
+            <publisher>Hoffmann, Wolfgang</publisher>
+            <publisher>Ruland, Johann</publisher>
             <date when="1640">1640</date>
             <idno type="VD17">23:268065T</idno>
           </bibl>
@@ -6336,7 +6338,8 @@ Nunc denuo in Germania in lucem typis mandati.</title>
             <pubPlace>
               <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
-            <publisher>Heyden, Jakob van der/Kieser, Eberhard</publisher>
+            <publisher>Heyden, Jakob van der</publisher>
+            <publisher>Kieser, Eberhard</publisher>
             <date when="1622">1622</date>
             <idno type="VD17">12:654123V</idno>
           </bibl>
@@ -6353,7 +6356,8 @@ Zuvor vermehret mit einem B&#xFC;chlein/ De Monetis Et Mensuris ... Insonderheit
             <pubPlace>
               <rs type="place" key="getty_7004456">Magdeburg</rs>
             </pubPlace>
-            <publisher>Ambrosius Kirchner III. Erben/Boel, Joachim</publisher>
+            <publisher>Ambrosius Kirchner III. Erben</publisher>
+            <publisher>Boel, Joachim</publisher>
             <date when="1623">1623</date>
             <idno type="VD17">23:268626G</idno>
           </bibl>
@@ -6637,7 +6641,8 @@ Zuvor vermehret mit einem B&#xFC;chlein/ De Monetis Et Mensuris ... Insonderheit
             <pubPlace>
               <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
-            <publisher>Peter Fischer Erben/Saur, Johannes</publisher>
+            <publisher>Peter Fischer Erben</publisher>
+            <publisher>Saur, Johannes</publisher>
             <date when="1604">1604</date>
             <idno type="VD17">23:672161D</idno>
           </bibl>
@@ -7134,7 +7139,8 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
             <pubPlace>
               <rs type="place" key="getty_1036898">Halle (Saale)</rs>
             </pubPlace>
-            <publisher>Krusicke, Joachim/Starck, Heinrich</publisher>
+            <publisher>Krusicke, Joachim</publisher>
+            <publisher>Starck, Heinrich</publisher>
             <date when="1618">1618</date>
             <idno type="VD17">3:004373K</idno>
           </bibl>
@@ -7736,7 +7742,8 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
             <pubPlace>
               <rs type="place" key="getty_7012329">Leipzig</rs>
             </pubPlace>
-            <publisher>Hallervord, Johann/Ritzsch, Gregorius</publisher>
+            <publisher>Hallervord, Johann</publisher>
+            <publisher>Ritzsch, Gregorius</publisher>
             <date when="1638">1638</date>
             <idno type="VD17">23:270485W</idno>
           </bibl>
@@ -7754,7 +7761,8 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
             <pubPlace>
               <rs type="place" key="getty_7012806">Eisleben</rs>
             </pubPlace>
-            <publisher>Grosse, Henning d.&#xC4;./Gaubisch, Jakob d.&#xC4;.</publisher>
+            <publisher>Grosse, Henning d.&#xC4;.</publisher>
+            <publisher>Gaubisch, Jakob d.&#xC4;.</publisher>
             <date when="1605">1605</date>
             <idno type="VD17">1:001353H</idno>
           </bibl>
@@ -7769,7 +7777,8 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
             <pubPlace>
               <rs type="place" key="getty_7004982">Dortmund</rs>
             </pubPlace>
-            <publisher>Wechter, Andreas/Andreas Wechter Erben</publisher>
+            <publisher>Wechter, Andreas</publisher>
+            <publisher>Andreas Wechter Erben</publisher>
             <date when="1647">[1647]</date>
             <idno type="VD17">23:000680Y</idno>
           </bibl>
@@ -7941,7 +7950,8 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
             <pubPlace>
               <rs type="place" key="getty_7012329">Leipzig</rs>
             </pubPlace>
-            <publisher>H&#xF6;rnig, Bartholomaeus/Grosse, Henning d.&#xC4;.</publisher>
+            <publisher>H&#xF6;rnig, Bartholomaeus</publisher>
+            <publisher>Grosse, Henning d.&#xC4;.</publisher>
             <date when="1600">1600</date>
             <idno type="VD16">M 180</idno>
           </bibl>
@@ -7953,7 +7963,8 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
             <pubPlace>
               <rs type="place" key="getty_7003262">Verona</rs>
             </pubPlace>
-            <publisher>Marino, Giovanni Battista/Tamo, Angelo</publisher>
+            <publisher>Marino, Giovanni Battista</publisher>
+            <publisher>Tamo, Angelo</publisher>
             <date when="1599">1599</date>
             <idno type="EDIT">CNCE 29383</idno>
           </bibl>
@@ -7992,7 +8003,8 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
             <pubPlace>
               <rs type="place" key="getty_7005972">Frankfurt an der Oder</rs>
             </pubPlace>
-            <publisher>Eichorn, Andreas/Thieme, Johann</publisher>
+            <publisher>Eichorn, Andreas</publisher>
+            <publisher>Thieme, Johann</publisher>
             <date when="1600">1600</date>
             <idno type="VD16">B 4671</idno>
           </bibl>
@@ -8005,7 +8017,8 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
             <pubPlace>
               <rs type="place" key="getty_7012329">Leipzig</rs>
             </pubPlace>
-            <publisher>Thomas Sch&#xFC;rer Erben/Gl&#xFC;ck, Johann</publisher>
+            <publisher>Thomas Sch&#xFC;rer Erben</publisher>
+            <publisher>Gl&#xFC;ck, Johann</publisher>
             <date when="1620">1620</date>
             <idno type="VD17">23:274644R</idno>
           </bibl>
@@ -8150,7 +8163,8 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
             <pubPlace>
               <rs type="place" key="getty_7004446">K&#xF6;ln</rs>
             </pubPlace>
-            <publisher>Quentell, Heinrich/Druckerei Retro Minores</publisher>
+            <publisher>Quentell, Heinrich</publisher>
+            <publisher>Druckerei Retro Minores</publisher>
             <date when="1499">1499</date>
             <idno type="GW">09046</idno>
           </bibl>
@@ -8358,7 +8372,8 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
             <pubPlace>
               <rs type="place" key="getty_7007077">Zwolle</rs>
             </pubPlace>
-            <publisher>Jorrijaensz, Frans/Heyns, Zacharias</publisher>
+            <publisher>Jorrijaensz, Frans</publisher>
+            <publisher>Heyns, Zacharias</publisher>
             <date when="1629">1629</date>
             <idno type="STCN">831203706</idno>
           </bibl>
@@ -8370,7 +8385,8 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
             <pubPlace>
               <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
-            <publisher>Jennis, Lucas/Starck, Heinrich</publisher>
+            <publisher>Jennis, Lucas</publisher>
+            <publisher>Starck, Heinrich</publisher>
             <date when="1618">1618</date>
             <idno type="VD17">3:308300Q</idno>
           </bibl>
@@ -8394,7 +8410,8 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
             <pubPlace>
               <rs type="place" key="getty_7004431">Kassel</rs>
             </pubPlace>
-            <publisher>K&#xF6;hler, Sebald/Gentzsch, Jakob</publisher>
+            <publisher>K&#xF6;hler, Sebald</publisher>
+            <publisher>Gentzsch, Jakob</publisher>
             <date when="1646">1646</date>
             <idno type="VD17">547:697197X</idno>
           </bibl>
@@ -8428,7 +8445,8 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
             <pubPlace>
               <rs type="place" key="getty_7007057">Alkmaar</rs>
             </pubPlace>
-            <publisher>Meester, Jacob de/Jansz, Ambrosius</publisher>
+            <publisher>Meester, Jacob de</publisher>
+            <publisher>Jansz, Ambrosius</publisher>
             <date when="1605">1605</date>
             <idno type="STCN">830652094</idno>
           </bibl>
@@ -8564,7 +8582,8 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
             <pubPlace>
               <rs type="place" key="getty_7012329">Leipzig</rs>
             </pubPlace>
-            <publisher>Grosse, Henning d.&#xC4;./Popporeich, Jakob</publisher>
+            <publisher>Grosse, Henning d.&#xC4;.</publisher>
+            <publisher>Popporeich, Jakob</publisher>
             <date when="1612">1612</date>
             <idno type="VD17">3:610830M</idno>
           </bibl>
@@ -8609,7 +8628,8 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
             <pubPlace>
               <rs type="place" key="getty_7005295">Hanau</rs>
             </pubPlace>
-            <publisher>Cause, Johann/Desch, Johann Wolfgang</publisher>
+            <publisher>Cause, Johann</publisher>
+            <publisher>Desch, Johann Wolfgang</publisher>
             <date when="1615">1615</date>
             <idno type="VD17">3:612582B</idno>
           </bibl>
@@ -8742,7 +8762,8 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
             <pubPlace>
               <rs type="place" key="getty_7004436">L&#xFC;neburg</rs>
             </pubPlace>
-            <publisher>Stern, Johann/Stern, Heinrich</publisher>
+            <publisher>Stern, Johann</publisher>
+            <publisher>Stern, Heinrich</publisher>
             <date when="1625">1625</date>
             <idno type="VD17">23:275528G</idno>
           </bibl>
@@ -8886,7 +8907,8 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
             <pubPlace>
               <rs type="place" key="getty_7006952">Amsterdam</rs>
             </pubPlace>
-            <publisher>Boogaert, Willem Symonsz/Wild, Baltus de</publisher>
+            <publisher>Boogaert, Willem Symonsz</publisher>
+            <publisher>Wild, Baltus de</publisher>
             <date when="1649">1649</date>
             <idno type="STCN">317638238</idno>
           </bibl>
@@ -9280,7 +9302,8 @@ Nebenst beygef&#xFC;gtem Extract etlicher wunderlichen Newen Offenbahrungen/ ang
             <pubPlace>
               <rs type="place" key="getty_7006952">Amsterdam</rs>
             </pubPlace>
-            <publisher>Houthaeck, Tymon/Rieuwertsz, Jan (I)</publisher>
+            <publisher>Houthaeck, Tymon</publisher>
+            <publisher>Rieuwertsz, Jan (I)</publisher>
             <date when="1661">1661</date>
             <idno type="STCN">094481679</idno>
           </bibl>
@@ -9405,7 +9428,8 @@ Nebenst beygef&#xFC;gtem Extract etlicher wunderlichen Newen Offenbahrungen/ ang
             <pubPlace>
               <rs type="place" key="getty_7012349">Wittenberg</rs>
             </pubPlace>
-            <publisher>Krafft, Johann d.&#xC4;./Seelfisch, Samuel d.&#xC4;.</publisher>
+            <publisher>Krafft, Johann d.&#xC4;.</publisher>
+            <publisher>Seelfisch, Samuel d.&#xC4;.</publisher>
             <date when="1576">1576</date>
             <idno type="VD16">B 3110</idno>
           </bibl>
@@ -9994,7 +10018,8 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
             <pubPlace>
               <rs type="place" key="getty_7008038">Paris</rs>
             </pubPlace>
-            <publisher>Foucher, Jean/David, Jean</publisher>
+            <publisher>Foucher, Jean</publisher>
+            <publisher>David, Jean</publisher>
             <date when="1547">1547</date>
             <idno type="GBV">594193672</idno>
           </bibl>
@@ -10065,7 +10090,8 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
             <pubPlace>
               <rs type="place" key="getty_7006952">Amsterdam</rs>
             </pubPlace>
-            <publisher>Guyot, Christoffel/Jacobsz, Laurens</publisher>
+            <publisher>Guyot, Christoffel</publisher>
+            <publisher>Jacobsz, Laurens</publisher>
             <date when="1600">1600</date>
             <idno type="SUDOC">166516082</idno>
           </bibl>
@@ -10099,7 +10125,8 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
             <pubPlace>
               <rs type="place" key="getty_7012329">Leipzig</rs>
             </pubPlace>
-            <publisher>Apel, Jakob II./Kober, Lorenz</publisher>
+            <publisher>Apel, Jakob II.</publisher>
+            <publisher>Kober, Lorenz</publisher>
             <date when="1615">1615</date>
             <idno type="VD17">1:051621F</idno>
           </bibl>
@@ -10180,7 +10207,8 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
             <pubPlace>
               <rs type="place" key="getty_7006792">Rotterdam</rs>
             </pubPlace>
-            <publisher>Waesberge, Jan van II./Waesberge, Jan van III.</publisher>
+            <publisher>Waesberge, Jan van II.</publisher>
+            <publisher>Waesberge, Jan van III.</publisher>
             <date when="1616">1616</date>
             <idno type="STCN">305998900</idno>
           </bibl>
@@ -10248,7 +10276,8 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
             <pubPlace>
               <rs type="place" key="getty_7006805">Gouda</rs>
             </pubPlace>
-            <publisher>Tournay, Jasper/Burier, Andries</publisher>
+            <publisher>Tournay, Jasper</publisher>
+            <publisher>Burier, Andries</publisher>
             <date when="1613">1613</date>
             <idno type="STCN">056508034</idno>
           </bibl>
@@ -10828,7 +10857,8 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
             <pubPlace>
               <rs type="place" key="getty_7006952">Amsterdam</rs>
             </pubPlace>
-            <publisher>Fabel, Hans/Jansson, Jan</publisher>
+            <publisher>Fabel, Hans</publisher>
+            <publisher>Jansson, Jan</publisher>
             <date when="1656">1656</date>
             <idno type="VD17">1:073214R</idno>
           </bibl>
@@ -10925,7 +10955,8 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
             <pubPlace>
               <rs type="place" key="getty_7005630">Goslar</rs>
             </pubPlace>
-            <publisher>Eberhard Hoffmann Erben/Vogt, Johann</publisher>
+            <publisher>Eberhard Hoffmann Erben</publisher>
+            <publisher>Vogt, Johann</publisher>
             <date when="1610">1610</date>
             <idno type="VD17">23:672932L</idno>
           </bibl>
@@ -10963,7 +10994,8 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
             <pubPlace>
               <rs type="place" key="getty_7012700">Schleswig</rs>
             </pubPlace>
-            <publisher>Pauschardt, Nikolaus/Holwein, Johann</publisher>
+            <publisher>Pauschardt, Nikolaus</publisher>
+            <publisher>Holwein, Johann</publisher>
             <date when="1666">1666</date>
             <idno type="VD17">23:668151V</idno>
           </bibl>
@@ -10975,7 +11007,8 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
             <pubPlace>
               <rs type="place" key="getty_7006952">Amsterdam</rs>
             </pubPlace>
-            <publisher>Appelaer, Broer/Appelaer, Jan</publisher>
+            <publisher>Appelaer, Broer</publisher>
+            <publisher>Appelaer, Jan</publisher>
             <date when="1665">1665</date>
             <idno type="STCN">189201207</idno>
           </bibl>
@@ -10987,7 +11020,8 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
             <pubPlace>
               <rs type="place" key="getty_7007269">Basel</rs>
             </pubPlace>
-            <publisher>Foillet, Jakob/K&#xF6;nig, Ludwig I.</publisher>
+            <publisher>Foillet, Jakob</publisher>
+            <publisher>K&#xF6;nig, Ludwig I.</publisher>
             <date when="1598">1598</date>
             <idno type="VD16">T 1079</idno>
           </bibl>
@@ -11259,7 +11293,8 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
             <pubPlace>
               <rs type="place" key="getty_7007269">Basel</rs>
             </pubPlace>
-            <publisher>Froben, Hieronymus d.&#xC4;./Episcopius, Nikolaus d.&#xC4;.</publisher>
+            <publisher>Froben, Hieronymus d.&#xC4;.</publisher>
+            <publisher>Episcopius, Nikolaus d.&#xC4;.</publisher>
             <date when="1546">1546</date>
             <idno type="VD16">E 3469</idno>
           </bibl>
@@ -11319,7 +11354,8 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
             <pubPlace>
               <rs type="place" key="getty_7006952">Amsterdam</rs>
             </pubPlace>
-            <publisher>Felgenhauer, Paul/Fabel, Hans</publisher>
+            <publisher>Felgenhauer, Paul</publisher>
+            <publisher>Fabel, Hans</publisher>
             <date when="1654">1654</date>
             <idno type="VD17">23:660617G</idno>
           </bibl>
@@ -11363,7 +11399,8 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
             <pubPlace>
               <rs type="place" key="getty_7024031">Erfurt</rs>
             </pubPlace>
-            <publisher>Birckner, Johann/Spangenberg, Martha</publisher>
+            <publisher>Birckner, Johann</publisher>
+            <publisher>Spangenberg, Martha</publisher>
             <date when="1648">1648</date>
             <idno type="VD17">23:287485E</idno>
           </bibl>
@@ -11387,7 +11424,8 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
             <pubPlace>
               <rs type="place" key="getty_1036898">Halle (Saale)</rs>
             </pubPlace>
-            <publisher>Krusicke, Joachim/Hynitzsch, Erasmus</publisher>
+            <publisher>Krusicke, Joachim</publisher>
+            <publisher>Hynitzsch, Erasmus</publisher>
             <date when="1609">1609</date>
             <idno type="VD17">39:141182Z</idno>
           </bibl>
@@ -11478,7 +11516,7 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
           </bibl>
           <bibl xml:id="bahnsen526-reference" corresp="bahnsen526">
             <title>Schrifft- und Glaubens-gem&#xE4;sse Betrachtung/ Von dem Ohrte der Seelen/ wann sie von dem Leibe geschieden : gerichtet auff den Spruch 1. Petr. 3. v. 18. Item 1. Petr. 4. v. 3. 5. 6. Von den Geistern in der Gef&#xE4;ngn&#xFC;s und den Todten/ denen das Evangelium ist geprediget worden ... / Durch Franciscum Montanum Elysium</title>
-            <author>Frankenberg, Abraham von </author>
+            <author>Frankenberg, Abraham von</author>
             <pubPlace>
               <rs type="place" key="getty_7006952">Amsterdam</rs>
             </pubPlace>
@@ -11582,7 +11620,7 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
             <author>
               <rs type="person" key="gnd_118793004">Postel, Guillaume</rs>
             </author>
-            <editor>Frankenberg, Abraham von </editor>
+            <editor>Frankenberg, Abraham von</editor>
             <pubPlace>
               <rs type="place" key="getty_7006952">Amsterdam</rs>
             </pubPlace>
@@ -11595,7 +11633,7 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
             <author>
               <rs type="person" key="gnd_118793004">Postel, Guillaume</rs>
             </author>
-            <editor>Frankenberg, Abraham von </editor>
+            <editor>Frankenberg, Abraham von</editor>
             <pubPlace>
               <rs type="place" key="getty_7006952">Amsterdam</rs>
             </pubPlace>
@@ -11605,7 +11643,7 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
           </bibl>
           <bibl xml:id="bahnsen541-reference" corresp="bahnsen541">
             <title>Kurtzer Bericht von Zweyen Zeugen des Leidens Iesu Christi etc.</title>
-            <author>Frankenberg, Abraham von </author>
+            <author>Frankenberg, Abraham von</author>
             <pubPlace>
               <rs type="place" key="getty_7006952">Amsterdam</rs>
             </pubPlace>
@@ -11623,7 +11661,7 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
           </bibl>
           <bibl xml:id="bahnsen544-reference" corresp="bahnsen544">
             <title>Schrifft- und Glaubens-gem&#xE4;sse Betrachtung/ Von dem Ohrte der Seelen/ wann sie von dem Leibe geschieden : gerichtet auff den Spruch 1. Petr. 3. v. 18. Item 1. Petr. 4. v. 3. 5. 6. Von den Geistern in der Gef&#xE4;ngn&#xFC;s und den Todten/ denen das Evangelium ist geprediget worden ... / Durch Franciscum Montanum Elysium</title>
-            <author>Frankenberg, Abraham von </author>
+            <author>Frankenberg, Abraham von</author>
             <pubPlace>
               <rs type="place" key="getty_7006952">Amsterdam</rs>
             </pubPlace>
@@ -11633,7 +11671,7 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
           </bibl>
           <bibl xml:id="bahnsen545-reference" corresp="bahnsen545">
             <title>Conclusiones de Fundamento Sapientiae Theorico-practicae. Da ist/ Endlicher Beschlu&#xDF; vom Grunde der Wei&#xDF;heit / Von etlichen Liebhabern der Wahrheit zusammen getragen. [Abraham von Frankenberg]</title>
-            <author>Frankenberg, Abraham von </author>
+            <author>Frankenberg, Abraham von</author>
             <pubPlace>
               <rs type="place" key="getty_7006952">Amsterdam</rs>
             </pubPlace>
@@ -11725,7 +11763,8 @@ Darbey ein Schreiben vom Kriege/ an einen Leutenant ...</title>
             <pubPlace>
               <rs type="place" key="getty_7004436">L&#xFC;neburg</rs>
             </pubPlace>
-            <publisher>Stern, Johann/Stern, Heinrich</publisher>
+            <publisher>Stern, Johann</publisher>
+            <publisher>Stern, Heinrich</publisher>
             <date when="1636">[1636]</date>
             <idno type="VD17">12:103183C</idno>
           </bibl>
@@ -11749,7 +11788,8 @@ Darbey ein Schreiben vom Kriege/ an einen Leutenant ...</title>
             <pubPlace>
               <rs type="place" key="getty_7006952">Amsterdam</rs>
             </pubPlace>
-            <publisher>Jansson, Jan/Stichel, Dominicus van der</publisher>
+            <publisher>Jansson, Jan</publisher>
+            <publisher>Stichel, Dominicus van der</publisher>
             <date when="1640">[1640]</date>
             <idno type="STCN">332506177</idno>
           </bibl>
@@ -11823,7 +11863,8 @@ Darbey ein Schreiben vom Kriege/ an einen Leutenant ...</title>
             <pubPlace>
               <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
-            <publisher>Sch&#xF6;nwetter, Johann Gottfried/Beyer, Johannes</publisher>
+            <publisher>Sch&#xF6;nwetter, Johann Gottfried</publisher>
+            <publisher>Beyer, Johannes</publisher>
             <date when="1640">1640</date>
             <idno type="VD17">3:606970R</idno>
           </bibl>
@@ -11888,7 +11929,8 @@ Darbey ein Schreiben vom Kriege/ an einen Leutenant ...</title>
             <pubPlace>
               <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
-            <publisher>Lechler, Martin/Feyerabend, Sigmund</publisher>
+            <publisher>Lechler, Martin</publisher>
+            <publisher>Feyerabend, Sigmund</publisher>
             <date when="1571">1571</date>
             <idno type="VD16">P 401</idno>
           </bibl>
@@ -12032,7 +12074,8 @@ Mit besonderm flei&#xDF; ... colligirt, Jetzo aber auffs newe zum Dritten mahl t
             <pubPlace>
               <rs type="place" key="getty_7012806">Eisleben</rs>
             </pubPlace>
-            <publisher>Grosse, Henning d.&#xC4;./Gaubisch, Jakob d.&#xC4;.</publisher>
+            <publisher>Grosse, Henning d.&#xC4;.</publisher>
+            <publisher>Gaubisch, Jakob d.&#xC4;.</publisher>
             <date when="1605">1605</date>
             <idno type="VD17">3:600946R</idno>
           </bibl>
@@ -12126,7 +12169,8 @@ Allen frommen Hau&#xDF;wirthen ... nicht allein aus dem Latein in Deutsche Sprac
             <pubPlace>
               <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
-            <publisher>Theodor de Bry der &#xC4;ltere Erben/Becker, Matth&#xE4;us d.J.</publisher>
+            <publisher>Theodor de Bry der &#xC4;ltere Erben</publisher>
+            <publisher>Becker, Matth&#xE4;us d.J.</publisher>
             <date when="1610">1610</date>
             <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
@@ -12215,7 +12259,8 @@ Allen frommen Hau&#xDF;wirthen ... nicht allein aus dem Latein in Deutsche Sprac
             <pubPlace>
               <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
-            <publisher>Stein, Nikolaus/Richter, Wolfgang</publisher>
+            <publisher>Stein, Nikolaus</publisher>
+            <publisher>Richter, Wolfgang</publisher>
             <date when="1608">1608</date>
             <idno type="VD17">3:302600E</idno>
           </bibl>
@@ -12227,7 +12272,8 @@ Allen frommen Hau&#xDF;wirthen ... nicht allein aus dem Latein in Deutsche Sprac
             <pubPlace>
               <rs type="place" key="getty_7004445">M&#xFC;nster</rs>
             </pubPlace>
-            <publisher>Ossenbr&#xFC;gge, Johann/Thurneysser zum Thurn, Leonhardt</publisher>
+            <publisher>Ossenbr&#xFC;gge, Johann</publisher>
+            <publisher>Thurneysser zum Thurn, Leonhardt</publisher>
             <date when="1569">1569</date>
             <idno type="VD16">T 1165</idno>
           </bibl>
@@ -12239,7 +12285,8 @@ Allen frommen Hau&#xDF;wirthen ... nicht allein aus dem Latein in Deutsche Sprac
             <pubPlace>
               <rs type="place" key="getty_7004445">M&#xFC;nster</rs>
             </pubPlace>
-            <publisher>Ossenbr&#xFC;gge, Johann/Thurneysser zum Thurn, Leonhardt</publisher>
+            <publisher>Ossenbr&#xFC;gge, Johann</publisher>
+            <publisher>Thurneysser zum Thurn, Leonhardt</publisher>
             <date when="1570">1570</date>
             <idno type="VD16">T 1207</idno>
           </bibl>
@@ -12251,7 +12298,8 @@ Allen frommen Hau&#xDF;wirthen ... nicht allein aus dem Latein in Deutsche Sprac
             <pubPlace>
               <rs type="place" key="getty_7004445">M&#xFC;nster</rs>
             </pubPlace>
-            <publisher>Ossenbr&#xFC;gge, Johann/Thurneysser zum Thurn, Leonhardt</publisher>
+            <publisher>Ossenbr&#xFC;gge, Johann</publisher>
+            <publisher>Thurneysser zum Thurn, Leonhardt</publisher>
             <date when="1569">1569</date>
             <idno type="VD16">T 1165</idno>
           </bibl>
@@ -12347,7 +12395,8 @@ Und nun zum andern mahl etwas vermehret unnd gebessert / Durch Iustum Stengeln B
             <pubPlace>
               <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
-            <publisher>Richter, Wolfgang/Spies, Johann</publisher>
+            <publisher>Richter, Wolfgang</publisher>
+            <publisher>Spies, Johann</publisher>
             <date when="1600">1600</date>
             <idno type="VD16">ZV 21457</idno>
           </bibl>
@@ -12360,7 +12409,8 @@ Und nun zum andern mahl etwas vermehret unnd gebessert / Durch Iustum Stengeln B
             <pubPlace>
               <rs type="place" key="getty_7006952">Amsterdam</rs>
             </pubPlace>
-            <publisher>Claesz, Cornelis/Campen, Willem Jansz van</publisher>
+            <publisher>Claesz, Cornelis</publisher>
+            <publisher>Campen, Willem Jansz van</publisher>
             <date when="1593">1593</date>
             <idno type="STCN">079090737</idno>
           </bibl>
@@ -12391,7 +12441,8 @@ Sampt einem andern Tract&#xE4;tlin/ Von dem Schnee und Ey&#xDF; ...</title>
             <pubPlace>
               <rs type="place" key="getty_7007601">Breslau</rs>
             </pubPlace>
-            <publisher>Lamberg, Abraham/Eyring, Johann</publisher>
+            <publisher>Lamberg, Abraham</publisher>
+            <publisher>Eyring, Johann</publisher>
             <date when="1615">1615</date>
             <idno type="VD17">23:267523Z</idno>
           </bibl>
@@ -12407,7 +12458,8 @@ Sampt einem andern Tract&#xE4;tlin/ Von dem Schnee und Ey&#xDF; ...</title>
             <pubPlace>
               <rs type="place" key="getty_7007601">Breslau</rs>
             </pubPlace>
-            <publisher>Lamberg, Abraham/Eyring, Johann</publisher>
+            <publisher>Lamberg, Abraham</publisher>
+            <publisher>Eyring, Johann</publisher>
             <date when="1615">1615</date>
             <idno type="VD17">23:267523Z</idno>
           </bibl>
@@ -12440,7 +12492,8 @@ Sampt einem andern Tract&#xE4;tlin/ Von dem Schnee und Ey&#xDF; ...</title>
             <pubPlace>
               <rs type="place" key="getty_7005289">Hamburg</rs>
             </pubPlace>
-            <publisher>Rappolt, Thomas von/Werner, Heinrich</publisher>
+            <publisher>Rappolt, Thomas von</publisher>
+            <publisher>Werner, Heinrich</publisher>
             <date when="1635">1635</date>
             <idno type="VD17">12:631299X</idno>
           </bibl>
@@ -12473,7 +12526,8 @@ Sampt einem andern Tract&#xE4;tlin/ Von dem Schnee und Ey&#xDF; ...</title>
             <pubPlace>
               <rs type="place" key="getty_7004324">Augsburg</rs>
             </pubPlace>
-            <publisher>Michelspacher, Stephan/Franck, David</publisher>
+            <publisher>Michelspacher, Stephan</publisher>
+            <publisher>Franck, David</publisher>
             <date when="1616">1616</date>
             <idno type="VD17">23:292828S</idno>
           </bibl>
@@ -12539,7 +12593,8 @@ Sampt einem andern Tract&#xE4;tlin/ Von dem Schnee und Ey&#xDF; ...</title>
             <pubPlace>
               <rs type="place" key="getty_7012346">Stra&#xDF;burg</rs>
             </pubPlace>
-            <publisher>Dietzel, Kaspar/Christoph von der Heyden Erben</publisher>
+            <publisher>Dietzel, Kaspar</publisher>
+            <publisher>Christoph von der Heyden Erben</publisher>
             <date when="1630">1630</date>
             <idno type="VD17">547:716910G</idno>
           </bibl>
@@ -12856,7 +12911,8 @@ Quibus Accessere Epistolae Duae Germanicae eiusdem argumenti, pari ingenii acumi
             <pubPlace>
               <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
-            <publisher>Bringer, Johann/Berner, Johann</publisher>
+            <publisher>Bringer, Johann</publisher>
+            <publisher>Berner, Johann</publisher>
             <date when="1616">1616</date>
             <idno type="VD17">3:007624P</idno>
           </bibl>
@@ -13016,7 +13072,8 @@ Quibus Accessere Epistolae Duae Germanicae eiusdem argumenti, pari ingenii acumi
             <pubPlace>
               <rs type="place" key="getty_7012626">Oberursel</rs>
             </pubPlace>
-            <publisher>Zetzner, Lazarus/Sutorius, Cornelius</publisher>
+            <publisher>Zetzner, Lazarus</publisher>
+            <publisher>Sutorius, Cornelius</publisher>
             <date when="1602">1602</date>
             <idno type="VD17">23:292821P</idno>
           </bibl>
@@ -13051,7 +13108,8 @@ Quibus Accessere Epistolae Duae Germanicae eiusdem argumenti, pari ingenii acumi
             <pubPlace>
               <rs type="place" key="getty_7004717">Rostock</rs>
             </pubPlace>
-            <publisher>Hallervord, Johann/Keil, Nikolaus</publisher>
+            <publisher>Hallervord, Johann</publisher>
+            <publisher>Keil, Nikolaus</publisher>
             <date when="1637">1637</date>
             <idno type="VD17">39:142053M</idno>
           </bibl>
@@ -13091,7 +13149,8 @@ Quibus Accessere Epistolae Duae Germanicae eiusdem argumenti, pari ingenii acumi
             <pubPlace>
               <rs type="place" key="getty_7012329">Leipzig</rs>
             </pubPlace>
-            <publisher>Voigt, Bartholom&#xE4;us d.&#xC4;./Lanckisch, Friedrich</publisher>
+            <publisher>Voigt, Bartholom&#xE4;us d.&#xC4;.</publisher>
+            <publisher>Lanckisch, Friedrich</publisher>
             <date when="1624">1624</date>
             <idno type="VD17">23:243801P</idno>
           </bibl>
@@ -13109,7 +13168,8 @@ Quibus Accessere Epistolae Duae Germanicae eiusdem argumenti, pari ingenii acumi
             <pubPlace>
               <rs type="place" key="getty_7012329">Leipzig</rs>
             </pubPlace>
-            <publisher>Apel, Jakob II./Am Ende, Valentin</publisher>
+            <publisher>Apel, Jakob II.</publisher>
+            <publisher>Am Ende, Valentin</publisher>
             <date when="1611">1611</date>
             <idno type="VD17">32:645972Q</idno>
           </bibl>
@@ -13157,7 +13217,8 @@ Quibus Accessere Epistolae Duae Germanicae eiusdem argumenti, pari ingenii acumi
             <pubPlace>
               <rs type="place" key="getty_7012329">Leipzig</rs>
             </pubPlace>
-            <publisher>Apel, Jakob II./Am Ende, Valentin</publisher>
+            <publisher>Apel, Jakob II.</publisher>
+            <publisher>Am Ende, Valentin</publisher>
             <date when="1604">1604</date>
             <idno type="VD17">39:116741L</idno>
           </bibl>
@@ -13318,7 +13379,8 @@ Accesserunt in fine memorabilia experimenta &amp; observationes Chiromanticae : 
             <pubPlace>
               <rs type="place" key="getty_7003474">Kopenhagen</rs>
             </pubPlace>
-            <publisher>Holst, J&#xF8;rgen J&#xF8;rgensen/Moltke, Joachim</publisher>
+            <publisher>Holst, J&#xF8;rgen J&#xF8;rgensen</publisher>
+            <publisher>Moltke, Joachim</publisher>
             <date when="1648">1648</date>
             <idno type="VD17">23:301185P</idno>
           </bibl>
@@ -13330,7 +13392,8 @@ Accesserunt in fine memorabilia experimenta &amp; observationes Chiromanticae : 
             <pubPlace>
               <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
-            <publisher>Berner, Johann/Humm, Anton</publisher>
+            <publisher>Berner, Johann</publisher>
+            <publisher>Humm, Anton</publisher>
             <date when="1618">1618</date>
             <idno type="VD17">23:684620K</idno>
           </bibl>
@@ -13342,7 +13405,8 @@ Accesserunt in fine memorabilia experimenta &amp; observationes Chiromanticae : 
             <pubPlace>
               <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
-            <publisher>Berner, Johann/Hoffmann, Nikolaus d.&#xC4;.</publisher>
+            <publisher>Berner, Johann</publisher>
+            <publisher>Hoffmann, Nikolaus d.&#xC4;.</publisher>
             <date when="1604">1604</date>
             <idno type="VD17">3:300550Y</idno>
           </bibl>
@@ -13351,7 +13415,8 @@ Accesserunt in fine memorabilia experimenta &amp; observationes Chiromanticae : 
             <pubPlace>
               <rs type="place" key="getty_7004431">Kassel</rs>
             </pubPlace>
-            <publisher>K&#xF6;hler, Sebald/Gentzsch, Jakob</publisher>
+            <publisher>K&#xF6;hler, Sebald</publisher>
+            <publisher>Gentzsch, Jakob</publisher>
             <date when="1649">1649</date>
             <idno type="VD17">39:116183U</idno>
           </bibl>
@@ -13406,7 +13471,8 @@ Dabey auch zwey sehr n&#xFC;tzliche andere B&#xFC;chlein ... angeh&#xE4;ngt: Neh
             <pubPlace>
               <rs type="place" key="getty_1036898">Halle (Saale)</rs>
             </pubPlace>
-            <publisher>Oelschl&#xE4;gel, Michael/Schmidt, Peter</publisher>
+            <publisher>Oelschl&#xE4;gel, Michael</publisher>
+            <publisher>Schmidt, Peter</publisher>
             <date when="1618">1618</date>
             <idno type="VD17">12:657529A</idno>
           </bibl>
@@ -13482,7 +13548,8 @@ Diu desideratum &amp; expetitum, nunc vero primum in lucem editum.</title>
             <pubPlace>
               <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
-            <publisher>Por&#xDF;, Johann Jakob/Wolff, Johann II.</publisher>
+            <publisher>Por&#xDF;, Johann Jakob</publisher>
+            <publisher>Wolff, Johann II.</publisher>
             <date when="1610">1610</date>
             <idno type="VD17">23:254715C</idno>
           </bibl>
@@ -13494,7 +13561,8 @@ Diu desideratum &amp; expetitum, nunc vero primum in lucem editum.</title>
             <pubPlace>
               <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
-            <publisher>Fischer, Jakob/Becker, Matth&#xE4;us d.&#xC4;. Witwe</publisher>
+            <publisher>Fischer, Jakob</publisher>
+            <publisher>Becker, Matth&#xE4;us d.&#xC4;. Witwe</publisher>
             <date when="1614">1614</date>
             <idno type="VD17">23:274397E</idno>
           </bibl>
@@ -13506,7 +13574,8 @@ Diu desideratum &amp; expetitum, nunc vero primum in lucem editum.</title>
             <pubPlace>
               <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
-            <publisher>Le Blon, Christoph/Hoffmann, Wolfgang</publisher>
+            <publisher>Le Blon, Christoph</publisher>
+            <publisher>Hoffmann, Wolfgang</publisher>
             <date when="1641">1641</date>
             <idno type="VD17">3:308090G</idno>
           </bibl>
@@ -13569,7 +13638,8 @@ Denuo, amicorum rogatu, in publicum emissum, ac triplici Indice ornatum.</title>
             <pubPlace>
               <rs type="place" key="getty_7012349">Wittenberg</rs>
             </pubPlace>
-            <publisher>Klemens Berger d.&#xC4;. Erben/R&#xF6;hner, Johann</publisher>
+            <publisher>Klemens Berger d.&#xC4;. Erben</publisher>
+            <publisher>R&#xF6;hner, Johann</publisher>
             <date when="1640">1640</date>
             <idno type="VD17">12:644186D</idno>
           </bibl>
@@ -13578,7 +13648,8 @@ Denuo, amicorum rogatu, in publicum emissum, ac triplici Indice ornatum.</title>
             <pubPlace>
               <rs type="place" key="getty_7007269">Basel</rs>
             </pubPlace>
-            <publisher>Waldkirch, Konrad von/Marne, Claude de</publisher>
+            <publisher>Waldkirch, Konrad von</publisher>
+            <publisher>Marne, Claude de</publisher>
             <date when="1593">1593</date>
             <idno type="VD16">A 4355</idno>
           </bibl>
@@ -13590,7 +13661,8 @@ Denuo, amicorum rogatu, in publicum emissum, ac triplici Indice ornatum.</title>
             <pubPlace>
               <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
-            <publisher>Jennis, Lucas/Jacobi, Paul</publisher>
+            <publisher>Jennis, Lucas</publisher>
+            <publisher>Jacobi, Paul</publisher>
             <date when="1620">1620</date>
             <idno type="VD17">23:295761X</idno>
           </bibl>
@@ -13633,7 +13705,8 @@ Denuo, amicorum rogatu, in publicum emissum, ac triplici Indice ornatum.</title>
             <pubPlace>
               <rs type="place" key="getty_7006952">Amsterdam</rs>
             </pubPlace>
-            <publisher>Croock, Fran&#xE7;ois/Velsen, Jacob van</publisher>
+            <publisher>Croock, Fran&#xE7;ois</publisher>
+            <publisher>Velsen, Jacob van</publisher>
             <date when="1663">1663</date>
             <idno type="STCN">214143074</idno>
           </bibl>
@@ -13661,7 +13734,8 @@ Denuo, amicorum rogatu, in publicum emissum, ac triplici Indice ornatum.</title>
             <pubPlace>
               <rs type="place" key="getty_7006948">Kampen</rs>
             </pubPlace>
-            <publisher>Plantin, Christophe/Hasselt, Augustijn van</publisher>
+            <publisher>Plantin, Christophe</publisher>
+            <publisher>Hasselt, Augustijn van</publisher>
             <date when="1561">1561</date>
             <idno type="STCN">169350207</idno>
           </bibl>
@@ -13680,7 +13754,8 @@ Denuo, amicorum rogatu, in publicum emissum, ac triplici Indice ornatum.</title>
             <pubPlace>
               <rs type="place" key="getty_7012349">Wittenberg</rs>
             </pubPlace>
-            <publisher>Berger, Clemens/M&#xFC;ller, Georg</publisher>
+            <publisher>Berger, Clemens</publisher>
+            <publisher>M&#xFC;ller, Georg</publisher>
             <date when="1612">1612</date>
             <idno type="VD17">39:136944A</idno>
           </bibl>
@@ -13692,7 +13767,8 @@ Denuo, amicorum rogatu, in publicum emissum, ac triplici Indice ornatum.</title>
             <pubPlace>
               <rs type="place" key="getty_1036898">Halle (Saale)</rs>
             </pubPlace>
-            <publisher>Krusicke, Joachim/Schmidt, Peter</publisher>
+            <publisher>Krusicke, Joachim</publisher>
+            <publisher>Schmidt, Peter</publisher>
             <date when="1617">1617</date>
             <idno type="VD17">39:116500R</idno>
           </bibl>
@@ -13740,7 +13816,8 @@ Denuo, amicorum rogatu, in publicum emissum, ac triplici Indice ornatum.</title>
             <pubPlace>
               <rs type="place" key="getty_7006952">Amsterdam</rs>
             </pubPlace>
-            <publisher>Claesz, Cornelis/Muller, Ewout Cornelisz</publisher>
+            <publisher>Claesz, Cornelis</publisher>
+            <publisher>Muller, Ewout Cornelisz</publisher>
             <idno type="STCN">Ausgabe nicht nachweisbar</idno>
           </bibl>
           <bibl xml:id="bahnsen750-reference" corresp="bahnsen750">
@@ -13784,7 +13861,8 @@ Denuo, amicorum rogatu, in publicum emissum, ac triplici Indice ornatum.</title>
             <pubPlace>
               <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
-            <publisher>Steinmeyer, Vincentius/Latomus, Sigismundus</publisher>
+            <publisher>Steinmeyer, Vincentius</publisher>
+            <publisher>Latomus, Sigismundus</publisher>
             <date when="1608">1608</date>
             <idno type="VD17">3:606689Z</idno>
           </bibl>
@@ -13808,7 +13886,8 @@ Denuo, amicorum rogatu, in publicum emissum, ac triplici Indice ornatum.</title>
             <pubPlace>
               <rs type="place" key="getty_7012329">Leipzig</rs>
             </pubPlace>
-            <publisher>Grosse, Gottfried/Rauscher, Hieronymus</publisher>
+            <publisher>Grosse, Gottfried</publisher>
+            <publisher>Rauscher, Hieronymus</publisher>
             <date when="1622">1622</date>
             <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
@@ -13823,7 +13902,8 @@ Denuo, amicorum rogatu, in publicum emissum, ac triplici Indice ornatum.</title>
             <pubPlace>
               <rs type="place" key="getty_7012329">Leipzig</rs>
             </pubPlace>
-            <publisher>Grosse, Gottfried/Rauscher, Hieronymus</publisher>
+            <publisher>Grosse, Gottfried</publisher>
+            <publisher>Rauscher, Hieronymus</publisher>
             <date when="1622">1622</date>
             <idno type="VD17">Ausgabe nicht bestimmbar; Valentinus Boltz: Illuminierbuch (z.B. VD17 14:627228S oder VD17 23:735700S) beigebunden?</idno>
           </bibl>
@@ -13837,7 +13917,8 @@ Item/ Arcula Itineraria, oder Reyse-K&#xE4;stlein/ F&#xFC;r allerand Kranckheite
             <pubPlace>
               <rs type="place" key="getty_7012329">Leipzig</rs>
             </pubPlace>
-            <publisher>Grosse, Henning d.&#xC4;./Popporeich, Jakob</publisher>
+            <publisher>Grosse, Henning d.&#xC4;.</publisher>
+            <publisher>Popporeich, Jakob</publisher>
             <date when="1607">1607</date>
             <idno type="VD17">1:068868E</idno>
           </bibl>
@@ -13871,7 +13952,8 @@ Item/ Arcula Itineraria, oder Reyse-K&#xE4;stlein/ F&#xFC;r allerand Kranckheite
             <pubPlace>
               <rs type="place" key="getty_7005973">Jena</rs>
             </pubPlace>
-            <publisher>Steinmann, Tobias/Wipprecht, Leonhard</publisher>
+            <publisher>Steinmann, Tobias</publisher>
+            <publisher>Wipprecht, Leonhard</publisher>
             <date when="1590">1590</date>
             <idno type="VD16">W 2889</idno>
           </bibl>
@@ -13883,7 +13965,8 @@ Item/ Arcula Itineraria, oder Reyse-K&#xE4;stlein/ F&#xFC;r allerand Kranckheite
             <pubPlace>
               <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
-            <publisher>Jennis, Lucas/Hoffmann, Nikolaus d.&#xC4;.</publisher>
+            <publisher>Jennis, Lucas</publisher>
+            <publisher>Hoffmann, Nikolaus d.&#xC4;.</publisher>
             <date when="1618">1618</date>
             <idno type="VD17">14:050841A</idno>
           </bibl>
@@ -13996,7 +14079,8 @@ Allen ... mitgetheilet/ und jetzo zum andern mahl correctior in Truck gegeben</t
             <pubPlace>
               <rs type="place" key="getty_1037684">Schleusingen</rs>
             </pubPlace>
-            <publisher>Birckner, Johann/Schmidt, Peter</publisher>
+            <publisher>Birckner, Johann</publisher>
+            <publisher>Schmidt, Peter</publisher>
             <date when="1637">1637</date>
             <idno type="VD17">32:634496Y</idno>
           </bibl>
@@ -14033,7 +14117,8 @@ Anjetzo aber anderweit/ in Verlegung Georg Bechers Apotheckers in ermelten Carls
             <pubPlace>
               <rs type="place" key="getty_7004326">Bayreuth</rs>
             </pubPlace>
-            <publisher>Becher, Georg/Gebhard, Johann</publisher>
+            <publisher>Becher, Georg</publisher>
+            <publisher>Gebhard, Johann</publisher>
             <date when="1663">1663</date>
             <idno type="VD17">39:142876R</idno>
           </bibl>
@@ -14079,7 +14164,8 @@ Anjetzo aber anderweit/ in Verlegung Georg Bechers Apotheckers in ermelten Carls
               <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <pubPlace>Darmstadt</pubPlace>
-            <publisher>Steinmeyer, Vincentius/Hofmann, Balthasar</publisher>
+            <publisher>Steinmeyer, Vincentius</publisher>
+            <publisher>Hofmann, Balthasar</publisher>
             <date when="1613">1613</date>
             <idno type="VD17">3:606694T</idno>
           </bibl>
@@ -14092,7 +14178,8 @@ Anjetzo aber anderweit/ in Verlegung Georg Bechers Apotheckers in ermelten Carls
               <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <pubPlace>Darmstadt</pubPlace>
-            <publisher>Steinmeyer, Vincentius/Hofmann, Balthasar</publisher>
+            <publisher>Steinmeyer, Vincentius</publisher>
+            <publisher>Hofmann, Balthasar</publisher>
             <date when="1613">1613</date>
             <idno type="VD17">3:606694T</idno>
           </bibl>
@@ -14140,7 +14227,8 @@ Anjetzo aber anderweit/ in Verlegung Georg Bechers Apotheckers in ermelten Carls
             <pubPlace>
               <rs type="place" key="getty_7005630">Goslar</rs>
             </pubPlace>
-            <publisher>Stern, Hans/Stern, Heinrich</publisher>
+            <publisher>Stern, Hans</publisher>
+            <publisher>Stern, Heinrich</publisher>
             <date when="1617">1617</date>
             <idno type="VD17">14:050837Q</idno>
           </bibl>
@@ -14212,7 +14300,8 @@ Zum zweytenmal Gedruckt ...</title>
             <pubPlace>
               <rs type="place" key="getty_7007048">Haarlem</rs>
             </pubPlace>
-            <publisher>Keyser, Daniel de/Roman, Adriaen</publisher>
+            <publisher>Keyser, Daniel de</publisher>
+            <publisher>Roman, Adriaen</publisher>
             <date when="1613">1613</date>
             <idno type="GBV">334355222</idno>
           </bibl>
@@ -14224,7 +14313,8 @@ Zum zweytenmal Gedruckt ...</title>
             <pubPlace>
               <rs type="place" key="getty_7007856">Antwerpen</rs>
             </pubPlace>
-            <publisher>Henricsz, Hendrik/Ghelen, Jan van II.</publisher>
+            <publisher>Henricsz, Hendrik</publisher>
+            <publisher>Ghelen, Jan van II.</publisher>
             <date when="1582">1582</date>
             <idno type="GBV">145215407</idno>
           </bibl>
@@ -14245,7 +14335,8 @@ Zum zweytenmal Gedruckt ...</title>
             <pubPlace>
               <rs type="place" key="getty_7005289">Hamburg</rs>
             </pubPlace>
-            <publisher>Naumann, Johann d.J./Pfeiffer, Michael</publisher>
+            <publisher>Naumann, Johann d.J.</publisher>
+            <publisher>Pfeiffer, Michael</publisher>
             <date when="1659">1659</date>
             <idno type="VD17">23:287383K</idno>
           </bibl>
@@ -14266,7 +14357,8 @@ Zum zweytenmal Gedruckt ...</title>
             <pubPlace>
               <rs type="place" key="getty_7005289">Hamburg</rs>
             </pubPlace>
-            <publisher>Naumann, Johann d.J./Pfeiffer, Michael</publisher>
+            <publisher>Naumann, Johann d.J.</publisher>
+            <publisher>Pfeiffer, Michael</publisher>
             <date when="1659">1659</date>
             <idno type="VD17">23:287383K</idno>
           </bibl>
@@ -14287,7 +14379,8 @@ Zum zweytenmal Gedruckt ...</title>
             <pubPlace>
               <rs type="place" key="getty_7005289">Hamburg</rs>
             </pubPlace>
-            <publisher>Naumann, Johann d.J./Pfeiffer, Michael</publisher>
+            <publisher>Naumann, Johann d.J.</publisher>
+            <publisher>Pfeiffer, Michael</publisher>
             <date when="1659">1659</date>
             <idno type="VD17">23:287383K</idno>
           </bibl>
@@ -14308,7 +14401,8 @@ Zum zweytenmal Gedruckt ...</title>
             <pubPlace>
               <rs type="place" key="getty_7005289">Hamburg</rs>
             </pubPlace>
-            <publisher>Naumann, Johann d.J./Pfeiffer, Michael</publisher>
+            <publisher>Naumann, Johann d.J.</publisher>
+            <publisher>Pfeiffer, Michael</publisher>
             <date when="1659">1659</date>
             <idno type="VD17">23:287383K</idno>
           </bibl>
@@ -14323,7 +14417,8 @@ Zum zweytenmal Gedruckt ...</title>
             <pubPlace>
               <rs type="place" key="getty_7012806">Eisleben</rs>
             </pubPlace>
-            <publisher>Rose, Johann/Gaubisch, Jakob d.&#xC4;.</publisher>
+            <publisher>Rose, Johann</publisher>
+            <publisher>Gaubisch, Jakob d.&#xC4;.</publisher>
             <date when="1605">1605</date>
             <idno type="VD17">39:116412G</idno>
           </bibl>
@@ -14347,7 +14442,8 @@ Zum zweytenmal Gedruckt ...</title>
             <pubPlace>
               <rs type="place" key="getty_7007856">Antwerpen</rs>
             </pubPlace>
-            <publisher>Silvius, Willem/Plantin, Christophe</publisher>
+            <publisher>Silvius, Willem</publisher>
+            <publisher>Plantin, Christophe</publisher>
             <date when="1565">1565</date>
             <idno type="GBV">145087867</idno>
           </bibl>
@@ -14359,7 +14455,8 @@ Zum zweytenmal Gedruckt ...</title>
             <pubPlace>
               <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
-            <publisher>Wechel, Johann/Fischer, Peter</publisher>
+            <publisher>Wechel, Johann</publisher>
+            <publisher>Fischer, Peter</publisher>
             <date when="1591">1591</date>
             <idno type="VD16">S 5128</idno>
           </bibl>
@@ -14769,7 +14866,8 @@ Zusampt einem angehenckten Tract&#xE4;tlein, von allerley gebrannten Wassern, we
             <pubPlace>
               <rs type="place" key="getty_7006809">Leiden</rs>
             </pubPlace>
-            <publisher>Elsevier, Bonaventura/Elsevier, Abraham</publisher>
+            <publisher>Elsevier, Bonaventura</publisher>
+            <publisher>Elsevier, Abraham</publisher>
             <date when="1644">1644</date>
             <idno type="STCN">832661481</idno>
           </bibl>
@@ -14832,7 +14930,8 @@ Zusampt einem angehenckten Tract&#xE4;tlein, von allerley gebrannten Wassern, we
             <pubPlace>
               <rs type="place" key="getty_7012349">Wittenberg</rs>
             </pubPlace>
-            <publisher>Grosse, Henning d.&#xC4;./Meissner, Wolfgang</publisher>
+            <publisher>Grosse, Henning d.&#xC4;.</publisher>
+            <publisher>Meissner, Wolfgang</publisher>
             <date when="1597">1597</date>
             <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
@@ -14869,7 +14968,8 @@ Zusampt einem angehenckten Tract&#xE4;tlein, von allerley gebrannten Wassern, we
             <pubPlace>
               <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
-            <publisher>Schmidt, Johann/Feyerabend, Sigmund</publisher>
+            <publisher>Schmidt, Johann</publisher>
+            <publisher>Feyerabend, Sigmund</publisher>
             <date when="1581">1581</date>
             <idno type="VD16">A 2067</idno>
           </bibl>
@@ -14917,7 +15017,8 @@ Zusampt einem angehenckten Tract&#xE4;tlein, von allerley gebrannten Wassern, we
             <pubPlace>
               <rs type="place" key="getty_7004456">Magdeburg</rs>
             </pubPlace>
-            <publisher>Donat, Paul/Kirchener, Ambrosius</publisher>
+            <publisher>Donat, Paul</publisher>
+            <publisher>Kirchener, Ambrosius</publisher>
             <date when="1584">1584</date>
             <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
@@ -14932,7 +15033,8 @@ Zusampt einem angehenckten Tract&#xE4;tlein, von allerley gebrannten Wassern, we
             <pubPlace>
               <rs type="place" key="getty_7007269">Basel</rs>
             </pubPlace>
-            <publisher>Petri, Heinrich/Perna, Peter</publisher>
+            <publisher>Petri, Heinrich</publisher>
+            <publisher>Perna, Peter</publisher>
             <date when="1562">1562</date>
             <idno type="VD16">K 2430</idno>
           </bibl>
@@ -14950,7 +15052,8 @@ Zusampt einem angehenckten Tract&#xE4;tlein, von allerley gebrannten Wassern, we
             <pubPlace>
               <rs type="place" key="getty_7011712">Br&#xFC;x</rs>
             </pubPlace>
-            <publisher>P&#x161;tros, Mikul&#xE1;&#x161;/Weidlich, Andreas</publisher>
+            <publisher>P&#x161;tros, Mikul&#xE1;&#x161;</publisher>
+            <publisher>Weidlich, Andreas</publisher>
             <date when="1596">1596</date>
             <idno type="VD16">XL 16</idno>
           </bibl>
@@ -14975,7 +15078,8 @@ Zusampt einem angehenckten Tract&#xE4;tlein, von allerley gebrannten Wassern, we
             <pubPlace>
               <rs type="place" key="getty_7006952">Amsterdam</rs>
             </pubPlace>
-            <publisher>Jansen, Jacob/Claesz, Cornelis</publisher>
+            <publisher>Jansen, Jacob</publisher>
+            <publisher>Claesz, Cornelis</publisher>
             <date when="1597">1597</date>
             <idno type="STCN">83215783X</idno>
           </bibl>
@@ -15051,7 +15155,8 @@ Mit vielen sch&#xF6;nen newen Kupfferst&#xFC;cken und LandBeschreibungen vermehr
             <pubPlace>
               <rs type="place" key="getty_7006809">Leiden</rs>
             </pubPlace>
-            <publisher>Officina Plantiniana/Raphelengius, Franciscus d.&#xC4;.</publisher>
+            <publisher>Officina Plantiniana</publisher>
+            <publisher>Raphelengius, Franciscus d.&#xC4;.</publisher>
             <date when="1594">1594</date>
             <idno type="GBV">565798693</idno>
           </bibl>
@@ -15072,7 +15177,8 @@ Mit vielen sch&#xF6;nen newen Kupfferst&#xFC;cken und LandBeschreibungen vermehr
             <pubPlace>
               <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
-            <publisher>Merian, Matthaeus d.J./Hoffmann, Wolfgang</publisher>
+            <publisher>Merian, Matthaeus d.J.</publisher>
+            <publisher>Hoffmann, Wolfgang</publisher>
             <idno type="VD17">Ausgabe nicht nachweisbar</idno>
           </bibl>
           <bibl xml:id="bahnsen860-reference" corresp="bahnsen860">
@@ -15139,7 +15245,8 @@ Item Elenchus Chronologicus Novus, per totam Sacram Scripturam Veteris &amp; Nov
             <pubPlace>
               <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
-            <publisher>Fitzer, William/Hoffmann, Wolfgang</publisher>
+            <publisher>Fitzer, William</publisher>
+            <publisher>Hoffmann, Wolfgang</publisher>
             <date when="1634">1634</date>
             <idno type="VD17">7:665297K</idno>
           </bibl>
@@ -15163,7 +15270,8 @@ Item Elenchus Chronologicus Novus, per totam Sacram Scripturam Veteris &amp; Nov
             <pubPlace>
               <rs type="place" key="getty_7004334">N&#xFC;rnberg</rs>
             </pubPlace>
-            <publisher>Vom Berg, Johann/Neuber, Ulrich</publisher>
+            <publisher>Vom Berg, Johann</publisher>
+            <publisher>Neuber, Ulrich</publisher>
             <date when="1556">1556</date>
             <idno type="VD16">U 65</idno>
           </bibl>
@@ -15249,7 +15357,8 @@ Item Elenchus Chronologicus Novus, per totam Sacram Scripturam Veteris &amp; Nov
             <pubPlace>
               <rs type="place" key="getty_7006809">Leiden</rs>
             </pubPlace>
-            <publisher>Elsevier, Bonaventura/Elsevier, Abraham</publisher>
+            <publisher>Elsevier, Bonaventura</publisher>
+            <publisher>Elsevier, Abraham</publisher>
             <date when="1646">1646</date>
             <idno type="GBV">Ausgabe nicht bestimmbar</idno>
           </bibl>
@@ -15291,7 +15400,8 @@ Item Elenchus Chronologicus Novus, per totam Sacram Scripturam Veteris &amp; Nov
             <pubPlace>
               <rs type="place" key="getty_7007856">Antwerpen</rs>
             </pubPlace>
-            <publisher>Verdussen, Hieronymus II./Verdussen, Jean-Baptiste I.</publisher>
+            <publisher>Verdussen, Hieronymus II.</publisher>
+            <publisher>Verdussen, Jean-Baptiste I.</publisher>
           </bibl>
           <bibl xml:id="bahnsen876-reference" corresp="bahnsen876">
             <title>Geburtsstundenbuch</title>
@@ -15328,7 +15438,8 @@ Item Elenchus Chronologicus Novus, per totam Sacram Scripturam Veteris &amp; Nov
             <pubPlace>
               <rs type="place" key="getty_7006809">Leiden</rs>
             </pubPlace>
-            <publisher>Colster, Joost van/Marcus, Jacob</publisher>
+            <publisher>Colster, Joost van</publisher>
+            <publisher>Marcus, Jacob</publisher>
             <date when="1615">1615</date>
             <idno type="GBV">151236461</idno>
           </bibl>
@@ -15421,7 +15532,8 @@ Item Elenchus Chronologicus Novus, per totam Sacram Scripturam Veteris &amp; Nov
             <pubPlace>
               <rs type="place" key="getty_7006809">Leiden</rs>
             </pubPlace>
-            <publisher>Elsevier, Bonaventura/Elsevier, Abraham</publisher>
+            <publisher>Elsevier, Bonaventura</publisher>
+            <publisher>Elsevier, Abraham</publisher>
             <date when="1642">1642</date>
             <idno type="VD17">23:321879G</idno>
           </bibl>
@@ -15445,7 +15557,8 @@ Item Elenchus Chronologicus Novus, per totam Sacram Scripturam Veteris &amp; Nov
             <pubPlace>
               <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
-            <publisher>Fitzer, William/Hoffmann, Wolfgang</publisher>
+            <publisher>Fitzer, William</publisher>
+            <publisher>Hoffmann, Wolfgang</publisher>
             <date when="1634">1634</date>
             <idno type="VD17">7:665297K</idno>
           </bibl>
@@ -15480,7 +15593,8 @@ Accesserunt Variarum Dissertationum libri octo, ad authores illos intelligendos 
             <pubPlace>
               <rs type="place" key="getty_7004449">Mainz</rs>
             </pubPlace>
-            <publisher>Jordan, Peter/Quentel, Peter</publisher>
+            <publisher>Jordan, Peter</publisher>
+            <publisher>Quentel, Peter</publisher>
             <date when="1535">1535</date>
             <idno type="VD16">S 9193</idno>
           </bibl>
@@ -15495,7 +15609,8 @@ Accesserunt Variarum Dissertationum libri octo, ad authores illos intelligendos 
             <pubPlace>
               <rs type="place" key="getty_7007269">Basel</rs>
             </pubPlace>
-            <publisher>K&#xFC;ndig, Jakob/Oporinus, Johannes</publisher>
+            <publisher>K&#xFC;ndig, Jakob</publisher>
+            <publisher>Oporinus, Johannes</publisher>
             <date when="1562">1562</date>
             <idno type="VD16">E 4169</idno>
           </bibl>
@@ -15543,7 +15658,8 @@ Accesserunt Variarum Dissertationum libri octo, ad authores illos intelligendos 
             <pubPlace>
               <rs type="place" key="getty_7017035">Ingolstadt</rs>
             </pubPlace>
-            <publisher>Apianus, Peter/Apian, Georg</publisher>
+            <publisher>Apianus, Peter</publisher>
+            <publisher>Apian, Georg</publisher>
             <date when="1533">1533</date>
             <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
@@ -15558,7 +15674,8 @@ Accesserunt Variarum Dissertationum libri octo, ad authores illos intelligendos 
             <pubPlace>
               <rs type="place" key="getty_7007856">Antwerpen</rs>
             </pubPlace>
-            <publisher>Bell&#xE8;re, Jean/Verwithagen, Jan I.</publisher>
+            <publisher>Bell&#xE8;re, Jean</publisher>
+            <publisher>Verwithagen, Jan I.</publisher>
             <date when="1584">1584</date>
             <idno type="GBV">253894468</idno>
           </bibl>
@@ -15570,7 +15687,8 @@ Accesserunt Variarum Dissertationum libri octo, ad authores illos intelligendos 
             <pubPlace>
               <rs type="place" key="getty_7004334">N&#xFC;rnberg</rs>
             </pubPlace>
-            <publisher>Vom Berg, Johann/Neuber, Ulrich</publisher>
+            <publisher>Vom Berg, Johann</publisher>
+            <publisher>Neuber, Ulrich</publisher>
             <idno type="VD16">Ausgabe nicht nachweisbar</idno>
           </bibl>
           <bibl xml:id="bahnsen896-reference" corresp="bahnsen896">
@@ -15581,7 +15699,8 @@ Accesserunt Variarum Dissertationum libri octo, ad authores illos intelligendos 
             <pubPlace>
               <rs type="place" key="getty_7012813">G&#xF6;rlitz</rs>
             </pubPlace>
-            <publisher>Fritsche, Ambrosius/Menius, Matthias</publisher>
+            <publisher>Fritsche, Ambrosius</publisher>
+            <publisher>Menius, Matthias</publisher>
             <date when="1572">1572</date>
             <idno type="VD16">S 5164</idno>
           </bibl>
@@ -15593,7 +15712,8 @@ Accesserunt Variarum Dissertationum libri octo, ad authores illos intelligendos 
             <pubPlace>
               <rs type="place" key="getty_7012813">G&#xF6;rlitz</rs>
             </pubPlace>
-            <publisher>Fritsche, Ambrosius/Menius, Matthias</publisher>
+            <publisher>Fritsche, Ambrosius</publisher>
+            <publisher>Menius, Matthias</publisher>
             <date when="1572">1572</date>
             <idno type="VD16">S 5164</idno>
           </bibl>
@@ -15616,7 +15736,8 @@ Accesserunt Variarum Dissertationum libri octo, ad authores illos intelligendos 
             <pubPlace>
               <rs type="place" key="getty_7012346">Stra&#xDF;burg</rs>
             </pubPlace>
-            <publisher>Schwintzer, Johann/Sch&#xF6;ffer, Peter d.J.</publisher>
+            <publisher>Schwintzer, Johann</publisher>
+            <publisher>Sch&#xF6;ffer, Peter d.J.</publisher>
             <date when="1531">1531</date>
             <idno type="VD16">K 771</idno>
           </bibl>
@@ -15640,7 +15761,8 @@ Accesserunt Variarum Dissertationum libri octo, ad authores illos intelligendos 
             <pubPlace>
               <rs type="place" key="getty_7006952">Amsterdam</rs>
             </pubPlace>
-            <publisher>Otsz, Barent/Stam, Willem Jansz</publisher>
+            <publisher>Otsz, Barent</publisher>
+            <publisher>Stam, Willem Jansz</publisher>
             <date when="1609">1609</date>
             <idno type="STCN">080103170</idno>
           </bibl>
@@ -15773,7 +15895,8 @@ Accessere plenioris usus ergo. Tabulae Sinuum, Tangentium, Et Secantium / Ex Ope
             <pubPlace>
               <rs type="place" key="getty_7006809">Leiden</rs>
             </pubPlace>
-            <publisher>Roman, Zacharias/Boxe, Willem Christiaens van der</publisher>
+            <publisher>Roman, Zacharias</publisher>
+            <publisher>Boxe, Willem Christiaens van der</publisher>
             <date when="1631">1631</date>
             <idno type="GBV">151626952</idno>
           </bibl>
@@ -15803,7 +15926,8 @@ Accessere plenioris usus ergo. Tabulae Sinuum, Tangentium, Et Secantium / Ex Ope
             <pubPlace>
               <rs type="place" key="getty_7006952">Amsterdam</rs>
             </pubPlace>
-            <publisher>Meester, Jacob de/Blaeu, Willem Janszoon</publisher>
+            <publisher>Meester, Jacob de</publisher>
+            <publisher>Blaeu, Willem Janszoon</publisher>
             <date when="1611">1611</date>
             <idno type="GBV">190102586</idno>
           </bibl>
@@ -15827,7 +15951,8 @@ Accessere plenioris usus ergo. Tabulae Sinuum, Tangentium, Et Secantium / Ex Ope
             <pubPlace>
               <rs type="place" key="getty_7003085">Padua</rs>
             </pubPlace>
-            <publisher>Typis Cribellianis/Crivellari, Giulio</publisher>
+            <publisher>Typis Cribellianis</publisher>
+            <publisher>Crivellari, Giulio</publisher>
             <date when="1634">1634</date>
             <idno type="GBV">599719192</idno>
           </bibl>
@@ -15839,7 +15964,8 @@ Accessere plenioris usus ergo. Tabulae Sinuum, Tangentium, Et Secantium / Ex Ope
             <pubPlace>
               <rs type="place" key="getty_1048861">Sagan</rs>
             </pubPlace>
-            <publisher>Kepler, Johannes/Herzogliche Druckerei Sagan</publisher>
+            <publisher>Kepler, Johannes</publisher>
+            <publisher>Herzogliche Druckerei Sagan</publisher>
             <date when="1630">1630</date>
             <idno type="VD17">23:286655S</idno>
           </bibl>
@@ -15887,7 +16013,8 @@ Accessere plenioris usus ergo. Tabulae Sinuum, Tangentium, Et Secantium / Ex Ope
             <pubPlace>
               <rs type="place" key="getty_7004431">Kassel</rs>
             </pubPlace>
-            <publisher>K&#xF6;hler, Sebald/Schadewitz, Salomon</publisher>
+            <publisher>K&#xF6;hler, Sebald</publisher>
+            <publisher>Schadewitz, Salomon</publisher>
             <date when="1651">[1651]</date>
             <idno type="VD17">23:288255D</idno>
           </bibl>
@@ -15959,7 +16086,8 @@ Accessere plenioris usus ergo. Tabulae Sinuum, Tangentium, Et Secantium / Ex Ope
             <pubPlace>
               <rs type="place" key="getty_7006792">Rotterdam</rs>
             </pubPlace>
-            <publisher>Bastiaensz, Matthijs/Stampioen, Jan Jansz</publisher>
+            <publisher>Bastiaensz, Matthijs</publisher>
+            <publisher>Stampioen, Jan Jansz</publisher>
             <date when="1618">1618</date>
             <idno type="STCN">061161284</idno>
           </bibl>
@@ -15974,7 +16102,8 @@ Editio Tertia: Cui recens accessit Problematum Architectonicorum Liber unus.</ti
             <pubPlace>
               <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
-            <publisher>Rosa, Jonas/Hoffmann, Nikolaus d.&#xC4;.</publisher>
+            <publisher>Rosa, Jonas</publisher>
+            <publisher>Hoffmann, Nikolaus d.&#xC4;.</publisher>
             <date when="1612">1612</date>
             <idno type="VD17">23:244037Q</idno>
           </bibl>
@@ -15989,7 +16118,8 @@ Editio Tertia: Cui recens accessit Problematum Architectonicorum Liber unus.</ti
             <pubPlace>
               <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
-            <publisher>Rosa, Jonas/Hoffmann, Nikolaus d.&#xC4;.</publisher>
+            <publisher>Rosa, Jonas</publisher>
+            <publisher>Hoffmann, Nikolaus d.&#xC4;.</publisher>
             <date when="1612">1612</date>
             <idno type="VD17">23:244037Q</idno>
           </bibl>
@@ -16157,7 +16287,8 @@ und jetzt zum zweytenmal getruckt</title>
             <pubPlace>
               <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
-            <publisher>Christian Egenolff Erben/Becker, Matthaeus d.&#xC4;.</publisher>
+            <publisher>Christian Egenolff Erben</publisher>
+            <publisher>Becker, Matthaeus d.&#xC4;.</publisher>
             <idno type="VD17">Ausgabe nicht nachweisbar</idno>
           </bibl>
           <bibl xml:id="bahnsen943-reference" corresp="bahnsen943">
@@ -16168,7 +16299,8 @@ und jetzt zum zweytenmal getruckt</title>
             <pubPlace>
               <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
-            <publisher>Rab, Georg d.&#xC4;./Feyerabend, Sigmund</publisher>
+            <publisher>Rab, Georg d.&#xC4;.</publisher>
+            <publisher>Feyerabend, Sigmund</publisher>
             <date when="1565">1565</date>
             <idno type="VD16">J 29</idno>
           </bibl>
@@ -16180,7 +16312,8 @@ und jetzt zum zweytenmal getruckt</title>
             <pubPlace>
               <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
-            <publisher>Rab, Georg d.&#xC4;./Feyerabend, Sigmund</publisher>
+            <publisher>Rab, Georg d.&#xC4;.</publisher>
+            <publisher>Feyerabend, Sigmund</publisher>
             <date when="1565">1565</date>
             <idno type="VD16">J 29</idno>
           </bibl>
@@ -16223,7 +16356,8 @@ und jetzt zum zweytenmal getruckt</title>
             <pubPlace>
               <rs type="place" key="getty_7004431">Kassel</rs>
             </pubPlace>
-            <publisher>Berner, Johann/Wessel, Wilhelm</publisher>
+            <publisher>Berner, Johann</publisher>
+            <publisher>Wessel, Wilhelm</publisher>
             <date when="1615">1615</date>
             <idno type="VD17">12:159504X</idno>
           </bibl>
@@ -16251,7 +16385,8 @@ und jetzt zum zweytenmal getruckt</title>
             <pubPlace>
               <rs type="place" key="getty_7004431">Kassel</rs>
             </pubPlace>
-            <publisher>Berner, Johann/Wessel, Wilhelm</publisher>
+            <publisher>Berner, Johann</publisher>
+            <publisher>Wessel, Wilhelm</publisher>
             <date when="1615">1615</date>
             <idno type="VD17">12:159504X</idno>
           </bibl>
@@ -16303,7 +16438,8 @@ Ausgabebezeichnung: M.D.LXXI.||[s.l.](Gedr#[ue]ckt zu K#[oe]nigs=||berg in Preus
             <pubPlace>
               <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
-            <publisher>Spies, Johann/Romanus Beatus Erben</publisher>
+            <publisher>Spies, Johann</publisher>
+            <publisher>Romanus Beatus Erben</publisher>
             <date when="1602">1602</date>
             <idno type="VD17">12:133255P</idno>
           </bibl>
@@ -16315,7 +16451,8 @@ Ausgabebezeichnung: M.D.LXXI.||[s.l.](Gedr#[ue]ckt zu K#[oe]nigs=||berg in Preus
             <pubPlace>
               <rs type="place" key="getty_7003474">Kopenhagen</rs>
             </pubPlace>
-            <publisher>Holst, J&#xF8;rgen J&#xF8;rgensen/Hake, Peder</publisher>
+            <publisher>Holst, J&#xF8;rgen J&#xF8;rgensen</publisher>
+            <publisher>Hake, Peder</publisher>
             <date when="1654">1654</date>
             <idno type="GBV">140862595</idno>
           </bibl>
@@ -16351,7 +16488,8 @@ Ausgabebezeichnung: M.D.LXXI.||[s.l.](Gedr#[ue]ckt zu K#[oe]nigs=||berg in Preus
             <pubPlace>
               <rs type="place" key="getty_7012329">Leipzig</rs>
             </pubPlace>
-            <publisher>Grosse, Henning d.J./Jansonius, Justus</publisher>
+            <publisher>Grosse, Henning d.J.</publisher>
+            <publisher>Jansonius, Justus</publisher>
             <date when="1622">1622</date>
             <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
@@ -16363,7 +16501,8 @@ Ausgabebezeichnung: M.D.LXXI.||[s.l.](Gedr#[ue]ckt zu K#[oe]nigs=||berg in Preus
             <pubPlace>
               <rs type="place" key="getty_7007269">Basel</rs>
             </pubPlace>
-            <publisher>K&#xF6;nig, Ludwig I./Schr&#xF6;ter, Johann</publisher>
+            <publisher>K&#xF6;nig, Ludwig I.</publisher>
+            <publisher>Schr&#xF6;ter, Johann</publisher>
             <date when="1617">1617</date>
             <idno type="VD17">12:640583L</idno>
           </bibl>
@@ -16414,7 +16553,8 @@ Ausgabebezeichnung: M.D.LXXI.||[s.l.](Gedr#[ue]ckt zu K#[oe]nigs=||berg in Preus
             <pubPlace>
               <rs type="place" key="getty_7005300">Emden</rs>
             </pubPlace>
-            <publisher>Kallenbach, Helwig d.&#xC4;./Sems, Johan</publisher>
+            <publisher>Kallenbach, Helwig d.&#xC4;.</publisher>
+            <publisher>Sems, Johan</publisher>
             <date when="1623">1623</date>
             <idno type="STCN">294527516</idno>
           </bibl>
@@ -16438,7 +16578,8 @@ Ausgabebezeichnung: M.D.LXXI.||[s.l.](Gedr#[ue]ckt zu K#[oe]nigs=||berg in Preus
             <pubPlace>
               <rs type="place" key="getty_7004334">N&#xFC;rnberg</rs>
             </pubPlace>
-            <publisher>Roth, Peter/Lantzenberger, Johann</publisher>
+            <publisher>Roth, Peter</publisher>
+            <publisher>Lantzenberger, Johann</publisher>
             <date when="1608">1608</date>
             <idno type="VD17">3:302045M</idno>
           </bibl>
@@ -16489,7 +16630,8 @@ Ausgabebezeichnung: M.D.LXXI.||[s.l.](Gedr#[ue]ckt zu K#[oe]nigs=||berg in Preus
             <pubPlace>
               <rs type="place" key="getty_7007016">Franeker</rs>
             </pubPlace>
-            <publisher>Laurensz, Hendrick/Balck, Ulderick</publisher>
+            <publisher>Laurensz, Hendrick</publisher>
+            <publisher>Balck, Ulderick</publisher>
             <date when="1627">1627</date>
             <idno type="STCN">119380129</idno>
           </bibl>
@@ -16603,7 +16745,8 @@ Secunda Editio priori correctior</title>
             <pubPlace>
               <rs type="place" key="getty_7011781">London</rs>
             </pubPlace>
-            <publisher>Bee, Cornelius/Flesher, James</publisher>
+            <publisher>Bee, Cornelius</publisher>
+            <publisher>Flesher, James</publisher>
             <date when="1653">1653</date>
             <idno type="GBV">144474190</idno>
           </bibl>
@@ -16685,7 +16828,8 @@ Ausgabebezeichnung: COLONIAE AGRIPPINAE,|| Apud Haeredes Arnoldi Birckmanni.|| M
             <pubPlace>
               <rs type="place" key="getty_7006952">Amsterdam</rs>
             </pubPlace>
-            <publisher>Blaeu, Willem Janszoon/Blaeu, Joan I.</publisher>
+            <publisher>Blaeu, Willem Janszoon</publisher>
+            <publisher>Blaeu, Joan I.</publisher>
             <date when="1639">1639</date>
             <idno type="GBV">153041943</idno>
           </bibl>
@@ -16707,7 +16851,8 @@ Ausgabebezeichnung: COLONIAE AGRIPPINAE,|| Apud Haeredes Arnoldi Birckmanni.|| M
             <pubPlace>
               <rs type="place" key="getty_7004431">Kassel</rs>
             </pubPlace>
-            <publisher>Sch&#xFC;tz, Johann/Gentzsch, Jakob</publisher>
+            <publisher>Sch&#xFC;tz, Johann</publisher>
+            <publisher>Gentzsch, Jakob</publisher>
             <date when="1646">1646-1647</date>
             <idno type="VD17">23:233414T</idno>
           </bibl>
@@ -16858,7 +17003,8 @@ Ausgabebezeichnung: COLONIAE AGRIPPINAE,|| Apud Haeredes Arnoldi Birckmanni.|| M
             <pubPlace>
               <rs type="place" key="getty_7004334">N&#xFC;rnberg</rs>
             </pubPlace>
-            <publisher>Kieser, Eberhard/Endter, Wolfgang d.&#xC4;.</publisher>
+            <publisher>Kieser, Eberhard</publisher>
+            <publisher>Endter, Wolfgang d.&#xC4;.</publisher>
             <date when="1633">1630-1637</date>
             <idno type="VD17">23:259471S</idno>
           </bibl>
@@ -16873,7 +17019,8 @@ Ausgabebezeichnung: COLONIAE AGRIPPINAE,|| Apud Haeredes Arnoldi Birckmanni.|| M
             <pubPlace>
               <rs type="place" key="getty_7004324">Augsburg</rs>
             </pubPlace>
-            <publisher>Remmelin, Johann/Sch&#xF6;nig, Johann-Ulrich</publisher>
+            <publisher>Remmelin, Johann</publisher>
+            <publisher>Sch&#xF6;nig, Johann-Ulrich</publisher>
             <date when="1631">1631</date>
             <idno type="VD17">23:261549G</idno>
           </bibl>
@@ -16897,7 +17044,8 @@ Ausgabebezeichnung: COLONIAE AGRIPPINAE,|| Apud Haeredes Arnoldi Birckmanni.|| M
             <pubPlace>
               <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
-            <publisher>Humm, Anton/Richter, Wolfgang</publisher>
+            <publisher>Humm, Anton</publisher>
+            <publisher>Richter, Wolfgang</publisher>
             <date when="1610">1610</date>
             <idno type="VD17">3:000103L</idno>
           </bibl>
@@ -16912,7 +17060,8 @@ Ausgabebezeichnung: COLONIAE AGRIPPINAE,|| Apud Haeredes Arnoldi Birckmanni.|| M
             <pubPlace>
               <rs type="place" key="getty_7004334">N&#xFC;rnberg</rs>
             </pubPlace>
-            <publisher>Remmelin, Johann/Wagenmann, Abraham</publisher>
+            <publisher>Remmelin, Johann</publisher>
+            <publisher>Wagenmann, Abraham</publisher>
             <date when="1613">1613</date>
             <idno type="VD17">39:124622U</idno>
           </bibl>
@@ -16951,7 +17100,8 @@ Ausgabebezeichnung: COLONIAE AGRIPPINAE,|| Apud Haeredes Arnoldi Birckmanni.|| M
             <pubPlace>
               <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
-            <publisher>Rab, Georg d.&#xC4;./Han, Weigand</publisher>
+            <publisher>Rab, Georg d.&#xC4;.</publisher>
+            <publisher>Han, Weigand</publisher>
             <date when="1561">1561</date>
             <idno type="VD16">B 391</idno>
           </bibl>
@@ -17009,7 +17159,8 @@ Ausgabebezeichnung: COLONIAE AGRIPPINAE,|| Apud Haeredes Arnoldi Birckmanni.|| M
             <pubPlace>
               <rs type="place" key="getty_7006809">Leiden</rs>
             </pubPlace>
-            <publisher>Plantin, Christophe/Raphelengius, Franciscus d.&#xC4;.</publisher>
+            <publisher>Plantin, Christophe</publisher>
+            <publisher>Raphelengius, Franciscus d.&#xC4;.</publisher>
             <date when="1586">1586</date>
             <idno type="STCN">840400853</idno>
           </bibl>
@@ -17079,7 +17230,8 @@ Ausgabebezeichnung: COLONIAE AGRIPPINAE,|| Apud Haeredes Arnoldi Birckmanni.|| M
             <pubPlace>
               <rs type="place" key="getty_4007173">Middelburg</rs>
             </pubPlace>
-            <publisher>Roman, Zacharias/Esch, Hendrick van</publisher>
+            <publisher>Roman, Zacharias</publisher>
+            <publisher>Esch, Hendrick van</publisher>
             <date when="1650">1650</date>
             <idno type="STCN">057142777</idno>
           </bibl>
@@ -17106,7 +17258,8 @@ Ausgabebezeichnung: COLONIAE AGRIPPINAE,|| Apud Haeredes Arnoldi Birckmanni.|| M
             <pubPlace>
               <rs type="place" key="getty_7007048">Haarlem</rs>
             </pubPlace>
-            <publisher>Roman, Zacharias/Roman, Adriaen</publisher>
+            <publisher>Roman, Zacharias</publisher>
+            <publisher>Roman, Adriaen</publisher>
             <date when="1635">1635</date>
             <idno type="GBV">81695187X</idno>
           </bibl>
@@ -17124,7 +17277,8 @@ Ausgabebezeichnung: COLONIAE AGRIPPINAE,|| Apud Haeredes Arnoldi Birckmanni.|| M
             <pubPlace>
               <rs type="place" key="getty_7005289">Hamburg</rs>
             </pubPlace>
-            <publisher>Guhle, Hans/Carstens, Heinrich</publisher>
+            <publisher>Guhle, Hans</publisher>
+            <publisher>Carstens, Heinrich</publisher>
             <date when="1618">1618</date>
             <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
@@ -17335,7 +17489,8 @@ Ausgabebezeichnung: COLONIAE AGRIPPINAE,|| Apud Haeredes Arnoldi Birckmanni.|| M
             <pubPlace>
               <rs type="place" key="getty_7006809">Leiden</rs>
             </pubPlace>
-            <publisher>Haestens, Hendrik van/Koster, Hermann Allertsz</publisher>
+            <publisher>Haestens, Hendrik van</publisher>
+            <publisher>Koster, Hermann Allertsz</publisher>
             <date when="1598">1598</date>
             <idno type="STCN">058406670</idno>
           </bibl>
@@ -17347,7 +17502,8 @@ Ausgabebezeichnung: COLONIAE AGRIPPINAE,|| Apud Haeredes Arnoldi Birckmanni.|| M
             <pubPlace>
               <rs type="place" key="getty_7006809">Leiden</rs>
             </pubPlace>
-            <publisher>Flavius, Jean-Christophe/Elzevir, Louis</publisher>
+            <publisher>Flavius, Jean-Christophe</publisher>
+            <publisher>Elzevir, Louis</publisher>
             <date when="1614">1614</date>
             <idno type="GBV">196075351</idno>
           </bibl>
@@ -17374,7 +17530,8 @@ Ausgabebezeichnung: COLONIAE AGRIPPINAE,|| Apud Haeredes Arnoldi Birckmanni.|| M
             <pubPlace>
               <rs type="place" key="getty_7006952">Amsterdam</rs>
             </pubPlace>
-            <publisher>Biestkens, Nicolaes III./Claesz, Cornelis</publisher>
+            <publisher>Biestkens, Nicolaes III.</publisher>
+            <publisher>Claesz, Cornelis</publisher>
             <date when="1596">1596</date>
             <idno type="GBV">138332304</idno>
           </bibl>
@@ -17402,7 +17559,8 @@ Ausgabebezeichnung: COLONIAE AGRIPPINAE,|| Apud Haeredes Arnoldi Birckmanni.|| M
             <pubPlace>
               <rs type="place" key="getty_7006809">Leiden</rs>
             </pubPlace>
-            <publisher>Claesz, Cornelis/Dorp, Jan Claesz van</publisher>
+            <publisher>Claesz, Cornelis</publisher>
+            <publisher>Dorp, Jan Claesz van</publisher>
             <date when="1598">1598</date>
             <idno type="STCN">058407278</idno>
           </bibl>
@@ -17423,7 +17581,8 @@ Ausgabebezeichnung: COLONIAE AGRIPPINAE,|| Apud Haeredes Arnoldi Birckmanni.|| M
             <pubPlace>
               <rs type="place" key="getty_7006952">Amsterdam</rs>
             </pubPlace>
-            <publisher>Loon, Johannes van/Loon, Gielles van</publisher>
+            <publisher>Loon, Johannes van</publisher>
+            <publisher>Loon, Gielles van</publisher>
             <date when="1651">1651</date>
             <idno type="STCN">121700178</idno>
           </bibl>
@@ -17520,7 +17679,8 @@ Ausgabebezeichnung: COLONIAE AGRIPPINAE,|| Apud Haeredes Arnoldi Birckmanni.|| M
             <pubPlace>
               <rs type="place" key="getty_7004446">K&#xF6;ln</rs>
             </pubPlace>
-            <publisher>Virendunck, Gerhard/Arnold Birckmann Erben</publisher>
+            <publisher>Virendunck, Gerhard</publisher>
+            <publisher>Arnold Birckmann Erben</publisher>
             <date when="1567">1567</date>
             <idno type="VD16">P 402</idno>
           </bibl>
@@ -17541,7 +17701,8 @@ Ausgabebezeichnung: COLONIAE AGRIPPINAE,|| Apud Haeredes Arnoldi Birckmanni.|| M
             <pubPlace>
               <rs type="place" key="getty_7005289">Hamburg</rs>
             </pubPlace>
-            <publisher>Heinrich Binder Erben/Kretzer, Abraham</publisher>
+            <publisher>Heinrich Binder Erben</publisher>
+            <publisher>Kretzer, Abraham</publisher>
             <date when="1597">1597</date>
             <idno type="VD16">L 1919</idno>
           </bibl>
@@ -17551,7 +17712,8 @@ Ausgabebezeichnung: COLONIAE AGRIPPINAE,|| Apud Haeredes Arnoldi Birckmanni.|| M
             <pubPlace>
               <rs type="place" key="getty_7007016">Franeker</rs>
             </pubPlace>
-            <publisher>Prins, Dirck Jansz/Doyema, Rombertus</publisher>
+            <publisher>Prins, Dirck Jansz</publisher>
+            <publisher>Doyema, Rombertus</publisher>
             <date when="1605">1605</date>
             <idno type="STCN">140825878</idno>
           </bibl>
@@ -17607,7 +17769,8 @@ Ausgabebezeichnung: COLONIAE AGRIPPINAE,|| Apud Haeredes Arnoldi Birckmanni.|| M
             <pubPlace>
               <rs type="place" key="getty_7004455">Dresden</rs>
             </pubPlace>
-            <publisher>Bergen, Christian/Seyffert, Gottfried</publisher>
+            <publisher>Bergen, Christian</publisher>
+            <publisher>Seyffert, Gottfried</publisher>
             <date when="1664">1664</date>
             <idno type="VD17">1:076846W</idno>
           </bibl>
@@ -17625,7 +17788,8 @@ Ausgabebezeichnung: COLONIAE AGRIPPINAE,|| Apud Haeredes Arnoldi Birckmanni.|| M
             <pubPlace>
               <rs type="place" key="getty_7005187">Ulm</rs>
             </pubPlace>
-            <publisher>Michelspacher, Stephan/Meder, Johannes</publisher>
+            <publisher>Michelspacher, Stephan</publisher>
+            <publisher>Meder, Johannes</publisher>
             <date when="1615">1615</date>
             <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
@@ -17639,7 +17803,8 @@ Sampt einem Arithmetischen Tract&#xE4;tlein ...
             <pubPlace>
               <rs type="place" key="getty_7005289">Hamburg</rs>
             </pubPlace>
-            <publisher>Lambeck, Heino/Lange, Paul</publisher>
+            <publisher>Lambeck, Heino</publisher>
+            <publisher>Lange, Paul</publisher>
             <date when="1625">[1625]</date>
             <idno type="VD17">23:000428K</idno>
           </bibl>
@@ -17777,7 +17942,8 @@ Jetzunder zum andernmal in Truck verfertiget/ und an vielen Orten verbessert / D
             <pubPlace>
               <rs type="place" key="getty_7006809">Leiden</rs>
             </pubPlace>
-            <publisher>Bouwensz, Jan/Paets Jacobszoon, Jan</publisher>
+            <publisher>Bouwensz, Jan</publisher>
+            <publisher>Paets Jacobszoon, Jan</publisher>
             <date when="1696">1696</date>
             <idno type="STCN">840446462</idno>
           </bibl>
@@ -17910,7 +18076,8 @@ Jetzunder zum andernmal in Truck verfertiget/ und an vielen Orten verbessert / D
             <pubPlace>
               <rs type="place" key="getty_7006809">Leiden</rs>
             </pubPlace>
-            <publisher>Elsevier, Bonaventura/Elsevier, Abraham</publisher>
+            <publisher>Elsevier, Bonaventura</publisher>
+            <publisher>Elsevier, Abraham</publisher>
             <date when="1625">1625</date>
             <idno type="STCN">060957263</idno>
           </bibl>
@@ -17994,7 +18161,8 @@ Iam Nunc Ab Autore denuo diligenter recognita ...</title>
             <pubPlace>
               <rs type="place" key="getty_7004426">T&#xFC;bingen</rs>
             </pubPlace>
-            <publisher>Berner, Johann/Werlin, Dietrich d.&#xC4;.</publisher>
+            <publisher>Berner, Johann</publisher>
+            <publisher>Werlin, Dietrich d.&#xC4;.</publisher>
             <date when="1624">1624</date>
             <idno type="VD17">3:670499S</idno>
           </bibl>
@@ -18078,7 +18246,8 @@ Iam Nunc Ab Autore denuo diligenter recognita ...</title>
             <pubPlace>
               <rs type="place" key="getty_7012700">Schleswig</rs>
             </pubPlace>
-            <publisher>Carstens, Johann/Holwein, Johann</publisher>
+            <publisher>Carstens, Johann</publisher>
+            <publisher>Holwein, Johann</publisher>
             <date when="1663">1663</date>
             <idno type="VD17">23:254295C</idno>
           </bibl>
@@ -18117,7 +18286,8 @@ Iam Nunc Ab Autore denuo diligenter recognita ...</title>
             <pubPlace>
               <rs type="place" key="getty_7012349">Wittenberg</rs>
             </pubPlace>
-            <publisher>Helwig, Paul/Gormann, Johann</publisher>
+            <publisher>Helwig, Paul</publisher>
+            <publisher>Gormann, Johann</publisher>
             <date when="1609">1609</date>
             <idno type="VD17">14:696725Q</idno>
           </bibl>
@@ -18168,7 +18338,8 @@ Iam Nunc Ab Autore denuo diligenter recognita ...</title>
             <pubPlace>
               <rs type="place" key="getty_7004434">Braunschweig</rs>
             </pubPlace>
-            <publisher>Overheide, Gebhard/Duncker, Andreas</publisher>
+            <publisher>Overheide, Gebhard</publisher>
+            <publisher>Duncker, Andreas</publisher>
             <date when="1652">1652</date>
             <idno type="VD17">23:258032X</idno>
           </bibl>
@@ -18183,7 +18354,8 @@ Iam Nunc Ab Autore denuo diligenter recognita ...</title>
             <pubPlace>
               <rs type="place" key="getty_7012346">Stra&#xDF;burg</rs>
             </pubPlace>
-            <publisher>Ledertz, Paul/Bertram, Anton</publisher>
+            <publisher>Ledertz, Paul</publisher>
+            <publisher>Bertram, Anton</publisher>
             <date when="1619">1619</date>
             <idno type="VD17">39:115055E</idno>
           </bibl>
@@ -18198,7 +18370,8 @@ Iam Nunc Ab Autore denuo diligenter recognita ...</title>
             <pubPlace>
               <rs type="place" key="getty_7012346">Stra&#xDF;burg</rs>
             </pubPlace>
-            <publisher>Ledertz, Paul/Bertram, Anton</publisher>
+            <publisher>Ledertz, Paul</publisher>
+            <publisher>Bertram, Anton</publisher>
             <date when="1619">1619</date>
             <idno type="VD17">39:115055E</idno>
           </bibl>
@@ -18370,7 +18543,8 @@ Iam Nunc Ab Autore denuo diligenter recognita ...</title>
             <pubPlace>
               <rs type="place" key="getty_7005286">Bremen</rs>
             </pubPlace>
-            <publisher>Heusmann, Georg/Wille, Johann</publisher>
+            <publisher>Heusmann, Georg</publisher>
+            <publisher>Wille, Johann</publisher>
             <date when="1624">1624</date>
             <idno type="VD17">23:260655K</idno>
           </bibl>
@@ -18400,7 +18574,8 @@ Iam Nunc Ab Autore denuo diligenter recognita ...</title>
             <pubPlace>
               <rs type="place" key="getty_7006952">Amsterdam</rs>
             </pubPlace>
-            <publisher>Adriaensz, Barent/Pietersz, Claes</publisher>
+            <publisher>Adriaensz, Barent</publisher>
+            <publisher>Pietersz, Claes</publisher>
             <date when="1591">1591</date>
             <idno type="STCN">078411602</idno>
           </bibl>
@@ -18456,7 +18631,8 @@ Anjetzo zum Andernmahl &#xFC;bers&#xE4;hen/ vermehrt/ und wiederumb in Druck geg
             <pubPlace>
               <rs type="place" key="getty_7005286">Bremen</rs>
             </pubPlace>
-            <publisher>K&#xF6;hler, Peter/Villiers, Berthold de</publisher>
+            <publisher>K&#xF6;hler, Peter</publisher>
+            <publisher>Villiers, Berthold de</publisher>
             <date when="1653">1653</date>
             <idno type="GBV">817328424</idno>
           </bibl>
@@ -18490,7 +18666,8 @@ Neben angehengter Conferirung und vergeleichung/ de&#xDF; Frucht- und Weinmasses
             <pubPlace>
               <rs type="place" key="getty_7004431">Kassel</rs>
             </pubPlace>
-            <publisher>Sch&#xFC;tz, Johann/Schadewitz, Salomon</publisher>
+            <publisher>Sch&#xFC;tz, Johann</publisher>
+            <publisher>Schadewitz, Salomon</publisher>
             <date when="1647">1647</date>
             <idno type="VD17">3:672351H</idno>
           </bibl>
@@ -18514,7 +18691,8 @@ Neben angehengter Conferirung und vergeleichung/ de&#xDF; Frucht- und Weinmasses
             <pubPlace>
               <rs type="place" key="getty_7004982">Dortmund</rs>
             </pubPlace>
-            <publisher>Beckman, Detmar/Wechter, Andreas</publisher>
+            <publisher>Beckman, Detmar</publisher>
+            <publisher>Wechter, Andreas</publisher>
             <date when="1622">1622</date>
             <idno type="GBV">231909381</idno>
           </bibl>
@@ -18541,7 +18719,8 @@ Neben angehengter Conferirung und vergeleichung/ de&#xDF; Frucht- und Weinmasses
             <pubPlace>
               <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
-            <publisher>Marne, Claude de/Johann Aubry Erben</publisher>
+            <publisher>Marne, Claude de</publisher>
+            <publisher>Johann Aubry Erben</publisher>
             <date when="1602">1602</date>
             <idno type="VD17">56:732241L</idno>
           </bibl>
@@ -18568,7 +18747,8 @@ Neben angehengter Conferirung und vergeleichung/ de&#xDF; Frucht- und Weinmasses
             <pubPlace>
               <rs type="place" key="getty_7004456">Magdeburg</rs>
             </pubPlace>
-            <publisher>Johann Francke Erben/Scheibe, Samuel</publisher>
+            <publisher>Johann Francke Erben</publisher>
+            <publisher>Scheibe, Samuel</publisher>
             <date when="1639">1639</date>
             <idno type="VD17">3:300614H</idno>
           </bibl>
@@ -18603,7 +18783,8 @@ Neben angehengter Conferirung und vergeleichung/ de&#xDF; Frucht- und Weinmasses
             <pubPlace>
               <rs type="place" key="getty_7006952">Amsterdam</rs>
             </pubPlace>
-            <publisher>Cloppenburgh, Evert/Jaquet, Johannes</publisher>
+            <publisher>Cloppenburgh, Evert</publisher>
+            <publisher>Jaquet, Johannes</publisher>
             <date when="1636">1636</date>
             <idno type="STCN">119832844</idno>
           </bibl>
@@ -18656,7 +18837,8 @@ Neben angehengter Conferirung und vergeleichung/ de&#xDF; Frucht- und Weinmasses
             <pubPlace>
               <rs type="place" key="getty_7007048">Haarlem</rs>
             </pubPlace>
-            <publisher>Wesbusch, Hans Passchiers$cvan/Schuere, Denys$cvander</publisher>
+            <publisher>Wesbusch, Hans Passchiers$cvan</publisher>
+            <publisher>Schuere, Denys$cvander</publisher>
             <date when="1625">1625</date>
             <idno type="STCN">318088290</idno>
           </bibl>

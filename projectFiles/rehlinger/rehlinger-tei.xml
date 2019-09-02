@@ -15,7 +15,7 @@
             <name type="country">Germany</name>
           </address>
         </publisher>
-        <date when="2019-01-23">2019</date>
+        <date when="2019-09-02">2019</date>
       </publicationStmt>
       <sourceDesc>
         <listWit>
@@ -278,7 +278,7 @@
             <pubPlace>
               <rs type="place" key="getty_7004446">K&#xF6;ln</rs>
             </pubPlace>
-            <publisher>Birckmann, Arnold &lt;Erben&gt;</publisher>
+            <publisher>Birckmann, Arnold (Erben)</publisher>
             <date when="1569">1569</date>
             <idno type="VD16">K 2335</idno>
           </bibl>
@@ -533,7 +533,7 @@
             </author>
           </bibl>
           <bibl xml:id="rehlinger33-reference" corresp="rehlinger33">
-            <title>DIONIS CASSII || Nicaei, Romanae historiae li-||bri &lt;tot enim hodie extant&gt; XXV.|| nimirum &#xE0; XXXVI ad LXI.|| ... || Nunc prim&#xF9;m ... de Graecis Latini facti,|| GVILIELMO XYLANDRO Augu-||stano interprete.|| His accesserunt eiusdem Annotationes, ... || Additum eat IOANNIS XIPHILINI &#xE8; Dio-||ne Compendium, Guil.Blanco Albiensi inter-||prete: ... ||</title>
+            <title>DIONIS CASSII || Nicaei, Romanae historiae li-||bri (tot enim hodie extant) XXV.|| nimirum &#xE0; XXXVI ad LXI.|| ... || Nunc prim&#xF9;m ... de Graecis Latini facti,|| GVILIELMO XYLANDRO Augu-||stano interprete.|| His accesserunt eiusdem Annotationes, ... || Additum eat IOANNIS XIPHILINI &#xE8; Dio-||ne Compendium, Guil.Blanco Albiensi inter-||prete: ... ||</title>
             <author>
               <rs type="person" key="gnd_118525824">Cassius, Dio</rs>
             </author>
@@ -831,7 +831,7 @@
             <pubPlace>
               <rs type="place" key="getty_7004446">K&#xF6;ln</rs>
             </pubPlace>
-            <publisher>Quentel, Johann &lt;Erben&gt;</publisher>
+            <publisher>Quentel, Johann (Erben)</publisher>
             <date when="1574">1574</date>
             <idno type="VD16">K 2258</idno>
           </bibl>
@@ -843,7 +843,7 @@
             <pubPlace>
               <rs type="place" key="getty_7004446">K&#xF6;ln</rs>
             </pubPlace>
-            <publisher>Quentel, Johann &lt;Erben&gt;</publisher>
+            <publisher>Quentel, Johann (Erben)</publisher>
             <date when="1574">1574</date>
             <idno type="VD16">K 2250</idno>
           </bibl>
