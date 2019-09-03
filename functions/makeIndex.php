@@ -317,14 +317,14 @@ function preprocessFields($field, $value, $item) {
 	}
 	elseif($field == 'placeName') {
 		$value = trim($value, '[]');
-		$test = preg_match('~[oOsS][\. ]?[OlL]|[oO]hne Ort|[sS]ine [lL]oco|[oO]hne Druckort|[oO]hne Angabe~', $value);
+		$test = preg_match('~^([sS]\. ?[lL]\.|o\. ?O\.|[oO]hne Ort|[sS]ine [lL]oco|[oO]hne Druckort|[oO]hne Angabe)$~', $value);
 		if($value == '' or $test == 1) {
 			$value = 's. l.';
 		}
 	}
 	elseif($field == 'publishers') {
 		$value = trim($value, '[]');
-		$test = preg_match('~[sSoO]\.? ?[nN]\.?|ohne Angabe|unbekannt|ohne Namen~', $value);
+		$test = preg_match('~^(Verlag nicht nachweisbar|o\. ?N\.|s\. ?n\.|ohne Angabe|unbekannt|ohne Namen?)$~', $value);
 		if($value == '' or $test == 1) {
 			$value = 's. n.';
 		}
