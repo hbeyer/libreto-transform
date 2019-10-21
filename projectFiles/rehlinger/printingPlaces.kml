@@ -257,6 +257,15 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+			<address>Ingolstadt</address>
+			<TimeStamp>
+				<when>1554</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>11.4333,48.7667</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<address>Köln</address>
 			<TimeStamp>
 				<when>1569</when>

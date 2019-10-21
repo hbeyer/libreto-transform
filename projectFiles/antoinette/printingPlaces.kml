@@ -1370,6 +1370,15 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+			<address>Bratislava</address>
+			<TimeStamp>
+				<when>1690</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>17.1667,48.1667</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<address>Braunschweig</address>
 			<TimeStamp>
 				<when>1626</when>
@@ -1751,6 +1760,51 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+			<address>Breslau</address>
+			<TimeStamp>
+				<when>1692</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>17,51.1</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Breslau</address>
+			<TimeStamp>
+				<when>1704</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>17,51.1</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Breslau</address>
+			<TimeStamp>
+				<when>1709</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>17,51.1</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Breslau</address>
+			<TimeStamp>
+				<when>1719</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>17,51.1</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Breslau</address>
+			<TimeStamp>
+				<when>1720</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>17,51.1</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<address>Brüssel</address>
 			<TimeStamp>
 				<when>1708</when>
@@ -1847,6 +1901,15 @@
 			</TimeStamp>
 			<Point>
 				<coordinates>10.966667,50.25</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Cosmopoli</address>
+			<TimeStamp>
+				<when>1695</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>10.316667,42.816667</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -2915,6 +2978,15 @@
 			</TimeStamp>
 			<Point>
 				<coordinates>9.4167,53.7833</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Goslar</address>
+			<TimeStamp>
+				<when>1722</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>10.4333,51.9</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -5423,6 +5495,15 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+			<address>Olesnica</address>
+			<TimeStamp>
+				<when>1695</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>17.35,51.2</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<address>Paris</address>
 			<TimeStamp>
 				<when>1655</when>
@@ -6377,6 +6458,24 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+			<address>Stockholm</address>
+			<TimeStamp>
+				<when>1695</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>18,59.5</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Stockholm</address>
+			<TimeStamp>
+				<when>1698</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>18,59.5</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<address>Straßburg</address>
 			<TimeStamp>
 				<when>1664</when>
@@ -6695,6 +6794,195 @@
 			</TimeStamp>
 			<Point>
 				<coordinates>12.65,51.8833</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Wolfenbüttel</address>
+			<TimeStamp>
+				<when>1677</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>10.536788,52.162592</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Wolfenbüttel</address>
+			<TimeStamp>
+				<when>1688</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>10.536788,52.162592</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Wolfenbüttel</address>
+			<TimeStamp>
+				<when>1690</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>10.536788,52.162592</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Wolfenbüttel</address>
+			<TimeStamp>
+				<when>1704</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>10.536788,52.162592</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Wolfenbüttel</address>
+			<TimeStamp>
+				<when>1704</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>10.536788,52.162592</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Wolfenbüttel</address>
+			<TimeStamp>
+				<when>1710</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>10.536788,52.162592</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Wolfenbüttel</address>
+			<TimeStamp>
+				<when>1711</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>10.536788,52.162592</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Wolfenbüttel</address>
+			<TimeStamp>
+				<when>1714</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>10.536788,52.162592</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Wolfenbüttel</address>
+			<TimeStamp>
+				<when>1717</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>10.536788,52.162592</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Wolfenbüttel</address>
+			<TimeStamp>
+				<when>1727</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>10.536788,52.162592</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Wolfenbüttel</address>
+			<TimeStamp>
+				<when>1727</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>10.536788,52.162592</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Wolfenbüttel</address>
+			<TimeStamp>
+				<when>1731</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>10.536788,52.162592</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Wolfenbüttel</address>
+			<TimeStamp>
+				<when>1731</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>10.536788,52.162592</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Wolfenbüttel</address>
+			<TimeStamp>
+				<when>1731</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>10.536788,52.162592</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Wolfenbüttel</address>
+			<TimeStamp>
+				<when>1731</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>10.536788,52.162592</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Wolfenbüttel</address>
+			<TimeStamp>
+				<when>1731</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>10.536788,52.162592</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Wolfenbüttel</address>
+			<TimeStamp>
+				<when>1733</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>10.536788,52.162592</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Wolfenbüttel</address>
+			<TimeStamp>
+				<when>1735</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>10.536788,52.162592</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Wolfenbüttel</address>
+			<TimeStamp>
+				<when>1736</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>10.536788,52.162592</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Wolfenbüttel</address>
+			<TimeStamp>
+				<when>1736</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>10.536788,52.162592</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Wolfenbüttel</address>
+			<TimeStamp>
+				<when>1760</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>10.536788,52.162592</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>

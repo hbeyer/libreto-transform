@@ -6,6 +6,7 @@ class reference {
     public $systemClean;
     public $nameSystem;
     public $id;
+    public $fullID;
     public $url;
     public $link;
     public $valid = true;
@@ -13,6 +14,7 @@ class reference {
     function __construct($system, $id, $level = 'manifestation') {
         $this->id = $id;
         $this->system = $system;
+        $this->fullID = $this->system.'#'.$this->id;
         $this->systemClean = translateAnchor($system);
         $this->systemClean = strtolower(str_replace(' ', '', $this->systemClean));
 

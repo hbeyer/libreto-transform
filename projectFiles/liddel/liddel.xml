@@ -336,6 +336,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
         </beacon>
       </person>
     </persons>
@@ -528,6 +529,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
           <beacon>db</beacon>
           <beacon>trithemius</beacon>
           <beacon>fabricius</beacon>
@@ -730,6 +732,7 @@
         <beacon>
           <beacon>wkp</beacon>
           <beacon>dbi</beacon>
+          <beacon>jen</beacon>
           <beacon>dpi</beacon>
         </beacon>
       </person>
@@ -778,6 +781,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
           <beacon>db</beacon>
           <beacon>mav</beacon>
           <beacon>gesa</beacon>
@@ -833,6 +837,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
           <beacon>db</beacon>
           <beacon>mav</beacon>
           <beacon>gesa</beacon>
@@ -981,6 +986,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
           <beacon>db</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
@@ -1039,6 +1045,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
           <beacon>db</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
@@ -1097,6 +1104,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
           <beacon>db</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
@@ -1150,6 +1158,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
           <beacon>db</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
@@ -1207,6 +1216,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
           <beacon>db</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
@@ -1265,6 +1275,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
           <beacon>db</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
@@ -1319,6 +1330,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
           <beacon>db</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
@@ -1376,6 +1388,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
           <beacon>db</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
@@ -1430,6 +1443,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
           <beacon>db</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
@@ -1488,6 +1502,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
           <beacon>db</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
@@ -1541,6 +1556,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
           <beacon>db</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
@@ -1599,6 +1615,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
           <beacon>db</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
@@ -1653,6 +1670,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
           <beacon>db</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
@@ -2544,6 +2562,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
           <beacon>db</beacon>
           <beacon>phoh</beacon>
           <beacon>cprm</beacon>
@@ -2602,6 +2621,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
           <beacon>db</beacon>
           <beacon>phoh</beacon>
           <beacon>cprm</beacon>
@@ -2657,6 +2677,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
           <beacon>db</beacon>
           <beacon>phoh</beacon>
           <beacon>cprm</beacon>
@@ -3309,11 +3330,14 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
           <beacon>hls</beacon>
+          <beacon>jen</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
           <beacon>dpi</beacon>
           <beacon>vkk</beacon>
+          <beacon>cmvw</beacon>
         </beacon>
       </person>
     </persons>
@@ -6616,6 +6640,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
           <beacon>db</beacon>
           <beacon>mav</beacon>
           <beacon>kall</beacon>
@@ -6669,6 +6694,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
           <beacon>db</beacon>
           <beacon>mav</beacon>
           <beacon>kall</beacon>
@@ -7583,6 +7609,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
           <beacon>db</beacon>
           <beacon>hls</beacon>
           <beacon>fabricius</beacon>
@@ -7642,6 +7669,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
           <beacon>db</beacon>
           <beacon>hls</beacon>
           <beacon>fabricius</beacon>
@@ -7753,6 +7781,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
           <beacon>jen</beacon>
           <beacon>kall</beacon>
           <beacon>dpi</beacon>
@@ -7855,6 +7884,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
           <beacon>db</beacon>
           <beacon>dbi</beacon>
           <beacon>kall</beacon>
@@ -7906,6 +7936,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
           <beacon>db</beacon>
           <beacon>dbi</beacon>
           <beacon>kall</beacon>
@@ -8254,6 +8285,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
           <beacon>db</beacon>
           <beacon>dbi</beacon>
           <beacon>trithemius</beacon>
@@ -9270,6 +9302,7 @@
         <beacon>
           <beacon>wkp</beacon>
           <beacon>db</beacon>
+          <beacon>jen</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
           <beacon>dpi</beacon>
@@ -9322,6 +9355,7 @@
         <beacon>
           <beacon>wkp</beacon>
           <beacon>db</beacon>
+          <beacon>jen</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
           <beacon>dpi</beacon>
@@ -9378,6 +9412,7 @@
         <beacon>
           <beacon>wkp</beacon>
           <beacon>db</beacon>
+          <beacon>jen</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
           <beacon>dpi</beacon>
@@ -9435,6 +9470,7 @@
         <beacon>
           <beacon>wkp</beacon>
           <beacon>db</beacon>
+          <beacon>jen</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
           <beacon>dpi</beacon>
@@ -9487,6 +9523,7 @@
         <beacon>
           <beacon>wkp</beacon>
           <beacon>db</beacon>
+          <beacon>jen</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
           <beacon>dpi</beacon>
@@ -9539,6 +9576,7 @@
         <beacon>
           <beacon>wkp</beacon>
           <beacon>db</beacon>
+          <beacon>jen</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
           <beacon>dpi</beacon>
@@ -9591,6 +9629,7 @@
         <beacon>
           <beacon>wkp</beacon>
           <beacon>db</beacon>
+          <beacon>jen</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
           <beacon>dpi</beacon>
@@ -9782,6 +9821,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
           <beacon>db</beacon>
           <beacon>hls</beacon>
           <beacon>mav</beacon>
@@ -9837,6 +9877,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
           <beacon>db</beacon>
           <beacon>hls</beacon>
           <beacon>mav</beacon>
@@ -10750,7 +10791,9 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
           <beacon>db</beacon>
+          <beacon>jen</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
           <beacon>dpi</beacon>
@@ -10803,7 +10846,9 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
           <beacon>db</beacon>
+          <beacon>jen</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
           <beacon>dpi</beacon>
@@ -10904,6 +10949,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
         </beacon>
       </person>
     </persons>
@@ -11850,6 +11896,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
           <beacon>db</beacon>
           <beacon>blgs</beacon>
         </beacon>
@@ -14258,6 +14305,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
           <beacon>db</beacon>
           <beacon>fabricius</beacon>
           <beacon>kall</beacon>
@@ -14420,6 +14468,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
           <beacon>db</beacon>
           <beacon>fabricius</beacon>
           <beacon>kall</beacon>
@@ -15799,6 +15848,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
           <beacon>kall</beacon>
         </beacon>
       </person>
@@ -17242,6 +17292,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
           <beacon>db</beacon>
           <beacon>cph</beacon>
           <beacon>cpr</beacon>
@@ -18235,6 +18286,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
           <beacon>fsh</beacon>
@@ -18427,6 +18479,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
           <beacon>hls</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
@@ -18479,6 +18532,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
           <beacon>hls</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
@@ -19199,6 +19253,7 @@
         <beacon>
           <beacon>wkp</beacon>
           <beacon>dbi</beacon>
+          <beacon>jen</beacon>
           <beacon>dpi</beacon>
         </beacon>
       </person>
@@ -20868,6 +20923,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
           <beacon>db</beacon>
           <beacon>hls</beacon>
           <beacon>mav</beacon>
@@ -21479,6 +21535,8 @@
         <gnd>100679463</gnd>
         <role>author</role>
         <beacon>
+          <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
           <beacon>db</beacon>
         </beacon>
       </person>
@@ -21530,6 +21588,8 @@
         <gnd>100679463</gnd>
         <role>author</role>
         <beacon>
+          <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
           <beacon>db</beacon>
         </beacon>
       </person>
@@ -21577,6 +21637,8 @@
         <gnd>100679463</gnd>
         <role>author</role>
         <beacon>
+          <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
           <beacon>db</beacon>
         </beacon>
       </person>

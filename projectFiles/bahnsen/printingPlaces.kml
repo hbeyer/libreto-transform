@@ -2159,6 +2159,30 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+			<address>Breslau</address>
+			<TimeStamp>
+				<when>1615</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>17,51.1</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Breslau</address>
+			<TimeStamp>
+				<when>1615</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>17,51.1</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Breslau</address>
+			<Point>
+				<coordinates>17,51.1</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<address>Brüx</address>
 			<TimeStamp>
 				<when>1596</when>
@@ -2381,6 +2405,60 @@
 			</TimeStamp>
 			<Point>
 				<coordinates>13.75,51.05</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Eisleben</address>
+			<TimeStamp>
+				<when>1599</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>11.55,51.5333</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Eisleben</address>
+			<TimeStamp>
+				<when>1600</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>11.55,51.5333</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Eisleben</address>
+			<TimeStamp>
+				<when>1600</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>11.55,51.5333</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Eisleben</address>
+			<TimeStamp>
+				<when>1605</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>11.55,51.5333</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Eisleben</address>
+			<TimeStamp>
+				<when>1605</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>11.55,51.5333</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Eisleben</address>
+			<TimeStamp>
+				<when>1605</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>11.55,51.5333</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -3389,6 +3467,24 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+			<address>Goslar</address>
+			<TimeStamp>
+				<when>1610</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>10.4333,51.9</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Goslar</address>
+			<TimeStamp>
+				<when>1617</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>10.4333,51.9</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<address>Gotha</address>
 			<TimeStamp>
 				<when>1644</when>
@@ -4286,6 +4382,15 @@
 			</TimeStamp>
 			<Point>
 				<coordinates>5.0667,52.65</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Ingolstadt</address>
+			<TimeStamp>
+				<when>1533</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>11.4333,48.7667</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -6212,6 +6317,33 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+			<address>Oldenburg</address>
+			<TimeStamp>
+				<when>1599</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>8,53</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Oldenburg</address>
+			<TimeStamp>
+				<when>1599</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>8,53</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Oldenburg</address>
+			<TimeStamp>
+				<when>1599</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>8,53</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<address>Padua</address>
 			<TimeStamp>
 				<when>1634</when>
@@ -7565,6 +7697,15 @@
 			</TimeStamp>
 			<Point>
 				<coordinates>12.5,50.7333</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<address>Zwolle</address>
+			<TimeStamp>
+				<when>1629</when>
+			</TimeStamp>
+			<Point>
+				<coordinates>6.083333,52.5</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>

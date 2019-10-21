@@ -23,6 +23,7 @@
     <field name="comment">Wahrscheinlich handelt es sich um die hier in drei Bänden vorliegende zweite Ausgabe VD 16 Z 755 (Basel: Hieronymus Froben, 1571).</field>
     <field name="linkManifestation">http://gateway-bayern.de/VD16+Z 755</field>
     <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)</field>
+    <field name="manifestationFull">VD16#Z 755</field>
     <field name="languagesFull">Latein</field>
     <field name="yearNormalized">1571</field>
     <field name="owner">Rehlinger, Carl Wolfgang</field>
@@ -53,6 +54,7 @@
     <field name="bound">1</field>
     <field name="linkManifestation">http://gateway-bayern.de/VD16+Z 755</field>
     <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)</field>
+    <field name="manifestationFull">VD16#Z 755</field>
     <field name="languagesFull">Latein</field>
     <field name="yearNormalized">1571</field>
     <field name="owner">Rehlinger, Carl Wolfgang</field>
@@ -83,6 +85,7 @@
     <field name="bound">1</field>
     <field name="linkManifestation">http://gateway-bayern.de/VD16+Z 755</field>
     <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)</field>
+    <field name="manifestationFull">VD16#Z 755</field>
     <field name="languagesFull">Latein</field>
     <field name="yearNormalized">1571</field>
     <field name="owner">Rehlinger, Carl Wolfgang</field>
@@ -163,6 +166,7 @@
     <field name="bound">1</field>
     <field name="linkManifestation">http://gateway-bayern.de/VD16+K 2335</field>
     <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)</field>
+    <field name="manifestationFull">VD16#K 2335</field>
     <field name="languagesFull">Latein</field>
     <field name="yearNormalized">1569</field>
     <field name="owner">Rehlinger, Carl Wolfgang</field>
@@ -314,6 +318,7 @@
     <field name="bound">1</field>
     <field name="linkManifestation">http://gateway-bayern.de/VD16+T 2318</field>
     <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)</field>
+    <field name="manifestationFull">VD16#T 2318</field>
     <field name="languagesFull">Latein</field>
     <field name="yearNormalized">1554</field>
     <field name="owner">Rehlinger, Carl Wolfgang</field>
@@ -350,6 +355,7 @@
     <field name="comment">Anthologie römischer Autoren mit Kommentaren zu den Kaiserviten von Erasmus von Rotterdam und Giovanni Battista Egnazio.</field>
     <field name="linkManifestation">http://gateway-bayern.de/VD16+E 3648</field>
     <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)</field>
+    <field name="manifestationFull">VD16#E 3648</field>
     <field name="languagesFull">Latein</field>
     <field name="yearNormalized">1546</field>
     <field name="owner">Rehlinger, Carl Wolfgang</field>
@@ -383,6 +389,7 @@
     <field name="bound">1</field>
     <field name="linkManifestation">http://edit16.iccu.sbn.it/scripts/iccu_ext.dll?fn=10&amp;i=34276</field>
     <field name="nameSystemManifestation">EDIT16 Censimento nazionale delle edizioni italiane del XVI secolo</field>
+    <field name="manifestationFull">EDIT16#34276</field>
     <field name="languagesFull">Latein</field>
     <field name="yearNormalized">1557</field>
     <field name="owner">Rehlinger, Carl Wolfgang</field>
@@ -528,6 +535,7 @@
     <field name="bound">1</field>
     <field name="linkManifestation">http://gateway-bayern.de/VD16+E 238</field>
     <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)</field>
+    <field name="manifestationFull">VD16#E 238</field>
     <field name="languagesFull">Latein</field>
     <field name="yearNormalized">1574</field>
     <field name="owner">Rehlinger, Carl Wolfgang</field>
@@ -559,6 +567,7 @@
     <field name="bound">1</field>
     <field name="linkManifestation">http://gateway-bayern.de/VD16+H 6154</field>
     <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)</field>
+    <field name="manifestationFull">VD16#H 6154</field>
     <field name="languagesFull">Latein</field>
     <field name="yearNormalized">1558</field>
     <field name="owner">Rehlinger, Carl Wolfgang</field>
@@ -592,6 +601,7 @@
     <field name="bound">1</field>
     <field name="linkManifestation">http://gateway-bayern.de/VD16+N 1446</field>
     <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)</field>
+    <field name="manifestationFull">VD16#N 1446</field>
     <field name="languagesFull">Latein</field>
     <field name="yearNormalized">1561</field>
     <field name="owner">Rehlinger, Carl Wolfgang</field>
@@ -626,6 +636,7 @@
     <field name="comment">VD16 B 5334 oder Druckvariante VD16 ZV 28110</field>
     <field name="linkManifestation">http://gateway-bayern.de/VD16+B 5334</field>
     <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)</field>
+    <field name="manifestationFull">VD16#B 5334</field>
     <field name="languagesFull">Latein</field>
     <field name="yearNormalized">1558</field>
     <field name="owner">Rehlinger, Carl Wolfgang</field>
@@ -796,6 +807,7 @@
     <field name="bound">1</field>
     <field name="linkManifestation">http://gateway-bayern.de/VD16+T 1967</field>
     <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)</field>
+    <field name="manifestationFull">VD16#T 1967</field>
     <field name="languagesFull">Latein</field>
     <field name="yearNormalized">1559</field>
     <field name="owner">Rehlinger, Carl Wolfgang</field>
@@ -900,6 +912,7 @@
     <field name="bound">1</field>
     <field name="linkManifestation">http://gateway-bayern.de/VD16+D 1793</field>
     <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)</field>
+    <field name="manifestationFull">VD16#D 1793</field>
     <field name="languagesFull">Latein</field>
     <field name="yearNormalized">1558</field>
     <field name="owner">Rehlinger, Carl Wolfgang</field>
@@ -986,6 +999,7 @@
     <field name="comment">Enth. Johannes Turpinus: Historia de vita Caroli Magni et Rolandi; Regino von Prüm: Annales; Sigebert von Gembloux: Chronographia; Lambert von Hersfeld: De rebus gestis Germanorum. Hrsg. von Simon Schardius.</field>
     <field name="linkManifestation">http://gateway-bayern.de/VD16+S 2277</field>
     <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)</field>
+    <field name="manifestationFull">VD16#S 2277</field>
     <field name="languagesFull">Latein</field>
     <field name="yearNormalized">1566</field>
     <field name="owner">Rehlinger, Carl Wolfgang</field>
@@ -1040,6 +1054,7 @@
     <field name="bound">1</field>
     <field name="linkManifestation">http://edit16.iccu.sbn.it/scripts/iccu_ext.dll?fn=10&amp;i=19467</field>
     <field name="nameSystemManifestation">EDIT16 Censimento nazionale delle edizioni italiane del XVI secolo</field>
+    <field name="manifestationFull">EDIT16#19467</field>
     <field name="languagesFull">Latein</field>
     <field name="yearNormalized">1513</field>
     <field name="owner">Rehlinger, Carl Wolfgang</field>
@@ -1070,6 +1085,7 @@
     <field name="bound">1</field>
     <field name="linkManifestation">http://gateway-bayern.de/VD16+H 2544</field>
     <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)</field>
+    <field name="manifestationFull">VD16#H 2544</field>
     <field name="languagesFull">Latein</field>
     <field name="yearNormalized">1556</field>
     <field name="owner">Rehlinger, Carl Wolfgang</field>
@@ -1103,6 +1119,7 @@
     <field name="bound">1</field>
     <field name="linkManifestation">http://gateway-bayern.de/VD16+ZV 7827</field>
     <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)</field>
+    <field name="manifestationFull">VD16#ZV 7827</field>
     <field name="languagesFull">Latein</field>
     <field name="yearNormalized">1532</field>
     <field name="owner">Rehlinger, Carl Wolfgang</field>
@@ -1136,6 +1153,7 @@
     <field name="bound">1</field>
     <field name="linkManifestation">http://gateway-bayern.de/VD16+L 242</field>
     <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)</field>
+    <field name="manifestationFull">VD16#L 242</field>
     <field name="languagesFull">Latein</field>
     <field name="yearNormalized">1532</field>
     <field name="owner">Rehlinger, Carl Wolfgang</field>
@@ -1169,6 +1187,7 @@
     <field name="bound">1</field>
     <field name="linkManifestation">http://edit16.iccu.sbn.it/scripts/iccu_ext.dll?fn=10&amp;i=34274</field>
     <field name="nameSystemManifestation">EDIT16 Censimento nazionale delle edizioni italiane del XVI secolo</field>
+    <field name="manifestationFull">EDIT16#34274</field>
     <field name="languagesFull">Latein</field>
     <field name="yearNormalized">1557</field>
     <field name="owner">Rehlinger, Carl Wolfgang</field>
@@ -1203,6 +1222,7 @@
     <field name="comment">Eingebunden ist nur das [4] Bl., 72 S. umfassende enthaltene Werk mit eigenem Titelblatt von EDIT16 CNCE 37871 (Onofrio Panvinio: Fastorvm libri V a Romulo rege usque ad imp.Caesarem Carolum V Austrium Augustum. Venedig: Vincenzo Valgrisi, 1558. 2°).</field>
     <field name="linkManifestation">http://edit16.iccu.sbn.it/scripts/iccu_ext.dll?fn=10&amp;i=37871</field>
     <field name="nameSystemManifestation">EDIT16 Censimento nazionale delle edizioni italiane del XVI secolo</field>
+    <field name="manifestationFull">EDIT16#37871</field>
     <field name="languagesFull">Latein</field>
     <field name="yearNormalized">1558</field>
     <field name="owner">Rehlinger, Carl Wolfgang</field>
@@ -1310,6 +1330,7 @@
     <field name="bound">1</field>
     <field name="linkManifestation">http://gateway-bayern.de/VD16+F 1294</field>
     <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)</field>
+    <field name="manifestationFull">VD16#F 1294</field>
     <field name="languagesFull">Latein</field>
     <field name="yearNormalized">1562</field>
     <field name="owner">Rehlinger, Carl Wolfgang</field>
@@ -1343,6 +1364,7 @@
     <field name="bound">1</field>
     <field name="linkManifestation">http://gateway-bayern.de/VD16+W 4314</field>
     <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)</field>
+    <field name="manifestationFull">VD16#W 4314</field>
     <field name="languagesFull">Latein</field>
     <field name="yearNormalized">1557</field>
     <field name="owner">Rehlinger, Carl Wolfgang</field>
@@ -1407,6 +1429,7 @@
     <field name="comment">Herausgegeben von Conrad Peutinger und Johannes Stabius. Enth. auch Paulus Diaconus: De gestis Langobardorum (VD 16 P 1048).</field>
     <field name="linkManifestation">http://gateway-bayern.de/VD16+J 932</field>
     <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)</field>
+    <field name="manifestationFull">VD16#J 932</field>
     <field name="languagesFull">Latein</field>
     <field name="yearNormalized">1515</field>
     <field name="owner">Rehlinger, Carl Wolfgang</field>
@@ -1578,6 +1601,7 @@
     <field name="comment">Nach der treffenden Titelaufnahme sehr wahrscheinlich VD 16 c 34.</field>
     <field name="linkManifestation">http://gateway-bayern.de/VD16+C 34</field>
     <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)</field>
+    <field name="manifestationFull">VD16#C 34</field>
     <field name="languagesFull">Latein</field>
     <field name="yearNormalized">1535</field>
     <field name="owner">Rehlinger, Carl Wolfgang</field>
@@ -1734,6 +1758,7 @@
     <field name="bound">1</field>
     <field name="linkManifestation">http://gateway-bayern.de/VD16+G 2064</field>
     <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)</field>
+    <field name="manifestationFull">VD16#G 2064</field>
     <field name="languagesFull">Latein</field>
     <field name="yearNormalized">1561</field>
     <field name="owner">Rehlinger, Carl Wolfgang</field>
@@ -1764,6 +1789,7 @@
     <field name="bound">1</field>
     <field name="linkManifestation">http://gateway-bayern.de/VD16+G 2059</field>
     <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)</field>
+    <field name="manifestationFull">VD16#G 2059</field>
     <field name="languagesFull">Latein</field>
     <field name="yearNormalized">1561</field>
     <field name="owner">Rehlinger, Carl Wolfgang</field>
@@ -1794,6 +1820,7 @@
     <field name="bound">1</field>
     <field name="linkManifestation">http://gateway-bayern.de/VD16+K 2258</field>
     <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)</field>
+    <field name="manifestationFull">VD16#K 2258</field>
     <field name="languagesFull">Latein</field>
     <field name="yearNormalized">1574</field>
     <field name="owner">Rehlinger, Carl Wolfgang</field>
@@ -1824,6 +1851,7 @@
     <field name="bound">1</field>
     <field name="linkManifestation">http://gateway-bayern.de/VD16+K 2250</field>
     <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)</field>
+    <field name="manifestationFull">VD16#K 2250</field>
     <field name="languagesFull">Latein</field>
     <field name="yearNormalized">1574</field>
     <field name="owner">Rehlinger, Carl Wolfgang</field>
@@ -1854,6 +1882,7 @@
     <field name="bound">1</field>
     <field name="linkManifestation">http://gateway-bayern.de/VD16+P 1076</field>
     <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)</field>
+    <field name="manifestationFull">VD16#P 1076</field>
     <field name="languagesFull">Latein</field>
     <field name="yearNormalized">1557</field>
     <field name="owner">Rehlinger, Carl Wolfgang</field>
@@ -1884,6 +1913,7 @@
     <field name="bound">1</field>
     <field name="linkManifestation">http://gateway-bayern.de/VD16+L 243</field>
     <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)</field>
+    <field name="manifestationFull">VD16#L 243</field>
     <field name="languagesFull">Latein</field>
     <field name="yearNormalized">1569</field>
     <field name="owner">Rehlinger, Carl Wolfgang</field>
@@ -1987,6 +2017,7 @@
     <field name="bound">1</field>
     <field name="linkManifestation">http://gateway-bayern.de/VD16+ZV 8754</field>
     <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)</field>
+    <field name="manifestationFull">VD16#ZV 8754</field>
     <field name="yearNormalized">1559</field>
     <field name="owner">Rehlinger, Carl Wolfgang</field>
     <field name="ownerGND">1055708286</field>

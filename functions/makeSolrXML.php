@@ -186,6 +186,7 @@ function resolveManifestation($row) {
         if ($reference->url) {
             $row['linkManifestation'] = $reference->url;
             $row['nameSystemManifestation'] = $reference->nameSystem;
+            $row['manifestationFull'] = $reference->fullID;
         }
 	}
 	return($row);

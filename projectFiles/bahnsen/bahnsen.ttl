@@ -17034,7 +17034,7 @@ Zuvor vermehret mit einem Büchlein/ De Monetis Et Mensuris ... Insonderheit abe
   dc:subject "Theologie" ;
   dc:language "dut"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:104279850 ;
   libreto:hasManifestation <http://swb.bsz-bw.de/DB=2.1/PPNSET?PPN=030048680> .
 
@@ -17121,7 +17121,7 @@ Zuvor vermehret mit einem Büchlein/ De Monetis Et Mensuris ... Insonderheit abe
   dc:language "dut"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Mehrbändiges Werk. Gesamtaufnahme: GBV 146786416" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:104279850 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=146786416> .
 
@@ -17138,7 +17138,7 @@ Zuvor vermehret mit einem Büchlein/ De Monetis Et Mensuris ... Insonderheit abe
   dc:language "dut"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "[Erste Deel]: GBV 227847644" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:104279850 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=146786416> .
 
@@ -17155,7 +17155,7 @@ Zuvor vermehret mit einem Büchlein/ De Monetis Et Mensuris ... Insonderheit abe
   dc:language "dut"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Tweede Deel: GBV 227847741" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:104279850 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=146786416> .
 
@@ -17172,7 +17172,7 @@ Zuvor vermehret mit einem Büchlein/ De Monetis Et Mensuris ... Insonderheit abe
   dc:language "dut"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Derde Deel: GBV 227847784" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:104279850 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=146786416> .
 
@@ -17189,7 +17189,7 @@ Zuvor vermehret mit einem Büchlein/ De Monetis Et Mensuris ... Insonderheit abe
   dc:language "dut"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Vierde Deel: GBV 227847873" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:104279850 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=146786416> .
 
@@ -17206,7 +17206,7 @@ Zuvor vermehret mit einem Büchlein/ De Monetis Et Mensuris ... Insonderheit abe
   dc:language "dut"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Tweede Deel: GBV 227847741" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:104279850 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=227847741> .
 
@@ -17242,7 +17242,7 @@ Zuvor vermehret mit einem Büchlein/ De Monetis Et Mensuris ... Insonderheit abe
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Enthält 3 Teile." ;
   dc:hasFormat "http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10141648-3" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:11853467X ;
   libreto:hasManifestation <http://gateway-bayern.de/VD16+F 2073> .
 
@@ -17584,7 +17584,7 @@ Zuvor vermehret mit einem Büchlein/ De Monetis Et Mensuris ... Insonderheit abe
   dc:subject "Theologie" ;
   dc:language "dut"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:122006690 ;
   libreto:hasManifestation <http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=110636961> .
 
@@ -17616,7 +17616,7 @@ Zuvor vermehret mit einem Büchlein/ De Monetis Et Mensuris ... Insonderheit abe
   dc:subject "Theologie" ;
   dc:language "dut"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:104279850 ;
   libreto:hasManifestation <http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=108774163> .
 
@@ -17633,7 +17633,7 @@ Zuvor vermehret mit einem Büchlein/ De Monetis Et Mensuris ... Insonderheit abe
   dc:language "dut"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "STCN: frühes 17. Jh." ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:104279850 ;
   libreto:hasManifestation <http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=082414955> ;
   libreto:hasContext [
@@ -17655,7 +17655,7 @@ Zuvor vermehret mit einem Büchlein/ De Monetis Et Mensuris ... Insonderheit abe
   dc:language "dut"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "STCN: frühes 17. Jh." ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:104279850 ;
   libreto:hasManifestation <http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=08241050X> ;
   libreto:hasContext [
@@ -17677,7 +17677,7 @@ Zuvor vermehret mit einem Büchlein/ De Monetis Et Mensuris ... Insonderheit abe
   dc:language "dut"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "STCN: frühes 17. Jh." ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:104279850 ;
   libreto:hasManifestation <http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=082414955> .
 
@@ -18167,7 +18167,7 @@ Zuvor vermehret mit einem Büchlein/ De Monetis Et Mensuris ... Insonderheit abe
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "VD17 1:073027K (Digitalisat) oder VD17 3:004378X" ;
   dc:hasFormat "http://purl.uni-rostock.de/rosdok/ppn767037626" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:118630105 ;
   libreto:hasContext [
     a libreto:PhysicalContext ;
@@ -18410,7 +18410,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "VD17 1:073027K (Digitalisat) oder VD17 3:004378X" ;
   dc:hasFormat "http://purl.uni-rostock.de/rosdok/ppn767037626" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:118630105 ;
   libreto:hasContext [
     a libreto:PhysicalContext ;
@@ -18494,7 +18494,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Bibliogr. Nachweise: Bircher, B 17533. NUC 56, 0156427." ;
   dc:hasFormat "KEYPhttp://www.gbv.de/vd/vd17/1:072997Z" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:118630105 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=1:072997Z> ;
   libreto:hasContext [
@@ -18749,7 +18749,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "VD17 1:073027K (Digitalisat) oder VD17 3:004378X" ;
   dc:hasFormat "http://purl.uni-rostock.de/rosdok/ppn767037626" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:118630105 ;
   libreto:hasContext [
     a libreto:PhysicalContext ;
@@ -18946,7 +18946,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   dc:hasFormat "http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb00089762-5" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:118612190 ;
   dc:contributor gnd:118809563 ;
   libreto:hasManifestation <http://gateway-bayern.de/VD16+S 5047> .
@@ -18965,7 +18965,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   dc:hasFormat "http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb00027399-1" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:118612190 ;
   libreto:hasManifestation <http://gateway-bayern.de/VD16+S 5005> .
 
@@ -19442,7 +19442,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Verf. ermittelt in: VD17 1:073151P" ;
   dc:hasFormat "KEYPhttp://www.gbv.de/vd/vd17/39:133772F" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:118809563 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=39:133772F> .
 
@@ -19460,7 +19460,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Bibliogr. Nachweis: Bruckner Nr. 124." ;
   dc:hasFormat "http://purl.uni-rostock.de/rosdok/ppn767484398" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:128909293 ;
   dc:contributor gnd:121333272 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=23:288243G> .
@@ -19600,7 +19600,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Bibliogr. Nachweis: Bircher A 10775." ;
   dc:hasFormat "KEYPhttp://www.gbv.de/vd/vd17/1:072964G" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:123170834 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=1:072964G> ;
   libreto:hasContext [
@@ -19622,7 +19622,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   dc:hasFormat "KEYPhttp://www.gbv.de/vd/vd17/23:332692P" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:123170834 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=23:332692P> ;
   libreto:hasContext [
@@ -19645,7 +19645,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Bibliogr. Nachweis: Bircher A 11644." ;
   dc:hasFormat "KEYPhttp://www.gbv.de/vd/vd17/23:632093V" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:121392309 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=23:632093V> ;
   libreto:hasContext [
@@ -19667,7 +19667,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Sehr selten überliefert, nur ein Ex. in Hannover GWLB: T-A 3730 (Stück 3); vgl. Moller, Cimbria literata I, S. 679 (in 4°)" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:121392309 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=23135682X> ;
   libreto:hasContext [
@@ -19734,7 +19734,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   dc:hasFormat "http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3922097720" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=14:002968Q> ;
   libreto:hasContext [
     a libreto:PhysicalContext ;
@@ -19795,7 +19795,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   dc:hasFormat "http://data.onb.ac.at/ABO/%2BZ166232800" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:124945082 ;
   libreto:hasManifestation <http://lobid.org/resource/HT004275476> ;
   libreto:hasContext [
@@ -19818,7 +19818,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "#VD17$per carion, johannes and tit proph* and erj 1620#" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator <br:bahnsen/persons/Carion%2C+Johannes> ;
   libreto:hasContext [
     a libreto:PhysicalContext ;
@@ -19857,7 +19857,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
   dc:language "dut"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Enthält 2 Teile. Erschienen in Vianen oder Rotterdam (STCN)" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator <br:bahnsen/persons/Wijers%2C+Mathijs> ;
   libreto:hasManifestation <http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=055785255> ;
   libreto:hasContext [
@@ -20116,7 +20116,7 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
   dc:subject "Theologie" ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:121392309 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=23135682X> .
 
@@ -20590,7 +20590,7 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "00064/92S1-3 gehören zusammen." ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=23:250871Z> ;
   libreto:hasContext [
     a libreto:PhysicalContext ;
@@ -20611,7 +20611,7 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "00064/92S1-3 gehören zusammen." ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=23:250871Z> ;
   libreto:hasContext [
     a libreto:PhysicalContext ;
@@ -20632,7 +20632,7 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "00064/92S1-3 gehören zusammen." ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=23:250871Z> ;
   libreto:hasContext [
     a libreto:PhysicalContext ;
@@ -20671,7 +20671,7 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
   dc:subject "Theologie" ;
   dc:language "dut"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:118519565 ;
   libreto:hasManifestation <http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=860293467> .
 
@@ -20828,7 +20828,7 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Sehr selten überliefert, 1 Ex. in Berlin SB Cs 13380 (Kriegsverlust). Lt. Stabikat in 8°. Vgl. Dünnhaupt 3, S. 1572, Nr. 38, zur Ausgabe 1677. Der Autor des Hauptwerks \"Oculus Aeternitatis Das ist Geistliche Erkäntnüs Gottes\" ist jedoch nicht Abraham von Franckenberg, sondern nach Dünnhaupt vermutlich Paul Kaim." ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   libreto:hasManifestation <http://stabikat.de/DB=1/PPNSET?PPN=402401840> .
 
 <br:bahnsen/item_bahnsen222>
@@ -20976,7 +20976,7 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Bibliogr. Nachweis: Dünnhaupt S. 2094f, 4.1." ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:121145905 ;
   dc:contributor gnd:118504134 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=23:281828K> .
@@ -20994,7 +20994,7 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   dc:hasFormat "http://reader.digitale-sammlungen.de/resolve/display/bsb10175483.html" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:118612190 ;
   libreto:hasManifestation <http://gateway-bayern.de/VD16+S 5015> .
 
@@ -21067,7 +21067,7 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
   dc:language "dut"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Van der Linde, David Joris, Nr. 77-93 (Teil 1 eines durchfoliierten Sammelwerkes von 17 Drucken)." ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:104279850 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=150384157> .
 
@@ -21084,7 +21084,7 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
   dc:language "dut"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Van der Linde, David Joris, Nr. 77-93 (Teil 1 eines durchfoliierten Sammelwerkes von 17 Drucken)." ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:104279850 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=150384157> .
 
@@ -21101,7 +21101,7 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
   dc:language "dut"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Van der Linde, David Joris, Nr. 77-93 (Teil 1 eines durchfoliierten Sammelwerkes von 17 Drucken)." ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:104279850 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=150384157> .
 
@@ -21118,7 +21118,7 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
   dc:language "dut"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Van der Linde, David Joris, Nr. 77-93 (Teil 1 eines durchfoliierten Sammelwerkes von 17 Drucken)." ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:104279850 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=150384157> .
 
@@ -21424,7 +21424,7 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Erschienen unter dem Pseudonym Elias Praetorius (d.i. Christian Hoburg)." ;
   dc:hasFormat "KEYPhttp://www.gbv.de/vd/vd17/12:193234N" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:121145905 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=12:193234N> .
 
@@ -21443,7 +21443,7 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Erschienen unter dem Pseudonym Elias Praetorius (d.i. Christian Hoburg)." ;
   dc:hasFormat "http://resolver.sub.uni-hamburg.de/goobi/PPN750561831" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:121145905 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=1:073245T> .
 
@@ -21625,7 +21625,7 @@ Nebenst beygefügtem Extract etlicher wunderlichen Newen Offenbahrungen/ angehen
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   dc:hasFormat "KEYPhttp://www.gbv.de/vd/vd17/3:306035X" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:119160242 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=3:306035X> .
 
@@ -21656,7 +21656,7 @@ Nebenst beygefügtem Extract etlicher wunderlichen Newen Offenbahrungen/ angehen
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Verf. ermittelt in: Dünnhaupt, S. 546, Nr. 5.2." ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:119160242 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=23:638688L> .
 
@@ -21697,7 +21697,7 @@ Nebenst beygefügtem Extract etlicher wunderlichen Newen Offenbahrungen/ angehen
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Verfasser Joachim Betke erm. in Weller, Wörterbuch der Pseudonymen" ;
   dc:hasFormat "KEYPhttp://www.gbv.de/vd/vd17/3:306033G" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:119160242 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=3:306033G> ;
   libreto:hasContext [
@@ -21767,7 +21767,7 @@ Nebenst beygefügtem Extract etlicher wunderlichen Newen Offenbahrungen/ angehen
   dc:language "dut"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Sehr seltene Überlieferung (2 Ex.: Cambridge UL und Amsterdam UL). Gedruckt nicht vor 1656. Eigentlich enth. Werk in: Institutio puerorum. Kinder bericht, hier offenbar separat. De la Fontaine Verwey: Geschriften Hendrik Niclaes, S. 193, Nr. 17 (III C V.)" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:118786105 ;
   libreto:hasManifestation <http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=302306854> .
 
@@ -21948,7 +21948,7 @@ Nebenst beygefügtem Extract etlicher wunderlichen Newen Offenbahrungen/ angehen
   dc:language "dut"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "van der Linde, David Joris, Nr. 176" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:104279850 ;
   libreto:hasManifestation <http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=860914593> ;
   libreto:hasContext [
@@ -21970,7 +21970,7 @@ Nebenst beygefügtem Extract etlicher wunderlichen Newen Offenbahrungen/ angehen
   dc:language "dut"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "van der Linde, David Joris, Nr. 173" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:104279850 ;
   libreto:hasManifestation <http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=860914771> ;
   libreto:hasContext [
@@ -21992,7 +21992,7 @@ Nebenst beygefügtem Extract etlicher wunderlichen Newen Offenbahrungen/ angehen
   dc:language "dut"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "van der Linde, David Joris, Nr. 176" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:104279850 ;
   libreto:hasManifestation <http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=860914593> .
 
@@ -22196,7 +22196,7 @@ Nebenst beygefügtem Extract etlicher wunderlichen Newen Offenbahrungen/ angehen
   dc:subject "Theologie" ;
   dc:language "dut"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:105550303X ;
   libreto:hasManifestation <http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=108867935> .
 
@@ -22212,7 +22212,7 @@ Nebenst beygefügtem Extract etlicher wunderlichen Newen Offenbahrungen/ angehen
   dc:subject "Theologie" ;
   dc:language "dut"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:105550303X ;
   libreto:hasManifestation <http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=108867935> .
 
@@ -22228,7 +22228,7 @@ Nebenst beygefügtem Extract etlicher wunderlichen Newen Offenbahrungen/ angehen
   dc:subject "Theologie" ;
   dc:language "dut"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:105550303X ;
   libreto:hasManifestation <http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=108867935> .
 
@@ -22246,7 +22246,7 @@ Nebenst beygefügtem Extract etlicher wunderlichen Newen Offenbahrungen/ angehen
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   dc:hasFormat "KEYPhttp://www.gbv.de/vd/vd17/23:638643W" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=23:638643W> .
 
 <br:bahnsen/item_bahnsen307>
@@ -22443,7 +22443,7 @@ Nebenst beygefügtem Extract etlicher wunderlichen Newen Offenbahrungen/ angehen
   dc:subject "Theologie" ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:105550303X ;
   libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=151199388> .
 
@@ -22667,7 +22667,7 @@ Nebenst beygefügtem Extract etlicher wunderlichen Newen Offenbahrungen/ angehen
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Im GBV ist Johann Amos Comenius als ermittelter Hrsg. angegeben, in Holzmann-Bohatta. Bd. 3, S. 97, Nr. 3166 hingegen als Verf. bezeichnet" ;
   dc:hasFormat "KEYPhttp://www.gbv.de/vd/vd17/23:277806D" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:contributor gnd:128596929, gnd:128597054, gnd:123454638, gnd:118521691 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=23:277806D> .
 
@@ -22685,7 +22685,7 @@ Nebenst beygefügtem Extract etlicher wunderlichen Newen Offenbahrungen/ angehen
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Im GBV ist Johann Amos Comenius als ermittelter Hrsg. angegeben, in Holzmann-Bohatta. Bd. 3, S. 97, Nr. 3166 hingegen als Verf. bezeichnet" ;
   dc:hasFormat "KEYPhttp://www.gbv.de/vd/vd17/23:277806D" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:contributor gnd:128596929, gnd:128597054, gnd:123454638, gnd:118521691 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=23:277806D> .
 
@@ -22778,7 +22778,7 @@ Nebenst beygefügtem Extract etlicher wunderlichen Newen Offenbahrungen/ angehen
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   dc:hasFormat "KEYPhttp://www.gbv.de/vd/vd17/23:647894W" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:123043921 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=23:647894W> .
 
@@ -23442,7 +23442,7 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
   dc:language "dut"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "\"Includes 16 other treatises\" (STCN). Linde, David Joris, Nr. 94–110." ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:104279850 ;
   libreto:hasManifestation <http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=108868621> .
 
@@ -23503,7 +23503,7 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
   dc:language "dut"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Sehr seltene Überlieferung. Nur 1 Ex. in Halle/S., Franckesche Stiftungen" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:143047809 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=627425186> .
 
@@ -23631,7 +23631,7 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "VD16 H 2653 (Digitalisat) oder VD16 H 2652" ;
   dc:hasFormat "http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb00016960-4" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:100163920 .
 
 <br:bahnsen/item_bahnsen393>
@@ -23813,7 +23813,7 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Eigtl. in Format 12°. \"Pacifist tract opposing the use of force in the Christian republic\" (Jantz)." ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:118855050 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=7:709625V> .
 
@@ -24164,7 +24164,7 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Bibliogr. Nachweis: Dünnhaupt, S. 682, 7.3." ;
   dc:hasFormat "KEYPhttp://www.gbv.de/vd/vd17/12:104679Y" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:118512579 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=12:104679Y> .
 
@@ -24182,7 +24182,7 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Bibliogr. Nachweis: Dünnhaupt, S. 686, 8.2." ;
   dc:hasFormat "KEYPhttp://www.gbv.de/vd/vd17/12:104668K" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:118512579 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=12:104668K> .
 
@@ -24200,7 +24200,7 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Bibliogr. Nachweis: Dünnhaupt, S. 686, 8.2." ;
   dc:hasFormat "KEYPhttp://www.gbv.de/vd/vd17/12:104668K" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:118512579 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=12:104668K> .
 
@@ -24289,7 +24289,7 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   dc:hasFormat "KEYPhttp://www.gbv.de/vd/vd17/12:104604Q" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:118512579 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=12:104604Q> ;
   libreto:hasContext [
@@ -24313,7 +24313,7 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
   libreto:comment """Verfasser Johannes Beer ermittelt in: Jöcher/Adelung. Herausgeber Abraham von Frankenberg am Ende der Vorrede genannt: A. V. F.
 Laut Jöcher/Adelung 1639 in Amsterdam erschienen. - Datierung am Ende der Vorrede: 1634. - Datierung auf dem Kupfert.: 1638""" ;
   dc:hasFormat "KEYPhttp://www.gbv.de/vd/vd17/12:105163Y" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:1055650709 ;
   dc:contributor gnd:118855050 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=12:105163Y> ;
@@ -24336,7 +24336,7 @@ Laut Jöcher/Adelung 1639 in Amsterdam erschienen. - Datierung am Ende der Vorre
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   dc:hasFormat "KEYPhttp://www.gbv.de/vd/vd17/12:105160A" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:13016853X ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=12:105160A> ;
   libreto:hasContext [
@@ -24378,7 +24378,7 @@ Laut Jöcher/Adelung 1639 in Amsterdam erschienen. - Datierung am Ende der Vorre
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   dc:hasFormat "KEYPhttp://www.gbv.de/vd/vd17/12:104604Q" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:118512579 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=12:104604Q> ;
   libreto:hasContext [
@@ -24698,7 +24698,7 @@ Laut Jöcher/Adelung 1639 in Amsterdam erschienen. - Datierung am Ende der Vorre
   dc:subject "Theologie" ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:123879949 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=250504685> .
 
@@ -24716,7 +24716,7 @@ Laut Jöcher/Adelung 1639 in Amsterdam erschienen. - Datierung am Ende der Vorre
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Dünnhaupt, S. 1472, 40. Erscheinungsjahr nach dem Erstdr. Geschätzt." ;
   dc:hasFormat "KEYPhttp://www.gbv.de/vd/vd17/1:082029Y" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=1:082029Y> .
 
 <br:bahnsen/item_bahnsen457>
@@ -24821,7 +24821,7 @@ Laut Jöcher/Adelung 1639 in Amsterdam erschienen. - Datierung am Ende der Vorre
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Unter dem Pseudonym Elias Preatorius (d.i. Christian Hoburg) erschienen." ;
   dc:hasFormat "http://purl.uni-rostock.de/rosdok/ppn796688281" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:121145905 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=7:702267K> .
 
@@ -24906,7 +24906,7 @@ Laut Jöcher/Adelung 1639 in Amsterdam erschienen. - Datierung am Ende der Vorre
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Sehr selten, nur ein Ex. in Den Haag KB. Titel nach Nijhoff/Kronenberg, Nr. 995. Format eigtl. 8°." ;
   dc:hasFormat "https://archive.org/stream/ned-kbn-all-00003204-001#page/n8" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator <br:bahnsen/persons/Gerson%2C+Johannes> ;
   libreto:hasManifestation <http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=107987015> .
 
@@ -24968,7 +24968,7 @@ Laut Jöcher/Adelung 1639 in Amsterdam erschienen. - Datierung am Ende der Vorre
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "VD16 S 5011 oder VD16 S 5012 (Digitalisat)." ;
   dc:hasFormat "http://nbn-resolving.de/urn:nbn:de:gbv:3:1-136575" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:118612190 .
 
 <br:bahnsen/item_bahnsen472>
@@ -25117,7 +25117,7 @@ Laut Jöcher/Adelung 1639 in Amsterdam erschienen. - Datierung am Ende der Vorre
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   dc:hasFormat "KEYPhttp://www.gbv.de/vd/vd17/1:073299F" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:129112658 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=1:073299F> .
 
@@ -25196,7 +25196,7 @@ Laut Jöcher/Adelung 1639 in Amsterdam erschienen. - Datierung am Ende der Vorre
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "\"Zum Streit um Esaias Stiefel und Ezechiel Meth\" (VD17)." ;
   dc:hasFormat "KEYPhttp://www.gbv.de/vd/vd17/3:607488L" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:122146670 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=3:607488L> .
 
@@ -25213,7 +25213,7 @@ Laut Jöcher/Adelung 1639 in Amsterdam erschienen. - Datierung am Ende der Vorre
   dc:language "dut"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Format eigentl. 16°" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:118580884 ;
   libreto:hasManifestation <http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=111406374> .
 
@@ -25232,7 +25232,7 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   dc:hasFormat "KEYPhttp://www.gbv.de/vd/vd17/39:147398P" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:11568445X ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=39:147398P> .
 
@@ -25280,7 +25280,7 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
   dc:language "dut"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "van der Linde, David Joris, Nr. 219." ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:104279850 ;
   libreto:hasManifestation <http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=108915654> ;
   libreto:hasContext [
@@ -25302,7 +25302,7 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
   dc:language "dut"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "van der Linde, David Joris, Nr. 220 oder 221." ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:104279850 ;
   libreto:hasManifestation <http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=108915484> ;
   libreto:hasContext [
@@ -25324,7 +25324,7 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
   dc:language "dut"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "van der Linde, David Joris, Nr. 222 oder 223." ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:104279850 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=529596830> ;
   libreto:hasContext [
@@ -25346,7 +25346,7 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
   dc:language "dut"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "van der Linde, David Joris, Nr. 224." ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:104279850 ;
   libreto:hasManifestation <http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=109620690> ;
   libreto:hasContext [
@@ -25368,7 +25368,7 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
   dc:language "dut"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "van der Linde, David Joris, Nr. 224. Nach dem Erscheinungsjahr handelt es sich um \"Dat vierde hand-boecxken\"." ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:104279850 ;
   libreto:hasManifestation <http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=109620690> .
 
@@ -25385,7 +25385,7 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
   dc:language "dut"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Da nichts Gegenteiliges vermerkt ist, handelt es sich wahrscheinlich bei Theol. 12° 64 auch um einen Sammelband mit allen vier Teilen. Van der Linde, David Joris, Nr. 219." ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:104279850 ;
   libreto:hasManifestation <http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=108915654> ;
   libreto:hasContext [
@@ -25407,7 +25407,7 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
   dc:language "dut"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "van der Linde, David Joris, Nr. 220 oder 221." ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:104279850 ;
   libreto:hasManifestation <http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=108915484> ;
   libreto:hasContext [
@@ -25429,7 +25429,7 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
   dc:language "dut"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "van der Linde, David Joris, Nr. 222 oder 223." ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:104279850 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=529596830> ;
   libreto:hasContext [
@@ -25451,7 +25451,7 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
   dc:language "dut"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "van der Linde, David Joris, Nr. 224." ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:104279850 ;
   libreto:hasManifestation <http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=109620690> ;
   libreto:hasContext [
@@ -25663,7 +25663,7 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
   dc:language "dut"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "van der Linde, David Joris, Nr. 250. Erschienen 1584." ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:104279850 ;
   libreto:hasManifestation <http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=162373473> .
 
@@ -25708,7 +25708,7 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   dc:hasFormat "KEYPhttp://www.gbv.de/vd/vd17/12:105160A" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:13016853X ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=12:105160A> .
 
@@ -25987,7 +25987,7 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Verfasser ermittelt. Dünnhaupt (2. Aufl.), S. 1469, 31 (hier mit Impressum Amsterdam : Fabel). Vgl. Penman, Leigh A.: A Heterodox Publishing Enterprise of the Thirty Years’ War. The Amsterdam Office of Hans Fabel (1616-after 1650). In: The Library 15 (2014), S. 44, Nr. 10 (zweifelhaft)." ;
   dc:hasFormat "http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-dfg-f9a01b83-e12d-4df7-9cd0-769f35444ce355" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:123140269 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=23:681776E> .
 
@@ -26542,7 +26542,7 @@ Darbey ein Schreiben vom Kriege/ an einen Leutenant ...""" ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Angelus Marianus ist Pseudonym für Johann Angelicus von Werdenhagen" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:100702236 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=23:652008F> .
 
@@ -26560,7 +26560,7 @@ Darbey ein Schreiben vom Kriege/ an einen Leutenant ...""" ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Angelus Marianus ist Pseudonym für Johann Angelicus von Werdenhagen" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:100702236 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=23:652008F> .
 
@@ -26737,7 +26737,7 @@ Darbey ein Schreiben vom Kriege/ an einen Leutenant ...""" ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Format eigentl. 4°. Theophilus Schweighardt ist Pseud. für Daniel Mögling" ;
   dc:hasFormat "http://digital.slub-dresden.de/ppn30298187X" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:117080632 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=23:000232K> .
 
@@ -27856,7 +27856,7 @@ Sampt einem andern Tractätlin/ Von dem Schnee und Eyß ...""" ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Brüning, V. F. Bibliographie der alchemistischen Literatur 1219. Bibliogr. Nachweis: Wolfstieg II, 42363. Irenaeus Agnostus ist Pseudonym für Friedrich Grick." ;
   dc:hasFormat "http://diglib.hab.de/drucke/tq-392a-2s/start.htm" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:122748646 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=12:110219Y> ;
   libreto:hasContext [
@@ -27918,7 +27918,7 @@ Sampt einem andern Tractätlin/ Von dem Schnee und Eyß ...""" ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Brüning, V. F. Bibliographie der alchemistischen Literatur 1170. Wolfstieg II, 42322. Irenaeus Agnostus ist Pseudonym für Friedrich Grick." ;
   dc:hasFormat "http://digital.slub-dresden.de/ppn303992344" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:122748646 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=14:050834S> ;
   libreto:hasContext [
@@ -27942,7 +27942,7 @@ Sampt einem andern Tractätlin/ Von dem Schnee und Eyß ...""" ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Irenaeus Agnostus ist Pseudonym für Friedrich Grick" ;
   dc:hasFormat "KEYPhttp://www.gbv.de/vd/vd17/3:603977F" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:122748646 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=3:603977F> ;
   libreto:hasContext [
@@ -27966,7 +27966,7 @@ Sampt einem andern Tractätlin/ Von dem Schnee und Eyß ...""" ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Brüning, V. F. Bibliographie der alchemistischen Literatur 1279. Bibliogr. Nachweis: Wolfstieg II, 42378" ;
   dc:hasFormat "KEYPhttp://www.gbv.de/vd/vd17/3:603979W" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:122748646 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=3:603979W> ;
   libreto:hasContext [
@@ -27990,7 +27990,7 @@ Sampt einem andern Tractätlin/ Von dem Schnee und Eyß ...""" ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Brüning, V. F. Bibliographie der alchemistischen Literatur 1283. Bibliogr. Nachweis: Wolfstieg II, 42365. Irenaeus Agnostus ist Pseudonym für Friedrich Grick. Streitschrift zu: Mundus, S.: Speck auff der Fall/ Das ist: List und Betruch der Newentstandnen Bruderschafft/ oder Fraternitet dern Vom Rosencreutz" ;
   dc:hasFormat "KEYPhttp://www.gbv.de/vd/vd17/3:603981S" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:122748646 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=3:603981S> ;
   libreto:hasContext [
@@ -28027,7 +28027,7 @@ Sampt einem andern Tractätlin/ Von dem Schnee und Eyß ...""" ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Bibliogr. Nachweis: Wolfstieg II, 42411" ;
   dc:hasFormat "KEYPhttp://www.gbv.de/vd/vd17/3:300571U" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:129189731 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=3:300571U> ;
   libreto:hasContext [
@@ -28117,7 +28117,7 @@ Sampt einem andern Tractätlin/ Von dem Schnee und Eyß ...""" ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Bibliogr. Nachweis: Wolfstieg II, 42285" ;
   dc:hasFormat "KEYPhttp://www.gbv.de/vd/vd17/23:241578N" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=23:241578N> ;
   libreto:hasContext [
     a libreto:PhysicalContext ;
@@ -28139,7 +28139,7 @@ Sampt einem andern Tractätlin/ Von dem Schnee und Eyß ...""" ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Bibliogr. Nachweis: Wolfstieg II, 42313" ;
   dc:hasFormat "KEYPhttp://www.gbv.de/vd/vd17/23:241620Z" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:contributor gnd:131381849 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=23:241620Z> ;
   libreto:hasContext [
@@ -28278,7 +28278,7 @@ Beneben der rechten und warhafftigen Physica Naturali Rotunda durch eine Visione
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Brüning, V. F. Bibliographie der alchemistischen Literatur 1170. Wolfstieg II, 42322. Irenaeus Agnostus ist Pseudonym für Friedrich Grick." ;
   dc:hasFormat "http://digital.slub-dresden.de/ppn303992344" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:122748646 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=14:050834S> ;
   libreto:hasContext [
@@ -28419,7 +28419,7 @@ Beneben der rechten und warhafftigen Physica Naturali Rotunda durch eine Visione
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "#VD17$per sperber, julius and tit sendbrief*#" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:128616385 ;
   libreto:hasContext [
     a libreto:PhysicalContext ;
@@ -28555,7 +28555,7 @@ Quibus Accessere Epistolae Duae Germanicae eiusdem argumenti, pari ingenii acumi
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Brüning, V. F. Bibliographie der alchemistischen Literatur 1219. Bibliogr. Nachweis: Wolfstieg II, 42363. Irenaeus Agnostus ist Pseudonym für Friedrich Grick." ;
   dc:hasFormat "http://diglib.hab.de/drucke/tq-392a-2s/start.htm" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:122748646 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=12:110219Y> ;
   libreto:hasContext [
@@ -28729,7 +28729,7 @@ Quibus Accessere Epistolae Duae Germanicae eiusdem argumenti, pari ingenii acumi
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Brüning, V. F. Bibliographie der alchemistischen Literatur 1314. Wolfstieg, A. Freimaurer. Lit. 42389" ;
   dc:hasFormat "KEYPhttp://www.gbv.de/vd/vd17/14:008813Q" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:128617209 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=14:008813Q> ;
   libreto:hasContext [
@@ -28753,7 +28753,7 @@ Quibus Accessere Epistolae Duae Germanicae eiusdem argumenti, pari ingenii acumi
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Dünnhaupt (2. Aufl.), S. 291, F 7. Brüning, V. F. Bibliographie der alchemistischen Literatur 1284. Wolfstieg, A. Freimaurer. Lit. 42382. Irenaeus Agnostus und F. G. Menapius sind Pseudonyme für Friedrich Grick. Nach Dünnhaupt fälschlich Johann Valentin Andreae zugeschrieben." ;
   dc:hasFormat "http://diglib.hab.de/drucke/yv-923-8f-helmst-9s/start.htm" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:122748646 ;
   dc:contributor gnd:118502883 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=14:008809D> ;
@@ -28829,7 +28829,7 @@ Quibus Accessere Epistolae Duae Germanicae eiusdem argumenti, pari ingenii acumi
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Bibliogr. Nachweis: Wolfstieg II, 42285" ;
   dc:hasFormat "KEYPhttp://www.gbv.de/vd/vd17/23:241578N" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=23:241578N> ;
   libreto:hasContext [
     a libreto:PhysicalContext ;
@@ -29518,7 +29518,7 @@ Editio Tertia, & auctior""" ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Brüning, V. F. Bibliographie der alchemistischen Literatur 1112. Ferguson, J. Bibl. Chemica, I, 464" ;
   dc:hasFormat "http://diglib.hab.de/drucke/xb-7884/start.htm" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:119065681 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=23:687856Y> .
 
@@ -29618,7 +29618,7 @@ Diu desideratum & expetitum, nunc vero primum in lucem editum.""" ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Brüning, V. F. Bibliographie der alchemistischen Literatur 1164" ;
   dc:hasFormat "KEYPhttp://www.gbv.de/vd/vd17/3:308435C" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:128616385 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=3:308435C> .
 
@@ -29970,11 +29970,10 @@ Denuo, amicorum rogatu, in publicum emissum, ac triplici Indice ornatum.""" ;
   dc:subject "Geldwesen"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
-  libreto:comment "2 Titel plus Handschrift zusammengebunden? => wie dieses am Besten abbilden? VD17 14:687029H oder VD17 14:687034B" ;
+  libreto:comment "Ausgabe nicht bestimmbar; Valentinus Boltz: Illuminierbuch (z.B. VD17 14:627228S oder VD17 23:735700S) beigebunden? 2 Titel plus Handschrift zusammengebunden? => wie dieses am Besten abbilden? VD17 14:687029H oder VD17 14:687034B" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7012329> ;
   dc:creator gnd:124495036 ;
-  dc:contributor gnd:130041696 ;
-  libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=Ausgabe nicht bestimmbar; Valentinus Boltz: Illuminierbuch (z.B. VD17 14:627228S oder VD17 23:735700S) beigebunden?> .
+  dc:contributor gnd:130041696 .
 
 <br:bahnsen/item_bahnsen756>
   a libreto:Item ;
@@ -30299,7 +30298,7 @@ Anjetzo aber anderweit/ in Verlegung Georg Bechers Apotheckers in ermelten Carls
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Brüning, V. F. Bibliographie der alchemistischen Literatur 2015. Bibliogr. Nachweis: Krivatsy (5266). Sendivogius <Filius>: Pseudonym, in Raßmanns Pseudonymenlexikon fälschlich mit dem Juristen Johann Harpprecht (1560-1639) identifiziert, bürgerlicher Name nicht mit Sicherheit bekannt." ;
   dc:hasFormat "http://resolver.staatsbibliothek-berlin.de/SBB0001A2F700000000" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:122363841 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=39:143408T> .
 
@@ -30333,7 +30332,7 @@ Anjetzo aber anderweit/ in Verlegung Georg Bechers Apotheckers in ermelten Carls
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   dc:hasFormat "http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb00015593-9" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:118575279 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=39:135432X> .
 
@@ -30513,7 +30512,7 @@ Zum zweytenmal Gedruckt ...""" ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Brüning, V. F. Bibliographie der alchemistischen Literatur 1349. Bibliogr. Nachweis: Wolfstieg II, 42404" ;
   dc:hasFormat "KEYPhttp://www.gbv.de/vd/vd17/23:294773Q" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:contributor gnd:128636300 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=23:294773Q> .
 
@@ -30531,7 +30530,7 @@ Zum zweytenmal Gedruckt ...""" ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Bibliogr. Nachweis: Wolfstieg II, 42411" ;
   dc:hasFormat "KEYPhttp://www.gbv.de/vd/vd17/3:300571U" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:129189731 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=3:300571U> .
 
@@ -30882,7 +30881,7 @@ Zum andernmal auffgelegt.""" ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Erscheinungsjahr möglicherweise verdruckt. Eine Ausgabe von 1660 lässt sich nicht nachweisen. Siehe VD17 39:119551U (Erscheinungsjahr 1661). Brüning, V. F. Bibliographie der alchemistischen Literatur 2036. Dünnhaupt (2. Aufl.), S. 432, 8." ;
   dc:hasFormat "http://diglib.hab.de/drucke/nd-264/start.htm" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:118507923 .
 
 <br:bahnsen/item_bahnsen809>
@@ -30931,7 +30930,7 @@ Zum andernmal auffgelegt.""" ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Brüning, V. F. Bibliographie der alchemistischen Literatur 1595. Dünnhaupt (2. Aufl.), S. 688 Nr. 10.1" ;
   dc:hasFormat "KEYPhttp://www.gbv.de/vd/vd17/12:104672V" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:118512579 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=12:104672V> .
 
@@ -30948,7 +30947,7 @@ Zum andernmal auffgelegt.""" ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Brüning, V. F. Bibliographie der alchemistischen Literatur 1595. Dünnhaupt (2. Aufl.), S. 688 Nr. 10.1" ;
   dc:hasFormat "KEYPhttp://www.gbv.de/vd/vd17/12:104672V" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:118512579 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=12:104672V> .
 
@@ -30965,7 +30964,7 @@ Zum andernmal auffgelegt.""" ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Brüning, V. F. Bibliographie der alchemistischen Literatur 1595. Dünnhaupt (2. Aufl.), S. 688 Nr. 10.1" ;
   dc:hasFormat "KEYPhttp://www.gbv.de/vd/vd17/12:104672V" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:118512579 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=12:104672V> .
 
@@ -30982,7 +30981,7 @@ Zum andernmal auffgelegt.""" ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Brüning, V. F. Bibliographie der alchemistischen Literatur 1595. Dünnhaupt (2. Aufl.), S. 688 Nr. 10.1" ;
   dc:hasFormat "KEYPhttp://www.gbv.de/vd/vd17/12:104672V" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:118512579 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=12:104672V> .
 
@@ -31016,7 +31015,7 @@ Zum andernmal auffgelegt.""" ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Erscheinungsjahr möglicherweise verdruckt. Eine Ausgabe von 1623 lässt sich nicht nachweisen. Brüning, V. F. Bibliographie der alchemistischen Literatur 1491" ;
   dc:hasFormat "http://digital.slub-dresden.de/id434866318" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:124685838 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=23:280486G> ;
   libreto:hasContext [
@@ -31495,7 +31494,7 @@ Zusampt einem angehenckten Tractätlein, von allerley gebrannten Wassern, welche
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "VD17 32:635867N (Schlüsselseiten), VD17 3:607055W oder VD17 23:295665X (als mehrbändiges Werk aufgenommen, VD17-Nr. v. Gesamtaufnahme, Erscheinungsjahre 1603-1606)." ;
   dc:hasFormat "KEYPhttp://www.gbv.de/vd/vd17/32:635867N" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator <br:bahnsen/persons/Meteren%2C+Emmanuel+van> .
 
 <br:bahnsen/item_bahnsen845>
@@ -33052,7 +33051,7 @@ Deßgleichen Von dem Marscheiden/ Bergwercken/ Wasserwagen/ und andern herrliche
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   dc:hasFormat "KEYPhttp://www.gbv.de/vd/vd17/39:124297F" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:100322875 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=39:124297F> ;
   libreto:hasContext [
@@ -35114,7 +35113,7 @@ Ausgabebezeichnung: COLONIAE AGRIPPINAE,|| Apud Haeredes Arnoldi Birckmanni.|| M
   dc:language "dut"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "www.unicat.be/uniCat?func=search&query=sysid:6268656" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:133461890 ;
   libreto:hasManifestation <http://www.unicat.be/uniCat?func=search&query=sysid:6268656> .
 
@@ -36683,7 +36682,7 @@ Anjetzo zum Andernmahl übersähen/ vermehrt/ und wiederumb in Druck gegäben / 
   libreto:physicalForm "gebunden"@de ;
   libreto:comment "Erscheinungszeitraum nach dem Todesjahr des Verf. angegeben" ;
   dc:hasFormat "http://resolver.sub.uni-goettingen.de/purl?PPN818634936" ;
-  libreto:hasPlace <br:bahnsen/places/S.l.> ;
+  libreto:hasPlace <br:bahnsen/places/s.+l.> ;
   dc:creator gnd:124367194 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=7:701286L> .
 
@@ -44956,9 +44955,9 @@ gnd:118750313
   foaf:name "Rufinus Aquileiensis" ;
   dc:identifier "118750313"^^gndo:gndIdentifier .
 
-<br:bahnsen/places/S.l.>
+<br:bahnsen/places/s.+l.>
   a libreto:Place ;
-  gn:name "S.l." .
+  gn:name "s. l." .
 
 gnd:104279850
   a libreto:Person ;
@@ -49108,11 +49107,6 @@ gnd:130041696
   a libreto:Person ;
   foaf:name "Fachs, Ludwig Wolfgang" ;
   dc:identifier "130041696"^^gndo:gndIdentifier .
-
-<http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=Ausgabe nicht bestimmbar; Valentinus Boltz: Illuminierbuch (z.B. VD17 14:627228S oder VD17 23:735700S) beigebunden?>
-  a libreto:Manifestation ;
-  libreto:database "Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)" ;
-  dc:identifier "Ausgabe nicht bestimmbar; Valentinus Boltz: Illuminierbuch (z.B. VD17 14:627228S oder VD17 23:735700S) beigebunden?" .
 
 gnd:118880578
   a libreto:Person ;

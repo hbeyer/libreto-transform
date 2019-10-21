@@ -29,6 +29,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
           <beacon>db</beacon>
           <beacon>hls</beacon>
           <beacon>mav</beacon>
@@ -81,6 +82,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
           <beacon>db</beacon>
           <beacon>hls</beacon>
           <beacon>mav</beacon>
@@ -132,6 +134,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
           <beacon>db</beacon>
           <beacon>hls</beacon>
           <beacon>mav</beacon>
@@ -357,6 +360,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
           <beacon>dpi</beacon>
@@ -395,6 +399,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
           <beacon>fsh</beacon>
@@ -615,6 +620,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>jen</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
         </beacon>
@@ -625,6 +631,7 @@
         <role>contributor</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
           <beacon>db</beacon>
           <beacon>hls</beacon>
           <beacon>fabricius</beacon>
@@ -1014,6 +1021,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
           <beacon>db</beacon>
           <beacon>hls</beacon>
           <beacon>fabricius</beacon>
@@ -1266,6 +1274,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
           <beacon>db</beacon>
           <beacon>hls</beacon>
           <beacon>rpbio</beacon>
@@ -1550,6 +1559,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
           <beacon>hls</beacon>
           <beacon>gspd</beacon>
           <beacon>sandrart</beacon>
@@ -1589,6 +1599,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>jen</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
         </beacon>
@@ -2220,6 +2231,7 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>jen</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
         </beacon>
@@ -2580,6 +2592,9 @@
         <persName>Estienne, Charles</persName>
         <gnd>121000109</gnd>
         <role>author</role>
+        <beacon>
+          <beacon>wkp</beacon>
+        </beacon>
       </person>
     </persons>
     <format>4°</format>
@@ -2672,11 +2687,14 @@
         <role>author</role>
         <beacon>
           <beacon>wkp</beacon>
+          <beacon>ddb</beacon>
           <beacon>hls</beacon>
+          <beacon>jen</beacon>
           <beacon>sandrart</beacon>
           <beacon>kall</beacon>
           <beacon>dpi</beacon>
           <beacon>vkk</beacon>
+          <beacon>cmvw</beacon>
         </beacon>
       </person>
     </persons>

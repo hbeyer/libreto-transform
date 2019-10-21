@@ -911,7 +911,7 @@ Zuvor vermehret mit einem Büchlein/ De Monetis Et Mensuris ... Insonderheit abe
             <dc:subject>Theologie</dc:subject>
             <dc:language xml:lang="iso6392">dut</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/104279850"/>
             <libreto:hasManifestation>
               <libreto:Manifestation rdf:about="http://swb.bsz-bw.de/DB=2.1/PPNSET?PPN=030048680">
@@ -1088,7 +1088,7 @@ Zuvor vermehret mit einem Büchlein/ De Monetis Et Mensuris ... Insonderheit abe
             <dc:language xml:lang="iso6392">dut</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Mehrbändiges Werk. Gesamtaufnahme: GBV 146786416</libreto:comment>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/104279850"/>
             <libreto:hasManifestation rdf:resource="http://gso.gbv.de/DB=2.1/PPNSET?PPN=146786416"/>
           </libreto:Item>
@@ -1117,7 +1117,7 @@ Zuvor vermehret mit einem Büchlein/ De Monetis Et Mensuris ... Insonderheit abe
             <dc:language xml:lang="iso6392">dut</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>[Erste Deel]: GBV 227847644</libreto:comment>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/104279850"/>
             <libreto:hasManifestation rdf:resource="http://gso.gbv.de/DB=2.1/PPNSET?PPN=146786416"/>
           </libreto:Item>
@@ -1146,7 +1146,7 @@ Zuvor vermehret mit einem Büchlein/ De Monetis Et Mensuris ... Insonderheit abe
             <dc:language xml:lang="iso6392">dut</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Tweede Deel: GBV 227847741</libreto:comment>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/104279850"/>
             <libreto:hasManifestation rdf:resource="http://gso.gbv.de/DB=2.1/PPNSET?PPN=146786416"/>
           </libreto:Item>
@@ -1175,7 +1175,7 @@ Zuvor vermehret mit einem Büchlein/ De Monetis Et Mensuris ... Insonderheit abe
             <dc:language xml:lang="iso6392">dut</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Derde Deel: GBV 227847784</libreto:comment>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/104279850"/>
             <libreto:hasManifestation rdf:resource="http://gso.gbv.de/DB=2.1/PPNSET?PPN=146786416"/>
           </libreto:Item>
@@ -1204,7 +1204,7 @@ Zuvor vermehret mit einem Büchlein/ De Monetis Et Mensuris ... Insonderheit abe
             <dc:language xml:lang="iso6392">dut</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Vierde Deel: GBV 227847873</libreto:comment>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/104279850"/>
             <libreto:hasManifestation rdf:resource="http://gso.gbv.de/DB=2.1/PPNSET?PPN=146786416"/>
           </libreto:Item>
@@ -1233,7 +1233,7 @@ Zuvor vermehret mit einem Büchlein/ De Monetis Et Mensuris ... Insonderheit abe
             <dc:language xml:lang="iso6392">dut</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Tweede Deel: GBV 227847741</libreto:comment>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/104279850"/>
             <libreto:hasManifestation>
               <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=2.1/PPNSET?PPN=227847741">
@@ -1312,7 +1312,7 @@ Zuvor vermehret mit einem Büchlein/ De Monetis Et Mensuris ... Insonderheit abe
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Enthält 3 Teile.</libreto:comment>
             <dc:hasFormat>http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10141648-3</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/11853467X"/>
             <libreto:hasManifestation>
               <libreto:Manifestation rdf:about="http://gateway-bayern.de/VD16+F 2073">
@@ -1940,7 +1940,7 @@ Zuvor vermehret mit einem Büchlein/ De Monetis Et Mensuris ... Insonderheit abe
             <dc:subject>Theologie</dc:subject>
             <dc:language xml:lang="iso6392">dut</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/122006690"/>
             <libreto:hasManifestation>
               <libreto:Manifestation rdf:about="http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=110636961">
@@ -2008,7 +2008,7 @@ Zuvor vermehret mit einem Büchlein/ De Monetis Et Mensuris ... Insonderheit abe
             <dc:subject>Theologie</dc:subject>
             <dc:language xml:lang="iso6392">dut</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/104279850"/>
             <libreto:hasManifestation>
               <libreto:Manifestation rdf:about="http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=108774163">
@@ -2043,7 +2043,7 @@ Zuvor vermehret mit einem Büchlein/ De Monetis Et Mensuris ... Insonderheit abe
             <dc:language xml:lang="iso6392">dut</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>STCN: frühes 17. Jh.</libreto:comment>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/104279850"/>
             <libreto:hasManifestation rdf:resource="http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=082414955"/>
             <libreto:hasContext>
@@ -2079,7 +2079,7 @@ Zuvor vermehret mit einem Büchlein/ De Monetis Et Mensuris ... Insonderheit abe
             <dc:language xml:lang="iso6392">dut</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>STCN: frühes 17. Jh.</libreto:comment>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/104279850"/>
             <libreto:hasManifestation>
               <libreto:Manifestation rdf:about="http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=08241050X">
@@ -2121,7 +2121,7 @@ Zuvor vermehret mit einem Büchlein/ De Monetis Et Mensuris ... Insonderheit abe
             <dc:language xml:lang="iso6392">dut</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>STCN: frühes 17. Jh.</libreto:comment>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/104279850"/>
             <libreto:hasManifestation rdf:resource="http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=082414955"/>
           </libreto:Item>
@@ -2993,7 +2993,7 @@ Zuvor vermehret mit einem Büchlein/ De Monetis Et Mensuris ... Insonderheit abe
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>VD17 1:073027K (Digitalisat) oder VD17 3:004378X</libreto:comment>
             <dc:hasFormat>http://purl.uni-rostock.de/rosdok/ppn767037626</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/118630105"/>
             <libreto:hasContext>
               <libreto:PhysicalContext>
@@ -3404,7 +3404,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>VD17 1:073027K (Digitalisat) oder VD17 3:004378X</libreto:comment>
             <dc:hasFormat>http://purl.uni-rostock.de/rosdok/ppn767037626</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/118630105"/>
             <libreto:hasContext>
               <libreto:PhysicalContext>
@@ -3544,7 +3544,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Bibliogr. Nachweise: Bircher, B 17533. NUC 56, 0156427.</libreto:comment>
             <dc:hasFormat>KEYPhttp://www.gbv.de/vd/vd17/1:072997Z</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/118630105"/>
             <libreto:hasManifestation>
               <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=1:072997Z">
@@ -3974,7 +3974,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>VD17 1:073027K (Digitalisat) oder VD17 3:004378X</libreto:comment>
             <dc:hasFormat>http://purl.uni-rostock.de/rosdok/ppn767037626</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/118630105"/>
             <libreto:hasContext>
               <libreto:PhysicalContext>
@@ -4331,7 +4331,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
             <dc:language xml:lang="iso6392">ger</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <dc:hasFormat>http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb00089762-5</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/118612190"/>
             <dc:contributor rdf:resource="http://d-nb.info/gnd/118809563"/>
             <libreto:hasManifestation>
@@ -4368,7 +4368,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
             <dc:language xml:lang="iso6392">ger</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <dc:hasFormat>http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb00027399-1</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/118612190"/>
             <libreto:hasManifestation>
               <libreto:Manifestation rdf:about="http://gateway-bayern.de/VD16+S 5005">
@@ -5231,7 +5231,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Verf. ermittelt in: VD17 1:073151P</libreto:comment>
             <dc:hasFormat>KEYPhttp://www.gbv.de/vd/vd17/39:133772F</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/118809563"/>
             <libreto:hasManifestation>
               <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=39:133772F">
@@ -5267,7 +5267,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Bibliogr. Nachweis: Bruckner Nr. 124.</libreto:comment>
             <dc:hasFormat>http://purl.uni-rostock.de/rosdok/ppn767484398</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator>
               <libreto:Person rdf:about="http://d-nb.info/gnd/128909293">
                 <foaf:name>Crell, Johann</foaf:name>
@@ -5582,7 +5582,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Bibliogr. Nachweis: Bircher A 10775.</libreto:comment>
             <dc:hasFormat>KEYPhttp://www.gbv.de/vd/vd17/1:072964G</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/123170834"/>
             <libreto:hasManifestation>
               <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=1:072964G">
@@ -5624,7 +5624,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
             <dc:language xml:lang="iso6392">ger</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <dc:hasFormat>KEYPhttp://www.gbv.de/vd/vd17/23:332692P</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/123170834"/>
             <libreto:hasManifestation>
               <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=23:332692P">
@@ -5667,7 +5667,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Bibliogr. Nachweis: Bircher A 11644.</libreto:comment>
             <dc:hasFormat>KEYPhttp://www.gbv.de/vd/vd17/23:632093V</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/121392309"/>
             <libreto:hasManifestation>
               <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=23:632093V">
@@ -5709,7 +5709,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
             <dc:language xml:lang="iso6392">ger</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Sehr selten überliefert, nur ein Ex. in Hannover GWLB: T-A 3730 (Stück 3); vgl. Moller, Cimbria literata I, S. 679 (in 4°)</libreto:comment>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/121392309"/>
             <libreto:hasManifestation rdf:resource="http://gso.gbv.de/DB=2.1/PPNSET?PPN=23135682X"/>
             <libreto:hasContext>
@@ -5824,7 +5824,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
             <dc:language xml:lang="iso6392">ger</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <dc:hasFormat>http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3922097720</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <libreto:hasManifestation>
               <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=14:002968Q">
                 <libreto:database>Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)</libreto:database>
@@ -5939,7 +5939,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
             <dc:language xml:lang="iso6392">ger</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <dc:hasFormat>http://data.onb.ac.at/ABO/%2BZ166232800</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator>
               <libreto:Person rdf:about="http://d-nb.info/gnd/124945082">
                 <foaf:name>Ziegler, Philipp</foaf:name>
@@ -5988,7 +5988,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
             <dc:language xml:lang="iso6392">ger</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>#VD17$per carion, johannes and tit proph* and erj 1620#</libreto:comment>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator>
               <libreto:Person rdf:about="br:bahnsen/persons/Carion%2C+Johannes">
                 <foaf:name>Carion, Johannes</foaf:name>
@@ -6066,7 +6066,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
             <dc:language xml:lang="iso6392">dut</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Enthält 2 Teile. Erschienen in Vianen oder Rotterdam (STCN)</libreto:comment>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="br:bahnsen/persons/Wijers%2C+Mathijs"/>
             <libreto:hasManifestation>
               <libreto:Manifestation rdf:about="http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=055785255">
@@ -6676,7 +6676,7 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
             <dc:subject>Theologie</dc:subject>
             <dc:language xml:lang="iso6392">ger</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/121392309"/>
             <libreto:hasManifestation rdf:resource="http://gso.gbv.de/DB=2.1/PPNSET?PPN=23135682X"/>
           </libreto:Item>
@@ -7689,7 +7689,7 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
             <dc:language xml:lang="iso6392">ger</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>00064/92S1-3 gehören zusammen.</libreto:comment>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <libreto:hasManifestation rdf:resource="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=23:250871Z"/>
             <libreto:hasContext>
               <libreto:PhysicalContext>
@@ -7724,7 +7724,7 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
             <dc:language xml:lang="iso6392">ger</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>00064/92S1-3 gehören zusammen.</libreto:comment>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <libreto:hasManifestation rdf:resource="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=23:250871Z"/>
             <libreto:hasContext>
               <libreto:PhysicalContext>
@@ -7759,7 +7759,7 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
             <dc:language xml:lang="iso6392">ger</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>00064/92S1-3 gehören zusammen.</libreto:comment>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <libreto:hasManifestation rdf:resource="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=23:250871Z"/>
             <libreto:hasContext>
               <libreto:PhysicalContext>
@@ -7842,7 +7842,7 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
             <dc:subject>Theologie</dc:subject>
             <dc:language xml:lang="iso6392">dut</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/118519565"/>
             <libreto:hasManifestation>
               <libreto:Manifestation rdf:about="http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=860293467">
@@ -8163,7 +8163,7 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
             <dc:language xml:lang="iso6392">ger</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Sehr selten überliefert, 1 Ex. in Berlin SB Cs 13380 (Kriegsverlust). Lt. Stabikat in 8°. Vgl. Dünnhaupt 3, S. 1572, Nr. 38, zur Ausgabe 1677. Der Autor des Hauptwerks &quot;Oculus Aeternitatis Das ist Geistliche Erkäntnüs Gottes&quot; ist jedoch nicht Abraham von Franckenberg, sondern nach Dünnhaupt vermutlich Paul Kaim.</libreto:comment>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <libreto:hasManifestation>
               <libreto:Manifestation rdf:about="http://stabikat.de/DB=1/PPNSET?PPN=402401840">
                 <libreto:database>Staatsbibliothek zu Berlin – Preußischer Kulturbesitz (StaBiKat)</libreto:database>
@@ -8482,7 +8482,7 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
             <dc:language xml:lang="iso6392">ger</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Bibliogr. Nachweis: Dünnhaupt S. 2094f, 4.1.</libreto:comment>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/121145905"/>
             <dc:contributor rdf:resource="http://d-nb.info/gnd/118504134"/>
             <libreto:hasManifestation>
@@ -8518,7 +8518,7 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
             <dc:language xml:lang="iso6392">ger</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <dc:hasFormat>http://reader.digitale-sammlungen.de/resolve/display/bsb10175483.html</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/118612190"/>
             <libreto:hasManifestation>
               <libreto:Manifestation rdf:about="http://gateway-bayern.de/VD16+S 5015">
@@ -8657,7 +8657,7 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
             <dc:language xml:lang="iso6392">dut</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Van der Linde, David Joris, Nr. 77-93 (Teil 1 eines durchfoliierten Sammelwerkes von 17 Drucken).</libreto:comment>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/104279850"/>
             <libreto:hasManifestation rdf:resource="http://gso.gbv.de/DB=2.1/PPNSET?PPN=150384157"/>
           </libreto:Item>
@@ -8686,7 +8686,7 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
             <dc:language xml:lang="iso6392">dut</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Van der Linde, David Joris, Nr. 77-93 (Teil 1 eines durchfoliierten Sammelwerkes von 17 Drucken).</libreto:comment>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/104279850"/>
             <libreto:hasManifestation rdf:resource="http://gso.gbv.de/DB=2.1/PPNSET?PPN=150384157"/>
           </libreto:Item>
@@ -8715,7 +8715,7 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
             <dc:language xml:lang="iso6392">dut</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Van der Linde, David Joris, Nr. 77-93 (Teil 1 eines durchfoliierten Sammelwerkes von 17 Drucken).</libreto:comment>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/104279850"/>
             <libreto:hasManifestation rdf:resource="http://gso.gbv.de/DB=2.1/PPNSET?PPN=150384157"/>
           </libreto:Item>
@@ -8744,7 +8744,7 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
             <dc:language xml:lang="iso6392">dut</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Van der Linde, David Joris, Nr. 77-93 (Teil 1 eines durchfoliierten Sammelwerkes von 17 Drucken).</libreto:comment>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/104279850"/>
             <libreto:hasManifestation rdf:resource="http://gso.gbv.de/DB=2.1/PPNSET?PPN=150384157"/>
           </libreto:Item>
@@ -9367,7 +9367,7 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Erschienen unter dem Pseudonym Elias Praetorius (d.i. Christian Hoburg).</libreto:comment>
             <dc:hasFormat>KEYPhttp://www.gbv.de/vd/vd17/12:193234N</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/121145905"/>
             <libreto:hasManifestation>
               <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=12:193234N">
@@ -9404,7 +9404,7 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Erschienen unter dem Pseudonym Elias Praetorius (d.i. Christian Hoburg).</libreto:comment>
             <dc:hasFormat>http://resolver.sub.uni-hamburg.de/goobi/PPN750561831</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/121145905"/>
             <libreto:hasManifestation>
               <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=1:073245T">
@@ -9748,7 +9748,7 @@ Nebenst beygefügtem Extract etlicher wunderlichen Newen Offenbahrungen/ angehen
             <dc:language xml:lang="iso6392">ger</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <dc:hasFormat>KEYPhttp://www.gbv.de/vd/vd17/3:306035X</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/119160242"/>
             <libreto:hasManifestation>
               <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=3:306035X">
@@ -9809,7 +9809,7 @@ Nebenst beygefügtem Extract etlicher wunderlichen Newen Offenbahrungen/ angehen
             <dc:language xml:lang="iso6392">ger</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Verf. ermittelt in: Dünnhaupt, S. 546, Nr. 5.2.</libreto:comment>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/119160242"/>
             <libreto:hasManifestation>
               <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=23:638688L">
@@ -9882,7 +9882,7 @@ Nebenst beygefügtem Extract etlicher wunderlichen Newen Offenbahrungen/ angehen
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Verfasser Joachim Betke erm. in Weller, Wörterbuch der Pseudonymen</libreto:comment>
             <dc:hasFormat>KEYPhttp://www.gbv.de/vd/vd17/3:306033G</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/119160242"/>
             <libreto:hasManifestation>
               <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=3:306033G">
@@ -10014,7 +10014,7 @@ Nebenst beygefügtem Extract etlicher wunderlichen Newen Offenbahrungen/ angehen
             <dc:language xml:lang="iso6392">dut</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Sehr seltene Überlieferung (2 Ex.: Cambridge UL und Amsterdam UL). Gedruckt nicht vor 1656. Eigentlich enth. Werk in: Institutio puerorum. Kinder bericht, hier offenbar separat. De la Fontaine Verwey: Geschriften Hendrik Niclaes, S. 193, Nr. 17 (III C V.)</libreto:comment>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/118786105"/>
             <libreto:hasManifestation>
               <libreto:Manifestation rdf:about="http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=302306854">
@@ -10399,7 +10399,7 @@ Nebenst beygefügtem Extract etlicher wunderlichen Newen Offenbahrungen/ angehen
             <dc:language xml:lang="iso6392">dut</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>van der Linde, David Joris, Nr. 176</libreto:comment>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/104279850"/>
             <libreto:hasManifestation rdf:resource="http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=860914593"/>
             <libreto:hasContext>
@@ -10435,7 +10435,7 @@ Nebenst beygefügtem Extract etlicher wunderlichen Newen Offenbahrungen/ angehen
             <dc:language xml:lang="iso6392">dut</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>van der Linde, David Joris, Nr. 173</libreto:comment>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/104279850"/>
             <libreto:hasManifestation>
               <libreto:Manifestation rdf:about="http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=860914771">
@@ -10477,7 +10477,7 @@ Nebenst beygefügtem Extract etlicher wunderlichen Newen Offenbahrungen/ angehen
             <dc:language xml:lang="iso6392">dut</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>van der Linde, David Joris, Nr. 176</libreto:comment>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/104279850"/>
             <libreto:hasManifestation rdf:resource="http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=860914593"/>
           </libreto:Item>
@@ -10929,7 +10929,7 @@ Nebenst beygefügtem Extract etlicher wunderlichen Newen Offenbahrungen/ angehen
             <dc:subject>Theologie</dc:subject>
             <dc:language xml:lang="iso6392">dut</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/105550303X"/>
             <libreto:hasManifestation rdf:resource="http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=108867935"/>
           </libreto:Item>
@@ -10957,7 +10957,7 @@ Nebenst beygefügtem Extract etlicher wunderlichen Newen Offenbahrungen/ angehen
             <dc:subject>Theologie</dc:subject>
             <dc:language xml:lang="iso6392">dut</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/105550303X"/>
             <libreto:hasManifestation rdf:resource="http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=108867935"/>
           </libreto:Item>
@@ -10985,7 +10985,7 @@ Nebenst beygefügtem Extract etlicher wunderlichen Newen Offenbahrungen/ angehen
             <dc:subject>Theologie</dc:subject>
             <dc:language xml:lang="iso6392">dut</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/105550303X"/>
             <libreto:hasManifestation rdf:resource="http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=108867935"/>
           </libreto:Item>
@@ -11015,7 +11015,7 @@ Nebenst beygefügtem Extract etlicher wunderlichen Newen Offenbahrungen/ angehen
             <dc:language xml:lang="iso6392">ger</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <dc:hasFormat>KEYPhttp://www.gbv.de/vd/vd17/23:638643W</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <libreto:hasManifestation>
               <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=23:638643W">
                 <libreto:database>Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)</libreto:database>
@@ -11444,7 +11444,7 @@ Nebenst beygefügtem Extract etlicher wunderlichen Newen Offenbahrungen/ angehen
             <dc:subject>Theologie</dc:subject>
             <dc:language xml:lang="iso6392">ger</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/105550303X"/>
             <libreto:hasManifestation>
               <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=2.1/PPNSET?PPN=151199388">
@@ -11858,7 +11858,7 @@ Nebenst beygefügtem Extract etlicher wunderlichen Newen Offenbahrungen/ angehen
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Im GBV ist Johann Amos Comenius als ermittelter Hrsg. angegeben, in Holzmann-Bohatta. Bd. 3, S. 97, Nr. 3166 hingegen als Verf. bezeichnet</libreto:comment>
             <dc:hasFormat>KEYPhttp://www.gbv.de/vd/vd17/23:277806D</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:contributor rdf:resource="http://d-nb.info/gnd/128596929"/>
             <dc:contributor rdf:resource="http://d-nb.info/gnd/128597054"/>
             <dc:contributor rdf:resource="http://d-nb.info/gnd/123454638"/>
@@ -11891,7 +11891,7 @@ Nebenst beygefügtem Extract etlicher wunderlichen Newen Offenbahrungen/ angehen
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Im GBV ist Johann Amos Comenius als ermittelter Hrsg. angegeben, in Holzmann-Bohatta. Bd. 3, S. 97, Nr. 3166 hingegen als Verf. bezeichnet</libreto:comment>
             <dc:hasFormat>KEYPhttp://www.gbv.de/vd/vd17/23:277806D</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:contributor rdf:resource="http://d-nb.info/gnd/128596929"/>
             <dc:contributor rdf:resource="http://d-nb.info/gnd/128597054"/>
             <dc:contributor rdf:resource="http://d-nb.info/gnd/123454638"/>
@@ -12087,7 +12087,7 @@ Nebenst beygefügtem Extract etlicher wunderlichen Newen Offenbahrungen/ angehen
             <dc:language xml:lang="iso6392">ger</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <dc:hasFormat>KEYPhttp://www.gbv.de/vd/vd17/23:647894W</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator>
               <libreto:Person rdf:about="http://d-nb.info/gnd/123043921">
                 <foaf:name>Friedrich, Daniel</foaf:name>
@@ -13522,7 +13522,7 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
             <dc:language xml:lang="iso6392">dut</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>&quot;Includes 16 other treatises&quot; (STCN). Linde, David Joris, Nr. 94–110.</libreto:comment>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/104279850"/>
             <libreto:hasManifestation>
               <libreto:Manifestation rdf:about="http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=108868621">
@@ -13657,7 +13657,7 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
             <dc:language xml:lang="iso6392">dut</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Sehr seltene Überlieferung. Nur 1 Ex. in Halle/S., Franckesche Stiftungen</libreto:comment>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator>
               <libreto:Person rdf:about="http://d-nb.info/gnd/143047809">
                 <foaf:name>Aken, Jacobus van</foaf:name>
@@ -13946,7 +13946,7 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>VD16 H 2653 (Digitalisat) oder VD16 H 2652</libreto:comment>
             <dc:hasFormat>http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb00016960-4</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator>
               <libreto:Person rdf:about="http://d-nb.info/gnd/100163920">
                 <foaf:name>Herxheimer, Bernhard</foaf:name>
@@ -14339,7 +14339,7 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
             <dc:language xml:lang="iso6392">lat</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Eigtl. in Format 12°. &quot;Pacifist tract opposing the use of force in the Christian republic&quot; (Jantz).</libreto:comment>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/118855050"/>
             <libreto:hasManifestation>
               <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=7:709625V">
@@ -15086,7 +15086,7 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Bibliogr. Nachweis: Dünnhaupt, S. 682, 7.3.</libreto:comment>
             <dc:hasFormat>KEYPhttp://www.gbv.de/vd/vd17/12:104679Y</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/118512579"/>
             <libreto:hasManifestation>
               <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=12:104679Y">
@@ -15122,7 +15122,7 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Bibliogr. Nachweis: Dünnhaupt, S. 686, 8.2.</libreto:comment>
             <dc:hasFormat>KEYPhttp://www.gbv.de/vd/vd17/12:104668K</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/118512579"/>
             <libreto:hasManifestation rdf:resource="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=12:104668K"/>
           </libreto:Item>
@@ -15152,7 +15152,7 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Bibliogr. Nachweis: Dünnhaupt, S. 686, 8.2.</libreto:comment>
             <dc:hasFormat>KEYPhttp://www.gbv.de/vd/vd17/12:104668K</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/118512579"/>
             <libreto:hasManifestation rdf:resource="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=12:104668K"/>
           </libreto:Item>
@@ -15313,7 +15313,7 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
             <dc:language xml:lang="iso6392">ger</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <dc:hasFormat>KEYPhttp://www.gbv.de/vd/vd17/12:104604Q</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/118512579"/>
             <libreto:hasManifestation rdf:resource="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=12:104604Q"/>
             <libreto:hasContext>
@@ -15351,7 +15351,7 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
             <libreto:comment>Verfasser Johannes Beer ermittelt in: Jöcher/Adelung. Herausgeber Abraham von Frankenberg am Ende der Vorrede genannt: A. V. F.
 Laut Jöcher/Adelung 1639 in Amsterdam erschienen. - Datierung am Ende der Vorrede: 1634. - Datierung auf dem Kupfert.: 1638</libreto:comment>
             <dc:hasFormat>KEYPhttp://www.gbv.de/vd/vd17/12:105163Y</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/1055650709"/>
             <dc:contributor rdf:resource="http://d-nb.info/gnd/118855050"/>
             <libreto:hasManifestation>
@@ -15394,7 +15394,7 @@ Laut Jöcher/Adelung 1639 in Amsterdam erschienen. - Datierung am Ende der Vorre
             <dc:language xml:lang="iso6392">ger</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <dc:hasFormat>KEYPhttp://www.gbv.de/vd/vd17/12:105160A</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/13016853X"/>
             <libreto:hasManifestation rdf:resource="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=12:105160A"/>
             <libreto:hasContext>
@@ -15464,7 +15464,7 @@ Laut Jöcher/Adelung 1639 in Amsterdam erschienen. - Datierung am Ende der Vorre
             <dc:language xml:lang="iso6392">ger</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <dc:hasFormat>KEYPhttp://www.gbv.de/vd/vd17/12:104604Q</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/118512579"/>
             <libreto:hasManifestation rdf:resource="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=12:104604Q"/>
             <libreto:hasContext>
@@ -16104,7 +16104,7 @@ Laut Jöcher/Adelung 1639 in Amsterdam erschienen. - Datierung am Ende der Vorre
             <dc:subject>Theologie</dc:subject>
             <dc:language xml:lang="iso6392">ger</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator>
               <libreto:Person rdf:about="http://d-nb.info/gnd/123879949">
                 <foaf:name>Schmalz, Valentin</foaf:name>
@@ -16146,7 +16146,7 @@ Laut Jöcher/Adelung 1639 in Amsterdam erschienen. - Datierung am Ende der Vorre
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Dünnhaupt, S. 1472, 40. Erscheinungsjahr nach dem Erstdr. Geschätzt.</libreto:comment>
             <dc:hasFormat>KEYPhttp://www.gbv.de/vd/vd17/1:082029Y</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <libreto:hasManifestation>
               <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=1:082029Y">
                 <libreto:database>Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)</libreto:database>
@@ -16354,7 +16354,7 @@ Laut Jöcher/Adelung 1639 in Amsterdam erschienen. - Datierung am Ende der Vorre
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Unter dem Pseudonym Elias Preatorius (d.i. Christian Hoburg) erschienen.</libreto:comment>
             <dc:hasFormat>http://purl.uni-rostock.de/rosdok/ppn796688281</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/121145905"/>
             <libreto:hasManifestation>
               <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=7:702267K">
@@ -16537,7 +16537,7 @@ Laut Jöcher/Adelung 1639 in Amsterdam erschienen. - Datierung am Ende der Vorre
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Sehr selten, nur ein Ex. in Den Haag KB. Titel nach Nijhoff/Kronenberg, Nr. 995. Format eigtl. 8°.</libreto:comment>
             <dc:hasFormat>https://archive.org/stream/ned-kbn-all-00003204-001#page/n8</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator>
               <libreto:Person rdf:about="br:bahnsen/persons/Gerson%2C+Johannes">
                 <foaf:name>Gerson, Johannes</foaf:name>
@@ -16673,7 +16673,7 @@ Laut Jöcher/Adelung 1639 in Amsterdam erschienen. - Datierung am Ende der Vorre
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>VD16 S 5011 oder VD16 S 5012 (Digitalisat).</libreto:comment>
             <dc:hasFormat>http://nbn-resolving.de/urn:nbn:de:gbv:3:1-136575</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/118612190"/>
           </libreto:Item>
         </libreto:refersTo>
@@ -16958,7 +16958,7 @@ Laut Jöcher/Adelung 1639 in Amsterdam erschienen. - Datierung am Ende der Vorre
             <dc:language xml:lang="iso6392">ger</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <dc:hasFormat>KEYPhttp://www.gbv.de/vd/vd17/1:073299F</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/129112658"/>
             <libreto:hasManifestation>
               <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=1:073299F">
@@ -17133,7 +17133,7 @@ Laut Jöcher/Adelung 1639 in Amsterdam erschienen. - Datierung am Ende der Vorre
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>&quot;Zum Streit um Esaias Stiefel und Ezechiel Meth&quot; (VD17).</libreto:comment>
             <dc:hasFormat>KEYPhttp://www.gbv.de/vd/vd17/3:607488L</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator>
               <libreto:Person rdf:about="http://d-nb.info/gnd/122146670">
                 <foaf:name>Gleichen, Erdmuthe Juliane von</foaf:name>
@@ -17174,7 +17174,7 @@ Laut Jöcher/Adelung 1639 in Amsterdam erschienen. - Datierung am Ende der Vorre
             <dc:language xml:lang="iso6392">dut</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Format eigentl. 16°</libreto:comment>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator>
               <libreto:Person rdf:about="http://d-nb.info/gnd/118580884">
                 <foaf:name>Simons, Menno</foaf:name>
@@ -17217,7 +17217,7 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
             <dc:language xml:lang="iso6392">ger</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <dc:hasFormat>KEYPhttp://www.gbv.de/vd/vd17/39:147398P</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator>
               <libreto:Person rdf:about="http://d-nb.info/gnd/11568445X">
                 <foaf:name>Taube, Jakob</foaf:name>
@@ -17335,7 +17335,7 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
             <dc:language xml:lang="iso6392">dut</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>van der Linde, David Joris, Nr. 219.</libreto:comment>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/104279850"/>
             <libreto:hasManifestation rdf:resource="http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=108915654"/>
             <libreto:hasContext>
@@ -17371,7 +17371,7 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
             <dc:language xml:lang="iso6392">dut</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>van der Linde, David Joris, Nr. 220 oder 221.</libreto:comment>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/104279850"/>
             <libreto:hasManifestation rdf:resource="http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=108915484"/>
             <libreto:hasContext>
@@ -17407,7 +17407,7 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
             <dc:language xml:lang="iso6392">dut</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>van der Linde, David Joris, Nr. 222 oder 223.</libreto:comment>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/104279850"/>
             <libreto:hasManifestation rdf:resource="http://gso.gbv.de/DB=2.1/PPNSET?PPN=529596830"/>
             <libreto:hasContext>
@@ -17443,7 +17443,7 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
             <dc:language xml:lang="iso6392">dut</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>van der Linde, David Joris, Nr. 224.</libreto:comment>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/104279850"/>
             <libreto:hasManifestation rdf:resource="http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=109620690"/>
             <libreto:hasContext>
@@ -17479,7 +17479,7 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
             <dc:language xml:lang="iso6392">dut</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>van der Linde, David Joris, Nr. 224. Nach dem Erscheinungsjahr handelt es sich um &quot;Dat vierde hand-boecxken&quot;.</libreto:comment>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/104279850"/>
             <libreto:hasManifestation rdf:resource="http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=109620690"/>
           </libreto:Item>
@@ -17508,7 +17508,7 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
             <dc:language xml:lang="iso6392">dut</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Da nichts Gegenteiliges vermerkt ist, handelt es sich wahrscheinlich bei Theol. 12° 64 auch um einen Sammelband mit allen vier Teilen. Van der Linde, David Joris, Nr. 219.</libreto:comment>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/104279850"/>
             <libreto:hasManifestation rdf:resource="http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=108915654"/>
             <libreto:hasContext>
@@ -17544,7 +17544,7 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
             <dc:language xml:lang="iso6392">dut</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>van der Linde, David Joris, Nr. 220 oder 221.</libreto:comment>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/104279850"/>
             <libreto:hasManifestation rdf:resource="http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=108915484"/>
             <libreto:hasContext>
@@ -17580,7 +17580,7 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
             <dc:language xml:lang="iso6392">dut</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>van der Linde, David Joris, Nr. 222 oder 223.</libreto:comment>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/104279850"/>
             <libreto:hasManifestation rdf:resource="http://gso.gbv.de/DB=2.1/PPNSET?PPN=529596830"/>
             <libreto:hasContext>
@@ -17616,7 +17616,7 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
             <dc:language xml:lang="iso6392">dut</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>van der Linde, David Joris, Nr. 224.</libreto:comment>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/104279850"/>
             <libreto:hasManifestation rdf:resource="http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=109620690"/>
             <libreto:hasContext>
@@ -18021,7 +18021,7 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
             <dc:language xml:lang="iso6392">dut</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>van der Linde, David Joris, Nr. 250. Erschienen 1584.</libreto:comment>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/104279850"/>
             <libreto:hasManifestation>
               <libreto:Manifestation rdf:about="http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=162373473">
@@ -18114,7 +18114,7 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
             <dc:language xml:lang="iso6392">ger</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <dc:hasFormat>KEYPhttp://www.gbv.de/vd/vd17/12:105160A</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/13016853X"/>
             <libreto:hasManifestation rdf:resource="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=12:105160A"/>
           </libreto:Item>
@@ -18683,7 +18683,7 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Verfasser ermittelt. Dünnhaupt (2. Aufl.), S. 1469, 31 (hier mit Impressum Amsterdam : Fabel). Vgl. Penman, Leigh A.: A Heterodox Publishing Enterprise of the Thirty Years’ War. The Amsterdam Office of Hans Fabel (1616-after 1650). In: The Library 15 (2014), S. 44, Nr. 10 (zweifelhaft).</libreto:comment>
             <dc:hasFormat>http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-dfg-f9a01b83-e12d-4df7-9cd0-769f35444ce355</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/123140269"/>
             <libreto:hasManifestation>
               <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=23:681776E">
@@ -19805,7 +19805,7 @@ Darbey ein Schreiben vom Kriege/ an einen Leutenant ...</dc:title>
             <dc:language xml:lang="iso6392">ger</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Angelus Marianus ist Pseudonym für Johann Angelicus von Werdenhagen</libreto:comment>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/100702236"/>
             <libreto:hasManifestation rdf:resource="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=23:652008F"/>
           </libreto:Item>
@@ -19835,7 +19835,7 @@ Darbey ein Schreiben vom Kriege/ an einen Leutenant ...</dc:title>
             <dc:language xml:lang="iso6392">ger</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Angelus Marianus ist Pseudonym für Johann Angelicus von Werdenhagen</libreto:comment>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/100702236"/>
             <libreto:hasManifestation rdf:resource="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=23:652008F"/>
           </libreto:Item>
@@ -20213,7 +20213,7 @@ Darbey ein Schreiben vom Kriege/ an einen Leutenant ...</dc:title>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Format eigentl. 4°. Theophilus Schweighardt ist Pseud. für Daniel Mögling</libreto:comment>
             <dc:hasFormat>http://digital.slub-dresden.de/ppn30298187X</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/117080632"/>
             <libreto:hasManifestation>
               <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=23:000232K">
@@ -22559,7 +22559,7 @@ Sampt einem andern Tractätlin/ Von dem Schnee und Eyß ...</dc:title>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Brüning, V. F. Bibliographie der alchemistischen Literatur 1219. Bibliogr. Nachweis: Wolfstieg II, 42363. Irenaeus Agnostus ist Pseudonym für Friedrich Grick.</libreto:comment>
             <dc:hasFormat>http://diglib.hab.de/drucke/tq-392a-2s/start.htm</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/122748646"/>
             <libreto:hasManifestation rdf:resource="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=12:110219Y"/>
             <libreto:hasContext>
@@ -22663,7 +22663,7 @@ Sampt einem andern Tractätlin/ Von dem Schnee und Eyß ...</dc:title>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Brüning, V. F. Bibliographie der alchemistischen Literatur 1170. Wolfstieg II, 42322. Irenaeus Agnostus ist Pseudonym für Friedrich Grick.</libreto:comment>
             <dc:hasFormat>http://digital.slub-dresden.de/ppn303992344</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/122748646"/>
             <libreto:hasManifestation rdf:resource="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=14:050834S"/>
             <libreto:hasContext>
@@ -22701,7 +22701,7 @@ Sampt einem andern Tractätlin/ Von dem Schnee und Eyß ...</dc:title>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Irenaeus Agnostus ist Pseudonym für Friedrich Grick</libreto:comment>
             <dc:hasFormat>KEYPhttp://www.gbv.de/vd/vd17/3:603977F</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/122748646"/>
             <libreto:hasManifestation>
               <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=3:603977F">
@@ -22745,7 +22745,7 @@ Sampt einem andern Tractätlin/ Von dem Schnee und Eyß ...</dc:title>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Brüning, V. F. Bibliographie der alchemistischen Literatur 1279. Bibliogr. Nachweis: Wolfstieg II, 42378</libreto:comment>
             <dc:hasFormat>KEYPhttp://www.gbv.de/vd/vd17/3:603979W</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/122748646"/>
             <libreto:hasManifestation>
               <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=3:603979W">
@@ -22789,7 +22789,7 @@ Sampt einem andern Tractätlin/ Von dem Schnee und Eyß ...</dc:title>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Brüning, V. F. Bibliographie der alchemistischen Literatur 1283. Bibliogr. Nachweis: Wolfstieg II, 42365. Irenaeus Agnostus ist Pseudonym für Friedrich Grick. Streitschrift zu: Mundus, S.: Speck auff der Fall/ Das ist: List und Betruch der Newentstandnen Bruderschafft/ oder Fraternitet dern Vom Rosencreutz</libreto:comment>
             <dc:hasFormat>KEYPhttp://www.gbv.de/vd/vd17/3:603981S</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/122748646"/>
             <libreto:hasManifestation>
               <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=3:603981S">
@@ -22860,7 +22860,7 @@ Sampt einem andern Tractätlin/ Von dem Schnee und Eyß ...</dc:title>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Bibliogr. Nachweis: Wolfstieg II, 42411</libreto:comment>
             <dc:hasFormat>KEYPhttp://www.gbv.de/vd/vd17/3:300571U</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/129189731"/>
             <libreto:hasManifestation rdf:resource="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=3:300571U"/>
             <libreto:hasContext>
@@ -23034,7 +23034,7 @@ Sampt einem andern Tractätlin/ Von dem Schnee und Eyß ...</dc:title>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Bibliogr. Nachweis: Wolfstieg II, 42285</libreto:comment>
             <dc:hasFormat>KEYPhttp://www.gbv.de/vd/vd17/23:241578N</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <libreto:hasManifestation rdf:resource="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=23:241578N"/>
             <libreto:hasContext>
               <libreto:PhysicalContext>
@@ -23070,7 +23070,7 @@ Sampt einem andern Tractätlin/ Von dem Schnee und Eyß ...</dc:title>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Bibliogr. Nachweis: Wolfstieg II, 42313</libreto:comment>
             <dc:hasFormat>KEYPhttp://www.gbv.de/vd/vd17/23:241620Z</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:contributor>
               <libreto:Person rdf:about="http://d-nb.info/gnd/131381849">
                 <foaf:name>A. O. M. T. W</foaf:name>
@@ -23323,7 +23323,7 @@ Beneben der rechten und warhafftigen Physica Naturali Rotunda durch eine Visione
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Brüning, V. F. Bibliographie der alchemistischen Literatur 1170. Wolfstieg II, 42322. Irenaeus Agnostus ist Pseudonym für Friedrich Grick.</libreto:comment>
             <dc:hasFormat>http://digital.slub-dresden.de/ppn303992344</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/122748646"/>
             <libreto:hasManifestation rdf:resource="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=14:050834S"/>
             <libreto:hasContext>
@@ -23568,7 +23568,7 @@ Beneben der rechten und warhafftigen Physica Naturali Rotunda durch eine Visione
             <dc:language xml:lang="iso6392">ger</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>#VD17$per sperber, julius and tit sendbrief*#</libreto:comment>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/128616385"/>
             <libreto:hasContext>
               <libreto:PhysicalContext>
@@ -23826,7 +23826,7 @@ Quibus Accessere Epistolae Duae Germanicae eiusdem argumenti, pari ingenii acumi
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Brüning, V. F. Bibliographie der alchemistischen Literatur 1219. Bibliogr. Nachweis: Wolfstieg II, 42363. Irenaeus Agnostus ist Pseudonym für Friedrich Grick.</libreto:comment>
             <dc:hasFormat>http://diglib.hab.de/drucke/tq-392a-2s/start.htm</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/122748646"/>
             <libreto:hasManifestation rdf:resource="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=12:110219Y"/>
             <libreto:hasContext>
@@ -24154,7 +24154,7 @@ Quibus Accessere Epistolae Duae Germanicae eiusdem argumenti, pari ingenii acumi
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Brüning, V. F. Bibliographie der alchemistischen Literatur 1314. Wolfstieg, A. Freimaurer. Lit. 42389</libreto:comment>
             <dc:hasFormat>KEYPhttp://www.gbv.de/vd/vd17/14:008813Q</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator>
               <libreto:Person rdf:about="http://d-nb.info/gnd/128617209">
                 <foaf:name>Staurophorus, Rhodophilus</foaf:name>
@@ -24204,7 +24204,7 @@ Quibus Accessere Epistolae Duae Germanicae eiusdem argumenti, pari ingenii acumi
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Dünnhaupt (2. Aufl.), S. 291, F 7. Brüning, V. F. Bibliographie der alchemistischen Literatur 1284. Wolfstieg, A. Freimaurer. Lit. 42382. Irenaeus Agnostus und F. G. Menapius sind Pseudonyme für Friedrich Grick. Nach Dünnhaupt fälschlich Johann Valentin Andreae zugeschrieben.</libreto:comment>
             <dc:hasFormat>http://diglib.hab.de/drucke/yv-923-8f-helmst-9s/start.htm</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/122748646"/>
             <dc:contributor rdf:resource="http://d-nb.info/gnd/118502883"/>
             <libreto:hasManifestation>
@@ -24348,7 +24348,7 @@ Quibus Accessere Epistolae Duae Germanicae eiusdem argumenti, pari ingenii acumi
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Bibliogr. Nachweis: Wolfstieg II, 42285</libreto:comment>
             <dc:hasFormat>KEYPhttp://www.gbv.de/vd/vd17/23:241578N</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <libreto:hasManifestation rdf:resource="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=23:241578N"/>
             <libreto:hasContext>
               <libreto:PhysicalContext>
@@ -25725,7 +25725,7 @@ Editio Tertia, &amp; auctior</dc:title>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Brüning, V. F. Bibliographie der alchemistischen Literatur 1112. Ferguson, J. Bibl. Chemica, I, 464</libreto:comment>
             <dc:hasFormat>http://diglib.hab.de/drucke/xb-7884/start.htm</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/119065681"/>
             <libreto:hasManifestation>
               <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=23:687856Y">
@@ -25941,7 +25941,7 @@ Diu desideratum &amp; expetitum, nunc vero primum in lucem editum.</dc:title>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Brüning, V. F. Bibliographie der alchemistischen Literatur 1164</libreto:comment>
             <dc:hasFormat>KEYPhttp://www.gbv.de/vd/vd17/3:308435C</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/128616385"/>
             <libreto:hasManifestation>
               <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=3:308435C">
@@ -26816,17 +26816,10 @@ Denuo, amicorum rogatu, in publicum emissum, ac triplici Indice ornatum.</dc:tit
             <dc:subject xml:lang="http://uri.gbv.de/terminology/aadgenres/">Geldwesen</dc:subject>
             <dc:language xml:lang="iso6392">ger</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
-            <libreto:comment>2 Titel plus Handschrift zusammengebunden? =&gt; wie dieses am Besten abbilden? VD17 14:687029H oder VD17 14:687034B</libreto:comment>
+            <libreto:comment>Ausgabe nicht bestimmbar; Valentinus Boltz: Illuminierbuch (z.B. VD17 14:627228S oder VD17 23:735700S) beigebunden? 2 Titel plus Handschrift zusammengebunden? =&gt; wie dieses am Besten abbilden? VD17 14:687029H oder VD17 14:687034B</libreto:comment>
             <libreto:hasPlace rdf:resource="http://vocab.getty.edu/tgn/7012329"/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/124495036"/>
             <dc:contributor rdf:resource="http://d-nb.info/gnd/130041696"/>
-            <libreto:hasManifestation>
-              <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=Ausgabe nicht bestimmbar; Valentinus Boltz: Illuminierbuch (z.B. VD17 14:627228S oder VD17 23:735700S) beigebunden?">
-                <libreto:database>Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)</libreto:database>
-                <dc:identifier>Ausgabe nicht bestimmbar; Valentinus Boltz: Illuminierbuch (z.B. VD17 14:627228S oder VD17 23:735700S) beigebunden?</dc:identifier>
-              </libreto:Manifestation>
-            </libreto:hasManifestation>
-
           </libreto:Item>
         </libreto:refersTo>
 
@@ -27595,7 +27588,7 @@ Anjetzo aber anderweit/ in Verlegung Georg Bechers Apotheckers in ermelten Carls
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Brüning, V. F. Bibliographie der alchemistischen Literatur 2015. Bibliogr. Nachweis: Krivatsy (5266). Sendivogius &lt;Filius&gt;: Pseudonym, in Raßmanns Pseudonymenlexikon fälschlich mit dem Juristen Johann Harpprecht (1560-1639) identifiziert, bürgerlicher Name nicht mit Sicherheit bekannt.</libreto:comment>
             <dc:hasFormat>http://resolver.staatsbibliothek-berlin.de/SBB0001A2F700000000</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator>
               <libreto:Person rdf:about="http://d-nb.info/gnd/122363841">
                 <foaf:name>Sendivogius Filius</foaf:name>
@@ -27682,7 +27675,7 @@ Anjetzo aber anderweit/ in Verlegung Georg Bechers Apotheckers in ermelten Carls
             <dc:language xml:lang="iso6392">lat</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <dc:hasFormat>http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb00015593-9</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/118575279"/>
             <libreto:hasManifestation>
               <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=39:135432X">
@@ -28076,7 +28069,7 @@ Zum zweytenmal Gedruckt ...</dc:title>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Brüning, V. F. Bibliographie der alchemistischen Literatur 1349. Bibliogr. Nachweis: Wolfstieg II, 42404</libreto:comment>
             <dc:hasFormat>KEYPhttp://www.gbv.de/vd/vd17/23:294773Q</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:contributor>
               <libreto:Person rdf:about="http://d-nb.info/gnd/128636300">
                 <foaf:name>A. W. B. D. S. F.</foaf:name>
@@ -28118,7 +28111,7 @@ Zum zweytenmal Gedruckt ...</dc:title>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Bibliogr. Nachweis: Wolfstieg II, 42411</libreto:comment>
             <dc:hasFormat>KEYPhttp://www.gbv.de/vd/vd17/3:300571U</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/129189731"/>
             <libreto:hasManifestation rdf:resource="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=3:300571U"/>
           </libreto:Item>
@@ -28839,7 +28832,7 @@ Zum andernmal auffgelegt.</dc:title>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Erscheinungsjahr möglicherweise verdruckt. Eine Ausgabe von 1660 lässt sich nicht nachweisen. Siehe VD17 39:119551U (Erscheinungsjahr 1661). Brüning, V. F. Bibliographie der alchemistischen Literatur 2036. Dünnhaupt (2. Aufl.), S. 432, 8.</libreto:comment>
             <dc:hasFormat>http://diglib.hab.de/drucke/nd-264/start.htm</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator>
               <libreto:Person rdf:about="http://d-nb.info/gnd/118507923">
                 <foaf:name>Becher, Johann Joachim</foaf:name>
@@ -28948,7 +28941,7 @@ Zum andernmal auffgelegt.</dc:title>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Brüning, V. F. Bibliographie der alchemistischen Literatur 1595. Dünnhaupt (2. Aufl.), S. 688 Nr. 10.1</libreto:comment>
             <dc:hasFormat>KEYPhttp://www.gbv.de/vd/vd17/12:104672V</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/118512579"/>
             <libreto:hasManifestation rdf:resource="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=12:104672V"/>
           </libreto:Item>
@@ -28977,7 +28970,7 @@ Zum andernmal auffgelegt.</dc:title>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Brüning, V. F. Bibliographie der alchemistischen Literatur 1595. Dünnhaupt (2. Aufl.), S. 688 Nr. 10.1</libreto:comment>
             <dc:hasFormat>KEYPhttp://www.gbv.de/vd/vd17/12:104672V</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/118512579"/>
             <libreto:hasManifestation rdf:resource="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=12:104672V"/>
           </libreto:Item>
@@ -29006,7 +28999,7 @@ Zum andernmal auffgelegt.</dc:title>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Brüning, V. F. Bibliographie der alchemistischen Literatur 1595. Dünnhaupt (2. Aufl.), S. 688 Nr. 10.1</libreto:comment>
             <dc:hasFormat>KEYPhttp://www.gbv.de/vd/vd17/12:104672V</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/118512579"/>
             <libreto:hasManifestation rdf:resource="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=12:104672V"/>
           </libreto:Item>
@@ -29035,7 +29028,7 @@ Zum andernmal auffgelegt.</dc:title>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Brüning, V. F. Bibliographie der alchemistischen Literatur 1595. Dünnhaupt (2. Aufl.), S. 688 Nr. 10.1</libreto:comment>
             <dc:hasFormat>KEYPhttp://www.gbv.de/vd/vd17/12:104672V</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/118512579"/>
             <libreto:hasManifestation rdf:resource="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=12:104672V"/>
           </libreto:Item>
@@ -29099,7 +29092,7 @@ Zum andernmal auffgelegt.</dc:title>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Erscheinungsjahr möglicherweise verdruckt. Eine Ausgabe von 1623 lässt sich nicht nachweisen. Brüning, V. F. Bibliographie der alchemistischen Literatur 1491</libreto:comment>
             <dc:hasFormat>http://digital.slub-dresden.de/id434866318</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/124685838"/>
             <libreto:hasManifestation>
               <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=23:280486G">
@@ -30169,7 +30162,7 @@ Zusampt einem angehenckten Tractätlein, von allerley gebrannten Wassern, welche
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>VD17 32:635867N (Schlüsselseiten), VD17 3:607055W oder VD17 23:295665X (als mehrbändiges Werk aufgenommen, VD17-Nr. v. Gesamtaufnahme, Erscheinungsjahre 1603-1606).</libreto:comment>
             <dc:hasFormat>KEYPhttp://www.gbv.de/vd/vd17/32:635867N</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator>
               <libreto:Person rdf:about="br:bahnsen/persons/Meteren%2C+Emmanuel+van">
                 <foaf:name>Meteren, Emmanuel van</foaf:name>
@@ -33669,7 +33662,7 @@ Deßgleichen Von dem Marscheiden/ Bergwercken/ Wasserwagen/ und andern herrliche
             <dc:language xml:lang="iso6392">ger</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <dc:hasFormat>KEYPhttp://www.gbv.de/vd/vd17/39:124297F</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator>
               <libreto:Person rdf:about="http://d-nb.info/gnd/100322875">
                 <foaf:name>Rhumel, Johann Pharamund</foaf:name>
@@ -38111,7 +38104,7 @@ Ausgabebezeichnung: COLONIAE AGRIPPINAE,|| Apud Haeredes Arnoldi Birckmanni.|| M
             <dc:language xml:lang="iso6392">dut</dc:language>
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>www.unicat.be/uniCat?func=search&amp;query=sysid:6268656</libreto:comment>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/133461890"/>
             <libreto:hasManifestation>
               <libreto:Manifestation rdf:about="http://www.unicat.be/uniCat?func=search&amp;query=sysid:6268656">
@@ -41648,7 +41641,7 @@ Anjetzo zum Andernmahl übersähen/ vermehrt/ und wiederumb in Druck gegäben / 
             <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
             <libreto:comment>Erscheinungszeitraum nach dem Todesjahr des Verf. angegeben</libreto:comment>
             <dc:hasFormat>http://resolver.sub.uni-goettingen.de/purl?PPN818634936</dc:hasFormat>
-            <libreto:hasPlace rdf:resource="br:bahnsen/places/S.l."/>
+            <libreto:hasPlace rdf:resource="br:bahnsen/places/s.+l."/>
             <dc:creator rdf:resource="http://d-nb.info/gnd/124367194"/>
             <libreto:hasManifestation>
               <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=7:701286L">
@@ -61148,8 +61141,8 @@ Neben angehengter Conferirung und vergeleichung/ deß Frucht- und Weinmasses ...
     <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">120888289</dc:identifier>
   </libreto:Person>
 
-  <libreto:Place rdf:about="br:bahnsen/places/S.l.">
-    <gn:name>S.l.</gn:name>
+  <libreto:Place rdf:about="br:bahnsen/places/s.+l.">
+    <gn:name>s. l.</gn:name>
   </libreto:Place>
 
   <libreto:Person rdf:about="http://d-nb.info/gnd/104279850">

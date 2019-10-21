@@ -15,7 +15,7 @@
             <name type="country">Germany</name>
           </address>
         </publisher>
-        <date when="2019-09-02">2019</date>
+        <date when="2019-09-13">2019</date>
       </publicationStmt>
       <sourceDesc>
         <listWit>
@@ -1982,7 +1982,7 @@ Br&#xFC;ning, V. F. Bibliographie der alchemistischen Literatur 2055. Verf. ermi
           <p n="69" xml:id="bahnsen754">Fachsen Probierb&#xFC;chlein. 1622.<note>VD17 14:687029H oder VD17 14:687034B (Digitalisat)</note></p>
         </div>
         <div type="volume">
-          <p n="70" xml:id="bahnsen755">Idem [Fachsen Probierb&#xFC;chlein]. 1622. mit boltzen illuminierb&#xFC;chlein sambt einem Manuscripto von geringer M&#xFC;ntz.<note>2 Titel plus Handschrift zusammengebunden? =&gt; wie dieses am Besten abbilden? VD17 14:687029H oder VD17 14:687034B</note></p>
+          <p n="70" xml:id="bahnsen755">Idem [Fachsen Probierb&#xFC;chlein]. 1622. mit boltzen illuminierb&#xFC;chlein sambt einem Manuscripto von geringer M&#xFC;ntz.<note>Ausgabe nicht bestimmbar; Valentinus Boltz: Illuminierbuch (z.B. VD17 14:627228S oder VD17 23:735700S) beigebunden? 2 Titel plus Handschrift zusammengebunden? =&gt; wie dieses am Besten abbilden? VD17 14:687029H oder VD17 14:687034B</note></p>
         </div>
         <div type="volume">
           <p n="71" xml:id="bahnsen756">J. Wittichii Praeservator Sanitatis. 1607.</p>
@@ -6377,14 +6377,13 @@ Zuvor vermehret mit einem B&#xFC;chlein/ De Monetis Et Mensuris ... Insonderheit
             </pubPlace>
             <publisher>Petri, Sebastian</publisher>
             <date when="1593">1593</date>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen22-reference" corresp="bahnsen22">
             <title>Verklaringhe der Scheppenissen an v mijn beminde Kinderen vnde Ghebroeders</title>
             <author>
               <rs type="person" key="gnd_104279850">Joris, David</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1556">1556</date>
             <idno type="SWB">030048680</idno>
@@ -6445,7 +6444,7 @@ Zuvor vermehret mit einem B&#xFC;chlein/ De Monetis Et Mensuris ... Insonderheit
             <author>
               <rs type="person" key="gnd_104279850">Joris, David</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1551">1551</date>
             <idno type="GBV">146786416</idno>
@@ -6455,7 +6454,7 @@ Zuvor vermehret mit einem B&#xFC;chlein/ De Monetis Et Mensuris ... Insonderheit
             <author>
               <rs type="person" key="gnd_104279850">Joris, David</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1551">1551</date>
             <idno type="GBV">146786416</idno>
@@ -6465,7 +6464,7 @@ Zuvor vermehret mit einem B&#xFC;chlein/ De Monetis Et Mensuris ... Insonderheit
             <author>
               <rs type="person" key="gnd_104279850">Joris, David</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1551">1551</date>
             <idno type="GBV">146786416</idno>
@@ -6475,7 +6474,7 @@ Zuvor vermehret mit einem B&#xFC;chlein/ De Monetis Et Mensuris ... Insonderheit
             <author>
               <rs type="person" key="gnd_104279850">Joris, David</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1551">1551</date>
             <idno type="GBV">146786416</idno>
@@ -6485,7 +6484,7 @@ Zuvor vermehret mit einem B&#xFC;chlein/ De Monetis Et Mensuris ... Insonderheit
             <author>
               <rs type="person" key="gnd_104279850">Joris, David</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1551">1551</date>
             <idno type="GBV">146786416</idno>
@@ -6495,7 +6494,7 @@ Zuvor vermehret mit einem B&#xFC;chlein/ De Monetis Et Mensuris ... Insonderheit
             <author>
               <rs type="person" key="gnd_104279850">Joris, David</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1551">1551</date>
             <idno type="GBV">227847741</idno>
@@ -6517,7 +6516,7 @@ Zuvor vermehret mit einem B&#xFC;chlein/ De Monetis Et Mensuris ... Insonderheit
             <author>
               <rs type="person" key="gnd_11853467X">Franck, Sebastian</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1565">1565</date>
             <idno type="VD16">F 2073</idno>
@@ -6532,7 +6531,6 @@ Zuvor vermehret mit einem B&#xFC;chlein/ De Monetis Et Mensuris ... Insonderheit
             </pubPlace>
             <publisher>Beck, Balthasar</publisher>
             <date when="1531">1531</date>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen36-reference" corresp="bahnsen36">
             <title>&#xAC;Die&#xAC; Gulden Arch/|| Darjnn die Hei||lige schrifft vnd alls || Der Kern bester ... || Prophetischer vnd Apostolicher/ alter Lehrer vnd V#[ae]t=||ter der Kirchen/ Spr#[ue]ch/ gefunden werden/ Auch der erleuchten Heyden vnd Philoso=||phen ... || verfasset vnd eingeleibt seind/|| ... z&#x16F;sammen || getragen/ durch || Sebastian Francken von W#[oe]rd.|| ... ||</title>
@@ -6622,7 +6620,6 @@ Zuvor vermehret mit einem B&#xFC;chlein/ De Monetis Et Mensuris ... Insonderheit
             </pubPlace>
             <publisher>Lipp, Balthasar</publisher>
             <date when="1605">1605</date>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen44-reference" corresp="bahnsen44">
             <title>BIBLIA || SACRA || Veteris &amp; Noui Testa-||menti.|| QVID SIT HAC NO/||ua editione praestitum,sequens || Praefatio Consistorij Theologici,|| in Ducatu VVirtembergi-||co &amp;c. docebit.||</title>
@@ -6723,7 +6720,7 @@ Zuvor vermehret mit einem B&#xFC;chlein/ De Monetis Et Mensuris ... Insonderheit
             <author>
               <rs type="person" key="gnd_122006690">Jansen, Hendrik</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1660">1660</date>
             <idno type="STCN">110636961</idno>
@@ -6743,7 +6740,7 @@ Zuvor vermehret mit einem B&#xFC;chlein/ De Monetis Et Mensuris ... Insonderheit
             <author>
               <rs type="person" key="gnd_104279850">Joris, David</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1609">1609</date>
             <idno type="STCN">108774163</idno>
@@ -6753,7 +6750,7 @@ Zuvor vermehret mit einem B&#xFC;chlein/ De Monetis Et Mensuris ... Insonderheit
             <author>
               <rs type="person" key="gnd_104279850">Joris, David</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date>[fr&#xFC;hes 17. Jahrhundert]</date>
             <idno type="STCN">082414955</idno>
@@ -6763,7 +6760,7 @@ Zuvor vermehret mit einem B&#xFC;chlein/ De Monetis Et Mensuris ... Insonderheit
             <author>
               <rs type="person" key="gnd_104279850">Joris, David</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date>[fr&#xFC;hes 17. Jahrhundert]</date>
             <idno type="STCN">08241050X</idno>
@@ -6773,7 +6770,7 @@ Zuvor vermehret mit einem B&#xFC;chlein/ De Monetis Et Mensuris ... Insonderheit
             <author>
               <rs type="person" key="gnd_104279850">Joris, David</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1547">1547</date>
             <idno type="STCN">082414955</idno>
@@ -6975,7 +6972,6 @@ Zuvor vermehret mit einem B&#xFC;chlein/ De Monetis Et Mensuris ... Insonderheit
             <author>
               <rs type="person" key="gnd_118630105">Weigel, Valentin</rs>
             </author>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen75-reference" corresp="bahnsen75">
             <title>Libellus Disputatorius. Das ist Ein Disputation-B&#xFC;chlein : Sp&#xF6;ttlicher Weyse Schamroth zu machen/ und zu widerlegen alle Disputanten und gelehrten/ die wider da&#xDF; Liecht der Natur Studieren/ und de vero modo cognoscendi nichts wissen / Beschriben durch M. Valentinum Weigelium ...</title>
@@ -7010,7 +7006,6 @@ Zuvor vermehret mit einem B&#xFC;chlein/ De Monetis Et Mensuris ... Insonderheit
               <rs type="place" key="getty_1036898">Halle (Saale)</rs>
             </pubPlace>
             <publisher>Krusicke, Joachim</publisher>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen78-reference" corresp="bahnsen78">
             <title>Ander Theil Gn&#x14D;thi Seauton : Heisset Astrologia Theologizata, Auff den Andern Theil des Menschen die Seel nemblichen/ so au&#xDF; dem firmament formieret/ gef&#xFC;hret und gestellet / Durch M. Valentinum Weigelium &#x2026;</title>
@@ -7083,10 +7078,9 @@ Zuvor vermehret mit einem B&#xFC;chlein/ De Monetis Et Mensuris ... Insonderheit
             <author>
               <rs type="person" key="gnd_118630105">Weigel, Valentin</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1619">1619</date>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen84-reference" corresp="bahnsen84">
             <title>Der G&#xFC;ldene Griff/ Das ist/ Alle Ding ohne Irrthumb zu erkennen</title>
@@ -7097,14 +7091,12 @@ Zuvor vermehret mit einem B&#xFC;chlein/ De Monetis Et Mensuris ... Insonderheit
               <rs type="place" key="getty_1036898">Halle (Saale)</rs>
             </pubPlace>
             <publisher>Krusicke, Joachim</publisher>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen85-reference" corresp="bahnsen85">
             <title>Ein n&#xFC;tzliches Tract&#xE4;tlein Vom Ort der Welt</title>
             <author>
               <rs type="person" key="gnd_118630105">Weigel, Valentin</rs>
             </author>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen86-reference" corresp="bahnsen86">
             <title>Unterschiedliche/ Sehr notwendige Theologische Tract&#xE4;tlein : I. Vom Alten Newen Jerusalem/ ... II. Christliche Unterrichtung/ wie die G&#xF6;ttliche Schrifft zuvergleichen und zu urtheilen/ ... III. Au&#xDF; was Grund die Liebe entspringt/ ...
@@ -7207,17 +7199,15 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
               <rs type="place" key="getty_1036898">Halle (Saale)</rs>
             </pubPlace>
             <publisher>Krusicke, Joachim</publisher>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen94-reference" corresp="bahnsen94">
             <title>De Bono Et Malo In Homine : Das Gott allein gut sey</title>
             <author>
               <rs type="person" key="gnd_118630105">Weigel, Valentin</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1619">1619</date>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen95-reference" corresp="bahnsen95">
             <title>Zwey sch&#xF6;ne B&#xFC;chlein : Das Erste/ Von dem leben Christi/ das ist/ Vom wahren Glauben/ der da ist die Regel/ Richtscheidt/ oder Me&#xDF;schnur der heiligen Statt Gottes/ und ihrer Einwohner hie auff Erden. Das Ander/ Eine kurtze au&#xDF;f&#xFC;hrliche Erweisung/ Das zu diesen Zeiten in gantz Europa bey nahe kein einiger Stul sey in allen Kirchen und Schulen ... / beschrieben. Durch M. Valentinum Weigelium, Weyland Pfarrherrn zu Tschopaw in Meissen. Nunmehr aber mit flei&#xDF; ubersehen und in Druck verfertiget/ Durch Huldreich Meirsbach von Regnbrun</title>
@@ -7242,14 +7232,13 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
             <author>
               <rs type="person" key="gnd_118630105">Weigel, Valentin</rs>
             </author>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen98-reference" corresp="bahnsen98">
             <title>Vom Alten und Newen Jerusalem Das ist/ Das alle Gleubige beydes im Alten und Newen Testament mit ihren F&#xFC;ssen stehen m&#xFC;ssen in den Thoren Jerusalem/ das ist in der Stadt Gottes wandeln unnd nicht darneben / Durch M. V. W.</title>
             <author>
               <rs type="person" key="gnd_118630105">Weigel, Valentin</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1619">1619</date>
             <idno type="VD17">1:072997Z</idno>
@@ -7271,7 +7260,6 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
             <author>
               <rs type="person" key="gnd_118630105">Weigel, Valentin</rs>
             </author>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen101-reference" corresp="bahnsen101">
             <title>Der G&#xFC;ldene Griff/ Das ist/ Alle Ding ohne Irrthumb zu erkennen</title>
@@ -7282,7 +7270,6 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
               <rs type="place" key="getty_1036898">Halle (Saale)</rs>
             </pubPlace>
             <publisher>Krusicke, Joachim</publisher>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen102-reference" corresp="bahnsen102">
             <title>Gnothi Seauton [Graece] Nosce te ipsum. ... Zeiget und weiset dahin/ da&#xDF; der Mensch sey ein Microcosmus</title>
@@ -7293,7 +7280,6 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
               <rs type="place" key="getty_1036898">Halle (Saale)</rs>
             </pubPlace>
             <publisher>Krusicke, Joachim</publisher>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen104-reference" corresp="bahnsen104">
             <title>Principal und HauptTractat Von der Gelassenheit/ was dieselbige sey/ und worzu sie nutze : Au&#xDF; wahren gerechten Apostolischen Grunde und den Cristallinen Br&#xFC;nnlein Israelis gesch&#xF6;pffet / [Andreas Karlstadt] Durch M. Valentinum Weigelium ... [I. S. N. P. &amp; P. C.]</title>
@@ -7366,16 +7352,14 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
             <author>
               <rs type="person" key="gnd_118630105">Weigel, Valentin</rs>
             </author>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen110-reference" corresp="bahnsen110">
             <title>De Bono Et Malo In Homine : Das Gott allein gut sey</title>
             <author>
               <rs type="person" key="gnd_118630105">Weigel, Valentin</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <date when="1619">1619</date>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen111-reference" corresp="bahnsen111">
             <title>Y Dyas Mystica ad Monadis Simplicitatem = Ein nutzbares zwiefaches Tract&#xE4;tlein/ so einem einfeltigen Christlichen Hertzten den Weg weiset zur ewigen Seeligkeit : Darinnen erinnert wird/ I. Des Menschen Composition au&#xDF; dreyen unterschiedlichen wesendlichen Theilen. II. Der hochwichtige Unterscheid der beyden vornehmsten Specierum Fidei, Gratiae &amp; Naturae ... / Zu bewh&#xE4;rung der ewigen Warheit ... herf&#xFC;r gegegeben/ Per Christianum Theophilum ...</title>
@@ -7406,7 +7390,6 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
             <author>
               <rs type="person" key="gnd_118630105">Weigel, Valentin</rs>
             </author>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen115-reference" corresp="bahnsen115">
             <title>Der G&#xFC;ldene Griff/ Das ist/ Alle Ding ohne Irrthumb zu erkennen</title>
@@ -7417,14 +7400,12 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
               <rs type="place" key="getty_1036898">Halle (Saale)</rs>
             </pubPlace>
             <publisher>Krusicke, Joachim</publisher>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen116-reference" corresp="bahnsen116">
             <title>Dialogus de Christianismo: Das ist/ Ein Christliches/ hochwichtiges nothwendiges Colloquium oder Gespr&#xE4;che</title>
             <author>
               <rs type="person" key="gnd_118630105">Weigel, Valentin</rs>
             </author>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen117-reference" corresp="bahnsen117">
             <title>Der G&#xFC;ldene Griff/ Das ist/ Alle Ding ohne Irrthumb zu erkennen</title>
@@ -7435,7 +7416,6 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
               <rs type="place" key="getty_1036898">Halle (Saale)</rs>
             </pubPlace>
             <publisher>Krusicke, Joachim</publisher>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen118-reference" corresp="bahnsen118">
             <title>Theologia Weigelii. Das ist: Offentliche Glaubens Bek&#xE4;ndtn&#xFC;&#xDF; de&#xDF; Weyland Ehrw&#xFC;rdigen/ durch die dritte Mentalische oder Intellectualische PfingstSchule Erleuchteten Mannes/ M. Valentini Weigelii ...</title>
@@ -7481,7 +7461,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
             <editor>
               <rs type="person" key="gnd_118809563">Sudermann, Daniel</rs>
             </editor>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1593">1593</date>
             <idno type="VD16">S 5047</idno>
@@ -7491,7 +7471,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
             <author>
               <rs type="person" key="gnd_118612190">Schwenckfeld, Caspar</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1562">1562</date>
             <idno type="VD16">S 5005</idno>
@@ -7550,7 +7530,6 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
               <rs type="person" key="gnd_118575449">Luther, Martin</rs>
             </author>
             <date when="1524">1524</date>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen128-reference" corresp="bahnsen128">
             <title>Von heimlichen und gestolen brieffen</title>
@@ -7558,7 +7537,6 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
               <rs type="person" key="gnd_118575449">Luther, Martin</rs>
             </author>
             <date when="1529">1529</date>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen129-reference" corresp="bahnsen129">
             <title>Verantwortung der aufgelegten Aufruhr von Herzog Georgen</title>
@@ -7570,7 +7548,6 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
             </pubPlace>
             <publisher>Schirlentz, Nickel</publisher>
             <date when="1533">1533</date>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen130-reference" corresp="bahnsen130">
             <title>Auf des K&#xF6;nigs zu England L&#xE4;sterschrift ... Antwort</title>
@@ -7581,7 +7558,6 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
               <rs type="place" key="getty_7012349">Wittenberg</rs>
             </pubPlace>
             <date when="1527">1527</date>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen131-reference" corresp="bahnsen131">
             <title>Die L&#xFC;gend von S. Johanne Chrysostomo</title>
@@ -7589,7 +7565,6 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
               <rs type="person" key="gnd_118575449">Luther, Martin</rs>
             </author>
             <date when="1537">1537</date>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen132-reference" corresp="bahnsen132">
             <title>Wider den Bischof zu Magdeburg Albrecht Kardinal</title>
@@ -7597,7 +7572,6 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
               <rs type="person" key="gnd_118575449">Luther, Martin</rs>
             </author>
             <date when="1539">1539</date>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen133-reference" corresp="bahnsen133">
             <title>Hertzog Heinrichs von Braunschweig Antwort/ Der Keiserlichen Maiestat/ auff die vbergebene Supplication/ der Mordbrenner halben</title>
@@ -7605,7 +7579,6 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
               <rs type="person" key="gnd_119024918">Heinrich Wolfenb&#xFC;ttel, Herzog</rs>
             </author>
             <date when="1541">1541</date>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen134-reference" corresp="bahnsen134">
             <title>Wider Hans Worst</title>
@@ -7613,7 +7586,6 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
               <rs type="person" key="gnd_118575449">Luther, Martin</rs>
             </author>
             <date when="1541">1541</date>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen135-reference" corresp="bahnsen135">
             <title>Das einer mit dem andern nicht zuernen vnd sich niemand selbs rechen solle</title>
@@ -7625,7 +7597,6 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
             </pubPlace>
             <publisher>Klug, Josef</publisher>
             <date when="1543">1543</date>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen136-reference" corresp="bahnsen136">
             <title>Brief wider die Sabbather</title>
@@ -7633,7 +7604,6 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
               <rs type="person" key="gnd_118575449">Luther, Martin</rs>
             </author>
             <date when="1538">1538</date>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen137-reference" corresp="bahnsen137">
             <title>Von den Juden und ihren L&#xFC;gen</title>
@@ -7645,14 +7615,12 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
             </pubPlace>
             <publisher>Lufft, Hans</publisher>
             <date when="1543">1543</date>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen138-reference" corresp="bahnsen138">
             <title>Vom Schem-Hamphoras und vom Geschlecht Christi</title>
             <author>
               <rs type="person" key="gnd_118575449">Luther, Martin</rs>
             </author>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen140-reference" corresp="bahnsen140">
             <title>Der neunzigste Psalm</title>
@@ -7660,7 +7628,6 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
               <rs type="person" key="gnd_118501070">Agricola, Johannes</rs>
             </author>
             <date when="1526">1526</date>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen141-reference" corresp="bahnsen141">
             <title>Offinbarung des Endchrists aus dem Propheten Daniel</title>
@@ -7671,7 +7638,6 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
               <rs type="person" key="gnd_118751875">Speratus, Paulus</rs>
             </editor>
             <date when="1524">1524</date>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen142-reference" corresp="bahnsen142">
             <title>&#xAC;Der&#xAC; Prophet SacharJa/ au&#xDF;=||gelegt durch Mart. Luther.||</title>
@@ -7691,14 +7657,12 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
               <rs type="person" key="gnd_118575449">Luther, Martin</rs>
             </author>
             <date when="1523">1523</date>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen144-reference" corresp="bahnsen144">
             <title>Ein Brief an die Christen zu Stra&#xDF;burg wider den Schw&#xE4;rmergeist</title>
             <author>
               <rs type="person" key="gnd_118575449">Luther, Martin</rs>
             </author>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen145-reference" corresp="bahnsen145">
             <title>Das eyn Christliche versamlu[n]g odder gemeyne: recht vn[d] macht habe: alle lere tzu vrteylen: vnd lerer zu beruffen: eyn vnd abzusetzen</title>
@@ -7706,14 +7670,13 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
               <rs type="person" key="gnd_118575449">Luther, Martin</rs>
             </author>
             <date when="1523">1523</date>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen146-reference" corresp="bahnsen146">
             <title>Harmonia oder Concordantz Das ist: Eine Zusammenstimmung Vergleich und Einhellung etlicher Puncten und Artickeln Christlicher Lehre/ Deren/ so die Welt nunmehr Catholische/ Lutherische/ Calvinische/ [et]c. ernennet : Welche sie in erster Erleuchtung/ theils in Schrifften/ wie auch im Truck offentlich an tag geben ... / Mit sonderm Eyffer zusammen gebracht/ und durch Gottes Gnad wolmeinentlich ans Liecht geben: Durch Ein unparteischen Liebhaber G&#xF6;ttlicher Warheit [Daniel Sudermann]</title>
             <author>
               <rs type="person" key="gnd_118809563">Sudermann, Daniel</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1618">1618</date>
             <idno type="VD17">39:133772F</idno>
@@ -7726,7 +7689,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
             <editor>
               <rs type="person" key="gnd_121333272">Wolzogen, Johann Ludwig von</rs>
             </editor>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1645">1645</date>
             <idno type="VD17">23:288243G</idno>
@@ -7816,14 +7779,13 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
             </pubPlace>
             <publisher>Raselius, Christoph</publisher>
             <date when="1643">1643</date>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen154-reference" corresp="bahnsen154">
             <title>Der g&#xFC;ldene Schl&#xFC;ssel Davids/ Zum Hause Gottes/ und Erkandtnu&#xDF; dessen Geheimnussen/ vom Vater/ Sohn und heiligem Geist/ Im Buch der H. Bibel/ auch D. Lutheri und Philippi Nicolai Schrifften ... / Durch Gottes sonderbare Gnade gefunden/ Von Christophoro Andreae Raselio, Ratisponense, geordinirtem Pastorem auff Immenkeppel/ jetzo zu Schwarne im Ertzstifft Bremen wohnhafftig/ Jedermenniglich/ vom Buchstaben/ durch die Seel ... er&#xF6;ffnet und an Tag gegeben ...</title>
             <author>
               <rs type="person" key="gnd_123170834">Raselius, Christoph</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1632">1632</date>
             <idno type="VD17">1:072964G</idno>
@@ -7833,7 +7795,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
             <author>
               <rs type="person" key="gnd_123170834">Raselius, Christoph</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1632">1632</date>
             <idno type="VD17">23:332692P</idno>
@@ -7843,7 +7805,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
             <author>
               <rs type="person" key="gnd_121392309">Teting, Nikolaus</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1625">1625</date>
             <idno type="VD17">23:632093V</idno>
@@ -7853,7 +7815,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
             <author>
               <rs type="person" key="gnd_121392309">Teting, Nikolaus</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1624">1624</date>
             <idno type="GBV">23135682X</idno>
@@ -7882,7 +7844,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
           </bibl>
           <bibl xml:id="bahnsen160-reference" corresp="bahnsen160">
             <title>Clangor Buccinae Propheticae De Novi&#xDF;imis temporibus, Das ist: Trommetenschall wie der Eyver unnd Zorn Gottes werde rauchen/ unnd wie der Name de&#xDF; Antichristi unter dem Himmel werde au&#xDF;getilget werden/ unnd solches f&#xFC;r dem letzten Gericht/ oder Allgemeinen Tag der Aufferstehung der Todten : In dieser jetz angehenden Zeit der grossen Erndte/ da der Tempel Gottes mit dem Rohr einem Stecken gleich abgemessen wirdt ... Zu Christlichem Unterricht/ un[d] erweckung warhafftiger Bu&#xDF; ... / a Meditatore Jesu Crucis</title>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1620">1620</date>
             <idno type="VD17">14:002968Q</idno>
@@ -7902,7 +7864,7 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
             <author>
               <rs type="person" key="gnd_124945082">Ziegler, Philipp</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1622">1622</date>
             <idno type="HBZ">HT004275476</idno>
@@ -7910,22 +7872,20 @@ Sampt einer Lateinischen Epistel/ Darinnen die Quaestio, De Ecclesia Catholica C
           <bibl xml:id="bahnsen164-reference" corresp="bahnsen164">
             <title>Propheceyung Johann Carionis</title>
             <author>Carion, Johannes</author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1620">1620</date>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen165-reference" corresp="bahnsen165">
             <title>Woldenckw&#xFC;rdige Weissagung unnd Propheceyung</title>
             <author>
               <rs type="person" key="gnd_118712632">Capestrano, Johannes de</rs>
             </author>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen166-reference" corresp="bahnsen166">
             <title>Dat boeck der sproecken inhoudende veel schone onderw&#x133;singen</title>
             <author>Wijers, Mathijs</author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>Mullem, Dirck</publisher>
             <date when="1584">c. 1584</date>
             <idno type="STCN">055785255</idno>
@@ -8074,7 +8034,6 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
             </pubPlace>
             <publisher>Bernhard Jobin Erben</publisher>
             <date when="1610">1610</date>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen178-reference" corresp="bahnsen178">
             <title>Systema Theologicum Minus</title>
@@ -8086,7 +8045,6 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
             </pubPlace>
             <publisher>Werner, Heinrich</publisher>
             <date when="1639">1639</date>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen179-reference" corresp="bahnsen179">
             <title>De cleyne zandt-berch van parabolen ende gel&#x133;ckenissen</title>
@@ -8115,7 +8073,7 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
             <author>
               <rs type="person" key="gnd_121392309">Teting, Nikolaus</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <date when="1624">1624</date>
             <idno type="GBV">23135682X</idno>
           </bibl>
@@ -8243,7 +8201,6 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
           <bibl xml:id="bahnsen192-reference" corresp="bahnsen192">
             <title>Grondelicke onderrichtinghe, van veelen hoochwichtighen articulen &#x2026;</title>
             <author>Wijers, Mathijs</author>
-            <idno type="STCN">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen193-reference" corresp="bahnsen193">
             <title>Donschuldinge ii. Cor. iiii.</title>
@@ -8266,7 +8223,6 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
               <rs type="place" key="getty_7004445">M&#xFC;nster</rs>
             </pubPlace>
             <date when="1535">1535</date>
-            <idno type="STCN">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen195-reference" corresp="bahnsen195">
             <title>Mitternachtsgeschrey</title>
@@ -8282,7 +8238,6 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
               <rs type="place" key="getty_7004445">M&#xFC;nster</rs>
             </pubPlace>
             <date when="1535">1535</date>
-            <idno type="STCN">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen197-reference" corresp="bahnsen197">
             <title>Van verborgenheit der schrifft des Rykes Christi &#x2026;</title>
@@ -8293,7 +8248,6 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
               <rs type="place" key="getty_7004445">M&#xFC;nster</rs>
             </pubPlace>
             <date when="1535">1535</date>
-            <idno type="STCN">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen198-reference" corresp="bahnsen198">
             <title>Van verborgenheit der schrifft des Rykes Christi &#x2026;</title>
@@ -8304,7 +8258,6 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
               <rs type="place" key="getty_7004445">M&#xFC;nster</rs>
             </pubPlace>
             <date when="1535">1535</date>
-            <idno type="STCN">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen199-reference" corresp="bahnsen199">
             <title>Van verborgenheit der schrifft des Rykes Christi &#x2026;</title>
@@ -8315,7 +8268,6 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
               <rs type="place" key="getty_7004445">M&#xFC;nster</rs>
             </pubPlace>
             <date when="1535">1535</date>
-            <idno type="STCN">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen200-reference" corresp="bahnsen200">
             <title>Christliche, treuherzige Erinnerung, Vermahnung und Warnung vor der zur Neustadt an der Haardt nachgedruckten ... Bibel D. Martin Luthers</title>
@@ -8327,7 +8279,6 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
             </pubPlace>
             <publisher>Gruppenbach, Georg</publisher>
             <date when="1588">1588</date>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen201-reference" corresp="bahnsen201">
             <title>Coniecturae de ultimis temporibus ac de fine mundi &lt;dt.&gt;</title>
@@ -8338,7 +8289,6 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
               <rs type="place" key="getty_7004334">N&#xFC;rnberg</rs>
             </pubPlace>
             <date when="1545">1545</date>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen202-reference" corresp="bahnsen202">
             <title>De legitima uindi||CATIONE CHRISTIA-||nismi ueri &amp; sem/||piterni:|| AD NOMINIS CHRI-||stiani Reges, Episcopos ... || Doctores, populum#&#x301;[que] Christia-||n&#x169;, Libri Antisophistici tres, scripti a THEO-||DORO BIBLIANDRO contra Sophisticen,|| hoc est, fucat&#xE3; et imaginariam et || deceptric&#x1EBD; sapientiam.|| ... ||</title>
@@ -8417,21 +8367,21 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
           </bibl>
           <bibl xml:id="bahnsen208-reference" corresp="bahnsen208">
             <title>G&#xF6;ttliches Wunder-Buch : Darinnen auffgezeichnet und geschrieben stehen/ I. Himlische Offenbahrungen und Gesichte/ einer gottf&#xFC;rchtigen Jungfrawen au&#xDF; B&#xF6;hmen/ vom Zustand der Christlichen Kirchen ... II. Propheceyungen/ Klagreden/ und ernstliche Bu&#xDF;vermahnungen/ eines frommen Christlichen M&#xE4;gdleins zu Cottbus in NiederLausitz. III. Christliche Spr&#xFC;che/ und schrifftm&#xE4;&#xDF;ige/ geistreiche Reden/ einer gottsehligen Jungfrawen/ im F&#xFC;rstlichen Frawenzimmer zu Stettin in Pommern ; Erstlich eintzelen au&#xDF;gangen/ an jetzo aber zusammen getragen ...</title>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1630">1630</date>
             <idno type="VD17">23:250871Z</idno>
           </bibl>
           <bibl xml:id="bahnsen209-reference" corresp="bahnsen209">
             <title>G&#xF6;ttliches Wunder-Buch : Darinnen auffgezeichnet und geschrieben stehen/ I. Himlische Offenbahrungen und Gesichte/ einer gottf&#xFC;rchtigen Jungfrawen au&#xDF; B&#xF6;hmen/ vom Zustand der Christlichen Kirchen ... II. Propheceyungen/ Klagreden/ und ernstliche Bu&#xDF;vermahnungen/ eines frommen Christlichen M&#xE4;gdleins zu Cottbus in NiederLausitz. III. Christliche Spr&#xFC;che/ und schrifftm&#xE4;&#xDF;ige/ geistreiche Reden/ einer gottsehligen Jungfrawen/ im F&#xFC;rstlichen Frawenzimmer zu Stettin in Pommern ; Erstlich eintzelen au&#xDF;gangen/ an jetzo aber zusammen getragen ...</title>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1630">1630</date>
             <idno type="VD17">23:250871Z</idno>
           </bibl>
           <bibl xml:id="bahnsen210-reference" corresp="bahnsen210">
             <title>G&#xF6;ttliches Wunder-Buch : Darinnen auffgezeichnet und geschrieben stehen/ I. Himlische Offenbahrungen und Gesichte/ einer gottf&#xFC;rchtigen Jungfrawen au&#xDF; B&#xF6;hmen/ vom Zustand der Christlichen Kirchen ... II. Propheceyungen/ Klagreden/ und ernstliche Bu&#xDF;vermahnungen/ eines frommen Christlichen M&#xE4;gdleins zu Cottbus in NiederLausitz. III. Christliche Spr&#xFC;che/ und schrifftm&#xE4;&#xDF;ige/ geistreiche Reden/ einer gottsehligen Jungfrawen/ im F&#xFC;rstlichen Frawenzimmer zu Stettin in Pommern ; Erstlich eintzelen au&#xDF;gangen/ an jetzo aber zusammen getragen ...</title>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1630">1630</date>
             <idno type="VD17">23:250871Z</idno>
@@ -8455,7 +8405,7 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
             <author>
               <rs type="person" key="gnd_118519565">Ch&#xE2;teillon, S&#xE9;bastien</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1613">1613</date>
             <idno type="STCN">860293467</idno>
@@ -8549,7 +8499,7 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
           </bibl>
           <bibl xml:id="bahnsen221-reference" corresp="bahnsen221">
             <title>Geistliche Erk&#xE4;ntn&#xFC;s Gottes von Innen des Geistes herau&#xDF; in die &#xE4;usserliche Sinnen gef&#xFC;hret, andere schlaffende Sinnen dadurch auffzuwecken und solche Erk&#xE4;ntn&#xFC;s durch Zur&#xFC;ckf&#xFC;hrung der Sinnen in ihrem Geist empfindlich zu machen</title>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1656">1656</date>
             <idno type="SBB">402401840</idno>
@@ -8560,7 +8510,6 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
               <rs type="person" key="gnd_118530666">Erasmus, Desiderius</rs>
             </author>
             <date when="1645">1645</date>
-            <idno type="STCN">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen223-reference" corresp="bahnsen223">
             <title>Vande vryheydt der secten, hoe schadelijck deselve zij: tot nadeel der [...] gemeynte Godes</title>
@@ -8653,7 +8602,7 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
             <editor>
               <rs type="person" key="gnd_118504134">Arndt, Johann</rs>
             </editor>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1642">1642</date>
             <idno type="VD17">23:281828K</idno>
@@ -8663,7 +8612,7 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
             <author>
               <rs type="person" key="gnd_118612190">Schwenckfeld, Caspar</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1584">1584</date>
             <idno type="VD16">S 5015</idno>
@@ -8676,14 +8625,12 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
             <editor>
               <rs type="person" key="gnd_118612190">Schwenckfeld, Caspar</rs>
             </editor>
-            <idno type="GBV">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen233-reference" corresp="bahnsen233">
             <title>Von der Sund und Gnad Adam und Christo</title>
             <author>
               <rs type="person" key="gnd_118612190">Schwenckfeld, Caspar</rs>
             </author>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen234-reference" corresp="bahnsen234">
             <title>Dialogus tusschen Peter unde Jan ... Dat die Letterlijcke Schrift (het Manna verghelijckt sijnde) niet na die Boeckstaf ghenomen ...</title>
@@ -8704,7 +8651,7 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
             <author>
               <rs type="person" key="gnd_104279850">Joris, David</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1610">[ca. 1610]</date>
             <idno type="GBV">150384157</idno>
@@ -8714,7 +8661,7 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
             <author>
               <rs type="person" key="gnd_104279850">Joris, David</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1610">[ca. 1610]</date>
             <idno type="GBV">150384157</idno>
@@ -8724,7 +8671,7 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
             <author>
               <rs type="person" key="gnd_104279850">Joris, David</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1610">[ca. 1610]</date>
             <idno type="GBV">150384157</idno>
@@ -8734,7 +8681,7 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
             <author>
               <rs type="person" key="gnd_104279850">Joris, David</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1610">[ca. 1610]</date>
             <idno type="GBV">150384157</idno>
@@ -8752,7 +8699,6 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
             </pubPlace>
             <publisher>Stern, Heinrich</publisher>
             <date when="1662">1662</date>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen241-reference" corresp="bahnsen241">
             <title>Schatz der Himlischen Wei&#xDF;heit/ Oder Christenthumb des Hocherleuchten Apostels S. Pauli nach der edlen und geistreichen Epistel an die R&#xF6;mer : darin die H&#xE4;uptsumma der gantzen Christlichen Lehre/ au&#xDF; hohem Liecht und Geist wird beschrieben / Au&#xDF; G&#xF6;ttlichem Liecht erkl&#xE4;ret und ... ans Liecht gegeben ... Durch Paulum Egardum der Kirchen Christi zu Nordorff in Hollstein Pastorn</title>
@@ -8784,7 +8730,6 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
             <author>
               <rs type="person" key="gnd_118504134">Arndt, Johann</rs>
             </author>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen245-reference" corresp="bahnsen245">
             <title>Een Geestelijck Liedt, van De acht Saligheden.</title>
@@ -8917,7 +8862,7 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
             <author>
               <rs type="person" key="gnd_121145905">Hoburg, Christian</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1644">1644</date>
             <idno type="VD17">12:193234N</idno>
@@ -8927,7 +8872,7 @@ Zu Ende ist mit angehencket eine kurtze erinnerung von der Pragerischen Predigt 
             <author>
               <rs type="person" key="gnd_121145905">Hoburg, Christian</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1653">1653</date>
             <idno type="VD17">1:073245T</idno>
@@ -8972,7 +8917,6 @@ Nebenst beygef&#xFC;gtem Extract etlicher wunderlichen Newen Offenbahrungen/ ang
               <rs type="place" key="getty_7006952">Amsterdam</rs>
             </pubPlace>
             <date when="1664">1664</date>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen261-reference" corresp="bahnsen261">
             <title>G&#xF6;ttliche Offenbahrungen/ So einem Einf&#xE4;ltigen frommen Mann/ Christoph Kottern, &#x2026;</title>
@@ -8986,7 +8930,6 @@ Nebenst beygef&#xFC;gtem Extract etlicher wunderlichen Newen Offenbahrungen/ ang
               <rs type="place" key="getty_7006952">Amsterdam</rs>
             </pubPlace>
             <date when="1664">1664</date>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen262-reference" corresp="bahnsen262">
             <title>Rath- und Trostschildlein</title>
@@ -9045,14 +8988,13 @@ Nebenst beygef&#xFC;gtem Extract etlicher wunderlichen Newen Offenbahrungen/ ang
             <author>
               <rs type="person" key="gnd_119009137">Chytr&#xE4;us, David</rs>
             </author>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen268-reference" corresp="bahnsen268">
             <title>Sacerdotium, Hoc Est, New-Testamentisches K&#xF6;nigliches Priesterthumb/ au&#xDF; dem Typischen fleissig herau&#xDF; gesucht/ und unserm fast Priester-losem Christenthumb zum Unterricht und Nutzen auffgesetzet / Von Joachimo Betkio ...</title>
             <author>
               <rs type="person" key="gnd_119160242">Betke, Joachim</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1640">1640</date>
             <idno type="VD17">3:306035X</idno>
@@ -9062,14 +9004,13 @@ Nebenst beygef&#xFC;gtem Extract etlicher wunderlichen Newen Offenbahrungen/ ang
             <author>
               <rs type="person" key="gnd_119160242">Betke, Joachim</rs>
             </author>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen270-reference" corresp="bahnsen270">
             <title>Irenicum, Das ist/ Trewhertzige Vermahnunge/ an das gantze Christen-Volck/ von dem gegenw&#xE4;rtigen T&#xFC;rckischen Kriegen ... abzustehen : Dargegen aber in Liebe und Friede ... unter sich zuleben ... / Durch Einen Friedw&#xFC;ndschenden Evangelischen Predigern verfertiget</title>
             <author>
               <rs type="person" key="gnd_119160242">Betke, Joachim</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1644">1644</date>
             <idno type="VD17">23:638688L</idno>
@@ -9087,14 +9028,13 @@ Nebenst beygef&#xFC;gtem Extract etlicher wunderlichen Newen Offenbahrungen/ ang
             </pubPlace>
             <publisher>Cunradus, Christoffel</publisher>
             <date when="1660">1660</date>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen272-reference" corresp="bahnsen272">
             <title>Fortitudo Pacis, Nach Dem wahren Reiche Christi Jesu/ Im Krieg de&#xDF; Friedens/ So Einem jeglichen Christlichen Ritter ein geruhiges Gewissen geb&#xE4;ren kan / Gestellet und an den Tag gegeben Durch Beatum Ioachimi, Predigern zu Lambspringe</title>
             <author>
               <rs type="person" key="gnd_119160242">Betke, Joachim</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1640">1640</date>
             <idno type="VD17">3:306033G</idno>
@@ -9108,7 +9048,6 @@ Nebenst beygef&#xFC;gtem Extract etlicher wunderlichen Newen Offenbahrungen/ ang
               <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Egenolff, Christian d.&#xC4;.</publisher>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen274-reference" corresp="bahnsen274">
             <title>Een seer schoon tractaet of onderwijs v&#x101; menigerley aert der menschen vianden</title>
@@ -9139,7 +9078,7 @@ Nebenst beygef&#xFC;gtem Extract etlicher wunderlichen Newen Offenbahrungen/ ang
             <author>
               <rs type="person" key="gnd_118786105">Niclaes, Heinrich</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1580">1580</date>
             <idno type="STCN">302306854</idno>
@@ -9162,7 +9101,6 @@ Nebenst beygef&#xFC;gtem Extract etlicher wunderlichen Newen Offenbahrungen/ ang
               <rs type="person" key="gnd_118530666">Erasmus, Desiderius</rs>
             </editor>
             <date when="1551">1551</date>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen279-reference" corresp="bahnsen279">
             <title>Testamentum novum &lt;lat.&gt;</title>
@@ -9170,7 +9108,6 @@ Nebenst beygef&#xFC;gtem Extract etlicher wunderlichen Newen Offenbahrungen/ ang
               <rs type="person" key="gnd_118530666">Erasmus, Desiderius</rs>
             </editor>
             <date when="1551">1551</date>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen280-reference" corresp="bahnsen280">
             <title>Testamentum novum &lt;lat.&gt;</title>
@@ -9178,7 +9115,6 @@ Nebenst beygef&#xFC;gtem Extract etlicher wunderlichen Newen Offenbahrungen/ ang
               <rs type="person" key="gnd_118530666">Erasmus, Desiderius</rs>
             </editor>
             <date when="1551">1551</date>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen281-reference" corresp="bahnsen281">
             <title>Testamentum novum &lt;lat.&gt;</title>
@@ -9186,7 +9122,6 @@ Nebenst beygef&#xFC;gtem Extract etlicher wunderlichen Newen Offenbahrungen/ ang
               <rs type="person" key="gnd_118530666">Erasmus, Desiderius</rs>
             </editor>
             <date when="1551">1551</date>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen282-reference" corresp="bahnsen282">
             <title>Testamentum novum &lt;lat.&gt;</title>
@@ -9194,14 +9129,12 @@ Nebenst beygef&#xFC;gtem Extract etlicher wunderlichen Newen Offenbahrungen/ ang
               <rs type="person" key="gnd_118530666">Erasmus, Desiderius</rs>
             </editor>
             <date when="1551">1551</date>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen284-reference" corresp="bahnsen284">
             <title>Lexicon Hebraicum et Chaldaicum</title>
             <author>
               <rs type="person" key="gnd_119354780">Buxtorf, Johann</rs>
             </author>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen285-reference" corresp="bahnsen285">
             <title>Apolinariu Metaphrasis Tu Psalt&#x113;ros, Dia stich&#x14D;n h&#x113;r&#x14D;&#xEF;k&#x14D;n</title>
@@ -9242,7 +9175,7 @@ Nebenst beygef&#xFC;gtem Extract etlicher wunderlichen Newen Offenbahrungen/ ang
             <author>
               <rs type="person" key="gnd_104279850">Joris, David</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1546">[ca. 1546]</date>
             <idno type="STCN">860914593</idno>
@@ -9252,7 +9185,7 @@ Nebenst beygef&#xFC;gtem Extract etlicher wunderlichen Newen Offenbahrungen/ ang
             <author>
               <rs type="person" key="gnd_104279850">Joris, David</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1546">[ca. 1546]</date>
             <idno type="STCN">860914771</idno>
@@ -9262,7 +9195,7 @@ Nebenst beygef&#xFC;gtem Extract etlicher wunderlichen Newen Offenbahrungen/ ang
             <author>
               <rs type="person" key="gnd_104279850">Joris, David</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1546">[ca. 1546]</date>
             <idno type="STCN">860914593</idno>
@@ -9276,7 +9209,6 @@ Nebenst beygef&#xFC;gtem Extract etlicher wunderlichen Newen Offenbahrungen/ ang
               <rs type="place" key="getty_7005289">Hamburg</rs>
             </pubPlace>
             <date when="1624">1624</date>
-            <idno type="VD17">Ausgabe nicht nachweisbar</idno>
           </bibl>
           <bibl xml:id="bahnsen292-reference" corresp="bahnsen292">
             <title>Aureoli Theophrasti Paracelsi a Bombast, in Hohenheim/ de&#xDF; Edlen und hochber&#xFC;mbten Philosophi: Kleine Handt-Bibel und Einf&#xFC;hrung/ oder Lehr zum Ewigen Leben de&#xDF; Herrn Jesu Christi : In welcher alle Sch&#xE4;tze der Himmlischen Wei&#xDF;heit under den verborgenen verdeckten Reden der heyligen Schrifft/ ans Liecht gef&#xFC;hrt ... Beneben Christlicher best&#xE4;ndiger Bek&#xE4;ndnu&#xDF; un[d] Lehre ... wider die unr&#xFC;hige Clamanten und verl&#xE4;umbder zu befinden ... / Menniglichen au&#xDF; des Authoris ... Schrifften ... zu Nutz an Tag gegeben Durch Herrn Johan Th&#xF6;lden/ Hessum, &amp;c.</title>
@@ -9320,7 +9252,6 @@ Nebenst beygef&#xFC;gtem Extract etlicher wunderlichen Newen Offenbahrungen/ ang
             <author>
               <rs type="person" key="gnd_100258352">Platz, Conrad Wolfgang</rs>
             </author>
-            <idno type="GBV">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen297-reference" corresp="bahnsen297">
             <title>MYSTERIVM || Das ist/|| Geheimnis S. Pauli R#[oe]m.|| am II. Von bekehrung der Juden/|| au&#xDF;gelegt vnd geprediget zu Stra&#xDF;=||burg im M#[ue]nster.|| Durch || M. Eliam Schadeum Ecclesia=||stem vnd Professorem.|| Sampt andern gleiches Jnhalts || nutzlichen Materien.|| So dann auch einem gewissen Be=||richt/ Von der Juden Teutsch=||Hebreischen Schrifft.||</title>
@@ -9388,7 +9319,7 @@ Nebenst beygef&#xFC;gtem Extract etlicher wunderlichen Newen Offenbahrungen/ ang
             <author>
               <rs type="person" key="gnd_105550303X">Barendtsz, Arent</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1611">1611</date>
             <idno type="STCN">108867935</idno>
@@ -9398,7 +9329,7 @@ Nebenst beygef&#xFC;gtem Extract etlicher wunderlichen Newen Offenbahrungen/ ang
             <author>
               <rs type="person" key="gnd_105550303X">Barendtsz, Arent</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1611">1611</date>
             <idno type="STCN">108867935</idno>
@@ -9408,14 +9339,14 @@ Nebenst beygef&#xFC;gtem Extract etlicher wunderlichen Newen Offenbahrungen/ ang
             <author>
               <rs type="person" key="gnd_105550303X">Barendtsz, Arent</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1611">1611</date>
             <idno type="STCN">108867935</idno>
           </bibl>
           <bibl xml:id="bahnsen306-reference" corresp="bahnsen306">
             <title>Feld-Prediger/ oder Sieben Christliche Feld-Predigten : vor dieser Zeit von N. N. einem alten Feldt-Prediger gehalten/ im Feld-L&#xE4;ger zu N. N. bi&#xDF;hero niemalen an Tag kommen ; Allen Generalen/ Obristen/ Hauptleuthen/ Soldaten/ Feldt-Predigern und andern Personen zum Underricht ...</title>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1645">1645</date>
             <idno type="VD17">23:638643W</idno>
@@ -9516,7 +9447,7 @@ Nebenst beygef&#xFC;gtem Extract etlicher wunderlichen Newen Offenbahrungen/ ang
             <author>
               <rs type="person" key="gnd_105550303X">Barendtsz, Arent</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1574">1574</date>
             <idno type="GBV">151199388</idno>
@@ -9555,7 +9486,6 @@ Nebenst beygef&#xFC;gtem Extract etlicher wunderlichen Newen Offenbahrungen/ ang
             </pubPlace>
             <publisher>Jacob, Cyriacus</publisher>
             <date when="1550">1550</date>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen322-reference" corresp="bahnsen322">
             <title>Nun volgt von dem grewlichen laster der Trunckenheit, so in disen letsten zeytten: erst schier mit den Frantzosen auffkommen, was f&#xFC;llerey, sauffen, unnd zutrincken, f&#xFC;r jamer ... mit sich bringt, unnd wie dem &#xFC;bel zu rathen were, gr&#xFC;ndtlicher bericht und ratschlag, au&#xDF; G&#xF6;ttlicher geschrifft</title>
@@ -9574,7 +9504,6 @@ Nebenst beygef&#xFC;gtem Extract etlicher wunderlichen Newen Offenbahrungen/ ang
             <author>
               <rs type="person" key="gnd_118502883">Andre&#xE4;, Johann Valentin</rs>
             </author>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen326-reference" corresp="bahnsen326">
             <title>Mori&#xE6; encomion, dat is: Eenen loff der sotheyt</title>
@@ -9603,7 +9532,6 @@ Nebenst beygef&#xFC;gtem Extract etlicher wunderlichen Newen Offenbahrungen/ ang
           <bibl xml:id="bahnsen328-reference" corresp="bahnsen328">
             <title>Testamenta duodecim patriarcharum &lt;dt.&gt;</title>
             <date when="1615">1615</date>
-            <idno type="STCN">Ausgabe nicht nachweisbar</idno>
           </bibl>
           <bibl xml:id="bahnsen329-reference" corresp="bahnsen329">
             <title>Bonum nuncium Israeli, quod offertur populo Israel &amp; Iud&#xE6; in hisce temporibus novissimis de Messiah</title>
@@ -9631,7 +9559,7 @@ Nebenst beygef&#xFC;gtem Extract etlicher wunderlichen Newen Offenbahrungen/ ang
             <editor>
               <rs type="person" key="gnd_118521691">Comenius, Johann Amos</rs>
             </editor>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1663">1663</date>
             <idno type="VD17">23:277806D</idno>
@@ -9650,7 +9578,7 @@ Nebenst beygef&#xFC;gtem Extract etlicher wunderlichen Newen Offenbahrungen/ ang
             <editor>
               <rs type="person" key="gnd_118521691">Comenius, Johann Amos</rs>
             </editor>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1663">1663</date>
             <idno type="VD17">23:277806D</idno>
@@ -9708,7 +9636,7 @@ Nebenst beygef&#xFC;gtem Extract etlicher wunderlichen Newen Offenbahrungen/ ang
             <author>
               <rs type="person" key="gnd_123043921">Friedrich, Daniel</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1623">1623</date>
             <idno type="VD17">23:647894W</idno>
@@ -9718,7 +9646,6 @@ Nebenst beygef&#xFC;gtem Extract etlicher wunderlichen Newen Offenbahrungen/ ang
             <author>
               <rs type="person" key="gnd_118575449">Luther, Martin</rs>
             </author>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen338-reference" corresp="bahnsen338">
             <title>Miqweh Yisra&#x2BE;el hoc est, Spes Israelis.</title>
@@ -9735,17 +9662,14 @@ Nebenst beygef&#xFC;gtem Extract etlicher wunderlichen Newen Offenbahrungen/ ang
           <bibl xml:id="bahnsen339-reference" corresp="bahnsen339">
             <title>Testamenta duodecim patriarcharum &lt;dt.&gt;</title>
             <date when="1615">1615</date>
-            <idno type="STCN">Ausgabe nicht nachweisbar</idno>
           </bibl>
           <bibl xml:id="bahnsen340-reference" corresp="bahnsen340">
             <title>Testamenta duodecim patriarcharum &lt;dt.&gt;</title>
             <date when="1615">1615</date>
-            <idno type="STCN">Ausgabe nicht nachweisbar</idno>
           </bibl>
           <bibl xml:id="bahnsen341-reference" corresp="bahnsen341">
             <title>Testamenta duodecim patriarcharum &lt;dt.&gt;</title>
             <date when="1615">1615</date>
-            <idno type="STCN">Ausgabe nicht nachweisbar</idno>
           </bibl>
           <bibl xml:id="bahnsen342-reference" corresp="bahnsen342">
             <title>Preuve des visions, c'est &#xE0; dire sentiment chrestien appug&#xE9; de la parole de Dieu, &amp; des &#xE9;crits des th&#xE9;ologiens orthodoxes</title>
@@ -9775,21 +9699,18 @@ Nebenst beygef&#xFC;gtem Extract etlicher wunderlichen Newen Offenbahrungen/ ang
               <rs type="person" key="gnd_118530666">Erasmus, Desiderius</rs>
             </author>
             <date when="1522">1522</date>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen345-reference" corresp="bahnsen345">
             <title>De libero arbitrio</title>
             <author>
               <rs type="person" key="gnd_118530666">Erasmus, Desiderius</rs>
             </author>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen346-reference" corresp="bahnsen346">
             <title>De servo arbitrio</title>
             <author>
               <rs type="person" key="gnd_118575449">Luther, Martin</rs>
             </author>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen347-reference" corresp="bahnsen347">
             <title>D. Johann Habermans Gebetbuch : Das letzte mal von jhm verbessert/ in sechs Wochen/ neben dem Catechismo und heiligen Schrifft Spr&#xFC;chen ... / abgetheilet und in Ordnung gebracht Durch M. Jacob Zadern ... Mit einer Vorrede Herrn Doctoris Friderici Balduini ...</title>
@@ -9931,14 +9852,12 @@ Nebenst beygef&#xFC;gtem Extract etlicher wunderlichen Newen Offenbahrungen/ ang
               <rs type="place" key="getty_7004446">K&#xF6;ln</rs>
             </pubPlace>
             <date when="1525">1525</date>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen365-reference" corresp="bahnsen365">
             <title>Evangelia et epistolae</title>
             <author>
               <rs type="person" key="gnd_118530666">Erasmus, Desiderius</rs>
             </author>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen366-reference" corresp="bahnsen366">
             <title>Precatio dominica in septem portiones distributa</title>
@@ -9949,7 +9868,6 @@ Nebenst beygef&#xFC;gtem Extract etlicher wunderlichen Newen Offenbahrungen/ ang
               <rs type="place" key="getty_7007269">Basel</rs>
             </pubPlace>
             <date when="1523">1523</date>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen367-reference" corresp="bahnsen367">
             <title>Opus Quadragesimale</title>
@@ -9958,7 +9876,6 @@ Nebenst beygef&#xFC;gtem Extract etlicher wunderlichen Newen Offenbahrungen/ ang
               <rs type="place" key="getty_7008038">Paris</rs>
             </pubPlace>
             <publisher>Petit, Jean  I.</publisher>
-            <idno type="GBV">Ausgabe nicht nachweisbar</idno>
           </bibl>
           <bibl xml:id="bahnsen368-reference" corresp="bahnsen368">
             <title>IN APOCA-||LYPSIM D. IOAN.|| APOSTOLI COMMENTA-||RIVS ALFONSI CONRA-||DI MANTVANI.|| ... ||</title>
@@ -10028,7 +9945,6 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
             <author>
               <rs type="person" key="gnd_118731440">Maruli&#x107;, Marko</rs>
             </author>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen375-reference" corresp="bahnsen375">
             <title>Secvndvs Liber Moysi, Qvi Inscribitvr Exodvs</title>
@@ -10048,14 +9964,12 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
               <rs type="person" key="gnd_118517287">Bugenhagen, Johannes</rs>
             </author>
             <date when="1524">1524</date>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen378-reference" corresp="bahnsen378">
             <title>Annotationes ... in epistolas Pauli</title>
             <author>
               <rs type="person" key="gnd_118517287">Bugenhagen, Johannes</rs>
             </author>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen379-reference" corresp="bahnsen379">
             <title>Mystica et prophetica libri Levitici interpretatio</title>
@@ -10074,7 +9988,7 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
             <author>
               <rs type="person" key="gnd_104279850">Joris, David</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1614">1614</date>
             <idno type="STCN">108868621</idno>
@@ -10112,7 +10026,7 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
             <author>
               <rs type="person" key="gnd_143047809">Aken, Jacobus van</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1604">1604</date>
             <idno type="GBV">627425186</idno>
@@ -10160,7 +10074,6 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
           <bibl xml:id="bahnsen390-reference" corresp="bahnsen390">
             <title>Ein frage des gantzen heiligen Ordens der Kartenspieler vom Karn&#xF6;ffel an das Concilium zu Mantua</title>
             <date when="1537">1537</date>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen391-reference" corresp="bahnsen391">
             <title>Den Sack met die stucken voor den Paus van Roomen, syn Cardinalen, Bisschoppen, Abten, Monincken, en&#x303; Meesters vande Sorbonne. Mitsgaders syn geboorte doop, ende gheboden. Teghens Iesum Christum ... syne Kercke, etc.</title>
@@ -10176,16 +10089,14 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
             <author>
               <rs type="person" key="gnd_100163920">Herxheimer, Bernhard</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <date when="1554">1554</date>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen393-reference" corresp="bahnsen393">
             <title>Die Weissagung Johannis Liechtenbergers</title>
             <author>
               <rs type="person" key="gnd_104247843">Lichtenberger, Johannes</rs>
             </author>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen395-reference" corresp="bahnsen395">
             <title>Onder verbeteringhe Die verantwoordinghe oft ontschuldinghe &#x2026;</title>
@@ -10286,7 +10197,7 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
             <author>
               <rs type="person" key="gnd_118855050">Frankenberg, Abraham von</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1646">1646</date>
             <idno type="VD17">7:709625V</idno>
@@ -10296,7 +10207,6 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
             <author>
               <rs type="person" key="gnd_118575449">Luther, Martin</rs>
             </author>
-            <idno type="GBV">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen406-reference" corresp="bahnsen406">
             <title>Der Prophet Zacharias, ausgelegt durch Martin Luther</title>
@@ -10322,7 +10232,6 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
             <author>
               <rs type="person" key="gnd_128505672">G&#xFC;hler, Martin</rs>
             </author>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen409-reference" corresp="bahnsen409">
             <title>De Heerlickheydt en Heyl Van Jehuda En Israel : Zijnde Een Tractaet, streckende tot Vereeniginge der Jooden en Christenen ... mits aenwijsende, hoe sy beyde in veele fundamentele grond-stucken der Religie, insonderheydt noopende den Messiam, eens zijn ... / Betuyght, in 't Engelsch, Door Henry Jesse, Genaemt een Christen-Predikant tot Londen</title>
@@ -10390,7 +10299,6 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
               <rs type="place" key="getty_4007173">Middelburg</rs>
             </pubPlace>
             <date when="1599">1599</date>
-            <idno type="STCN">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen414-reference" corresp="bahnsen414">
             <title>Grondelicke onderrichtinghe, vande leere ende den geest des hooftketters, David Ioris.</title>
@@ -10404,7 +10312,6 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
               <rs type="place" key="getty_4007173">Middelburg</rs>
             </pubPlace>
             <date when="1599">1599</date>
-            <idno type="STCN">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen415-reference" corresp="bahnsen415">
             <title>Den Wech des levens : en gheestelyc boexken(...) ghemaeckt bij den prior van der Carthuser &#x2026;</title>
@@ -10426,7 +10333,6 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
             <author>
               <rs type="person" key="gnd_104279850">Joris, David</rs>
             </author>
-            <idno type="GBV">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen418-reference" corresp="bahnsen418">
             <title>Eene drie-voudighe resolutie, seer nootwendich ter saligheyt.</title>
@@ -10450,7 +10356,6 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
             </pubPlace>
             <publisher>Pr&#xFC;ss, Johann d.J.</publisher>
             <date when="1529">1529</date>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen420-reference" corresp="bahnsen420">
             <title>Hier beghint een schoon boeck en&#x304; is gheheten die (ver)troestinghe der ghelatenre menschen</title>
@@ -10479,7 +10384,6 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
               <rs type="person" key="gnd_123032326">Prieele, Gilles vanden</rs>
             </author>
             <date when="1568">1568</date>
-            <idno type="BVB">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen423-reference" corresp="bahnsen423">
             <title>Das Newe Testament unsers Herrn Jesu Christi / verteutschet durch D. Martin Luther</title>
@@ -10522,7 +10426,7 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
             <author>
               <rs type="person" key="gnd_118512579">B&#xF6;hme, Jakob</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1635">1635</date>
             <idno type="VD17">12:104679Y</idno>
@@ -10532,7 +10436,7 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
             <author>
               <rs type="person" key="gnd_118512579">B&#xF6;hme, Jakob</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1631">1631</date>
             <idno type="VD17">12:104668K</idno>
@@ -10542,7 +10446,7 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
             <author>
               <rs type="person" key="gnd_118512579">B&#xF6;hme, Jakob</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1631">1631</date>
             <idno type="VD17">12:104668K</idno>
@@ -10602,7 +10506,7 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
             <author>
               <rs type="person" key="gnd_118512579">B&#xF6;hme, Jakob</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1639">1639</date>
             <idno type="VD17">12:104604Q</idno>
@@ -10615,7 +10519,7 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
             <editor>
               <rs type="person" key="gnd_118855050">Frankenberg, Abraham von</rs>
             </editor>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1639">[1639]</date>
             <idno type="VD17">12:105163Y</idno>
@@ -10625,7 +10529,7 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
             <author>
               <rs type="person" key="gnd_13016853X">Sclei, Bartholomaeus</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1639">1639</date>
             <idno type="VD17">12:105160A</idno>
@@ -10642,7 +10546,7 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
             <author>
               <rs type="person" key="gnd_118512579">B&#xF6;hme, Jakob</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1639">1639</date>
             <idno type="VD17">12:104604Q</idno>
@@ -10652,14 +10556,12 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
             <author>
               <rs type="person" key="gnd_118512579">B&#xF6;hme, Jakob</rs>
             </author>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen439-reference" corresp="bahnsen439">
             <title>Der Weg zu Christo. Jn Zweyen B&#xFC;chlein. Das erste Von Wahrer Busse/ ... Das ander Von Wahrer Gelassenheit ...</title>
             <author>
               <rs type="person" key="gnd_118512579">B&#xF6;hme, Jakob</rs>
             </author>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen440-reference" corresp="bahnsen440">
             <title>Antichristentumb / [Joachim Betke]. Durch Benedictum Bahnsen, Zum gemeinen Nutz in Druck befordert/ und ans liecht hervor gebracht</title>
@@ -10736,7 +10638,6 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
               <rs type="place" key="getty_7012346">Stra&#xDF;burg</rs>
             </pubPlace>
             <publisher>Lazarus Zetzner Erben</publisher>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen446-reference" corresp="bahnsen446">
             <title>D&#xE6;monologia ofte Verhandelinghe van de duyvelen ende tovenaers. Waer in gehandelt wert van haere maecht en on-macht</title>
@@ -10809,7 +10710,6 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
               <rs type="place" key="getty_7006952">Amsterdam</rs>
             </pubPlace>
             <publisher>Trigg, Joris</publisher>
-            <idno type="STCN">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen453-reference" corresp="bahnsen453">
             <title>Christlicher Ritter/ Das ist/ Wie ein jeder wahrer Christ/ unter dem Regiment und Siegsfahnen/ seines General Feldhauptmanns Jesu Christi/ wider die drey Hauptfeinde/ den Satan/ die Welt/ und sein eygen Fleisch/ t&#xE4;glich zu Feld ligen/ und denselben obsiegen mu&#xDF; / Vor nunmehr dann hundert Jahren/ von einem dieses Kriegs wolerfahrnen Helden/ auffgesetzt/ jetzt aber bey diesen kriegerischen Zeiten M&#xE4;nniglich zur Auffmunterung und Nachricht an Tag gegeben</title>
@@ -10837,14 +10737,14 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
             <author>
               <rs type="person" key="gnd_123879949">Schmalz, Valentin</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1629">1629</date>
             <idno type="GBV">250504685</idno>
           </bibl>
           <bibl xml:id="bahnsen456-reference" corresp="bahnsen456">
             <title>Baslerischer Bericht/ oder Hall: und Summarischer Gegenbericht/ oder WiderHall: Vom Ursprung der Streittigkeiten in ReligionsSachen Zwischen den Calvinischen und Lutherischen/ und worauff dieselben noch beruhen : Nunmehr uff gutachten und begehrn Evangelischer Theologen zusammen gedruckt ; Erstlich gedruckt zu Basel/ MDCXLI.</title>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1641">[ca. 1641]</date>
             <idno type="VD17">1:082029Y</idno>
@@ -10915,7 +10815,7 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
             <author>
               <rs type="person" key="gnd_121145905">Hoburg, Christian</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1648">1648</date>
             <idno type="VD17">7:702267K</idno>
@@ -10978,7 +10878,7 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
           <bibl xml:id="bahnsen467-reference" corresp="bahnsen467">
             <title>[Incipit:] Hier begint een suuerlic boecxken van die gheboortnisse ons heren Iesu christi. Als iohannes Gerson chancelier van parijs beschrijft op dat puntken Verbum caro factum est. Dat woort is vleysch geworden ende heeft gewonet in ons</title>
             <author>Gerson, Johannes</author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1500">[um 1500]</date>
             <idno type="STCN">107987015</idno>
@@ -11030,7 +10930,6 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
             <author>
               <rs type="person" key="gnd_100299393">Landsberg, Johannes Justus</rs>
             </author>
-            <idno type="STCN">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen474-reference" corresp="bahnsen474">
             <title>Monarchen-Spiegel/ Von dreyerley Reich ... : In drey unterschiedenen theilen betrachtet ... Zur trewen/ tewren und hochsten warnung an die gantze Welt ... / [Paul Felgenhauer]</title>
@@ -11068,7 +10967,6 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
           </bibl>
           <bibl xml:id="bahnsen477-reference" corresp="bahnsen477">
             <title>Des evangelischen Burgers Handb&#xFC;chlein</title>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen478-reference" corresp="bahnsen478">
             <title>Der wunderbahre und herrliche Tag des Menschen Sohnes</title>
@@ -11080,14 +10978,13 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
             </pubPlace>
             <publisher>Helt, Adolph</publisher>
             <date when="1641">1641</date>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen480-reference" corresp="bahnsen480">
             <title>Brust-Bild Der Liebe Jesu : Forgestellet An dem J&#xFC;nger/ welcher an Der Brust Jesu lag / Und erkl&#xE4;ret durch Augustin Fuhrma</title>
             <author>
               <rs type="person" key="gnd_129112658">Fuhrmann, Augustin</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1652">1652</date>
             <idno type="VD17">1:073299F</idno>
@@ -11136,7 +11033,7 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
             <author>
               <rs type="person" key="gnd_122146670">Gleichen, Erdmuthe Juliane von</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1624">1624</date>
             <idno type="VD17">3:607488L</idno>
@@ -11146,7 +11043,7 @@ Ausgabebezeichnung: FRANC. Apud Chr. Egenolphum.|| (Anno 1546.|| Mense Iunio.||)
             <author>
               <rs type="person" key="gnd_118580884">Simons, Menno</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>Zangers, Herman 't Steenwijk</publisher>
             <date when="1567">1567</date>
             <idno type="STCN">111406374</idno>
@@ -11158,7 +11055,7 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
             <author>
               <rs type="person" key="gnd_11568445X">Taube, Jakob</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1668">1668</date>
             <idno type="VD17">39:147398P</idno>
@@ -11180,7 +11077,7 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
             <author>
               <rs type="person" key="gnd_104279850">Joris, David</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1616">1616</date>
             <idno type="STCN">108915654</idno>
@@ -11190,7 +11087,7 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
             <author>
               <rs type="person" key="gnd_104279850">Joris, David</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1616">1616</date>
             <idno type="STCN">108915484</idno>
@@ -11200,7 +11097,7 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
             <author>
               <rs type="person" key="gnd_104279850">Joris, David</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1614">1614</date>
             <idno type="GBV">529596830</idno>
@@ -11210,7 +11107,7 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
             <author>
               <rs type="person" key="gnd_104279850">Joris, David</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1626">1626</date>
             <idno type="STCN">109620690</idno>
@@ -11220,7 +11117,7 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
             <author>
               <rs type="person" key="gnd_104279850">Joris, David</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1626">1626</date>
             <idno type="STCN">109620690</idno>
@@ -11230,7 +11127,7 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
             <author>
               <rs type="person" key="gnd_104279850">Joris, David</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1616">1616</date>
             <idno type="STCN">108915654</idno>
@@ -11240,7 +11137,7 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
             <author>
               <rs type="person" key="gnd_104279850">Joris, David</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1616">1616</date>
             <idno type="STCN">108915484</idno>
@@ -11250,7 +11147,7 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
             <author>
               <rs type="person" key="gnd_104279850">Joris, David</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1614">1614</date>
             <idno type="GBV">529596830</idno>
@@ -11260,7 +11157,7 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
             <author>
               <rs type="person" key="gnd_104279850">Joris, David</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1626">1626</date>
             <idno type="STCN">109620690</idno>
@@ -11271,7 +11168,6 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
               <rs type="person" key="gnd_124263488">Lobwasser, Ambrosius</rs>
             </author>
             <date when="1608">1608</date>
-            <idno type="GBV">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen500-reference" corresp="bahnsen500">
             <title>De cl Psalmen Des Propheten Davids, Met eenige andere Lof-Sangen: uyt den Franc&#x327;oyschen Dichte in Nederlandtschen overgeset door Petrum Dathenum</title>
@@ -11307,14 +11203,12 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
               <rs type="place" key="getty_7004334">N&#xFC;rnberg</rs>
             </pubPlace>
             <publisher>Gutknecht, Christoph</publisher>
-            <idno type="VD16">Ausgabe nicht nachweisbar</idno>
           </bibl>
           <bibl xml:id="bahnsen507-reference" corresp="bahnsen507">
             <title>Vermahnung an die Geistlichen, versammelt auf dem Reichstag zu Augsburg</title>
             <author>
               <rs type="person" key="gnd_118575449">Luther, Martin</rs>
             </author>
-            <idno type="VD16">Ausgabe nicht nachweisbar</idno>
           </bibl>
           <bibl xml:id="bahnsen508-reference" corresp="bahnsen508">
             <title>Testa||ment vnnd || Abschrifft der || zw#[oe]lff Patriar-||ch&#x1EBD; der Sun&#x1EBD; Jacobs || Wie ein jeder vor sein&#x113; || end/ seine Kinder gelert || zur forcht Gottes vnd || Gottseligem leben || vermant hat.|| #[et]c.||</title>
@@ -11364,7 +11258,7 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
             <author>
               <rs type="person" key="gnd_104279850">Joris, David</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1584">1584</date>
             <idno type="STCN">162373473</idno>
@@ -11386,7 +11280,7 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
             <author>
               <rs type="person" key="gnd_13016853X">Sclei, Bartholomaeus</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1639">1639</date>
             <idno type="VD17">12:105160A</idno>
@@ -11461,7 +11355,6 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
             </pubPlace>
             <publisher>Bohmberg, Nikolaus</publisher>
             <date when="1575">[ca. 1575]</date>
-            <idno type="VD16">Ausgabe nicht nachweisbar</idno>
           </bibl>
           <bibl xml:id="bahnsen521-reference" corresp="bahnsen521">
             <title>Dicta HN. Leerafftige Rede: also desulue van H N vth-gesproken/ vnde vth de Rede synes Mundes/ naegeschreuen zynt. Vnde zynt van Emoeuerseen/ vnde duedelicker vorklaret.</title>
@@ -11472,7 +11365,6 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
               <rs type="place" key="getty_7004446">K&#xF6;ln</rs>
             </pubPlace>
             <publisher>Bohmberg, Nikolaus</publisher>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen522-reference" corresp="bahnsen522">
             <title>Regale Sacerdotium, Das ist: Die hochn&#xF6;tige und zugleich anmutige heilsame Lehre/ Von dem geist- und k&#xF6;niglichem Priesterthumb : In dreyen Punct und Predigten/ als I. Da&#xDF; alle gl&#xE4;ubige Christen durch die Banck/ warhafftig geist- und k&#xF6;nigliche Priester/ und demnach hoch verpflichtet seyn ... 2. Worinn solch geistlich Priesterthum bestehe? ... 3. Und letztens: Von den wichtigen Motiven und Ursachen/ warumb &#xFC;beraus hoch von der Noth sey: Solch geistliches ... Priesterthum wieder ... in Schwang zu bringen? / In der Pfarrkirchen S. Wiperti zu Quedlinburg/ Anno Christi 1639. ... zum andern mal erkl&#xE4;ret und f&#xFC;rgetragen ... von M. Johann. Vilitz, Vorbemelter Kirchen daselbst Pastore Ordinario</title>
@@ -11496,7 +11388,6 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
             </pubPlace>
             <publisher>Horst, Peter</publisher>
             <date when="1572">1572</date>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen524-reference" corresp="bahnsen524">
             <title>R&#xF6;mischer Adler: oder die gottlose und tyrannische Obrigkeit</title>
@@ -11551,7 +11442,7 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
             <author>
               <rs type="person" key="gnd_123140269">Felgenhauer, Paul</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1654">1654</date>
             <idno type="VD17">23:681776E</idno>
@@ -11562,7 +11453,6 @@ Sampt einer Relation der wunderlichen Proceduren, so vorgemeldte Prediger mit ih
               <rs type="person" key="gnd_11873475X">Nicolai, Philipp</rs>
             </author>
             <date when="1597">1597</date>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen533-reference" corresp="bahnsen533">
             <title>Tractaet van &#x2019;t ampt der overheydt, dat is: of een christen gheoorloft zy het selve te bedienen / in &#x2019;t Lat&#x133;n gheschreven door Symon Episcopius ; in Nederduytsch vertaelt</title>
@@ -11717,7 +11607,6 @@ Darbey ein Schreiben vom Kriege/ an einen Leutenant ...</title>
             <title>Een silvere poort-clock</title>
             <author>Tymme, Thomas</author>
             <date when="1624">1624</date>
-            <idno type="STCN">Ausgabe nicht nachweisbar</idno>
           </bibl>
           <bibl xml:id="bahnsen550-reference" corresp="bahnsen550">
             <title>Historia Aristeae Des Griechen Von dem G&#xF6;ttlichen Gesetz (welches man das alte Testament nennet) Ist eine Sch&#xF6;ne unnd Herliche beschreibung/ wie dasselbige au&#xDF; Hebraischer sprache durch die zwey unnd siebentzig au&#xDF;leger in die Grigische sprache ist verwandelt worden / Durch Dr. Justinum Goblerum de Sanct Gwere V. I. D. Aus dem griegischen ins Teutsche gebracht</title>
@@ -11828,7 +11717,7 @@ Darbey ein Schreiben vom Kriege/ an einen Leutenant ...</title>
             <author>
               <rs type="person" key="gnd_100702236">Werdenhagen, Johann Angelius von</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1636">1636</date>
             <idno type="VD17">23:652008F</idno>
@@ -11838,7 +11727,7 @@ Darbey ein Schreiben vom Kriege/ an einen Leutenant ...</title>
             <author>
               <rs type="person" key="gnd_100702236">Werdenhagen, Johann Angelius von</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1636">1636</date>
             <idno type="VD17">23:652008F</idno>
@@ -11891,14 +11780,12 @@ Darbey ein Schreiben vom Kriege/ an einen Leutenant ...</title>
             <pubPlace>
               <rs type="place" key="getty_7007269">Basel</rs>
             </pubPlace>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen575-reference" corresp="bahnsen575">
             <title>Amphitheatrum Sapientiae Aeternae</title>
             <author>
               <rs type="person" key="gnd_119065681">Khunrath, Heinrich</rs>
             </author>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen576-reference" corresp="bahnsen576">
             <title>Sieben B&#xFC;cher von dem Feldbau oder vollkommener Bestellung eines ordenlichen Meierhofs oder Landguts</title>
@@ -11916,7 +11803,6 @@ Darbey ein Schreiben vom Kriege/ an einen Leutenant ...</title>
             </pubPlace>
             <publisher>Jobin, Bernhard</publisher>
             <date when="1580">1580</date>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen577-reference" corresp="bahnsen577">
             <title>ASTRONOMIA MAGNA:|| Oder || Die gantze Philoso||phia sagax der grossen || vnd kleinen Welt/ des von Gott || hocherleuchten/ erfahrnen/ vnd bewerten teutschen Phi=||losophi vnd Medici/ Philippi Theophrasti Bombast/|| genannt Paracelsi magni.|| Darinn er lehrt des gantzen nat#[ue]rlichen Liechts verm#[oe]=||gen/ vnd vnuerm#[oe]gen/ auch alle Philosophische/ vnd Astronomische ge=||heimnussen der grossen vnd kleinen Welt/ vnd deren rechten brauch ... || Vor nie in Truck au&#xDF;gangen.||[Hrsg.v.(Michael Toxites || Medicus Argen=||toratensis.||)]</title>
@@ -11939,7 +11825,7 @@ Darbey ein Schreiben vom Kriege/ an einen Leutenant ...</title>
             <author>
               <rs type="person" key="gnd_117080632">M&#xF6;gling, Daniel</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1618">1618</date>
             <idno type="VD17">23:000232K</idno>
@@ -11953,7 +11839,6 @@ Darbey ein Schreiben vom Kriege/ an einen Leutenant ...</title>
               <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Tampach, Gottfried</publisher>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen580-reference" corresp="bahnsen580">
             <title>Medulla Destillatoria Et Medica tertium aucta &amp; renovata. Das ist: Gr&#xFC;ndliches und vielbewehrtes Destillier und ArtzneyBuch : darinnen begriffen/ wie der Spiritus Vini, durch mittel seines hinter ihm verlassenen Saltzes/ ... zur h&#xF6;chsten exaltation gebracht: ... und in allerhand ... Gebrechen und Kranckheiten heylsamlich gebraucht werden
@@ -11980,21 +11865,18 @@ Mit besonderm flei&#xDF; ... colligirt, Jetzo aber auffs newe zum Dritten mahl t
               <rs type="place" key="getty_7006952">Amsterdam</rs>
             </pubPlace>
             <publisher>Danckertsz, Cornelis</publisher>
-            <idno type="STCN">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen582-reference" corresp="bahnsen582">
             <title>Basilia Chymica</title>
             <author>
               <rs type="person" key="gnd_118522833">Croll, Oswald</rs>
             </author>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen583-reference" corresp="bahnsen583">
             <title>Osvaldi Crollii Tractatus, De Signaturis Internis Rerum</title>
             <author>
               <rs type="person" key="gnd_118522833">Croll, Oswald</rs>
             </author>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen584-reference" corresp="bahnsen584">
             <title>Pinax microcosmographicvs in quo certissimum anatomi&#xE6; compendium proponitur [...]. = D'ontleedingh des kleyne werelds</title>
@@ -12005,21 +11887,18 @@ Mit besonderm flei&#xDF; ... colligirt, Jetzo aber auffs newe zum Dritten mahl t
               <rs type="place" key="getty_7006952">Amsterdam</rs>
             </pubPlace>
             <publisher>Danckertsz, Cornelis</publisher>
-            <idno type="STCN">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen585-reference" corresp="bahnsen585">
             <title>Basilia Chymica</title>
             <author>
               <rs type="person" key="gnd_118522833">Croll, Oswald</rs>
             </author>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen586-reference" corresp="bahnsen586">
             <title>Osvaldi Crollii Tractatus, De Signaturis Internis Rerum</title>
             <author>
               <rs type="person" key="gnd_118522833">Croll, Oswald</rs>
             </author>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen587-reference" corresp="bahnsen587">
             <title>Offenbarung G&#xF6;ttlicher Mayestat : Darinnen angezeygt wird/ Wie Gott der Herr Anf&#xE4;nglich/ sich allen seinen Gesch&#xF6;pffen/ mit Worten und Wercken geoffenbaret/ und wie Er alle seine Werck ... in kurtze Schrifft artlich verfa&#xDF;t/ und solches alles dem Ersten Menschen ... uberreycht ... / [Egidius Guetman]</title>
@@ -12092,7 +11971,6 @@ Mit besonderm flei&#xDF; ... colligirt, Jetzo aber auffs newe zum Dritten mahl t
             </pubPlace>
             <publisher>Hans Steinmann Erben</publisher>
             <date when="1588">1588</date>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen592-reference" corresp="bahnsen592">
             <title>Levini Lemnii Occulta naturae miracula = Wunderbarliche Geheimnisse der Natur in des Menschen Leibe und Seel/ auch in vielen andern nat&#xFC;rlichen dingen/ als Steinen/ Ertzt/ Gewechs und Thieren
@@ -12172,7 +12050,6 @@ Allen frommen Hau&#xDF;wirthen ... nicht allein aus dem Latein in Deutsche Sprac
             <publisher>Theodor de Bry der &#xC4;ltere Erben</publisher>
             <publisher>Becker, Matth&#xE4;us d.J.</publisher>
             <date when="1610">1610</date>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen599-reference" corresp="bahnsen599">
             <title>AVREVM VELLVS.|| Oder || G&#xFC;ldin Schatz vnd Kunstkammer.|| Darinnen der aller f&#xFC;rnemb=||sten/ f&#xFC;rtreffenlichsten/ ausserlesene=||sten/ herrlichsten vnd bewehrtesten Auctorum || Schrifften B&#xFC;cher/ aus dem gar vhralten Schatz || der ... || Reliquien ... der AEgyptiorum,|| Arabum/ Chaldaeorum &amp; Assyriorum,|| K&#xF6;nigen vnd Weysen.|| Von || Dem Edlen ... || Philosopho Salomone || Trismosino &lt;so des grossen Philosophi vnd Me=||dici Theophrasti Paracelsi Praeceptor gewesen&gt; in || sonderbare vnterschiedliche Tractetlein || disponirt/ vnd in das Deutsch || gebracht.|| Sampt andern Philosophischen/ alter vnnd || newer Scribenten ... Tractetlein ... || Durch einen der Kunst Liebhabern mit gros=||sem Kosten ... die Origi-||nalia vnd Handschrifften zusammen gebracht/|| vnd ... || an tag geben.||</title>
@@ -12192,7 +12069,6 @@ Allen frommen Hau&#xDF;wirthen ... nicht allein aus dem Latein in Deutsche Sprac
               <rs type="place" key="getty_7005289">Hamburg</rs>
             </pubPlace>
             <date when="1631">1631</date>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen601-reference" corresp="bahnsen601">
             <title>Dyas Chymica Tripartita, Das ist: Sechs Herrliche Teutsche Philosophische Tract&#xE4;tlein : Deren II. Von an itzo noch im Leben: II. Von mitlern Alters: und II. Von &#xE4;ltern Philosophis beschrieben worden / Nunmehr aber Allen Filiis Doctrinae zu Nutz an Tag geben/ und mit sch&#xF6;nen Figuren gezieret. Durch H. C. D.</title>
@@ -12313,7 +12189,6 @@ Und nun zum andern mahl etwas vermehret unnd gebessert / Durch Iustum Stengeln B
               <rs type="place" key="getty_7024031">Erfurt</rs>
             </pubPlace>
             <publisher>Birckner, Johann</publisher>
-            <idno type="VD17">Ausgabe nicht nachweisbar</idno>
           </bibl>
           <bibl xml:id="bahnsen613-reference" corresp="bahnsen613">
             <title>Das B&#x16F;ch || PARAMIRVM,|| Desz Ehrwirdigen Hocherfarnen || AVREOLI THEOPHRASTI || von Hohenheym/ Dari&#xF1; die ware || vrsachen der kranckheyten/ vnd || vollkomne Cur in k&#xFC;rtze erkleret || wird/ Allen Artzten n&#xFC;tzlich || vnnd notwendig.|| Mit angehencktem IVDITIO, treff=||licher Hochgeleerter Menner/ von den || Schrifften vnnd B&#xFC;chern de&#xDF; || the&#xFC;ren PHILOSOPHI || THEOPHRASTI PA-||RACELSI.|| Jnn Druck verfertiget durch || Adamen von Bodenstein.|| ... ||</title>
@@ -12583,7 +12458,6 @@ Sampt einem andern Tract&#xE4;tlin/ Von dem Schnee und Ey&#xDF; ...</title>
             </pubPlace>
             <publisher>Genath, Johann Jacob</publisher>
             <date when="1628">1628</date>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen635-reference" corresp="bahnsen635">
             <title>Coelum Philosophorum. Das ist: Heimligkeit der Natur : darinn nicht allein zu sehen/ wie man au&#xDF; Wein/ Metallen/ Fr&#xFC;chte[n]/ Wurtzeln und Kr&#xE4;utern/ [et]c. Quint. Essentiam k&#xFC;nstlich au&#xDF;ziehen/ Item das warhafftige Aurum potabile machen m&#xF6;ge: Sondern auch allerley geschwinde Handgriff/ zur Distillation sehr dienlich/ gelehrt und gewiesen werden / Durch Philippvm Vlstadivm, M. D.</title>
@@ -12620,7 +12494,6 @@ Sampt einem andern Tract&#xE4;tlin/ Von dem Schnee und Ey&#xDF; ...</title>
             </pubPlace>
             <publisher>Grosse, Henning d.&#xC4;.</publisher>
             <date when="1610">1610</date>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen639-reference" corresp="bahnsen639">
             <title>Appendix Primi Tomi Promptuarii Alchymiae; Das ist: Etliche alte Au&#xDF;erlesene Philosophische Schrifften und Tract&#xE4;tlein/ Vom Stein der Weisen/ so Lapis Philosophorum genennet wirdt</title>
@@ -12652,14 +12525,13 @@ Sampt einem andern Tract&#xE4;tlin/ Von dem Schnee und Ey&#xDF; ...</title>
               <rs type="person" key="gnd_119522403">Libavius, Andreas</rs>
             </author>
             <date when="1616">1616</date>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen643-reference" corresp="bahnsen643">
             <title>Speculum Constantiae: Das ist: Eine nohtwendige vermahnung an die jenige/ so ihre Namen bereits bey der heiligen/ gebenedeiten Fraternitet de&#xDF; Rosencreutzes angegeben/ da&#xDF; sie sich durch etlicher b&#xF6;se verkehrte Schrifften nicht irr lassen machen/ sondern vest halten/ und getrost stehn bleiben sollen : Mehrertheils auff den Tractat dessen Tittel: Speck auff der Fall [et]c. so wider diese Fraternitet au&#xDF;gangen gerichtet / Au&#xDF; sonderbahrem gehei&#xDF;/ unnd befelch hochgedachter Gesellschafft ad S. S. verfertiget durch ihren unwirdigen Notarium Germanicum Irenaeum Agnostum C. W. [i.e. Friedrich Grick]</title>
             <author>
               <rs type="person" key="gnd_122748646">Grick, Friedrich</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1618">1618</date>
             <idno type="VD17">12:110219Y</idno>
@@ -12684,7 +12556,7 @@ Sampt einem andern Tract&#xE4;tlin/ Von dem Schnee und Ey&#xDF; ...</title>
             <author>
               <rs type="person" key="gnd_122748646">Grick, Friedrich</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1617">1617</date>
             <idno type="VD17">14:050834S</idno>
@@ -12694,7 +12566,7 @@ Sampt einem andern Tract&#xE4;tlin/ Von dem Schnee und Ey&#xDF; ...</title>
             <author>
               <rs type="person" key="gnd_122748646">Grick, Friedrich</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1619">1619</date>
             <idno type="VD17">3:603977F</idno>
@@ -12704,7 +12576,7 @@ Sampt einem andern Tract&#xE4;tlin/ Von dem Schnee und Ey&#xDF; ...</title>
             <author>
               <rs type="person" key="gnd_122748646">Grick, Friedrich</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1619">1619</date>
             <idno type="VD17">3:603979W</idno>
@@ -12714,7 +12586,7 @@ Sampt einem andern Tract&#xE4;tlin/ Von dem Schnee und Ey&#xDF; ...</title>
             <author>
               <rs type="person" key="gnd_122748646">Grick, Friedrich</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1619">1619</date>
             <idno type="VD17">3:603981S</idno>
@@ -12724,14 +12596,14 @@ Sampt einem andern Tract&#xE4;tlin/ Von dem Schnee und Ey&#xDF; ...</title>
             <author>
               <rs type="person" key="gnd_129189731">Hilarion, Benedictus</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1622">1622</date>
             <idno type="VD17">3:300571U</idno>
           </bibl>
           <bibl xml:id="bahnsen657-reference" corresp="bahnsen657">
             <title>Fama Remissa Ad Fratres Roseae Crucis = Antwort Auff die Famam und Confessionem der L&#xF6;blichen Br&#xFC;derschafft vom RosenCreutz</title>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1616">1616</date>
             <idno type="VD17">23:241578N</idno>
@@ -12741,7 +12613,7 @@ Sampt einem andern Tract&#xE4;tlin/ Von dem Schnee und Ey&#xDF; ...</title>
             <editor>
               <rs type="person" key="gnd_131381849">A. O. M. T. W</rs>
             </editor>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1617">1617</date>
             <idno type="VD17">23:241620Z</idno>
@@ -12769,7 +12641,6 @@ Sampt einem andern Tract&#xE4;tlin/ Von dem Schnee und Ey&#xDF; ...</title>
             <pubPlace>
               <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen661-reference" corresp="bahnsen661">
             <title>Silentium Post Clamores, Hoc Est, Tractatus Apologeticus &lt;dt.&gt;</title>
@@ -12779,7 +12650,6 @@ Sampt einem andern Tract&#xE4;tlin/ Von dem Schnee und Ey&#xDF; ...</title>
             <pubPlace>
               <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen662-reference" corresp="bahnsen662">
             <title>Ein Edler und n&#xFC;tzlicher Hermetischer/ oder Chymischer Discurs : In welchem ... erwiesen wird: Das so wol der Spiritus als andere gantz herrliche Arcana Medicinalia, die au&#xDF; ... dem Vitriol ... anbereitet ... nicht allein nicht schedlich und Corrosivisch: Sondern gantz heilsam/ n&#xFC;tzlich und n&#xF6;tig zu gebrauchen sey: Und ... wie obernanter Vitrioli Spiritus k&#xFC;nstlich anbereitet/ und geb&#xFC;rlich solle gebraucht werden ... / Durch Petrum Amelungium Stendaliensem, Medic. D. l. p.</title>
@@ -12812,7 +12682,7 @@ Beneben der rechten und warhafftigen Physica Naturali Rotunda durch eine Visione
             <author>
               <rs type="person" key="gnd_122748646">Grick, Friedrich</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1617">1617</date>
             <idno type="VD17">14:050834S</idno>
@@ -12822,7 +12692,6 @@ Beneben der rechten und warhafftigen Physica Naturali Rotunda durch eine Visione
             <author>
               <rs type="person" key="gnd_102446822">Barbarossa, Christoph</rs>
             </author>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen667-reference" corresp="bahnsen667">
             <title>Informatorium Oder kurtzer Unterricht/ welcher gestalt man durch drey Mittel den schmalen Weg zu Christo sich f&#xFC;hren kan lassen : Als I. Durch &#xFC;bung de&#xDF; Gebetts. II. Durch die Leyter Jacobs. III. Durch den Schl&#xFC;ssel Davids / Gestellet durch M. Valentinum Wigelium, gewesenen Pfarrherrn zu Zschopan</title>
@@ -12841,7 +12710,6 @@ Beneben der rechten und warhafftigen Physica Naturali Rotunda durch eine Visione
             <author>
               <rs type="person" key="gnd_128616385">Sperber, Julius</rs>
             </author>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen669-reference" corresp="bahnsen669">
             <title>Wolmeinendes Bedencken/ Von der Fama, und Confession der Br&#xFC;derschafft de&#xDF; Rosen Creutzes</title>
@@ -12849,7 +12717,6 @@ Beneben der rechten und warhafftigen Physica Naturali Rotunda durch eine Visione
               <rs type="person" key="gnd_119522403">Libavius, Andreas</rs>
             </author>
             <date when="1616">1616</date>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen670-reference" corresp="bahnsen670">
             <title>Chymische Hochzeit: Christiani Rosencreutz. Anno 1459</title>
@@ -12857,17 +12724,15 @@ Beneben der rechten und warhafftigen Physica Naturali Rotunda durch eine Visione
               <rs type="person" key="gnd_118502883">Andre&#xE4;, Johann Valentin</rs>
             </author>
             <date when="1616">1616</date>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen671-reference" corresp="bahnsen671">
             <title>Sendbrieff oder Bericht An Alle/ welche von der Newen Br&#xFC;derschafft de&#xDF; Ordens vom Rosen Creutz genant/ &#x2026; vernommen</title>
             <author>
               <rs type="person" key="gnd_128616385">Sperber, Julius</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1615">1615</date>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen672-reference" corresp="bahnsen672">
             <title>Helias Tertius, Das ist: Urtheil oder Meinung von dem Hochl&#xF6;blichen Orden der Br&#xFC;derschafft des Rosencreutzes</title>
@@ -12879,7 +12744,6 @@ Beneben der rechten und warhafftigen Physica Naturali Rotunda durch eine Visione
             </pubPlace>
             <publisher>S.n.</publisher>
             <date when="1616">1616</date>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen673-reference" corresp="bahnsen673">
             <title>Iudicia Clarissimorum Aliquot Ac Doctissimorum Virorum, Locorum Intervallis Dissitorum, gravissima de Statu &amp; Religione Fraternitatis celebrarissimae de Rosea Cruce : Partim Soluta, Partim Ligata Oratione Conscripta, &amp; in gratiam verae ac solidae cum Philosophiae, tum Theosophiae studiosorum uno quasi fasciculo comprehensa
@@ -12933,7 +12797,7 @@ Quibus Accessere Epistolae Duae Germanicae eiusdem argumenti, pari ingenii acumi
             <author>
               <rs type="person" key="gnd_122748646">Grick, Friedrich</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1618">1618</date>
             <idno type="VD17">12:110219Y</idno>
@@ -12956,7 +12820,6 @@ Quibus Accessere Epistolae Duae Germanicae eiusdem argumenti, pari ingenii acumi
               <rs type="place" key="getty_7012346">Stra&#xDF;burg</rs>
             </pubPlace>
             <publisher>Zetzner, Eberhard</publisher>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen681-reference" corresp="bahnsen681">
             <title>Wasserstein der Weysen/ &#x2026; Ein Chymisch Tract&#xE4;tlein/ darin der weg gezeiget/ die Materia genennet/ und der Proce&#xDF; beschrieben wird/ zu dem hohen geheymnu&#xDF; der Universal Tinctur zukommen</title>
@@ -12966,7 +12829,6 @@ Quibus Accessere Epistolae Duae Germanicae eiusdem argumenti, pari ingenii acumi
             <pubPlace>
               <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen682-reference" corresp="bahnsen682">
             <title>VII. Miracula Naturae. Das ist/ Sieben uberau&#xDF; treffliche/ Sonderbare/ und bi&#xDF;hero unerh&#xF6;rte Arcanen/ und Wunderwerck der Natur : Newlich von der Hocherleuchten Br&#xFC;derschafft de&#xDF; Rosen-Creutzes/ Philosophischer/ und Astrologischer weise verdunckelt/ an Tag geben ... Nun aber flei&#xDF;ig au&#xDF;gerechnet/ trewlich au&#xDF;gelegt/ und so deutlich erkl&#xE4;ret/ da&#xDF; sie von einem Jeden/ ohn einige Zauberey/ Aberglauben/ und Kosten m&#xF6;gen erlehrnt/ und zum werck gericht werden / Zu Rettung der Warheit/ der Kunst zu Ehren/ Jederm&#xE4;nniglich zu sonderem Nutz unnd wolgefallen Durch Hisaiam sub Cruce Ath:</title>
@@ -13012,7 +12874,7 @@ Quibus Accessere Epistolae Duae Germanicae eiusdem argumenti, pari ingenii acumi
             <author>
               <rs type="person" key="gnd_128617209">Staurophorus, Rhodophilus</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1619">1619</date>
             <idno type="VD17">14:008813Q</idno>
@@ -13025,7 +12887,7 @@ Quibus Accessere Epistolae Duae Germanicae eiusdem argumenti, pari ingenii acumi
             <editor>
               <rs type="person" key="gnd_118502883">Andre&#xE4;, Johann Valentin</rs>
             </editor>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1619">1619</date>
             <idno type="VD17">14:008809D</idno>
@@ -13047,7 +12909,7 @@ Quibus Accessere Epistolae Duae Germanicae eiusdem argumenti, pari ingenii acumi
           </bibl>
           <bibl xml:id="bahnsen690-reference" corresp="bahnsen690">
             <title>Fama Remissa Ad Fratres Roseae Crucis = Antwort Auff die Famam und Confessionem der L&#xF6;blichen Br&#xFC;derschafft vom RosenCreutz</title>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1616">1616</date>
             <idno type="VD17">23:241578N</idno>
@@ -13098,7 +12960,6 @@ Quibus Accessere Epistolae Duae Germanicae eiusdem argumenti, pari ingenii acumi
               <rs type="place" key="getty_7004717">Rostock</rs>
             </pubPlace>
             <publisher>Hallervord, Johann</publisher>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen697-reference" corresp="bahnsen697">
             <title>Angeli Salae, Vicentini Veneti, Chymiatri Candidissimi. Saccharologia : Darinnen erstlich von der Natur/ qualiteten, n&#xFC;tzlichem Gebrauch/ und sch&#xE4;dlichem Mi&#xDF;brauch des Zuckers: Darnach/ Wie von demselben ein Weinm&#xE4;ssiger starcker Getranck/ Brandwein und Essig/ als auch unterschiedliche Art hochn&#xFC;tzlicher medicamenten damit k&#xF6;nnen bereitet werden/ beschrieben und angezeiget wird</title>
@@ -13122,7 +12983,6 @@ Quibus Accessere Epistolae Duae Germanicae eiusdem argumenti, pari ingenii acumi
               <rs type="place" key="getty_7004717">Rostock</rs>
             </pubPlace>
             <publisher>Hallervord, Johann</publisher>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen699-reference" corresp="bahnsen699">
             <title>Angeli Salae Vicentini Veneti Chymiatri Candidissimi, Tartarologia. Das ist: Von der Natur unnd Eigenschafft des Weinsteins; Welcher gestalt au&#xDF; demselben underschiedliche hochbewehrte Medicamenten zu bereiten; Wie au&#xDF; allen Vegetabilien ihre Tartara abzusondern ... ; Darneben wird auch von solcher Dingen besonderm Nutzen ... gelehret</title>
@@ -13133,7 +12993,6 @@ Quibus Accessere Epistolae Duae Germanicae eiusdem argumenti, pari ingenii acumi
               <rs type="place" key="getty_7004717">Rostock</rs>
             </pubPlace>
             <publisher>Hallervord, Johann</publisher>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen700-reference" corresp="bahnsen700">
             <title>TriumphWagen Antimonii, Fratris Basilii Valentini, Benedicter Ordens : Allen/ so den Grund suchen der uhralten Medicin, Auch zu der Hermetischen Philosophy beliebnis tragen/ zu gut publicirt/ und an Tag geben / Durch Johann Th&#xF6;lden, Hessum. Mit einer Vorrede/ D. Joachimi Tanckii, Anatomes &amp; Cheirurgiae Professoris in der Universitet Leipzig</title>
@@ -13204,7 +13063,6 @@ Quibus Accessere Epistolae Duae Germanicae eiusdem argumenti, pari ingenii acumi
             </pubPlace>
             <publisher>Apel, Jakob II.</publisher>
             <date when="1613">1613</date>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen704-reference" corresp="bahnsen704">
             <title>Antimonii Mysteria Gemina. Alexandri von Suchten. Das ist: Von den grossen Geheimnussen de&#xDF; Antimonii : in zweene Tractat abgeteilet. Derer einer die Artzeneyen zu anfallenden menschlichen Kranckheiten offenbahret/ Der Ander aber/ wie die Metallen erh&#xF6;het und in verbesserung ubersetzet werden / Mit mancherley k&#xFC;nstlichen und Philosophischen beyderseits derselbigen bereitungen/ exempelweise illustrirt/ und zu vindiciruug seines Lobs und ruhms publiciret worden. Durch Johann Th&#xF6;lden/ Hessum</title>
@@ -13353,7 +13211,6 @@ Accesserunt in fine memorabilia experimenta &amp; observationes Chiromanticae : 
             <editor>
               <rs type="person" key="gnd_100070043">Pictorius, Georg</rs>
             </editor>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen715-reference" corresp="bahnsen715">
             <title>Drey unterschiedliche Newe Tract&#xE4;tlein : Deren Erstes Von Astralischen Kranckheiten/ wie nemblichen dieselbe von den Astris oder Gestirnen verursacht/ ... Das Andere/ Von Tartarischen Kranckheiten/ das ist/ von den gr&#xFC;ndlichen Ursachen aller Schwachheiten Menschliches Leibes/ so vom Tartaro, Steinen und Saltz vermischt/ herkommen/ ... Das Dritte/ Begreifft in sich das Fundament/ und den rechten Grund/ wie man die Urinen de&#xDF; Menschen/ so wol Gesunden/ als Krancken/ nach Spagirischer Art/ k&#xFC;nstlich judiciren und erkennen m&#xF6;ge / Von weyland Herrn D. Johan Hayne ... beschrieben und zusammen getragen.</title>
@@ -13366,7 +13223,6 @@ Accesserunt in fine memorabilia experimenta &amp; observationes Chiromanticae : 
             <pubPlace>
               <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen716-reference" corresp="bahnsen716">
             <title>Institutiones Anatomicae Das ist K&#xFC;nstliche Zerlegung des Menschlichen Leibes/ Des ... Herr D. Caspari Bartholini, / Itzo durch Anordnung D. Simonis Paulli, Med. Anat. ac Botan. P.P. In der K&#xF6;niglichen Academien Kopenhagen/ Mit flei&#xDF; Allen Wundartzen zu Nutz ins Deutsche &#xFC;bersetzet ...</title>
@@ -13444,7 +13300,6 @@ Dabey auch zwey sehr n&#xFC;tzliche andere B&#xFC;chlein ... angeh&#xE4;ngt: Neh
             </pubPlace>
             <publisher>Le Blon, Christoph</publisher>
             <date when="1661">1661</date>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen722-reference" corresp="bahnsen722">
             <title>Wasserstein der Weysen. Oder Chymisches Tract&#xE4;tlein/ darinn der Weg gezeyget/ die Materia genennet/ und der Process beschrieben wird/ zu dem hohen Geheymn&#xFC;s der Universal-Tinctur zu kommen / [Johann Siebmacher]
@@ -13458,7 +13313,6 @@ Dabey auch zwey sehr n&#xFC;tzliche andere B&#xFC;chlein ... angeh&#xE4;ngt: Neh
             </pubPlace>
             <publisher>Le Blon, Christoph</publisher>
             <date when="1661">1661</date>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen723-reference" corresp="bahnsen723">
             <title>Theophrastische Practica, Das ist/ Au&#xDF;erlesene Theophrastische Medicamenta, beneben eigentlicher Beschreibung derer Praeparation : Auch richtigem Nutz und Gebrauch / Weyland durch Herren/ Gerhard Dorn/ in Lateinischer Sprache beschrieben/ Ins Teutsch versetzt/ und nunmehr in Druck bef&#xF6;rdert Durch Michaelem Horingium Zittaviensem, Medic. Practicum zu Hall.</title>
@@ -13534,7 +13388,7 @@ Editio Tertia, &amp; auctior</title>
             <author>
               <rs type="person" key="gnd_119065681">Khunrath, Heinrich</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>Khunrath, Heinrich</publisher>
             <date when="1615">1615</date>
             <idno type="VD17">23:687856Y</idno>
@@ -13598,14 +13452,13 @@ Diu desideratum &amp; expetitum, nunc vero primum in lucem editum.</title>
             <pubPlace>
               <rs type="place" key="getty_7004334">N&#xFC;rnberg</rs>
             </pubPlace>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen734-reference" corresp="bahnsen734">
             <title>Echo Der von Gott hocherleuchten Fraternitet, de&#xDF; l&#xF6;blichen Ordens R. C. Das ist: Exemplarischer Bewei&#xDF;/ Das nicht allein das jenige was itzt in der Fama und Confession der Fraternitet R. C. au&#xDF;gebotten/ m&#xFC;glich unnd war sey/ ... : Erstlich Gedruckt zu Danzig/ bey Andreae H&#xFC;nefeldts/ Anno 1616. / [Beschrieben unnd stattlich au&#xDF;gef&#xFC;hret/ durch ... I. Sp. V. H.]</title>
             <author>
               <rs type="person" key="gnd_128616385">Sperber, Julius</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1616">[ca. 1616]</date>
             <idno type="VD17">3:308435C</idno>
@@ -13618,7 +13471,6 @@ Diu desideratum &amp; expetitum, nunc vero primum in lucem editum.</title>
             <editor>
               <rs type="person" key="gnd_116106174">Beckher, Daniel</rs>
             </editor>
-            <idno type="VD17">Ausgabe nicht nachweisbar</idno>
           </bibl>
           <bibl xml:id="bahnsen736-reference" corresp="bahnsen736">
             <title>Tyrocinium Chymicum Johannis Beguini, Regis Galliae Eleemosynarii / Antehac a Viris Clari&#xDF;. Dn. Christophoro Gl&#xFC;ckradt/ Et Dn. Jeremia Barthio ... Notis elegantibus illustratum, formulisq[ue] medicamentorum optimis &amp; secretis locupletatum: Nunc vero a Johanne-Georgio Pelshofero ... Utriusq[ue] Notis &amp; medicamentorum formulis in unum systema redactis 
@@ -13744,7 +13596,6 @@ Denuo, amicorum rogatu, in publicum emissum, ac triplici Indice ornatum.</title>
             <author>
               <rs type="person" key="gnd_124521401">Khunrath, Conrad</rs>
             </author>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen745-reference" corresp="bahnsen745">
             <title>Ethica : Aus Himlischer unnd Irrdischer C&#xF6;rper Natur und Eigenschafften genommen / Gestellet durch M. Ioachim Balckium Pastorn zu Stargard and der Ina, &#x2026;</title>
@@ -13818,7 +13669,6 @@ Denuo, amicorum rogatu, in publicum emissum, ac triplici Indice ornatum.</title>
             </pubPlace>
             <publisher>Claesz, Cornelis</publisher>
             <publisher>Muller, Ewout Cornelisz</publisher>
-            <idno type="STCN">Ausgabe nicht nachweisbar</idno>
           </bibl>
           <bibl xml:id="bahnsen750-reference" corresp="bahnsen750">
             <title>I.||CORRECTORIVM ALCHYMIAE || RICHARDI ANGLICI .|| Das ist || Reformierte Al=||chimy/ Oder Alchimeibesse=||rung/ vnd Straffung der Alchimisti=||schen Mi&#xDF;pr#[ae]uch: vom Alten vnd l#[ae]ngst=||ber&#xFC;mten Medico/ Richardo aus || Engelland beschriben.||[&#xDC;bers.v.(L. Pomisium,||)] II.|| RAINMVNDI LVLLI APERTO-||rium &amp; Accuratio Vegetabilium.|| Von er#[oe]ffnung v&#xF1; entdeckung wach=||sender Sachen/ v&#xF1; des Philosophischen steyns/|| ... III.|| Des K#[oe]nigs Gebers au&#xDF; Hispanien Secret&#x169;,|| ... Alles nun erstmals zu dienst vnd nutz allen Rey=||ner vnd Geheymnu&#xDF;reicher Artznei vbenden || v&#xF1; beliebenden inn Truck gef#[ae]rtigt.||</title>
@@ -13889,7 +13739,6 @@ Denuo, amicorum rogatu, in publicum emissum, ac triplici Indice ornatum.</title>
             <publisher>Grosse, Gottfried</publisher>
             <publisher>Rauscher, Hieronymus</publisher>
             <date when="1622">1622</date>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen755-reference" corresp="bahnsen755">
             <title>ProbierB&#xFC;chlein/ Darinne Gr&#xFC;ndlicher Bericht vermeldet/ wie man alle Metall/ und derselben zugeh&#xF6;renden Metallischen Ertzen ... ein jedes auff sein Eigenschafften und Metall recht probieren sol : De&#xDF;gleichen Lehr und Unterricht/ der rechten ProbierOefen/ Gewichten/ Capellen/ und Fl&#xFC;ssen ; Zu sampt angeh&#xE4;ngtem Bericht/ au&#xDF; der H. Schrifft/ und Erfahrung durch die Proba/ was vorzeiten die alten Patriarchen/ R&#xF6;mer und J&#xFC;den ... vor und nach der Geburt Christi/ bi&#xDF; zu dem 1569. Jahre f&#xFC;r Gewichte/ Schrot/ Korn und Gepr&#xE4;ge/ zu den alten M&#xFC;ntzen gebraucht und genommen haben / Allen M&#xFC;ntzmeistern/ Wardienen/ Probierern/ Goldschmieden und andern ... mit flei&#xDF; corrigirt: Durch Weylandt Modestin Fachsen/ F&#xFC;rstlichen Anhaldischen gewesenen M&#xFC;ntzmeister/ und Wardien zu Leipzig</title>
@@ -13905,7 +13754,6 @@ Denuo, amicorum rogatu, in publicum emissum, ac triplici Indice ornatum.</title>
             <publisher>Grosse, Gottfried</publisher>
             <publisher>Rauscher, Hieronymus</publisher>
             <date when="1622">1622</date>
-            <idno type="VD17">Ausgabe nicht bestimmbar; Valentinus Boltz: Illuminierbuch (z.B. VD17 14:627228S oder VD17 23:735700S) beigebunden?</idno>
           </bibl>
           <bibl xml:id="bahnsen756-reference" corresp="bahnsen756">
             <title>Praeservator Sanitatis, Ein N&#xFC;tzlicher Bericht/ Von den Sech&#xDF; unvormeidlichen dingen/ zur Gesundheit gantz ersprie&#xDF;lichen/ wie man sich in denselbe[n]/ beydes zu Hause/ und auch uber Land/ verhalten soll : Alles auff die Deutzsche &#xFC;bliche Kost ... gerichtet/ und mit sententiosis versibus, alten Rythmis, und guten Ertzneymitteln gezieret: Und vermehret
@@ -14127,7 +13975,7 @@ Anjetzo aber anderweit/ in Verlegung Georg Bechers Apotheckers in ermelten Carls
             <author>
               <rs type="person" key="gnd_122363841">Sendivogius Filius</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1660">1660</date>
             <idno type="VD17">39:143408T</idno>
@@ -14150,7 +13998,7 @@ Anjetzo aber anderweit/ in Verlegung Georg Bechers Apotheckers in ermelten Carls
             <author>
               <rs type="person" key="gnd_118575279">Lullus, Raimundus</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1601">1601</date>
             <idno type="VD17">39:135432X</idno>
@@ -14190,7 +14038,6 @@ Anjetzo aber anderweit/ in Verlegung Georg Bechers Apotheckers in ermelten Carls
               <rs type="place" key="getty_7006952">Amsterdam</rs>
             </pubPlace>
             <publisher>Pels, Frans</publisher>
-            <idno type="STCN">Ausgabe nicht nachweisbar</idno>
           </bibl>
           <bibl xml:id="bahnsen782-reference" corresp="bahnsen782">
             <title>Vande byen</title>
@@ -14201,7 +14048,6 @@ Anjetzo aber anderweit/ in Verlegung Georg Bechers Apotheckers in ermelten Carls
               <rs type="place" key="getty_7006952">Amsterdam</rs>
             </pubPlace>
             <publisher>Jansz, Broer</publisher>
-            <idno type="STCN">Ausgabe nicht nachweisbar</idno>
           </bibl>
           <bibl xml:id="bahnsen783-reference" corresp="bahnsen783">
             <title>Fascicvlvs. Oft Lust-hof der chinescher medecijnen</title>
@@ -14277,7 +14123,7 @@ Zum zweytenmal Gedruckt ...</title>
             <editor>
               <rs type="person" key="gnd_128636300">A. W. B. D. S. F.</rs>
             </editor>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1621">1621</date>
             <idno type="VD17">23:294773Q</idno>
@@ -14287,7 +14133,7 @@ Zum zweytenmal Gedruckt ...</title>
             <author>
               <rs type="person" key="gnd_129189731">Hilarion, Benedictus</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1622">1622</date>
             <idno type="VD17">3:300571U</idno>
@@ -14477,7 +14323,6 @@ Zum zweytenmal Gedruckt ...</title>
             <author>
               <rs type="person" key="gnd_11898716X">Rantzau, Heinrich</rs>
             </author>
-            <idno type="GBV">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen803-reference" corresp="bahnsen803">
             <title>Historia plerarumque partium humani corporis</title>
@@ -14509,7 +14354,6 @@ Zum zweytenmal Gedruckt ...</title>
               <rs type="place" key="getty_7006952">Amsterdam</rs>
             </pubPlace>
             <date when="1657">1657</date>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen806-reference" corresp="bahnsen806">
             <title>Joh. Rudolphi Glauberi Testimonium Veritatis. Oder Gr&#xFC;ndlicher beweis/ da&#xDF; Farners Wiederlegung oder Warnung/ &#xFC;ber Glauberi Miraculum Mundi genantes Tract&#xE4;tlein/ Wie auch Ersten Theil Te&#xFC;tschlands Wohl-farts/ im geringsten keiner Wahrhafften Wiederlegung gleich : sonder nichts anders als ... ein Zusammen geraffete schmehcharten sey ... / Durch Den Authorem beschrieben vnd ... an Tag geben</title>
@@ -14546,9 +14390,8 @@ Zum andernmal auffgelegt.</title>
             <author>
               <rs type="person" key="gnd_118507923">Becher, Johann Joachim</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
-            <idno type="VD17">Ausgabe nicht nachweisbar</idno>
           </bibl>
           <bibl xml:id="bahnsen809-reference" corresp="bahnsen809">
             <title>Ars Magica Sive Magia Naturalis Et Artificiosa, Stupendos Et abstrusos effectus ... horasque planetarias exhibens : Antehac nunquam visa, cognitave. Nunc primum Ex Vetustissimis veterum Sophorum, &amp; artis Magicae peritissimis Artificibus eruta, &amp; ob insignem utilitatem ac iucunditatem luci publica commissa. Cui praeit Magia Superstitiosa De daemonum variis generibus, faunis, satyris, lamiis &amp; spectris, eorumque operationibus diversis disquisitio plane recondita ...</title>
@@ -14579,7 +14422,7 @@ Zum andernmal auffgelegt.</title>
             <author>
               <rs type="person" key="gnd_118512579">B&#xF6;hme, Jakob</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1635">1635</date>
             <idno type="VD17">12:104672V</idno>
@@ -14589,7 +14432,7 @@ Zum andernmal auffgelegt.</title>
             <author>
               <rs type="person" key="gnd_118512579">B&#xF6;hme, Jakob</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1635">1635</date>
             <idno type="VD17">12:104672V</idno>
@@ -14599,7 +14442,7 @@ Zum andernmal auffgelegt.</title>
             <author>
               <rs type="person" key="gnd_118512579">B&#xF6;hme, Jakob</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1635">1635</date>
             <idno type="VD17">12:104672V</idno>
@@ -14609,7 +14452,7 @@ Zum andernmal auffgelegt.</title>
             <author>
               <rs type="person" key="gnd_118512579">B&#xF6;hme, Jakob</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1635">1635</date>
             <idno type="VD17">12:104672V</idno>
@@ -14631,7 +14474,7 @@ Zum andernmal auffgelegt.</title>
             <author>
               <rs type="person" key="gnd_124685838">Staricius, Johannes</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <idno type="VD17">23:280486G</idno>
           </bibl>
@@ -14680,7 +14523,6 @@ Zum andernmal auffgelegt.</title>
               <rs type="place" key="getty_7005293">Frankfurt am Main</rs>
             </pubPlace>
             <publisher>Egenolff, Christian d.&#xC4;.</publisher>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen820-reference" corresp="bahnsen820">
             <title>Die AllerEdelste Tohrheit Der gantzen Welt : Vermittelst eines anmuhtigen und erbaulichen Gespr&#xE4;ches/ Welches ist diser Ahrt/ Die Dritte/ und zwahr Eine M&#xE4;rtzens-Unterredung / Beschrieben und f&#xFC;rgestellet von Dem R&#xFC;stigen</title>
@@ -14764,7 +14606,6 @@ Zusampt einem angehenckten Tract&#xE4;tlein, von allerley gebrannten Wassern, we
             </pubPlace>
             <publisher>Merian, Matthaeus d.&#xC4;.</publisher>
             <date when="1643">1643</date>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen828-reference" corresp="bahnsen828">
             <title>Chronick:|| Geschichte vnd || Zeitbuch aller Nam&#x303;hafftigsten vnd || Gedechtnu&#xDF;wierdigsten Geystlichen vnd Weltlichen Sa=||chen oder Handlungen von anbegin der Welt nach erschaffung des er=||sten Menschen/ bi&#xDF; auff das gegenwertige jar Christi M.D.LXXXV.|| verlengt: Darinn beyde Gottes vnd der Welt lauff/ Hendel/ Art/ Wort/ Werck/ Thun/|| Lassen/ Wesen vnd Leben ersehen vnd begriffen wirdt. Von allen Monarcheyen/ K#[oe]nigrei=||chen/ Policeyen/ R#[oe]mischen Keysern ... || Von allen B#[ae]psten/|| ... Von dem Vrsprung vnd Vrhab aller Ceremonien der R#[oe]mischen Kirchen ... || Summa/hierinn findestu gleich ein kurtzen Begriff/ ... || der Chronickwierdigsten ... || Historien ... || in drey Theil verfast: weylandt durch Sebastian || Francken von W#[oe]rd ... bi&#xDF; auff die Regierung des Gro&#xDF;mech=||tigsten Keysers Carls des V. in das jar 1531.|| angefangen.|| Jetzt aber durch || CALONIVM GH&#xD6;NNEIRVM ... || von anfang der Welt bi&#xDF; auff das M.D.LXXXV. jare Christi || mit allerley Gedechtnu&#xDF;wierdigsten Geschichten ... gemehret.|| (Ander Theil || ) (Dritte Theil ||)</title>
@@ -14830,7 +14671,6 @@ Zusampt einem angehenckten Tract&#xE4;tlein, von allerley gebrannten Wassern, we
             </pubPlace>
             <publisher>Varnier, Hans d.&#xC4;.</publisher>
             <date when="1542">1542</date>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen833-reference" corresp="bahnsen833">
             <title>Gemeiner Lobli=||cher Eydgnoschaft || Stetten/ Landen vnd || V&#xF6;lckern Chronicwirdiger thaaten beschreibung.|| Hierinn wirt auch die gelegenheit der gantzen Europe/ Jtem ein || kurtzuergriffne Chronica Germani&#x119; ... insonders aber ein ... || beschreybung Galliae ... f&#xFC;rgestellt/ darauff ... der || Eydgnoschafft beschreybung volget. Welchs alles mit.. Landtaf=||len/ Contrafetischem abmalen ... || f&#xFC;r=||gebildet/ darz&#x16F; mit einem ... Register/ Durch Joha&#xF1; Stumpffen beschri=||ben ... ist ... zum anderen mal in den truck g&#xE4;ben ... || mit einer angehenckten Chronologey kurtz uerzeichneter || geschichten/ vom 1548. jar/ bi&#xDF; auff di&#xDF; gegenwirtig 1586. jar/ durch Joha&#xF1; || R&#xFC;dolph Stumpffen ... ||</title>
@@ -14856,7 +14696,6 @@ Zusampt einem angehenckten Tract&#xE4;tlein, von allerley gebrannten Wassern, we
               <rs type="place" key="getty_7006809">Leiden</rs>
             </pubPlace>
             <publisher>Elzevier, Isaac</publisher>
-            <idno type="STCN">Ausgabe nicht nachweisbar</idno>
           </bibl>
           <bibl xml:id="bahnsen835-reference" corresp="bahnsen835">
             <title>Historie ofte iaerlijck verhael van de verrichtinghen der geoctroyeerde West-Indische Compagnie, sedert haer begin, tot het eynde van't jaer sesthien-hondert ses-en-dertich. : 13 parts.</title>
@@ -14933,7 +14772,6 @@ Zusampt einem angehenckten Tract&#xE4;tlein, von allerley gebrannten Wassern, we
             <publisher>Grosse, Henning d.&#xC4;.</publisher>
             <publisher>Meissner, Wolfgang</publisher>
             <date when="1597">1597</date>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen841-reference" corresp="bahnsen841">
             <title>Schlesische vnd der weitber&#xFC;mbten Stadt Bre&#xDF;law || GENERAL || Chronica || Darinnen or=||dentliche Warhaf=||te/ eigentliche vnd kurtze Beschreibung/ des Hertzogthumbs Ober || vnd Nieder Schlesien/ Jtem/ bericht der Alten Schlesier Ankunfft/ Namen/ Herkom=||men/ deren Hertzogen ... || Jnsonderheit/ was sich bey der herlichen Stadt Bresslaw ... || zugetragen ... || Auch was bey den vmbligenden L&#xE4;ndern ... || biss zu K&#xF6;nig Ludwigs || zu Vngern vnd Behmen/ etc. Vntergang/ sich begeben hat.|| Erstlich durch ... IOACHIMVM || CVREVM Freystadiensem, der Artzney Doctorn ... in Latei=||nischer Sprach beschrieben: Jetzundt ... verdeutscht/ vnd nun zum || Andernmal auffs new vbersehen ... Auch mit einer kurtzen newen ... Ver=||zeichnis/ Was seit K&#xF6;nig Ludwigs ... Vntergang ... || biss auf diese zeit ... ergangen: Sampt einer || newen Abtheilung des Landes Schlesien nach heutiger gelegenheit/ vermehret.|| Durch || Heinricum R&#xE4;teln zu Sagen/ etc.||(Ander Theil.||) (Driter Theil ... ||)(Folgen drey ORATIONES || D. DAVIDIS CHYTRAEI, || Von den dreyen ... || Kaisern/ Nemlich/|| CAROLO V.|| FERDINANDO I.|| MAXIMILIANO II.|| Aus dem Latein ins Deudsch vbergesetzt/|| Durch H. R.||)</title>
@@ -14988,10 +14826,9 @@ Zusampt einem angehenckten Tract&#xE4;tlein, von allerley gebrannten Wassern, we
           <bibl xml:id="bahnsen844-reference" corresp="bahnsen844">
             <title>Historie van de oorlogen en geschiedenissen der Nederlanden &lt;dt.&gt;</title>
             <author>Meteren, Emmanuel van</author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1603">1603</date>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen845-reference" corresp="bahnsen845">
             <title>CHRONICA || Von anfangk || der Welt/ bi&#xDF; auffs Jahr Chri=||sti vnsers Erl&#xF6;sers M.D.XCVI.|| Darinne nach ordnungs der Monarchien vnd Jahrzahl/|| Geistliche vnd Weltliche sachen in vnd ausserhalb dem R&#xF6;mischen Reiche/|| so wol auch in den letzten Jahren die Kriege im Niederlande/ Franckreich/ Vn=||gern/ vnd dergleichen richtig erzehlet werden/|| Beschrieben von || M.VVENCESLAO STVRMIO,|| Pfarner vnd Superintendenten zu Bitterfeldt:|| Hernach aber continuiret von || MATTHAEO DRESSERO.|| ... ||[Hrsg.v.(Ambrosius Sturmius.||)]</title>
@@ -15020,7 +14857,6 @@ Zusampt einem angehenckten Tract&#xE4;tlein, von allerley gebrannten Wassern, we
             <publisher>Donat, Paul</publisher>
             <publisher>Kirchener, Ambrosius</publisher>
             <date when="1584">1584</date>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen847-reference" corresp="bahnsen847">
             <title>Mitn&#xE4;chtischer || V&#xF6;lckeren || Historien || Jn welcher viler Nationen/|| ... Vrsprung/ mancherley gebre&#xFC;che/ nam&#x303;haffte Historien/ Regiment/|| vnnd Ritterliche taathen ... || in drey&#xDF;ig B&#xFC;che=||ren/ begriffen.|| Erstlich durch ... Martinum Chro=||mer au&#xDF; Poland z&#x16F; Latein fley&#xDF;ig beschriben: Jetz z&#xFC;malen aber durch Hein=||rich Pantaleon der Artzney vnnd freyer k&#xFC;nsten Doctor z&#x16F; Ba=||sel ... || verte&#xFC;tschet/ gemehret/|| vnd in truck verordnet.||(Der ander theil.||)</title>
@@ -15179,7 +15015,6 @@ Mit vielen sch&#xF6;nen newen Kupfferst&#xFC;cken und LandBeschreibungen vermehr
             </pubPlace>
             <publisher>Merian, Matthaeus d.J.</publisher>
             <publisher>Hoffmann, Wolfgang</publisher>
-            <idno type="VD17">Ausgabe nicht nachweisbar</idno>
           </bibl>
           <bibl xml:id="bahnsen860-reference" corresp="bahnsen860">
             <title>Sol Temporum. Sive Chronologia Mystica : Qua Trium huius Mundi seculorum Tempora, per genuinam Sabbathicorum &amp; Iubilaeorum annorum hactenus incognitam Formam, Mysticumque Septenarium, in Hebdomadas distributa, extra dubitationis aleam ponuntur, eorumque Harmonia hucusque tacita a silentio vindicatur
@@ -15304,14 +15139,12 @@ Item Elenchus Chronologicus Novus, per totam Sacram Scripturam Veteris &amp; Nov
             <author>
               <rs type="person" key="gnd_100966330">Ibn-Ab&#x12B;-'r-Ri&#x1E7;&#x101;l, Abu-'l-&#x1E24;asan &#x2BF;Al&#x12B;</rs>
             </author>
-            <idno type="GBV">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen869-reference" corresp="bahnsen869">
             <title>Geographia</title>
             <author>
               <rs type="person" key="gnd_118641786">Ptolemaeus, Claudius</rs>
             </author>
-            <idno type="GBV">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen870-reference" corresp="bahnsen870">
             <title>Diophanti Alexandrini Arithmeticorvm Libri Sex, Et De Nvmeris Mvltangvlis Liber Vnvs : Nunc prim&#xF9;m Gr&#xE6;ca&#xE8; [et] Latin&#xE8; editi, atque absoluti&#xDF;imis Commentariis illustrati / Avctore Clavdio Gaspare Bacheto Meziriaco Sebvsiano, V.C.</title>
@@ -15360,7 +15193,6 @@ Item Elenchus Chronologicus Novus, per totam Sacram Scripturam Veteris &amp; Nov
             <publisher>Elsevier, Bonaventura</publisher>
             <publisher>Elsevier, Abraham</publisher>
             <date when="1646">1646</date>
-            <idno type="GBV">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen873-reference" corresp="bahnsen873">
             <title>Francisci Vietae Fontenaeensis, De &#xE6;quationum recognitione et emendatione tractatus duo. Quibus nihil in hoc genere simile aut secundum, huic &#xE6;uo hactenus visum.</title>
@@ -15413,7 +15245,6 @@ Item Elenchus Chronologicus Novus, per totam Sacram Scripturam Veteris &amp; Nov
             </pubPlace>
             <publisher>Apiarius, Samuel</publisher>
             <date when="1572">1572</date>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen877-reference" corresp="bahnsen877">
             <title>HIERONYMI || CARDANI MEDIO||LANENSIS, CIVISQV'E BONO=||NIENSIS, PHILOSOPHI, MEDICI ET || Mathematici clarissimi,|| OPVS NOVVM DE || PROPORTIONIBVS NVMERORVM, MO||TVVM, PONDERVM, SONORVM, ... || solerti || demonstratione illustratum, ad multiplices usus ac=||commodatum, &amp; in V libros digestum. || PRAETEREA.|| ARTIS MAGNAE, SIVE DE REGVLIS || ALGEBRAICIS, LIBER VNVS, ... ,||ab || authore recens multis in locis recogni=||tus &amp; auctus. || ITEM. || DE ALIZA REGVLA LIBER, HOC EST, ALGEBRAICAE || logisticae suae, ... ,|| nunc demum in lucem edita. || Opus Physicis et Mathematicis inprimis || utile et necessarium.||</title>
@@ -15489,7 +15320,6 @@ Item Elenchus Chronologicus Novus, per totam Sacram Scripturam Veteris &amp; Nov
             </pubPlace>
             <publisher>Jansson, Jan</publisher>
             <date when="1627">1627</date>
-            <idno type="STCN">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen882-reference" corresp="bahnsen882">
             <title>Geometrie ofte meet-const</title>
@@ -15661,7 +15491,6 @@ Accesserunt Variarum Dissertationum libri octo, ad authores illos intelligendos 
             <publisher>Apianus, Peter</publisher>
             <publisher>Apian, Georg</publisher>
             <date when="1533">1533</date>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen894-reference" corresp="bahnsen894">
             <title>Cosmographia, siue descriptio vniuersi Orbis, Petri Apiani et Gemm&#xE6; Frisij, Mathematicorum insignium, iam dem&#xF9;m integritati su&#xE6; restituta : adiecti sunt alij, tum Gemm&#xE6; Frisij, tum aliorum Auctorum eius argumenti Tractatus ac Libelli varij, quorum seriem versa pagina demonstrat</title>
@@ -15689,7 +15518,6 @@ Accesserunt Variarum Dissertationum libri octo, ad authores illos intelligendos 
             </pubPlace>
             <publisher>Vom Berg, Johann</publisher>
             <publisher>Neuber, Ulrich</publisher>
-            <idno type="VD16">Ausgabe nicht nachweisbar</idno>
           </bibl>
           <bibl xml:id="bahnsen896-reference" corresp="bahnsen896">
             <title>Gnomonice || DE SOLARIIS, SIVE || DOCTRINA PRACTICA TER=||TIAE PARTIS ASTRONOMIAE.|| Von allerley Solarien/ das ist/|| Himmlischen Circuln vnd Vhren/|| Wie man dieselben an die auffgerichten Planicien oder || Wende/ Vnd in allerhand hole Jnstrument || k&#x16F;nstlich verzeichnen vnd re=||praesentiren sol.|| ... Jetzundt auffs new zugericht vnd perficirt/ Durch || BARTOLEMAEVM SCVLTETVM Gorl.|| Der Astronomischen vnd Geometrischen K&#x16F;nsten || besondern Liebhaber.||</title>
@@ -15726,7 +15554,6 @@ Accesserunt Variarum Dissertationum libri octo, ad authores illos intelligendos 
               <rs type="place" key="getty_7007269">Basel</rs>
             </pubPlace>
             <publisher>Petri, Heinrich</publisher>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen899-reference" corresp="bahnsen899">
             <title>Eyn new Kunstlichs wolge=||gr&#xFC;ndts Visierbuch/ gar gwi&#xDF; vnnd behend || au&#xDF; rechter art der Geometria/ Rechnung vnd Circkelmessen/|| Darinnen mancherley Visier r&#x16F;ten oder St&#xE4;b angezeygt || zemachen/ nach yeglicher landart Eichen vnd ma&#xDF;/|| dergleichen noch nie getruckt oder au&#xDF;gangen.|| ... ||Huldrichus Kern es gmachet hat.||</title>
@@ -15815,7 +15642,6 @@ Accesserunt Variarum Dissertationum libri octo, ad authores illos intelligendos 
             </pubPlace>
             <publisher>Schumannische Druckerei</publisher>
             <date when="1603">1603</date>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen905-reference" corresp="bahnsen905">
             <title>Adriani Romani Canon Triangulorum Sphaericorum : Brevissimus simul ac facilimus quamplurimisq[ue] exemplis optice proiectis illustratus, in gratiam Astronomiae, Cosmographiae, Geographiae, Horologiographiae, &amp;c. Studiosorum iam primum editus
@@ -15882,7 +15708,6 @@ Accessere plenioris usus ergo. Tabulae Sinuum, Tangentium, Et Secantium / Ex Ope
               <rs type="place" key="getty_4007173">Middelburg</rs>
             </pubPlace>
             <publisher>Roman, Zacharias</publisher>
-            <idno type="STCN">Ausgabe nicht nachweisbar</idno>
           </bibl>
           <bibl xml:id="bahnsen910-reference" corresp="bahnsen910">
             <title>Philippi Lansbergi[i] Vranometriae Libri Tres : In quibus, Lun&#xE6;, Solis, &amp; reliquorum Planetarum, &amp; inerrantium Stellarum distanti&#xE6; `a Terra, &amp; magnitudines, hactenus ignorat&#xE6; perpsicu`e demonstrantur &#x2026;</title>
@@ -15910,7 +15735,6 @@ Accessere plenioris usus ergo. Tabulae Sinuum, Tangentium, Et Secantium / Ex Ope
             </pubPlace>
             <publisher>Taupinart, Adrian</publisher>
             <date when="1618">1618</date>
-            <idno type="GBV">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen912-reference" corresp="bahnsen912">
             <title>Tabvl&#xE6; Frisic&#xE6; Lun&#xE6;-Solares quadruplices; &#xE8; fontibus Cl. Ptolem&#xE6;i, Regis Alfonsi, Nic. Copernici, &amp; Tychonis Brahe, recens construct&#xE6; : Quibus access&#xEA;re Solis tabul&#xE6; totidem; hypotheses Tychonis illustrat&#xE6;: Kalendarium Rom. vetus, cum methodo Paschalis emendat&#xE2;</title>
@@ -16180,7 +16004,7 @@ De&#xDF;gleichen Von dem Marscheiden/ Bergwercken/ Wasserwagen/ und andern herrl
             <author>
               <rs type="person" key="gnd_100322875">Rhumel, Johann Pharamund</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1632">1632</date>
             <idno type="VD17">39:124297F</idno>
@@ -16203,7 +16027,6 @@ De&#xDF;gleichen Von dem Marscheiden/ Bergwercken/ Wasserwagen/ und andern herrl
             </pubPlace>
             <publisher>D&#xFC;mler, Jeremias</publisher>
             <date when="1645">1645</date>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen937-reference" corresp="bahnsen937">
             <title>Michalonis Lituani De Moribus Tartarorum, Lituanorum Et Moschorum, Fragmina X. multiplici Historia referta
@@ -16261,7 +16084,6 @@ Et, Johan. Lasicii Poloni De Diis Samagitarum, Caeterorumq[ue]. Sarmatarum, Et F
             </pubPlace>
             <publisher>D&#xFC;mler, Jeremias</publisher>
             <date when="1636">1636</date>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen941-reference" corresp="bahnsen941">
             <title>Nou&#xE6; Noui Orbis histori&#xE6;, : das ist, aller Geschichten, so in der Newen Welt, welche Occidentalis India, das ist India, nach abendwerts genent wird, vnd etwa Anno 1492. von Christophoro Columbo gefunden worden, ... vnd besonders, wie tyrannisch vnd vnbarmhertzig die Spanier mit den armen simpeln wehrlosen Einw&#xF6;hnern vnd V&#xF6;lckern haussgehalten vnd vmbgangen sind. : warhaffter vnd gr&#xFC;ndlicher Bericht, auss Hieronymi Benzonis, in welscher Sprache beschriebenem Verzeichnus, / welche Vrbanus Calueto jetzt eylff Jahr ins Latein gebracht, vnd aussgehen lassen. ... ; durch Abeln Scherdigern, Pfarherrn zu Wasungen, dem gemeinen Mann zu Dienst auss dem Latein ins Deudsch gebracht, Anno 1589</title>
@@ -16289,7 +16111,6 @@ und jetzt zum zweytenmal getruckt</title>
             </pubPlace>
             <publisher>Christian Egenolff Erben</publisher>
             <publisher>Becker, Matthaeus d.&#xC4;.</publisher>
-            <idno type="VD17">Ausgabe nicht nachweisbar</idno>
           </bibl>
           <bibl xml:id="bahnsen943-reference" corresp="bahnsen943">
             <title>Ein @New vnd Wol=||gegr&#xFC;ndt Rechenbuch/ auff den Linien v&#xF1; Ziffern/|| sampt der Welschen Practio vnd allerley vortheilen/ ... || De&#xDF;gleichen ein vollkom&#x303;ner Bericht der Regel Falsi/ ... || Vnd dann von der Geometria/ wie man mancherley Fel=||der ... messen ... || sol. Alles durch Simon Jacob von Coburg/ B&#xFC;rger vnd Rechenmeister zu || Franckfurt am Main/ ... zusammen getragen/ vnd jetzt || erstmals getruckt.||</title>
@@ -16366,7 +16187,6 @@ und jetzt zum zweytenmal getruckt</title>
             <author>
               <rs type="person" key="gnd_122149270">Zubler, Leonhard</rs>
             </author>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen949-reference" corresp="bahnsen949">
             <title>Opticae Libri Quatuor / ex voto Petri Rami novissimo per Fridericum Risnerum eiusdem in Mathematicis adiutorem olim conscripti, Nunc demum auspiciis ... Dn. Mauritii Hassiae Landgravi ... e situ &amp; tenebris in usum &amp; lucem publicam producti</title>
@@ -16491,7 +16311,6 @@ Ausgabebezeichnung: M.D.LXXI.||[s.l.](Gedr#[ue]ckt zu K#[oe]nigs=||berg in Preus
             <publisher>Grosse, Henning d.J.</publisher>
             <publisher>Jansonius, Justus</publisher>
             <date when="1622">1622</date>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen958-reference" corresp="bahnsen958">
             <title>Arithmetica Compendiosissima: Das ist/ Eine Beschreibung viler der besten nutzlichsten Vortheilen und Behendigkeiten/ deren man sich in der Multiplication, Division, und Regula Detri gebrauchen kan / Durch Philipp Geyger Rechenmeister/ und Burger der Statt Z&#xFC;rich</title>
@@ -16706,7 +16525,6 @@ Ausgabebezeichnung: M.D.LXXI.||[s.l.](Gedr#[ue]ckt zu K#[oe]nigs=||berg in Preus
             </pubPlace>
             <publisher>Leest, Jacob</publisher>
             <date when="1662">1661-1663</date>
-            <idno type="STCN">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen977-reference" corresp="bahnsen977">
             <title>THEATRVM MVNDI:|| Das ist:|| Der Welt Schawplatz/|| oder Spiegel der Welt/ Darinnen vom || Elende/ Tr&#xFC;bsal vnd Jammer der Menschen/ auch vn=||tugenden ... || gehandelt wird.|| Jetzt newlich aus Frantz&#xF6;sischer Sprach || ins Deudsche transferirt:|| Durch || M. MICHAELEM STELLAM.|| von Wiszb&#xFC; aus Gottland.|| Mit einer Vorrede M. PETRI ALBINI.||</title>
@@ -16862,7 +16680,6 @@ Ausgabebezeichnung: COLONIAE AGRIPPINAE,|| Apud Haeredes Arnoldi Birckmanni.|| M
               <rs type="person" key="gnd_116096055">Dibvadius, Christoph</rs>
             </author>
             <date when="1603">1603</date>
-            <idno type="STCN">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen989-reference" corresp="bahnsen989">
             <title>In geometriam Evclidis prioribus sex Elementorum libris comprehensam demonstratio &#x2026;</title>
@@ -16870,7 +16687,6 @@ Ausgabebezeichnung: COLONIAE AGRIPPINAE,|| Apud Haeredes Arnoldi Birckmanni.|| M
               <rs type="person" key="gnd_116096055">Dibvadius, Christoph</rs>
             </author>
             <date when="1603">1603</date>
-            <idno type="STCN">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen990-reference" corresp="bahnsen990">
             <title>Novum Instrumentum Geometricum</title>
@@ -16882,7 +16698,6 @@ Ausgabebezeichnung: COLONIAE AGRIPPINAE,|| Apud Haeredes Arnoldi Birckmanni.|| M
             </pubPlace>
             <publisher>K&#xF6;nig, Ludwig I.</publisher>
             <date when="1614">1614</date>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen991-reference" corresp="bahnsen991">
             <title>Von Sonnuhren, Das Erste Neuw, Zuvor niemals gesehene Fundament, ietzo Erstmahls ahn tag gegeben / Durch Fra[n]ciscu[m] Ke&#xDF;lern/ Malern von Wetzlar</title>
@@ -16906,7 +16721,6 @@ Ausgabebezeichnung: COLONIAE AGRIPPINAE,|| Apud Haeredes Arnoldi Birckmanni.|| M
             </pubPlace>
             <publisher>Wessel, Wilhelm</publisher>
             <date when="1608">1608</date>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen993-reference" corresp="bahnsen993">
             <title>Novum Instrumentum Geometricum</title>
@@ -16918,7 +16732,6 @@ Ausgabebezeichnung: COLONIAE AGRIPPINAE,|| Apud Haeredes Arnoldi Birckmanni.|| M
             </pubPlace>
             <publisher>K&#xF6;nig, Ludwig I.</publisher>
             <date when="1614">1614</date>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen994-reference" corresp="bahnsen994">
             <title>Prodromus und ... Theil Gr&#xFC;ndtlicher Wiederlegung oder Refutation des Newen B&#xE4;bstischen Calenders</title>
@@ -16930,7 +16743,6 @@ Ausgabebezeichnung: COLONIAE AGRIPPINAE,|| Apud Haeredes Arnoldi Birckmanni.|| M
             </pubPlace>
             <publisher>Rhete, Joachim</publisher>
             <date when="1605">1605</date>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen995-reference" corresp="bahnsen995">
             <title>De maculis Lunae deutliche Erklerunge, warumb der Monde solche maculas oder Flecken in sich habe, was derselbigen die wahre Ursache sey</title>
@@ -17280,7 +17092,6 @@ Ausgabebezeichnung: COLONIAE AGRIPPINAE,|| Apud Haeredes Arnoldi Birckmanni.|| M
             <publisher>Guhle, Hans</publisher>
             <publisher>Carstens, Heinrich</publisher>
             <date when="1618">1618</date>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen1024-reference" corresp="bahnsen1024">
             <title>Tabvla logarithmorvm, pro nvmeris ab vnitate, ad 10000.</title>
@@ -17303,7 +17114,6 @@ Ausgabebezeichnung: COLONIAE AGRIPPINAE,|| Apud Haeredes Arnoldi Birckmanni.|| M
               <rs type="person" key="gnd_118880632">Clavius, Christoph</rs>
             </editor>
             <date when="1607">1607</date>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen1026-reference" corresp="bahnsen1026">
             <title>Sethi Calvisii Elenchus Calendarii Gregoriani : In quo Errores, Qui Passim in anni quantitate &amp; Epactis, quae festa mobilia vitiosissime determinant, comittuntur, manifeste demonstrantur; &amp; Duplex Calendarii Melioris &amp; expeditioris formula proponitur / Editus Opera Davidis Origani Mathematici Professoris in Academia Francofurtana cis Viadrum</title>
@@ -17342,7 +17152,6 @@ Ausgabebezeichnung: COLONIAE AGRIPPINAE,|| Apud Haeredes Arnoldi Birckmanni.|| M
             </pubPlace>
             <publisher>Heyden, Kaspar</publisher>
             <date when="1619">1619</date>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen1029-reference" corresp="bahnsen1029">
             <title>Kurtze vnd Warhaff=||tige beschreibung/ dises hierzu geh&#xF6;=||renden Landt&#xE4;ffelein/ begreiffend die f&#xFC;rnem=||ste St&#xE4;tt/ Calais/ Ardres/ Guines/ Ha=||mes ... in Franckreich.|| Jtem.|| Grevelinge/ Duynkercke ... || #[et]c.in Flandern.|| Jtem.|| S.Omer ... in Artois.Auch was sich || in derselbigen Gegend/ ... bi&#xDF; ins 1596.|| ... hat zugetragen.|| Per Levinum H&#xFC;lsium.Gal.Ling.Norib.L.M.N.I.||</title>
@@ -17452,7 +17261,6 @@ Ausgabebezeichnung: COLONIAE AGRIPPINAE,|| Apud Haeredes Arnoldi Birckmanni.|| M
             </pubPlace>
             <publisher>Jakob Wolff Erben</publisher>
             <date when="1592">1592</date>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen1039-reference" corresp="bahnsen1039">
             <title>Johan Sommers ... Wasser und Land-reyse/ Gethan nach der Levante, oder Morgen-l&#xE4;ndern: Als Italien/ Candien/ Cyprus/ Egypten/ Rhodus/ Archipelagus/ T&#xFC;rckeyen/ [et]c. und wiederumb zur&#xFC;ck durch Ungern und Teutschlandt : ... Mit beschreibung der Lebens-Art/ Gottesdiensts/ Ceremonien, Gesetze/ und Kriegsh&#xE4;ndel der T&#xFC;rcken ... / au&#xDF; dem Niederl&#xE4;ndischen ins Hochteutsche/ mit flei&#xDF; &#xFC;bergesetzet/ von A. R. L.</title>
@@ -17639,7 +17447,7 @@ Ausgabebezeichnung: COLONIAE AGRIPPINAE,|| Apud Haeredes Arnoldi Birckmanni.|| M
             <author>
               <rs type="person" key="gnd_133461890">Canu, Robbert Robbertsz de</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <publisher>S.n.</publisher>
             <date when="1600">1600</date>
             <idno type="UniCat">6268656</idno>
@@ -17791,7 +17599,6 @@ Ausgabebezeichnung: COLONIAE AGRIPPINAE,|| Apud Haeredes Arnoldi Birckmanni.|| M
             <publisher>Michelspacher, Stephan</publisher>
             <publisher>Meder, Johannes</publisher>
             <date when="1615">1615</date>
-            <idno type="VD17">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen1075-reference" corresp="bahnsen1075">
             <title>Compendium Sciotericorum. Das ist: Ein kurtze und Gr&#xFC;ndliche Beschreibung/ allerhand Sonnen Uhren/ au&#xDF; Nat&#xFC;rlichem Lauff der Sonnen ... mit Circkel und Linialen/ unfehlbar zu machen
@@ -18039,7 +17846,6 @@ Jetzunder zum andernmal in Truck verfertiget/ und an vielen Orten verbessert / D
             </pubPlace>
             <publisher>Tongerloo, Johannes</publisher>
             <date when="1657">[1657]</date>
-            <idno type="STCN">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen1099-reference" corresp="bahnsen1099">
             <title>Mathematische calculatie, dat is, Wiskonstige rekening: leerende het vinden van verscheyden hemelloopsche voorstellen. / By Dyrck Rembrantz van Nierop</title>
@@ -18091,7 +17897,6 @@ Jetzunder zum andernmal in Truck verfertiget/ und an vielen Orten verbessert / D
             </pubPlace>
             <publisher>Plantin, Christophe</publisher>
             <date when="1582">1582</date>
-            <idno type="UB_Gent">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen1103-reference" corresp="bahnsen1103">
             <title>L'Arithm&#xE9;tique de M. Pierre Le Mardel&#xE9;,... avec les d&#xE9;monstrations sur les r&#xE8;gles d'icelle&#x2026;</title>
@@ -18149,7 +17954,6 @@ Jetzunder zum andernmal in Truck verfertiget/ und an vielen Orten verbessert / D
           </bibl>
           <bibl xml:id="bahnsen1107-reference" corresp="bahnsen1107">
             <title>Calendarium Gregorianum perpetuum</title>
-            <idno type="GBV">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen1108-reference" corresp="bahnsen1108">
             <title>pitome Astronomiae : Qua Brevi Explicatione Omnia, Tam Ad Sphaericam quam Theoricam eius partem pertinentia, ex ipsius scientiae fontibus deducta, perspicue per quaestiones traduntur / conscripta Per M. Michaelem Maestlinum, Goeppingensem &#x2026;
@@ -18493,7 +18297,6 @@ Iam Nunc Ab Autore denuo diligenter recognita ...</title>
             </pubPlace>
             <publisher>Tavernier, Melchior</publisher>
             <date when="1641">1641</date>
-            <idno type="SWISSBIB">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen1146-reference" corresp="bahnsen1146">
             <title>Cosmographia, Sive Descriptio Coeli Et Terrae in Circulos : Qua Fundamentum sternitur sequentibus ordine Trigonometriae Sphaericorum Logarithmicae, Astronomiae Spharicae, Geographiae, Histiodromis, Gnomonicae / Absoluto compendio pulcherrima quaevis, &amp; humanis usibus aptissima, Publico donantur a Nicolao Hauffman Holsato</title>
@@ -18587,7 +18390,6 @@ Iam Nunc Ab Autore denuo diligenter recognita ...</title>
             <pubPlace>
               <rs type="place" key="getty_7006952">Amsterdam</rs>
             </pubPlace>
-            <idno type="STCN">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen1159-reference" corresp="bahnsen1159">
             <title>Hondert geometrische questien</title>
@@ -18597,7 +18399,6 @@ Iam Nunc Ab Autore denuo diligenter recognita ...</title>
             <pubPlace>
               <rs type="place" key="getty_7006952">Amsterdam</rs>
             </pubPlace>
-            <idno type="STCN">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen1160-reference" corresp="bahnsen1160">
             <title>Arithmetica Dat ys: Ein nye rekens Boeck van allerley Kopenschop/ up de Welsche Practica gerichtet : Der leven J&#xF6;get thom besten/ in eine bequeme richtige Ordeninge gebracht/ unde mit velen fynen Exempeln unde Fragen erkleret / D&#xF6;rch Brandanum Daetri, Vor&#xF6;rdenden Schryff und Rekenmeister der Stadt Hamborch</title>
@@ -18653,7 +18454,7 @@ Anjetzo zum Andernmahl &#xFC;bers&#xE4;hen/ vermehrt/ und wiederumb in Druck geg
             <author>
               <rs type="person" key="gnd_124367194">Hager, Christoph Achaz</rs>
             </author>
-            <pubPlace>S.l.</pubPlace>
+            <pubPlace>s. l.</pubPlace>
             <date when="1657">[vor 1657]</date>
             <idno type="VD17">7:701286L</idno>
           </bibl>
@@ -18770,7 +18571,6 @@ Neben angehengter Conferirung und vergeleichung/ de&#xDF; Frucht- und Weinmasses
               <rs type="person" key="gnd_118745247">Ries, Adam</rs>
             </author>
             <date when="1592">1592</date>
-            <idno type="VD16">Ausgabe nicht bestimmbar</idno>
           </bibl>
           <bibl xml:id="bahnsen1181-reference" corresp="bahnsen1181">
             <title>Arithmetica ofte reecken-konst. / By Petrus Ramus. ; Translated from the Latin into Dutch by B. Lampe</title>
