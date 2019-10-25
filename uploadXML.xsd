@@ -257,7 +257,7 @@
 	<xs:element name="titleWork" type="xs:string"/>
 	<xs:element name="systemWork" type="xs:string"/>
 	<xs:element name="idWork" type="xs:string"/>
-	<xs:element name="bound" type="xs:integer"/>
+	<xs:element name="bound" type="xs:string"/>
 	<xs:element name="comment" type="xs:string"/>
 	<xs:element name="copiesHAB">
 		<xs:complexType>

@@ -85,10 +85,12 @@ class geoDataArchive {
                 $entry = $this->makeEntryFromGetty($id);
             }
         }
-        if (get_class($entry) == 'geoDataArchiveEntry') {
-            $this->insertEntryIfNew($type, $entry->$type, $entry);
-            return($entry);
-        }
+        if (!empty($entry)) {
+        	if (get_class($entry) == 'geoDataArchiveEntry') {
+ 	           $this->insertEntryIfNew($type, $entry->$type, $entry);
+ 	           return($entry);
+ 	       	}
+ 	    }
         return(null);
     }
 

@@ -2,9 +2,9 @@
 
 class gnd_request {
 
-    public $id;
-    public $errorMessage;
-    private $base = 'http://hub.culturegraph.org/entityfacts/';
+    public $gnd;
+    public $errorMessage = null;
+    //private $base = 'http://hub.culturegraph.org/entityfacts/';
     private $response;
     
     public $preferredName;
@@ -18,15 +18,16 @@ class gnd_request {
     public $placesActivity = array();
     public $academicDegree;
 
-    function __construct($id) {
-        $this->id = $id;
-        if ($this->validateGND() == true) {
-            $string = @file_get_contents($this->base.$this->id);
+    function __construct(gnd $gnd, cache_gnd $cache) {
+        $this->gnd = $gnd;
+        if ($this->gnd->valid == true) {
+            $string = $cache->get($this->gnd->id);
             if (!$string) {
-                $this->errorMessage = 'Server hub.culturegraph.org/entityfacts/ antwortet nicht';
+                $this->errorMessage = 'Cache liefert keine Daten für GND '.$this->gnd->id;
             }
             else {
-                $this->response = json_decode($string);
+                $this->response = json_decode($string, true);
+                //var_dump($this->response);
                 unset($string);
                 foreach ($this->response as $key => $value) {
                     if ($key == 'preferredName') {
@@ -48,14 +49,27 @@ class gnd_request {
                         $this->dateDeath = $value;
                     }
                     if ($key == 'placeOfBirth') {
-                        $this->placeBirth = replaceUml($value[0]->preferredName);
+                        $this->placeBirth = new place;
+                        $this->placeBirth->placeName = replaceUml($value[0]['preferredName']);
+                        if (!empty($value[0]['@id'])) {
+                            $this->placeBirth->gnd = substr($value[0]['@id'], 22);
+                        }
                     }
                     if ($key == 'placeOfDeath') {
-                        $this->placeDeath = replaceUml($value[0]->preferredName);
+                        $this->placeDeath = new place;
+                        $this->placeDeath->placeName = replaceUml($value[0]['preferredName']);
+                        if (!empty($value[0]['@id'])) {
+                            $this->placeDeath->gnd = substr($value[0]['@id'], 22);
+                        }
                     }
                     if ($key == 'placeOfActivity') {
                         foreach ($value as $place) {
-                            $this->placesActivity[] = replaceUml($place->preferredName);
+                            $placeActivity = new place;
+                            $placeActivity->placeName = replaceUml($place['preferredName']);
+                            if (!empty($value[0]['@id'])) {
+                                $placeActivity->gnd = substr($place['@id'], 22);
+                            }
+                            $this->placesActivity[] = $placeActivity;
                         }
                     }
                     if ($key == 'academicDegree') {
@@ -67,13 +81,16 @@ class gnd_request {
         }
     }
 
-    public function validateGND() {
-        if (preg_match('~^[0-9]{8,10}X?$~', $this->id) == 0) {
-            $this->errorMessage = 'Ungültige GND';
-            return(false);
+    static function makeTimeStamp($date) {
+        preg_match('~(v?[0-9]{1,4})$~', $date, $hit);
+        if (isset($hit[1])) {
+            $year = $hit[1];
+            $year = strtr($year, 'v', '-');
+            return($year);
         }
-        return(true);
+        return('');
     }
+
 }
 
 ?>

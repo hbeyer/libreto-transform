@@ -24,6 +24,20 @@ class place {
 		}		
 	}
 
+    public function __toString() {
+        $result = $this->placeName;
+        $syst = array('geoNames', 'gnd', 'getty');
+        foreach ($syst as $syst) {
+            if ($this->$syst) {
+                $result .= ', '.$syst.'_'.$this->$syst;
+            }            
+        }
+        if ($this->geoData['lat'] and $this->geoData['long']) {
+            $result .= ', Koord. '.$this->geoData['long'].','.$this->geoData['lat'];
+        }
+        return($result);
+    }
+
     public function enrichByName($places) {
         foreach ($places as $place) {
             if ($this->placeName == $place->placeName) {
@@ -55,10 +69,14 @@ class place {
 
     public function addGeoData($geoDataArchive, $type, $user = '') {
         $entry = $geoDataArchive->getFromWeb($this->$type, $type, $user);
-        if (get_class($entry) == 'geoDataArchiveEntry') {
+        //var_dump($entry);
+        if ($entry) {
             $this->geoData = array('lat' => $entry->lat, 'long' => $entry->long);
             $geoDataArchive->insertEntryIfNew($type, $this->$type, $entry);
             return(true);
+        }
+        else {
+            echo($this)."\n";
         }
         return(false);
     }

@@ -8,6 +8,7 @@ class reconstruction {
     const FOLDER = 'projectFiles';
     const INCLUDEPATH = 'functions/';
     public $valid = 0;
+    private $GNDList = array();
     
     function __construct($path, $fileName, $format = 'xml') {
         $this->fileName = $fileName;
@@ -153,6 +154,27 @@ class reconstruction {
         $archiveGetty->saveToFile('getty');
     }
 
+    public function makeCompleteGNDList() {
+        foreach ($this->content as $item) {
+            foreach ($item->persons as $person) {
+                if ($person->gnd) {
+                    $this->GNDList[] = $person->gnd;
+                }
+            }
+        }
+        return($this->GNDList);
+    }
+
+    public function makeSelectiveGNDList($include = array()) {
+        foreach ($this->content as $item) {
+            foreach ($item->persons as $person) {
+                if (in_array($person->role, $include)) {
+                    $this->GNDList[] = $person->gnd;
+                }
+            }
+        }
+        return($this->GNDList);        
+    }
 
     private function createDirectory() {
         if (!is_dir(reconstruction::FOLDER.'/'.$this->fileName)) {
