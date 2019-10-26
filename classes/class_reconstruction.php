@@ -47,7 +47,24 @@ class reconstruction {
         $this->saveTEI();
         $this->saveRDF();
         $this->saveSolrXML();
-    }    
+    }
+
+    private function makeBioDataSheet($restrict = array(), $format = 'csv') {
+        if (isset($restrict[0])) {
+            $this->makeSelectiveGNDList($restrict);
+        }
+        else {
+            $this->makeCompleteGNDList();
+        }
+        $cache = new cache_gnd;
+        $bio = new geoData_sheet_bio($this->GNDList, $cache);
+        if ($format == 'csv') {
+            $bio->saveCSV(reconstruction::FOLDER.'/'.$this->fileName.'/');
+        }
+        else {
+            echo 'Diese Methode unterstützt nur CSV';
+        }
+    }
 
     private function saveXML() {
         require(reconstruction::INCLUDEPATH.'makeXML.php');
@@ -69,6 +86,7 @@ class reconstruction {
         require(reconstruction::INCLUDEPATH.'makeGeoDataSheet.php');
         makeGeoDataSheet($this->content, reconstruction::FOLDER.'/'.$this->fileName, 'csv');
         makeGeoDataSheet($this->content, reconstruction::FOLDER.'/'.$this->fileName, 'kml');
+        $this->makeBioDataSheet();
     }
 
     private function saveTEI() {
@@ -154,7 +172,7 @@ class reconstruction {
         $archiveGetty->saveToFile('getty');
     }
 
-    public function makeCompleteGNDList() {
+    private function makeCompleteGNDList() {
         foreach ($this->content as $item) {
             foreach ($item->persons as $person) {
                 if ($person->gnd) {
@@ -165,7 +183,7 @@ class reconstruction {
         return($this->GNDList);
     }
 
-    public function makeSelectiveGNDList($include = array()) {
+    private function makeSelectiveGNDList($include = array()) {
         foreach ($this->content as $item) {
             foreach ($item->persons as $person) {
                 if (in_array($person->role, $include)) {

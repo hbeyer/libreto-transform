@@ -25,12 +25,10 @@ class frontend {
         require(reconstruction::INCLUDEPATH.'makeEntry.php');
         require(reconstruction::INCLUDEPATH.'makeCloudList.php');
         require(reconstruction::INCLUDEPATH.'makeDoughnutList.php');
-        require(reconstruction::INCLUDEPATH.'auxiliaryFunctions.php');
+        require_once(reconstruction::INCLUDEPATH.'auxiliaryFunctions.php');
         recurse_copy('assets', reconstruction::FOLDER.'/'.$this->reconstruction->fileName.'/assets');
 
-    	/* Hier werden die Strukturen (jeweils ein Array aus section-Objekten) gebildet 
-		und im Array $structures zwischengespeichert.
-		*/
+    	//Hier werden die Strukturen (jeweils ein Array aus section-Objekten) gebildet und im Array $structures zwischengespeichert.
 		$structures = array();
 		$count = 0;
 		foreach($this->facetList->pages as $facet) {

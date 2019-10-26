@@ -15,7 +15,7 @@ class geoDataRow { //Row in a file for upload in a geolocation system (KML, CSV 
 		public $geoNames;
 
 		public function serializeCSV() {
-			$row = '"'.$this->label.'","'.$this->label.'","'.$this->label.'","'.$this->long.'","'.$this->lat.'","'.$this->timeStamp.'","","'.$this->getty.'",""
+			$row = '"'.$this->label.'","'.$this->address.'","'.$this->description.'","'.$this->long.'","'.$this->lat.'","'.$this->timeStamp.'","","'.$this->getty.'",""
 ';	
 			return($row);
 		}
@@ -32,10 +32,15 @@ class geoDataRow { //Row in a file for upload in a geolocation system (KML, CSV 
 				$property = 'place'.$type; 
 				$place = $request->$property;
 			}
-			$this->label = $place->placeName.' ('.$translate[$type].'ort von '.$request->preferredName.')';			
-			$place->addGeoData($geoDataArchive, 'gnd');	
-			$this->lat = $place->geoData['lat'];
-			$this->long = $place->geoData['long'];
+			$this->label = $place->placeName;
+			$this->address = $place->placeName;
+			$this->description = $place->placeName.' ('.$translate[$type].'ort von '.$request->preferredName.')';
+			$place->addGeoData($geoDataArchive, 'gnd');
+			if ($place->geoData['lat'] and $place->geoData['long']) {
+				$this->lat = $place->geoData['lat'];
+				$this->long = $place->geoData['long'];
+			}
+			return(true);
 		}
 
 }
