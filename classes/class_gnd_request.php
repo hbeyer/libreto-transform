@@ -66,7 +66,7 @@ class gnd_request {
                         foreach ($value as $place) {
                             $placeActivity = new place;
                             $placeActivity->placeName = replaceUml($place['preferredName']);
-                            if (!empty($value[0]['@id'])) {
+                            if (!empty($place['@id'])) {
                                 $placeActivity->gnd = substr($place['@id'], 22);
                             }
                             $this->placesActivity[] = $placeActivity;

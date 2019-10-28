@@ -33,7 +33,7 @@ Die Methode `reconstruction::insertGeoData()` fügt Geodaten für Orte hinzu.
 
 Die Methode `reconstruction::insertBeacon()` erzeugt Links zu biographischen Nachweissystemen für Personen. 
 
-Die Methode `reconstruction::saveAllFormats()` speichert im Ordner ***projectFiles/{Dateiname}*** die Daten in folgenden Formaten ab: CSV, XML, RDF/XML, Turtle, TEI, SOLR-XML. 
+Die Methode `reconstruction::saveAllFormats()` speichert im Ordner ***projectFiles/{Dateiname}*** die Daten in folgenden Formaten ab: CSV, XML, RDF/XML, Turtle, TEI, SOLR-XML. Außerdem werden Geodatenblätter in CSV und KML erzeugt.
 
 Außerdem werden die Geodaten im KML- und CSV-Format ausgegeben. Zur Erzeugung einer Kartenansicht muss die Datei `printingPlaces.csv` im Datasheet Editor (https://geobrowser.de.dariah.eu/edit/) hochgeladen und die ID der Datensammlung als `geoBrowserStorageID` bei den Metadaten eingefügt werden.
 
@@ -55,3 +55,6 @@ Anschließend wird ein neues Objekt der Klasse `frontend` erzeugt:
 - `$facetList`: Das Objekt der Klasse `facetList`
 
 Die Methode `frontend::build()` sorgt dafür, dass die Ergebnisse als statische HTML-Dateien im Verzeichnis ***projectFiles/{Dateiname}*** abgespeichert werden.
+
+## Erzeugung einer biographischen Karte
+Mit der Methode `reconstruction::makeBioSheet()` kann zusätzlich ein Geodatenblatt zu den als AutorInnen oder BeiträgerInnen in der Sammlung enthaltenen und mit GND-Nummer versehenen Personen erzeugt werden (derzeit nur in CSV). Hierzu werden die GND-Normdatensätze geladen und unter ***cache/gnd*** vorgehalten (zum Auffrischen Ordner leeren). Für jede Nennung einer Person wird ein Ort und ein Datum (bevorzugt Geburtsort und -jahr) wiedergegeben. Die Geodaten werden aus der GND geladen. Von Geographika ohne Geodaten wird der bevorzugte Name angegeben, dieser kann dann mit dem GeoDataSheetEditor von DARIAH-DE ergänzt oder manuell nachgetragen werden.

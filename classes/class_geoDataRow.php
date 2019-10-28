@@ -20,7 +20,7 @@ class geoDataRow { //Row in a file for upload in a geolocation system (KML, CSV 
 			return($row);
 		}
 
-		public function insertPlaceFromGNDRequest($request, $type, $geoDataArchive) {
+		public function insertPlaceFromGNDRequest($request, $type, $geoDataArchive = null) {
 			$translate = array('Birth' => 'Geburts', 'Death' => 'Sterbe', 'Activity' => 'Wirkungs');
 			if (!isset($translate[$type])) {
 				return(false);
@@ -35,10 +35,12 @@ class geoDataRow { //Row in a file for upload in a geolocation system (KML, CSV 
 			$this->label = $place->placeName;
 			$this->address = $place->placeName;
 			$this->description = $place->placeName.' ('.$translate[$type].'ort von '.$request->preferredName.')';
-			$place->addGeoData($geoDataArchive, 'gnd');
-			if ($place->geoData['lat'] and $place->geoData['long']) {
-				$this->lat = $place->geoData['lat'];
-				$this->long = $place->geoData['long'];
+			if ($geoDataArchive != null) {
+				$place->addGeoData($geoDataArchive, 'gnd');
+				if ($place->geoData['lat'] and $place->geoData['long']) {
+					$this->lat = $place->geoData['lat'];
+					$this->long = $place->geoData['long'];
+				}
 			}
 			return(true);
 		}

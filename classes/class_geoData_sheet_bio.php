@@ -42,6 +42,19 @@ class geoData_sheet_bio extends geoData_sheet {
 			$row->insertPlaceFromGNDRequest($request, 'Activity', $this->geoDataArchive);
 			return($row);
 		}
+		if ($request->placeBirth) {
+			$row->insertPlaceFromGNDRequest($request, 'Birth');
+			return($row);
+		}
+		if ($request->placeDeath) {
+			$row->insertPlaceFromGNDRequest($request, 'Death');
+			return($row);
+		}
+		if (!empty($request->placesActivity[0])) {
+			$row->insertPlaceFromGNDRequest($request, 'Activity');
+			return($row);
+		}		
+
 		return(null);
 	}
 	

@@ -49,7 +49,7 @@ class reconstruction {
         $this->saveSolrXML();
     }
 
-    private function makeBioDataSheet($restrict = array(), $format = 'csv') {
+    public function makeBioDataSheet($restrict = array(), $format = 'csv') {
         if (isset($restrict[0])) {
             $this->makeSelectiveGNDList($restrict);
         }
@@ -86,7 +86,6 @@ class reconstruction {
         require(reconstruction::INCLUDEPATH.'makeGeoDataSheet.php');
         makeGeoDataSheet($this->content, reconstruction::FOLDER.'/'.$this->fileName, 'csv');
         makeGeoDataSheet($this->content, reconstruction::FOLDER.'/'.$this->fileName, 'kml');
-        $this->makeBioDataSheet();
     }
 
     private function saveTEI() {
