@@ -214,9 +214,9 @@ function cleanCoordinate($coordinate) {
 }
 
 function removeSpecial($name) {
-	$translation = array('Á' => 'A', 'Ł' => 'L', 'Ğ' => 'G', 'Ǧ' => 'G', 'Ĝ' => 'G', 'Ḥ' => 'H', 'ã' => 'a', 'ā' => 'a');
+	$translation = array('Á' => 'A', 'Ł' => 'L', 'Ğ' => 'G', 'Ǧ' => 'G', 'Ĝ' => 'G', 'Ḥ' => 'H', 'ã' => 'a', 'ā' => 'a', 'Ö' => 'Oe');
 	$name = strtr($name, $translation);
-	return($name);	
+	return($name);
 }
 
 function convertWindowsToUTF8($string) {

@@ -168,7 +168,7 @@ function makeList($structure, $catalogue) {
 }
 
 function makeBeaconLinks($gnd, $repository) {
-    $linkArray = $repository->getLinks($gnd, '_blank');
+    $linkArray = $repository->getLinks(new gnd($gnd), '_blank');
     array_unshift($linkArray, '<a href="http://d-nb.info/gnd/'.$gnd.'" target="_blank">DNB</a>');
     return(implode(' | ', $linkArray));
 }
