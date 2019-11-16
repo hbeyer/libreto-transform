@@ -2,8 +2,10 @@
 
 class reconstruction {
 
-    public $catalogue = null;
+    //public $catalogue = null;
+    public $catalogues = array();
     public $content = array();
+    public $metadataReconstruction;
     public $fileName;
     const FOLDER = 'projectFiles';
     const INCLUDEPATH = 'functions/';

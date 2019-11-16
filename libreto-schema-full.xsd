@@ -230,6 +230,7 @@
         <xs:element ref="bound"/>
         <xs:element ref="digi"/>        
         <xs:element ref="copy"/>
+        <xs:element ref="comment"/>
       </xs:choice>
     </xs:complexType>
   </xs:element>
@@ -238,7 +239,7 @@
   <xs:element name="titleCat">
     <xs:complexType mixed="true">
       <xs:attribute name="cat" use="required" type="xs:IDREF"/>
-      <xs:attribute name="number" type="xs:string"/>
+      <xs:attribute name="no" type="xs:string"/>
       <xs:attribute name="section" type="xs:IDREF"/>
     </xs:complexType>
   </xs:element>
@@ -613,66 +614,34 @@
   </xs:element>
   <xs:element name="language" type="xs:string"/>
   <xs:element name="work">
-    <xs:complexType mixed="true">
-      <xs:attribute name="gnd" type="xs:NMTOKEN"/>
+    <xs:complexType>
+      <xs:all maxOccurs="1">
+        <xs:element name="title" type="xs:string"/>
+        <xs:element ref="comment" minOccurs="0"/>
+      </xs:all>
+      <xs:attribute ref="system"/>
+      <xs:attribute ref="id"/>
     </xs:complexType>
   </xs:element>
   <xs:element name="manifestation">
-    <xs:complexType mixed="true">
-      <xs:attribute name="system" use="required">
-        <xs:simpleType>
-          <xs:restriction base="xs:string">
-            <!-- Diese Liste kann um neue Datenbanken erweitert werden, wenn ein stabiler Link, der die ID enthält, gebildet werden kann. -->
-            <xs:enumeration value="VD16"/>
-            <xs:enumeration value="VD17"/>
-            <xs:enumeration value="VD18"/>
-            <xs:enumeration value="EDIT16"/>
-            <!--<xs:enumeration value="USTC"/>-->
-            <xs:enumeration value="GBV"/>
-            <xs:enumeration value="SWB"/>
-            <xs:enumeration value="HBZ"/>
-            <xs:enumeration value="BVB"/>
-            <!--<xs:enumeration value="BSB"/>-->
-            <xs:enumeration value="HeBIS"/>
-            <!--<xs:enumeration value="SBB"/>-->
-            <xs:enumeration value="DNB"/>
-            <xs:enumeration value="Paris BnF"/>
-            <xs:enumeration value="ESTC"/>
-            <xs:enumeration value="COPAC"/>
-            <xs:enumeration value="London BL"/>
-            <xs:enumeration value="LoC"/>
-            <xs:enumeration value="Den Haag KB"/>
-            <xs:enumeration value="Wien ÖNB"/>
-            <xs:enumeration value="Kopenhagen KB"/>
-            <xs:enumeration value="GW"/>
-            <xs:enumeration value="ISTC"/>
-            <!--<xs:enumeration value="INKA"/>-->
-            <xs:enumeration value="SUDOC"/>
-            <xs:enumeration value="SBN"/>
-            <xs:enumeration value="UniCat"/>
-            <xs:enumeration value="NEBIS"/>
-            <xs:enumeration value="SWISSBIB"/>
-            <xs:enumeration value="RERO"/>
-            <!--<xs:enumeration value="LBVÖ"/>-->
-            <xs:enumeration value="STCN"/>
-            <xs:enumeration value="ZDB"/>
-            <!--<xs:enumeration value="UB Antwerpen"/><xs:enumeration value="UB Gent"/><xs:enumeration value="Josiah"/><xs:enumeration value="SOLO"/><xs:enumeration value="UUL"/><xs:enumeration value="BUvA"/>-->
-            <xs:enumeration value="Ohne Nachweis"/>
-            <xs:enumeration value="Ausgabe nicht bestimmbar"/>
-          </xs:restriction>          
-        </xs:simpleType>
-      </xs:attribute>
+    <xs:complexType>
+      <xs:all>
+        <xs:element ref="comment" minOccurs="0"/>
+      </xs:all>
+      <xs:attribute ref="system" use="required"/>
+      <xs:attribute ref="id" use="required"/>
     </xs:complexType>
   </xs:element>
   <xs:element name="originalItem">
     <xs:complexType>
-      <xs:choice maxOccurs="unbounded">
+      <xs:all maxOccurs="1">
         <xs:element minOccurs="1" ref="institution"/>
         <xs:element minOccurs="1" ref="shelfmark"/>
-        <xs:element ref="provenanceAttribute"/>
-        <xs:element ref="url"/>
-        <xs:element ref="digi"/>
-      </xs:choice>
+        <xs:element ref="provenanceAttribute" minOccurs="0"/>
+        <xs:element ref="url" minOccurs="0"/>
+        <xs:element ref="digi" minOccurs="0"/>
+        <xs:element ref="comment" minOccurs="0"/>
+      </xs:all>
     </xs:complexType>
   </xs:element>
   <xs:element name="provenanceAttribute" type="xs:string"/>
@@ -684,4 +653,7 @@
     </xs:complexType>
   </xs:element>
   <xs:element name="digi" type="xs:anyURI"/>
+  <xs:element name="comment" type="xs:string"/>
+  <xs:attribute name="id" type="xs:string"/>
+  <xs:attribute name="system" type="xs:string"/>
 </xs:schema>

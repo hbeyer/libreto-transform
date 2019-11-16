@@ -1,5 +1,6 @@
 ﻿<?php
 
+//Redundant?
 function saveRDF($data, $catalogue, $base = 'http://bibliotheksrekonstruktion.hab.de/') {
     
     $graph = new EasyRdf_Graph();
@@ -34,6 +35,7 @@ function saveRDF($data, $catalogue, $base = 'http://bibliotheksrekonstruktion.ha
 	$rdfxml = $serialiserX->serialise($graph, 'rdfxml');
 	file_put_contents('user/'.$catalogue->fileName.'/'.$catalogue->fileName.'.rdf', $rdfxml); 
 }
+
 
 function saveRDFtoPath($data, $catalogue, $path, $base = 'http://bibliotheksrekonstruktion.hab.de/') {
     

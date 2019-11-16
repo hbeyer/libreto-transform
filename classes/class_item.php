@@ -10,11 +10,13 @@ class item	{ //Refers to an item (book, manuscript, etc.) listed in the catalogu
 	public $volumesMisc; //If the item is part of a miscellany, the number indicates the number of volumes of the miscellany.
 	public $volumeNote = array('misc' => '', 'positionMisc' => '');
 	public $titleCat; //The title as found in the catalogue
+	public $catEntries = array();
 	public $titleBib;	//The title as copied from a bibliographic database (cf. $manifestation)
 	public $titleNormalized; // A normalized form of the title to facilitate reading and searching
 	public $persons = array(); //Objects of the class person
 	public $places = array(); //Objects of the class place
 	public $publishers = array();
+	public $publishersObj = array();
 	public $year;
 	public $format;
 	public $histSubject;
@@ -23,8 +25,8 @@ class item	{ //Refers to an item (book, manuscript, etc.) listed in the catalogu
 	public $genres = array(); // Contains one ore more indications of genre as string
 	public $mediaType; //Book, Manuscript, Physical Object, etc.
 	public $languages = array(); //One or more language codes according to ISO 639.2
-	public $manifestation = array('systemManifestation' => '', 'idManifestation' => ''); //Entry in a bibliographic database or library catalogue			
-	public $originalItem = array('institutionOriginal' => '', 'shelfmarkOriginal' => '', 'provenanceAttribute' => '', 'digitalCopyOriginal' => '', 'targetOPAC' => '', 'searchID' => '');
+	public $manifestation = array('systemManifestation' => '', 'idManifestation' => '', 'commentManifestation' => ''); //Entry in a bibliographic database or library catalogue			
+	public $originalItem = array('institutionOriginal' => '', 'shelfmarkOriginal' => '', 'provenanceAttribute' => '', 'digitalCopyOriginal' => '', 'targetOPAC' => '', 'searchID' => '', 'OPACLink' => '', 'commentOriginal' => '');
 	public $work = array('titleWork' => '', 'systemWork' => '', 'idWork' => ''); //Entry for the work in a public database.			
 	public $bound = 1;
 	public $comment;
@@ -124,9 +126,16 @@ class item	{ //Refers to an item (book, manuscript, etc.) listed in the catalogu
         else {
             $this->$name = $value;
         }
-
 	}
 	
+	public function importFirstCatEntry() {
+		if (isset($this->catEntries[0])) {
+			foreach ($this->catEntries[0] as $key => $value) {
+				$this->$key = $value;
+			}
+		}
+	}
+
 	private function insertNumber($number) {
 		$explode = explode('S', $number);
 		if (!empty($explode[1])) {
@@ -155,7 +164,7 @@ class item	{ //Refers to an item (book, manuscript, etc.) listed in the catalogu
             $this->$field = strtr($this->$field, $translation);
             $this->$field = trim($this->$field);
         }
-    }    
+    }
 	
 }
 

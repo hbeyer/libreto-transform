@@ -5,7 +5,7 @@ class  uploader {
     public $path;
     public $format;
     public $fileName;
-    private $permittedFormats = array('xml', 'csv', 'php', 'sql_dh');
+    private $permittedFormats = array('xml', 'csv', 'php', 'sql_dh', 'xml_full');
     public $valid = 0;
 
     function __construct($path, $fileName = '', $format = '') {
@@ -46,6 +46,9 @@ class  uploader {
         if ($this->format == 'xml') {
             return($this->loadMetaXML());
         }
+        if ($this->format == 'xml_full') {
+            return($this->loadMetaFullXML());
+        }        
         else {
             return($this->loadMetaFile());
         }
@@ -96,6 +99,19 @@ class  uploader {
 	    return($catalogue);        
     }
 
+    private function loadMetaFullXML() {
+        $xml = new DOMDocument();
+        $xml->load($this->path);
+        $metadataNode = $xml->getElementsByTagName('metadata');
+        /*
+        Hier muss grundlegend umstrukturiert werden: Es gibt Metadaten für die Rekonstruktion und einen oder mehr Kataloge
+        $catalogue = new catalogue;
+        if($metadataNode->item(0)) {
+            $catalogue = loadMetadataFromNode($metadataNode->item(0));
+        }
+        return($catalogue);        
+        */
+    } 
     
     private function loadMetaFile() {
         $metaPath = reconstruction::FOLDER.'/'.$this->fileName.'/'.$this->fileName.'-cat.php';
