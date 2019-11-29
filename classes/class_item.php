@@ -165,7 +165,27 @@ class item	{ //Refers to an item (book, manuscript, etc.) listed in the catalogu
             $this->$field = trim($this->$field);
         }
     }
-	
+
+    public function convertToFull() {
+    	if ($this->catEntries == array()) {
+	    	$catEntry = new catalogue_entry;
+			$catEntry->idCat = 'cat1';
+			$catEntry->titleCat = $this->titleCat;
+			$catEntry->numberCat = $this->numberCat;
+			$catEntry->pageCat = $this->pageCat;
+			$catEntry->imageCat = $this->imageCat;	
+			$catEntry->histSubject = $this->histSubject;
+			$this->catEntries[] = $catEntry;
+    	}
+		if ($this->publishersObj != array()) {
+			foreach ($this->publishers as $namePublisher) {
+				$publisher = new publisher;
+				$publisher->name = $namePublisher;
+				$this->publishersObj[] = $publisher;
+			}
+		}
+
+	}
 }
 
 ?>

@@ -2,10 +2,10 @@
 
 class reconstruction {
 
-    //public $catalogue = null;
+    public $catalogue = null;
     public $catalogues = array();
-    public $content = array();
     public $metadataReconstruction;
+    public $content = array();    
     public $fileName;
     const FOLDER = 'projectFiles';
     const INCLUDEPATH = 'functions/';
@@ -25,6 +25,35 @@ class reconstruction {
         if (get_class($this->catalogue) == 'catalogue') {
             $this->valid = 1;
             $this->catalogue->fileName = $this->fileName;
+        }
+    }
+
+    public function transformMetadata() {
+        if (empty($this->metadataReconstruction) and empty($this->catalogues)) {
+            $set = new metadata_reconstruction;
+            $newCat = clone($this->catalogue);
+            $newCat->id = 'cat1';
+            $transfer = array('heading', 'owner', 'ownerGND', 'fileName', 'description', 'geoBrowserStorageID', 'creatorReconstruction', 'yearReconstruction');
+            foreach ($transfer as $prop) {
+                if (!empty($newCat->$prop)) {
+                    $set->$prop = $this->catalogue->$prop;
+                    $newCat->$prop = null;
+                }
+            }
+            if ($newCat->placeCat and $newCat->places == array()) {
+                $place = new place;
+                $place->placeName = $newCat->placeCat;
+                $newCat->places[] = $place;
+            }
+            $this->metadataReconstruction = $set;
+            $newCat->addSections($this->content);
+            $this->catalogues[] = $newCat;
+        }
+    }
+
+    public function transformContent() {
+        foreach ($this->content as $item) {
+            $item->convertToFull();
         }
     }
 

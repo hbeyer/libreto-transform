@@ -24,7 +24,18 @@ class catalogue {
 	public $shelfmark; //Shelfmark of the copy of the catalogue
 	// Zusätzliche Variable
 	public $persons = array();
+	public $places = array();
 	public $sections = array();
+
+	public function addSections($items) {
+		$index = makeIndex($items, 'histSubject');
+		$count = 1;
+		foreach ($index as $entry) {
+			$section = new catalogue_section('sect'.$count, $entry->label);
+			$this->sections[] = $section;
+			$count++;
+		}
+	}
 
 }
 
