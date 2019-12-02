@@ -11,24 +11,39 @@ class reconstruction {
     const INCLUDEPATH = 'functions/';
     public $valid = 0;
     private $GNDList = array();
-    
+
     function __construct($path, $fileName, $format = 'xml') {
         $this->fileName = $fileName;
         $this->createDirectory();
-        $uploader = new uploader($path, $this->fileName, $format);
-        $this->content = $uploader->load();
-        if ($this->content == null) {
-           throw new Exception('Kein Content geladen.');
+        if ($format == 'xml') {
+            $uploader = new uploader_xml($path, $this->fileName);
         }
+        elseif ($format == 'xml_full') {
+            $uploader = new uploader_xml_full($path, $this->fileName);
+        }
+        elseif ($format == 'csv') {
+            $uploader = new uploader_csv($path, $this->fileName);
+        }
+        elseif ($format == 'php') {
+            $uploader = new uploader_php($path, $this->fileName);
+        }
+        else {
+            throw new Exception('Falsche Formatangabe: '.$format.'. Erlaubt sind xml, csv und xml_full', 1);
+        }
+        $this->metadataReconstruction = $uploader->loadMetadata();
+        $this->catalogues = $uploader->loadCatalogues();
+        $this->content = $uploader->loadContent($this->fileName); //Unelegant, weil das nur für xml_full gebraucht wird
         $this->insertIDs();
-        $this->catalogue = $uploader->loadMetadata();
-        if (get_class($this->catalogue) == 'catalogue') {
-            $this->valid = 1;
-            $this->catalogue->fileName = $this->fileName;
+        if ($format == 'csv' or $format == 'xml') {
+            $this->convertMetadataToFull();
+            $this->convertContentToFull();
+        }
+        elseif ($format == 'xml_full') {
+            $this->convertMetadataToDefault();
         }
     }
 
-    public function transformMetadata() {
+    private function convertMetadataToFull() {
         if (empty($this->metadataReconstruction) and empty($this->catalogues)) {
             $set = new metadata_reconstruction;
             $newCat = clone($this->catalogue);
@@ -51,9 +66,18 @@ class reconstruction {
         }
     }
 
-    public function transformContent() {
+    private function convertContentToFull() {
         foreach ($this->content as $item) {
             $item->convertToFull();
+        }
+    }
+
+    private function convertMetadataToDefault() {
+        if (empty($this->catalogue) and isset($this->catalogues[0])) {
+            $this->catalogue = $this->catalogues[0];
+        }
+        if ($this->metadataReconstruction) {
+            $this->catalogue->importFromMetadataSet($this->metadataReconstruction);
         }
     }
 

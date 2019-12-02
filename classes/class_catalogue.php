@@ -22,8 +22,9 @@ class catalogue {
 	public $year;
 	public $institution; //Institution possessing the copy of the catalogue
 	public $shelfmark; //Shelfmark of the copy of the catalogue
-	// Zusätzliche Variable
-	public $persons = array();
+
+	// Zusätzliche Variablen
+	public $persons = array(); // Beteiligte der Rekonstruktion als Objekte vom Typ person
 	public $places = array();
 	public $sections = array();
 
@@ -35,6 +36,24 @@ class catalogue {
 			$this->sections[] = $section;
 			$count++;
 		}
+	}
+
+	public function importFromMetadataSet(metadata_reconstruction $set) {
+		foreach ($set as $key => $value) {
+			if ($this->$key == null) {
+				$this->$key = $value;
+			}
+		}
+	}
+
+	public function makeMetadataSet() {
+		$set = new metadata_reconstruction;
+		foreach ($this as $key => $value) {
+			if (property_exists('metadata_reconstruction', $key)) {
+				$set->$key = $value;
+			}
+		}
+		return($set);
 	}
 
 }
