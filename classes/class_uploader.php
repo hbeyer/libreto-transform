@@ -12,6 +12,20 @@ class  uploader {
         $this->fileName = $fileName;
         $this->format = $format;
     }
+
+    public function loadCatalogues() {
+        $catalogue = $this->loadMetaFile();
+        if ($catalogue->id == null) {
+            $catalogue->id = 'cat1';
+        }
+        return(array($catalogue));
+    }
+
+    public function loadMetadata() {
+        $catalogue = $this->loadMetaFile();
+        $set = $catalogue->makeMetadataSet();
+        return($set);
+    }    
     
     protected function loadMetaFile() {
         $metaPath = reconstruction::FOLDER.'/'.$this->fileName.'/'.$this->fileName.'-cat.php';
@@ -34,46 +48,6 @@ class  uploader {
                 return($catalogue);
             }
         }
-    }
-
-// Das kommt in eine eigene Klasse
-    private function loadSQL_DH() {
-
-        require('private/connectionData.php');
-
-        try {
-             $pdo = new PDO($dsn, $user, $pass, $options);
-        } catch (\PDOException $e) {
-             throw new \PDOException($e->getMessage(), (int)$e->getCode());
-        }
-
-        $data = $pdo->query('SELECT * FROM Zusammenfassung')->fetchAll(PDO::FETCH_CLASS, 'item');
-        $persons = $pdo->query('SELECT * FROM Autor')->fetchAll(PDO::FETCH_CLASS, 'person');
-        $data = $this->enrichPersons($data, $persons);
-        unset($persons);
-        $places = $pdo->query('SELECT * FROM Ort')->fetchAll(PDO::FETCH_CLASS, 'place');
-        $data = $this->enrichPlaces($data, $places);
-
-        return($data);
-
-    }
-
-    private function enrichPersons($data, $personList) {
-        foreach ($data as $item) {
-            foreach ($item->persons as $person) {
-                $person->enrichByName($personList);
-            }
-        }
-        return($data);
-    }
-
-    private function enrichPlaces($data, $placeList) {
-        foreach ($data as $item) {
-            foreach ($item->places as $place) {
-                $place->enrichByName($placeList);
-            }
-        }
-        return($data);
     }
 
 }

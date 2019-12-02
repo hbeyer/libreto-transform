@@ -10,20 +10,6 @@ class uploader_php extends uploader {
 	    $string = file_get_contents($this->path);
         $this->unserialized = unserialize($string);
         $this->validate();
-    }	
-
-    public function loadCatalogues() {
-        $catalogue = $this->loadMetaFile();
-        if ($catalogue->id == null) {
-            $catalogue->id = 'cat1';
-        }
-        return(array($catalogue));
-    }
-
-    public function loadMetadata() {
-        $catalogue = $this->loadMetaFile();
-        $set = $catalogue->makeMetadataSet();
-        return($set);
     }
 
     public function loadContent($fileName = '') {

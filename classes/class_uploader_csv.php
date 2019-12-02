@@ -14,20 +14,6 @@ class uploader_csv extends uploader {
         $this->fieldNames = str_getcsv(array_shift($rows), ';');
         $this->rows = $this->makeAssocRows($rows, $this->fieldNames);  
         $this->valid = $this->validate();
-    }	
-
-    public function loadCatalogues() {
-        $catalogue = $this->loadMetaFile();
-        if ($catalogue->id == null) {
-            $catalogue->id = 'cat1';
-        }
-        return(array($catalogue));
-    }
-
-    public function loadMetadata() {
-        $catalogue = $this->loadMetaFile();
-        $set = $catalogue->makeMetadataSet();
-        return($set);
     }
 
     public function loadContent($fileName = '') {

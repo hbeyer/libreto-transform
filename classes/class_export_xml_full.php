@@ -2,16 +2,9 @@
 
 class export_xml_full extends export {
 
-	private $dom;
-
 	function __construct(reconstruction $reconstruction) {
 		$this->reconstruction = $reconstruction;
-		$this->reconstruction->transformMetadata();
-		$this->reconstruction->transformContent();
-		$this->dom = new DOMDocument('1.0', 'UTF-8');
-		$this->dom->formatOutput = true;
-		$this->dom->loadXML('<collection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
- xsi:noNamespaceSchemaLocation="http://bibliotheksrekonstruktion.hab.de/libreto-schema-full.xsd"></collection>');
+		$this->makeEmptyDOM();
 		$root = $this->dom->getElementsByTagName('collection')->item(0);
 	    $this->addMetadata($root);
 	    $this->addContent($root);
@@ -29,6 +22,7 @@ class export_xml_full extends export {
 		}
 		foreach ($this->reconstruction->catalogues as $catalogue) {
 			$catElement = $this->dom->createElement('catalogue');
+			$catElement->setAttribute('id', $catalogue->id);
 			$catFields = array('title', 'year', 'institution', 'shelfmark', 'base');
 			foreach ($catalogue as $field => $value) {
 				if (in_array($field, $catFields)) {

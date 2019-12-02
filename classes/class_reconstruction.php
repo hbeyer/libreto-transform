@@ -27,6 +27,9 @@ class reconstruction {
         elseif ($format == 'php') {
             $uploader = new uploader_php($path, $this->fileName);
         }
+        elseif ($format == 'sql_dh') {
+            $uploader = new uploader_sql_dh($this->fileName);
+        }        
         else {
             throw new Exception('Falsche Formatangabe: '.$format.'. Erlaubt sind xml, csv und xml_full', 1);
         }
@@ -34,36 +37,17 @@ class reconstruction {
         $this->catalogues = $uploader->loadCatalogues();
         $this->content = $uploader->loadContent($this->fileName); //Unelegant, weil das nur für xml_full gebraucht wird
         $this->insertIDs();
-        if ($format == 'csv' or $format == 'xml') {
-            $this->convertMetadataToFull();
+        if ($format == 'csv' or $format == 'xml' or $format == 'php') {
+            $this->convertCatalogueToFull();
             $this->convertContentToFull();
         }
         elseif ($format == 'xml_full') {
             $this->convertMetadataToDefault();
         }
     }
-
-    private function convertMetadataToFull() {
-        if (empty($this->metadataReconstruction) and empty($this->catalogues)) {
-            $set = new metadata_reconstruction;
-            $newCat = clone($this->catalogue);
-            $newCat->id = 'cat1';
-            $transfer = array('heading', 'owner', 'ownerGND', 'fileName', 'description', 'geoBrowserStorageID', 'creatorReconstruction', 'yearReconstruction');
-            foreach ($transfer as $prop) {
-                if (!empty($newCat->$prop)) {
-                    $set->$prop = $this->catalogue->$prop;
-                    $newCat->$prop = null;
-                }
-            }
-            if ($newCat->placeCat and $newCat->places == array()) {
-                $place = new place;
-                $place->placeName = $newCat->placeCat;
-                $newCat->places[] = $place;
-            }
-            $this->metadataReconstruction = $set;
-            $newCat->addSections($this->content);
-            $this->catalogues[] = $newCat;
-        }
+    
+    private function convertCatalogueToFull() {
+        $this->catalogues[0]->addSections($this->content);
     }
 
     private function convertContentToFull() {
@@ -124,6 +108,10 @@ class reconstruction {
     private function saveXML() {
         require(reconstruction::INCLUDEPATH.'makeXML.php');
         saveXML($this->content, $this->catalogue, reconstruction::FOLDER.'/'.$this->fileName);
+    }
+
+    public function saveXMLFull() {
+        $export = new export_xml_full($this);
     }
 
     private function saveCSV() {
