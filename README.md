@@ -22,10 +22,15 @@ Daten können in XML oder in CSV erfasst werden. Zur Anlage eines XML-Dokuments 
 ## Transformation
 Ein Transformationsskript kann unter Verwendung der Datei ***transform.php*** erstellt werden. Hierin muss zunächst ein Objekt der Klasse `reconstruction` in folgender Weise erzeugt werden:
 
-`reconstruction::__construct(string $path, string $fileName, [string $format = 'xml'])`
+`reconstruction::__construct(string $path, string $fileName [, string $format = 'xml'])`
 - `$path`: Pfad zur Ausgangsdatei mit Dateiname und -Endung.
 - `$fileName`: Dateiname für das Projekt
-- `$format`: Format der Ausgangsdatei. Neben 'xml' (Standardwert) und 'csv' sind für kundige Anwender/innen auch die Optionen 'php' (serialisierter PHP-Dateien) und 'sql_dh' (Datenbank mit proprietärem Schema) erlaubt.
+- `$format`: Format der Ausgangsdatei. Vorgesehen sind:
+	- 'csv': CSV-Datei 
+	- 'xml' (Standardwert): XML-Datei, die gegen das Schema uploadXML.xsd validiert
+	- 'xml_full': XML-Datei, die gegen das Schema libreto-schmema-full.xsd validiert
+	- 'php': Serialisierte PHP-Daten (werden automatisch erzeugt und im Projektordner unter `dataPHP` abgelegt)
+	- 'sql_dh': MySQL-Datenbank nach einem proprietären Schema. Die Zugangsdaten werden in der Datei `private/connectionData.php` nach der Vorlage `connectionData.php.template` eingetragen. Das Datenbankschema liegt unter `schema-dh.sql`
 
 Die Methode `reconstruction::enrichData()` fügt Geodaten für Orte sowie Links zu biographischen Nachweissystemen bei Personen hinzu und vergibt IDs für Sammelbände.
 
@@ -43,7 +48,7 @@ Wurde eine andere Option als 'xml' bei der Erstellung des Objekts von der Klasss
 ## Erzeugen der Website
 Hierzu muss zunächst ein Objekt der Klasse `facetList` erzeugt werden. Bei Erzeugung des Objekts ohne Parameter werden für die Auswahl der darzustellenden Felder Standardsets angewandt. Die Sets können in der folgenden Weise überschrieben werden:
 
-`facetList::__construct([array $pages [array $doughnuts [array $clouds]]])`
+`facetList::__construct([array $pages [, array $doughnuts [, array $clouds]]])`
 - `$pages`: Array mit Namen von Feldern, die als eigene Seite dargestellt werden sollen. Mögliche Werte: `numberCat`, `catSubjectFormat`, `shelfmarkOriginal`, `histSubject`, `persName`, `gender`, `beacon`, `year`, `subjects`, `histShelfmark`, `genres`, `languages`, `placeName`, `publishers`, `format`, `volumes`, `mediaType`, `bound`, `systemManifestation`, `institutionOriginal`, `provenanceAttribute`, `pageCat`, `titleWork`, `borrower`, `dateLending`
 - `$doughnuts`: Array mit Namen von Feldern, die als Kreisdiagramm dargestellt werden sollen. Mögliche Werte: `persName`, `gender`, `format`, `histSubject`, `subjects`, `genres`, `mediaType`, `languages`, `systemManifestation`, `institutionOriginal`, `provenanceAttribute`, `bound`, `beacon`
 - `$clouds`: Array mit Namen von Feldern, die als Wortwolken dargestellt werden sollen. Mögliche Werte: `publishers`, `format`, `histSubject`, `subjects`, `genres`, `mediaType`, `persName`, `gnd`, `role`, `placeName`, `languages`, `systemManifestation`, `institutionOriginal`, `shelfmarkOriginal`, `provenanceAttribute`, `beacon`, `borrower`
