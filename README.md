@@ -9,7 +9,7 @@ Die Anwendung erfordert einen Server mit PHP (getestet mit Version 5.6–7.3) un
 ## Installation
 Kopieren Sie alle Dateien in einen Ordner auf dem Server.
 
-Benennen Sie im Ordner ***private/*** die Datei **settings.php.template** um in **settings.php** und tragen Sie die folgenden Angaben ein:
+Benennen Sie im Ordner ***private/*** die Datei ***settings.php.template*** um in ***settings.php*** und tragen Sie die folgenden Angaben ein:
 - Unter `$userGeoNames` der Login Ihres Accounts bei geoNames (http://www.geonames.org/login)
 - Unter `$userAgentHTTP` Ihren Namen in beliebiger Form
 - Unter `$impressum` die URL des Impressums, das für die Publikation der Seite gültig ist
@@ -27,10 +27,10 @@ Ein Transformationsskript kann unter Verwendung der Datei ***transform.php*** er
 - `$fileName`: Dateiname für das Projekt
 - `$format`: Format der Ausgangsdatei. Vorgesehen sind:
 	- 'csv': CSV-Datei 
-	- 'xml' (Standardwert): XML-Datei, die gegen das Schema `uploadXML.xsd` validiert
-	- 'xml_full': XML-Datei, die gegen das Schema `libreto-schmema-full.xsd` validiert
+	- 'xml' (Standardwert): XML-Datei, die gegen das Schema ***uploadXML.xsd*** validiert
+	- 'xml_full': XML-Datei, die gegen das Schema ***libreto-schmema-full.xsd*** validiert
 	- 'php': Serialisierte PHP-Daten (werden automatisch erzeugt und im Projektordner unter `dataPHP` abgelegt)
-	- 'sql_dh': MySQL-Datenbank nach einem proprietären Schema. Die Zugangsdaten werden in der Datei `private/connectionData.php` nach der Vorlage `connectionData.php.template` eingetragen. Das Datenbankschema liegt unter `schema-dh.sql`
+	- 'sql_dh': MySQL-Datenbank nach einem proprietären Schema. Die Zugangsdaten werden in der Datei ***private/connectionData.php*** nach der Vorlage ***connectionData.php.template*** eingetragen. Das Datenbankschema liegt unter ***schema-dh.sql***
 
 Die Methode `reconstruction::enrichData()` fügt Geodaten für Orte sowie Links zu biographischen Nachweissystemen bei Personen hinzu und vergibt IDs für Sammelbände.
 
