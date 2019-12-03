@@ -43,7 +43,7 @@ Die Methode `reconstruction::saveAllFormats()` speichert im Ordner ***projectFil
 Außerdem werden die Geodaten im KML- und CSV-Format ausgegeben. Zur Erzeugung einer Kartenansicht muss die Datei `printingPlaces.csv` im Datasheet Editor (https://geobrowser.de.dariah.eu/edit/) hochgeladen und die ID der Datensammlung als `geoBrowserStorageID` bei den Metadaten eingefügt werden.
 
 ## Metadatenanreicherung (entfällt bei XML)
-Wurde eine andere Option als 'xml' bei der Erstellung des Objekts von der Klassse `reconstruction` gewählt, so kommt beim Ausführen des Skripts zunächst eine Aufforderung zum Ausfüllen der Datei ***projectFiles/{Dateiname}/{Dateiname}-cat.php***. Hier müssen alle Angaben in geschweiften Klammern ersetzt bzw. die entsprechende Zeile entfernt werden.
+Wurde eine andere Option als 'xml' bei der Erstellung des Objekts der Klasse `reconstruction` gewählt, so kommt beim Ausführen des Skripts zunächst eine Aufforderung zum Ausfüllen der Datei ***projectFiles/{Dateiname}/{Dateiname}-cat.php***. Hier müssen alle Angaben in geschweiften Klammern ersetzt bzw. die entsprechende Zeile entfernt werden.
 
 ## Erzeugen der Website
 Hierzu muss zunächst ein Objekt der Klasse `facetList` erzeugt werden. Bei Erzeugung des Objekts ohne Parameter werden für die Auswahl der darzustellenden Felder Standardsets angewandt. Die Sets können in der folgenden Weise überschrieben werden:
