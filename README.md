@@ -53,19 +53,9 @@ Hierzu muss zunächst ein Objekt der Klasse `facetList` erzeugt werden. Bei Erze
 - `$doughnuts`: Array mit Namen von Feldern, die als Kreisdiagramm dargestellt werden sollen. Mögliche Werte: `persName`, `gender`, `format`, `histSubject`, `subjects`, `genres`, `mediaType`, `languages`, `systemManifestation`, `institutionOriginal`, `provenanceAttribute`, `bound`, `beacon`
 - `$clouds`: Array mit Namen von Feldern, die als Wortwolken dargestellt werden sollen. Mögliche Werte: `publishers`, `format`, `histSubject`, `subjects`, `genres`, `mediaType`, `persName`, `gnd`, `role`, `placeName`, `languages`, `systemManifestation`, `institutionOriginal`, `shelfmarkOriginal`, `provenanceAttribute`, `beacon`, `borrower`
 
-{|
-! Feld
-! Bedeutung
-! Seite
-! Kreisdiagramm
-! Wortwolke
-|-
-| numberCat
-| Nummerierung des Eintrags im Altkatalog
-| ja
-| nein
-| nein
-|}
+Feld | Bedeutung | Eigene Seite | Kreisdiagramm | Wortwolke
+-----|-----------|--------------|---------------|----------
+numberCat | Nummer des Eintrags im Altkatalog | ja | nein | nein
 
 Anschließend wird ein neues Objekt der Klasse `frontend` erzeugt:
 
