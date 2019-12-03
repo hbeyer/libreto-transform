@@ -56,6 +56,30 @@ Hierzu muss zunächst ein Objekt der Klasse `facetList` erzeugt werden. Bei Erze
 Feld | Bedeutung | Eigene Seite | Kreisdiagramm | Wortwolke
 -----|-----------|--------------|---------------|----------
 numberCat | Nummer des Eintrags im Altkatalog | ja | nein | nein
+catSubjectFormat | Darstellung nach Rubrik, darunter nach Format | ja | nein | nein
+shelfmarkOriginal | Heutige Signatur des Originals | ja | nein | ja
+histSubject | Rubrik im Altkatalog | ja | ja | ja
+persName | Namen von VerfasserInnen oder Beteiligten | ja | nein | ja
+gender | Geschlecht von VerfasserInnen oder Beteiligten  | ja | ja | nein
+beacon | Biographische Nachweissysteme, in den VerfasserInnen oder Beteiligte erscheinen | ja | ja | nein
+year | Datierung des Sammlungsstückes | ja | nein | nein
+subjects | Sachbegriffe, die den Inhalt des Sammlungsstücks beschreiben | ja | ja | ja
+histShelfmark | Signatur, die das Sammlungsstück in seinem ursprünglichen Kontext hatte | ja | nein | nein
+genres | Gattungsbegriff, der den Inhalt des Sammlungsstücks charakterisiert | ja | ja | ja
+languages | Sprache | ja | ja | ja
+placeName | Erscheinungs- oder Entstehungsort des Sammlungsstücks | ja | nein | ja
+publishers | DruckerInnen oder VerlegerIn | ja | nein | ja
+format | Bibliographisches Format | ja | ja | nein
+volumes | Zahl der Bände | ja | nein | nein
+mediaType | Art des Sammlungsstück (Handschrift, Druck u. a.) | ja | ja | ja
+bound | Angabe ob gebunden oder nicht | ja | ja | nein
+systemManifestation | Bibliographisches Nachweissystem, in das Sammlungsstück verzeichnet ist | ja | ja | ja
+institutionOriginal | Institution, die das Original besitzt | ja | ja | ja
+provenanceAttribute | Provenienzmerkmal des Originalexemplars, auf dem die Zuordnung zu der Sammlung beruht | ja | ja | ja
+pageCat | Seite im Altkatalog, auf dem das Sammlungsstück verzeichnet ist | ja | nein | nein
+titleWork | Titel eines im Sammlungsstück enthaltenen Werkes | ja | nein | nein
+borrower | Person, die das Sammlungsstück entliehen hat | ja | nein | nein
+dateLending | Beschreibung | ja | nein | ja
 
 Anschließend wird ein neues Objekt der Klasse `frontend` erzeugt:
 
