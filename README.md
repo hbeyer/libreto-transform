@@ -27,8 +27,8 @@ Ein Transformationsskript kann unter Verwendung der Datei ***transform.php*** er
 - `$fileName`: Dateiname für das Projekt
 - `$format`: Format der Ausgangsdatei. Vorgesehen sind:
 	- 'csv': CSV-Datei 
-	- 'xml' (Standardwert): XML-Datei, die gegen das Schema uploadXML.xsd validiert
-	- 'xml_full': XML-Datei, die gegen das Schema libreto-schmema-full.xsd validiert
+	- 'xml' (Standardwert): XML-Datei, die gegen das Schema `uploadXML.xsd` validiert
+	- 'xml_full': XML-Datei, die gegen das Schema `libreto-schmema-full.xsd` validiert
 	- 'php': Serialisierte PHP-Daten (werden automatisch erzeugt und im Projektordner unter `dataPHP` abgelegt)
 	- 'sql_dh': MySQL-Datenbank nach einem proprietären Schema. Die Zugangsdaten werden in der Datei `private/connectionData.php` nach der Vorlage `connectionData.php.template` eingetragen. Das Datenbankschema liegt unter `schema-dh.sql`
 
