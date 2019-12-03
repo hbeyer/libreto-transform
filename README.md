@@ -49,7 +49,8 @@ Wurde eine andere Option als 'xml' bei der Erstellung des Objekts von der Klasss
 Hierzu muss zunächst ein Objekt der Klasse `facetList` erzeugt werden. Bei Erzeugung des Objekts ohne Parameter werden für die Auswahl der darzustellenden Felder Standardsets angewandt. Die Sets können in der folgenden Weise überschrieben werden:
 
 `facetList::__construct([array $pages [, array $doughnuts [, array $clouds]]])`
-Übergeben wird in $pages ein Array mit Feldnamen, die auf eigenen Seiten dargestellt werden sollen. In $doughnuts können Felder für Kreisdiagramme angegeben werden und in $clouds für Wortwolken. Welche Felder für welche Visualisierung zugelassen sind, verdeutlicht die folgende Aufstellung.
+
+Übergeben wird in $pages ein Array mit Feldnamen, die auf eigenen Seiten dargestellt werden sollen. In $doughnuts können analog Felder für Kreisdiagramme angegeben werden, in $clouds Felder für Wortwolken. Welche Felder für welche Visualisierung zugelassen sind, verdeutlicht die folgende Aufstellung.
 
 Feld | Bedeutung | Eigene Seite | Kreisdiagramm | Wortwolke
 -----|-----------|--------------|---------------|----------
