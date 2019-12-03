@@ -49,9 +49,7 @@ Wurde eine andere Option als 'xml' bei der Erstellung des Objekts von der Klasss
 Hierzu muss zunächst ein Objekt der Klasse `facetList` erzeugt werden. Bei Erzeugung des Objekts ohne Parameter werden für die Auswahl der darzustellenden Felder Standardsets angewandt. Die Sets können in der folgenden Weise überschrieben werden:
 
 `facetList::__construct([array $pages [, array $doughnuts [, array $clouds]]])`
-- `$pages`: Array mit Namen von Feldern, die als eigene Seite dargestellt werden sollen. Mögliche Werte: `numberCat`, `catSubjectFormat`, `shelfmarkOriginal`, `histSubject`, `persName`, `gender`, `beacon`, `year`, `subjects`, `histShelfmark`, `genres`, `languages`, `placeName`, `publishers`, `format`, `volumes`, `mediaType`, `bound`, `systemManifestation`, `institutionOriginal`, `provenanceAttribute`, `pageCat`, `titleWork`, `borrower`, `dateLending`
-- `$doughnuts`: Array mit Namen von Feldern, die als Kreisdiagramm dargestellt werden sollen. Mögliche Werte: `persName`, `gender`, `format`, `histSubject`, `subjects`, `genres`, `mediaType`, `languages`, `systemManifestation`, `institutionOriginal`, `provenanceAttribute`, `bound`, `beacon`
-- `$clouds`: Array mit Namen von Feldern, die als Wortwolken dargestellt werden sollen. Mögliche Werte: `publishers`, `format`, `histSubject`, `subjects`, `genres`, `mediaType`, `persName`, `gnd`, `role`, `placeName`, `languages`, `systemManifestation`, `institutionOriginal`, `shelfmarkOriginal`, `provenanceAttribute`, `beacon`, `borrower`
+Übergeben wird in $pages ein Array mit Feldnamen, die auf eigenen Seiten dargestellt werden sollen. In $doughnuts können Felder für Kreisdiagramme angegeben werden und in $clouds für Wortwolken. Welche Felder für welche Visualisierung zugelassen sind, verdeutlicht die folgende Aufstellung.
 
 Feld | Bedeutung | Eigene Seite | Kreisdiagramm | Wortwolke
 -----|-----------|--------------|---------------|----------
