@@ -12,8 +12,9 @@ function saveXML($data, $catalogue, $folderName) {
 	}
 	$dom->appendChild($rootElement);
 	$result = $dom->saveXML();
-	$handle = fopen($folderName.'/'.$catalogue->fileName.'.xml', "w");
-	fwrite($handle, $result, 10000000);
+	file_put_contents($folderName.'/'.$catalogue->fileName.'.xml', $result);
+	/*$handle = fopen($folderName.'/'.$catalogue->fileName.'.xml', "w");
+	fwrite($handle, $result, 10000000);*/
 }
 
 function insertMetadataFromCatalogue($dom, $root, $catalogue) {

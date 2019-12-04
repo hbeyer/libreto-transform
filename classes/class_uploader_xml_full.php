@@ -17,7 +17,7 @@ class uploader_xml_full extends uploader {
         } 
     }	
 
-    public function loadCatalogues() {
+    public function loadCatalogues($fileName) {
     	$result = array();
     	$catNodes = $this->dom->getElementsByTagName('catalogue');
     	foreach($catNodes as $catNode) {

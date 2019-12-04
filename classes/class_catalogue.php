@@ -29,6 +29,7 @@ class catalogue {
 	public $sections = array();
 
 	public function addSections($items) {
+		require_once('functions/makeIndex.php');
 		$index = makeIndex($items, 'histSubject');
 		$count = 1;
 		foreach ($index as $entry) {

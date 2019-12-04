@@ -23,9 +23,10 @@ class uploader_xml extends uploader {
         $this->contentNodes = $xml->getElementsByTagName('item');
     }	
 
-    public function loadCatalogues() {
+    public function loadCatalogues($fileName) {
         $loadFields = array('base', 'title', 'placeCat', 'printer', 'year', 'institution', 'shelfmark');
-    	$catalogue = new catalogue;    
+    	$catalogue = new catalogue;
+        $catalogue->fileName = $fileName;
         foreach ($this->metadataNode->childNodes as $child) {
             if (in_array($child->nodeName, $loadFields)) {
                 $field = $child->nodeName;

@@ -34,7 +34,8 @@ class reconstruction {
             throw new Exception('Falsche Formatangabe: '.$format.'. Erlaubt sind xml, csv und xml_full', 1);
         }
         $this->metadataReconstruction = $uploader->loadMetadata();
-        $this->catalogues = $uploader->loadCatalogues();
+        $this->catalogues = $uploader->loadCatalogues($this->fileName);
+        $this->catalogue = $this->catalogues[0];
         $this->content = $uploader->loadContent($this->fileName); //Unelegant, weil das nur für xml_full gebraucht wird
         $this->insertIDs();
         if ($format == 'csv' or $format == 'xml' or $format == 'php') {
@@ -66,19 +67,19 @@ class reconstruction {
     }
 
     public function enrichData($beaconUpdate = true) {
-        if ($this->valid == 0) {
+        /*if ($this->valid == 0) {
             return;
-        }
+        }*/
         $this->addVolumeInformation();
         $this->insertGeoData();
         $this->insertBeacon($beaconUpdate);
     }
 
     public function saveAllFormats() {
-        if ($this->valid == 0) {
+        /*if ($this->valid == 0) {
             return;
-        }
-        require(reconstruction::INCLUDEPATH.'makeIndex.php');
+        }*/
+        require_once(reconstruction::INCLUDEPATH.'makeIndex.php');
         $this->saveGeoData();
         $this->saveXML();        
         $this->saveCSV();

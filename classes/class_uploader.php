@@ -5,7 +5,7 @@ class  uploader {
     public $path;
     public $format;
     public $fileName;
-    public $vaid = 0;
+    public $valid = 0;
 
     function __construct($path, $fileName = '', $format = '') {
         $this->path = $path;
@@ -13,8 +13,9 @@ class  uploader {
         $this->format = $format;
     }
 
-    public function loadCatalogues() {
+    public function loadCatalogues($fileName) {
         $catalogue = $this->loadMetaFile();
+        $catalogue->fileName = $fileName;
         if ($catalogue->id == null) {
             $catalogue->id = 'cat1';
         }
