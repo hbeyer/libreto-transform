@@ -58,7 +58,7 @@
     </xs:element>
     <xs:element name="base" type="xs:anyURI">
         <xs:annotation>
-            <xs:documentation xml:lang="ger">URL, mit der man durch Anhängen der Image-Nummer Links auf einzelne Seiten des digitalisierten Altkatalogs bilden kann</xs:documentation>
+            <xs:documentation xml:lang="ger">URL, mit der man durch Anhängen der Image-Nummer Links auf einzelne Seiten des digitalisierten Altkatalogs bilden kann. Image-Nummern innerhalb der URL werden durch {No} ersetzt.</xs:documentation>
         </xs:annotation>
     </xs:element>
     <xs:element name="placeCat" type="xs:string">

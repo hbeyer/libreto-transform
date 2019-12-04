@@ -112,7 +112,6 @@ class uploader_csv extends uploader {
                     $place->placeName = $hits[1];
                 }
                 if (!empty($hits[2]) and !empty($hits[3])) {
-                    //Aus irgendeinem Grund führt $place->$hits[2] zur Zuweisung einer Eigenschaft namens "Array", daher so
                     if ($hits[2] == 'geoNames') {
                         $place->geoNames = $hits[3];
                     }
@@ -121,8 +120,7 @@ class uploader_csv extends uploader {
                     }
                     elseif ($hits[2] == 'getty') {
                         $place->getty = $hits[3];
-                    }
-                    
+                    }  
                 }
                 unset($hits);
                 $item->places[] = $place;

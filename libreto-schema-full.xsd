@@ -14,6 +14,9 @@
     </xs:complexType>
   </xs:element>
   <xs:element name="metadata">
+	<xs:annotation>
+		<xs:documentation xml:lang="ger">Allgemeine Angaben zur rekonstruierten Sammlung und den verwendeten Quellen</xs:documentation>
+	</xs:annotation>
     <xs:complexType>
       <xs:choice maxOccurs="unbounded">
         <xs:element ref="heading"/>
@@ -21,54 +24,133 @@
         <xs:element ref="fileName"/>
         <xs:element ref="description"/>
         <xs:element ref="geoBrowserStorageID"/>
-        <xs:element maxOccurs="unbounded" ref="creatorReconstruction"/>
         <xs:element ref="yearCollection"/>
         <xs:element ref="yearReconstruction"/>
         <xs:element ref="catalogue"/>
+        <xs:element name="person">
+          <xs:annotation>
+            <xs:documentation xml:lang="ger">Urheber der Rekonstruktion bzw. daran beteiligte Personen (Freitextfeld)</xs:documentation>
+          </xs:annotation> 
+          <xs:complexType mixed="true">
+            <xs:attribute name="role" use="required"></xs:attribute>
+          </xs:complexType>
+        </xs:element>
       </xs:choice>
     </xs:complexType>
   </xs:element>
   <xs:element name="owner">
+  	    <xs:annotation>
+            <xs:documentation xml:lang="ger">Person oder Institution, die Urheber der Sammlung ist</xs:documentation>
+        </xs:annotation>
     <xs:complexType mixed="true">
-      <xs:attribute name="gnd" type="xs:string"/>
+      <xs:attribute name="gnd" type="xs:string">
+      	<xs:annotation>
+        	<xs:documentation xml:lang="ger">GND-Nummer der Person oder Institution, die Urheber der Sammlung ist</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
     </xs:complexType>
   </xs:element>
-  <xs:element name="fileName" type="xs:NCName"/>
-  <xs:element name="description" type="xs:string"/>
-  <xs:element name="geoBrowserStorageID" type="xs:integer"/>
-  <xs:element name="creatorReconstruction" type="xs:string"/>
-  <xs:element name="yearCollection" type="xs:integer"/>
-  <xs:element name="yearReconstruction" type="xs:integer"/>
+  <xs:element name="fileName" type="xs:NCName">
+	<xs:annotation>
+		<xs:documentation xml:lang="ger">Dateiname für den Projektordner sowie zur Bildung von IDs</xs:documentation>
+	</xs:annotation>  	
+  </xs:element>
+  <xs:element name="description" type="xs:string">
+	<xs:annotation>
+	    <xs:documentation xml:lang="ger">Abstract zur rekonstruierten Sammlung</xs:documentation>
+	</xs:annotation>  	
+  </xs:element>
+  <xs:element name="geoBrowserStorageID" type="xs:integer">
+  	<xs:annotation>
+        <xs:documentation xml:lang="ger">ID eines zur Sammlung gehörigen Geodatenblattes im DARIAH Geo-Browser</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:element name="yearCollection" type="xs:integer">
+    <xs:annotation>
+      <xs:documentation xml:lang="ger">Das Jahr, auf dessen Stand die Sammlung rekonstruiert wird</xs:documentation>
+    </xs:annotation> 
+  </xs:element>
+  <xs:element name="yearReconstruction" type="xs:integer">
+	<xs:annotation>
+		<xs:documentation xml:lang="ger">Jahr, in dem die Rekonstruktion veröffentlicht wurde</xs:documentation>
+	</xs:annotation>  	
+  </xs:element>
+
   <xs:element name="catalogue">
     <xs:complexType>
       <xs:choice maxOccurs="unbounded">
         <xs:element ref="person"/>
-        <xs:element ref="title"/>
-        <xs:element ref="place"/>
-        <xs:element ref="year"/>
-        <xs:element ref="institution"/>
-        <xs:element ref="shelfmark"/>
-        <xs:element ref="base"/>
+        <xs:element ref="title">
+        	<xs:annotation>
+            	<xs:documentation xml:lang="ger">Titel des ausgewerteten Altkatalogs</xs:documentation>
+        	</xs:annotation>
+        </xs:element>
+        <xs:element ref="place">
+	        <xs:annotation>
+	            <xs:documentation xml:lang="ger">Erscheinungs- oder Entstehungsort des Altkatalogs</xs:documentation>
+	        </xs:annotation>
+        </xs:element>
+        <xs:element name="year">
+          <xs:annotation>
+            <xs:documentation xml:lang="ger">Jahr der Publikation oder Entstehung des Altkatalogs</xs:documentation>
+          </xs:annotation>           
+        </xs:element>
+        <xs:element ref="institution">
+	        <xs:annotation>
+	            <xs:documentation xml:lang="ger">Institution, die den Altkatalog besitzt</xs:documentation>
+	        </xs:annotation>        	
+        </xs:element>
+        <xs:element ref="shelfmark">
+	        <xs:annotation>
+	            <xs:documentation xml:lang="ger">Signatur des Altkatalogs</xs:documentation>
+	        </xs:annotation>        	
+        </xs:element>
+        <xs:element ref="base">
+	        <xs:annotation>
+	            <xs:documentation xml:lang="ger">URL, mit der man durch Anhängen der Image-Nummer Links auf einzelne Seiten des digitalisierten Altkatalogs bilden kann. Image-Nummern innerhalb der URL werden durch {No} ersetzt.</xs:documentation>
+	        </xs:annotation>        	
+        </xs:element>
         <xs:element name="sections">
+          <xs:annotation>
+            <xs:documentation xml:lang="ger">Die Liste der Rubriken, unter denen der Altkatalog Sammlungsstücke verzeichnet</xs:documentation>
+          </xs:annotation> 
           <xs:complexType>
             <xs:choice maxOccurs="unbounded">
-              <xs:element ref="section" />
+              <xs:element ref="section"></xs:element>
             </xs:choice>            
           </xs:complexType>
         </xs:element>
       </xs:choice>
-      <xs:attribute name="id" use="required" type="xs:ID"/>
+      <xs:attribute name="id" use="required" type="xs:ID">
+        <xs:annotation>
+          <xs:documentation xml:lang="ger">Eindeutige ID für den Katalog</xs:documentation>
+        </xs:annotation>                 
+      </xs:attribute>
     </xs:complexType>
   </xs:element>
   <xs:element name="section">
+    <xs:annotation>
+      <xs:documentation xml:lang="ger">Rubrik des Altkatalogs, z. B. "Libri theologici"</xs:documentation>
+    </xs:annotation> 
     <xs:complexType mixed="true">
-      <xs:attribute name="id" use="required" type="xs:ID"/>
+      <xs:attribute name="id" use="required" type="xs:ID">
+        <xs:annotation>
+          <xs:documentation xml:lang="ger">Eindeutige ID für die section</xs:documentation>
+        </xs:annotation>         
+      </xs:attribute>
     </xs:complexType>
   </xs:element>
   <xs:element name="base" type="xs:string"/>
-  <xs:element name="heading" type="xs:string"/>
+  <xs:element name="heading" type="xs:string">
+	<xs:annotation>
+		<xs:documentation xml:lang="ger">Titel der rekonstruierten Sammlung</xs:documentation>
+	</xs:annotation>  	
+  </xs:element>
   <xs:element name="title" type="xs:string"/>
   <xs:element name="miscellany">
+    <xs:annotation>
+      <xs:documentation xml:lang="ger">Sammelband, der die enthaltenen items buchbinderisch zusammenfasst</xs:documentation>
+    </xs:annotation> 
     <xs:complexType>
       <xs:sequence>
         <xs:element maxOccurs="unbounded" ref="item"/>
@@ -76,33 +158,109 @@
     </xs:complexType>
   </xs:element>
   <xs:element name="pb">
+    <xs:annotation>
+      <xs:documentation xml:lang="ger">Seitenumbruch im Altkatalog</xs:documentation>
+    </xs:annotation> 
     <xs:complexType>
-      <xs:attribute name="cat" use="required" type="xs:IDREF"/>
-      <xs:attribute name="image" use="required" type="xs:integer"/>
-      <xs:attribute name="no" use="required" type="xs:string"/>
+      <xs:attribute name="cat" use="required" type="xs:IDREF">
+        <xs:annotation>
+          <xs:documentation xml:lang="ger">ID des Katalogs, auf den sich der Seitenumbruch bezieht</xs:documentation>
+        </xs:annotation> 
+      </xs:attribute>
+      <xs:attribute name="image" use="required" type="xs:integer">
+        <xs:annotation>
+          <xs:documentation xml:lang="ger">Nummer des Images im Digitalisat</xs:documentation>
+        </xs:annotation> 
+      </xs:attribute>
+      <xs:attribute name="no" use="required" type="xs:string">
+        <xs:annotation>
+          <xs:documentation xml:lang="ger">Seitenzahl, die in der Regel am Element pb wechselt</xs:documentation>
+        </xs:annotation> 
+      </xs:attribute>
     </xs:complexType>
   </xs:element>
-  <xs:element name="year" type="xs:integer"/>
-  <xs:element name="institution" type="xs:string"/>
-  <xs:element name="shelfmark" type="xs:string"/>
+  <xs:element name="year" type="xs:integer">
+    <xs:annotation>
+      <xs:documentation xml:lang="ger">Erscheinungs- oder Entstehungsjahr</xs:documentation>
+    </xs:annotation> 
+  </xs:element>
+  <xs:element name="institution" type="xs:string">
+    <xs:annotation>
+      <xs:documentation xml:lang="ger">Besitzende Institution</xs:documentation>
+    </xs:annotation> 
+  </xs:element>
+  <xs:element name="shelfmark" type="xs:string">
+    <xs:annotation>
+      <xs:documentation xml:lang="ger">Signatur des Originalexemplars</xs:documentation>
+    </xs:annotation> 
+  </xs:element>
   <xs:element name="item">
+    <xs:annotation>
+      <xs:documentation xml:lang="ger">Ein Sammlungsstück eines beliebigen Medientyps, das unterschiedlich genau erschlossen sein kann</xs:documentation>
+    </xs:annotation> 
     <xs:complexType>
       <xs:choice maxOccurs="unbounded">
-        <xs:element minOccurs="0" ref="id"/>
-        <xs:element minOccurs="0" ref="volumes"/>
-        <xs:element ref="titleCat"/>
-        <xs:element name="histShelfmark" type="xs:string"/>
+        <xs:element minOccurs="0" ref="id">
+          <xs:annotation>
+            <xs:documentation xml:lang="ger">Eine eindeutige ID für das Sammlungsstück (wird automatisch ausgefüllt)</xs:documentation>
+          </xs:annotation> 
+        </xs:element>
+        <xs:element minOccurs="0" ref="volumes">
+          <xs:annotation>
+            <xs:documentation xml:lang="ger">Anzahl der Bände, die das Sammlungsstück umfasste</xs:documentation>
+          </xs:annotation> 
+        </xs:element>
+        <xs:element ref="titleCat">
+          <xs:annotation>
+            <xs:documentation xml:lang="ger">Titel des Sammlungsstücks im Altkatalog</xs:documentation>
+          </xs:annotation> 
+        </xs:element>
+        <xs:element name="histShelfmark" type="xs:string">
+          <xs:annotation>
+            <xs:documentation xml:lang="ger">Signatur, die das Sammlunsstück in der historischen Sammlung hatte</xs:documentation>
+          </xs:annotation> 
+        </xs:element>
         <xs:element minOccurs="0" ref="titleBib"/>
         <xs:element minOccurs="0" ref="titleNormalized"/>
-        <xs:element maxOccurs="unbounded" ref="person"/>
-        <xs:element ref="place"/>
-        <xs:element ref="publisher"/>
-        <xs:element ref="year"/>
-        <xs:element ref="format"/>
-        <xs:element ref="histSubject"/>
-        <xs:element maxOccurs="unbounded" ref="subject"/>
-        <xs:element minOccurs="0" ref="genre"/>
+        <xs:element maxOccurs="unbounded" ref="person">
+          <xs:annotation>
+            <xs:documentation xml:lang="ger">Eine Person, die als VerfasserIn oder in anderer Funktion mit dem Sammlungsstück in Verbindung steht</xs:documentation>
+          </xs:annotation> 
+        </xs:element>
+        <xs:element ref="place">
+          <xs:annotation>
+            <xs:documentation xml:lang="ger">Ein Erscheinungs- oder Entstehungsort des Sammlungsstückes</xs:documentation>
+          </xs:annotation> 
+        </xs:element>
+        <xs:element ref="publisher">
+          <xs:annotation>
+            <xs:documentation xml:lang="ger">DruckerIn oder VerlegerIn des Sammlungsstückes, wenn es sich um einen Druck handelt</xs:documentation>
+          </xs:annotation> 
+        </xs:element>
+        <xs:element ref="year">
+          <xs:annotation>
+            <xs:documentation xml:lang="ger">Erscheinungs- oder Entstehungsjahr des Sammlungsstücks</xs:documentation>
+          </xs:annotation> 
+        </xs:element>
+        <xs:element ref="format">
+          <xs:annotation>
+            <xs:documentation xml:lang="ger">Das bibliographische Format des Sammlungsstückes (bei Drucken oder Handschriften)</xs:documentation>
+          </xs:annotation> 
+        </xs:element>
+        <xs:element maxOccurs="unbounded" ref="subject">
+          <xs:annotation>
+            <xs:documentation xml:lang="ger">Sachbegriff nach AAD-Liste</xs:documentation>
+          </xs:annotation>          
+        </xs:element>
+        <xs:element minOccurs="0" ref="genre">
+          <xs:annotation>
+            <xs:documentation xml:lang="ger">Gattungsbegriff nach AAD-Liste</xs:documentation>
+          </xs:annotation> 
+        </xs:element>
         <xs:element name="language">
+          <xs:annotation>
+            <xs:documentation xml:lang="ger">Sprache von Text, den das Sammlungsstück enthält</xs:documentation>
+          </xs:annotation> 
           <xs:simpleType>
             <xs:restriction base="xs:string">
               <!-- Diese Liste kann durch weitere Sprachbezeichnungen nach ISO 639-2 erweitert werden -->
@@ -224,32 +382,94 @@
             </xs:restriction>
           </xs:simpleType>          
         </xs:element>
-        <xs:element minOccurs="0" ref="work"/>
-        <xs:element minOccurs="0" ref="manifestation"/>
-        <xs:element minOccurs="0" ref="originalItem"/>
-        <xs:element ref="bound"/>
-        <xs:element ref="digi"/>        
-        <xs:element ref="copy"/>
-        <xs:element ref="comment"/>
+        <xs:element minOccurs="0" ref="work">
+          <xs:annotation>
+            <xs:documentation xml:lang="ger">Ein Werk, das das Sammlungsstück enthält</xs:documentation>
+          </xs:annotation>
+        </xs:element>
+        <xs:element minOccurs="0" ref="manifestation">
+          <xs:annotation>
+            <xs:documentation xml:lang="ger">Eine Ausgabe, die das Sammlungsstück enthält</xs:documentation>
+          </xs:annotation>
+        </xs:element>
+        <xs:element minOccurs="0" ref="originalItem">
+          <xs:annotation>
+            <xs:documentation xml:lang="ger">Das Originalexemplar, sofern es identifiziert werden kann</xs:documentation>
+          </xs:annotation>
+        </xs:element>
+        <xs:element ref="bound">
+          <xs:annotation>
+            <xs:documentation xml:lang="ger">Bei Büchern Angabe, ob es sich um gebundenes Material handelt. Standard ist gebunden</xs:documentation>
+          </xs:annotation>
+        </xs:element>
+        <xs:element ref="digi">
+          <xs:annotation>
+            <xs:documentation xml:lang="ger">Digitalisat</xs:documentation>
+          </xs:annotation>
+        </xs:element>        
+        <xs:element ref="copy">
+          <xs:annotation>
+            <xs:documentation xml:lang="ger">Ein Exemplar der Ausgabe, das nicht notwendigerweise das Originalexemplar ist</xs:documentation>
+          </xs:annotation>
+        </xs:element>
+        <xs:element ref="comment">
+          <xs:annotation>
+            <xs:documentation xml:lang="ger">Kommentar (Freitextfeld)</xs:documentation>
+          </xs:annotation>
+        </xs:element>
       </xs:choice>
     </xs:complexType>
   </xs:element>
   <xs:element name="id" type="xs:NCName"/>
   <xs:element name="volumes" type="xs:integer"/>
   <xs:element name="titleCat">
+    <xs:annotation>
+      <xs:documentation xml:lang="ger">Transkription des Eintrags für das Sammlungsstück im Altkatalog</xs:documentation>
+    </xs:annotation>
     <xs:complexType mixed="true">
-      <xs:attribute name="cat" use="required" type="xs:IDREF"/>
-      <xs:attribute name="no" type="xs:string"/>
-      <xs:attribute name="section" type="xs:IDREF"/>
+      <xs:attribute name="cat" use="required" type="xs:IDREF">
+        <xs:annotation>
+          <xs:documentation xml:lang="ger">ID des Katalogs, auf den sich der Eintrag bezieht</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <xs:attribute name="no" type="xs:string">
+        <xs:annotation>
+          <xs:documentation xml:lang="ger">Nummer des Sammlungsstücks in der Nummerierung des Altkatalogs</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <xs:attribute name="section" type="xs:IDREF">
+        <xs:annotation>
+          <xs:documentation xml:lang="ger">ID der Rubrik, in der sich der Eintrag befindet</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
     </xs:complexType>
   </xs:element>
-  <xs:element name="titleBib" type="xs:string"/>
-  <xs:element name="titleNormalized" type="xs:string"/>
+  <xs:element name="titleBib" type="xs:string">
+    <xs:annotation>
+      <xs:documentation xml:lang="ger">Bibliographischer Titel des Sammlungsstückes, sofern es sich um einen bestimmbaren Druck handelt</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:element name="titleNormalized" type="xs:string">
+    <xs:annotation>
+      <xs:documentation xml:lang="ger">Normalisierter bibliographischer Titel (optional)</xs:documentation>
+    </xs:annotation>    
+  </xs:element>
   <xs:element name="person">
     <xs:complexType mixed="true">
-      <xs:attribute name="beacon"/>
-      <xs:attribute name="gnd" type="xs:string"/>
+      <xs:attribute name="beacon">
+        <xs:annotation>
+          <xs:documentation xml:lang="ger">Identifier für Nachweissysteme, die die GND-Nummer der Person verzeichnen, getrennt durch Semikolon (wird automatisch ausgefüllt)</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <xs:attribute name="gnd" type="xs:string">
+        <xs:annotation>
+          <xs:documentation xml:lang="ger">GND-Nummer der Person</xs:documentation>
+        </xs:annotation>        
+      </xs:attribute>
       <xs:attribute name="gender">
+        <xs:annotation>
+          <xs:documentation xml:lang="ger">Geschlecht der Person (optional)</xs:documentation>
+        </xs:annotation>        
       <xs:simpleType>
         <xs:restriction base="xs:string">
           <xs:enumeration value="m"/>
@@ -295,25 +515,53 @@
           </xs:restriction>
         </xs:simpleType>        
       </xs:attribute>
-      <xs:attribute name="dateLending" type="xs:string"/>
-      <xs:attribute name="dateReturning" type="xs:string"/>
+      <xs:attribute name="dateLending" type="xs:string">
+        <xs:annotation>
+          <xs:documentation xml:lang="ger">Das Ausleihdatum, wenn das Attribute role mit borrower belegt ist</xs:documentation>
+        </xs:annotation>        
+      </xs:attribute>
+      <xs:attribute name="dateReturning" type="xs:string">
+        <xs:annotation>
+          <xs:documentation xml:lang="ger">Das (optionale) Rückgabedatum</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
     </xs:complexType>
   </xs:element>
   <xs:element name="place">
     <xs:complexType>
       <xs:simpleContent>
         <xs:extension base="xs:NCName">
-          <xs:attribute name="geoData"/>
-          <xs:attribute name="geoNames" type="xs:string"/>
-          <xs:attribute name="getty" type="xs:string"/>
-          <xs:attribute name="gnd" type="xs:string"/>
+          <xs:attribute name="geoData">
+            <xs:annotation>
+              <xs:documentation xml:lang="ger">Die Geodaten des Ortes in der Form 47.55839,7.57327</xs:documentation>
+            </xs:annotation>            
+          </xs:attribute>
+          <xs:attribute name="geoNames" type="xs:string">
+            <xs:annotation>
+              <xs:documentation xml:lang="ger">Identifier des Ortes bei geonames.org (bevorzugt)</xs:documentation>
+            </xs:annotation>
+          </xs:attribute>
+          <xs:attribute name="getty" type="xs:string">
+            <xs:annotation>
+              <xs:documentation xml:lang="ger">Identifier des Ortes im Getty Thesaurus</xs:documentation>
+            </xs:annotation>
+          </xs:attribute>
+          <xs:attribute name="gnd" type="xs:string">
+            <xs:annotation>
+              <xs:documentation xml:lang="ger">GND-Nummer des Ortes</xs:documentation>
+            </xs:annotation>
+          </xs:attribute>
         </xs:extension>
       </xs:simpleContent>
     </xs:complexType>
   </xs:element>
   <xs:element name="publisher">
     <xs:complexType mixed="true">
-      <xs:attribute name="gnd" type="xs:integer"/>
+      <xs:attribute name="gnd" type="xs:integer">
+        <xs:annotation>
+          <xs:documentation xml:lang="ger">GND-Nummer der druckenden oder verlegenden Person</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
     </xs:complexType>
   </xs:element>
   <xs:element name="format" type="xs:string"/>
@@ -616,11 +864,27 @@
   <xs:element name="work">
     <xs:complexType>
       <xs:all maxOccurs="1">
-        <xs:element name="title" type="xs:string"/>
-        <xs:element ref="comment" minOccurs="0"/>
+        <xs:element name="title" type="xs:string">
+          <xs:annotation>
+            <xs:documentation xml:lang="ger">Normierter Titel des Werkes</xs:documentation>
+          </xs:annotation>          
+        </xs:element>
+        <xs:element ref="comment" minOccurs="0">
+          <xs:annotation>
+            <xs:documentation xml:lang="ger">Kommentar zum Werk</xs:documentation>
+          </xs:annotation>          
+        </xs:element>
       </xs:all>
-      <xs:attribute ref="system"/>
-      <xs:attribute ref="id"/>
+      <xs:attribute ref="system">
+        <xs:annotation>
+          <xs:documentation xml:lang="ger">Nachweissystem, in dem das Werk verzeichnet ist (GND oder Wikipedia)</xs:documentation>
+        </xs:annotation>        
+      </xs:attribute>
+      <xs:attribute ref="id">
+        <xs:annotation>
+          <xs:documentation xml:lang="ger">Identifier des Werkes im Nachweissystem</xs:documentation>
+        </xs:annotation>        
+      </xs:attribute>
     </xs:complexType>
   </xs:element>
   <xs:element name="manifestation">
@@ -628,19 +892,51 @@
       <xs:all>
         <xs:element ref="comment" minOccurs="0"/>
       </xs:all>
-      <xs:attribute ref="system" use="required"/>
-      <xs:attribute ref="id" use="required"/>
+      <xs:attribute ref="system" use="required">
+        <xs:annotation>
+          <xs:documentation xml:lang="ger">Bibliographisches Nachweissystem, in dem die Ausgabe verzeichnet ist</xs:documentation>
+        </xs:annotation>        
+      </xs:attribute>
+      <xs:attribute ref="id" use="required">
+        <xs:annotation>
+          <xs:documentation xml:lang="ger">Identifier der Ausgabe im bibliographischen Nachweissystem</xs:documentation>
+        </xs:annotation>        
+      </xs:attribute>
     </xs:complexType>
   </xs:element>
   <xs:element name="originalItem">
     <xs:complexType>
       <xs:all maxOccurs="1">
-        <xs:element minOccurs="1" ref="institution"/>
-        <xs:element minOccurs="1" ref="shelfmark"/>
-        <xs:element ref="provenanceAttribute" minOccurs="0"/>
-        <xs:element ref="url" minOccurs="0"/>
-        <xs:element ref="digi" minOccurs="0"/>
-        <xs:element ref="comment" minOccurs="0"/>
+        <xs:element minOccurs="1" ref="institution">
+          <xs:annotation>
+            <xs:documentation xml:lang="ger">Besitzende Institution, z. B. "HAB"</xs:documentation>
+          </xs:annotation>          
+        </xs:element>
+        <xs:element minOccurs="1" ref="shelfmark">
+          <xs:annotation>
+            <xs:documentation xml:lang="ger">Aktuelle Signatur des Originalexemplars</xs:documentation>
+          </xs:annotation>          
+        </xs:element>
+        <xs:element ref="provenanceAttribute" minOccurs="0">
+          <xs:annotation>
+            <xs:documentation xml:lang="ger">Merkmal des Originalexemplars, das für die Zuordnung zu der Sammlung maßgeblich ist</xs:documentation>
+          </xs:annotation>
+        </xs:element>
+        <xs:element ref="url" minOccurs="0">
+          <xs:annotation>
+            <xs:documentation xml:lang="ger">Link zum OPAC-Eintrag des Originalexemplars</xs:documentation>
+          </xs:annotation>          
+        </xs:element>
+        <xs:element ref="digi" minOccurs="0">
+          <xs:annotation>
+            <xs:documentation xml:lang="ger">Digitalisat des Originalexemplars</xs:documentation>
+          </xs:annotation>          
+        </xs:element>
+        <xs:element ref="comment" minOccurs="0">
+          <xs:annotation>
+            <xs:documentation xml:lang="ger">Kommentar zum Originalexemplar</xs:documentation>
+          </xs:annotation>          
+        </xs:element>
       </xs:all>
     </xs:complexType>
   </xs:element>
@@ -649,7 +945,11 @@
   <xs:element name="bound" type="xs:integer"/>
   <xs:element name="copy">
     <xs:complexType mixed="true">
-      <xs:attribute name="institution" use="required" type="xs:string"/>
+      <xs:attribute name="institution" use="required" type="xs:string">
+        <xs:annotation>
+          <xs:documentation xml:lang="ger">Name der Institution, die das Exemplar besitzt, etwa "HAB"</xs:documentation>
+        </xs:annotation>        
+      </xs:attribute>
     </xs:complexType>
   </xs:element>
   <xs:element name="digi" type="xs:anyURI"/>
