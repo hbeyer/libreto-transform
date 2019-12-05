@@ -1,7 +1,7 @@
 ﻿<?php
 
 //Redundant?
-function saveRDF($data, $catalogue, $base = 'http://bibliotheksrekonstruktion.hab.de/') {
+/*function saveRDF($data, $catalogue, $base = 'http://bibliotheksrekonstruktion.hab.de/') {
     
     $graph = new EasyRdf_Graph();
     EasyRdf_Namespace::set('dcmt', 'http://purl.org/dc/terms/');
@@ -34,10 +34,10 @@ function saveRDF($data, $catalogue, $base = 'http://bibliotheksrekonstruktion.ha
 	$serialiserX = new EasyRdf_Serialiser_RdfXml;
 	$rdfxml = $serialiserX->serialise($graph, 'rdfxml');
 	file_put_contents('user/'.$catalogue->fileName.'/'.$catalogue->fileName.'.rdf', $rdfxml); 
-}
+}*/
 
 
-function saveRDFtoPath($data, $catalogue, $path, $base = 'http://bibliotheksrekonstruktion.hab.de/') {
+function saveRDFtoPath($data, $catalogue, $folder, $fileName, $base = 'http://bibliotheksrekonstruktion.hab.de/') {
     
     $graph = new EasyRdf_Graph();
     EasyRdf_Namespace::set('dcmt', 'http://purl.org/dc/terms/');
@@ -53,26 +53,26 @@ function saveRDFtoPath($data, $catalogue, $path, $base = 'http://bibliotheksreko
     EasyRdf_Namespace::set('iso6392', 'http://id.loc.gov/vocabulary/iso639-2/');
     EasyRdf_Namespace::set('xsd', 'https://www.w3.org/TR/2012/REC-xmlschema11-2-20120405/datatypes.html#');
 
-    $graph = addCollectionData($graph, $catalogue);
-    $graph = addCatalogueEntries($catalogue, $graph, $data);
+    $graph = addCollectionData($graph, $catalogue, $fileName);
+    $graph = addCatalogueEntries($catalogue, $graph, $data, $fileName);
 
     require('AADGenres.php');
     foreach ($data as $item) {
-        addItem($graph, $item, $catalogue, $aadgenres);
+        addItem($graph, $item, $catalogue, $aadgenres, $fileName);
     }
-    $graph = addPhysicalContext($graph, $data, $catalogue);
+    $graph = addPhysicalContext($graph, $data, $catalogue, $fileName);
 
 	$serialiser = new EasyRdf_Serialiser_Turtle;
 	$turtle = $serialiser->serialise($graph, 'turtle');
-	file_put_contents($path.'.ttl', $turtle); 
+	file_put_contents($folder.'/'.$fileName.'/'.$fileName.'.ttl', $turtle); 
 
 	$serialiserX = new EasyRdf_Serialiser_RdfXml;
 	$rdfxml = $serialiserX->serialise($graph, 'rdfxml');
-	file_put_contents($path.'.rdf', $rdfxml);
+	file_put_contents($folder.'/'.$fileName.'/'.$fileName.'.rdf', $rdfxml);
 }
 
-function addCollectionData($graph, $catalogue) {
-    $collection = $graph->resource('br:'.$catalogue->fileName, 'libreto:Collection');
+function addCollectionData($graph, $catalogue, $fileName) {
+    $collection = $graph->resource('br:'.$fileName, 'libreto:Collection');
     if ($catalogue->year) {
         $collection->addLiteral('dcmt:date', $catalogue->year, 'xsd:gYear');
     }
@@ -93,9 +93,9 @@ function addCollectionData($graph, $catalogue) {
     return($graph);
 }
 
-function addCatalogueEntries($catalogue, $graph, $data) {
+function addCatalogueEntries($catalogue, $graph, $data, $fileName) {
     if ($catalogue->institution and $catalogue->shelfmark) {
-        $histCatalogue = $graph->resource('br:'.$catalogue->fileName.'/catalogues/'.urlencode($catalogue->institution).'_'.urlencode($catalogue->shelfmark), 'libreto:Catalogue');
+        $histCatalogue = $graph->resource('br:'.$fileName.'/catalogues/'.urlencode($catalogue->institution).'_'.urlencode($catalogue->shelfmark), 'libreto:Catalogue');
         if ($catalogue->year) {
             $histCatalogue->addLiteral('dcmt:date', $catalogue->year, 'xsd:gYear');
         }
@@ -123,7 +123,7 @@ function addCatalogueEntries($catalogue, $graph, $data) {
                     $entry->addLiteral('libreto:imageURL', $catalogue->base.$item->imageCat);
                 }
                 $histCatalogue->addResource('libreto:hasEntry', $entry);
-                $itemResource = $graph->resource('br:'.$catalogue->fileName.'/item_'.$item->id, 'libreto:Item');
+                $itemResource = $graph->resource('br:'.$fileName.'/item_'.$item->id, 'libreto:Item');
                 $entry->addResource('libreto:refersTo', $itemResource);
             }
         }
@@ -131,9 +131,9 @@ function addCatalogueEntries($catalogue, $graph, $data) {
     return($graph);
 }
 
-function addItem($graph, $item, $catalogue, $aadgenres) {
-    $collection = $graph->resource('br:'.$catalogue->fileName, 'libreto:Collection');
-    $itemResource = $graph->resource('br:'.$catalogue->fileName.'/item_'.$item->id, 'libreto:Item');
+function addItem($graph, $item, $catalogue, $aadgenres, $fileName) {
+    $collection = $graph->resource('br:'.$fileName, 'libreto:Collection');
+    $itemResource = $graph->resource('br:'.$fileName.'/item_'.$item->id, 'libreto:Item');
     $itemResource->addResource('libreto:belongsTo', $collection);
 
     if ($item->mediaType) {
@@ -287,10 +287,10 @@ function addPerson($graph, $catalogue, $item, $person) {
     return;
 }
 
-function addPhysicalContext($graph, $data, $catalogue) {
+function addPhysicalContext($graph, $data, $catalogue, $fileName) {
     $miscellanyNo = 0;
     foreach ($data as $item) {
-        $itemResource = $graph->resource('br:'.$catalogue->fileName.'/item_'.$item->id, 'libreto:Item');
+        $itemResource = $graph->resource('br:'.$fileName.'/item_'.$item->id, 'libreto:Item');
         if ($item->itemInVolume == 1)  {
             $miscellany = $graph->resource('br:'.$catalogue->fileName.'/miscellany_'.$miscellanyNo, 'libreto:Miscellany');
             $context = $graph->resource($graph->newBNodeId(), 'libreto:PhysicalContext');

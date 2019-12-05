@@ -35,16 +35,17 @@ class reconstruction {
         }
         $this->metadataReconstruction = $uploader->loadMetadata();
         $this->catalogues = $uploader->loadCatalogues($this->fileName);
-        $this->catalogue = $this->catalogues[0];
+        //$this->catalogue = $this->catalogues[0];
+        $this->convertMetadataToDefault();
         $this->content = $uploader->loadContent($this->fileName); //Unelegant, weil das nur für xml_full gebraucht wird
         $this->insertIDs();
         if ($format == 'csv' or $format == 'xml' or $format == 'php') {
             $this->convertCatalogueToFull();
             $this->convertContentToFull();
         }
-        elseif ($format == 'xml_full') {
+        /*elseif ($format == 'xml_full') {
             $this->convertMetadataToDefault();
-        }
+        }*/
     }
     
     private function convertCatalogueToFull() {
@@ -108,7 +109,7 @@ class reconstruction {
 
     private function saveXML() {
         require(reconstruction::INCLUDEPATH.'makeXML.php');
-        saveXML($this->content, $this->catalogue, reconstruction::FOLDER.'/'.$this->fileName);
+        saveXML($this->content, $this->catalogue, reconstruction::FOLDER, $this->fileName);
     }
 
     public function saveXMLFull() {
@@ -136,12 +137,13 @@ class reconstruction {
         require(reconstruction::INCLUDEPATH.'makeTEI.php');
         require(reconstruction::INCLUDEPATH.'makeSection.php');
         require(reconstruction::INCLUDEPATH.'fieldList.php');
-        makeTEI($this->content, reconstruction::FOLDER.'/'.$this->fileName, $this->catalogue);
+        makeTEI($this->content, $this->catalogue, reconstruction::FOLDER, $this->fileName);
     }
 
     private function saveRDF() {
         require(reconstruction::INCLUDEPATH.'makeRDF.php');
-        saveRDFtoPath($this->content, $this->catalogue, reconstruction::FOLDER.'/'.$this->fileName.'/'.$this->fileName);
+        //saveRDFtoPath($this->content, $this->catalogue, reconstruction::FOLDER.'/'.$this->fileName.'/'.$this->fileName);
+        saveRDFtoPath($this->content, $this->catalogue, reconstruction::FOLDER, $this->fileName);
     }
 
     private function saveSolrXML() {

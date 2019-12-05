@@ -7,6 +7,8 @@ class frontend {
 
     function __construct($reconstruction, $facetList = null) {
         $this->reconstruction = $reconstruction;
+        //Behelfsmäßige Übertragung der Variable fileName in das Objekt catalogue, wo sie eigentlich nicht hingehört
+        $this->reconstruction->catalogue->fileName = $this->reconstruction->fileName;
         if (get_class($facetList) != 'facetList') {
             $this->facetList = new facetList;
         }

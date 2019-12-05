@@ -41,7 +41,7 @@ class uploader_xml_full extends uploader {
     	$metadataSet = new metadata_reconstruction;
     	$metadata = $this->dom->getElementsByTagName('metadata')->item(0);
     	$myMetaDom = new MyDOM($metadata);
-    	$myMetaDom->writeChildrenToObject($metadataSet, array('heading', 'owner', 'ownerGND', 'fileName', 'description', 'geoBrowserStorageID', 'yearReconstruction'));
+    	$myMetaDom->writeChildrenToObject($metadataSet, array('heading', 'owner', 'ownerGND', 'description', 'geoBrowserStorageID', 'yearReconstruction'));
         $creators = $myMetaDom->getChildValues('creatorReconstruction');
     	$metadataSet->creatorReconstruction = implode(', ', $creators);
         foreach ($creators as $creator) {
@@ -173,7 +173,9 @@ class uploader_xml_full extends uploader {
             $entry->titleCat = $tcn->getContent();
             $attributes = $tcn->getAttributes(array('cat', 'no', 'section'));
             if (!empty($attributes['no'])) {
-                $entry->idCat = $attributes['cat'];
+                if (!empty($attributes['cat'])) {
+                    $entry->idCat = $attributes['cat'];
+                }
                 $entry->numberCat = $attributes['no'];
             }
             if (!empty($attributes['cat'])) {

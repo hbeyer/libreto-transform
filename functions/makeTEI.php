@@ -1,6 +1,6 @@
 ﻿<?php
 
-function makeTEI($data, $folder, catalogue $catalogue) {
+function makeTEI($data, catalogue $catalogue, $folder, $fileName) {
 	$dom = new DOMDocument('1.0', 'UTF-8');
 	$dom->formatOutput = true;
 	$dom->load('templateTEI.xml');
@@ -9,8 +9,7 @@ function makeTEI($data, $folder, catalogue $catalogue) {
 	insertPageBreaks($dom, $data, $catalogue->base);
 	insertBibliography($dom, $data, $catalogue);
 	$xml = $dom->saveXML();
-	$handle = fopen($folder.'/'.$catalogue->fileName.'-tei.xml', 'w');
-	fwrite($handle, $xml, 10000000);
+	file_put_contents($folder.'/'.$fileName.'/'.$fileName.'.-tei.xml', $xml);
 }
 
 function insertMetadata($dom, $catalogue) {

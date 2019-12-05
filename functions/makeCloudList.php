@@ -91,6 +91,8 @@ function makeCloudArrays($data, $field) {
 function makeCloudArraysPersons($data) {
 	$index = makeIndex($data, 'persName');
 	$count = 0;
+	$weightArray = array();
+	$nameArray = array();
 	foreach($index as $entry) {
 		$id = $count;
 		if($entry->authority['system'] == 'gnd') {

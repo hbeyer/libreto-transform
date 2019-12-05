@@ -1,6 +1,6 @@
 ﻿<?php
 
-function saveXML($data, $catalogue, $folderName) {
+function saveXML($data, $catalogue, $folder, $fileName) {
 	$dom = new DOMDocument('1.0', 'UTF-8');
 	$dom->formatOutput = true;
 	$rootElement = $dom->createElement('collection');
@@ -12,7 +12,7 @@ function saveXML($data, $catalogue, $folderName) {
 	}
 	$dom->appendChild($rootElement);
 	$result = $dom->saveXML();
-	file_put_contents($folderName.'/'.$catalogue->fileName.'.xml', $result);
+	file_put_contents($folder.'/'.$fileName.'/'.$fileName.'.xml', $result);
 	/*$handle = fopen($folderName.'/'.$catalogue->fileName.'.xml', "w");
 	fwrite($handle, $result, 10000000);*/
 }
