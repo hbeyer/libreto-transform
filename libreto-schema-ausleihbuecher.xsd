@@ -136,12 +136,11 @@
             </xs:choice>
         </xs:complexType>
     </xs:element>
-
     
     <!-- Provisorische Felder -->
     <xs:element name="subjects_free" type="xs:string">
         <xs:annotation>
-            <xs:documentation xml:lang="ger">Provisorisches Feld für Ausleihbücher</xs:documentation>
+            <xs:documentation xml:lang="ger">Frei zu vergebender Sachbegriff (provisorisches Feld)</xs:documentation>
         </xs:annotation>
     </xs:element>
 
@@ -151,8 +150,6 @@
         </xs:annotation>
     </xs:element>
     <!-- Provisorische Felder -->
-
-
 
     <xs:element name="id" type="xs:string">
         <xs:annotation>
@@ -360,7 +357,9 @@
                 <xs:enumeration value="Geologie"/>
                 <xs:enumeration value="Geometrie"/>
                 <xs:enumeration value="Gynäkologie"/>
+                <xs:enumeration value="Kirchengeschichte"/> <!--Hinzugefügt von H. Beyer-->
                 <xs:enumeration value="Kriegskunde"/>
+                <xs:enumeration value="Kryptologie"/>
                 <xs:enumeration value="Landwirtschaft"/>
                 <xs:enumeration value="Magnetismus"/>
                 <xs:enumeration value="Mathematik"/>
@@ -371,9 +370,11 @@
                 <xs:enumeration value="Optik"/>
                 <xs:enumeration value="Orientalistik"/>
                 <xs:enumeration value="Pädagogik"/>
+                <xs:enumeration value="Philosophie"/> <!--Hinzugefügt von H. Beyer-->
                 <xs:enumeration value="Physik"/>
                 <xs:enumeration value="Physiognomie"/>
                 <xs:enumeration value="Poetik"/>
+                <xs:enumeration value="Rechtswissenschaft"/> <!--Hinzugefügt von H. Beyer-->                
                 <xs:enumeration value="Rhetorik"/>
                 <xs:enumeration value="Statistik"/>
                 <xs:enumeration value="Theologie"/>

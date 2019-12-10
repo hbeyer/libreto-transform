@@ -178,6 +178,7 @@ class uploader_xml_full extends uploader {
                 }
                 $entry->numberCat = $attributes['no'];
             }
+            // Attribut cat ist nicht mehr verbindlich!
             if (!empty($attributes['cat'])) {
                 $pbNodes = $xp->query('preceding::pb[@cat="'.$attributes['cat'].'"]', $itemNode);
                 if ($pbNodes->length >= 1) {
