@@ -20,7 +20,6 @@
       <xs:choice maxOccurs="unbounded">
         <xs:element ref="heading"/>
         <xs:element ref="owner"/>
-        <!-- <xs:element ref="fileName"/> -->
         <xs:element ref="description"/>
         <xs:element ref="geoBrowserStorageID"/>
         <xs:element ref="yearCollection"/>
@@ -48,13 +47,9 @@
           <xs:documentation xml:lang="ger">GND-Nummer der Person oder Institution, die Urheber der Sammlung ist</xs:documentation>
         </xs:annotation>
       </xs:attribute>
+      <xs:attribute ref="gender"></xs:attribute>      
     </xs:complexType>
   </xs:element>
-  <!--<xs:element name="fileName" type="xs:NCName">
-  <xs:annotation>
-    <xs:documentation xml:lang="ger">Dateiname für den Projektordner sowie zur Bildung von IDs</xs:documentation>
-  </xs:annotation>    
-  </xs:element>-->
   <xs:element name="description" type="xs:string">
   <xs:annotation>
       <xs:documentation xml:lang="ger">Abstract zur rekonstruierten Sammlung</xs:documentation>
@@ -151,12 +146,13 @@
       <xs:documentation xml:lang="ger">Sammelband, der die enthaltenen items buchbinderisch zusammenfasst</xs:documentation>
     </xs:annotation> 
     <xs:complexType>
-      <xs:sequence>
+      <xs:choice maxOccurs="unbounded">
         <xs:element maxOccurs="unbounded" ref="item"/>
-      </xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="pb"/>
+      </xs:choice>
     </xs:complexType>
   </xs:element>
-  <xs:element name="pb">
+  <xs:element name="pb"> <!--Muss auch innerhalb von miscellany stehen können!--> 
     <xs:annotation>
       <xs:documentation xml:lang="ger">Seitenumbruch im Altkatalog</xs:documentation>
     </xs:annotation> 
@@ -249,11 +245,6 @@
             <xs:documentation xml:lang="ger">Das bibliographische Format des Sammlungsstückes (bei Drucken oder Handschriften)</xs:documentation>
           </xs:annotation> 
         </xs:element>
-        <!--<xs:element ref="histSubject">
-          <xs:annotation>
-            <xs:documentation xml:lang="ger"></xs:documentation>
-          </xs:annotation> 
-        </xs:element>-->
         <xs:element maxOccurs="unbounded" ref="subject">
           <xs:annotation>
             <xs:documentation xml:lang="ger">Sachbegriff nach AAD-Liste</xs:documentation>
@@ -264,6 +255,7 @@
             <xs:documentation xml:lang="ger">Gattungsbegriff nach AAD-Liste</xs:documentation>
           </xs:annotation> 
         </xs:element>
+        <xs:element ref="subjectFree"/>
         <xs:element name="language">
           <xs:annotation>
             <xs:documentation xml:lang="ger">Sprache von Text, den das Sammlungsstück enthält</xs:documentation>
@@ -473,6 +465,7 @@
           <xs:documentation xml:lang="ger">GND-Nummer der Person</xs:documentation>
         </xs:annotation>        
       </xs:attribute>
+      <xs:attribute ref="gender"/>
       <xs:attribute name="role" use="required">
         <xs:annotation>
           <xs:documentation xml:lang="ger">Beziehungskennzeichnung (s. RDA D-A-CH 18.5 und Anhang I). Alternativ kann mit den DC-Eigenschaften creator und contributor gearbeitet werden</xs:documentation>
@@ -507,17 +500,24 @@
             <xs:enumeration value="creator"/>
             <xs:enumeration value="contributor"/>
             <xs:enumeration value="borrower"/>
+            <xs:enumeration value="VorbesitzerIn"/>
+            <xs:enumeration value="ÜbersenderIn"/>
           </xs:restriction>
         </xs:simpleType>        
       </xs:attribute>
       <xs:attribute name="dateLending" type="xs:string">
         <xs:annotation>
-          <xs:documentation xml:lang="ger">Das Ausleihdatum, wenn das Attribute role mit borrower belegt ist</xs:documentation>
+          <xs:documentation xml:lang="ger">Das Ausleihdatum (nur sinnvoll, wenn role mit borrower belegt ist)</xs:documentation>
         </xs:annotation>        
       </xs:attribute>
       <xs:attribute name="dateReturning" type="xs:string">
         <xs:annotation>
-          <xs:documentation xml:lang="ger">Das (optionale) Rückgabedatum</xs:documentation>
+          <xs:documentation xml:lang="ger">Das (optionale) Rückgabedatum (nur sinnvoll, wenn role mit borrower belegt ist)</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <xs:attribute name="provenanceAttribute" type="xs:string">
+        <xs:annotation>
+          <xs:documentation xml:lang="ger">Ein oder mehrere Provenienzmerkmale (nur sinnvoll, wenn role mit VorbesitzerIn belegt ist)</xs:documentation>
         </xs:annotation>
       </xs:attribute>
     </xs:complexType>
@@ -588,7 +588,7 @@
         <xs:enumeration value="Geologie"/>
         <xs:enumeration value="Geometrie"/>
         <xs:enumeration value="Gynäkologie"/>
-        <xs:enumeration value="Kirchengeschichte"/> <!--Hinzugefügt von H. Beyer-->
+        <xs:enumeration value="Kirchengeschichte"/>
         <xs:enumeration value="Kriegskunde"/>
         <xs:enumeration value="Kryptologie"/>
         <xs:enumeration value="Landwirtschaft"/>
@@ -601,11 +601,11 @@
         <xs:enumeration value="Optik"/>
         <xs:enumeration value="Orientalistik"/>
         <xs:enumeration value="Pädagogik"/>
-        <xs:enumeration value="Philosophie"/> <!--Hinzugefügt von H. Beyer-->
+        <xs:enumeration value="Philosophie"/>
         <xs:enumeration value="Physik"/>
         <xs:enumeration value="Physiognomie"/>
         <xs:enumeration value="Poetik"/>
-        <xs:enumeration value="Rechtswissenschaft"/> <!--Hinzugefügt von H. Beyer-->                
+        <xs:enumeration value="Rechtswissenschaft"/>             
         <xs:enumeration value="Rhetorik"/>
         <xs:enumeration value="Statistik"/>
         <xs:enumeration value="Theologie"/>
@@ -613,11 +613,6 @@
         <xs:enumeration value="Zoologie"/>
       </xs:restriction>
     </xs:simpleType>    
-  </xs:element>
-  <xs:element name="subjectFree" type="xs:string">
-    <xs:annotation>
-      <xs:documentation xml:lang="ger">Frei zu vergebender Sachbegriff (außerhalb AAD-Liste)</xs:documentation>
-    </xs:annotation>
   </xs:element>
   <xs:element name="genre">
     <xs:simpleType>
@@ -861,6 +856,7 @@
       </xs:restriction>
     </xs:simpleType>    
   </xs:element>
+  <xs:element name="subjectFree" type="xs:string"/>
   <xs:element name="language" type="xs:string"/>
   <xs:element name="work">
     <xs:complexType>
@@ -1002,7 +998,11 @@
     </xs:complexType>
   </xs:element>
   <xs:element name="url" type="xs:anyURI"/>
-  <xs:element name="bound" type="xs:integer"/>
+  <xs:element name="bound" type="xs:integer">
+    <xs:annotation>
+      <xs:documentation xml:lang="de">1 für gebunden, 0 für ungebunden</xs:documentation>
+    </xs:annotation>
+  </xs:element>
   <xs:element name="copy">
     <xs:complexType mixed="true">
       <xs:attribute name="institution" use="required" type="xs:string">
@@ -1027,6 +1027,4 @@
       </xs:restriction>
     </xs:simpleType>  
   </xs:attribute>
-
-
 </xs:schema>
