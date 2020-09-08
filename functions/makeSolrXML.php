@@ -105,11 +105,13 @@ function flattenPersons($persons) {
 		}
 		elseif($person->role == 'borrower') {
 			$borrower = $person->persName.$gnd;
-			if ($person->dateLending != null) {
-				$borrower = $borrower.'~'.$person->dateLending;
-				$collectDateLending[] = $person->dateLending;
-			}			
-			$collectBorrowers[] = $borrower;
+			foreach ($person->dateLending as $dateLending) {
+				$collectBorrowers[] = $borrower.'~'.$dateLending;
+			}
+			if ($person->dateLending == array()) {
+				$collectBorrowers[] = $borrower;
+			}
+			
 		}
 		else {
 			$collectContributors[] = $person->persName.$gnd;

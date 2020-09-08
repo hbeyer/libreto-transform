@@ -78,7 +78,7 @@ provenanceAttribute | Provenienzmerkmal des Originalexemplars, auf dem die Zuord
 pageCat | Seite im Altkatalog, auf dem das Sammlungsstück verzeichnet ist | ja | nein | nein
 titleWork | Titel eines im Sammlungsstück enthaltenen Werkes | ja | nein | nein
 borrower | Person, die das Sammlungsstück entliehen hat | ja | nein | nein
-dateLending | Beschreibung | ja | nein | ja
+dateLending | Datum, an dem das Sammlungsstück entliehen wurde | ja | nein | ja
 
 Anschließend wird ein neues Objekt der Klasse `frontend` erzeugt:
 

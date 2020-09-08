@@ -6,7 +6,7 @@ foreach (glob("classes/class_*.php") as $filename) {
 	}
 include('functions/encode.php');
 
-$reconstruction = new reconstruction('{Pfad zur Datei}', '{Dateiname für das Projekt}', '{xml|csv|php|sql_dh}');
+$reconstruction = new reconstruction('{Pfad zur Datei}', '{Dateiname für das Projekt}', '{xml_full|xml|csv|php|sql_dh}');
 $reconstruction->enrichData();
 $reconstruction->saveAllFormats();
 

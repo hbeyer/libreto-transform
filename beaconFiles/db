@@ -1,16 +1,15 @@
 
 #FORMAT: BEACON
 #PREFIX: http://d-nb.info/gnd/
-#TARGET: http://www.deutsche-biographie.de/pnd{ID}.html#allcontent
-#TARGETPREFIX: http://www.deutsche-biographie.de/{TARGETID}.html
+#TARGET: https://www.deutsche-biographie.de/pnd{ID}.html#indexcontent
+#TARGETPREFIX: https://www.deutsche-biographie.de/{TARGETID}.html
 #FEED: http://www.historische-kommission-muenchen-editionen.de/beacon_db_register.txt
 #CONTACT: matthias.reinert@hk.badw.de
 #MESSAGE: Biographische Informationen zu Personen im Index von NDB, ADB und Register 
 #INSTITUTION: Historische Kommission bei der Bayerischen Akademie der Wissenschaften und Bayerische Staatsbibliothek 
-#DESCRIPTION: Deutsche Biographie - Biographische Informationen zu Personen im Index von NDB, ADB und Register 
-(hier 99192 Einträge)
-#DATE: 2017-12-12
-#REVISIT: 2018-12-11
+#DESCRIPTION: Deutsche Biographie - Biographische Informationen zu Personen im Index von NDB, ADB und Register (hier 99192 Einträge)
+#DATE: 2020-01-12
+#REVISIT: 2022-01-11
 138528888
 132282976
 116903472
@@ -52798,7 +52797,6 @@
 118732137
 118967592
 137327617
-13262074X
 118579363
 11880099X
 100159680

@@ -32,6 +32,7 @@
           <xs:complexType mixed="true">
             <xs:attribute name="role" use="required"></xs:attribute>
             <xs:attribute ref="gender"></xs:attribute>
+            <xs:attribute name="gnd"></xs:attribute>
           </xs:complexType>
         </xs:element>
       </xs:choice>

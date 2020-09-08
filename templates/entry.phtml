@@ -18,8 +18,10 @@ $proofWork = new reference($item->work['systemWork'], $item->work['idWork']);
 <?php endif; ?>
 <?php if ($copiesHAB): ?>                    <?php echo $copiesHAB; ?><br />
 <?php endif; ?>
-<?php if ($item->comment): ?>                    <?php echo makeComment($item->comment); ?></br>
+<?php if ($item->comment): ?>                    <?php echo makeComment($item->comment); ?><br />
 <?php endif; ?>
+<?php foreach ($item->persons as $person): ?>                    <?php if ($person->role == 'borrower'): ?>Entliehen von <?php echo $person->persName; ?><?php if ($person->dateLending != array()): ?> <?php echo implode(', ', $person->dateLending) ?><?php endif; ?><br /><?php endif; ?>
+<?php endforeach; ?>
 <?php if ($digiLink): ?>                    <?php echo $digiLink; ?>
 <?php endif; ?>
                 </div>

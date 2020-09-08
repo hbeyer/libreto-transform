@@ -26,7 +26,7 @@
   <link rel="mask-icon" href="https://ikmk.smb.museum/special/favicons/safari-pinned-tab.svg" color="#5bbad5" />
   <meta name="theme-color" content="#ffffff" />
   <link href="https://ikmk.smb.museum/assets/css/main.min.css?1502031675" rel="stylesheet" />
-  <link href="https://ikmk.smb.museum/layout/extended.css?1559134564" rel="stylesheet" />
+  <link href="https://ikmk.smb.museum/layout/extended.css?1580901293" rel="stylesheet" />
   <link href="https://ikmk.smb.museum/special/local.css?1566484821" rel="stylesheet" />
   
   <!--[if lt IE 9]>
@@ -48,14 +48,14 @@
     </div>
   </div>
   <div id="navbar-mobile" class="navbar-collapse collapse">
-<ul class="nav navbar-nav"><li><a href="https://ikmk.smb.museum/ndp/home?lang=de" target="_blank">NDP</a></li><li><a href="home?lang=de" title="Start">Start</a></li><li><a href="quick_search?lang=de" title="Schnellsuche">Schnellsuche</a></li><li><a href="tag_search?lang=de" title="Schlagwortsuche">Schlagwortsuche</a></li><li><a href="reference_search?lang=de" title="Referenzsuche">Referenzsuche</a></li><li><a href="department_search?lang=de" title="Abteilungen">Abteilungen</a></li><li><a href="holding_search?lang=de" title="Bestände">Bestände</a></li><li><a href="collection_search?lang=de" title="Sammlungen">Sammlungen</a></li><li><a href="map_search?lang=de" title="Karte">Karte</a></li><li><ul class="nav-footer"><li><a href="news?lang=de" title="Nachrichten">Nachrichten</a></li><li><a href="contact?lang=de" title="Kontakt">Kontakt</a></li><li><a href="about?lang=de" title="Über uns">Über uns</a></li><li><ul class="nav-languages"><li class="active"><a href="https://ikmk.smb.museum/home?lang=de" title="Deutsch">DE</a></li><li><a href="https://ikmk.smb.museum/home?lang=en" title="English">EN</a></li></ul></li></ul></li></ul>
+<ul class="nav navbar-nav"><li><a href="https://ikmk.smb.museum/ndp/home?lang=de" target="_blank">NDP</a></li><li><a href="home?lang=de" title="Start">Start</a></li><li><a href="quick_search?lang=de" title="Schnellsuche">Schnellsuche</a></li><li><a href="tag_search?lang=de" title="Schlagwortsuche">Schlagwortsuche</a></li><li><a href="reference_search?lang=de" title="Referenzsuche">Referenzsuche</a></li><li><a href="department_search?lang=de" title="Abteilungen">Abteilungen</a></li><li><a href="holding_search?lang=de" title="Bestände">Bestände</a></li><li><a href="collection_search?lang=de" title="Sammlungen">Sammlungen</a></li><li><a href="map_search?lang=de" title="Karte">Karte</a></li><li><ul class="nav-footer"><li><a href="news?lang=de" title="Nachrichten">Nachrichten</a></li><li><a href="eMuseum?lang=de" title="eMuseum">eMuseum</a></li><li><a href="contact?lang=de" title="Kontakt">Kontakt</a></li><li><a href="about?lang=de" title="Über uns">Über uns</a></li><li><ul class="nav-languages"><li class="active"><a href="https://ikmk.smb.museum/home?lang=de" title="Deutsch">DE</a></li><li><a href="https://ikmk.smb.museum/home?lang=en" title="English">EN</a></li></ul></li></ul></li></ul>
   </div>
 </nav><nav id="nav-desktop" class="navbar navbar-default navbar-fixed-top">
   <div class="container-fluid">
     <div class="container">
       <div class="row">
         <div class="col-sm-12">
-<ul class="nav navbar-nav navbar-right"><li><a href="https://ikmk.smb.museum/ndp/home?lang=de" target="_blank">NDP</a></li><li><a href="sponsorship?lang=de" title="Patenschaft">Patenschaft</a></li><li><a href="news?lang=de" title="Nachrichten">Nachrichten</a></li><li><a href="contact?lang=de" title="Kontakt">Kontakt</a></li><li><a href="about?lang=de" title="Über uns">Über uns</a></li><li><ul class="nav-languages"><li class="active"><a href="https://ikmk.smb.museum/home?lang=de" title="Deutsch">DE</a></li><li><a href="https://ikmk.smb.museum/home?lang=en" title="English">EN</a></li></ul></li></ul>
+<ul class="nav navbar-nav navbar-right"><li><a href="https://ikmk.smb.museum/ndp/home?lang=de" target="_blank">NDP</a></li><li><a href="sponsorship?lang=de" title="Patenschaft">Patenschaft</a></li><li><a href="eMuseum?lang=de" title="eMuseum">eMuseum</a></li><li><a href="news?lang=de" title="Nachrichten">Nachrichten</a></li><li><a href="contact?lang=de" title="Kontakt">Kontakt</a></li><li><a href="about?lang=de" title="Über uns">Über uns</a></li><li><ul class="nav-languages"><li class="active"><a href="https://ikmk.smb.museum/home?lang=de" title="Deutsch">DE</a></li><li><a href="https://ikmk.smb.museum/home?lang=en" title="English">EN</a></li></ul></li></ul>
         </div>
       </div>
       <div class="navbar-brand-desktop row">
@@ -120,6 +120,30 @@
 <div id='section-carousel' class='carousel slide' data-ride='carousel'>
 <div class='carousel-inner' role='listbox'>
 <div class='item active'>
+<a class='carousel-caption' href='news?lang=de&news_id=1301' title='Nachrichten'>
+<p>IKMK überschreitet 38.000 Objekteinträge</p>
+<p><time datetime='2020-06-24'>24. Juni 2020</time></p>
+</a>
+</div>
+<div class='item'>
+<a class='carousel-caption' href='news?lang=de&news_id=1283' title='Nachrichten'>
+<p>eMuseum - Ausstellungswerkzeug für das Münzkabinett eröffnet</p>
+<p><time datetime='2020-03-22'>22. März 2020</time></p>
+</a>
+</div>
+<div class='item'>
+<a class='carousel-caption' href='news?lang=de&news_id=1267' title='Nachrichten'>
+<p>IKMK nun mit 37.000 Objekten online</p>
+<p><time datetime='2020-02-05'>5. Februar 2020</time></p>
+</a>
+</div>
+<div class='item'>
+<a class='carousel-caption' href='news?lang=de&news_id=1253' title='Nachrichten'>
+<p>Sammlungsbestand erschlossen: Gold- und Silbermünzen der Kaiser Valentinianus I. und II., Valens und Gratianus</p>
+<p><time datetime='2019-12-23'>23. Dezember 2019</time></p>
+</a>
+</div>
+<div class='item'>
 <a class='carousel-caption' href='news?lang=de&news_id=1219' title='Nachrichten'>
 <p>Johannes Eberhardt neuer Mitarbeiter am Münzkabinett, Staatliche Museen zu Berlin</p>
 <p><time datetime='2019-09-23'>23. September 2019</time></p>
@@ -129,30 +153,6 @@
 <a class='carousel-caption' href='news?lang=de&news_id=1216' title='Nachrichten'>
 <p>Interaktiver Katalog des Münzkabinetts (IKMK) erreicht die 36.000</p>
 <p><time datetime='2019-09-07'>7. September 2019</time></p>
-</a>
-</div>
-<div class='item'>
-<a class='carousel-caption' href='news?lang=de&news_id=1206' title='Nachrichten'>
-<p>Normdatenportal (NDP) des Münzkabinetts Berlin eröffnet</p>
-<p><time datetime='2019-07-19'>19. Juli 2019</time></p>
-</a>
-</div>
-<div class='item'>
-<a class='carousel-caption' href='news?lang=de&news_id=1187' title='Nachrichten'>
-<p>Stellenausschreibung Wissenschaftliche/r Mitarbeiter/in Münzkabinett vom 11.04.2019 (Bewerbungsfrist 9.5.2019)</p>
-<p><time datetime='2019-05-09'>bis 9. Mai 2019</time></p>
-</a>
-</div>
-<div class='item'>
-<a class='carousel-caption' href='news?lang=de&news_id=1163' title='Nachrichten'>
-<p>8. gemeinsames Treffen des European Coin Finds Network und von nomisma.org</p>
-<p><time datetime='2019-05-02'>2.-4. Mai 2019</time></p>
-</a>
-</div>
-<div class='item'>
-<a class='carousel-caption' href='news?lang=de&news_id=1192' title='Nachrichten'>
-<p>Interaktiver Katalog des Münzkabinetts (IKMK) nun bei 35.000 Objekteinträgen</p>
-<p><time datetime='2019-04-25'>25. April 2019</time></p>
 </a>
 </div>
 </div>

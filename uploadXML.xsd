@@ -72,9 +72,21 @@
 				<xs:element minOccurs="0" ref="comment"/>
 				<xs:element minOccurs="0" ref="copiesHAB"/>
 				<xs:element minOccurs="0" ref="digitalCopy"/>
+				<xs:element minOccurs="0" ref="subjects_free"/>
+				<xs:element minOccurs="0" ref="edition"/>
 			</xs:all>
 		</xs:complexType>
 	</xs:element>
+	<xs:element name="subjects_free" type="xs:string">
+		<xs:annotation>
+			<xs:documentation xml:lang="ger">Frei zu vergebender Sachbegriff (provisorisches Feld)</xs:documentation>
+		</xs:annotation>
+	</xs:element>
+	<xs:element name="edition" type="xs:string">
+		<xs:annotation>
+			<xs:documentation xml:lang="ger">Provisorisches Feld für Ausleihbücher</xs:documentation>
+		</xs:annotation>
+	</xs:element>	
 	<xs:element name="id" type="xs:string"/>
 	<xs:element name="pageCat" type="xs:string"/>
 	<xs:element name="imageCat" type="xs:integer"/>
@@ -102,14 +114,14 @@
 	</xs:element>
 	<xs:element name="person">
 		<xs:complexType>
-			<xs:all>
+			<xs:choice maxOccurs="unbounded">
 				<xs:element ref="persName"/>
 				<xs:element minOccurs="0" ref="gnd"/>
 				<xs:element minOccurs="0" ref="gender"/>
 				<xs:element ref="role"/>
 				<xs:element minOccurs="0" ref="dateLending"/>
 				<xs:element minOccurs="0" ref="beacon"/>
-			</xs:all>
+			</xs:choice>
 		</xs:complexType>
 	</xs:element>
 	<xs:element name="persName" type="xs:string"/>

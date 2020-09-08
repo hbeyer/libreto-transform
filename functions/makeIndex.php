@@ -19,6 +19,9 @@ function makeIndex($data, $field) {
 	elseif($field == 'placeName') {
 		$collect = collectIDsPlaces($data);
 	}
+	elseif($field == 'dateLending') {
+		$collect = collectIDsDateLending($data);
+	}	
 	elseif(in_array($field, $personFields)) {
 		$collect = collectIDsSubObjects($data, 'persons', $field);
 	}
@@ -226,6 +229,24 @@ function collectIDsBeacon($data) {
 	}
 	$return = array('collect' => $collect);
 	return($return);
+}
+
+function collectIDsDateLending($data) {
+	$collect = array();
+	$count = 0;
+	foreach($data as $item) {
+		foreach($item->persons as $person) {
+			foreach($person->dateLending as $dateLending) {
+				if(array_key_exists($dateLending, $collect) == FALSE) {
+					$collect[$dateLending] = array();
+				}
+				$collect[$dateLending][] = $count;				
+			}
+		}
+	$count++;
+	}
+	$return = array('collect' => $collect);
+	return($return);	
 }
 
 function collectIDsPersons($data, $role = '') {

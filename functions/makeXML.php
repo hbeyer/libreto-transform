@@ -34,7 +34,11 @@ function insertMetadataFromCatalogue($dom, $root, $catalogue) {
 }
 
 function fillDOMItem($itemElement, $item, $dom) {
+	$exclude = array('catEntries');
 	foreach($item as $key => $value) {
+		if (in_array($key, $exclude)) {
+			continue;
+		}
 		// Fall 1: Variable ist ein einfacher Wert
 		if(is_array($value) == FALSE) {
 			//$value = replaceAmp($value);

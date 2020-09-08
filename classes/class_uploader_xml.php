@@ -136,7 +136,10 @@ class uploader_xml extends uploader {
         $person = new person;
         foreach($children as $child) {
             $field = strval($child->nodeName);
-            if(in_array($child->nodeName, $properties)) {
+            if ($child->nodeName == 'dateLending') {
+                $person->dateLending[] = $child->nodeValue;
+            }
+            elseif(in_array($child->nodeName, $properties)) {
                 $person->$field = trim($child->nodeValue);
             }
         }

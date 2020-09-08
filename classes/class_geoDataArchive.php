@@ -218,14 +218,14 @@ class geoDataArchive {
         if (!preg_match('~[0-9]{5,9}~', $id)) {
             return(null);
         }
-		shell_exec('wget -O placeGetty.json .A.json "http://vocab.getty.edu/tgn/'.$id.'.json"');
+		shell_exec('wget -O placeGetty.json .A.json "http://vocab.getty.edu/tgn/'.$id.'.json_decode(json)"');
 		$responseString = file_get_contents('placeGetty.json');
 		$response = json_decode($responseString);
 		
 		$lat = '';
 		$long = '';
 		$prefLabel = '';
-		
+
 		foreach ($response->results->bindings as $binding) {
 			if($binding->Predicate->value == 'http://www.w3.org/2003/01/geo/wgs84_pos#lat') {
 				$lat = $binding->Object->value;

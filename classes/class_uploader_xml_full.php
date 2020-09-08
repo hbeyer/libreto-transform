@@ -29,7 +29,7 @@ class uploader_xml_full extends uploader {
     		foreach ($persons as $persNode) {
     			$person = new person;
     			$persNode->writeTextToObject($person, 'persName');
-    			$persNode->writeAttributesToObject($person, array('gnd', 'role'));
+    			$persNode->writeAttributesToObject($person, array('gnd', 'role', 'gender'));
     			$catalogue->persons[] = $person;
     		}
     		$result[] = $catalogue;
@@ -42,11 +42,11 @@ class uploader_xml_full extends uploader {
     	$metadata = $this->dom->getElementsByTagName('metadata')->item(0);
     	$myMetaDom = new MyDOM($metadata);
     	$myMetaDom->writeChildrenToObject($metadataSet, array('heading', 'owner', 'ownerGND', 'description', 'geoBrowserStorageID', 'yearReconstruction'));
-        $creators = $myMetaDom->getChildValues('creatorReconstruction');
-    	$metadataSet->creatorReconstruction = implode(', ', $creators);
-        foreach ($creators as $creator) {
+        $personNodes = $myMetaDom->getChildNodes('person');
+        foreach ($personNodes as $persNode) {
             $person = new person;
-            $person->persName = $creator;
+            $persNode->writeTextToObject($person, 'persName');
+            $persNode->writeAttributesToObject($person, array('gnd', 'role', 'gender'));
             $metadataSet->persons[] = $person;
         }
     	return($metadataSet);
@@ -78,11 +78,16 @@ class uploader_xml_full extends uploader {
 	   		//Laden einfacher Properties
     		$myItem->writeChildrenToObject($item, array('id', 'volumes', 'titleBib', 'titleNormalized', 'year', 'histShelfmark', 'mediaType', 'format', 'bound', 'comment', 'digi'));
 
+
     		//Laden von wiederholten Feldern
     		$repeatedProperties = array('subject' => 'subjects', 'genre' => 'genres', 'language' => 'languages');
     		foreach ($repeatedProperties as $prop => $target) {
     			$item->$target = $myItem->getRepeatedChild($prop);
     		}
+
+            //Sonderfall: subjectFree wird zu den subjects geladen
+            $subjectsFree = $myItem->getRepeatedChild('subjectFree');
+            $item->subjects = array_merge($item->subjects, $subjectsFree);
 
     		//Laden von Personen
     		$personNodes = $xp->query('person', $itemNode);
