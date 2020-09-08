@@ -1,0 +1,7 @@
+<?php
+
+$impressum = '{Link zum Impressum des Webangebots}';
+$userGeoNames = '{Username bei www.geonames.org}}';
+$userAgentHTTP = '{Name der ausführenden Person in beliebiger Form}';
+
+?>

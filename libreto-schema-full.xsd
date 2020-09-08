@@ -553,7 +553,7 @@
   </xs:element>
   <xs:element name="publisher">
     <xs:complexType mixed="true">
-      <xs:attribute name="gnd" type="xs:integer">
+      <xs:attribute name="gnd" type="xs:string">
         <xs:annotation>
           <xs:documentation xml:lang="ger">GND-Nummer der druckenden oder verlegenden Person</xs:documentation>
         </xs:annotation>
