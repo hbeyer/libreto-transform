@@ -218,8 +218,14 @@ class geoDataArchive {
         if (!preg_match('~[0-9]{5,9}~', $id)) {
             return(null);
         }
-		shell_exec('wget -O placeGetty.json .A.json "http://vocab.getty.edu/tgn/'.$id.'.json_decode(json)"');
+		//shell_exec('wget -O placeGetty.json .A.json "http://vocab.getty.edu/tgn/'.$id.'.json_decode(json)"');
+		$url = 'http://vocab.getty.edu/tgn/'.$id.'.json';
+		shell_exec('wget -O placeGetty.json .A.json "'.$url.'"');
 		$responseString = file_get_contents('placeGetty.json');
+		if (!$responseString) {
+			echo 'Probleme beim Laden von '.$url."\n";
+			return(null);
+		}
 		$response = json_decode($responseString);
 		
 		$lat = '';

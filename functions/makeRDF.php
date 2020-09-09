@@ -86,7 +86,7 @@ function addCollectionData($graph, $catalogue, $fileName) {
         $collection->addResource('libreto:collector', $owner);
     }
     elseif ($catalogue->owner) {
-        $owner = $graph->resource('br:'.$catalogue->fileName.'/persons/'.urlencode($catalogue->owner), 'libreto:Person');
+        $owner = $graph->resource('br:'.$fileName.'/persons/'.urlencode($catalogue->owner), 'libreto:Person');
         $owner->addLiteral('foaf:name', $catalogue->owner);
         $collection->addResource('libreto:collector', $owner);
     }
@@ -189,10 +189,10 @@ function addItem($graph, $item, $catalogue, $aadgenres, $fileName) {
     }
 
     foreach ($item->places as $place) {
-        addPlace($graph, $itemResource, $catalogue, $place);
+        addPlace($graph, $itemResource, $catalogue, $place, $fileName);
     }
     foreach ($item->persons as $person) {
-        addPerson($graph, $catalogue, $itemResource, $person);
+        addPerson($graph, $catalogue, $itemResource, $person, $fileName);
     }
 
     if ($item->manifestation['systemManifestation'] and $item->manifestation['idManifestation']) {
@@ -208,7 +208,7 @@ function addItem($graph, $item, $catalogue, $aadgenres, $fileName) {
     return;
 }
 
-function addPlace($graph, $itemResource, $catalogue, $place) {
+function addPlace($graph, $itemResource, $catalogue, $place, $fileName) {
     if (!$place->placeName) {
         return;
     }
@@ -233,7 +233,7 @@ function addPlace($graph, $itemResource, $catalogue, $place) {
         $uri = 'http://vocab.getty.edu/tgn/'.$place->getty;       
     }
     else {
-        $uri = 'br:'.$catalogue->fileName.'/places/'.urlencode($place->placeName);
+        $uri = 'br:'.$fileName.'/places/'.urlencode($place->placeName);
     }
     $placeResource = $graph->resource($uri, 'libreto:Place');
     $placeResource->addLiteral('gn:name', $place->placeName);
@@ -248,7 +248,7 @@ function addPlace($graph, $itemResource, $catalogue, $place) {
     return;
 }
 
-function addPerson($graph, $catalogue, $item, $person) {
+function addPerson($graph, $catalogue, $item, $person, $fileName) {
     if (!$person->persName) {
         return;
     }
@@ -257,7 +257,7 @@ function addPerson($graph, $catalogue, $item, $person) {
         $uri = 'http://d-nb.info/gnd/'.$person->gnd;
     }
     else {
-        $uri = 'br:'.$catalogue->fileName.'/persons/'.urlencode($person->persName);
+        $uri = 'br:'.$fileName.'/persons/'.urlencode($person->persName);
     }
     $personResource = $graph->resource($uri, 'libreto:Person');
     $personResource->addLiteral('foaf:name', $person->persName);
@@ -292,7 +292,7 @@ function addPhysicalContext($graph, $data, $catalogue, $fileName) {
     foreach ($data as $item) {
         $itemResource = $graph->resource('br:'.$fileName.'/item_'.$item->id, 'libreto:Item');
         if ($item->itemInVolume == 1)  {
-            $miscellany = $graph->resource('br:'.$catalogue->fileName.'/miscellany_'.$miscellanyNo, 'libreto:Miscellany');
+            $miscellany = $graph->resource('br:'.$fileName.'/miscellany_'.$miscellanyNo, 'libreto:Miscellany');
             $context = $graph->resource($graph->newBNodeId(), 'libreto:PhysicalContext');
             $context->addLiteral('libreto:position', '1');
             $itemResource->addResource('libreto:hasContext', $context);

@@ -993,6 +993,9 @@
             <xs:enumeration value="Supralibros"/>
             <xs:enumeration value="Widmung"/>
             <xs:enumeration value="Autogramm"/>
+            <xs:enumeration value="Einband; Titelschild"/>
+            <xs:enumeration value="Altsignatur; Einband; Titelschild"/>
+            <xs:enumeration value="Altsignatur; Titelschild"/>
           </xs:restriction>          
         </xs:simpleType>
       </xs:attribute>
