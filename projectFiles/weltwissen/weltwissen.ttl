@@ -1,0 +1,3733 @@
+@prefix br: <http://bibliotheksrekonstruktion.hab.de/> .
+@prefix libreto: <http://bibliotheksrekonstruktion.hab.de/ontology.php#> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/spec/#term_> .
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix gnd: <http://d-nb.info/gnd/> .
+@prefix gn: <http://www.geonames.org/ontology#> .
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix gndo: <http://d-nb.info/standards/elementset/gnd#> .
+
+br:weltwissen
+  a libreto:Collection ;
+  dc:date "1768"@xsd:gYear ;
+  dc:title "Bibliothek Elisabeth Sophia Maria" ;
+  libreto:collector <br:weltwissen/persons/Elisabeth+Sophia+Maria%2C+Braunschweig+und+L%C3%BCneburg%2C+Herzogin> .
+
+<br:weltwissen/persons/Elisabeth+Sophia+Maria%2C+Braunschweig+und+L%C3%BCneburg%2C+Herzogin>
+  a libreto:Person ;
+  foaf:name "Elisabeth Sophia Maria, Braunschweig und Lüneburg, Herzogin" .
+
+<br:weltwissen/catalogues/HAB_BA+I+634>
+  a libreto:Catalogue ;
+  dc:date "1768"@xsd:gYear ;
+  libreto:shelfmark "BA I 634" ;
+  libreto:owner "HAB" ;
+  dc:title "Angefangner Catalog von der Bibliothek der verwittibten Herzogin Sophia Maria Elisabeth 1768" .
+
+<br:weltwissen/item_weltwissen0>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Annales De La Monarchie Françoise, Depuis son Etablissement jusques à présent ..." ;
+  dc:date "1724"@xsd:gYear ;
+  dbo:numberOfVolumes "3"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Chatelain, Zacharias", "L'Honoré, François" ;
+  dc:subject "Geschichte", "Genealogie"@http://uri.gbv.de/terminology/aadgenres/ ;
+  dc:language "fre"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Teil 1-3" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7006952> ;
+  dc:contributor gnd:120303132 ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=184416302; 184416329; 184416361> ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_0>
+  ] .
+
+<http://vocab.getty.edu/tgn/7006952>
+  a libreto:Place ;
+  gn:name "Amsterdam" ;
+  geo:lat "52.35"@xsd:decimal ;
+  geo:long "4.9167"@xsd:decimal .
+
+gnd:120303132
+  a libreto:Person ;
+  foaf:name "Limiers, Henri Philippe de" ;
+  foaf:gender "male"@en ;
+  dc:identifier "120303132"^^gndo:gndIdentifier .
+
+<http://gso.gbv.de/DB=2.1/PPNSET?PPN=184416302; 184416329; 184416361>
+  a libreto:Manifestation ;
+  libreto:database "Gemeinsamer Bibliotheksverbund (GBV)" ;
+  dc:identifier "184416302; 184416329; 184416361" .
+
+<br:weltwissen/item_weltwissen1>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Ausführung des Rechts Ihro Königl. Majest. von Groß-Britannien als Hertzogs zu Lauenburg, an das Amt Steinhorst, nebst Beyfügung derer, von Königl. Dänischer Seite bißhero in dieser Sache publicirten Schriften, und deren gründlichen Beantwortung" ;
+  dc:date "1739"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:subject "Rechtswissenschaft" ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  dc:contributor gnd:100359647, gnd:118538543 ;
+  libreto:hasOriginalItem [
+    a libreto:OriginalItem ;
+    libreto:owner "HAB" ;
+    libreto:shelfmark "M: Gm 2° 96" ;
+    libreto:provenanceAttribute "“ELISABETH SOPHIA MARIA. VERWITTWETE HERZOGINN ZU BR. U. LUN:”"
+  ] ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_1>
+  ] .
+
+gnd:100359647
+  a libreto:Person ;
+  foaf:name "Hojer, Andreas" ;
+  foaf:gender "male"@en ;
+  dc:identifier "100359647"^^gndo:gndIdentifier .
+
+gnd:118538543
+  a libreto:Person ;
+  foaf:name "Georg II., Großbritannien, König" ;
+  foaf:gender "male"@en ;
+  dc:identifier "118538543"^^gndo:gndIdentifier .
+
+<br:weltwissen/item_weltwissen2>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Dictionnaire Oeconomique, Contenant divers Moiens d'Augmenter son bien, et de conserver sa santé, quantité de moyens pour élever, nourrir, querir et faire profiter toutes fortes dʹAnimaux Domestiques, differens Filets pour la Peche de toutes fortes de Poissons et pour la Chasse" ;
+  dc:date "1732"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Covens, Jan", "Mortier, Cornelis" ;
+  dc:subject "Lexikographie", "Ökonomie" ;
+  dc:language "fre"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Teil 1-2" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7006952> ;
+  dc:contributor gnd:100082114, gnd:1157755550 ;
+  libreto:hasOriginalItem [
+    a libreto:OriginalItem ;
+    libreto:owner "HAB" ;
+    libreto:shelfmark "M: Oe 2° 4" ;
+    libreto:provenanceAttribute "“ELISABETH SOPHIA MARIA. VERWITTWETE HERZOGINN ZU BR. U. LUN:”"
+  ] ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_2>
+  ] .
+
+gnd:100082114
+  a libreto:Person ;
+  foaf:name "Chomel, Noel" ;
+  foaf:gender "male"@en ;
+  dc:identifier "100082114"^^gndo:gndIdentifier .
+
+gnd:1157755550
+  a libreto:Person ;
+  foaf:name "Marret, Jean" ;
+  foaf:gender "male"@en ;
+  dc:identifier "1157755550"^^gndo:gndIdentifier .
+
+<br:weltwissen/item_weltwissen3>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Supplement au Dictionnaire Oeconomique, Contenant divers Moiens d'Augmenter son bien, et de conserver sa santé ..." ;
+  dc:date "1740"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Covens, Jan", "Mortier, Cornelis" ;
+  dc:subject "Lexikographie", "Ökonomie" ;
+  dc:language "fre"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Teil 1-2" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7006952> ;
+  dc:contributor gnd:100082114, gnd:1152409247 ;
+  libreto:hasOriginalItem [
+    a libreto:OriginalItem ;
+    libreto:owner "HAB" ;
+    libreto:shelfmark "M: Oe 2° 4" ;
+    libreto:provenanceAttribute "“ELISABETH SOPHIA MARIA. VERWITTWETE HERZOGINN ZU BR. U. LUN:”"
+  ] ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_3>
+  ] .
+
+gnd:1152409247
+  a libreto:Person ;
+  foaf:name "Roger, Pierre" ;
+  foaf:gender "male"@en ;
+  dc:identifier "1152409247"^^gndo:gndIdentifier .
+
+<br:weltwissen/item_weltwissen4>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "L'Histoire des Provinces-Unies Des Païs-Bas, Depuis le parfait Etablissement de cet Etat" ;
+  dc:date "1719"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Johnson, Thomas" ;
+  dc:subject "Geschichte" ;
+  dc:language "fre"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7006810> ;
+  dc:contributor gnd:104039752 ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=135739020> ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_4>
+  ] .
+
+<http://vocab.getty.edu/tgn/7006810>
+  a libreto:Place ;
+  gn:name "Den Haag", "den Haag" ;
+  geo:lat "52.0833"@xsd:decimal ;
+  geo:long "4.3"@xsd:decimal .
+
+gnd:104039752
+  a libreto:Person ;
+  foaf:name "Wicquefort, Abraham van" ;
+  foaf:gender "male"@en ;
+  dc:identifier "104039752"^^gndo:gndIdentifier .
+
+<http://gso.gbv.de/DB=2.1/PPNSET?PPN=135739020>
+  a libreto:Manifestation ;
+  libreto:database "Gemeinsamer Bibliotheksverbund (GBV)" ;
+  dc:identifier "135739020" .
+
+<br:weltwissen/item_weltwissen5>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Le Grand Dictionnaire Geographique Et Critique" ;
+  dc:date "1726-1740"@xsd:gYear ;
+  dbo:numberOfVolumes "9"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Gosse, Pierre", "Hondt, Pieter de" ;
+  dc:subject "Geographie"@http://uri.gbv.de/terminology/aadgenres/, "Lexikographie" ;
+  dc:language "fre"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Teil 1-15" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7006810>, <http://vocab.getty.edu/tgn/7006952>, <http://vocab.getty.edu/tgn/7006792> ;
+  dc:contributor gnd:124841260 ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=0136861199; 0136861202; 0136861210; 0136861229; 0136861237; 0136861245; 0136861253; 0136861261; 013686127X; 0136861288; 0136861296; 013686130X; 0136861318; 0136861326; 0136861334> ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_5>
+  ] .
+
+<http://vocab.getty.edu/tgn/7006792>
+  a libreto:Place ;
+  gn:name "Rotterdam" ;
+  geo:lat "51.9167"@xsd:decimal ;
+  geo:long "4.5"@xsd:decimal .
+
+gnd:124841260
+  a libreto:Person ;
+  foaf:name "Bruzen de La Martinière, Antoine Augustin" ;
+  foaf:gender "male"@en ;
+  dc:identifier "124841260"^^gndo:gndIdentifier .
+
+<http://gso.gbv.de/DB=2.1/PPNSET?PPN=0136861199; 0136861202; 0136861210; 0136861229; 0136861237; 0136861245; 0136861253; 0136861261; 013686127X; 0136861288; 0136861296; 013686130X; 0136861318; 0136861326; 0136861334>
+  a libreto:Manifestation ;
+  libreto:database "Gemeinsamer Bibliotheksverbund (GBV)" ;
+  dc:identifier "0136861199; 0136861202; 0136861210; 0136861229; 0136861237; 0136861245; 0136861253; 0136861261; 013686127X; 0136861288; 0136861296; 013686130X; 0136861318; 0136861326; 0136861334" .
+
+<br:weltwissen/item_weltwissen6>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Ern. Sal. Cypriani Hilaria Evangelica, Oder Theologisch-Historischer Bericht Vom Andern Evangelischen Jubel-Fest ..." ;
+  dc:date "1719"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Weidmann, Moritz Georg", "" ;
+  dc:subject "Theologie", "Geschichte" ;
+  dc:language "ger"@iso6392, "lat"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Vermutlich Provenienz ESM: M: Tq 2° 40 (Einband)" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7005938>, <http://vocab.getty.edu/tgn/7012329> ;
+  dc:contributor gnd:119453363, gnd:123458625, gnd:102109117, <br:weltwissen/persons/Friedrich+II.%2C+Sachsen-Gotha-Altenburg%2C+Herzog> ;
+  libreto:hasManifestation <https://gso.gbv.de/DB=1.65/CMD?ACT=SRCHA&IKT=8002&TRM=VD18+90010523> ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_6>
+  ] .
+
+<http://vocab.getty.edu/tgn/7005938>
+  a libreto:Place ;
+  gn:name "Gotha" ;
+  geo:lat "50.95"@xsd:decimal ;
+  geo:long "10.7167"@xsd:decimal .
+
+<http://vocab.getty.edu/tgn/7012329>
+  a libreto:Place ;
+  gn:name "Leipzig" ;
+  geo:lat "51.3333"@xsd:decimal ;
+  geo:long "12.4167"@xsd:decimal .
+
+gnd:119453363
+  a libreto:Person ;
+  foaf:name "Cyprian, Ernst Salomon" ;
+  foaf:gender "male"@en ;
+  dc:identifier "119453363"^^gndo:gndIdentifier .
+
+gnd:123458625
+  a libreto:Person ;
+  foaf:name "Werner, Anna Maria" ;
+  foaf:gender "female"@en ;
+  dc:identifier "123458625"^^gndo:gndIdentifier .
+
+gnd:102109117
+  a libreto:Person ;
+  foaf:name "Göblin, A. B." ;
+  dc:identifier "102109117"^^gndo:gndIdentifier .
+
+<br:weltwissen/persons/Friedrich+II.%2C+Sachsen-Gotha-Altenburg%2C+Herzog>
+  a libreto:Person ;
+  foaf:name "Friedrich II., Sachsen-Gotha-Altenburg, Herzog" ;
+  foaf:gender "male"@en .
+
+<https://gso.gbv.de/DB=1.65/CMD?ACT=SRCHA&IKT=8002&TRM=VD18+90010523>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" ;
+  dc:identifier "90010523" .
+
+<br:weltwissen/item_weltwissen7>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Avlico Politica. Darin gehandelt wird, 1. Von Erziehung ..." ;
+  dc:date "1622"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Löhneysen, Georg Engelhard", "" ;
+  dc:subject "Pädagogik"@http://uri.gbv.de/terminology/aadgenres/, "Politik" ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Exemplar M: Hn 2° 3 in Sammelband" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7111296> ;
+  dc:contributor gnd:120995867, gnd:102017433 ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=23:270837A> ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_7>
+  ] .
+
+<http://vocab.getty.edu/tgn/7111296>
+  a libreto:Place ;
+  gn:name "Remlingen" ;
+  geo:lat "52.116667"@xsd:decimal ;
+  geo:long "10.666667"@xsd:decimal .
+
+gnd:120995867
+  a libreto:Person ;
+  foaf:name "Löhneysen, Georg Engelhard" ;
+  foaf:gender "male"@en ;
+  dc:identifier "120995867"^^gndo:gndIdentifier .
+
+gnd:102017433
+  a libreto:Person ;
+  foaf:name "Friedrich Ulrich, Braunschweig-Wolfenbüttel, Herzog" ;
+  foaf:gender "male"@en ;
+  dc:identifier "102017433"^^gndo:gndIdentifier .
+
+<http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=23:270837A>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)" ;
+  dc:identifier "23:270837A" .
+
+<br:weltwissen/item_weltwissen8>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "HJe hebt sych an das summerteil der heiligen leben …" ;
+  dc:date "ca. 1500"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:subject "Theologie", "Religionsgeschichte" ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Kein Exemplar im Bestand der HAB nachgewiesen" ;
+  dc:contributor gnd:118556401 ;
+  libreto:hasManifestation <http://data.cerl.org/istc/ij00167500> ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_8>
+  ] .
+
+gnd:118556401
+  a libreto:Person ;
+  foaf:name "Jacobus de Voragine" ;
+  foaf:gender "male"@en ;
+  dc:identifier "118556401"^^gndo:gndIdentifier .
+
+<http://data.cerl.org/istc/ij00167500>
+  a libreto:Manifestation ;
+  libreto:database "Incunabula Short Title Catalogue (ISTC)" ;
+  dc:identifier "ij00167500" .
+
+<br:weltwissen/item_weltwissen9>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Œvvres De François De La Mothe Le Vayer" ;
+  dc:date "1662"@xsd:gYear ;
+  dbo:numberOfVolumes "2"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Courbé, Augustin" ;
+  dc:subject "Philosophie", "Pädagogik"@http://uri.gbv.de/terminology/aadgenres/ ;
+  dc:language "fre"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Teil 1-2" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7008038> ;
+  dc:contributor gnd:119033607 ;
+  libreto:hasOriginalItem [
+    a libreto:OriginalItem ;
+    libreto:owner "HAB" ;
+    libreto:shelfmark "M: Ac 2° 5" ;
+    libreto:provenanceAttribute "“ELISABETH SOPHIA MARIA. Verwittwete HERZOGINN ZU BR. U. LUN:” (Band 1-2)"
+  ] ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_9>
+  ] .
+
+<http://vocab.getty.edu/tgn/7008038>
+  a libreto:Place ;
+  gn:name "Paris" ;
+  geo:lat "48.8667"@xsd:decimal ;
+  geo:long "2.3333"@xsd:decimal .
+
+gnd:119033607
+  a libreto:Person ;
+  foaf:name "La Mothe Le Vayer, François de" ;
+  foaf:gender "male"@en ;
+  dc:identifier "119033607"^^gndo:gndIdentifier .
+
+<br:weltwissen/item_weltwissen10>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Unverwelklich grünende Palmen Unsterblicher Tugenden und Verdienste Auf dem Granbe Des weiland durchlauchtigsten Fürstens ... Christian Augusts Regierenden Fürstens zu Anhalt ... " ;
+  dc:date "1747"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Bernuth, Gottfried Heinrich" ;
+  dc:subject "Theologie", "Geschichte" ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7012892> ;
+  dc:contributor gnd:135881366, gnd:138631182 ;
+  libreto:hasOriginalItem [
+    a libreto:OriginalItem ;
+    libreto:owner "HAB" ;
+    libreto:shelfmark "M: Gm 2° 20"
+  ] ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_10>
+  ] .
+
+<http://vocab.getty.edu/tgn/7012892>
+  a libreto:Place ;
+  gn:name "Zerbst" ;
+  geo:lat "51.9667"@xsd:decimal ;
+  geo:long "12.0833"@xsd:decimal .
+
+gnd:135881366
+  a libreto:Person ;
+  foaf:name "Christian August, Anhalt-Zerbst, Fürst" ;
+  foaf:gender "male"@en ;
+  dc:identifier "135881366"^^gndo:gndIdentifier .
+
+gnd:138631182
+  a libreto:Person ;
+  foaf:name "Johanna Elisabeth, Anhalt-Zerbst, Fürstin" ;
+  foaf:gender "female"@en ;
+  dc:identifier "138631182"^^gndo:gndIdentifier .
+
+<br:weltwissen/item_weltwissen11>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Das grosse Cantional, Oder: Kirchen-Gesangbuch, Jn welchem Nicht allein D. Martin Luthers ... geistreiche Lieder begriffen ..." ;
+  dc:date "1687"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Müller, Henning" ;
+  dc:subject "Theologie", "Musik" ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:weltwissen/places/Darmstadt> ;
+  dc:contributor gnd:118575449 ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=12:122177D> ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_11>
+  ] .
+
+<br:weltwissen/places/Darmstadt>
+  a libreto:Place ;
+  gn:name "Darmstadt" .
+
+gnd:118575449
+  a libreto:Person ;
+  foaf:name "Luther, Martin" ;
+  foaf:gender "male"@en ;
+  dc:identifier "118575449"^^gndo:gndIdentifier .
+
+<http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=12:122177D>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)" ;
+  dc:identifier "12:122177D" .
+
+<br:weltwissen/item_weltwissen12>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Le Dictionaire Des Cas De Conscience, Decidés Suivant Les Principes De La Morale ..." ;
+  dc:date "1733"@xsd:gYear ;
+  dbo:numberOfVolumes "2"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Coignard, Jean-Baptiste", "Guérin, Hippolyte-Louis" ;
+  dc:subject "Kasuistik", "Philosophie", "Theologie" ;
+  dc:language "fre"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Teil 1-2" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7008038> ;
+  dc:contributor gnd:172619955, gnd:172619998, gnd:115503544 ;
+  libreto:hasOriginalItem [
+    a libreto:OriginalItem ;
+    libreto:owner "HAB" ;
+    libreto:shelfmark "M: Te 2° 6" ;
+    libreto:provenanceAttribute "“ELISABETH SOPHIA MARIA. Verwittwete HERZOGINN ZU BR. U. LUN:” (Band 1)"
+  ] ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_12>
+  ] .
+
+gnd:172619955
+  a libreto:Person ;
+  foaf:name "Lamet, Adrien Augustin de Bussy de" ;
+  foaf:gender "male"@en ;
+  dc:identifier "172619955"^^gndo:gndIdentifier .
+
+gnd:172619998
+  a libreto:Person ;
+  foaf:name "Fromageau, Germain" ;
+  foaf:gender "male"@en ;
+  dc:identifier "172619998"^^gndo:gndIdentifier .
+
+gnd:115503544
+  a libreto:Person ;
+  foaf:name "Fabre, Jean Claude" ;
+  foaf:gender "male"@en ;
+  dc:identifier "115503544"^^gndo:gndIdentifier .
+
+<br:weltwissen/item_weltwissen13>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Superstitions Anciennes Et Modernes, Prejugés Vulgaires Qui ont induit les Peuples à des usages ..." ;
+  dc:date "1733-1736"@xsd:gYear ;
+  dbo:numberOfVolumes "2"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Bernard, Jean Frédéric" ;
+  dc:subject "Theologie", "Kulturgeschichte" ;
+  dc:language "fre"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Teil 1-2; Exemplar mit Provenienz PC bzw. Montbail" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7006952> ;
+  dc:contributor gnd:100186955, gnd:124668968, gnd:151541566 ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=360377246; 360378358> ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_13>
+  ] .
+
+gnd:100186955
+  a libreto:Person ;
+  foaf:name "Le Brun, Pierre" ;
+  foaf:gender "male"@en ;
+  dc:identifier "100186955"^^gndo:gndIdentifier .
+
+gnd:124668968
+  a libreto:Person ;
+  foaf:name "Thiers, Jean-Baptiste" ;
+  foaf:gender "male"@en ;
+  dc:identifier "124668968"^^gndo:gndIdentifier .
+
+gnd:151541566
+  a libreto:Person ;
+  foaf:name "Bellon de Saint-Quentin, J." ;
+  foaf:gender "male"@en ;
+  dc:identifier "151541566"^^gndo:gndIdentifier .
+
+<http://gso.gbv.de/DB=2.1/PPNSET?PPN=360377246; 360378358>
+  a libreto:Manifestation ;
+  libreto:database "Gemeinsamer Bibliotheksverbund (GBV)" ;
+  dc:identifier "360377246; 360378358" .
+
+<br:weltwissen/item_weltwissen14>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Ancienne Et Nouvelle Discipline De L'Eglise Touchant Les Benefices Et Les Beneficiers" ;
+  dc:date "1679-1682"@xsd:gYear ;
+  dbo:numberOfVolumes "3"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Muguet, François" ;
+  dc:subject "Theologie", "Kirchenrecht" ;
+  dc:language "fre"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7008038> ;
+  dc:contributor gnd:119438372 ;
+  libreto:hasOriginalItem [
+    a libreto:OriginalItem ;
+    libreto:owner "HAB" ;
+    libreto:shelfmark "M: Rb 2° 49" ;
+    libreto:provenanceAttribute "“ELISABETH SOPHIA MARIA. Verwittwete HERZOGINN ZU BR. U. LUN:” (Band 1-3)"
+  ] ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_14>
+  ] .
+
+gnd:119438372
+  a libreto:Person ;
+  foaf:name "Thomassin, Louis" ;
+  foaf:gender "male"@en ;
+  dc:identifier "119438372"^^gndo:gndIdentifier .
+
+<br:weltwissen/item_weltwissen15>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Histoire Des Traités De Paix, Et autres Negotiations Du dix-septième Siècle, Depuis la Paix De Vervins, Jusqu'à la Paix de Nimegue" ;
+  dc:date "1725"@xsd:gYear ;
+  dbo:numberOfVolumes "2"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Bernard, Jean Frédéric", "Vaillant, Isaac" ;
+  dc:subject "Geschichte" ;
+  dc:language "fre"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Teil 1-2" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7006952>, <http://vocab.getty.edu/tgn/7006810> ;
+  dc:contributor gnd:10423959X ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=033645957; 033645965> ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_15>
+  ] .
+
+gnd:10423959X
+  a libreto:Person ;
+  foaf:name "Saint-Prest, Jean Yves de" ;
+  foaf:gender "male"@en ;
+  dc:identifier "10423959X"^^gndo:gndIdentifier .
+
+<http://gso.gbv.de/DB=2.1/PPNSET?PPN=033645957; 033645965>
+  a libreto:Manifestation ;
+  libreto:database "Gemeinsamer Bibliotheksverbund (GBV)" ;
+  dc:identifier "033645957; 033645965" .
+
+<br:weltwissen/item_weltwissen16>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Histoire De La Ville De Paris" ;
+  dc:date "1725"@xsd:gYear ;
+  dbo:numberOfVolumes "5"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Desprez, Guillaume" ;
+  dc:subject "Geschichte", "Kulturgeschichte" ;
+  dc:language "fre"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Teil 1-5" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7008038> ;
+  dc:contributor gnd:1089699689, gnd:124708129 ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=183343980; 183344057; 183344138; 183344235; 183344324> ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_16>
+  ] .
+
+gnd:1089699689
+  a libreto:Person ;
+  foaf:name "Félibien, Michel" ;
+  foaf:gender "male"@en ;
+  dc:identifier "1089699689"^^gndo:gndIdentifier .
+
+gnd:124708129
+  a libreto:Person ;
+  foaf:name "Lobineau, Guy Alexis" ;
+  foaf:gender "male"@en ;
+  dc:identifier "124708129"^^gndo:gndIdentifier .
+
+<http://gso.gbv.de/DB=2.1/PPNSET?PPN=183343980; 183344057; 183344138; 183344235; 183344324>
+  a libreto:Manifestation ;
+  libreto:database "Gemeinsamer Bibliotheksverbund (GBV)" ;
+  dc:identifier "183343980; 183344057; 183344138; 183344235; 183344324" .
+
+<br:weltwissen/item_weltwissen17>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Johannis Auentini Chronica, Darinn nicht allein deß ... Hauß Beyern ... Herkommen ..., sondern auch der ... Teutschen Vrsprung ... beschrieben" ;
+  dc:date "1580"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Feyerabend, Johann", "Feyerabend, Sigmund" ;
+  dc:subject "Geschichte", "Genealogie"@http://uri.gbv.de/terminology/aadgenres/ ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7005293> ;
+  dc:contributor gnd:11850522X, gnd:116517735 ;
+  libreto:hasManifestation <http://gateway-bayern.de/VD16+T 2321> ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_17>
+  ] .
+
+<http://vocab.getty.edu/tgn/7005293>
+  a libreto:Place ;
+  gn:name "Frankfurt am Main" ;
+  geo:lat "50.1167"@xsd:decimal ;
+  geo:long "8.6833"@xsd:decimal .
+
+gnd:11850522X
+  a libreto:Person ;
+  foaf:name "Aventinus, Johannes" ;
+  foaf:gender "male"@en ;
+  dc:identifier "11850522X"^^gndo:gndIdentifier .
+
+gnd:116517735
+  a libreto:Person ;
+  foaf:name "Cisnerus, Nikolaus" ;
+  foaf:gender "male"@en ;
+  dc:identifier "116517735"^^gndo:gndIdentifier .
+
+<http://gateway-bayern.de/VD16+T 2321>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)" ;
+  dc:identifier "T 2321" .
+
+<br:weltwissen/item_weltwissen18>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Concordantiæ Bibliorum Emendatæ ac ferè novæ, Das ist: Biblische Concordantz ..." ;
+  dc:date "1674"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Friderici, Johann" ;
+  dc:subject "Theologie", "Bibelkunde" ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7005293> ;
+  dc:contributor gnd:116270381, gnd:124669115 ;
+  libreto:hasOriginalItem [
+    a libreto:OriginalItem ;
+    libreto:owner "HAB" ;
+    libreto:shelfmark "M: Tb 2° 2" ;
+    libreto:provenanceAttribute "“ELISABETH SOPHIA MARIA. Verwittwete HERZOGINN ZU BR. U. LUN:”"
+  ] ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_18>
+  ] .
+
+gnd:116270381
+  a libreto:Person ;
+  foaf:name "Agricola, Conrad" ;
+  foaf:gender "male"@en ;
+  dc:identifier "116270381"^^gndo:gndIdentifier .
+
+gnd:124669115
+  a libreto:Person ;
+  foaf:name "Zeis, Christian" ;
+  foaf:gender "male"@en ;
+  dc:identifier "124669115"^^gndo:gndIdentifier .
+
+<br:weltwissen/item_weltwissen19>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Ioan. Sleidani Veri Et Ad Nostra tempora usque continuati Das ist, Warhafftige Beschreibung allerley fürnemmer Händel vnd Geschichten ..." ;
+  dc:date "1625"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Heyden, Christoph von der" ;
+  dc:subject "Theologie", "Geschichte", "Religionsgeschichte" ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Teil 1-5; vermutlich Provenienz ESM: M: Gl 2° 96 (Einband; Titelschild)" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7012346> ;
+  dc:contributor gnd:118748440, gnd:124619614 ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=233719687; 233719822; 233719857; 23371992X; 233719946> ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_19>
+  ] .
+
+<http://vocab.getty.edu/tgn/7012346>
+  a libreto:Place ;
+  gn:name "Straßburg" ;
+  geo:lat "48.5833"@xsd:decimal ;
+  geo:long "7.75"@xsd:decimal .
+
+gnd:118748440
+  a libreto:Person ;
+  foaf:name "Sleidanus, Johannes" ;
+  foaf:gender "male"@en ;
+  dc:identifier "118748440"^^gndo:gndIdentifier .
+
+gnd:124619614
+  a libreto:Person ;
+  foaf:name "Schadaeus, Oseas" ;
+  foaf:gender "male"@en ;
+  dc:identifier "124619614"^^gndo:gndIdentifier .
+
+<http://gso.gbv.de/DB=2.1/PPNSET?PPN=233719687; 233719822; 233719857; 23371992X; 233719946>
+  a libreto:Manifestation ;
+  libreto:database "Gemeinsamer Bibliotheksverbund (GBV)" ;
+  dc:identifier "233719687; 233719822; 233719857; 23371992X; 233719946" .
+
+<br:weltwissen/item_weltwissen20>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Le Grand Dictionaire Historique, Ou Le Mêlange Curieux De L'Histoire Sacrée Et Profane ..." ;
+  dc:date "1699 oder 1707"@xsd:gYear ;
+  dbo:numberOfVolumes "4"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Coignard, Jean-Baptiste" ;
+  dc:subject "Geschichte", "Lexikographie" ;
+  dc:language "fre"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Vermutlich Provenienz ESM: M: Ga 2° 10 (einziges Exemplar)" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7008038> ;
+  dc:contributor gnd:121142655 ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=22279836X; 222798408; 222798416; 222798521 bzw. 222799323; 222804653; 222804734; 222804777> ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_20>
+  ] .
+
+gnd:121142655
+  a libreto:Person ;
+  foaf:name "Moréri, Louis" ;
+  foaf:gender "male"@en ;
+  dc:identifier "121142655"^^gndo:gndIdentifier .
+
+<http://gso.gbv.de/DB=2.1/PPNSET?PPN=22279836X; 222798408; 222798416; 222798521 bzw. 222799323; 222804653; 222804734; 222804777>
+  a libreto:Manifestation ;
+  libreto:database "Gemeinsamer Bibliotheksverbund (GBV)" ;
+  dc:identifier "22279836X; 222798408; 222798416; 222798521 bzw. 222799323; 222804653; 222804734; 222804777" .
+
+<br:weltwissen/item_weltwissen21>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Recueil Des Traitez De Paix, De Trêve, De Neutralité, De Suspension D'Armes, De Confédération, D'Alliance, De Commerce, De Garantie, Et D'Autres Actes Publics ... " ;
+  dc:date "1700"@xsd:gYear ;
+  dbo:numberOfVolumes "4"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Dirk Booms Witwe", "Boom, Hendrick" ;
+  dc:subject "Rechtswissenschaft" ;
+  dc:language "fre"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Teil 1-4" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7006952>, <http://vocab.getty.edu/tgn/7006810> ;
+  dc:contributor gnd:131366858 ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=14114954X; 141149558; 141149566> ;
+  libreto:hasOriginalItem [
+    a libreto:OriginalItem ;
+    libreto:owner "HAB" ;
+    libreto:shelfmark "Xd 2° 98" ;
+    libreto:provenanceAttribute "“ELISABETH SOPHIA MARIA. Verwittwete HERZOGINN ZU BR. U. LUN:” (Band 1)"
+  ] ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_21>
+  ] .
+
+gnd:131366858
+  a libreto:Person ;
+  foaf:name "Bernard, Jacques" ;
+  foaf:gender "male"@en ;
+  dc:identifier "131366858"^^gndo:gndIdentifier .
+
+<http://gso.gbv.de/DB=2.1/PPNSET?PPN=14114954X; 141149558; 141149566>
+  a libreto:Manifestation ;
+  libreto:database "Gemeinsamer Bibliotheksverbund (GBV)" ;
+  dc:identifier "14114954X; 141149558; 141149566" .
+
+<br:weltwissen/item_weltwissen22>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Des Theuren Mannes Gottes, D. Martin Luthers Sämtliche Theils von Ihm selbst Deutsch verfertigte, theils aus dessen Lateinischen ins Deutsche übersetzte Schrifften und Wercke" ;
+  dc:date "1729-1734"@xsd:gYear ;
+  dbo:numberOfVolumes "22"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Zedler, Johann Heinrich" ;
+  dc:subject "Theologie", "Kirchengeschichte" ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Teil 1-22" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7012329> ;
+  dc:contributor gnd:118575449, gnd:116224878 ;
+  libreto:hasOriginalItem [
+    a libreto:OriginalItem ;
+    libreto:owner "HAB" ;
+    libreto:shelfmark "M: Li 2° 100" ;
+    libreto:provenanceAttribute "“ELISABETH SOPHIA MARIA. Verwittwete HERZOGINN ZU BR. U. LUN:” (Band 11-22)"
+  ] ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_22>
+  ] .
+
+gnd:116224878
+  a libreto:Person ;
+  foaf:name "Börner, Christian Friedrich" ;
+  foaf:gender "male"@en ;
+  dc:identifier "116224878"^^gndo:gndIdentifier .
+
+<br:weltwissen/item_weltwissen23>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title " M. Johann Jacob Greiffs, Pastoris in Mölbis, Vollständige Register über die XXII Leipziger Theile der gesammten Schriften Des seligen D. Martin Luthers ..." ;
+  dc:date "1740"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Breitkopf, Bernhard Christoph" ;
+  dc:subject "Theologie", "Religionsgeschichte" ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7012329> ;
+  dc:contributor gnd:143024108, gnd:118575449, gnd:116224878 ;
+  libreto:hasOriginalItem [
+    a libreto:OriginalItem ;
+    libreto:owner "HAB" ;
+    libreto:shelfmark "M: Li 2° 100" ;
+    libreto:provenanceAttribute "“ELISABETH SOPHIA MARIA. Verwittwete HERZOGINN ZU BR. U. LUN:”"
+  ] ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_23>
+  ] .
+
+gnd:143024108
+  a libreto:Person ;
+  foaf:name "Greif, Johann Jakob" ;
+  foaf:gender "male"@en ;
+  dc:identifier "143024108"^^gndo:gndIdentifier .
+
+<br:weltwissen/item_weltwissen24>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Colloqvia, oder Tisch-Reden, und andere Christliche, sehr erbauliche Gespräche Des Hocherleuchteten Mannes Gottes D. Martin Luthers ..." ;
+  dc:date "1723"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Zimmermann, Johann Christoph", "Gerlach, Johann Nikolaus" ;
+  dc:subject "Theologie", "Religionsgeschichte" ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7012329>, <http://vocab.getty.edu/tgn/7004455> ;
+  dc:contributor gnd:118575449, gnd:124798284, gnd:141268360 ;
+  libreto:hasOriginalItem [
+    a libreto:OriginalItem ;
+    libreto:owner "HAB" ;
+    libreto:shelfmark "M: Li 4° 340" ;
+    libreto:provenanceAttribute "“ELISABETH SOPHIA MARIA. Verwittwete HERZOGINN ZU BR. U. LUN:”"
+  ] ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_24>
+  ] .
+
+<http://vocab.getty.edu/tgn/7004455>
+  a libreto:Place ;
+  gn:name "Dresden" ;
+  geo:lat "51.05"@xsd:decimal ;
+  geo:long "13.75"@xsd:decimal .
+
+gnd:124798284
+  a libreto:Person ;
+  foaf:name "Stangwald, Andreas" ;
+  foaf:gender "male"@en ;
+  dc:identifier "124798284"^^gndo:gndIdentifier .
+
+gnd:141268360
+  a libreto:Person ;
+  foaf:name "Walther, Georg" ;
+  foaf:gender "male"@en ;
+  dc:identifier "141268360"^^gndo:gndIdentifier .
+
+<br:weltwissen/item_weltwissen25>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Allgemeine Schau-Bühne der Welt, Oder: Beschreibung der vornehmsten Welt-Geschichte, So sich von Anfang dieses Siebenzehenden Jahr-Hunderts Biß zum Ende desselben ... begeben" ;
+  dc:date "1699-1731"@xsd:gYear ;
+  dbo:numberOfVolumes "5"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Zunner, Johann David", "Jung, Johann Adam" ;
+  dc:subject "Geschichte" ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Teil 1-5" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7005293> ;
+  dc:contributor gnd:118817167 ;
+  libreto:hasOriginalItem [
+    a libreto:OriginalItem ;
+    libreto:owner "HAB" ;
+    libreto:shelfmark "M: Ge 2° 4" ;
+    libreto:provenanceAttribute "“ELISABETH SOPHIA MARIA. Verwittwete HERZOGINN ZU BR. U. LUN:” (Band 2-5)"
+  ] ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_25>
+  ] .
+
+gnd:118817167
+  a libreto:Person ;
+  foaf:name "Ludolf, Hiob" ;
+  foaf:gender "male"@en ;
+  dc:identifier "118817167"^^gndo:gndIdentifier .
+
+<br:weltwissen/item_weltwissen26>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Histoire d'Angleterre, d'Écosse et d'Irlande" ;
+  dc:date "1697-1713"@xsd:gYear ;
+  dbo:numberOfVolumes "4"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Leers, Reinier" ;
+  dc:subject "Geschichte" ;
+  dc:language "fre"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Teil 1-4" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7006792> ;
+  dc:contributor gnd:123972469 ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=124032788; 12403280X; 124032818; 124032826> ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_26>
+  ] .
+
+gnd:123972469
+  a libreto:Person ;
+  foaf:name "Larrey, Isaac de" ;
+  foaf:gender "male"@en ;
+  dc:identifier "123972469"^^gndo:gndIdentifier .
+
+<http://gso.gbv.de/DB=2.1/PPNSET?PPN=124032788; 12403280X; 124032818; 124032826>
+  a libreto:Manifestation ;
+  libreto:database "Gemeinsamer Bibliotheksverbund (GBV)" ;
+  dc:identifier "124032788; 12403280X; 124032818; 124032826" .
+
+<br:weltwissen/item_weltwissen27>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Oeuvres de Nicolas Boileau Despreaux ..." ;
+  dc:date "1718"@xsd:gYear ;
+  dbo:numberOfVolumes "2"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Mortier, David" ;
+  dc:subject "Literaturgeschichte", "Geschichte" ;
+  dc:language "fre"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Teil 1-2" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7006952> ;
+  dc:contributor gnd:118512986, gnd:123379636 ;
+  libreto:hasOriginalItem [
+    a libreto:OriginalItem ;
+    libreto:owner "HAB" ;
+    libreto:shelfmark "M: Lm 2° 2" ;
+    libreto:provenanceAttribute "“ELISABETH SOPHIA MARIA. Verwittwete HERZOGINN ZU BR. U. LUN:” (Band 1-2)"
+  ] ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_27>
+  ] .
+
+gnd:118512986
+  a libreto:Person ;
+  foaf:name "Boileau Despréaux, Nicolas" ;
+  foaf:gender "male"@en ;
+  dc:identifier "118512986"^^gndo:gndIdentifier .
+
+gnd:123379636
+  a libreto:Person ;
+  foaf:name "Picart, Bernard" ;
+  foaf:gender "male"@en ;
+  dc:identifier "123379636"^^gndo:gndIdentifier .
+
+<br:weltwissen/item_weltwissen28>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Annales Des Provinces-Unies" ;
+  dc:date "1719-1726"@xsd:gYear ;
+  dbo:numberOfVolumes "2"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Le Vier, Charles" ;
+  dc:subject "Geschichte" ;
+  dc:language "fre"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Von Exemplar M: Gp 2° 4 und Exemplar Schulenb. Gh 2° 2a jeweils nur Bd. 2 der Ausgabe vorhanden; vorhandenes vollständiges Exemplar mit Provenienz LR" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7006810> ;
+  dc:contributor gnd:120538253 ;
+  libreto:hasManifestation <http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=202161811; 304655341> ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_28>
+  ] .
+
+gnd:120538253
+  a libreto:Person ;
+  foaf:name "Basnage de Beauval, Jacques" ;
+  foaf:gender "male"@en ;
+  dc:identifier "120538253"^^gndo:gndIdentifier .
+
+<http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=202161811; 304655341>
+  a libreto:Manifestation ;
+  libreto:database "Short Title Catalogue Netherlands" ;
+  dc:identifier "202161811; 304655341" .
+
+<br:weltwissen/item_weltwissen29>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Histoire de France, Depuis Faramond Jusqu'au Regne De Louis Le Juste" ;
+  dc:date "1685"@xsd:gYear ;
+  dbo:numberOfVolumes "3"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Thierry, Denys II.", "Guignard, Jean" ;
+  dc:subject "Geschichte" ;
+  dc:language "fre"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Teil 1-3" ;
+  dc:contributor gnd:119192888 ;
+  libreto:hasOriginalItem [
+    a libreto:OriginalItem ;
+    libreto:owner "HAB" ;
+    libreto:shelfmark "M: Gk 2° 57"
+  ] ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_29>
+  ] .
+
+gnd:119192888
+  a libreto:Person ;
+  foaf:name "Mézeray, François Eudes de" ;
+  foaf:gender "male"@en ;
+  dc:identifier "119192888"^^gndo:gndIdentifier .
+
+<br:weltwissen/item_weltwissen30>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Allgemeines Biblisches Lexicon, Jn welchem nebst denen Namen, das Wesen derer Sachen, das ist, so weit davon in heiliger Schrifft Erwehnung geschiehet, ... Jn Alphabetischer Ordnung ... beschrieben ..." ;
+  dc:date "1730"@xsd:gYear ;
+  dbo:numberOfVolumes "3"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Knoch, Friedrich Daniel", "Waldau, Christian Friedrich" ;
+  dc:subject "Theologie", "Bibelkunde", "Lexikographie" ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Teil 1-3" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7005293> ;
+  dc:contributor gnd:121818101, gnd:10434444X ;
+  libreto:hasOriginalItem [
+    a libreto:OriginalItem ;
+    libreto:owner "HAB" ;
+    libreto:shelfmark "M: Tb 2° 23" ;
+    libreto:provenanceAttribute "“ELISABETH SOPHIA MARIA. Verwittwete HERZOGINN ZU BR. U. LUN:” (Band 1-3)"
+  ] ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_30>
+  ] .
+
+gnd:121818101
+  a libreto:Person ;
+  foaf:name "Schneider, Daniel" ;
+  foaf:gender "male"@en ;
+  dc:identifier "121818101"^^gndo:gndIdentifier .
+
+gnd:10434444X
+  a libreto:Person ;
+  foaf:name "Pritius, Johann Georg" ;
+  foaf:gender "male"@en ;
+  dc:identifier "10434444X"^^gndo:gndIdentifier .
+
+<br:weltwissen/item_weltwissen31>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Histoire Generale Des Eglises Evangeliques Des Vallees De Piemont; Ou Vaudoises" ;
+  dc:date "1669"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Carpentier, Jean-Baptiste" ;
+  dc:subject "Theologie", "Kirchengeschichte" ;
+  dc:language "fre"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Teil 1-2" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7006809> ;
+  dc:contributor gnd:13418243X ;
+  libreto:hasOriginalItem [
+    a libreto:OriginalItem ;
+    libreto:owner "HAB" ;
+    libreto:shelfmark "M: Tq 2° 28" ;
+    libreto:provenanceAttribute "“ELISABETH SOPHIA MARIA. Verwittwete HERZOGINN ZU BR. U. LUN:”"
+  ] ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_31>
+  ] .
+
+<http://vocab.getty.edu/tgn/7006809>
+  a libreto:Place ;
+  gn:name "Leiden" ;
+  geo:lat "52.15"@xsd:decimal ;
+  geo:long "4.5"@xsd:decimal .
+
+gnd:13418243X
+  a libreto:Person ;
+  foaf:name "Léger, Jean" ;
+  foaf:gender "male"@en ;
+  dc:identifier "13418243X"^^gndo:gndIdentifier .
+
+<br:weltwissen/item_weltwissen32>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Codex Diplomaticvs Qvedlinbvrgensis" ;
+  dc:date "1764"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Möller, Reinhard Eustachius" ;
+  dc:subject "Geschichte", "Diplomatik", "Kodikologie" ;
+  dc:language "lat"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7005293> ;
+  dc:contributor gnd:100793886 ;
+  libreto:hasManifestation <https://gso.gbv.de/DB=1.65/CMD?ACT=SRCHA&IKT=8002&TRM=VD18+15240762> ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_32>
+  ] .
+
+gnd:100793886
+  a libreto:Person ;
+  foaf:name "Erath, Anton Ulrich von" ;
+  foaf:gender "male"@en ;
+  dc:identifier "100793886"^^gndo:gndIdentifier .
+
+<https://gso.gbv.de/DB=1.65/CMD?ACT=SRCHA&IKT=8002&TRM=VD18+15240762>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" ;
+  dc:identifier "15240762" .
+
+<br:weltwissen/item_weltwissen33>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Concordantiae Bibliorum, Das ist Biblische Concordantz und Verzeichnuß der Fürnembsten Wörter ..." ;
+  dc:date "1621"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Ruland, Johann", "Ruland, Nikolaus" ;
+  dc:subject "Theologie", "Bibelkunde" ;
+  dc:language "lat"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7005293> ;
+  dc:contributor gnd:116270381 ;
+  libreto:hasOriginalItem [
+    a libreto:OriginalItem ;
+    libreto:owner "HAB" ;
+    libreto:shelfmark "M: Tb 2° 1"
+  ] ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_33>
+  ] .
+
+<br:weltwissen/item_weltwissen34>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Die unvergleichlich schöne Sieges-Palmen ..." ;
+  dc:date "1718"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Andreae, Johann Nikolaus" ;
+  dc:subject "Theologie", "Geschichte" ;
+  dc:language "ger"@iso6392, "lat"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Exemplar ist Sammelband mit 11 Werken" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/1039554> ;
+  dc:contributor gnd:104189452 ;
+  libreto:hasManifestation <https://gso.gbv.de/DB=1.65/CMD?ACT=SRCHA&IKT=8002&TRM=VD18+12893552> ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_34>
+  ] .
+
+<http://vocab.getty.edu/tgn/1039554>
+  a libreto:Place ;
+  gn:name "Herborn" ;
+  geo:lat "50.6833"@xsd:decimal ;
+  geo:long "8.3167"@xsd:decimal .
+
+gnd:104189452
+  a libreto:Person ;
+  foaf:name "Heinrich August Wilhelm Nassau-Dillenburg, Prinz" ;
+  foaf:gender "male"@en ;
+  dc:identifier "104189452"^^gndo:gndIdentifier .
+
+<https://gso.gbv.de/DB=1.65/CMD?ACT=SRCHA&IKT=8002&TRM=VD18+12893552>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" ;
+  dc:identifier "12893552" .
+
+<br:weltwissen/item_weltwissen35>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Dictionnaire Universel François & Latin" ;
+  dc:date "1704"@xsd:gYear ;
+  dbo:numberOfVolumes "4"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Ganeau, Etienne" ;
+  dc:subject "Sprachwissenschaft", "Lexikographie" ;
+  dc:language "fre"@iso6392, "lat"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Teil 1-4; Exemplar vermutlich Provenienz ESM (einziges Exemplar, Vorbesitz: Justus Christoph Böhmer)" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7009510> ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=151912378; 593007417; 593007433; 151912386> ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_35>
+  ] .
+
+<http://vocab.getty.edu/tgn/7009510>
+  a libreto:Place ;
+  gn:name "Trévoux" ;
+  geo:lat "45.94111"@xsd:decimal ;
+  geo:long "4.767273"@xsd:decimal .
+
+<http://gso.gbv.de/DB=2.1/PPNSET?PPN=151912378; 593007417; 593007433; 151912386>
+  a libreto:Manifestation ;
+  libreto:database "Gemeinsamer Bibliotheksverbund (GBV)" ;
+  dc:identifier "151912378; 593007417; 593007433; 151912386" .
+
+<br:weltwissen/item_weltwissen36>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Quatuordecim Tabulæ Genealogicæ, Quibus exhibentur Præcipuæ Familiæ Hodiernorum Principum Imperii" ;
+  dc:date "1685"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Cotta, Johann Georg", "Reis, Johann Heinrich" ;
+  dc:subject "Geschichte", "Genealogie"@http://uri.gbv.de/terminology/aadgenres/ ;
+  dc:language "lat"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7004426> ;
+  dc:contributor gnd:100231993 ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=14:018375V> ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_36>
+  ] .
+
+<http://vocab.getty.edu/tgn/7004426>
+  a libreto:Place ;
+  gn:name "Tübingen" ;
+  geo:lat "48.5333"@xsd:decimal ;
+  geo:long "9.05"@xsd:decimal .
+
+gnd:100231993
+  a libreto:Person ;
+  foaf:name "Pregnitzer, Johann Ulrich" ;
+  foaf:gender "male"@en ;
+  dc:identifier "100231993"^^gndo:gndIdentifier .
+
+<http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=14:018375V>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)" ;
+  dc:identifier "14:018375V" .
+
+<br:weltwissen/item_weltwissen37>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Francisci Philippi Florini ... Oeconomvs Prvdens Et Legalis. Oder Allgemeiner Klug- und Rechts-verständiger Haus-Vatter, bestehend Jn Neun Büchern ..." ;
+  dc:date "1705"@xsd:gYear ;
+  dbo:numberOfVolumes "2"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Riegel, Christoph", "Knorz, Johann Leonhard" ;
+  dc:subject "Ökonomie", "Landwirtschaft"@http://uri.gbv.de/terminology/aadgenres/, "Pädagogik"@http://uri.gbv.de/terminology/aadgenres/ ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Exemplar mit Provenienz LR (Buch 1-9 in 2 Bänden)" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7004334> ;
+  dc:contributor gnd:118023977, gnd:104199288 ;
+  libreto:hasManifestation <https://gso.gbv.de/DB=1.65/CMD?ACT=SRCHA&IKT=8002&TRM=VD18+10437002> ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_37>
+  ] .
+
+<http://vocab.getty.edu/tgn/7004334>
+  a libreto:Place ;
+  gn:name "Nürnberg" ;
+  geo:lat "49.447778"@xsd:decimal ;
+  geo:long "11.068333"@xsd:decimal .
+
+gnd:118023977
+  a libreto:Person ;
+  foaf:name "Florin, Franz Philipp" ;
+  foaf:gender "male"@en ;
+  dc:identifier "118023977"^^gndo:gndIdentifier .
+
+gnd:104199288
+  a libreto:Person ;
+  foaf:name "Donauer, Johann Christoph" ;
+  foaf:gender "male"@en ;
+  dc:identifier "104199288"^^gndo:gndIdentifier .
+
+<https://gso.gbv.de/DB=1.65/CMD?ACT=SRCHA&IKT=8002&TRM=VD18+10437002>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" ;
+  dc:identifier "10437002" .
+
+<br:weltwissen/item_weltwissen38>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Histoire Generale De France Avec L'Estat De L'Eglise Et De L'Empire" ;
+  dc:date "1652-1663"@xsd:gYear ;
+  dbo:numberOfVolumes "5"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Béchet, Denis", "Billaine, Louis" ;
+  dc:subject "Geschichte", "Kirchengeschichte", "Staatswissenschaften" ;
+  dc:language "fre"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Teil 1-8" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7008038> ;
+  dc:contributor gnd:123381517 ;
+  libreto:hasOriginalItem [
+    a libreto:OriginalItem ;
+    libreto:owner "HAB" ;
+    libreto:shelfmark "M: Gk 2° 25" ;
+    libreto:provenanceAttribute "“ELISABETH SOPHIA MARIA. Verwittwete HERZOGINN ZU BR. U. LUN:” (Band 1-5)"
+  ] ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_38>
+  ] .
+
+gnd:123381517
+  a libreto:Person ;
+  foaf:name "Du Pleix, Scipion" ;
+  foaf:gender "male"@en ;
+  dc:identifier "123381517"^^gndo:gndIdentifier .
+
+<br:weltwissen/item_weltwissen39>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Cosmographey: das ist, Beschreibung Aller Länder, Herrschafften vnd fürnemesten Stetten des gantzen Erdbodens, sampt jhren Gelegenheiten, Eygenschafften, Religion, Gebräuchen, Geschichten vnd Handtierungen, &c." ;
+  dc:date "1598"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Henricpetri, Sebastian", "Henricpetri, Sixtus" ;
+  dc:subject "Geographie"@http://uri.gbv.de/terminology/aadgenres/, "Topographie"@http://uri.gbv.de/terminology/aadgenres/ ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7007269> ;
+  dc:contributor gnd:118585517, gnd:118699431 ;
+  libreto:hasOriginalItem [
+    a libreto:OriginalItem ;
+    libreto:owner "HAB" ;
+    libreto:shelfmark "A: 5.2.1 Geogr. 2°" ;
+    libreto:provenanceAttribute "“ELISABETH SOPHIA MARIA. Verwittwete HERZOGINN ZU BR. U. LUN:”"
+  ] ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_39>
+  ] .
+
+<http://vocab.getty.edu/tgn/7007269>
+  a libreto:Place ;
+  gn:name "Basel" ;
+  geo:lat "47.55"@xsd:decimal ;
+  geo:long "7.6"@xsd:decimal .
+
+gnd:118585517
+  a libreto:Person ;
+  foaf:name "Münster, Sebastian" ;
+  foaf:gender "male"@en ;
+  dc:identifier "118585517"^^gndo:gndIdentifier .
+
+gnd:118699431
+  a libreto:Person ;
+  foaf:name "Gustav I., Schweden, König" ;
+  foaf:gender "male"@en ;
+  dc:identifier "118699431"^^gndo:gndIdentifier .
+
+<br:weltwissen/item_weltwissen40>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Historische Stamm-Tafeln Der Käyserlichen, Königl. und Fürstlichen Geschlechte, Welche in denen Europäischen Ländern, nach dem Verfall der Römischen Monarchie biß gegenwärtige Zeit, regieret haben" ;
+  dc:date "1701"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Lipper, Johann Georg" ;
+  dc:subject "Geschichte", "Genealogie"@http://uri.gbv.de/terminology/aadgenres/ ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7005293>, <http://vocab.getty.edu/tgn/7012329> ;
+  dc:contributor gnd:12045095X, gnd:117129852 ;
+  libreto:hasManifestation <https://gso.gbv.de/DB=1.65/CMD?ACT=SRCHA&IKT=8002&TRM=VD18+14606291> ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_40>
+  ] .
+
+gnd:12045095X
+  a libreto:Person ;
+  foaf:name "Lohmeier, Georg" ;
+  foaf:gender "male"@en ;
+  dc:identifier "12045095X"^^gndo:gndIdentifier .
+
+gnd:117129852
+  a libreto:Person ;
+  foaf:name "Imhof, Jacob Wilhelm" ;
+  foaf:gender "male"@en ;
+  dc:identifier "117129852"^^gndo:gndIdentifier .
+
+<https://gso.gbv.de/DB=1.65/CMD?ACT=SRCHA&IKT=8002&TRM=VD18+14606291>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" ;
+  dc:identifier "14606291" .
+
+<br:weltwissen/item_weltwissen41>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "L'Histoire de la décadence de l'empire grec, et establissement de celuy des Turcs" ;
+  dc:date "1632"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Guillemot, Mathieu III.", "Guillemot, Marie" ;
+  dc:subject "Geschichte", "Altertumskunde"@http://uri.gbv.de/terminology/aadgenres/ ;
+  dc:language "fre"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  dc:contributor gnd:118675478, gnd:119173883, gnd:12033951X ;
+  libreto:hasOriginalItem [
+    a libreto:OriginalItem ;
+    libreto:owner "HAB" ;
+    libreto:shelfmark "M: Gv 2° 24" ;
+    libreto:provenanceAttribute "“ELISABETH SOPHIA MARIA. Verwittwete HERZOGINN ZU BR. U. LUN:”"
+  ] ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_41>
+  ] .
+
+gnd:118675478
+  a libreto:Person ;
+  foaf:name "Laonicus Chalcocondyles" ;
+  foaf:gender "male"@en ;
+  dc:identifier "118675478"^^gndo:gndIdentifier .
+
+gnd:119173883
+  a libreto:Person ;
+  foaf:name "Vigenère, Blaise de" ;
+  foaf:gender "male"@en ;
+  dc:identifier "119173883"^^gndo:gndIdentifier .
+
+gnd:12033951X
+  a libreto:Person ;
+  foaf:name "Artus, Thomas" ;
+  foaf:gender "male"@en ;
+  dc:identifier "12033951X"^^gndo:gndIdentifier .
+
+<br:weltwissen/item_weltwissen42>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Oevvres Diverses De Monsievr Arnavld D'Andilly" ;
+  dc:date "1675"@xsd:gYear ;
+  dbo:numberOfVolumes "3"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "LePetit, Pierre" ;
+  dc:subject "Theologie", "Religionsgeschichte" ;
+  dc:language "fre"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Teil 1-3" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7008038> ;
+  dc:contributor gnd:133757943 ;
+  libreto:hasOriginalItem [
+    a libreto:OriginalItem ;
+    libreto:owner "HAB" ;
+    libreto:shelfmark "M: Lm 2° 1" ;
+    libreto:provenanceAttribute "“ELISABETH SOPHIA MARIA. Verwittwete HERZOGINN ZU BR. U. LUN:\" (Band 3)"
+  ] ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_42>
+  ] .
+
+gnd:133757943
+  a libreto:Person ;
+  foaf:name "Arnauld D'Andilly, Robert" ;
+  foaf:gender "male"@en ;
+  dc:identifier "133757943"^^gndo:gndIdentifier .
+
+<br:weltwissen/item_weltwissen43>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Les Oeuvres de Sainte Therérèse" ;
+  dc:date "1670"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "LePetit, Pierre" ;
+  dc:subject "Theologie", "Religionsgeschichte" ;
+  dc:language "fre"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7008038> ;
+  dc:contributor gnd:118621823, gnd:133757943 ;
+  libreto:hasOriginalItem [
+    a libreto:OriginalItem ;
+    libreto:owner "HAB" ;
+    libreto:shelfmark "M: Lm 2° 27"
+  ] ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_43>
+  ] .
+
+gnd:118621823
+  a libreto:Person ;
+  foaf:name "Teresa de Jesús" ;
+  foaf:gender "female"@en ;
+  dc:identifier "118621823"^^gndo:gndIdentifier .
+
+<br:weltwissen/item_weltwissen44>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Memoires Et Negociations Secretes De La Cour de France, Touchant La Paix De Munster ..." ;
+  dc:date "1710"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Chatelain, Zacharias", "Chatelain, Isaac Samuel" ;
+  dc:subject "Geschichte" ;
+  dc:language "fre"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7006952> ;
+  dc:contributor gnd:123971683, gnd:128386770 ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=140348581> ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_44>
+  ] .
+
+gnd:123971683
+  a libreto:Person ;
+  foaf:name "Clément, Nicolas" ;
+  foaf:gender "male"@en ;
+  dc:identifier "123971683"^^gndo:gndIdentifier .
+
+gnd:128386770
+  a libreto:Person ;
+  foaf:name "Aymon, Jean" ;
+  foaf:gender "male"@en ;
+  dc:identifier "128386770"^^gndo:gndIdentifier .
+
+<http://gso.gbv.de/DB=2.1/PPNSET?PPN=140348581>
+  a libreto:Manifestation ;
+  libreto:database "Gemeinsamer Bibliotheksverbund (GBV)" ;
+  dc:identifier "140348581" .
+
+<br:weltwissen/item_weltwissen45>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Francisci Philippi Florini Oeconomvs Prvdens Et Legalis Continvatvs. Oder Grosser Herren Stands Und Adelicher Haus-Vatter ..." ;
+  dc:date "1719"@xsd:gYear ;
+  dbo:numberOfVolumes "2"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Riegel, Susanna Magdalena", "Adelbulner, Johann Ernst" ;
+  dc:subject "Ökonomie", "Landwirtschaft"@http://uri.gbv.de/terminology/aadgenres/, "Pädagogik"@http://uri.gbv.de/terminology/aadgenres/ ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Buch 1-5 in 2 Bänden" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7004334> ;
+  dc:contributor gnd:118023977, gnd:104199288 ;
+  libreto:hasOriginalItem [
+    a libreto:OriginalItem ;
+    libreto:owner "HAB" ;
+    libreto:shelfmark "M: Oe 2° 12" ;
+    libreto:provenanceAttribute "“ELISABETH SOPHIA MARIA. Verwittwete HERZOGINN ZU BR. U. LUN:\" (Band 1)”"
+  ] ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_45>
+  ] .
+
+<br:weltwissen/item_weltwissen46>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Die Gesetzmäßigkeit der Religions-Versicherung, welche des Herrn Erb-Prinzens Friedrichs zu Hessen-Cassel Hochfürstliche Durchlaucht, nach Dero Uebertritt zu der Römischen Kirche, den 28ten Octobris 1754. von Sich gestellet, gegen die sogenannte Gesetz- und Vernunfft-Schlüsse, nach Anleitung der Göttlichen- Natürlichen- Völker- und Teutschen Reichs-Rechte, der Analogie ähnlicher Fälle, und der Catholischen eigenen Grund-Sätze, erwiesen und vertheidiget" ;
+  dc:date "1756"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:subject "Theologie", "Kirchengeschichte", "Rechtswissenschaft" ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  dc:contributor gnd:118737074, gnd:130249424 ;
+  libreto:hasManifestation <https://gso.gbv.de/DB=1.65/CMD?ACT=SRCHA&IKT=8002&TRM=VD18+10224513> ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_46>
+  ] .
+
+gnd:118737074
+  a libreto:Person ;
+  foaf:name "Moser, Friedrich Carl von" ;
+  foaf:gender "male"@en ;
+  dc:identifier "118737074"^^gndo:gndIdentifier .
+
+gnd:130249424
+  a libreto:Person ;
+  foaf:name "Friedrich II. Hessen-Kassel, Landgraf" ;
+  foaf:gender "male"@en ;
+  dc:identifier "130249424"^^gndo:gndIdentifier .
+
+<https://gso.gbv.de/DB=1.65/CMD?ACT=SRCHA&IKT=8002&TRM=VD18+10224513>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" ;
+  dc:identifier "10224513" .
+
+<br:weltwissen/item_weltwissen47>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Concordantz vnd Zeiger Vber die gantze heilige Biblische schrifft deß Alten vnd Neuwen Testaments ..." ;
+  dc:date "1571"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Feyerabend, Hieronymus", "Rab, Georg" ;
+  dc:subject "Theologie", "Bibelkunde" ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Teil 1-5" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7005293> ;
+  dc:contributor gnd:12992041X, gnd:118575449 ;
+  libreto:hasManifestation <http://gateway-bayern.de/VD16+G 669> ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_47>
+  ] .
+
+gnd:12992041X
+  a libreto:Person ;
+  foaf:name "Patiens, Petrus" ;
+  foaf:gender "male"@en ;
+  dc:identifier "12992041X"^^gndo:gndIdentifier .
+
+<http://gateway-bayern.de/VD16+G 669>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)" ;
+  dc:identifier "G 669" .
+
+<br:weltwissen/item_weltwissen48>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Les Œuvres Morales Et Meslées De Plvtarqve" ;
+  dc:date "1645"@xsd:gYear ;
+  dbo:numberOfVolumes "4"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Robinot, Antoine lI." ;
+  dc:subject "Philosophie", "Literaturgeschichte", "Altertumskunde"@http://uri.gbv.de/terminology/aadgenres/ ;
+  dc:language "fre"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "4 Teile; 3-4 ist: \"Les Hommes Illvstres Grecs Et Romains ...\"" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7008038> ;
+  dc:contributor gnd:118595237, gnd:118502697 ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_48>
+  ] .
+
+gnd:118595237
+  a libreto:Person ;
+  foaf:name "Plutarchus" ;
+  foaf:gender "male"@en ;
+  dc:identifier "118595237"^^gndo:gndIdentifier .
+
+gnd:118502697
+  a libreto:Person ;
+  foaf:name "Amyot, Jacques" ;
+  foaf:gender "male"@en ;
+  dc:identifier "118502697"^^gndo:gndIdentifier .
+
+<br:weltwissen/item_weltwissen49>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Braunschweig-Lüneburgische Chronica, Oder: Historische Beschreibung der Durchlauchtigsten Herzogen zu Braunschweig und Lüneburg, Wie dieselben anfänglich aus den Fürstlichen Häusern Este und Sachsen ihren Ursprung genommen ..." ;
+  dc:date "1722"@xsd:gYear ;
+  dbo:numberOfVolumes "3"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Detleffsen, Detlef", "Keitel, Arnold Jacob" ;
+  dc:subject "Geschichte", "Genealogie"@http://uri.gbv.de/terminology/aadgenres/ ;
+  dc:language "ger"@iso6392, "lat"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Teil 1-3; vermutlich Provenienz ESM: M: Gn 4° 328 (Einband; Titelschild)" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7004434> ;
+  dc:contributor gnd:120888289, gnd:116956852, gnd:120539101 ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=147517958; 147517966; 147517974> ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_49>
+  ] .
+
+<http://vocab.getty.edu/tgn/7004434>
+  a libreto:Place ;
+  gn:name "Braunschweig" ;
+  geo:lat "52.2667"@xsd:decimal ;
+  geo:long "10.5333"@xsd:decimal .
+
+gnd:120888289
+  a libreto:Person ;
+  foaf:name "Bünting, Heinrich" ;
+  foaf:gender "male"@en ;
+  dc:identifier "120888289"^^gndo:gndIdentifier .
+
+gnd:116956852
+  a libreto:Person ;
+  foaf:name "Letzner, Johannes" ;
+  foaf:gender "male"@en ;
+  dc:identifier "116956852"^^gndo:gndIdentifier .
+
+gnd:120539101
+  a libreto:Person ;
+  foaf:name "Rehtmeyer, Philipp Julius" ;
+  foaf:gender "male"@en ;
+  dc:identifier "120539101"^^gndo:gndIdentifier .
+
+<http://gso.gbv.de/DB=2.1/PPNSET?PPN=147517958; 147517966; 147517974>
+  a libreto:Manifestation ;
+  libreto:database "Gemeinsamer Bibliotheksverbund (GBV)" ;
+  dc:identifier "147517958; 147517966; 147517974" .
+
+<br:weltwissen/item_weltwissen50>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "L'Imposture De La Marqvise Charlotte De Mailly De Nesle Et De Son Fils Adulterin Maximilien Guillaume Adolphe Exposée Aux Yeux Du Public Par Un Grand Nombre De Pieces Avthentiqves" ;
+  dc:date "1756"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Regelein, Christoph Michael" ;
+  dc:subject "Geschichte" ;
+  dc:language "fre"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/1039554> ;
+  dc:contributor gnd:1024519007, gnd:1052872522 ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_50>
+  ] .
+
+gnd:1024519007
+  a libreto:Person ;
+  foaf:name "Mailly de Nesle, Charlotte de" ;
+  foaf:gender "female"@en ;
+  dc:identifier "1024519007"^^gndo:gndIdentifier .
+
+gnd:1052872522
+  a libreto:Person ;
+  foaf:name "Maximilian Wilhelm Adolph von Nassau-Siegen, Prinz" ;
+  foaf:gender "female"@en ;
+  dc:identifier "1052872522"^^gndo:gndIdentifier .
+
+<br:weltwissen/item_weltwissen51>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Histoire D'Angleterre, D'Escosse, Et D'Irlande ..." ;
+  dc:date "1666"@xsd:gYear ;
+  dbo:numberOfVolumes "2"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Jolly, Thomas" ;
+  dc:subject "Geschichte" ;
+  dc:language "fre"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Teil 1-2" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7008038> ;
+  dc:contributor gnd:117657336, gnd:128887192 ;
+  libreto:hasOriginalItem [
+    a libreto:OriginalItem ;
+    libreto:owner "HAB" ;
+    libreto:shelfmark "M: Gr 2° 12" ;
+    libreto:provenanceAttribute "“ELISABETH SOPHIA MARIA. Verwittwete HERZOGINN ZU BR. U. LUN:” (Band 1-2)"
+  ] ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_51>
+  ] .
+
+gnd:117657336
+  a libreto:Person ;
+  foaf:name "Du Chesne, André" ;
+  foaf:gender "male"@en ;
+  dc:identifier "117657336"^^gndo:gndIdentifier .
+
+gnd:128887192
+  a libreto:Person ;
+  foaf:name "Du Verdier, Gilbert Saulnier" ;
+  foaf:gender "male"@en ;
+  dc:identifier "128887192"^^gndo:gndIdentifier .
+
+<br:weltwissen/item_weltwissen52>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Les Oeuvres de C. Tacite" ;
+  dc:date "1636"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Dugast, Jacques" ;
+  dc:subject "Geschichte", "Altertumskunde"@http://uri.gbv.de/terminology/aadgenres/ ;
+  dc:language "fre"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7008038> ;
+  dc:contributor gnd:118620452, gnd:100200044 ;
+  libreto:hasOriginalItem [
+    a libreto:OriginalItem ;
+    libreto:owner "HAB" ;
+    libreto:shelfmark "M: Lh 2° 31" ;
+    libreto:provenanceAttribute "“ELISABETH SOPHIA MARIA. Verwittwete HERZOGINN ZU BR. U. LUN:”"
+  ] ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_52>
+  ] .
+
+gnd:118620452
+  a libreto:Person ;
+  foaf:name "Tacitus, Cornelius" ;
+  foaf:gender "male"@en ;
+  dc:identifier "118620452"^^gndo:gndIdentifier .
+
+gnd:100200044
+  a libreto:Person ;
+  foaf:name "Le Maistre, Rodolphe" ;
+  foaf:gender "male"@en ;
+  dc:identifier "100200044"^^gndo:gndIdentifier .
+
+<br:weltwissen/item_weltwissen53>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "M. Christian Scrivers, Fürstl. Sächs. Ober-Hof-Predigers und Consistorial-Raths zu Qvedlinburg, Seelen-Schatz Darinn Von der menschlichen Seelen hohen Würde, tieffen und kläglichen Sünden-Fall, Busse und Erneuerung durch Christum, ... gehandelt wird ..." ;
+  dc:date "1704"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Süstermann, Johann Melchior", "Seidel, Christoph", "Hesse, Heinrich" ;
+  dc:subject "Theologie" ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Teil 1-5; Registerband separat erfasst" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7005247>, <http://vocab.getty.edu/tgn/7004456>, <http://vocab.getty.edu/tgn/7012329> ;
+  dc:contributor gnd:118612433 ;
+  libreto:hasOriginalItem [
+    a libreto:OriginalItem ;
+    libreto:owner "HAB" ;
+    libreto:shelfmark "M: Th 2° 16" ;
+    libreto:provenanceAttribute "“ELISABETH SOPHIA MARIA. Verwittwete HERZOGINN ZU BR. U. LUN:”"
+  ] ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_53>
+  ] .
+
+<http://vocab.getty.edu/tgn/7005247>
+  a libreto:Place ;
+  gn:name "Helmstedt" ;
+  geo:lat "52.2333"@xsd:decimal ;
+  geo:long "11"@xsd:decimal .
+
+<http://vocab.getty.edu/tgn/7004456>
+  a libreto:Place ;
+  gn:name "Magdeburg" ;
+  geo:lat "52.166667"@xsd:decimal ;
+  geo:long "11.666667"@xsd:decimal .
+
+gnd:118612433
+  a libreto:Person ;
+  foaf:name "Scriver, Christian" ;
+  foaf:gender "male"@en ;
+  dc:identifier "118612433"^^gndo:gndIdentifier .
+
+<br:weltwissen/item_weltwissen54>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Heinrich Anshelms von Ziegler und Kliphausen, Churfl. Sächsischen Raths und Assessoris des hohen Stiffts Meißen zu Wurtzen Historisches Labyrinth der Zeit, Darinnen Die denckwürdigsten Welt-Händel ..." ;
+  dc:date "1701"@xsd:gYear ;
+  dbo:numberOfVolumes "2"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Gleditsch, Johann Friedrich" ;
+  dc:subject "Geschichte", "Genealogie"@http://uri.gbv.de/terminology/aadgenres/ ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Teil 1-2; Exemplar mit Provenienz LR" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7012329> ;
+  dc:contributor gnd:11877290, gnd:118797425 ;
+  libreto:hasManifestation <https://gso.gbv.de/DB=1.65/CMD?ACT=SRCHA&IKT=8002&TRM=VD18+14802503> ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_54>
+  ] .
+
+gnd:11877290
+  a libreto:Person ;
+  foaf:name "Ziegler und Kliphausen, Heinrich Anselm von" ;
+  foaf:gender "male"@en ;
+  dc:identifier "11877290"^^gndo:gndIdentifier .
+
+gnd:118797425
+  a libreto:Person ;
+  foaf:name "Sinold von Schütz, Philipp Balthasar" ;
+  foaf:gender "male"@en ;
+  dc:identifier "118797425"^^gndo:gndIdentifier .
+
+<https://gso.gbv.de/DB=1.65/CMD?ACT=SRCHA&IKT=8002&TRM=VD18+14802503>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" ;
+  dc:identifier "14802503" .
+
+<br:weltwissen/item_weltwissen55>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Histoire Des Comtes De Poictov, Et Dvcs De Gvyenne" ;
+  dc:date "1647"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Bertault, Robert" ;
+  dc:subject "Geschichte", "Genealogie"@http://uri.gbv.de/terminology/aadgenres/ ;
+  dc:language "fre"@iso6392, "lat"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7008038> ;
+  dc:contributor gnd:1055529330 ;
+  libreto:hasOriginalItem [
+    a libreto:OriginalItem ;
+    libreto:owner "HAB" ;
+    libreto:shelfmark "M: Gk 2° 6" ;
+    libreto:provenanceAttribute "“ELISABETH SOPHIA MARIA. Verwittwete HERZOGINN ZU BR. U. LUN:”"
+  ] ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_55>
+  ] .
+
+gnd:1055529330
+  a libreto:Person ;
+  foaf:name "Besly, Jean" ;
+  foaf:gender "male"@en ;
+  dc:identifier "1055529330"^^gndo:gndIdentifier .
+
+<br:weltwissen/item_weltwissen56>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Summarien Oder gründliche Auslegung Uber die gantze Heil. Schrifft Alten und Neuen Testaments, Wie auch Uber die so genannten Apocrypha, Samt nützlicher Unterweisung zum heilsamen Gebrauch im Glauben, Leben und Leiden ..." ;
+  dc:date "1721"@xsd:gYear ;
+  dbo:numberOfVolumes "2"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Gleditsch, Johann Gottlieb" ;
+  dc:subject "Theologie", "Bibelkunde" ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7012329> ;
+  dc:contributor gnd:10434444X ;
+  libreto:hasOriginalItem [
+    a libreto:OriginalItem ;
+    libreto:owner "HAB" ;
+    libreto:shelfmark "M: Tc 2° 16" ;
+    libreto:provenanceAttribute "“ELISABETH SOPHIA MARIA. Verwittwete HERZOGINN ZU BR. U. LUN:” (Band 1-2)"
+  ] ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_56>
+  ] .
+
+<br:weltwissen/item_weltwissen57>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Postilla, Das ist: Geistreiche Erklärung Der Evangelischen Texte, durchs gantze Jahr, auff alle Sonn- Hohe- und andere Fest- und Apostel-Tage" ;
+  dc:date "1675"@xsd:gYear ;
+  dbo:numberOfVolumes "2"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Zunner, Johann David" ;
+  dc:subject "Theologie" ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Teil 1-2" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7005293> ;
+  dc:contributor gnd:118504134, gnd:118616099 ;
+  libreto:hasOriginalItem [
+    a libreto:OriginalItem ;
+    libreto:owner "HAB" ;
+    libreto:shelfmark "M: Th 2° 5"
+  ] ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_57>
+  ] .
+
+gnd:118504134
+  a libreto:Person ;
+  foaf:name "Arndt, Johann" ;
+  foaf:gender "male"@en ;
+  dc:identifier "118504134"^^gndo:gndIdentifier .
+
+gnd:118616099
+  a libreto:Person ;
+  foaf:name "Spener, Philipp Jakob" ;
+  foaf:gender "male"@en ;
+  dc:identifier "118616099"^^gndo:gndIdentifier .
+
+<br:weltwissen/item_weltwissen58>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Summarien Und Biblische Außlegung, Darinnen Nicht allein ein jedes Buch und Capitel der Bibel richtig verfasset und getheilet, sondern auch der Nutz darauß an L. Lehr. B. Besserung. T. Trost. W. Warnung. ... gezeiget ..." ;
+  dc:date "1681"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Bißmarck, Kaspar Johann" ;
+  dc:subject "Theologie", "Bibelkunde" ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7005253> ;
+  dc:contributor gnd:119180049, gnd:118505076 ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=23:660418D> ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_58>
+  ] .
+
+<http://vocab.getty.edu/tgn/7005253>
+  a libreto:Place ;
+  gn:name "Wolfenbüttel" ;
+  geo:lat "52.162592"@xsd:decimal ;
+  geo:long "10.536788"@xsd:decimal .
+
+gnd:119180049
+  a libreto:Person ;
+  foaf:name "Cramer, Daniel" ;
+  foaf:gender "male"@en ;
+  dc:identifier "119180049"^^gndo:gndIdentifier .
+
+gnd:118505076
+  a libreto:Person ;
+  foaf:name "August, Braunschweig-Lüneburg, Herzog" ;
+  foaf:gender "male"@en ;
+  dc:identifier "118505076"^^gndo:gndIdentifier .
+
+<http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=23:660418D>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)" ;
+  dc:identifier "23:660418D" .
+
+<br:weltwissen/item_weltwissen59>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Histoire Dv Ministere D'Armand Iean Dv Plessis Cardinal Dvc De Richeliev, Sovs Le Regne De Lovys Le Ivste, XIII. Dv Nom, Roy De France Et De Navarre" ;
+  dc:date "1649"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Alliot, Gervais" ;
+  dc:subject "Geschichte", "Genealogie"@http://uri.gbv.de/terminology/aadgenres/ ;
+  dc:language "fre"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Exemplar mit Provenienz FA" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7008038> ;
+  dc:contributor gnd:128805889, gnd:118600354 ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=22615940X> ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_59>
+  ] .
+
+gnd:128805889
+  a libreto:Person ;
+  foaf:name "Vialart, Charles" ;
+  foaf:gender "male"@en ;
+  dc:identifier "128805889"^^gndo:gndIdentifier .
+
+gnd:118600354
+  a libreto:Person ;
+  foaf:name "Richelieu, Armand Jean du Plessis de" ;
+  foaf:gender "male"@en ;
+  dc:identifier "118600354"^^gndo:gndIdentifier .
+
+<http://gso.gbv.de/DB=2.1/PPNSET?PPN=22615940X>
+  a libreto:Manifestation ;
+  libreto:database "Gemeinsamer Bibliotheksverbund (GBV)" ;
+  dc:identifier "22615940X" .
+
+<br:weltwissen/item_weltwissen60>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Himlische Hochzeit-Freude und Ehren-Schmuck Einer Gläubigen mit Gott verlobten Seele" ;
+  dc:date "1677"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Weiß, Paul" ;
+  dc:subject "Theologie" ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Enthält 3 Werke; Erscheinungsjahr nach Angabe im Titel" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7005253> ;
+  dc:contributor gnd:11601184X, gnd:104308753 ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=1:023361Q> ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_60>
+  ] .
+
+gnd:11601184X
+  a libreto:Person ;
+  foaf:name "Daetrius, Brandanus" ;
+  foaf:gender "male"@en ;
+  dc:identifier "11601184X"^^gndo:gndIdentifier .
+
+gnd:104308753
+  a libreto:Person ;
+  foaf:name "August Friedrich, Braunschweig-Lüneburg, Herzog" ;
+  foaf:gender "male"@en ;
+  dc:identifier "104308753"^^gndo:gndIdentifier .
+
+<http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=1:023361Q>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)" ;
+  dc:identifier "1:023361Q" .
+
+<br:weltwissen/item_weltwissen61>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Des Hoch-Erleuchteten Johann Arndens geistreicher Schriften und Wercke ... Theil" ;
+  dc:date "1734-1736"@xsd:gYear ;
+  dbo:numberOfVolumes "3"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Marche, Christian Gottfried" ;
+  dc:subject "Theologie" ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Teil 1-3" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7012329>, <http://vocab.getty.edu/tgn/7012813> ;
+  dc:contributor gnd:118504134, gnd:119091852 ;
+  libreto:hasOriginalItem [
+    a libreto:OriginalItem ;
+    libreto:owner "HAB" ;
+    libreto:shelfmark "M: Th 2° 1" ;
+    libreto:provenanceAttribute "“ELISABETH SOPHIA MARIA. Verwittwete HERZOGINN ZU BR. U. LUN:” (Band 1-3)"
+  ] ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_61>
+  ] .
+
+<http://vocab.getty.edu/tgn/7012813>
+  a libreto:Place ;
+  gn:name "Görlitz" ;
+  geo:lat "51.1667"@xsd:decimal ;
+  geo:long "15"@xsd:decimal .
+
+gnd:119091852
+  a libreto:Person ;
+  foaf:name "Rambach, Johann Jakob" ;
+  foaf:gender "male"@en ;
+  dc:identifier "119091852"^^gndo:gndIdentifier .
+
+<br:weltwissen/item_weltwissen62>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Der gantze Psalter Davids, Des H. Königs und Propheten, In 462. Predigten außgelegt und erklärt ..." ;
+  dc:date "1701"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Zunner, Johann David", "Görlin, Johann" ;
+  dc:subject "Theologie" ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7005293> ;
+  dc:contributor gnd:118504134, gnd:100142877 ;
+  libreto:hasOriginalItem [
+    a libreto:OriginalItem ;
+    libreto:owner "HAB" ;
+    libreto:shelfmark "M: Th 2° 3" ;
+    libreto:provenanceAttribute "“ELISABETH SOPHIA MARIA. Verwittwete HERZOGINN ZU BR. U. LUN:”"
+  ] ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_62>
+  ] .
+
+gnd:100142877
+  a libreto:Person ;
+  foaf:name "Gerhard, Johann Ernst" ;
+  foaf:gender "male"@en ;
+  dc:identifier "100142877"^^gndo:gndIdentifier .
+
+<br:weltwissen/item_weltwissen63>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Iusti Gesenii SS. Theol: Doctoris. Epistel-Predigten auff die Sonn- Fest- und Apostel-Tage durchs gantze Jahr" ;
+  dc:date "1671-1672"@xsd:gYear ;
+  dbo:numberOfVolumes "2"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Zilliger, Christoph Friedrich", "Gruber, Kaspar" ;
+  dc:subject "Theologie" ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Teil 1-4" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7004434> ;
+  dc:contributor gnd:11659554X ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=23:658847U; 23:626972N; 23:626975L; 23:626977A> ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_63>
+  ] .
+
+gnd:11659554X
+  a libreto:Person ;
+  foaf:name "Gesenius, Justus" ;
+  foaf:gender "male"@en ;
+  dc:identifier "11659554X"^^gndo:gndIdentifier .
+
+<http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=23:658847U; 23:626972N; 23:626975L; 23:626977A>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)" ;
+  dc:identifier "23:658847U; 23:626972N; 23:626975L; 23:626977A" .
+
+<br:weltwissen/item_weltwissen64>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Apostolische Schluß-Kette, Und Krafft-Kern, Oder Gründliche Auslegung der gewöhnlichen Sonn- und Fest-Tags-Episteln ..." ;
+  dc:date "1671"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Wust, Balthasar Christoph" ;
+  dc:subject "Theologie" ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7005293> ;
+  dc:contributor gnd:133812111 ;
+  libreto:hasOriginalItem [
+    a libreto:OriginalItem ;
+    libreto:owner "HAB" ;
+    libreto:shelfmark "M: Th 2° 11" ;
+    libreto:provenanceAttribute "“ELISABETH SOPHIA MARIA. Verwittwete HERZOGINN ZU BR. U. LUN:”"
+  ] ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_64>
+  ] .
+
+gnd:133812111
+  a libreto:Person ;
+  foaf:name "Müller, Heinrich" ;
+  foaf:gender "male"@en ;
+  dc:identifier "133812111"^^gndo:gndIdentifier .
+
+<br:weltwissen/item_weltwissen65>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Le Monde Ou La Description Generale De Ses Qvatre Parties ..." ;
+  dc:date "1637"@xsd:gYear ;
+  dbo:numberOfVolumes "4"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Sonnius, Claude" ;
+  dc:subject "Geographie"@http://uri.gbv.de/terminology/aadgenres/, "Geschichte", "Naturwissenschaft", "Kulturgeschichte" ;
+  dc:language "fre"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Teil 1-7; Exemplar mit Provenienz Baudis" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7008038> ;
+  dc:contributor gnd:100859895, gnd:1055427848 ;
+  libreto:hasManifestation <http://www.sudoc.fr/117855871> ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_65>
+  ] .
+
+gnd:100859895
+  a libreto:Person ;
+  foaf:name "Avity, Pierre d'" ;
+  foaf:gender "male"@en ;
+  dc:identifier "100859895"^^gndo:gndIdentifier .
+
+gnd:1055427848
+  a libreto:Person ;
+  foaf:name "Ranchin, François" ;
+  foaf:gender "male"@en ;
+  dc:identifier "1055427848"^^gndo:gndIdentifier .
+
+<http://www.sudoc.fr/117855871>
+  a libreto:Manifestation ;
+  libreto:database "Catalogue du Système Universitaire de Documentation (Sudoc)" ;
+  dc:identifier "117855871" .
+
+<br:weltwissen/item_weltwissen66>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "De Jesu, Scripturæ nucleô & medullâ, Magnalia Dei. Das ist: Die grossen Thaten Gottes ..." ;
+  dc:date "1678"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Fritsch, Johann", "Johann Bauers Witwe" ;
+  dc:subject "Theologie", "Bibelkunde" ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Teil 1-2" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7012329> ;
+  dc:contributor gnd:118710648, gnd:100332811 ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=547:630982W; 547:630985U> ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_66>
+  ] .
+
+gnd:118710648
+  a libreto:Person ;
+  foaf:name "Herberger, Valerius" ;
+  foaf:gender "male"@en ;
+  dc:identifier "118710648"^^gndo:gndIdentifier .
+
+gnd:100332811
+  a libreto:Person ;
+  foaf:name "Schertzer, Johann Adam" ;
+  foaf:gender "male"@en ;
+  dc:identifier "100332811"^^gndo:gndIdentifier .
+
+<http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=547:630982W; 547:630985U>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)" ;
+  dc:identifier "547:630982W; 547:630985U" .
+
+<br:weltwissen/item_weltwissen67>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Vngerische Chronica. Das ist Ein grundtliche beschreibung deß aller mächtigsten vnd gewaltigsten Königreichs Vngern ..." ;
+  dc:date "1581"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Feyerabend, Sigmund", "Schmidt, Peter" ;
+  dc:subject "Geschichte" ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7005293> ;
+  dc:contributor gnd:104106123, gnd:539226211 ;
+  libreto:hasManifestation <http://gateway-bayern.de/VD16+B 6598> ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_67>
+  ] .
+
+gnd:104106123
+  a libreto:Person ;
+  foaf:name "Bonfini, Antonio" ;
+  foaf:gender "male"@en ;
+  dc:identifier "104106123"^^gndo:gndIdentifier .
+
+gnd:539226211
+  a libreto:Person ;
+  foaf:name "P.F.N." ;
+  foaf:gender "male"@en ;
+  dc:identifier "539226211"^^gndo:gndIdentifier .
+
+<http://gateway-bayern.de/VD16+B 6598>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)" ;
+  dc:identifier "B 6598" .
+
+<br:weltwissen/item_weltwissen68>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Theatri Evropæi, Das ist: Historischer Chronick, Oder Warhaffter Beschreibung aller fürnehmen und denckwürdigen Geschichten ..." ;
+  dc:date "1643-1718"@xsd:gYear ;
+  dbo:numberOfVolumes "21"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Merian, Matthaeus", "Hoffmann, Wolfgang" ;
+  dc:subject "Geschichte", "Kulturgeschichte" ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Teil 1-21; Exemplar A: 70 Hist. 2° ab Teil 5, Exemplar M: Ge 4° 55 und Exemplar Schulenb. Gc 2° teilweise vorhanden" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7005293> ;
+  dc:contributor gnd:102520879, gnd:118581090 ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=23:301070P; 3:302391E; 23:301077S; 23:301083T; 23:233981T; 23:233992G; 23:234033F; 23:233997V; 23:234048A; 23:234051D; 23:234057Z> ;
+  libreto:hasOriginalItem [
+    a libreto:OriginalItem ;
+    libreto:owner "HAB" ;
+    libreto:shelfmark "M: Ge 4° 54" ;
+    libreto:provenanceAttribute "“ELISABETH SOPHIA MARIA. Verwittwete HERZOGINN ZU BR. U. LUN:” (Band 12-21)"
+  ] ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_68>
+  ] .
+
+gnd:102520879
+  a libreto:Person ;
+  foaf:name "Abelinus, Johann Philipp" ;
+  foaf:gender "male"@en ;
+  dc:identifier "102520879"^^gndo:gndIdentifier .
+
+gnd:118581090
+  a libreto:Person ;
+  foaf:name "Merian, Matthaeus" ;
+  foaf:gender "male"@en ;
+  dc:identifier "118581090"^^gndo:gndIdentifier .
+
+<http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=23:301070P; 3:302391E; 23:301077S; 23:301083T; 23:233981T; 23:233992G; 23:234033F; 23:233997V; 23:234048A; 23:234051D; 23:234057Z>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)" ;
+  dc:identifier "23:301070P; 3:302391E; 23:301077S; 23:301083T; 23:233981T; 23:233992G; 23:234033F; 23:233997V; 23:234048A; 23:234051D; 23:234057Z" .
+
+<br:weltwissen/item_weltwissen69>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Histoire Romaine, Depvis La Fondation De Rome" ;
+  dc:date "1638"@xsd:gYear ;
+  dbo:numberOfVolumes "2"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Sonnius, Claude" ;
+  dc:subject "Geschichte", "Kulturgeschichte", "Altertumskunde"@http://uri.gbv.de/terminology/aadgenres/ ;
+  dc:language "fre"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Teil 1-2" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7008038> ;
+  dc:contributor gnd:123381517 ;
+  libreto:hasOriginalItem [
+    a libreto:OriginalItem ;
+    libreto:owner "HAB" ;
+    libreto:shelfmark "Xd 2° 78" ;
+    libreto:provenanceAttribute "“ELISABETH SOPHIA MARIA. Verwittwete HERZOGINN ZU BR. U. LUN:” (Band 1-2)"
+  ] ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_69>
+  ] .
+
+<br:weltwissen/item_weltwissen70>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Chronica Carionis. Von anfang der Welt, bis vff Keiser Carolum den Fünfften" ;
+  dc:date "1578"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Lufft, Hans" ;
+  dc:subject "Geschichte", "Chronologie", "Kulturgeschichte", "Altertumskunde"@http://uri.gbv.de/terminology/aadgenres/ ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7012349> ;
+  dc:contributor gnd:118580485, gnd:118790676 ;
+  libreto:hasManifestation <http://gateway-bayern.de/VD16+M 2729> ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_70>
+  ] .
+
+<http://vocab.getty.edu/tgn/7012349>
+  a libreto:Place ;
+  gn:name "Wittenberg" ;
+  geo:lat "51.8833"@xsd:decimal ;
+  geo:long "12.65"@xsd:decimal .
+
+gnd:118580485
+  a libreto:Person ;
+  foaf:name "Melanchthon, Philipp" ;
+  foaf:gender "male"@en ;
+  dc:identifier "118580485"^^gndo:gndIdentifier .
+
+gnd:118790676
+  a libreto:Person ;
+  foaf:name "Peucer, Kaspar" ;
+  foaf:gender "male"@en ;
+  dc:identifier "118790676"^^gndo:gndIdentifier .
+
+<http://gateway-bayern.de/VD16+M 2729>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)" ;
+  dc:identifier "M 2729" .
+
+<br:weltwissen/item_weltwissen71>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Das Grosse Martyr-Buch, und Kirchen-Historien: Worinnen herrliche und in Gottes Wort gegründete Glaubens-Bekäntnissen ... sampt andern denckwürdigen Reden und Thaten vieler heiligen Märtyrer beschrieben werden ..." ;
+  dc:date "1682"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Brauer, Hermann" ;
+  dc:subject "Theologie", "Religionsgeschichte", "Kulturgeschichte" ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7005286> ;
+  dc:contributor gnd:119063670, gnd:117664669 ;
+  libreto:hasOriginalItem [
+    a libreto:OriginalItem ;
+    libreto:owner "HAB" ;
+    libreto:shelfmark "M: Tn 2° 6" ;
+    libreto:provenanceAttribute "“ELISABETH SOPHIA MARIA. Verwittwete HERZOGINN ZU BR. U. LUN:”"
+  ] ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_71>
+  ] .
+
+<http://vocab.getty.edu/tgn/7005286>
+  a libreto:Place ;
+  gn:name "Bremen" ;
+  geo:lat "53.083333"@xsd:decimal ;
+  geo:long "8.8"@xsd:decimal .
+
+gnd:119063670
+  a libreto:Person ;
+  foaf:name "Crespin, Jean" ;
+  foaf:gender "male"@en ;
+  dc:identifier "119063670"^^gndo:gndIdentifier .
+
+gnd:117664669
+  a libreto:Person ;
+  foaf:name "Crocius, Paul" ;
+  foaf:gender "male"@en ;
+  dc:identifier "117664669"^^gndo:gndIdentifier .
+
+<br:weltwissen/item_weltwissen72>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Hell-leuchtender Schrifft- und Stern-Himmel Oder biblische Real-Concordantz ..." ;
+  dc:date "1706"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Gleditsch, Johann Friedrich", "Plener, Johann Adam" ;
+  dc:subject "Theologie", "Bibelkunde" ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Teil 1-2" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7012329>, <http://vocab.getty.edu/tgn/7007809> ;
+  dc:contributor gnd:149116780 ;
+  libreto:hasOriginalItem [
+    a libreto:OriginalItem ;
+    libreto:owner "HAB" ;
+    libreto:shelfmark "M: Tb 2° 16"
+  ] ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_72>
+  ] .
+
+<http://vocab.getty.edu/tgn/7007809>
+  a libreto:Place ;
+  gn:name "Stettin" ;
+  geo:lat "53.4167"@xsd:decimal ;
+  geo:long "14.5333"@xsd:decimal .
+
+gnd:149116780
+  a libreto:Person ;
+  foaf:name "Jan, Johannes" ;
+  foaf:gender "male"@en ;
+  dc:identifier "149116780"^^gndo:gndIdentifier .
+
+<br:weltwissen/item_weltwissen73>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Prosopographie, Ov Description Des Hommes Illvstres, Et Avtres Renommez" ;
+  dc:date "1604"@xsd:gYear ;
+  dbo:numberOfVolumes "3"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Frellon, Paul" ;
+  dc:subject "Geschichte", "Genealogie"@http://uri.gbv.de/terminology/aadgenres/ ;
+  dc:language "fre"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7008772> ;
+  dc:contributor gnd:133870030 ;
+  libreto:hasOriginalItem [
+    a libreto:OriginalItem ;
+    libreto:owner "HAB" ;
+    libreto:shelfmark "Wt 4° 53" ;
+    libreto:provenanceAttribute "“ELISABETH SOPHIA MARIA. Verwittwete HERZOGINN ZU BR. U. LUN:” (Band 1-2)"
+  ] ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_73>
+  ] .
+
+<http://vocab.getty.edu/tgn/7008772>
+  a libreto:Place ;
+  gn:name "Lyon" ;
+  geo:lat "45.7667"@xsd:decimal ;
+  geo:long "4.8333"@xsd:decimal .
+
+gnd:133870030
+  a libreto:Person ;
+  foaf:name "Du Verdier, Antoine" ;
+  foaf:gender "male"@en ;
+  dc:identifier "133870030"^^gndo:gndIdentifier .
+
+<br:weltwissen/item_weltwissen74>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Paüli Aemilij vnd Arnoldj Ferronj Der Kön. May. in Franckreich, Parlament-Rahts, Frantzösischer vnd anderer Nationen ..." ;
+  dc:date "1574"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Henricpetri, Sebastian" ;
+  dc:subject "Geschichte", "Genealogie"@http://uri.gbv.de/terminology/aadgenres/ ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Exemplar vermutlich Provenienz ESM (einziges Exemplar; Titelschild)" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7007269> ;
+  dc:contributor gnd:118896393, gnd:128352388, gnd:124621457 ;
+  libreto:hasManifestation <http://gateway-bayern.de/VD16+ZV 4985> ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_74>
+  ] .
+
+gnd:118896393
+  a libreto:Person ;
+  foaf:name "Emilio, Paolo" ;
+  foaf:gender "male"@en ;
+  dc:identifier "118896393"^^gndo:gndIdentifier .
+
+gnd:128352388
+  a libreto:Person ;
+  foaf:name "Le Ferron, Arnoul" ;
+  foaf:gender "male"@en ;
+  dc:identifier "128352388"^^gndo:gndIdentifier .
+
+gnd:124621457
+  a libreto:Person ;
+  foaf:name "Wurstisen, Christian" ;
+  foaf:gender "male"@en ;
+  dc:identifier "124621457"^^gndo:gndIdentifier .
+
+<http://gateway-bayern.de/VD16+ZV 4985>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)" ;
+  dc:identifier "ZV 4985" .
+
+<br:weltwissen/item_weltwissen75>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Die Alten Jüdischen Heiligthümer, Gottesdienste und Gewohnheiten ..." ;
+  dc:date "1704"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Liebernickel, Gottfried", "Urban, Heinrich" ;
+  dc:subject "Geschichte", "Religionsgeschichte", "Kulturgeschichte" ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7005289>, <http://vocab.getty.edu/tgn/7012862> ;
+  dc:contributor gnd:129021962, gnd:117609978 ;
+  libreto:hasOriginalItem [
+    a libreto:OriginalItem ;
+    libreto:owner "HAB" ;
+    libreto:shelfmark "M: Gv 4° 93" ;
+    libreto:provenanceAttribute "“ELISABETH SOPHIA MARIA. Verwittwete HERZOGINN ZU BR. U. LUN:”"
+  ] ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_75>
+  ] .
+
+<http://vocab.getty.edu/tgn/7005289>
+  a libreto:Place ;
+  gn:name "Hamburg" ;
+  geo:lat "53.55"@xsd:decimal ;
+  geo:long "10"@xsd:decimal .
+
+<http://vocab.getty.edu/tgn/7012862>
+  a libreto:Place ;
+  gn:name "Rudolstadt" ;
+  geo:lat "50.716667"@xsd:decimal ;
+  geo:long "11.333333"@xsd:decimal .
+
+gnd:129021962
+  a libreto:Person ;
+  foaf:name "Lund, Johann" ;
+  foaf:gender "male"@en ;
+  dc:identifier "129021962"^^gndo:gndIdentifier .
+
+gnd:117609978
+  a libreto:Person ;
+  foaf:name "Muhlius, Heinrich" ;
+  foaf:gender "male"@en ;
+  dc:identifier "117609978"^^gndo:gndIdentifier .
+
+<br:weltwissen/item_weltwissen76>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Inventaire General De L'Histoire De France. Depuis Pharamond iusques à present" ;
+  dc:date "1631"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Gasse, Nicolas" ;
+  dc:subject "Geschichte", "Genealogie"@http://uri.gbv.de/terminology/aadgenres/ ;
+  dc:language "fre"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7008038> ;
+  dc:contributor gnd:100335993 ;
+  libreto:hasOriginalItem [
+    a libreto:OriginalItem ;
+    libreto:owner "HAB" ;
+    libreto:shelfmark "M: Gk 2° 68" ;
+    libreto:provenanceAttribute "“ELISABETH SOPHIA MARIA. Verwittwete HERZOGINN ZU BR. U. LUN:”"
+  ] ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_76>
+  ] .
+
+gnd:100335993
+  a libreto:Person ;
+  foaf:name "Serres, Jean de" ;
+  foaf:gender "male"@en ;
+  dc:identifier "100335993"^^gndo:gndIdentifier .
+
+<br:weltwissen/item_weltwissen77>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Histoire Des Martyrs, Persecvtez Et Mis A mort pour la verité de l’Euangile, depuis le temps des Apostres iusques à present" ;
+  dc:date "1608"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Marceau, Paul" ;
+  dc:subject "Theologie", "Religionsgeschichte", "Geschichte" ;
+  dc:language "fre"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7007279> ;
+  dc:contributor gnd:119063670, gnd:124437087 ;
+  libreto:hasOriginalItem [
+    a libreto:OriginalItem ;
+    libreto:owner "HAB" ;
+    libreto:shelfmark "M: Tn 4° 19" ;
+    libreto:provenanceAttribute "“ELISABETH SOPHIA MARIA. Verwittwete HERZOGINN ZU BR. U. LUN:”"
+  ] ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_77>
+  ] .
+
+<http://vocab.getty.edu/tgn/7007279>
+  a libreto:Place ;
+  gn:name "Genf" ;
+  geo:lat "46.2167"@xsd:decimal ;
+  geo:long "6.15"@xsd:decimal .
+
+gnd:124437087
+  a libreto:Person ;
+  foaf:name "Goulart, Simon" ;
+  foaf:gender "male"@en ;
+  dc:identifier "124437087"^^gndo:gndIdentifier .
+
+<br:weltwissen/item_weltwissen78>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Der Europäischen Reiche Und Fürstenthümer Historische und Genealogische Erläuterung ..." ;
+  dc:date "1695"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Lipper, Johann Georg" ;
+  dc:subject "Geschichte", "Genealogie"@http://uri.gbv.de/terminology/aadgenres/ ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7004436> ;
+  dc:contributor gnd:12045095X, gnd:117129852 ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=12:659294A> ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_78>
+  ] .
+
+<http://vocab.getty.edu/tgn/7004436>
+  a libreto:Place ;
+  gn:name "Lüneburg" ;
+  geo:lat "53.25"@xsd:decimal ;
+  geo:long "10.4"@xsd:decimal .
+
+<http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=12:659294A>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)" ;
+  dc:identifier "12:659294A" .
+
+<br:weltwissen/item_weltwissen79>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Theatrum Ceremoniale Historico-Politicum, Oder Historisch- und Politischer Schau-Platz Aller Ceremonien, Welche bey ... Wahlen und Crönungen ... beobachtet worden ..." ;
+  dc:date "1719"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Weidmann, Moritz Georg" ;
+  dc:subject "Geschichte", "Kulturgeschichte" ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Teil 1 des dreiteiligen Werkes" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7012329> ;
+  dc:contributor gnd:104268336 ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=136940390> ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_79>
+  ] .
+
+gnd:104268336
+  a libreto:Person ;
+  foaf:name "Lünig, Johann Christian" ;
+  foaf:gender "male"@en ;
+  dc:identifier "104268336"^^gndo:gndIdentifier .
+
+<http://gso.gbv.de/DB=2.1/PPNSET?PPN=136940390>
+  a libreto:Manifestation ;
+  libreto:database "Gemeinsamer Bibliotheksverbund (GBV)" ;
+  dc:identifier "136940390" .
+
+<br:weltwissen/item_weltwissen80>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "KirchenPostilla das ist: Auslegung der Episteln vnd Euangelien, an Sontagen und fürnemesten Festen, durchs gantze Jar" ;
+  dc:date "1575"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Lufft, Hans" ;
+  dc:subject "Theologie" ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Teil 1-3" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7012349> ;
+  dc:contributor gnd:118575449 ;
+  libreto:hasOriginalItem [
+    a libreto:OriginalItem ;
+    libreto:owner "HAB" ;
+    libreto:shelfmark "M: Li 4° 322" ;
+    libreto:provenanceAttribute "“ELISABETH SOPHIA MARIA. Verwittwete HERZOGINN ZU BR. U. LUN:”"
+  ] ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_80>
+  ] .
+
+<br:weltwissen/item_weltwissen81>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Papistische Jnquisition vnd gulde[n] Flüs der Römischen Kirchen. Das ist. Historia vnd ankunft der Römischen Kirchen, vnd sonderlich vom Antichristischen wesen" ;
+  dc:date "1582"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Jobin, Bernhard" ;
+  dc:subject "Theologie", "Kirchengeschichte" ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7012346> ;
+  dc:contributor gnd:133881199 ;
+  libreto:hasOriginalItem [
+    a libreto:OriginalItem ;
+    libreto:owner "HAB" ;
+    libreto:shelfmark "A: 193.1 Theol. 2°" ;
+    libreto:provenanceAttribute "“ELISABETH SOPHIA MARIA. Verwittwete HERZOGINN ZU BR. U. LUN:”"
+  ] ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_81>
+  ] .
+
+gnd:133881199
+  a libreto:Person ;
+  foaf:name "Nigrinus, Georg" ;
+  foaf:gender "male"@en ;
+  dc:identifier "133881199"^^gndo:gndIdentifier .
+
+<br:weltwissen/item_weltwissen82>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Histoire De Portvgal, Contenant Les Entreprises, nauigations, & gestes memorables des Portugallois ..." ;
+  dc:date "1581"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Estienne, François", "Chuppin, Antoine" ;
+  dc:subject "Geschichte" ;
+  dc:language "fre"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7007279> ;
+  dc:contributor gnd:119483858, gnd:118668722, gnd:124437087 ;
+  libreto:hasManifestation <http://www.sudoc.fr/042750415> ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_82>
+  ] .
+
+gnd:119483858
+  a libreto:Person ;
+  foaf:name "Osório, Jerónimo" ;
+  foaf:gender "male"@en ;
+  dc:identifier "119483858"^^gndo:gndIdentifier .
+
+gnd:118668722
+  a libreto:Person ;
+  foaf:name "Castanheda, Fernão Lopes de" ;
+  foaf:gender "male"@en ;
+  dc:identifier "118668722"^^gndo:gndIdentifier .
+
+<http://www.sudoc.fr/042750415>
+  a libreto:Manifestation ;
+  libreto:database "Catalogue du Système Universitaire de Documentation (Sudoc)" ;
+  dc:identifier "042750415" .
+
+<br:weltwissen/item_weltwissen83>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Gesnerus Redivivus auctus & emendatus. Oder: Allgemeines Thier-Buch, Das ist: Eigentliche und lebendige Abbildung Aller vierfüssigen ... Thieren ..." ;
+  dc:date "1669-1670"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Serlin, Wilhelm", "Ilßner, Blasius" ;
+  dc:subject "Naturwissenschaft", "Zoologie"@http://uri.gbv.de/terminology/aadgenres/ ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Teil 1-5" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7005293> ;
+  dc:contributor gnd:118694413, gnd:124517935, gnd:124517951 ;
+  libreto:hasOriginalItem [
+    a libreto:OriginalItem ;
+    libreto:owner "HAB" ;
+    libreto:shelfmark "M: Nh 2° 20"
+  ] ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_83>
+  ] .
+
+gnd:118694413
+  a libreto:Person ;
+  foaf:name "Gessner, Conrad" ;
+  foaf:gender "male"@en ;
+  dc:identifier "118694413"^^gndo:gndIdentifier .
+
+gnd:124517935
+  a libreto:Person ;
+  foaf:name "Forer, Conrad" ;
+  foaf:gender "male"@en ;
+  dc:identifier "124517935"^^gndo:gndIdentifier .
+
+gnd:124517951
+  a libreto:Person ;
+  foaf:name "Horst, Georg" ;
+  foaf:gender "male"@en ;
+  dc:identifier "124517951"^^gndo:gndIdentifier .
+
+<br:weltwissen/item_weltwissen84>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Grosses vollständiges Universal Lexicon Aller Wissenschafften und Künste, Welche bißhero durch menschlichen Verstand und Witz erfunden und verbessert worden" ;
+  dc:date "1732-1750"@xsd:gYear ;
+  dbo:numberOfVolumes "37"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Zedler, Johann Heinrich" ;
+  dc:subject "Lexikographie", "Wissenschaftskunde", "Kunstgeschichte" ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Teil 1-64" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/1036898>, <http://vocab.getty.edu/tgn/7012329> ;
+  dc:contributor gnd:118636316, <br:weltwissen/persons/Ludewig%2C+Johann+Peter+von> ;
+  libreto:hasManifestation <https://gso.gbv.de/DB=1.65/CMD?ACT=SRCHA&IKT=8002&TRM=VD18+10778438 (58 Bände: 1-18, 25-64)> ;
+  libreto:hasOriginalItem [
+    a libreto:OriginalItem ;
+    libreto:owner "HAB" ;
+    libreto:shelfmark "M: Ae 65" ;
+    libreto:provenanceAttribute "“ELISABETH SOPHIA MARIA. Verwittwete HERZOGINN ZU BR. U. LUN:” (Band 19-24)"
+  ] ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_84>
+  ] .
+
+<http://vocab.getty.edu/tgn/1036898>
+  a libreto:Place ;
+  gn:name "Halle" ;
+  geo:lat "51.5"@xsd:decimal ;
+  geo:long "12"@xsd:decimal .
+
+gnd:118636316
+  a libreto:Person ;
+  foaf:name "Zedler, Johann Heinrich" ;
+  foaf:gender "male"@en ;
+  dc:identifier "118636316"^^gndo:gndIdentifier .
+
+<br:weltwissen/persons/Ludewig%2C+Johann+Peter+von>
+  a libreto:Person ;
+  foaf:name "Ludewig, Johann Peter von" ;
+  foaf:gender "male"@en .
+
+<https://gso.gbv.de/DB=1.65/CMD?ACT=SRCHA&IKT=8002&TRM=VD18+10778438 (58 Bände: 1-18, 25-64)>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" ;
+  dc:identifier "10778438 (58 Bände: 1-18, 25-64)" .
+
+<br:weltwissen/item_weltwissen85>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Sonn- und fest-täglicher wie auch wöchentlicher Kirchen-Redner, über die Evangelia, Episteln und Psalmen: Oder Ordentlich- u. erbaulich-eingerichtete völlige Predigten über alle Sonn- u. Festtags-Evangelien" ;
+  dc:date "1716"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Gleditsch, Johann Ludwig", "Weidmann, Moritz Georg" ;
+  dc:subject "Theologie" ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Teil 1-2" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7012329> ;
+  dc:contributor gnd:101434618 ;
+  libreto:hasOriginalItem [
+    a libreto:OriginalItem ;
+    libreto:owner "HAB" ;
+    libreto:shelfmark "M: Th 4° 19" ;
+    libreto:provenanceAttribute "“ELISABETH SOPHIA MARIA. Verwittwete HERZOGINN ZU BR. U. LUN:”"
+  ] ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_85>
+  ] .
+
+gnd:101434618
+  a libreto:Person ;
+  foaf:name "Ermisch, Christian Ludwig" ;
+  foaf:gender "male"@en ;
+  dc:identifier "101434618"^^gndo:gndIdentifier .
+
+<br:weltwissen/item_weltwissen86>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Heilig-Epistolischer Bericht, Licht, Geleit, und Freud. Das ist: Emblematische Fürstellung, Der Heiligen Sonn- und Festtäglichen Episteln ..." ;
+  dc:date "1663"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Endter, Johann Andreas" ;
+  dc:subject "Theologie" ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7004334> ;
+  dc:contributor gnd:118525697 ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=23:269038A> ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_86>
+  ] .
+
+gnd:118525697
+  a libreto:Person ;
+  foaf:name "Dilherr, Johann Michael" ;
+  foaf:gender "male"@en ;
+  dc:identifier "118525697"^^gndo:gndIdentifier .
+
+<http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=23:269038A>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)" ;
+  dc:identifier "23:269038A" .
+
+<br:weltwissen/item_weltwissen87>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Herrn M. Christian Scrivers, Fürstl. Sächs. Ober-Hoff-Predigers und Consistorial-Raths zu Quedlinburg Seelen-Schatzes Kern und Stern Oder ... Register ..." ;
+  dc:date "1704"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Süstermann, Johann Melchior", "Seidel, Christoph", "Hesse, Heinrich" ;
+  dc:subject "Theologie" ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Registerband; Hauptband (Teil 1-5) nach Altkatalog separat erfasst" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7005247>, <http://vocab.getty.edu/tgn/7004456>, <http://vocab.getty.edu/tgn/7012329> ;
+  dc:contributor gnd:118612433, gnd:102458197 ;
+  libreto:hasOriginalItem [
+    a libreto:OriginalItem ;
+    libreto:owner "HAB" ;
+    libreto:shelfmark "M: Th 2° 16"
+  ] ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_87>
+  ] .
+
+gnd:102458197
+  a libreto:Person ;
+  foaf:name "Koch, Christoph" ;
+  foaf:gender "male"@en ;
+  dc:identifier "102458197"^^gndo:gndIdentifier .
+
+<br:weltwissen/item_weltwissen88>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Summarische Gründe Der Gräflich-Saynischen Successions-Sach; Vor Heßen-Philippsthal, Wider Brandenburg-Onoltzbach" ;
+  dc:date "1746-1750"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:subject "Rechtswissenschaft", "Geschichte" ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasManifestation <https://gso.gbv.de/DB=1.65/CMD?ACT=SRCHA&IKT=8002&TRM=VD18+10213899; 11434260; 13386778> ;
+  libreto:hasOriginalItem [
+    a libreto:OriginalItem ;
+    libreto:owner "HAB" ;
+    libreto:shelfmark "M: Gm 4° 409" ;
+    libreto:provenanceAttribute "“ELISABETH SOPHIA MARIA. VERWITTWETE HERZOGINN ZU BR. U. LUN:”"
+  ] ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_88>
+  ] .
+
+<https://gso.gbv.de/DB=1.65/CMD?ACT=SRCHA&IKT=8002&TRM=VD18+10213899; 11434260; 13386778>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" ;
+  dc:identifier "10213899; 11434260; 13386778" .
+
+<br:weltwissen/item_weltwissen89>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Oeconomica Ruralis Et Domestica. Darin[n] das gantz Ampt aller trewer Hauß-Vätter und Hauß-Mütter, beständiges und allgemeines Hauß-Buch, vom Haußhalten, Wein- Acker- Gärten- Blumen- und Feld-Bau, begriffen" ;
+  dc:date "1680"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Zubrod, Johann Peter", "Schönwetter, Johann Martin" ;
+  dc:subject "Ökonomie", "Landwirtschaft"@http://uri.gbv.de/terminology/aadgenres/, "Medizin"@http://uri.gbv.de/terminology/aadgenres/ ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Teil 1-2" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7005293> ;
+  dc:contributor gnd:10008723X ;
+  libreto:hasOriginalItem [
+    a libreto:OriginalItem ;
+    libreto:owner "HAB" ;
+    libreto:shelfmark "M: Oa 4° 2" ;
+    libreto:provenanceAttribute "“ELISABETH SOPHIA MARIA. VERWITTWETE HERZOGINN ZU BR. U. LUN:”"
+  ] ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_89>
+  ] .
+
+gnd:10008723X
+  a libreto:Person ;
+  foaf:name "Coler, Johann" ;
+  foaf:gender "male"@en ;
+  dc:identifier "10008723X"^^gndo:gndIdentifier .
+
+<br:weltwissen/item_weltwissen90>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Fama Avstriaca. Das ist, Eigentliche Verzeichnuß denckwürdiger Geschichten, welche sich in den nechstverflossenen 16. Jahren hero biß auff vnd in das Jahr 1627. begeben haben" ;
+  dc:date "1627"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Brachel, Peter von", "Hogenberg, Anraham" ;
+  dc:subject "Geschichte" ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7004446> ;
+  dc:contributor gnd:12303101X ;
+  libreto:hasOriginalItem [
+    a libreto:OriginalItem ;
+    libreto:owner "HAB" ;
+    libreto:shelfmark "M: Gm 4° 700" ;
+    libreto:provenanceAttribute "“ELISABETH SOPHIA MARIA. VERWITTWETE HERZOGINN ZU BR. U. LUN:”"
+  ] ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_90>
+  ] .
+
+<http://vocab.getty.edu/tgn/7004446>
+  a libreto:Place ;
+  gn:name "Köln" ;
+  geo:lat "50.9333"@xsd:decimal ;
+  geo:long "6.95"@xsd:decimal .
+
+gnd:12303101X
+  a libreto:Person ;
+  foaf:name "Ens, Gaspar" ;
+  foaf:gender "male"@en ;
+  dc:identifier "12303101X"^^gndo:gndIdentifier .
+
+<br:weltwissen/item_weltwissen91>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Ein außerleßne Chronicka von C. Julio Cesare dem ersten, biß auff Carolum quintum diser zeit Rhömischen Keyser, auch von allen Orientischen oder Griechischen vnd Türckischen Keysern" ;
+  dc:date "1541"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Müller, Kraft" ;
+  dc:subject "Geschichte", "Genealogie"@http://uri.gbv.de/terminology/aadgenres/, "Altertumskunde"@http://uri.gbv.de/terminology/aadgenres/ ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7012346> ;
+  dc:contributor gnd:11867756X, gnd:118547615, gnd:118580485 ;
+  libreto:hasManifestation <http://gateway-bayern.de/VD16+C 6480> ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_91>
+  ] .
+
+gnd:11867756X
+  a libreto:Person ;
+  foaf:name "Cuspinianus, Johannes" ;
+  foaf:gender "male"@en ;
+  dc:identifier "11867756X"^^gndo:gndIdentifier .
+
+gnd:118547615
+  a libreto:Person ;
+  foaf:name "Hedio, Caspar" ;
+  foaf:gender "male"@en ;
+  dc:identifier "118547615"^^gndo:gndIdentifier .
+
+<http://gateway-bayern.de/VD16+C 6480>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)" ;
+  dc:identifier "C 6480" .
+
+<br:weltwissen/item_weltwissen92>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Hof- Staats und Regier-Kunst, Bestehend in dreyen Büchern ..." ;
+  dc:date "1679"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Ryssel, Gottfried von", "Henning Grosse IV. Erben" ;
+  dc:subject "" ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7005293> ;
+  dc:contributor gnd:120995867 ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=23:270876U> ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_92>
+  ] .
+
+<http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=23:270876U>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)" ;
+  dc:identifier "23:270876U" .
+
+<br:weltwissen/item_weltwissen93>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Johannis Aventini Des Weitberümbten Hochgelehrten Beyerischen Geschichtschreibers Chronica, Darinn nicht allein deß ... Hauß Beyern ... Herkommen ..., sondern auch der ... Teutschen Vrsprung ... beschrieben ..." ;
+  dc:date "1622"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Jakob Fischer Erben" ;
+  dc:subject "Geschichte", "Genealogie"@http://uri.gbv.de/terminology/aadgenres/ ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7005293> ;
+  dc:contributor gnd:11850522X, gnd:116517735 ;
+  libreto:hasOriginalItem [
+    a libreto:OriginalItem ;
+    libreto:owner "HAB" ;
+    libreto:shelfmark "M: Gm 4° 68" ;
+    libreto:provenanceAttribute "“ELISABETH SOPHIA MARIA. VERWITTWETE HERZOGINN ZU BR. U. LUN:”"
+  ] ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_93>
+  ] .
+
+<br:weltwissen/item_weltwissen94>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Anleitung zu gründlicher Verständniß der Heiligen Offenbahrung Jesu Christi" ;
+  dc:date "1696"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Müller, Johann Daniel" ;
+  dc:subject "Theologie" ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7004456> ;
+  dc:contributor gnd:119129787 ;
+  libreto:hasOriginalItem [
+    a libreto:OriginalItem ;
+    libreto:owner "HAB" ;
+    libreto:shelfmark "M: Td 4° 27" ;
+    libreto:provenanceAttribute "“ELISABETH SOPHIA MARIA. VERWITTWETE HERZOGINN ZU BR. U. LUN:”"
+  ] ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_94>
+  ] .
+
+gnd:119129787
+  a libreto:Person ;
+  foaf:name "Petersen, Johann Eleonora" ;
+  foaf:gender "female"@en ;
+  dc:identifier "119129787"^^gndo:gndIdentifier .
+
+<br:weltwissen/item_weltwissen95>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title " Theatrvm Præcedentiæ, oder eines theils Illvstrer Rang-Streit, andern theils Illvstre Rang-Ordnung" ;
+  dc:date "1709"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Fritsch, Thomas" ;
+  dc:subject "Geschichte", "Genealogie"@http://uri.gbv.de/terminology/aadgenres/, "Staatswissenschaften" ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Teil 1-2; Exemplar M: Rq 4° 22 mit Provenienz Baudis" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7005293> ;
+  dc:contributor gnd:124514596 ;
+  libreto:hasManifestation <https://gso.gbv.de/DB=1.65/CMD?ACT=SRCHA&IKT=8002&TRM=VD18+14782227> ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_95>
+  ] .
+
+gnd:124514596
+  a libreto:Person ;
+  foaf:name "Zwantzig, Zacharias " ;
+  foaf:gender "male"@en ;
+  dc:identifier "124514596"^^gndo:gndIdentifier .
+
+<https://gso.gbv.de/DB=1.65/CMD?ACT=SRCHA&IKT=8002&TRM=VD18+14782227>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" ;
+  dc:identifier "14782227" .
+
+<br:weltwissen/item_weltwissen96>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Neu- und nie erhörter Doch in der Natur und Vernunfft Wohlgegründeter Versuch Der Universal-Vermehrung Aller Bäume, Stauden, und Blumen-Gewächse" ;
+  dc:date "1716-1717"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Peetz, Johann Conrad", "Hofmann, Johann Georg" ;
+  dc:subject "Naturwissenschaft", "Botanik"@http://uri.gbv.de/terminology/aadgenres/ ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Teil 1-2; Exemplar mit Provenienz LR" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7013496> ;
+  dc:contributor gnd:122910494 ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=15020826X; 835236102> ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_96>
+  ] .
+
+<http://vocab.getty.edu/tgn/7013496>
+  a libreto:Place ;
+  gn:name "Regensburg" ;
+  geo:lat "49.015"@xsd:decimal ;
+  geo:long "12.095556"@xsd:decimal .
+
+gnd:122910494
+  a libreto:Person ;
+  foaf:name "Agricola, Georg Andreas" ;
+  foaf:gender "male"@en ;
+  dc:identifier "122910494"^^gndo:gndIdentifier .
+
+<http://gso.gbv.de/DB=2.1/PPNSET?PPN=15020826X; 835236102>
+  a libreto:Manifestation ;
+  libreto:database "Gemeinsamer Bibliotheksverbund (GBV)" ;
+  dc:identifier "15020826X; 835236102" .
+
+<br:weltwissen/item_weltwissen97>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Aller Deß Heiligen Römischen Reichs gehaltenen Reichs-Täge, Abschiede und Satzungen, Sambt andern Kays. und Königl. Constitutionen, Als Caroli IV. Güldene Bull ... betreffende Ordnungen und Satzungen, nebens dem Passauer Vertrag, Caroli V. Peinlichen Halß-Gerichts-Ordnung, Prager, Oßnabrückischer und Münsterischer Frieden-Schluß, Wie die vom Jahr 1356. biß in das 1654. auffgericht, erneuert und publicirt worden ..." ;
+  dc:date "1692"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Schönwetter, Johann Martin" ;
+  dc:subject "Geschichte", "Staatswissenschaften" ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Exemplar mit Provenienz LR" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7004449> ;
+  dc:contributor gnd:004911636 ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=1:018622F> ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_97>
+  ] .
+
+<http://vocab.getty.edu/tgn/7004449>
+  a libreto:Place ;
+  gn:name "Mainz" ;
+  geo:lat "50"@xsd:decimal ;
+  geo:long "8.2711"@xsd:decimal .
+
+gnd:004911636
+  a libreto:Person ;
+  foaf:name "Heiliges Römisches Reich, Reichstag" ;
+  dc:identifier "004911636"^^gndo:gndIdentifier .
+
+<http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=1:018622F>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)" ;
+  dc:identifier "1:018622F" .
+
+<br:weltwissen/item_weltwissen98>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Iusti Gesenii SS. Theol: Doctoris. Epistel-Predigten auff die Neben-Feste durchs gantze Jahr" ;
+  dc:date "1674"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Zilliger, Christoph Friedrich", "Gruber, Kaspar" ;
+  dc:subject "Theologie" ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Exemplar A: 30.3.2 Theol. 2° mit Provenienz LR" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7004434> ;
+  dc:contributor gnd:11659554X ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=23:626979R> ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_98>
+  ] .
+
+<http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=23:626979R>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)" ;
+  dc:identifier "23:626979R" .
+
+<br:weltwissen/item_weltwissen99>
+  a libreto:Item ;
+  libreto:belongsTo br:weltwissen ;
+  dc:title "Der Newenn Weldt vnd Indianischen Nidergängischen Königreichs, Newe vnd Wahrhaffte History, von allen Geschichten, Handlungen, Thaten ... Sampt von den gefährlichen Schiffarthen, Kriegen, Schlachten ..." ;
+  dc:date "1582-1583"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "Folio" ;
+  dc:publisher "Henricpetri, Sebastian" ;
+  dc:subject "" ;
+  dc:language "ger"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Teil 1-3" ;
+  libreto:hasPlace <http://vocab.getty.edu/tgn/7007269> ;
+  dc:contributor gnd:123588855, gnd:118740490, gnd:119608162, gnd:128884967 ;
+  libreto:hasManifestation <http://gateway-bayern.de/VD16+B 1747> ;
+  libreto:hasContext [
+    a libreto:PhysicalContext ;
+    libreto:position "1" ;
+    libreto:inMiscellany <br:weltwissen/miscellany_99>
+  ] .
+
+gnd:123588855
+  a libreto:Person ;
+  foaf:name "Benzoni, Girolamo" ;
+  foaf:gender "male"@en ;
+  dc:identifier "123588855"^^gndo:gndIdentifier .
+
+gnd:118740490
+  a libreto:Person ;
+  foaf:name "Anghiera, Pietro Martire d'" ;
+  foaf:gender "male"@en ;
+  dc:identifier "118740490"^^gndo:gndIdentifier .
+
+gnd:119608162
+  a libreto:Person ;
+  foaf:name "Apollonius, Levinus" ;
+  foaf:gender "male"@en ;
+  dc:identifier "119608162"^^gndo:gndIdentifier .
+
+gnd:128884967
+  a libreto:Person ;
+  foaf:name "Höniger, Nikolaus" ;
+  foaf:gender "male"@en ;
+  dc:identifier "128884967"^^gndo:gndIdentifier .
+
+<http://gateway-bayern.de/VD16+B 1747>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)" ;
+  dc:identifier "B 1747" .
+
+<br:weltwissen/miscellany_0> a libreto:Miscellany .
+<br:weltwissen/miscellany_1> a libreto:Miscellany .
+<br:weltwissen/miscellany_2> a libreto:Miscellany .
+<br:weltwissen/miscellany_3> a libreto:Miscellany .
+<br:weltwissen/miscellany_4> a libreto:Miscellany .
+<br:weltwissen/miscellany_5> a libreto:Miscellany .
+<br:weltwissen/miscellany_6> a libreto:Miscellany .
+<br:weltwissen/miscellany_7> a libreto:Miscellany .
+<br:weltwissen/miscellany_8> a libreto:Miscellany .
+<br:weltwissen/miscellany_9> a libreto:Miscellany .
+<br:weltwissen/miscellany_10> a libreto:Miscellany .
+<br:weltwissen/miscellany_11> a libreto:Miscellany .
+<br:weltwissen/miscellany_12> a libreto:Miscellany .
+<br:weltwissen/miscellany_13> a libreto:Miscellany .
+<br:weltwissen/miscellany_14> a libreto:Miscellany .
+<br:weltwissen/miscellany_15> a libreto:Miscellany .
+<br:weltwissen/miscellany_16> a libreto:Miscellany .
+<br:weltwissen/miscellany_17> a libreto:Miscellany .
+<br:weltwissen/miscellany_18> a libreto:Miscellany .
+<br:weltwissen/miscellany_19> a libreto:Miscellany .
+<br:weltwissen/miscellany_20> a libreto:Miscellany .
+<br:weltwissen/miscellany_21> a libreto:Miscellany .
+<br:weltwissen/miscellany_22> a libreto:Miscellany .
+<br:weltwissen/miscellany_23> a libreto:Miscellany .
+<br:weltwissen/miscellany_24> a libreto:Miscellany .
+<br:weltwissen/miscellany_25> a libreto:Miscellany .
+<br:weltwissen/miscellany_26> a libreto:Miscellany .
+<br:weltwissen/miscellany_27> a libreto:Miscellany .
+<br:weltwissen/miscellany_28> a libreto:Miscellany .
+<br:weltwissen/miscellany_29> a libreto:Miscellany .
+<br:weltwissen/miscellany_30> a libreto:Miscellany .
+<br:weltwissen/miscellany_31> a libreto:Miscellany .
+<br:weltwissen/miscellany_32> a libreto:Miscellany .
+<br:weltwissen/miscellany_33> a libreto:Miscellany .
+<br:weltwissen/miscellany_34> a libreto:Miscellany .
+<br:weltwissen/miscellany_35> a libreto:Miscellany .
+<br:weltwissen/miscellany_36> a libreto:Miscellany .
+<br:weltwissen/miscellany_37> a libreto:Miscellany .
+<br:weltwissen/miscellany_38> a libreto:Miscellany .
+<br:weltwissen/miscellany_39> a libreto:Miscellany .
+<br:weltwissen/miscellany_40> a libreto:Miscellany .
+<br:weltwissen/miscellany_41> a libreto:Miscellany .
+<br:weltwissen/miscellany_42> a libreto:Miscellany .
+<br:weltwissen/miscellany_43> a libreto:Miscellany .
+<br:weltwissen/miscellany_44> a libreto:Miscellany .
+<br:weltwissen/miscellany_45> a libreto:Miscellany .
+<br:weltwissen/miscellany_46> a libreto:Miscellany .
+<br:weltwissen/miscellany_47> a libreto:Miscellany .
+<br:weltwissen/miscellany_48> a libreto:Miscellany .
+<br:weltwissen/miscellany_49> a libreto:Miscellany .
+<br:weltwissen/miscellany_50> a libreto:Miscellany .
+<br:weltwissen/miscellany_51> a libreto:Miscellany .
+<br:weltwissen/miscellany_52> a libreto:Miscellany .
+<br:weltwissen/miscellany_53> a libreto:Miscellany .
+<br:weltwissen/miscellany_54> a libreto:Miscellany .
+<br:weltwissen/miscellany_55> a libreto:Miscellany .
+<br:weltwissen/miscellany_56> a libreto:Miscellany .
+<br:weltwissen/miscellany_57> a libreto:Miscellany .
+<br:weltwissen/miscellany_58> a libreto:Miscellany .
+<br:weltwissen/miscellany_59> a libreto:Miscellany .
+<br:weltwissen/miscellany_60> a libreto:Miscellany .
+<br:weltwissen/miscellany_61> a libreto:Miscellany .
+<br:weltwissen/miscellany_62> a libreto:Miscellany .
+<br:weltwissen/miscellany_63> a libreto:Miscellany .
+<br:weltwissen/miscellany_64> a libreto:Miscellany .
+<br:weltwissen/miscellany_65> a libreto:Miscellany .
+<br:weltwissen/miscellany_66> a libreto:Miscellany .
+<br:weltwissen/miscellany_67> a libreto:Miscellany .
+<br:weltwissen/miscellany_68> a libreto:Miscellany .
+<br:weltwissen/miscellany_69> a libreto:Miscellany .
+<br:weltwissen/miscellany_70> a libreto:Miscellany .
+<br:weltwissen/miscellany_71> a libreto:Miscellany .
+<br:weltwissen/miscellany_72> a libreto:Miscellany .
+<br:weltwissen/miscellany_73> a libreto:Miscellany .
+<br:weltwissen/miscellany_74> a libreto:Miscellany .
+<br:weltwissen/miscellany_75> a libreto:Miscellany .
+<br:weltwissen/miscellany_76> a libreto:Miscellany .
+<br:weltwissen/miscellany_77> a libreto:Miscellany .
+<br:weltwissen/miscellany_78> a libreto:Miscellany .
+<br:weltwissen/miscellany_79> a libreto:Miscellany .
+<br:weltwissen/miscellany_80> a libreto:Miscellany .
+<br:weltwissen/miscellany_81> a libreto:Miscellany .
+<br:weltwissen/miscellany_82> a libreto:Miscellany .
+<br:weltwissen/miscellany_83> a libreto:Miscellany .
+<br:weltwissen/miscellany_84> a libreto:Miscellany .
+<br:weltwissen/miscellany_85> a libreto:Miscellany .
+<br:weltwissen/miscellany_86> a libreto:Miscellany .
+<br:weltwissen/miscellany_87> a libreto:Miscellany .
+<br:weltwissen/miscellany_88> a libreto:Miscellany .
+<br:weltwissen/miscellany_89> a libreto:Miscellany .
+<br:weltwissen/miscellany_90> a libreto:Miscellany .
+<br:weltwissen/miscellany_91> a libreto:Miscellany .
+<br:weltwissen/miscellany_92> a libreto:Miscellany .
+<br:weltwissen/miscellany_93> a libreto:Miscellany .
+<br:weltwissen/miscellany_94> a libreto:Miscellany .
+<br:weltwissen/miscellany_95> a libreto:Miscellany .
+<br:weltwissen/miscellany_96> a libreto:Miscellany .
+<br:weltwissen/miscellany_97> a libreto:Miscellany .
+<br:weltwissen/miscellany_98> a libreto:Miscellany .
+<br:weltwissen/miscellany_99> a libreto:Miscellany .

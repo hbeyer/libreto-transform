@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:libreto="http://bibliotheksrekonstruktion.hab.de/ontology.php#"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:foaf="http://xmlns.com/foaf/spec/#term_"
+         xmlns:dbo="http://dbpedia.org/ontology/"
+         xmlns:gn="http://www.geonames.org/ontology#"
+         xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
+
+  <libreto:Collection rdf:about="http://bibliotheksrekonstruktion.hab.de/example">
+    <dc:date xml:lang="xsd:gYear">1775</dc:date>
+    <dc:title>Bücher des H. B. Schrader zu Schliestedt</dc:title>
+    <dc:description xml:lang="de">Abstract</dc:description>
+    <libreto:collector>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/123456789">
+        <foaf:name>Schrader zu Schliestedt, Heinrich Bernhard</foaf:name>
+      </libreto:Person>
+    </libreto:collector>
+
+  </libreto:Collection>
+
+  <libreto:Catalogue rdf:about="br:example/catalogues/HAB_M%3A+Bc+1982">
+    <dc:date xml:lang="xsd:gYear">1775</dc:date>
+    <libreto:shelfmark>M: Bc 1982</libreto:shelfmark>
+    <libreto:owner>HAB</libreto:owner>
+    <dc:title>Apparatus librorum</dc:title>
+    <libreto:hasEntry>
+      <libreto:CatalogueEntry>
+        <libreto:text>Bartol. A Saxoferrato consilia, Lugdun 546. Schw. L.</libreto:text>
+        <libreto:page>1</libreto:page>
+        <libreto:heading>An Büchern. In Folio</libreto:heading>
+        <libreto:number>1</libreto:number>
+        <libreto:imageURL>http://diglib.hab.de/drucke/bc-1982/start.htm?image=9</libreto:imageURL>
+        <libreto:refersTo>
+          <libreto:Item rdf:about="br:example/item_example0">
+            <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/example"/>
+            <dc:type>Druck</dc:type>
+            <dc:title>Consilia Bartoli Saxoferratei, ad omne genus causarum nodos dissolvendos, &amp; forenses commodè lites devitandas, aut easdem aptè &amp; utiliter instituendas, suscipiendàsue, mirè profutura, ac penè necessaria : quàm ante hac usquàm &amp; auctiora, &amp; venustiora reddita. Quibus Quaestionum, Tractatuum, Sermonum, &amp;id genus molem integram substruximus</dc:title>
+            <dc:date xml:lang="xsd:gYear">1546</dc:date>
+            <dbo:numberOfVolumes xml:lang="xsd:integer">1</dbo:numberOfVolumes>
+            <libreto:bibliographicalFormat>2°</libreto:bibliographicalFormat>
+            <dc:publisher>Senneton, Jacques &amp; Jean</dc:publisher>
+            <dc:subject>Jurisprudenz</dc:subject>
+            <dbo:genre>Consilia</dbo:genre>
+            <dc:language xml:lang="iso6392">lat</dc:language>
+            <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+            <libreto:hasPlace>
+              <libreto:Place rdf:about="http://www.geonames.org/2996944">
+                <gn:name>Lyon</gn:name>
+                <geo:lat xml:lang="xsd:decimal">45.74846</geo:lat>
+                <geo:long xml:lang="xsd:decimal">4.84671</geo:long>
+              </libreto:Place>
+            </libreto:hasPlace>
+
+            <dc:creator rdf:resource="http://d-nb.info/gnd/118652885"/>
+            <libreto:hasManifestation>
+              <libreto:Manifestation rdf:about="http://www.sudoc.fr/190358432">
+                <libreto:database>Catalogue du Système Universitaire de Documentation (Sudoc)</libreto:database>
+                <dc:identifier>190358432</dc:identifier>
+              </libreto:Manifestation>
+            </libreto:hasManifestation>
+
+          </libreto:Item>
+        </libreto:refersTo>
+
+      </libreto:CatalogueEntry>
+    </libreto:hasEntry>
+
+    <libreto:hasEntry>
+      <libreto:CatalogueEntry>
+        <libreto:text>iac. Bonfrerii, onomasticon urbium &amp; Locor-Sacræ Scriptur. Amstelod 707 P. B.</libreto:text>
+        <libreto:page>1</libreto:page>
+        <libreto:heading>An Büchern. In Folio</libreto:heading>
+        <libreto:number>2</libreto:number>
+        <libreto:imageURL>http://diglib.hab.de/drucke/bc-1982/start.htm?image=9</libreto:imageURL>
+        <libreto:refersTo>
+          <libreto:Item rdf:about="br:example/item_example1">
+            <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/example"/>
+            <dc:type>Druck</dc:type>
+            <dc:title>Onomasticon Urbium Et Locorum Sacræ Scripturæ: Sev Liber De Locis Hebraicis / Græcè primùm ab Eusebio Cæsariensi, Deinde Latinè Scriptus ab Hieronymo, In commodiorem verò ordinem redactus ... Tabulâ Geographicâ Judææ illustratus, Operâ Iacobi Bonfrerii S. J. Recensuit &amp; animadversionibus suis auxit Joannes Clericus. Accessit huic Editioni Brocardi Monachi, Ex Ordine Prædicatorum, Descriptio Terræ Sanctæ</dc:title>
+            <dc:date xml:lang="xsd:gYear">1707</dc:date>
+            <dbo:numberOfVolumes xml:lang="xsd:integer">1</dbo:numberOfVolumes>
+            <libreto:bibliographicalFormat>2°</libreto:bibliographicalFormat>
+            <dc:publisher>Halma, François</dc:publisher>
+            <dc:subject>Bibelkunde</dc:subject>
+            <dbo:genre>Namenslexikon</dbo:genre>
+            <dc:language xml:lang="iso6392">lat</dc:language>
+            <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+            <libreto:hasPlace>
+              <libreto:Place rdf:about="http://www.geonames.org/2759794">
+                <gn:name>Amsterdam</gn:name>
+                <geo:lat xml:lang="xsd:decimal">52.37403</geo:lat>
+                <geo:long xml:lang="xsd:decimal">4.88969</geo:long>
+              </libreto:Place>
+            </libreto:hasPlace>
+
+            <dc:creator>
+              <libreto:Person rdf:about="http://d-nb.info/gnd/118531425">
+                <foaf:name>Eusebius Caesariensis</foaf:name>
+                <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">118531425</dc:identifier>
+              </libreto:Person>
+            </dc:creator>
+
+            <dc:contributor>
+              <libreto:Person rdf:about="http://d-nb.info/gnd/139265058">
+                <foaf:name>Bonfrère, Jacques</foaf:name>
+                <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">139265058</dc:identifier>
+              </libreto:Person>
+            </dc:contributor>
+
+            <dc:contributor>
+              <libreto:Person rdf:about="http://d-nb.info/gnd/119512947">
+                <foaf:name>Le Clerc, Jean</foaf:name>
+                <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">119512947</dc:identifier>
+              </libreto:Person>
+            </dc:contributor>
+
+            <libreto:hasManifestation>
+              <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=2.1/PPNSET?PPN=150566379">
+                <libreto:database>Gemeinsamer Bibliotheksverbund (GBV)</libreto:database>
+                <dc:identifier>150566379</dc:identifier>
+              </libreto:Manifestation>
+            </libreto:hasManifestation>
+
+          </libreto:Item>
+        </libreto:refersTo>
+
+      </libreto:CatalogueEntry>
+    </libreto:hasEntry>
+
+    <libreto:hasEntry>
+      <libreto:CatalogueEntry>
+        <libreto:text>Corpus jur. civil. cum not. Dionys. Gothofredi S. Gervasii 602. T I. II. Schw. L.</libreto:text>
+        <libreto:page>1</libreto:page>
+        <libreto:heading>An Büchern. In Folio</libreto:heading>
+        <libreto:number>3</libreto:number>
+        <libreto:imageURL>http://diglib.hab.de/drucke/bc-1982/start.htm?image=9</libreto:imageURL>
+        <libreto:refersTo>
+          <libreto:Item rdf:about="br:example/item_example2">
+            <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/example"/>
+            <dc:type>Druck</dc:type>
+            <dc:title>Corpvs Iuris Ciuilis, In quinque partes distinctum : Qvarvm Prima, Historia iuris à Justiniano compositi, Institutionum Libri IIII, Epitome Institutionum, Degestorum seu Pandectarum Libri L. continentur. Quæ reliquis partibus includantur, quinta docebit pagina / His Accesservnt Notæ Repetitæ Tertiæ - que lectionis, Dionysio Gothofredo IC.</dc:title>
+            <dc:date xml:lang="xsd:gYear">1602</dc:date>
+            <dbo:numberOfVolumes xml:lang="xsd:integer">1</dbo:numberOfVolumes>
+            <libreto:bibliographicalFormat>2°</libreto:bibliographicalFormat>
+            <dc:publisher>Vignon, Eustache, Erben</dc:publisher>
+            <dc:subject>Jurisprudenz</dc:subject>
+            <dbo:genre>Kodifikation</dbo:genre>
+            <dc:language xml:lang="iso6392">lat</dc:language>
+            <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+            <libreto:hasPlace>
+              <libreto:Place rdf:about="http://www.geonames.org/3002499">
+                <gn:name>Saint-Gervais</gn:name>
+                <geo:lat xml:lang="xsd:decimal">48.88549</geo:lat>
+                <geo:long xml:lang="xsd:decimal">2.40422</geo:long>
+              </libreto:Place>
+            </libreto:hasPlace>
+
+            <dc:creator>
+              <libreto:Person rdf:about="http://d-nb.info/gnd/11855896X">
+                <foaf:name>Justinianus I.</foaf:name>
+                <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">11855896X</dc:identifier>
+              </libreto:Person>
+            </dc:creator>
+
+            <libreto:hasManifestation>
+              <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=2.1/PPNSET?PPN=63120430X">
+                <libreto:database>Gemeinsamer Bibliotheksverbund (GBV)</libreto:database>
+                <dc:identifier>63120430X</dc:identifier>
+              </libreto:Manifestation>
+            </libreto:hasManifestation>
+
+          </libreto:Item>
+        </libreto:refersTo>
+
+      </libreto:CatalogueEntry>
+    </libreto:hasEntry>
+
+    <libreto:hasEntry>
+      <libreto:CatalogueEntry>
+        <libreto:text>Ioh. Buxtorfii, Tiberias sive Commentar. musorethicus triplex ad illustrat. oper. bibl. Basil. conscript. Basil. 665. P. B.</libreto:text>
+        <libreto:page>1</libreto:page>
+        <libreto:heading>An Büchern. In Folio</libreto:heading>
+        <libreto:number>5</libreto:number>
+        <libreto:imageURL>http://diglib.hab.de/drucke/bc-1982/start.htm?image=9</libreto:imageURL>
+        <libreto:refersTo>
+          <libreto:Item rdf:about="br:example/item_example3">
+            <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/example"/>
+            <dc:type>Druck</dc:type>
+            <dc:title>Johannis Buxtorfi[i] P. Tiberias Sive Commentarius Masorethicus Triplex Historicus, Didacticus, Criticus : Ad illustrationem Operis Biblici Basiliensis conscriptus, Quo Primum Historia Masoretharum Tiberiensium ... explicatur: Secundo Clavis Masorae Traditur ... Tertio Castigationes Innumerorum mendorum per universam Masoram proponuntur / Recognitus, &amp; additamentis non paucis hinc inde locupletatus a Johanne Buxtorfio Fil. Editionem hancce novam accurante Johan. Jacobo Buxtorfio Joh. Fil. Joh. Nep</dc:title>
+            <dc:date xml:lang="xsd:gYear">1665</dc:date>
+            <dbo:numberOfVolumes xml:lang="xsd:integer">1</dbo:numberOfVolumes>
+            <libreto:bibliographicalFormat>2°</libreto:bibliographicalFormat>
+            <dc:subject>Bibelkunde</dc:subject>
+            <dbo:genre xml:lang="http://uri.gbv.de/terminology/aadgenres/">Kommentar</dbo:genre>
+            <dc:language xml:lang="iso6392">lat</dc:language>
+            <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+            <libreto:hasPlace rdf:resource="http://www.geonames.org/2661604"/>
+            <dc:creator>
+              <libreto:Person rdf:about="http://d-nb.info/gnd/119354780">
+                <foaf:name>Buxtorf, Johann</foaf:name>
+                <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">119354780</dc:identifier>
+              </libreto:Person>
+            </dc:creator>
+
+            <libreto:hasManifestation>
+              <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=12:121708U">
+                <libreto:database>Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)</libreto:database>
+                <dc:identifier>12:121708U</dc:identifier>
+              </libreto:Manifestation>
+            </libreto:hasManifestation>
+
+          </libreto:Item>
+        </libreto:refersTo>
+
+      </libreto:CatalogueEntry>
+    </libreto:hasEntry>
+
+    <libreto:hasEntry>
+      <libreto:CatalogueEntry>
+        <libreto:text>Ioh. Harduini conciliorum collectio regia maxima ad Phil. Labbei &amp; Gabriel. Cossartii I. labores cum Suppl. Paris 715. Tom. I-XII. v. L.</libreto:text>
+        <libreto:page>1</libreto:page>
+        <libreto:heading>An Büchern. In Folio</libreto:heading>
+        <libreto:number>6</libreto:number>
+        <libreto:imageURL>http://diglib.hab.de/drucke/bc-1982/start.htm?image=9</libreto:imageURL>
+        <libreto:refersTo>
+          <libreto:Item rdf:about="br:example/item_example4">
+            <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/example"/>
+            <dc:type>Druck</dc:type>
+            <dc:title>Conciliorum Collectio Regia Maxima, ad Philippi Labbei et Gabrielis Cossartu labores haud modica accessione facta, et emendationibus plurimis additis; cum novis Indicibus / Studio Johannis Harduini, sive Acta Conciliorum, et Epistolae Decretales, ac Constitutiones Summorum Pontificum</dc:title>
+            <dc:date xml:lang="xsd:gYear">1715</dc:date>
+            <dbo:numberOfVolumes xml:lang="xsd:integer">1</dbo:numberOfVolumes>
+            <libreto:bibliographicalFormat>2°</libreto:bibliographicalFormat>
+            <dc:publisher>Typographia Regia</dc:publisher>
+            <dc:subject>Kirchengeschichte</dc:subject>
+            <dbo:genre>Quellenedition</dbo:genre>
+            <dc:language xml:lang="iso6392">lat</dc:language>
+            <dc:language xml:lang="iso6392">grc</dc:language>
+            <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+            <libreto:hasPlace rdf:resource="http://www.geonames.org/2988507"/>
+            <dc:creator>
+              <libreto:Person rdf:about="http://d-nb.info/gnd/122664485">
+                <foaf:name>Hardouin, Jean</foaf:name>
+                <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">122664485</dc:identifier>
+              </libreto:Person>
+            </dc:creator>
+
+            <libreto:hasManifestation>
+              <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=2.1/PPNSET?PPN=223082406">
+                <libreto:database>Gemeinsamer Bibliotheksverbund (GBV)</libreto:database>
+                <dc:identifier>223082406</dc:identifier>
+              </libreto:Manifestation>
+            </libreto:hasManifestation>
+
+          </libreto:Item>
+        </libreto:refersTo>
+
+      </libreto:CatalogueEntry>
+    </libreto:hasEntry>
+
+    <libreto:hasEntry>
+      <libreto:CatalogueEntry>
+        <libreto:text>Fr. Lamkischen deutsche, hebräische und griechische Concordanz, Bibel, Leipzig und Frankfurth 705. Schw. L.</libreto:text>
+        <libreto:page>1</libreto:page>
+        <libreto:heading>An Büchern. In Folio</libreto:heading>
+        <libreto:number>19</libreto:number>
+        <libreto:imageURL>http://diglib.hab.de/drucke/bc-1982/start.htm?image=9</libreto:imageURL>
+        <libreto:refersTo>
+          <libreto:Item rdf:about="br:example/item_example5">
+            <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/example"/>
+            <dc:type>Druck</dc:type>
+            <dc:title>Concordantiæ Bibliorum Germanico-Hebraico-Græcæ = Deutsche, Hebräische und Griechische Concordantz-Bibel Oder Vollständige Anweisung aller Wörter, welche in der gantzen H. Schrifft ... fürkommen, Wo und wie offt dieselben gefunden, und auff unterschiedliche Art gebrauchet worden ; Auff gnädigste Verordnung und Beförderung, Des Durchlauchtigsten Fürsten und Herrn, Herrn Ernsts, Hertzogen zu Sachsen, ... In diese gantz neue und beqveme Form, mit vieler Mühe und grossem Fleiß zusammen gebracht und abgefasset / von M. Friedrich Lanckischen. Vormahls mit eine Vorrede des Chur-Fürstl. Sächsischen Oberhoff-Predigers, Beichtvaters und Kirchen-Raths Herrn D. Martini Geieri, zuerst heraus gegeben</dc:title>
+            <dc:date xml:lang="xsd:gYear">1705</dc:date>
+            <dbo:numberOfVolumes xml:lang="xsd:integer">1</dbo:numberOfVolumes>
+            <libreto:bibliographicalFormat>2°</libreto:bibliographicalFormat>
+            <dc:publisher>Friedrich Lanckischens Erben</dc:publisher>
+            <dc:publisher>Richter, Johann Heinrich</dc:publisher>
+            <dc:subject>Bibelkunde</dc:subject>
+            <dbo:genre xml:lang="http://uri.gbv.de/terminology/aadgenres/">Konkordanz</dbo:genre>
+            <dc:language xml:lang="iso6392">ger</dc:language>
+            <dc:language xml:lang="iso6392">lat</dc:language>
+            <dc:language xml:lang="iso6392">gre</dc:language>
+            <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+            <libreto:hasPlace>
+              <libreto:Place rdf:about="http://www.geonames.org/2879139">
+                <gn:name>Leipzig</gn:name>
+                <geo:lat xml:lang="xsd:decimal">51.33962</geo:lat>
+                <geo:long xml:lang="xsd:decimal">12.37129</geo:long>
+              </libreto:Place>
+            </libreto:hasPlace>
+
+            <libreto:hasPlace>
+              <libreto:Place rdf:about="http://www.geonames.org/2925533">
+                <gn:name>Frankfurt am Main</gn:name>
+                <geo:lat xml:lang="xsd:decimal">50.11552</geo:lat>
+                <geo:long xml:lang="xsd:decimal">8.68417</geo:long>
+              </libreto:Place>
+            </libreto:hasPlace>
+
+            <dc:creator>
+              <libreto:Person rdf:about="http://d-nb.info/gnd/12403909X">
+                <foaf:name>Lanckisch, Friedrich</foaf:name>
+                <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">12403909X</dc:identifier>
+              </libreto:Person>
+            </dc:creator>
+
+            <libreto:hasManifestation>
+              <libreto:Manifestation rdf:about="https://gso.gbv.de/DB=1.65/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=VD18+10419063">
+                <libreto:database>Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</libreto:database>
+                <dc:identifier>10419063</dc:identifier>
+              </libreto:Manifestation>
+            </libreto:hasManifestation>
+
+          </libreto:Item>
+        </libreto:refersTo>
+
+      </libreto:CatalogueEntry>
+    </libreto:hasEntry>
+
+    <libreto:hasEntry>
+      <libreto:CatalogueEntry>
+        <libreto:text>Io. Foy-Vaillant Numismata ærea Imperator. Augustar. &amp; Cæsar. in Coloniis &amp;c. percussa P. I. II. Paris 697. P. B.</libreto:text>
+        <libreto:page>1</libreto:page>
+        <libreto:heading>An Büchern. In Folio</libreto:heading>
+        <libreto:number>19</libreto:number>
+        <libreto:imageURL>http://diglib.hab.de/drucke/bc-1982/start.htm?image=9</libreto:imageURL>
+        <libreto:refersTo>
+          <libreto:Item rdf:about="br:example/item_example6">
+            <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/example"/>
+            <dc:type>Druck</dc:type>
+            <dc:title>Numismata aerea imperatorum, Augustarum et Caesarum in coloniis, municipiis et urbibus jure latio donatis, ex omni modulo percussa</dc:title>
+            <dc:date xml:lang="xsd:gYear">1697</dc:date>
+            <dbo:numberOfVolumes xml:lang="xsd:integer">1</dbo:numberOfVolumes>
+            <libreto:bibliographicalFormat>2°</libreto:bibliographicalFormat>
+            <dc:publisher>D. Horthemeb</dc:publisher>
+            <dc:subject>Numismatik</dc:subject>
+            <dbo:genre xml:lang="http://uri.gbv.de/terminology/aadgenres/">Katalog</dbo:genre>
+            <dc:language xml:lang="iso6392">lat</dc:language>
+            <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+            <libreto:hasPlace rdf:resource="http://www.geonames.org/2988507"/>
+            <dc:creator>
+              <libreto:Person rdf:about="http://d-nb.info/gnd/124498094">
+                <foaf:name>Vaillant, Jean Foy</foaf:name>
+                <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">124498094</dc:identifier>
+              </libreto:Person>
+            </dc:creator>
+
+            <libreto:hasManifestation>
+              <libreto:Manifestation rdf:about="http://www.sudoc.fr/85029319">
+                <libreto:database>Catalogue du Système Universitaire de Documentation (Sudoc)</libreto:database>
+                <dc:identifier>85029319</dc:identifier>
+              </libreto:Manifestation>
+            </libreto:hasManifestation>
+
+          </libreto:Item>
+        </libreto:refersTo>
+
+      </libreto:CatalogueEntry>
+    </libreto:hasEntry>
+
+    <libreto:hasEntry>
+      <libreto:CatalogueEntry>
+        <libreto:text>Bartol. A Saxoferrato oper. Sup. Digest. Vet. Basil. 589. Schw. L.</libreto:text>
+        <libreto:page>1</libreto:page>
+        <libreto:heading>An Büchern. In Folio</libreto:heading>
+        <libreto:number>20</libreto:number>
+        <libreto:imageURL>http://diglib.hab.de/drucke/bc-1982/start.htm?image=9</libreto:imageURL>
+        <libreto:refersTo>
+          <libreto:Item rdf:about="br:example/item_example7">
+            <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/example"/>
+            <dc:type>Druck</dc:type>
+            <dc:title>Super Digestum Vetum Commentaria, cum additionibus excell. Iltorum</dc:title>
+            <dc:date xml:lang="xsd:gYear">1589</dc:date>
+            <dbo:numberOfVolumes xml:lang="xsd:integer">1</dbo:numberOfVolumes>
+            <libreto:bibliographicalFormat>2°</libreto:bibliographicalFormat>
+            <dc:publisher>Episcopius, Eusebius</dc:publisher>
+            <dc:subject>Jurisprudenz</dc:subject>
+            <dbo:genre xml:lang="http://uri.gbv.de/terminology/aadgenres/">Kommentar</dbo:genre>
+            <dc:language xml:lang="iso6392">lat</dc:language>
+            <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+            <libreto:hasPlace rdf:resource="http://www.geonames.org/2661604"/>
+            <dc:creator rdf:resource="http://d-nb.info/gnd/118652885"/>
+            <libreto:hasManifestation>
+              <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=2.1/PPNSET?PPN=305720775">
+                <libreto:database>Gemeinsamer Bibliotheksverbund (GBV)</libreto:database>
+                <dc:identifier>305720775</dc:identifier>
+              </libreto:Manifestation>
+            </libreto:hasManifestation>
+
+          </libreto:Item>
+        </libreto:refersTo>
+
+      </libreto:CatalogueEntry>
+    </libreto:hasEntry>
+
+    <libreto:hasEntry>
+      <libreto:CatalogueEntry>
+        <libreto:text>ejusdem Commentar. in prim. part. infort. Basil 588. Schw. L.</libreto:text>
+        <libreto:page>1</libreto:page>
+        <libreto:heading>An Büchern. In Folio</libreto:heading>
+        <libreto:number>21</libreto:number>
+        <libreto:imageURL>http://diglib.hab.de/drucke/bc-1982/start.htm?image=9</libreto:imageURL>
+        <libreto:refersTo>
+          <libreto:Item rdf:about="br:example/item_example8">
+            <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/example"/>
+            <dc:type>Druck</dc:type>
+            <dc:title>Super Infortiatum Commentaria, cum adnott. doctissimor. Iltorum</dc:title>
+            <dc:date xml:lang="xsd:gYear">1588</dc:date>
+            <dbo:numberOfVolumes xml:lang="xsd:integer">1</dbo:numberOfVolumes>
+            <libreto:bibliographicalFormat>2°</libreto:bibliographicalFormat>
+            <dc:publisher>Episcopius, Eusebius</dc:publisher>
+            <dc:subject>Jurisprudenz</dc:subject>
+            <dbo:genre xml:lang="http://uri.gbv.de/terminology/aadgenres/">Kommentar</dbo:genre>
+            <dc:language xml:lang="iso6392">lat</dc:language>
+            <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+            <libreto:hasPlace>
+              <libreto:Place rdf:about="http://www.geonames.org/2661605">
+                <gn:name>Basel</gn:name>
+                <geo:lat xml:lang="xsd:decimal">47.66868</geo:lat>
+                <geo:long xml:lang="xsd:decimal">8.74821</geo:long>
+              </libreto:Place>
+            </libreto:hasPlace>
+
+            <dc:creator rdf:resource="http://d-nb.info/gnd/118652885"/>
+            <libreto:hasManifestation>
+              <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=2.1/PPNSET?PPN=305721216">
+                <libreto:database>Gemeinsamer Bibliotheksverbund (GBV)</libreto:database>
+                <dc:identifier>305721216</dc:identifier>
+              </libreto:Manifestation>
+            </libreto:hasManifestation>
+
+          </libreto:Item>
+        </libreto:refersTo>
+
+      </libreto:CatalogueEntry>
+    </libreto:hasEntry>
+
+    <libreto:hasEntry>
+      <libreto:CatalogueEntry>
+        <libreto:text>ejusd. Commentar. iu. prim. part. Dig. Novi Basil. 588. Schw. L.</libreto:text>
+        <libreto:page>1</libreto:page>
+        <libreto:heading>An Büchern. In Folio</libreto:heading>
+        <libreto:number>22</libreto:number>
+        <libreto:imageURL>http://diglib.hab.de/drucke/bc-1982/start.htm?image=9</libreto:imageURL>
+        <libreto:refersTo>
+          <libreto:Item rdf:about="br:example/item_example9">
+            <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/example"/>
+            <dc:type>Druck</dc:type>
+            <dc:title>In I. Partem Digesti Novi Bartoli À Saxoferrato Commentaria : Cum Adnotationibvs …</dc:title>
+            <dc:date xml:lang="xsd:gYear">1588</dc:date>
+            <dbo:numberOfVolumes xml:lang="xsd:integer">1</dbo:numberOfVolumes>
+            <libreto:bibliographicalFormat>2°</libreto:bibliographicalFormat>
+            <dc:publisher>Episcopius, Eusebius</dc:publisher>
+            <dc:subject>Jurisprudenz</dc:subject>
+            <dbo:genre xml:lang="http://uri.gbv.de/terminology/aadgenres/">Kommentar</dbo:genre>
+            <dc:language xml:lang="iso6392">lat</dc:language>
+            <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+            <libreto:hasPlace>
+              <libreto:Place rdf:about="http://www.geonames.org/2661606">
+                <gn:name>Basel</gn:name>
+                <geo:lat xml:lang="xsd:decimal">47.05248</geo:lat>
+                <geo:long xml:lang="xsd:decimal">9.62401</geo:long>
+              </libreto:Place>
+            </libreto:hasPlace>
+
+            <dc:creator rdf:resource="http://d-nb.info/gnd/118652885"/>
+            <libreto:hasManifestation>
+              <libreto:Manifestation rdf:about="http://gso.gbv.de/DB=2.1/PPNSET?PPN=152990542">
+                <libreto:database>Gemeinsamer Bibliotheksverbund (GBV)</libreto:database>
+                <dc:identifier>152990542</dc:identifier>
+              </libreto:Manifestation>
+            </libreto:hasManifestation>
+
+          </libreto:Item>
+        </libreto:refersTo>
+
+      </libreto:CatalogueEntry>
+    </libreto:hasEntry>
+
+    <libreto:hasEntry>
+      <libreto:CatalogueEntry>
+        <libreto:text>Bartol. Commentar. in prim. part. Cod. Basil. 588. Schw. L.</libreto:text>
+        <libreto:page>2</libreto:page>
+        <libreto:heading>An Büchern. In Folio</libreto:heading>
+        <libreto:number>23</libreto:number>
+        <libreto:imageURL>http://diglib.hab.de/drucke/bc-1982/start.htm?image=10</libreto:imageURL>
+        <libreto:refersTo>
+          <libreto:Item rdf:about="br:example/item_example10">
+            <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/example"/>
+            <dc:type>Druck</dc:type>
+            <dc:title>In I. Partem Codicis Bartoli À Saxoferrato Commentaria</dc:title>
+            <dc:date xml:lang="xsd:gYear">1588</dc:date>
+            <dbo:numberOfVolumes xml:lang="xsd:integer">1</dbo:numberOfVolumes>
+            <libreto:bibliographicalFormat>2°</libreto:bibliographicalFormat>
+            <dc:publisher>Episcopius, Eusebius</dc:publisher>
+            <dc:subject>Jurisprudenz</dc:subject>
+            <dbo:genre xml:lang="http://uri.gbv.de/terminology/aadgenres/">Kommentar</dbo:genre>
+            <dc:language xml:lang="iso6392">lat</dc:language>
+            <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+            <libreto:comment>VD16-Nummer des übergeordneten Werks</libreto:comment>
+            <dc:hasFormat>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00090368-8</dc:hasFormat>
+            <libreto:hasPlace>
+              <libreto:Place rdf:about="http://www.geonames.org/2661607">
+                <gn:name>Basel</gn:name>
+                <geo:lat xml:lang="xsd:decimal">47.3822</geo:lat>
+                <geo:long xml:lang="xsd:decimal">7.47229</geo:long>
+              </libreto:Place>
+            </libreto:hasPlace>
+
+            <dc:creator rdf:resource="http://d-nb.info/gnd/118652885"/>
+          </libreto:Item>
+        </libreto:refersTo>
+
+      </libreto:CatalogueEntry>
+    </libreto:hasEntry>
+
+  </libreto:Catalogue>
+
+  <libreto:Person rdf:about="http://d-nb.info/gnd/118652885">
+    <foaf:name>Bartolus de Saxoferrato</foaf:name>
+    <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">118652885</dc:identifier>
+  </libreto:Person>
+
+  <libreto:Place rdf:about="http://www.geonames.org/2661604">
+    <gn:name>Basel</gn:name>
+    <geo:lat xml:lang="xsd:decimal">47.55839</geo:lat>
+    <geo:long xml:lang="xsd:decimal">7.57327</geo:long>
+  </libreto:Place>
+
+  <libreto:Place rdf:about="http://www.geonames.org/2988507">
+    <gn:name>Paris</gn:name>
+    <geo:lat xml:lang="xsd:decimal">48.85341</geo:lat>
+    <geo:long xml:lang="xsd:decimal">2.3488</geo:long>
+  </libreto:Place>
+
+</rdf:RDF>

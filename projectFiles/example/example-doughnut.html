@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="de">
+
+    <head>
+        <title>Bücher des H. B. Schrader zu Schliestedt</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+        <link rel="stylesheet" href="assets/css/affix.css">
+        <link rel="stylesheet" href="assets/css/proprietary.css">
+        <script src="assets/js/jquery.min.js"></script>
+        <script src="assets/js/bootstrap.min.js"></script>
+        <script src="assets/js/proprietary.js"></script>
+        <script src="assets/js/chart.js"></script>
+    </head>
+
+    <body onload="javascript:x = getNavBarHeight();scrollNav(x);">
+
+        <div class="container-fluid" style="background-color:#FFFFFF">
+          <h1>Bücher des H. B. Schrader zu Schliestedt (1775)</h1>
+            <p>Abstract</br>Rekonstruktion: Workshop Libreto, 2019</p>
+            <div style="float:left;margin-right:20px">
+            <p>Altkatalog: HAB, M: Bc 1982 <a href="http://diglib.hab.de/drucke/bc-1982/start.htm?image=" target="_blank">Digitalisat</a><br />
+            <span id="switchLink"><a href="javascript:switchToOriginal()">Anzeige in Vorlageform</a></span></p>
+            </div>
+
+            <div class="dropdown" style="float:left">
+                <button class="btn btn-info dropdown-toggle" type="button" data-toggle="dropdown">Download<span class="caret"></span></button>
+                <ul class="dropdown-menu">
+                    <li class="dropdown-header">Datenexport</li> 
+                    <li><a href="example.csv">CSV</a></li>
+                    <li><a href="example.xml">XML</a></li>
+                    <li><a href="example-tei.xml">TEI</a></li>
+                    <li><a href="example.rdf">RDF/XML</a></li>
+                    <li><a href="example.ttl">Turtle</a></li>
+                    <li><a href="example-SOLR.xml">Solr XML</a></li>
+                    <li class="dropdown-header">Geodaten</li>
+                    <li><a href="printingPlaces.csv">CSV</a></li>
+                    <li><a href="printingPlaces.kml">KML</a></li>
+                    <li class="dropdown-header">Komplette Website</li>
+                    <li><a href="example.zip">ZIP</a></li>
+                </ul>
+            </div> 
+        </div>
+
+        <nav class="navbar navbar-default" data-spy="affix" data-offset-top="197">
+            <ul class="nav navbar-nav">
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="example-histSubject.html">Rubriken<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="example-histSubject.html">Seitenanfang</a></li>
+                        <li><a href="example-histSubject.html#AnBuechern.InFolio">An Büchern. In Folio (11)</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="example-persName.html">Personen<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="example-persName.html">Seitenanfang</a></li>
+                        <li><a href="example-persName.html#B">B (7)</a></li>
+                        <li><a href="example-persName.html#E">E (1)</a></li>
+                        <li><a href="example-persName.html#H">H (1)</a></li>
+                        <li><a href="example-persName.html#J">J (1)</a></li>
+                        <li><a href="example-persName.html#L">L (2)</a></li>
+                        <li><a href="example-persName.html#V">V (1)</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="example-year.html">Datierung<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="example-year.html">Seitenanfang</a></li>
+                        <li><a href="example-year.html#1540–1550">1540–1550 (1)</a></li>
+                        <li><a href="example-year.html#1580–1590">1580–1590 (4)</a></li>
+                        <li><a href="example-year.html#1600–1610">1600–1610 (1)</a></li>
+                        <li><a href="example-year.html#1660–1670">1660–1670 (1)</a></li>
+                        <li><a href="example-year.html#1690–1700">1690–1700 (1)</a></li>
+                        <li><a href="example-year.html#1700–1710">1700–1710 (2)</a></li>
+                        <li><a href="example-year.html#1710–1720">1710–1720 (1)</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="example-placeName.html">Orte<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="example-placeName.html">Seitenanfang</a></li>
+                        <li><a href="example-placeName.html#Amsterdam">Amsterdam (1)</a></li>
+                        <li><a href="example-placeName.html#Basel">Basel (5)</a></li>
+                        <li><a href="example-placeName.html#FrankfurtamMain">Frankfurt am Main (1)</a></li>
+                        <li><a href="example-placeName.html#Leipzig">Leipzig (1)</a></li>
+                        <li><a href="example-placeName.html#Lyon">Lyon (1)</a></li>
+                        <li><a href="example-placeName.html#Paris">Paris (2)</a></li>
+                        <li><a href="example-placeName.html#Saint-Gervais">Saint-Gervais (1)</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="example-subjects.html">Inhalte<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="example-subjects.html">Seitenanfang</a></li>
+                        <li><a href="example-subjects.html#Bibelkunde">Bibelkunde (3)</a></li>
+                        <li><a href="example-subjects.html#Jurisprudenz">Jurisprudenz (6)</a></li>
+                        <li><a href="example-subjects.html#Kirchengeschichte">Kirchengeschichte (1)</a></li>
+                        <li><a href="example-subjects.html#Numismatik">Numismatik (1)</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="example-genres.html">Gattungen<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="example-genres.html">Seitenanfang</a></li>
+                        <li><a href="example-genres.html#Consilia">Consilia (1)</a></li>
+                        <li><a href="example-genres.html#Katalog">Katalog (1)</a></li>
+                        <li><a href="example-genres.html#Kodifikation">Kodifikation (1)</a></li>
+                        <li><a href="example-genres.html#Kommentar">Kommentar (5)</a></li>
+                        <li><a href="example-genres.html#Konkordanz">Konkordanz (1)</a></li>
+                        <li><a href="example-genres.html#Namenslexikon">Namenslexikon (1)</a></li>
+                        <li><a href="example-genres.html#Quellenedition">Quellenedition (1)</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="example-languages.html">Sprachen<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="example-languages.html">Seitenanfang</a></li>
+                        <li><a href="example-languages.html#Deutsch">Deutsch (1)</a></li>
+                        <li><a href="example-languages.html#Altgriechisch">Altgriechisch (1)</a></li>
+                        <li><a href="example-languages.html#Neugriechisch">Neugriechisch (1)</a></li>
+                        <li><a href="example-languages.html#Latein">Latein (11)</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="example-publishers.html">Drucker/Verleger<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="example-publishers.html">Seitenanfang</a></li>
+                        <li><a href="example-publishers.html#D.Horthemeb">D. Horthemeb (1)</a></li>
+                        <li><a href="example-publishers.html#Episcopius,Eusebius">Episcopius, Eusebius (4)</a></li>
+                        <li><a href="example-publishers.html#FriedrichLanckischensErben">Friedrich Lanckischens Erben (1)</a></li>
+                        <li><a href="example-publishers.html#Halma,François">Halma, François (1)</a></li>
+                        <li><a href="example-publishers.html#Richter,JohannHeinrich">Richter, Johann Heinrich (1)</a></li>
+                        <li><a href="example-publishers.html#Senneton,JacquesetJean">Senneton, Jacques & Jean (1)</a></li>
+                        <li><a href="example-publishers.html#TypographiaRegia">Typographia Regia (1)</a></li>
+                        <li><a href="example-publishers.html#Vignon,Eustache,Erben">Vignon, Eustache, Erben (1)</a></li>
+                    </ul>
+                </li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right" style="padding-right:15px">
+                <li class="dropdown">
+	                <a class="dropdown-toggle" data-toggle="dropdown" href="#"><span class="glyphicon glyphicon-picture"></span> Visualisierung<span class="caret"></span></a>
+	                <ul class="dropdown-menu">
+		                <li><a href="example-wordCloud.html" title="Wortwolken">Word Clouds</a></li>
+		                <li><a href="example-doughnut.html" title="Kreisdiagramme">Kreisdiagramme</a></li>
+				
+		                <li><a href="https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783994&currentStatus=mapChanged=Historical+map+of+1783" target="_blank" title="Druckorte in Kartenansicht">GeoBrowser</a></li>
+	                </ul>
+                </li>
+            </ul>
+        </nav>
+
+        <div class="container" style="min-height:600px;">
+			
+			<div class="row">
+				<div class="buttonsTop">
+					
+				<button type="button" class="btn btn-default" onclick="javascript:replaceChart(histSubject)">Rubriken</button>
+				<button type="button" class="btn btn-default" onclick="javascript:replaceChart(placeName)">Orte</button>
+				<button type="button" class="btn btn-default" onclick="javascript:replaceChart(subjects)">Inhalte</button>
+				<button type="button" class="btn btn-default" onclick="javascript:replaceChart(genres)">Gattungen</button>
+				<button type="button" class="btn btn-default" onclick="javascript:replaceChart(format)">Formate</button>
+				<button type="button" class="btn btn-default" onclick="javascript:replaceChart(mediaType)">Materialarten</button>
+				<button type="button" class="btn btn-default active" onclick="javascript:replaceChart(languages)">Sprachen</button>
+				</div>
+			</div>
+			<div class="row" style="margin-top:2em;">
+				<div class="col-sm-6">
+					<canvas id="myDoughnutChart" width="400" height="400"></canvas>
+				</div>
+				<div class="col-sm-6">
+					<div id="chart-legend" class="chart-legend"></div>
+					<div class="chart-numbers">Gesamtzahl: 11<br />B&auml;nde: 11</div>
+				</div>
+			</div>
+			<script>
+				var histSubject = '[{\"value\":11,\"color\":\"#035151\",\"label\":\"An B\\u00fcchern. In Folio\"}]';
+				var placeName = '[{\"value\":5,\"color\":\"#035151\",\"label\":\"Basel\"},{\"value\":2,\"color\":\"#a08246\",\"label\":\"Paris\"},{\"value\":1,\"color\":\"#66CDAA\",\"label\":\"Amsterdam\"},{\"value\":1,\"color\":\"#00008B\",\"label\":\"Frankfurt am Main\"},{\"value\":1,\"color\":\"#DB7093\",\"label\":\"Leipzig\"},{\"value\":1,\"color\":\"#B0C4DE\",\"label\":\"Lyon\"},{\"value\":1,\"color\":\"#FF4500\",\"label\":\"Saint-Gervais\"}]';
+				var subjects = '[{\"value\":6,\"color\":\"#035151\",\"label\":\"Jurisprudenz\"},{\"value\":3,\"color\":\"#a08246\",\"label\":\"Bibelkunde\"},{\"value\":1,\"color\":\"#66CDAA\",\"label\":\"Kirchengeschichte\"},{\"value\":1,\"color\":\"#00008B\",\"label\":\"Numismatik\"}]';
+				var genres = '[{\"value\":5,\"color\":\"#035151\",\"label\":\"Kommentar\"},{\"value\":1,\"color\":\"#a08246\",\"label\":\"Consilia\"},{\"value\":1,\"color\":\"#66CDAA\",\"label\":\"Katalog\"},{\"value\":1,\"color\":\"#00008B\",\"label\":\"Kodifikation\"},{\"value\":1,\"color\":\"#DB7093\",\"label\":\"Konkordanz\"},{\"value\":1,\"color\":\"#B0C4DE\",\"label\":\"Namenslexikon\"},{\"value\":1,\"color\":\"#FF4500\",\"label\":\"Quellenedition\"}]';
+				var format = '[{\"value\":11,\"color\":\"#035151\",\"label\":\"2\\u00b0\"}]';
+				var mediaType = '[{\"value\":11,\"color\":\"#035151\",\"label\":\"Druck\"}]';
+				var languages = '[{\"value\":11,\"color\":\"#035151\",\"label\":\"Latein\"},{\"value\":1,\"color\":\"#a08246\",\"label\":\"Deutsch\"},{\"value\":1,\"color\":\"#66CDAA\",\"label\":\"Altgriechisch\"},{\"value\":1,\"color\":\"#00008B\",\"label\":\"Neugriechisch\"}]';
+
+				var optionsDoughnut = {
+					segmentShowStroke: false,
+					animateRotate: true,
+					animateScale: false,
+					tooltipTemplate: "<%= label %>: <%= value %>",
+					legendTemplate: "<ul class=\"chart-legend\"><% for (var i=0; i<data.length; i++){%><li><span style=\"background-color:<%=data[i].color%>\"></span><%if(data[i].label){%><%=data[i].label%><%}%></li><%}%></ul>"
+				}
+		
+				var data = JSON.parse(languages);
+
+				var ctx = document.getElementById("myDoughnutChart").getContext("2d");
+				var myNewChart = new Chart(ctx).Doughnut(data, optionsDoughnut);
+				document.getElementById("chart-legend").innerHTML = myNewChart.generateLegend();
+			</script>
+
+        </div>
+
+        <footer class="container-fluid">
+            <p><a href="../index.php" style="color:white">Start</a>&nbsp;&nbsp;<a href="http://www.hab.de/de/home/impressum.html" style="color:white" target="_blank">Impressum</a></p>
+            <p style="color:white; text-align:right;">Stand: 05.12.2019</p>
+        </footer>
+
+    </body>
+
+</html>

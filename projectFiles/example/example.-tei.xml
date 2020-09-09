@@ -1,0 +1,214 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>B&#xFC;cher des H. B. Schrader zu Schliestedt (1775)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name type="org">Herzog August Bibliothek Wolfenb&#xFC;ttel</name>
+          <address>
+            <street>Lessingplatz 1</street>
+            <name type="city">Wolfenb&#xFC;ttel</name>
+            <postCode>D-38299</postCode>
+            <name type="country">Germany</name>
+          </address>
+        </publisher>
+        <date when="2019-12-05">2019</date>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="witness_0">HAB, M: Bc 1982</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="transcription">
+        <pb n="1" facs="http://diglib.hab.de/drucke/bc-1982/start.htm?image=9"/>
+        <head>An B&#xFC;chern. In Folio</head>
+        <div type="volume">
+          <p n="1" xml:id="example0">Bartol. A Saxoferrato consilia, Lugdun 546. Schw. L.</p>
+        </div>
+        <div type="volume">
+          <p n="2" xml:id="example1">iac. Bonfrerii, onomasticon urbium &amp; Locor-Sacr&#xE6; Scriptur. Amstelod 707 P. B.</p>
+        </div>
+        <div type="volume">
+          <p n="3" xml:id="example2">Corpus jur. civil. cum not. Dionys. Gothofredi S. Gervasii 602. T I. II. Schw. L.</p>
+        </div>
+        <div type="volume">
+          <p n="5" xml:id="example3">Ioh. Buxtorfii, Tiberias sive Commentar. musorethicus triplex ad illustrat. oper. bibl. Basil. conscript. Basil. 665. P. B.</p>
+        </div>
+        <div type="volume">
+          <p n="6" xml:id="example4">Ioh. Harduini conciliorum collectio regia maxima ad Phil. Labbei &amp; Gabriel. Cossartii I. labores cum Suppl. Paris 715. Tom. I-XII. v. L.</p>
+        </div>
+        <div type="volume">
+          <p n="19" xml:id="example5">Fr. Lamkischen deutsche, hebr&#xE4;ische und griechische Concordanz, Bibel, Leipzig und Frankfurth 705. Schw. L.</p>
+        </div>
+        <div type="volume">
+          <p n="19" xml:id="example6">Io. Foy-Vaillant Numismata &#xE6;rea Imperator. Augustar. &amp; C&#xE6;sar. in Coloniis &amp;c. percussa P. I. II. Paris 697. P. B.</p>
+        </div>
+        <div type="volume">
+          <p n="20" xml:id="example7">Bartol. A Saxoferrato oper. Sup. Digest. Vet. Basil. 589. Schw. L.</p>
+        </div>
+        <div type="volume">
+          <p n="21" xml:id="example8">ejusdem Commentar. in prim. part. infort. Basil 588. Schw. L.</p>
+        </div>
+        <div type="volume">
+          <p n="22" xml:id="example9">ejusd. Commentar. iu. prim. part. Dig. Novi Basil. 588. Schw. L.</p>
+        </div>
+        <pb n="2" facs="http://diglib.hab.de/drucke/bc-1982/start.htm?image=10"/>
+        <div type="volume">
+          <p n="23" xml:id="example10">Bartol. Commentar. in prim. part. Cod. Basil. 588. Schw. L.<note>VD16-Nummer des &#xFC;bergeordneten Werks</note></p>
+        </div>
+      </div>
+      <div type="bibliography">
+        <listBibl>
+          <bibl xml:id="example0-reference" corresp="example0">
+            <title>Consilia Bartoli Saxoferratei, ad omne genus causarum nodos dissolvendos, &amp; forenses commod&#xE8; lites devitandas, aut easdem apt&#xE8; &amp; utiliter instituendas, suscipiend&#xE0;sue, mir&#xE8; profutura, ac pen&#xE8; necessaria : qu&#xE0;m ante hac usqu&#xE0;m &amp; auctiora, &amp; venustiora reddita. Quibus Quaestionum, Tractatuum, Sermonum, &amp;id genus molem integram substruximus</title>
+            <author>
+              <rs type="person" key="gnd_118652885">Bartolus de Saxoferrato</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="geoNames_2996944">Lyon</rs>
+            </pubPlace>
+            <publisher>Senneton, Jacques &amp; Jean</publisher>
+            <date when="1546">1546</date>
+            <idno type="SUDOC">190358432</idno>
+          </bibl>
+          <bibl xml:id="example1-reference" corresp="example1">
+            <title>Onomasticon Urbium Et Locorum Sacr&#xE6; Scriptur&#xE6;: Sev Liber De Locis Hebraicis / Gr&#xE6;c&#xE8; prim&#xF9;m ab Eusebio C&#xE6;sariensi, Deinde Latin&#xE8; Scriptus ab Hieronymo, In commodiorem ver&#xF2; ordinem redactus ... Tabul&#xE2; Geographic&#xE2; Jud&#xE6;&#xE6; illustratus, Oper&#xE2; Iacobi Bonfrerii S. J. Recensuit &amp; animadversionibus suis auxit Joannes Clericus. Accessit huic Editioni Brocardi Monachi, Ex Ordine Pr&#xE6;dicatorum, Descriptio Terr&#xE6; Sanct&#xE6;</title>
+            <author>
+              <rs type="person" key="gnd_118531425">Eusebius Caesariensis</rs>
+            </author>
+            <editor>
+              <rs type="person" key="gnd_139265058">Bonfr&#xE8;re, Jacques</rs>
+            </editor>
+            <editor>
+              <rs type="person" key="gnd_119512947">Le Clerc, Jean</rs>
+            </editor>
+            <pubPlace>
+              <rs type="place" key="geoNames_2759794">Amsterdam</rs>
+            </pubPlace>
+            <publisher>Halma, Fran&#xE7;ois</publisher>
+            <date when="1707">1707</date>
+            <idno type="GBV">150566379</idno>
+          </bibl>
+          <bibl xml:id="example2-reference" corresp="example2">
+            <title>Corpvs Iuris Ciuilis, In quinque partes distinctum : Qvarvm Prima, Historia iuris &#xE0; Justiniano compositi, Institutionum Libri IIII, Epitome Institutionum, Degestorum seu Pandectarum Libri L. continentur. Qu&#xE6; reliquis partibus includantur, quinta docebit pagina / His Accesservnt Not&#xE6; Repetit&#xE6; Terti&#xE6; - que lectionis, Dionysio Gothofredo IC.</title>
+            <author>
+              <rs type="person" key="gnd_11855896X">Justinianus I.</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="geoNames_3002499">Saint-Gervais</rs>
+            </pubPlace>
+            <publisher>Vignon, Eustache, Erben</publisher>
+            <date when="1602">1602</date>
+            <idno type="GBV">63120430X</idno>
+          </bibl>
+          <bibl xml:id="example3-reference" corresp="example3">
+            <title>Johannis Buxtorfi[i] P. Tiberias Sive Commentarius Masorethicus Triplex Historicus, Didacticus, Criticus : Ad illustrationem Operis Biblici Basiliensis conscriptus, Quo Primum Historia Masoretharum Tiberiensium ... explicatur: Secundo Clavis Masorae Traditur ... Tertio Castigationes Innumerorum mendorum per universam Masoram proponuntur / Recognitus, &amp; additamentis non paucis hinc inde locupletatus a Johanne Buxtorfio Fil. Editionem hancce novam accurante Johan. Jacobo Buxtorfio Joh. Fil. Joh. Nep</title>
+            <author>
+              <rs type="person" key="gnd_119354780">Buxtorf, Johann</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="geoNames_2661604">Basel</rs>
+            </pubPlace>
+            <date when="1665">1665</date>
+            <idno type="VD17">12:121708U</idno>
+          </bibl>
+          <bibl xml:id="example4-reference" corresp="example4">
+            <title>Conciliorum Collectio Regia Maxima, ad Philippi Labbei et Gabrielis Cossartu labores haud modica accessione facta, et emendationibus plurimis additis; cum novis Indicibus / Studio Johannis Harduini, sive Acta Conciliorum, et Epistolae Decretales, ac Constitutiones Summorum Pontificum</title>
+            <author>
+              <rs type="person" key="gnd_122664485">Hardouin, Jean</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="geoNames_2988507">Paris</rs>
+            </pubPlace>
+            <publisher>Typographia Regia</publisher>
+            <date when="1715">1715</date>
+            <idno type="GBV">223082406</idno>
+          </bibl>
+          <bibl xml:id="example5-reference" corresp="example5">
+            <title>Concordanti&#xE6; Bibliorum Germanico-Hebraico-Gr&#xE6;c&#xE6; = Deutsche, Hebr&#xE4;ische und Griechische Concordantz-Bibel Oder Vollst&#xE4;ndige Anweisung aller W&#xF6;rter, welche in der gantzen H. Schrifft ... f&#xFC;rkommen, Wo und wie offt dieselben gefunden, und auff unterschiedliche Art gebrauchet worden ; Auff gn&#xE4;digste Verordnung und Bef&#xF6;rderung, Des Durchlauchtigsten F&#xFC;rsten und Herrn, Herrn Ernsts, Hertzogen zu Sachsen, ... In diese gantz neue und beqveme Form, mit vieler M&#xFC;he und grossem Flei&#xDF; zusammen gebracht und abgefasset / von M. Friedrich Lanckischen. Vormahls mit eine Vorrede des Chur-F&#xFC;rstl. S&#xE4;chsischen Oberhoff-Predigers, Beichtvaters und Kirchen-Raths Herrn D. Martini Geieri, zuerst heraus gegeben</title>
+            <author>
+              <rs type="person" key="gnd_12403909X">Lanckisch, Friedrich</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="geoNames_2879139">Leipzig</rs>
+            </pubPlace>
+            <pubPlace>
+              <rs type="place" key="geoNames_2925533">Frankfurt am Main</rs>
+            </pubPlace>
+            <publisher>Friedrich Lanckischens Erben</publisher>
+            <publisher>Richter, Johann Heinrich</publisher>
+            <date when="1705">1705</date>
+            <idno type="VD18">10419063</idno>
+          </bibl>
+          <bibl xml:id="example6-reference" corresp="example6">
+            <title>Numismata aerea imperatorum, Augustarum et Caesarum in coloniis, municipiis et urbibus jure latio donatis, ex omni modulo percussa</title>
+            <author>
+              <rs type="person" key="gnd_124498094">Vaillant, Jean Foy</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="geoNames_2988507">Paris</rs>
+            </pubPlace>
+            <publisher>D. Horthemeb</publisher>
+            <date when="1697">1697</date>
+            <idno type="SUDOC">85029319</idno>
+          </bibl>
+          <bibl xml:id="example7-reference" corresp="example7">
+            <title>Super Digestum Vetum Commentaria, cum additionibus excell. Iltorum</title>
+            <author>
+              <rs type="person" key="gnd_118652885">Bartolus de Saxoferrato</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="geoNames_2661604">Basel</rs>
+            </pubPlace>
+            <publisher>Episcopius, Eusebius</publisher>
+            <date when="1589">1589</date>
+            <idno type="GBV">305720775</idno>
+          </bibl>
+          <bibl xml:id="example8-reference" corresp="example8">
+            <title>Super Infortiatum Commentaria, cum adnott. doctissimor. Iltorum</title>
+            <author>
+              <rs type="person" key="gnd_118652885">Bartolus de Saxoferrato</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="geoNames_2661605">Basel</rs>
+            </pubPlace>
+            <publisher>Episcopius, Eusebius</publisher>
+            <date when="1588">1588</date>
+            <idno type="GBV">305721216</idno>
+          </bibl>
+          <bibl xml:id="example9-reference" corresp="example9">
+            <title>In I. Partem Digesti Novi Bartoli &#xC0; Saxoferrato Commentaria : Cum Adnotationibvs &#x2026;</title>
+            <author>
+              <rs type="person" key="gnd_118652885">Bartolus de Saxoferrato</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="geoNames_2661606">Basel</rs>
+            </pubPlace>
+            <publisher>Episcopius, Eusebius</publisher>
+            <date when="1588">1588</date>
+            <idno type="GBV">152990542</idno>
+          </bibl>
+          <bibl xml:id="example10-reference" corresp="example10">
+            <title>In I. Partem Codicis Bartoli &#xC0; Saxoferrato Commentaria</title>
+            <author>
+              <rs type="person" key="gnd_118652885">Bartolus de Saxoferrato</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="geoNames_2661607">Basel</rs>
+            </pubPlace>
+            <publisher>Episcopius, Eusebius</publisher>
+            <date when="1588">1588</date>
+            <idno type="VD16">16 B 576 </idno>
+          </bibl>
+        </listBibl>
+      </div>
+    </body>
+  </text>
+</TEI>

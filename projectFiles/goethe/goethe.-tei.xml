@@ -1,0 +1,852 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>&#xDC;bersetzungen von Goethes Texten (1832)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name type="org">Herzog August Bibliothek Wolfenb&#xFC;ttel</name>
+          <address>
+            <street>Lessingplatz 1</street>
+            <name type="city">Wolfenb&#xFC;ttel</name>
+            <postCode>D-38299</postCode>
+            <name type="country">Germany</name>
+          </address>
+        </publisher>
+        <date when="2019-12-05">2019</date>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="witness_0">, </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="transcription">
+        <head>ohne Kategorie</head>
+        <div type="volume">
+          <p xml:id="goethe0"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe1"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe2"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe3"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe4"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe5"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe6"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe7"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe8"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe9"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe10"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe11"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe12"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe13"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe14"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe15"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe16"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe17"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe18"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe19"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe20"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe21"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe22"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe23"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe24"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe25"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe26"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe27"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe28"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe29"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe30"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe31"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe32"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe33"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe34"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe35"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe36"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe37"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe38"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe39"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe40"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe41"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe42"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe43"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe44"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe45"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe46"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe47"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe48"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe49"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe50"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe51"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe52"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe53"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe54"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe55"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe56"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe57"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe58"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe59"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe60"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe61"/>
+        </div>
+        <div type="volume">
+          <p xml:id="goethe62"/>
+        </div>
+      </div>
+      <div type="bibliography">
+        <listBibl>
+          <bibl xml:id="goethe0-reference" corresp="goethe0">
+            <title>Gortz Of Berlingen, With The Iron Hand: An Historical Drama Of The Fifteenth Century: Translated From The German Of Goethe, The Author Of Werter</title>
+            <author>Goethe, Johann Wolfgang</author>
+            <author>Aguilar, Rose d' (&#xDC;bers.)</author>
+            <author>Aguilar, Rose d'</author>
+            <pubPlace>
+              <rs type="place" key="getty_7010597">Liverpool</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe1-reference" corresp="goethe1">
+            <title>Translations of German Poems, extracted from the musical publications of the author of The German Erato [Bd. 1]</title>
+            <author>Beresford, Benjamin (&#xDC;bers.)</author>
+            <author>
+              <rs type="person" key="gnd_137991517">Beresford, Benjamin</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7003712">Berlin</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe2-reference" corresp="goethe2">
+            <title>Herman Et Doroth&#xE9;e: En IX Chants; Po&#xEB;me allemand de Goethe</title>
+            <author>Goethe, Johann Wolfgang</author>
+            <author>Bitaub&#xE9;,  Paul J&#xE9;r&#xE9;mie (&#xDC;bers.)</author>
+            <author>
+              <rs type="person" key="gnd_116197870">Bitaub&#xE9;, Paul J&#xE9;r&#xE9;mie</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7008038">Paris</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe3-reference" corresp="goethe3">
+            <title>Zueignung: Dedication</title>
+            <author>Goethe, Johann Wolfgang</author>
+            <author>Soane, George (&#xDC;bers.)</author>
+            <author>
+              <rs type="person" key="gnd_1018729577">Bohte, Johann Heinrich</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7012886">Weimar</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe4-reference" corresp="goethe4">
+            <title>Lectures nouvelles amusantes et instructives &#xE0; l'usage des amateurs de la langue Fran&#xE7;aise</title>
+            <author>Bonafont, Charles-Philippe</author>
+            <author>
+              <rs type="person" key="gnd_116237554">Bonafont, Charles-Philippe</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7012351">Zeitz</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe5-reference" corresp="goethe5">
+            <title>German Romance: Specimens of Its Chief Authors, With Biographical and Critical Notices: By the Translator of Wilhelm Meister, and Author of The Life of Schiller, Bd. 4: Goethe</title>
+            <author>Carlyle, Thomas (&#xDC;bers./Hrsg.)</author>
+            <author>
+              <rs type="person" key="gnd_118519131">Carlyle, Thomas</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7009546">Edinburgh</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe6-reference" corresp="goethe6">
+            <title>Wilhelm Meister's Apprenticeship: A Novel: From the German of Goethe, Bd. 1</title>
+            <author>Goethe, Johann Wolfgang</author>
+            <author>Carlye, Thomas (&#xDC;bers.)</author>
+            <author>
+              <rs type="person" key="gnd_118519131">Carlyle, Thomas</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7011781">London</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe7-reference" corresp="goethe7">
+            <title>Wilhelm Meister's Apprenticeship: A Novel: From the German of Goethe, Bd. 2</title>
+            <author>Goethe, Johann Wolfgang</author>
+            <author>Carlye, Thomas (&#xDC;bers.)</author>
+            <author>
+              <rs type="person" key="gnd_118519131">Carlyle, Thomas</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7011781">London</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe8-reference" corresp="goethe8">
+            <title>Wilhelm Meister's Apprenticeship: A Novel: From the German of Goethe, Bd. 3</title>
+            <author>Goethe, Johann Wolfgang</author>
+            <author>Carlye, Thomas (&#xDC;bers.)</author>
+            <author>
+              <rs type="person" key="gnd_118519131">Carlyle, Thomas</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7011781">London</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe9-reference" corresp="goethe9">
+            <title>Was wir bringen: Vorspiel, bey Er&#xF6;ffnung des neuen Schauspielhauses zu Lauchst&#xE4;dt</title>
+            <author>Goethe, Johann Wolfgang</author>
+            <author>
+              <rs type="person" key="gnd_11852240X">Cotta, Johann Friedrich von</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7004426">T&#xFC;bingen</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe10-reference" corresp="goethe10">
+            <title>&#xC9;tudes Fran&#xE7;aises et &#xE9;trang&#xE8;res: Quatri&#xE8;me &#xE9;dition, corrig&#xE9;e et augment&#xE9;e de huit pi&#xE8;ces nouvelles</title>
+            <author>Deschamps, &#xC9;mile</author>
+            <author>
+              <rs type="person" key="gnd_117632767">Deschamps, Emile</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7008038">Paris</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe11-reference" corresp="goethe11">
+            <title>Poems: With Some Translations From The German</title>
+            <author>Anster, John</author>
+            <author>
+              <rs type="person" key="gnd_116191031">Downes, George</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7001306">Dublin</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe12-reference" corresp="goethe12">
+            <title>Dublin University Prize Poems: With Spanish and German Ballads, &amp;c</title>
+            <author>Downes, George</author>
+            <author>
+              <rs type="person" key="gnd_116191031">Downes, George</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7001306">Dublin</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe13-reference" corresp="goethe13">
+            <title>Faust: A Drama. In Two Volumes by Goethe. With Translations From The German By Lord Francis Leveson Gower, 2. Aufl., Bd. 1</title>
+            <author>Goethe, Johann Wolfgang</author>
+            <author>Ellsmere, Francis Egerton Earl of (&#xDC;bers.)</author>
+            <author>
+              <rs type="person" key="gnd_102005451">Ellsmere, Francis Egerton Earl of (&#xDC;bers.)</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7011781">London</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe14-reference" corresp="goethe14">
+            <title>Faust: A Drama. In Two Volumes by Goethe. With Translations From The German By Lord Francis Leveson Gower, 2. Aufl., Bd. 2</title>
+            <author>Goethe, Johann Wolfgang</author>
+            <author>Lessing, Gotthold Ephraim</author>
+            <author>Schiller, Friedrich</author>
+            <author>B&#xFC;rger, Georg August</author>
+            <author>Saalis-Seewis, Johann Gaudenz von</author>
+            <author>Ellsmere, Francis Egerton Earl of (&#xDC;bers.)</author>
+            <author>
+              <rs type="person" key="gnd_102005451">Ellsmere, Francis Egerton Earl of (&#xDC;bers.)</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7011781">London</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe15-reference" corresp="goethe15">
+            <title>Essai sur la metamorphose des plantes par J. W. de Goethe: Trad. de l'allemand sur l'ed. orig. de Gotha (1790) par Frederic de Gingins-Lassaraz</title>
+            <author>Goethe, Johann Wolfgang</author>
+            <author>Gingins- la Sarra, Fr&#xE9;d&#xE9;ric de (&#xDC;bers.)</author>
+            <author>
+              <rs type="person" key="gnd_11817892X">Gingins-la Sarra, Fr&#xE9;d&#xE9;ric Charles de</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7007279">Genf</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe16-reference" corresp="goethe16">
+            <title>Metaphraseis: Sammlung von &#xDC;bersetzungen ins Griechische</title>
+            <author>G&#xF6;ller, Franz (Hrsg.)</author>
+            <author>
+              <rs type="person" key="gnd_116704217">G&#xF6;ller, Franz</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7004446">K&#xF6;ln</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe17-reference" corresp="goethe17">
+            <title>Gold's London Magazine, Nr. 19</title>
+            <author>[Anonym]</author>
+            <author>
+              <rs type="person" key="gnd_117053759">H&#xFC;ttner, Johann Christian</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7011781">London</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe18-reference" corresp="goethe18">
+            <title>Les ann&#xE9;es d'apprentissage de Guillaume Meister: Roman traduit de l'Allemand: Par Goeth&#xE9;</title>
+            <author>Goethe, Johann Wolfgang</author>
+            <author>Lassaulx, Franz Georg Joseph von (&#xDC;bers.)</author>
+            <author>
+              <rs type="person" key="gnd_116002182">Lassaulx, Franz Georg Joseph von</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7004448">Koblenz</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe19-reference" corresp="goethe19">
+            <title>Les ann&#xE9;es d'apprentissage de Guillaume Meister: Roman traduit de l'Allemand: Par Goeth&#xE9;</title>
+            <author>Goethe, Johann Wolfgang</author>
+            <author>Lassaulx, Franz Georg Joseph von (&#xDC;bers.)</author>
+            <author>
+              <rs type="person" key="gnd_116002182">Lassaulx, Franz Georg Joseph von</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7004448">Koblenz</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe20-reference" corresp="goethe20">
+            <title>Goethowa Iphigenia W. Taurii Trag&#xE9;dia w pateru</title>
+            <author>Goethe, Johann Wolfgang</author>
+            <author>Mach&#xE1;cka, Simon Karl (&#xDC;bers.)</author>
+            <author>
+              <rs type="person" key="gnd_1019705728">M&#xE1;ch&#xE1;ka, Simon Karl</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7006464">Prag</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe21-reference" corresp="goethe21">
+            <title>Faust: Trag&#xE9;die, de M. Goethe; Trad. En Fran&#xE7;ais Par M. Albert Stapfer; Orn&#xE9;e d'un Portrait de l'Auteur, Et De Dix-Sept Dessins Compos&#xE9;s D'Apr&#xE8;s Les principales Sc&#xE8;nes De L'Ouvrage Et Ex&#xE9;cut&#xE9;s Sur Pierre Par M. Eug&#xE8;ne Delacroix</title>
+            <author>Goethe, Johann Wolfgang</author>
+            <author>Stapfer, Fr&#xE9;d&#xE9;ric Albert Alexandre (&#xDC;bers.)</author>
+            <author>Delacroix, Eug&#xE8;ne (Ill.)</author>
+            <author>
+              <rs type="person" key="gnd_121242986">Motte, Charles</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7008038">Paris</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe22-reference" corresp="goethe22">
+            <title>Observations on Leonardo da Vinci's celebrated picture of the last supper: By J.W. de Goethe, Minister of State to H.R.H. the Grand Duke of Saxe-Weimar, Author of Werther, Faust, Goetz of Berlichingen, &amp;c. &amp;c. ; translated from the German and accompanied with an introdroduktion, and a few notes by G.H. Noehden, LL.D.F.R.S. &amp;c.</title>
+            <author>Goethe, Johann Wolfgang</author>
+            <author>N&#xF6;hden, Georg Heinrich (&#xDC;bers.)</author>
+            <author>
+              <rs type="person" key="gnd_117037788">N&#xF6;hden, Georg Heinrich</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7011781">London</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe23-reference" corresp="goethe23">
+            <title>Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (1. Ex.)</title>
+            <author>Goethe, Johann Wolfgang</author>
+            <author>Papadopoulos, I&#x14D;ann&#x113;s (&#xDC;bers.)</author>
+            <author>Papadopoulos, Johannes</author>
+            <pubPlace>
+              <rs type="place" key="getty_7005973">Jena</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe24-reference" corresp="goethe24">
+            <title>Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (2. Ex.)</title>
+            <author>Goethe, Johann Wolfgang</author>
+            <author>Papadopoulos, I&#x14D;ann&#x113;s (&#xDC;bers.)</author>
+            <author>Papadopoulos, Johannes</author>
+            <pubPlace>
+              <rs type="place" key="getty_7005973">Jena</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe25-reference" corresp="goethe25">
+            <title>Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (3. Ex.)</title>
+            <author>Goethe, Johann Wolfgang</author>
+            <author>Papadopoulos, I&#x14D;ann&#x113;s (&#xDC;bers.)</author>
+            <author>Papadopoulos, Johannes</author>
+            <pubPlace>
+              <rs type="place" key="getty_7005973">Jena</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe26-reference" corresp="goethe26">
+            <title>Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (4. Ex.)</title>
+            <author>Goethe, Johann Wolfgang</author>
+            <author>Papadopoulos, I&#x14D;ann&#x113;s (&#xDC;bers.)</author>
+            <author>Papadopoulos, Johannes</author>
+            <pubPlace>
+              <rs type="place" key="getty_7005973">Jena</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe27-reference" corresp="goethe27">
+            <title>Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (5. Ex.)</title>
+            <author>Goethe, Johann Wolfgang</author>
+            <author>Papadopoulos, I&#x14D;ann&#x113;s (&#xDC;bers.)</author>
+            <author>Papadopoulos, Johannes</author>
+            <pubPlace>
+              <rs type="place" key="getty_7005973">Jena</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe28-reference" corresp="goethe28">
+            <title>Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (6. Ex.)</title>
+            <author>Goethe, Johann Wolfgang</author>
+            <author>Papadopoulos, I&#x14D;ann&#x113;s (&#xDC;bers.)</author>
+            <author>Papadopoulos, Johannes</author>
+            <pubPlace>
+              <rs type="place" key="getty_7005973">Jena</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe29-reference" corresp="goethe29">
+            <title>Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (7. Ex.)</title>
+            <author>Goethe, Johann Wolfgang</author>
+            <author>Papadopoulos, I&#x14D;ann&#x113;s (&#xDC;bers.)</author>
+            <author>Papadopoulos, Johannes</author>
+            <pubPlace>
+              <rs type="place" key="getty_7005973">Jena</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe30-reference" corresp="goethe30">
+            <title>Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (8. Ex.)</title>
+            <author>Goethe, Johann Wolfgang</author>
+            <author>Papadopoulos, I&#x14D;ann&#x113;s (&#xDC;bers.)</author>
+            <author>Papadopoulos, Johannes</author>
+            <pubPlace>
+              <rs type="place" key="getty_7005973">Jena</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe31-reference" corresp="goethe31">
+            <title>Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (9. Ex.)</title>
+            <author>Goethe, Johann Wolfgang</author>
+            <author>Papadopoulos, I&#x14D;ann&#x113;s (&#xDC;bers.)</author>
+            <author>Papadopoulos, Johannes</author>
+            <pubPlace>
+              <rs type="place" key="getty_7005973">Jena</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe32-reference" corresp="goethe32">
+            <title>Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (10. Ex.)</title>
+            <author>Goethe, Johann Wolfgang</author>
+            <author>Papadopoulos, I&#x14D;ann&#x113;s (&#xDC;bers.)</author>
+            <author>Papadopoulos, Johannes</author>
+            <pubPlace>
+              <rs type="place" key="getty_7005973">Jena</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe33-reference" corresp="goethe33">
+            <title>Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (11. Ex.)</title>
+            <author>Goethe, Johann Wolfgang</author>
+            <author>Papadopoulos, I&#x14D;ann&#x113;s (&#xDC;bers.)</author>
+            <author>Papadopoulos, Johannes</author>
+            <pubPlace>
+              <rs type="place" key="getty_7005973">Jena</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe34-reference" corresp="goethe34">
+            <title>Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (12. Ex.)</title>
+            <author>Goethe, Johann Wolfgang</author>
+            <author>Papadopoulos, I&#x14D;ann&#x113;s (&#xDC;bers.)</author>
+            <author>Papadopoulos, Johannes</author>
+            <pubPlace>
+              <rs type="place" key="getty_7005973">Jena</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe35-reference" corresp="goethe35">
+            <title>Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (13. Ex.)</title>
+            <author>Goethe, Johann Wolfgang</author>
+            <author>Papadopoulos, I&#x14D;ann&#x113;s (&#xDC;bers.)</author>
+            <author>Papadopoulos, Johannes</author>
+            <pubPlace>
+              <rs type="place" key="getty_7005973">Jena</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe36-reference" corresp="goethe36">
+            <title>Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (14. Ex.)</title>
+            <author>Goethe, Johann Wolfgang</author>
+            <author>Papadopoulos, I&#x14D;ann&#x113;s (&#xDC;bers.)</author>
+            <author>Papadopoulos, Johannes</author>
+            <pubPlace>
+              <rs type="place" key="getty_7005973">Jena</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe37-reference" corresp="goethe37">
+            <title>Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (15. Ex.)</title>
+            <author>Goethe, Johann Wolfgang</author>
+            <author>Papadopoulos, I&#x14D;ann&#x113;s (&#xDC;bers.)</author>
+            <author>Papadopoulos, Johannes</author>
+            <pubPlace>
+              <rs type="place" key="getty_7005973">Jena</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe38-reference" corresp="goethe38">
+            <title>Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (16. Ex.)</title>
+            <author>Goethe, Johann Wolfgang</author>
+            <author>Papadopoulos, I&#x14D;ann&#x113;s (&#xDC;bers.)</author>
+            <author>Papadopoulos, Johannes</author>
+            <pubPlace>
+              <rs type="place" key="getty_7005973">Jena</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe39-reference" corresp="goethe39">
+            <title>Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (17. Ex.)</title>
+            <author>Goethe, Johann Wolfgang</author>
+            <author>Papadopoulos, I&#x14D;ann&#x113;s (&#xDC;bers.)</author>
+            <author>Papadopoulos, Johannes</author>
+            <pubPlace>
+              <rs type="place" key="getty_7005973">Jena</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe40-reference" corresp="goethe40">
+            <title>Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (18. Ex.)</title>
+            <author>Goethe, Johann Wolfgang</author>
+            <author>Papadopoulos, I&#x14D;ann&#x113;s (&#xDC;bers.)</author>
+            <author>Papadopoulos, Johannes</author>
+            <pubPlace>
+              <rs type="place" key="getty_7005973">Jena</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe41-reference" corresp="goethe41">
+            <title>Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (19. Ex.)</title>
+            <author>Goethe, Johann Wolfgang</author>
+            <author>Papadopoulos, I&#x14D;ann&#x113;s (&#xDC;bers.)</author>
+            <author>Papadopoulos, Johannes</author>
+            <pubPlace>
+              <rs type="place" key="getty_7005973">Jena</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe42-reference" corresp="goethe42">
+            <title>Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (20. Ex.)</title>
+            <author>Goethe, Johann Wolfgang</author>
+            <author>Papadopoulos, I&#x14D;ann&#x113;s (&#xDC;bers.)</author>
+            <author>Papadopoulos, Johannes</author>
+            <pubPlace>
+              <rs type="place" key="getty_7005973">Jena</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe43-reference" corresp="goethe43">
+            <title>Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (21. Ex.)</title>
+            <author>Goethe, Johann Wolfgang</author>
+            <author>Papadopoulos, I&#x14D;ann&#x113;s (&#xDC;bers.)</author>
+            <author>Papadopoulos, Johannes</author>
+            <pubPlace>
+              <rs type="place" key="getty_7005973">Jena</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe44-reference" corresp="goethe44">
+            <title>Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (22. Ex.)</title>
+            <author>Goethe, Johann Wolfgang</author>
+            <author>Papadopoulos, I&#x14D;ann&#x113;s (&#xDC;bers.)</author>
+            <author>Papadopoulos, Johannes</author>
+            <pubPlace>
+              <rs type="place" key="getty_7005973">Jena</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe45-reference" corresp="goethe45">
+            <title>Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (23. Ex.)</title>
+            <author>Goethe, Johann Wolfgang</author>
+            <author>Papadopoulos, I&#x14D;ann&#x113;s (&#xDC;bers.)</author>
+            <author>Papadopoulos, Johannes</author>
+            <pubPlace>
+              <rs type="place" key="getty_7005973">Jena</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe46-reference" corresp="goethe46">
+            <title>Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (24. Ex.)</title>
+            <author>Goethe, Johann Wolfgang</author>
+            <author>Papadopoulos, I&#x14D;ann&#x113;s (&#xDC;bers.)</author>
+            <author>Papadopoulos, Johannes</author>
+            <pubPlace>
+              <rs type="place" key="getty_7005973">Jena</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe47-reference" corresp="goethe47">
+            <title>Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (25. Ex.)</title>
+            <author>Goethe, Johann Wolfgang</author>
+            <author>Papadopoulos, I&#x14D;ann&#x113;s (&#xDC;bers.)</author>
+            <author>Papadopoulos, Johannes</author>
+            <pubPlace>
+              <rs type="place" key="getty_7005973">Jena</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe48-reference" corresp="goethe48">
+            <title>Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (26. Ex.)</title>
+            <author>Goethe, Johann Wolfgang</author>
+            <author>Papadopoulos, I&#x14D;ann&#x113;s (&#xDC;bers.)</author>
+            <author>Papadopoulos, Johannes</author>
+            <pubPlace>
+              <rs type="place" key="getty_7005973">Jena</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe49-reference" corresp="goethe49">
+            <title>Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (31. Ex.)</title>
+            <author>Goethe, Johann Wolfgang</author>
+            <author>Papadopoulos, I&#x14D;ann&#x113;s (&#xDC;bers.)</author>
+            <author>Papadopoulos, Johannes</author>
+            <pubPlace>
+              <rs type="place" key="getty_7005973">Jena</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe50-reference" corresp="goethe50">
+            <title>Iphigenia in Tauris: A tragedy: Written originally in German</title>
+            <author>Goethe, Johann Wolfgang</author>
+            <author>Taylor, William (&#xDC;bers.)</author>
+            <author>
+              <rs type="person" key="gnd_117491055">Spiker, Samuel Heinrich</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7003712">Berlin</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe51-reference" corresp="goethe51">
+            <title>Iphigenia in Tauris: A tragedy: Written originally in German [Nachdruck]</title>
+            <author>Goethe, Johann Wolfgang</author>
+            <author>Taylor, William (&#xDC;bers.)</author>
+            <author>
+              <rs type="person" key="gnd_117491055">Spiker, Samuel Heinrich</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7003712">Berlin</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe52-reference" corresp="goethe52">
+            <title>Oeuvres Dramatiques De J. W. Goethe: Traduites De L'Allemand Pr&#xE9;c&#xE9;d&#xE9;es D'Une Notice Biographique Et Litt&#xE9;raire Sur Goethe, Bd. 1</title>
+            <author>Goethe, Johann Wolfgang</author>
+            <author>Stapfer, Fr&#xE9;d&#xE9;ric Albert Alexandre (&#xDC;bers.)</author>
+            <author>
+              <rs type="person" key="gnd_120959747">Stapfer, Fr&#xE9;d&#xE9;ric Albert Alexandre</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_1100356">Ch&#xE2;teau de Talcy</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe53-reference" corresp="goethe53">
+            <title>Oeuvres Dramatiques De J. W. Goethe: Traduites De L'Allemand Pr&#xE9;c&#xE9;d&#xE9;es D'Une Notice Biographique Et Litt&#xE9;raire Sur Goethe, Bd. 2</title>
+            <author>Goethe, Johann Wolfgang</author>
+            <author>Stapfer, Fr&#xE9;d&#xE9;ric Albert Alexandre (&#xDC;bers.)</author>
+            <author>
+              <rs type="person" key="gnd_120959747">Stapfer, Fr&#xE9;d&#xE9;ric Albert Alexandre</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7008038">Paris</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe54-reference" corresp="goethe54">
+            <title>Oeuvres Dramatiques De J. W. Goethe: Traduites De L'Allemand Pr&#xE9;c&#xE9;d&#xE9;es D'Une Notice Biographique Et Litt&#xE9;raire Sur Goethe, Bd. 3</title>
+            <author>Goethe, Johann Wolfgang</author>
+            <author>Stapfer, Fr&#xE9;d&#xE9;ric Albert Alexandre (&#xDC;bers.)</author>
+            <author>
+              <rs type="person" key="gnd_120959747">Stapfer, Fr&#xE9;d&#xE9;ric Albert Alexandre</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7008038">Paris</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe55-reference" corresp="goethe55">
+            <title>Oeuvres Dramatiques De J. W. Goethe: Traduites De L'Allemand Pr&#xE9;c&#xE9;d&#xE9;es D'Une Notice Biographique Et Litt&#xE9;raire Sur Goethe, Bd. 4</title>
+            <author>Goethe, Johann Wolfgang</author>
+            <author>Stapfer, Fr&#xE9;d&#xE9;ric Albert Alexandre (&#xDC;bers.)</author>
+            <author>
+              <rs type="person" key="gnd_120959747">Stapfer, Fr&#xE9;d&#xE9;ric Albert Alexandre</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7008038">Paris</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe56-reference" corresp="goethe56">
+            <title>Des hommes c&#xE9;l&#xE8;bres de France au dix-huiti&#xE8;me si&#xE8;cle, et de l'&#xE9;tat de la litt&#xE9;rature et des arts a la m&#xE8;me &#xE9;poque: Suivie des notes des traducteurs</title>
+            <author>Goethe, Johann Wolfgang</author>
+            <author>Diderot, Denis</author>
+            <author>Saur, Joseph Henri de (&#xDC;bers.)</author>
+            <author>Saint-G&#xE9;ni&#xE9;s, L&#xE9;once de (&#xDC;bers.)</author>
+            <author>
+              <rs type="person" key="gnd_117253006">Teichmann, Johann Valentin</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7003712">Berlin</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe57-reference" corresp="goethe57">
+            <title>Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (27. Ex.)</title>
+            <author>Goethe, Johann Wolfgang</author>
+            <author>Papadopoulos, I&#x14D;ann&#x113;s (&#xDC;bers.)</author>
+            <author>
+              <rs type="person" key="gnd_117344257">Weller, Christian Friedrich Ernst</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7005973">Jena</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe58-reference" corresp="goethe58">
+            <title>Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (28. Ex.)</title>
+            <author>Goethe, Johann Wolfgang</author>
+            <author>Papadopoulos, I&#x14D;ann&#x113;s (&#xDC;bers.)</author>
+            <author>
+              <rs type="person" key="gnd_117344257">Weller, Christian Friedrich Ernst</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7005973">Jena</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe59-reference" corresp="goethe59">
+            <title>Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (29. Ex.)</title>
+            <author>Goethe, Johann Wolfgang</author>
+            <author>Papadopoulos, I&#x14D;ann&#x113;s (&#xDC;bers.)</author>
+            <author>
+              <rs type="person" key="gnd_117344257">Weller, Christian Friedrich Ernst</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7005973">Jena</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe60-reference" corresp="goethe60">
+            <title>Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (30. Ex.)</title>
+            <author>Goethe, Johann Wolfgang</author>
+            <author>Papadopoulos, I&#x14D;ann&#x113;s (&#xDC;bers.)</author>
+            <author>
+              <rs type="person" key="gnd_117344257">Weller, Christian Friedrich Ernst</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7005973">Jena</rs>
+            </pubPlace>
+          </bibl>
+          <bibl xml:id="goethe61-reference" corresp="goethe61">
+            <title>Metrische griechische &#xDC;bersetzung des zweiten Gesanges (v. 1-273) von Goethes Hermann und Dorothea: mit beigef&#xFC;gtem Original und latein. Uebersetzung von Fischer. Einladungsschrift zu den am 1. 2. und 3. April 1830 anzustellenden &#xF6;ffentlichen Pr&#xFC;fungen und Rede&#xFC;bungen</title>
+            <author>Goethe, Johann Wolfgang</author>
+            <author>Fischer, Benjamin Gottlob (&#xDC;bers.)</author>
+            <author>Winckler, Heinrich Arnold Wilhelm (&#xDC;bers.)</author>
+            <author>
+              <rs type="person" key="gnd_117399817">Winckler, Heinrich Arnold Wilhelm</rs>
+            </author>
+            <pubPlace>
+              <rs type="place" key="getty_7004429">Gie&#xDF;en</rs>
+            </pubPlace>
+          </bibl>
+        </listBibl>
+      </div>
+    </body>
+  </text>
+</TEI>

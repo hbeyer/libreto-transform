@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+  <metadata>
+    <heading>Bibliothek des Heinrich Bernhard Schrader zu Schliestedt</heading>
+    <description>Abstract</description>
+    <base>http://diglib.hab.de/drucke/bc-sbd-10-3s/start.htm?image=</base>
+    <title>Apparatus librorum</title>
+    <year>1775</year>
+    <institution>HAB</institution>
+    <shelfmark>M: Bc 1982</shelfmark>
+  </metadata>
+  <item>
+    <id>schrader0</id>
+    <pageCat>2</pageCat>
+    <imageCat>9</imageCat>
+    <numberCat>1</numberCat>
+    <itemInVolume>0</itemInVolume>
+    <volumes>8</volumes>
+    <titleCat>Biblia Regia 8 Voll. Antw. Plantijn</titleCat>
+    <catEntries>
+      <catalogue_entry>
+        <idCat>cat1</idCat>
+        <titleCat>Biblia Regia 8 Voll. Antw. Plantijn</titleCat>
+        <numberCat>1</numberCat>
+        <pageCat>2</pageCat>
+        <imageCat>9</imageCat>
+        <histSubject>Libri Theologici In Folio</histSubject>
+      </catalogue_entry>
+    </catEntries>
+    <titleBib>Biblia Sacra Hebraice, Chaldaice, Græce, &amp; Latine Philippi II. Reg. Cathol. Pietate, Et Stvdio Ad Sacrosanctæ Ecclesiæ Vsvm</titleBib>
+    <places>
+      <place>
+        <placeName>Antwerpen</placeName>
+        <geoNames>2803138</geoNames>
+        <geoData>
+          <lat>51.21989</lat>
+          <long>4.40346</long>
+        </geoData>
+      </place>
+    </places>
+    <publishers>
+      <publisher>Plantin, Christophe</publisher>
+    </publishers>
+    <publishersObj>
+      <publisher>
+        <name>Plantin, Christophe</name>
+        <gnd>118741004</gnd>
+      </publisher>
+    </publishersObj>
+    <histSubject>Libri Theologici In Folio</histSubject>
+    <genres>
+      <genre>Bibel</genre>
+    </genres>
+    <languages>
+      <language>heb</language>
+      <language>arc</language>
+      <language>grc</language>
+      <language>syr</language>
+    </languages>
+    <manifestation>
+      <systemManifestation>GBV</systemManifestation>
+      <idManifestation>150613253</idManifestation>
+    </manifestation>
+    <bound>1</bound>
+    <idCat>cat1</idCat>
+  </item>
+  <item>
+    <id>schrader1</id>
+    <numberCat>2</numberCat>
+    <itemInVolume>0</itemInVolume>
+    <volumes>1</volumes>
+    <titleCat>Bilia Græca. Romæ 87</titleCat>
+    <catEntries>
+      <catalogue_entry>
+        <titleCat>Bilia Græca. Romæ 87</titleCat>
+        <numberCat>2</numberCat>
+      </catalogue_entry>
+    </catEntries>
+    <titleBib>Vetus Testamentum Iuxta Septuaginta</titleBib>
+    <places>
+      <place>
+        <placeName>Rom</placeName>
+        <geoNames>3169070</geoNames>
+        <geoData>
+          <lat>41.89193</lat>
+          <long>12.51133</long>
+        </geoData>
+      </place>
+    </places>
+    <publishers>
+      <publisher>Francesco Zanetti</publisher>
+    </publishers>
+    <publishersObj>
+      <publisher>
+        <name>Francesco Zanetti</name>
+        <gnd>1037555295</gnd>
+      </publisher>
+    </publishersObj>
+    <year>1587</year>
+    <format>2°</format>
+    <genres>
+      <genre>Bibel</genre>
+    </genres>
+    <languages>
+      <language>grc</language>
+    </languages>
+    <bound>1</bound>
+  </item>
+  <item>
+    <id>schrader2</id>
+    <numberCat>2</numberCat>
+    <itemInVolume>0</itemInVolume>
+    <volumes>1</volumes>
+    <titleCat>Biblia Interliniata. Montani. Gen. 1607</titleCat>
+    <catEntries>
+      <catalogue_entry>
+        <titleCat>Biblia Interliniata. Montani. Gen. 1607</titleCat>
+        <numberCat>2</numberCat>
+      </catalogue_entry>
+    </catEntries>
+    <publishers>
+      <publisher>Montanus</publisher>
+    </publishers>
+    <year>1607</year>
+    <format>2°</format>
+    <genres>
+      <genre>Bibel</genre>
+    </genres>
+    <bound>1</bound>
+  </item>
+  <item>
+    <id>schrader3</id>
+    <numberCat>1</numberCat>
+    <itemInVolume>0</itemInVolume>
+    <volumes>1</volumes>
+    <titleCat>Opera Ciceronis 2 Vol. Bas. 40</titleCat>
+    <catEntries>
+      <catalogue_entry>
+        <titleCat>Opera Ciceronis 2 Vol. Bas. 40</titleCat>
+        <numberCat>1</numberCat>
+      </catalogue_entry>
+    </catEntries>
+    <titleBib>OPERA || MARCI TVLLII CICERONIS || QVOTQVOT AB INTERITV VINDICARI || SVMMORVM VIRORVM INDVSTRIA POTVERVNT,|| cùm ueterum exemplarium, tùm recentiorum collatione restituta,|| Et recognitione Ioachimi CAMERARII Pabergen/||sis elaborata ... || Accesserunt Castigationes Petri VICTORII, Rerum &amp; uerborum INDEX || copiosus, ANNOTATIONES quo#[que] uariorum codicum ad eum || modum tractatae</titleBib>
+    <places>
+      <place>
+        <placeName>Basel</placeName>
+        <geoNames>2661604</geoNames>
+        <geoData>
+          <lat>47.55839</lat>
+          <long>7.57327</long>
+        </geoData>
+      </place>
+    </places>
+    <publishers>
+      <publisher>Herwagen, Johannes d.Ä.</publisher>
+    </publishers>
+    <publishersObj>
+      <publisher>
+        <name>Herwagen, Johannes d.Ä.</name>
+        <gnd>119707950</gnd>
+      </publisher>
+    </publishersObj>
+    <year>1540</year>
+    <format>2°</format>
+    <subjects>
+      <subject>Altertumskunde</subject>
+    </subjects>
+    <languages>
+      <language>lat</language>
+    </languages>
+    <manifestation>
+      <systemManifestation>VD16</systemManifestation>
+      <idManifestation>C 2816</idManifestation>
+    </manifestation>
+    <bound>1</bound>
+  </item>
+  <item>
+    <id>schrader4</id>
+    <numberCat>2</numberCat>
+    <itemInVolume>0</itemInVolume>
+    <volumes>1</volumes>
+    <titleCat>Orationes Philippicae cum explicationibus Caelij Curionis, &amp;c. Bas. 51</titleCat>
+    <catEntries>
+      <catalogue_entry>
+        <titleCat>Orationes Philippicae cum explicationibus Caelij Curionis, &amp;c. Bas. 51</titleCat>
+        <numberCat>2</numberCat>
+      </catalogue_entry>
+    </catEntries>
+    <titleBib>M.TVLLII CICERO-||NIS PHILIPPICAE ORATIONES XIIII || IN M.ANTONIVM, A CAELIO SECVNDO CVRIONE POST || omnes omnium castigationes diligentius emendatae:|| &amp; nouis, ijsʻ#[que] perpetuis explicatio=||nibus illustratae.|| HIS accessere Orationes quatuor, ad Philippicarum argumen||tum pertinentes, ex Dione historico, eodem Caelio Secundo Cu||rione interprete &amp; explicatore</titleBib>
+    <places>
+      <place>
+        <placeName>Basel</placeName>
+        <geoNames>2661604</geoNames>
+        <geoData>
+          <lat>47.55839</lat>
+          <long>7.57327</long>
+        </geoData>
+      </place>
+    </places>
+    <publishers>
+      <publisher>Froben, Hieronymus</publisher>
+      <publisher>Episcopius, Nicolaus</publisher>
+    </publishers>
+    <publishersObj>
+      <publisher>
+        <name>Froben, Hieronymus</name>
+        <gnd>119678365</gnd>
+      </publisher>
+      <publisher>
+        <name>Episcopius, Nicolaus</name>
+        <gnd>128686634</gnd>
+      </publisher>
+    </publishersObj>
+    <year>1551</year>
+    <format>2°</format>
+    <subjects>
+      <subject>Altertumskunde</subject>
+    </subjects>
+    <genres>
+      <genre>Rede</genre>
+    </genres>
+    <languages>
+      <language>lat</language>
+    </languages>
+    <manifestation>
+      <systemManifestation>VD16</systemManifestation>
+      <idManifestation>C 3544</idManifestation>
+    </manifestation>
+    <bound>1</bound>
+  </item>
+</collection>

@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+  <metadata>
+    <heading>Bücher des H. B. Schrader zu Schliestedt</heading>
+    <owner>Schrader zu Schliestedt, Heinrich Bernhard</owner>
+    <ownerGND>123456789</ownerGND>
+    <description>Abstract</description>
+    <geoBrowserStorageID>783994</geoBrowserStorageID>
+    <creatorReconstruction>Workshop Libreto</creatorReconstruction>
+    <yearReconstruction>2019</yearReconstruction>
+    <base>http://diglib.hab.de/drucke/bc-1982/start.htm?image=</base>
+    <title>Apparatus librorum</title>
+    <placeCat>Braunschweig</placeCat>
+    <year>1775</year>
+    <institution>HAB</institution>
+    <shelfmark>M: Bc 1982</shelfmark>
+    <fileName>example</fileName>
+  </metadata>
+  <item>
+    <id>example0</id>
+    <pageCat>1</pageCat>
+    <imageCat>9</imageCat>
+    <numberCat>1</numberCat>
+    <itemInVolume>0</itemInVolume>
+    <volumes>1</volumes>
+    <titleCat>Bartol. A Saxoferrato consilia, Lugdun 546. Schw. L.</titleCat>
+    <catEntries>
+      <catalogue_entry>
+        <idCat>cat1</idCat>
+        <titleCat>Bartol. A Saxoferrato consilia, Lugdun 546. Schw. L.</titleCat>
+        <numberCat>1</numberCat>
+        <pageCat>1</pageCat>
+        <imageCat>9</imageCat>
+        <histSubject>An Büchern. In Folio</histSubject>
+      </catalogue_entry>
+    </catEntries>
+    <titleBib>Consilia Bartoli Saxoferratei, ad omne genus causarum nodos dissolvendos, &amp; forenses commodè lites devitandas, aut easdem aptè &amp; utiliter instituendas, suscipiendàsue, mirè profutura, ac penè necessaria : quàm ante hac usquàm &amp; auctiora, &amp; venustiora reddita. Quibus Quaestionum, Tractatuum, Sermonum, &amp;id genus molem integram substruximus</titleBib>
+    <persons>
+      <person>
+        <persName>Bartolus de Saxoferrato</persName>
+        <gnd>118652885</gnd>
+        <role>author</role>
+        <beacon>
+          <beacon>ddb</beacon>
+          <beacon>wkp</beacon>
+          <beacon>trithemius</beacon>
+          <beacon>fabricius</beacon>
+          <beacon>kall</beacon>
+          <beacon>dpi</beacon>
+          <beacon>vkk</beacon>
+          <beacon>vd16</beacon>
+        </beacon>
+      </person>
+    </persons>
+    <places>
+      <place>
+        <placeName>Lyon</placeName>
+        <geoNames>2996944</geoNames>
+        <geoData>
+          <lat>45.74846</lat>
+          <long>4.84671</long>
+        </geoData>
+      </place>
+    </places>
+    <publishers>
+      <publisher>Senneton, Jacques &amp; Jean</publisher>
+    </publishers>
+    <year>1546</year>
+    <format>2°</format>
+    <histSubject>An Büchern. In Folio</histSubject>
+    <subjects>
+      <subject>Jurisprudenz</subject>
+    </subjects>
+    <genres>
+      <genre>Consilia</genre>
+    </genres>
+    <mediaType>Druck</mediaType>
+    <languages>
+      <language>lat</language>
+    </languages>
+    <manifestation>
+      <systemManifestation>SUDOC</systemManifestation>
+      <idManifestation>190358432</idManifestation>
+    </manifestation>
+    <bound>1</bound>
+  </item>
+  <item>
+    <id>example1</id>
+    <pageCat>1</pageCat>
+    <imageCat>9</imageCat>
+    <numberCat>2</numberCat>
+    <itemInVolume>0</itemInVolume>
+    <volumes>1</volumes>
+    <titleCat>iac. Bonfrerii, onomasticon urbium &amp; Locor-Sacræ Scriptur. Amstelod 707 P. B.</titleCat>
+    <catEntries>
+      <catalogue_entry>
+        <idCat>cat1</idCat>
+        <titleCat>iac. Bonfrerii, onomasticon urbium &amp; Locor-Sacræ Scriptur. Amstelod 707 P. B.</titleCat>
+        <numberCat>2</numberCat>
+        <pageCat>1</pageCat>
+        <imageCat>9</imageCat>
+        <histSubject>An Büchern. In Folio</histSubject>
+      </catalogue_entry>
+    </catEntries>
+    <titleBib>Onomasticon Urbium Et Locorum Sacræ Scripturæ: Sev Liber De Locis Hebraicis / Græcè primùm ab Eusebio Cæsariensi, Deinde Latinè Scriptus ab Hieronymo, In commodiorem verò ordinem redactus ... Tabulâ Geographicâ Judææ illustratus, Operâ Iacobi Bonfrerii S. J. Recensuit &amp; animadversionibus suis auxit Joannes Clericus. Accessit huic Editioni Brocardi Monachi, Ex Ordine Prædicatorum, Descriptio Terræ Sanctæ</titleBib>
+    <persons>
+      <person>
+        <persName>Eusebius Caesariensis</persName>
+        <gnd>118531425</gnd>
+        <role>author</role>
+        <beacon>
+          <beacon>ddb</beacon>
+          <beacon>wkp</beacon>
+          <beacon>trithemius</beacon>
+          <beacon>fabricius</beacon>
+          <beacon>jen</beacon>
+          <beacon>sandrart</beacon>
+          <beacon>kall</beacon>
+          <beacon>berlin1800</beacon>
+          <beacon>dpi</beacon>
+          <beacon>vd16</beacon>
+          <beacon>ecod</beacon>
+          <beacon>jdg</beacon>
+        </beacon>
+      </person>
+      <person>
+        <persName>Bonfrère, Jacques</persName>
+        <gnd>139265058</gnd>
+        <role>contributor</role>
+        <beacon>
+          <beacon>ddb</beacon>
+          <beacon>db</beacon>
+        </beacon>
+      </person>
+      <person>
+        <persName>Le Clerc, Jean</persName>
+        <gnd>119512947</gnd>
+        <role>contributor</role>
+        <beacon>
+          <beacon>ddb</beacon>
+          <beacon>wkp</beacon>
+          <beacon>hls</beacon>
+          <beacon>kall</beacon>
+          <beacon>berlin1800</beacon>
+          <beacon>dpi</beacon>
+          <beacon>vkk</beacon>
+          <beacon>gpd</beacon>
+          <beacon>jdg</beacon>
+          <beacon>aqhab</beacon>
+        </beacon>
+      </person>
+    </persons>
+    <places>
+      <place>
+        <placeName>Amsterdam</placeName>
+        <geoNames>2759794</geoNames>
+        <geoData>
+          <lat>52.37403</lat>
+          <long>4.88969</long>
+        </geoData>
+      </place>
+    </places>
+    <publishers>
+      <publisher>Halma, François</publisher>
+    </publishers>
+    <year>1707</year>
+    <format>2°</format>
+    <histSubject>An Büchern. In Folio</histSubject>
+    <subjects>
+      <subject>Bibelkunde</subject>
+    </subjects>
+    <genres>
+      <genre>Namenslexikon</genre>
+    </genres>
+    <mediaType>Druck</mediaType>
+    <languages>
+      <language>lat</language>
+    </languages>
+    <manifestation>
+      <systemManifestation>GBV</systemManifestation>
+      <idManifestation>150566379</idManifestation>
+    </manifestation>
+    <bound>1</bound>
+  </item>
+  <item>
+    <id>example2</id>
+    <pageCat>1</pageCat>
+    <imageCat>9</imageCat>
+    <numberCat>3</numberCat>
+    <itemInVolume>0</itemInVolume>
+    <volumes>1</volumes>
+    <titleCat>Corpus jur. civil. cum not. Dionys. Gothofredi S. Gervasii 602. T I. II. Schw. L.</titleCat>
+    <catEntries>
+      <catalogue_entry>
+        <idCat>cat1</idCat>
+        <titleCat>Corpus jur. civil. cum not. Dionys. Gothofredi S. Gervasii 602. T I. II. Schw. L.</titleCat>
+        <numberCat>3</numberCat>
+        <pageCat>1</pageCat>
+        <imageCat>9</imageCat>
+        <histSubject>An Büchern. In Folio</histSubject>
+      </catalogue_entry>
+    </catEntries>
+    <titleBib>Corpvs Iuris Ciuilis, In quinque partes distinctum : Qvarvm Prima, Historia iuris à Justiniano compositi, Institutionum Libri IIII, Epitome Institutionum, Degestorum seu Pandectarum Libri L. continentur. Quæ reliquis partibus includantur, quinta docebit pagina / His Accesservnt Notæ Repetitæ Tertiæ - que lectionis, Dionysio Gothofredo IC.</titleBib>
+    <persons>
+      <person>
+        <persName>Justinianus I.</persName>
+        <gnd>11855896X</gnd>
+        <role>author</role>
+        <beacon>
+          <beacon>ddb</beacon>
+          <beacon>apd</beacon>
+          <beacon>wkp</beacon>
+          <beacon>blgs</beacon>
+          <beacon>trithemius</beacon>
+          <beacon>fabricius</beacon>
+          <beacon>sandrart</beacon>
+          <beacon>kall</beacon>
+          <beacon>dpi</beacon>
+          <beacon>vkk</beacon>
+          <beacon>jdg</beacon>
+        </beacon>
+      </person>
+    </persons>
+    <places>
+      <place>
+        <placeName>Saint-Gervais</placeName>
+        <geoNames>3002499</geoNames>
+        <geoData>
+          <lat>48.88549</lat>
+          <long>2.40422</long>
+        </geoData>
+      </place>
+    </places>
+    <publishers>
+      <publisher>Vignon, Eustache, Erben</publisher>
+    </publishers>
+    <year>1602</year>
+    <format>2°</format>
+    <histSubject>An Büchern. In Folio</histSubject>
+    <subjects>
+      <subject>Jurisprudenz</subject>
+    </subjects>
+    <genres>
+      <genre>Kodifikation</genre>
+    </genres>
+    <mediaType>Druck</mediaType>
+    <languages>
+      <language>lat</language>
+    </languages>
+    <manifestation>
+      <systemManifestation>GBV</systemManifestation>
+      <idManifestation>63120430X</idManifestation>
+    </manifestation>
+    <bound>1</bound>
+  </item>
+  <item>
+    <id>example3</id>
+    <pageCat>1</pageCat>
+    <imageCat>9</imageCat>
+    <numberCat>5</numberCat>
+    <itemInVolume>0</itemInVolume>
+    <volumes>1</volumes>
+    <titleCat>Ioh. Buxtorfii, Tiberias sive Commentar. musorethicus triplex ad illustrat. oper. bibl. Basil. conscript. Basil. 665. P. B.</titleCat>
+    <catEntries>
+      <catalogue_entry>
+        <idCat>cat1</idCat>
+        <titleCat>Ioh. Buxtorfii, Tiberias sive Commentar. musorethicus triplex ad illustrat. oper. bibl. Basil. conscript. Basil. 665. P. B.</titleCat>
+        <numberCat>5</numberCat>
+        <pageCat>1</pageCat>
+        <imageCat>9</imageCat>
+        <histSubject>An Büchern. In Folio</histSubject>
+      </catalogue_entry>
+    </catEntries>
+    <titleBib>Johannis Buxtorfi[i] P. Tiberias Sive Commentarius Masorethicus Triplex Historicus, Didacticus, Criticus : Ad illustrationem Operis Biblici Basiliensis conscriptus, Quo Primum Historia Masoretharum Tiberiensium ... explicatur: Secundo Clavis Masorae Traditur ... Tertio Castigationes Innumerorum mendorum per universam Masoram proponuntur / Recognitus, &amp; additamentis non paucis hinc inde locupletatus a Johanne Buxtorfio Fil. Editionem hancce novam accurante Johan. Jacobo Buxtorfio Joh. Fil. Joh. Nep</titleBib>
+    <persons>
+      <person>
+        <persName>Buxtorf, Johann</persName>
+        <gnd>119354780</gnd>
+        <role>author</role>
+        <beacon>
+          <beacon>ddb</beacon>
+          <beacon>apd</beacon>
+          <beacon>wkp</beacon>
+          <beacon>db</beacon>
+          <beacon>hls</beacon>
+          <beacon>jen</beacon>
+          <beacon>gesa</beacon>
+          <beacon>sandrart</beacon>
+          <beacon>kall</beacon>
+          <beacon>dpi</beacon>
+          <beacon>gpd</beacon>
+          <beacon>vd16</beacon>
+          <beacon>jdg</beacon>
+        </beacon>
+      </person>
+    </persons>
+    <places>
+      <place>
+        <placeName>Basel</placeName>
+        <geoNames>2661604</geoNames>
+        <geoData>
+          <lat>47.55839</lat>
+          <long>7.57327</long>
+        </geoData>
+      </place>
+    </places>
+    <year>1665</year>
+    <format>2°</format>
+    <histSubject>An Büchern. In Folio</histSubject>
+    <subjects>
+      <subject>Bibelkunde</subject>
+    </subjects>
+    <genres>
+      <genre>Kommentar</genre>
+    </genres>
+    <mediaType>Druck</mediaType>
+    <languages>
+      <language>lat</language>
+    </languages>
+    <manifestation>
+      <systemManifestation>VD17</systemManifestation>
+      <idManifestation>12:121708U</idManifestation>
+    </manifestation>
+    <bound>1</bound>
+  </item>
+  <item>
+    <id>example4</id>
+    <pageCat>1</pageCat>
+    <imageCat>9</imageCat>
+    <numberCat>6</numberCat>
+    <itemInVolume>0</itemInVolume>
+    <volumes>1</volumes>
+    <titleCat>Ioh. Harduini conciliorum collectio regia maxima ad Phil. Labbei &amp; Gabriel. Cossartii I. labores cum Suppl. Paris 715. Tom. I-XII. v. L.</titleCat>
+    <catEntries>
+      <catalogue_entry>
+        <idCat>cat1</idCat>
+        <titleCat>Ioh. Harduini conciliorum collectio regia maxima ad Phil. Labbei &amp; Gabriel. Cossartii I. labores cum Suppl. Paris 715. Tom. I-XII. v. L.</titleCat>
+        <numberCat>6</numberCat>
+        <pageCat>1</pageCat>
+        <imageCat>9</imageCat>
+        <histSubject>An Büchern. In Folio</histSubject>
+      </catalogue_entry>
+    </catEntries>
+    <titleBib>Conciliorum Collectio Regia Maxima, ad Philippi Labbei et Gabrielis Cossartu labores haud modica accessione facta, et emendationibus plurimis additis; cum novis Indicibus / Studio Johannis Harduini, sive Acta Conciliorum, et Epistolae Decretales, ac Constitutiones Summorum Pontificum</titleBib>
+    <persons>
+      <person>
+        <persName>Hardouin, Jean</persName>
+        <gnd>122664485</gnd>
+        <role>author</role>
+        <beacon>
+          <beacon>ddb</beacon>
+          <beacon>wkp</beacon>
+          <beacon>berlin1800</beacon>
+        </beacon>
+      </person>
+    </persons>
+    <places>
+      <place>
+        <placeName>Paris</placeName>
+        <geoNames>2988507</geoNames>
+        <geoData>
+          <lat>48.85341</lat>
+          <long>2.3488</long>
+        </geoData>
+      </place>
+    </places>
+    <publishers>
+      <publisher>Typographia Regia</publisher>
+    </publishers>
+    <year>1715</year>
+    <format>2°</format>
+    <histSubject>An Büchern. In Folio</histSubject>
+    <subjects>
+      <subject>Kirchengeschichte</subject>
+    </subjects>
+    <genres>
+      <genre>Quellenedition</genre>
+    </genres>
+    <mediaType>Druck</mediaType>
+    <languages>
+      <language>lat</language>
+      <language>grc</language>
+    </languages>
+    <manifestation>
+      <systemManifestation>GBV</systemManifestation>
+      <idManifestation>223082406</idManifestation>
+    </manifestation>
+    <bound>1</bound>
+  </item>
+  <item>
+    <id>example5</id>
+    <pageCat>1</pageCat>
+    <imageCat>9</imageCat>
+    <numberCat>19</numberCat>
+    <itemInVolume>0</itemInVolume>
+    <volumes>1</volumes>
+    <titleCat>Fr. Lamkischen deutsche, hebräische und griechische Concordanz, Bibel, Leipzig und Frankfurth 705. Schw. L.</titleCat>
+    <catEntries>
+      <catalogue_entry>
+        <idCat>cat1</idCat>
+        <titleCat>Fr. Lamkischen deutsche, hebräische und griechische Concordanz, Bibel, Leipzig und Frankfurth 705. Schw. L.</titleCat>
+        <numberCat>19</numberCat>
+        <pageCat>1</pageCat>
+        <imageCat>9</imageCat>
+        <histSubject>An Büchern. In Folio</histSubject>
+      </catalogue_entry>
+    </catEntries>
+    <titleBib>Concordantiæ Bibliorum Germanico-Hebraico-Græcæ = Deutsche, Hebräische und Griechische Concordantz-Bibel Oder Vollständige Anweisung aller Wörter, welche in der gantzen H. Schrifft ... fürkommen, Wo und wie offt dieselben gefunden, und auff unterschiedliche Art gebrauchet worden ; Auff gnädigste Verordnung und Beförderung, Des Durchlauchtigsten Fürsten und Herrn, Herrn Ernsts, Hertzogen zu Sachsen, ... In diese gantz neue und beqveme Form, mit vieler Mühe und grossem Fleiß zusammen gebracht und abgefasset / von M. Friedrich Lanckischen. Vormahls mit eine Vorrede des Chur-Fürstl. Sächsischen Oberhoff-Predigers, Beichtvaters und Kirchen-Raths Herrn D. Martini Geieri, zuerst heraus gegeben</titleBib>
+    <persons>
+      <person>
+        <persName>Lanckisch, Friedrich</persName>
+        <gnd>12403909X</gnd>
+        <role>author</role>
+        <beacon>
+          <beacon>ddb</beacon>
+          <beacon>db</beacon>
+          <beacon>gesa</beacon>
+          <beacon>dpi</beacon>
+          <beacon>vkk</beacon>
+          <beacon>gpa</beacon>
+        </beacon>
+      </person>
+    </persons>
+    <places>
+      <place>
+        <placeName>Leipzig</placeName>
+        <geoNames>2879139</geoNames>
+        <geoData>
+          <lat>51.33962</lat>
+          <long>12.37129</long>
+        </geoData>
+      </place>
+      <place>
+        <placeName>Frankfurt am Main</placeName>
+        <geoNames>2925533</geoNames>
+        <geoData>
+          <lat>50.11552</lat>
+          <long>8.68417</long>
+        </geoData>
+      </place>
+    </places>
+    <publishers>
+      <publisher>Friedrich Lanckischens Erben</publisher>
+      <publisher>Richter, Johann Heinrich</publisher>
+    </publishers>
+    <year>1705</year>
+    <format>2°</format>
+    <histSubject>An Büchern. In Folio</histSubject>
+    <subjects>
+      <subject>Bibelkunde</subject>
+    </subjects>
+    <genres>
+      <genre>Konkordanz</genre>
+    </genres>
+    <mediaType>Druck</mediaType>
+    <languages>
+      <language>ger</language>
+      <language>lat</language>
+      <language>gre</language>
+    </languages>
+    <manifestation>
+      <systemManifestation>VD18</systemManifestation>
+      <idManifestation>10419063</idManifestation>
+    </manifestation>
+    <bound>1</bound>
+  </item>
+  <item>
+    <id>example6</id>
+    <pageCat>1</pageCat>
+    <imageCat>9</imageCat>
+    <numberCat>19</numberCat>
+    <itemInVolume>0</itemInVolume>
+    <volumes>1</volumes>
+    <titleCat>Io. Foy-Vaillant Numismata ærea Imperator. Augustar. &amp; Cæsar. in Coloniis &amp;c. percussa P. I. II. Paris 697. P. B.</titleCat>
+    <catEntries>
+      <catalogue_entry>
+        <idCat>cat1</idCat>
+        <titleCat>Io. Foy-Vaillant Numismata ærea Imperator. Augustar. &amp; Cæsar. in Coloniis &amp;c. percussa P. I. II. Paris 697. P. B.</titleCat>
+        <numberCat>19</numberCat>
+        <pageCat>1</pageCat>
+        <imageCat>9</imageCat>
+        <histSubject>An Büchern. In Folio</histSubject>
+      </catalogue_entry>
+    </catEntries>
+    <titleBib>Numismata aerea imperatorum, Augustarum et Caesarum in coloniis, municipiis et urbibus jure latio donatis, ex omni modulo percussa</titleBib>
+    <persons>
+      <person>
+        <persName>Vaillant, Jean Foy</persName>
+        <gnd>124498094</gnd>
+        <role>author</role>
+        <beacon>
+          <beacon>ddb</beacon>
+          <beacon>kall</beacon>
+          <beacon>berlin1800</beacon>
+          <beacon>dpi</beacon>
+        </beacon>
+      </person>
+    </persons>
+    <places>
+      <place>
+        <placeName>Paris</placeName>
+        <geoNames>2988507</geoNames>
+        <geoData>
+          <lat>48.85341</lat>
+          <long>2.3488</long>
+        </geoData>
+      </place>
+    </places>
+    <publishers>
+      <publisher>D. Horthemeb</publisher>
+    </publishers>
+    <year>1697</year>
+    <format>2°</format>
+    <histSubject>An Büchern. In Folio</histSubject>
+    <subjects>
+      <subject>Numismatik</subject>
+    </subjects>
+    <genres>
+      <genre>Katalog</genre>
+    </genres>
+    <mediaType>Druck</mediaType>
+    <languages>
+      <language>lat</language>
+    </languages>
+    <manifestation>
+      <systemManifestation>SUDOC</systemManifestation>
+      <idManifestation>85029319</idManifestation>
+    </manifestation>
+    <bound>1</bound>
+  </item>
+  <item>
+    <id>example7</id>
+    <pageCat>1</pageCat>
+    <imageCat>9</imageCat>
+    <numberCat>20</numberCat>
+    <itemInVolume>0</itemInVolume>
+    <volumes>1</volumes>
+    <titleCat>Bartol. A Saxoferrato oper. Sup. Digest. Vet. Basil. 589. Schw. L.</titleCat>
+    <catEntries>
+      <catalogue_entry>
+        <idCat>cat1</idCat>
+        <titleCat>Bartol. A Saxoferrato oper. Sup. Digest. Vet. Basil. 589. Schw. L.</titleCat>
+        <numberCat>20</numberCat>
+        <pageCat>1</pageCat>
+        <imageCat>9</imageCat>
+        <histSubject>An Büchern. In Folio</histSubject>
+      </catalogue_entry>
+    </catEntries>
+    <titleBib>Super Digestum Vetum Commentaria, cum additionibus excell. Iltorum</titleBib>
+    <persons>
+      <person>
+        <persName>Bartolus de Saxoferrato</persName>
+        <gnd>118652885</gnd>
+        <role>author</role>
+        <beacon>
+          <beacon>ddb</beacon>
+          <beacon>wkp</beacon>
+          <beacon>trithemius</beacon>
+          <beacon>fabricius</beacon>
+          <beacon>kall</beacon>
+          <beacon>dpi</beacon>
+          <beacon>vkk</beacon>
+          <beacon>vd16</beacon>
+        </beacon>
+      </person>
+    </persons>
+    <places>
+      <place>
+        <placeName>Basel</placeName>
+        <geoNames>2661604</geoNames>
+        <geoData>
+          <lat>47.55839</lat>
+          <long>7.57327</long>
+        </geoData>
+      </place>
+    </places>
+    <publishers>
+      <publisher>Episcopius, Eusebius</publisher>
+    </publishers>
+    <year>1589</year>
+    <format>2°</format>
+    <histSubject>An Büchern. In Folio</histSubject>
+    <subjects>
+      <subject>Jurisprudenz</subject>
+    </subjects>
+    <genres>
+      <genre>Kommentar</genre>
+    </genres>
+    <mediaType>Druck</mediaType>
+    <languages>
+      <language>lat</language>
+    </languages>
+    <manifestation>
+      <systemManifestation>GBV</systemManifestation>
+      <idManifestation>305720775</idManifestation>
+    </manifestation>
+    <bound>1</bound>
+  </item>
+  <item>
+    <id>example8</id>
+    <pageCat>1</pageCat>
+    <imageCat>9</imageCat>
+    <numberCat>21</numberCat>
+    <itemInVolume>0</itemInVolume>
+    <volumes>1</volumes>
+    <titleCat>ejusdem Commentar. in prim. part. infort. Basil 588. Schw. L.</titleCat>
+    <catEntries>
+      <catalogue_entry>
+        <idCat>cat1</idCat>
+        <titleCat>ejusdem Commentar. in prim. part. infort. Basil 588. Schw. L.</titleCat>
+        <numberCat>21</numberCat>
+        <pageCat>1</pageCat>
+        <imageCat>9</imageCat>
+        <histSubject>An Büchern. In Folio</histSubject>
+      </catalogue_entry>
+    </catEntries>
+    <titleBib>Super Infortiatum Commentaria, cum adnott. doctissimor. Iltorum</titleBib>
+    <persons>
+      <person>
+        <persName>Bartolus de Saxoferrato</persName>
+        <gnd>118652885</gnd>
+        <role>author</role>
+        <beacon>
+          <beacon>ddb</beacon>
+          <beacon>wkp</beacon>
+          <beacon>trithemius</beacon>
+          <beacon>fabricius</beacon>
+          <beacon>kall</beacon>
+          <beacon>dpi</beacon>
+          <beacon>vkk</beacon>
+          <beacon>vd16</beacon>
+        </beacon>
+      </person>
+    </persons>
+    <places>
+      <place>
+        <placeName>Basel</placeName>
+        <geoNames>2661605</geoNames>
+        <geoData>
+          <lat>47.66868</lat>
+          <long>8.74821</long>
+        </geoData>
+      </place>
+    </places>
+    <publishers>
+      <publisher>Episcopius, Eusebius</publisher>
+    </publishers>
+    <year>1588</year>
+    <format>2°</format>
+    <histSubject>An Büchern. In Folio</histSubject>
+    <subjects>
+      <subject>Jurisprudenz</subject>
+    </subjects>
+    <genres>
+      <genre>Kommentar</genre>
+    </genres>
+    <mediaType>Druck</mediaType>
+    <languages>
+      <language>lat</language>
+    </languages>
+    <manifestation>
+      <systemManifestation>GBV</systemManifestation>
+      <idManifestation>305721216</idManifestation>
+    </manifestation>
+    <bound>1</bound>
+  </item>
+  <item>
+    <id>example9</id>
+    <pageCat>1</pageCat>
+    <imageCat>9</imageCat>
+    <numberCat>22</numberCat>
+    <itemInVolume>0</itemInVolume>
+    <volumes>1</volumes>
+    <titleCat>ejusd. Commentar. iu. prim. part. Dig. Novi Basil. 588. Schw. L.</titleCat>
+    <catEntries>
+      <catalogue_entry>
+        <idCat>cat1</idCat>
+        <titleCat>ejusd. Commentar. iu. prim. part. Dig. Novi Basil. 588. Schw. L.</titleCat>
+        <numberCat>22</numberCat>
+        <pageCat>1</pageCat>
+        <imageCat>9</imageCat>
+        <histSubject>An Büchern. In Folio</histSubject>
+      </catalogue_entry>
+    </catEntries>
+    <titleBib>In I. Partem Digesti Novi Bartoli À Saxoferrato Commentaria : Cum Adnotationibvs …</titleBib>
+    <persons>
+      <person>
+        <persName>Bartolus de Saxoferrato</persName>
+        <gnd>118652885</gnd>
+        <role>author</role>
+        <beacon>
+          <beacon>ddb</beacon>
+          <beacon>wkp</beacon>
+          <beacon>trithemius</beacon>
+          <beacon>fabricius</beacon>
+          <beacon>kall</beacon>
+          <beacon>dpi</beacon>
+          <beacon>vkk</beacon>
+          <beacon>vd16</beacon>
+        </beacon>
+      </person>
+    </persons>
+    <places>
+      <place>
+        <placeName>Basel</placeName>
+        <geoNames>2661606</geoNames>
+        <geoData>
+          <lat>47.05248</lat>
+          <long>9.62401</long>
+        </geoData>
+      </place>
+    </places>
+    <publishers>
+      <publisher>Episcopius, Eusebius</publisher>
+    </publishers>
+    <year>1588</year>
+    <format>2°</format>
+    <histSubject>An Büchern. In Folio</histSubject>
+    <subjects>
+      <subject>Jurisprudenz</subject>
+    </subjects>
+    <genres>
+      <genre>Kommentar</genre>
+    </genres>
+    <mediaType>Druck</mediaType>
+    <languages>
+      <language>lat</language>
+    </languages>
+    <manifestation>
+      <systemManifestation>GBV</systemManifestation>
+      <idManifestation>152990542</idManifestation>
+    </manifestation>
+    <bound>1</bound>
+  </item>
+  <item>
+    <id>example10</id>
+    <pageCat>2</pageCat>
+    <imageCat>10</imageCat>
+    <numberCat>23</numberCat>
+    <itemInVolume>0</itemInVolume>
+    <volumes>1</volumes>
+    <titleCat>Bartol. Commentar. in prim. part. Cod. Basil. 588. Schw. L.</titleCat>
+    <catEntries>
+      <catalogue_entry>
+        <idCat>cat1</idCat>
+        <titleCat>Bartol. Commentar. in prim. part. Cod. Basil. 588. Schw. L.</titleCat>
+        <numberCat>23</numberCat>
+        <pageCat>2</pageCat>
+        <imageCat>10</imageCat>
+        <histSubject>An Büchern. In Folio</histSubject>
+      </catalogue_entry>
+    </catEntries>
+    <titleBib>In I. Partem Codicis Bartoli À Saxoferrato Commentaria</titleBib>
+    <persons>
+      <person>
+        <persName>Bartolus de Saxoferrato</persName>
+        <gnd>118652885</gnd>
+        <role>author</role>
+        <beacon>
+          <beacon>ddb</beacon>
+          <beacon>wkp</beacon>
+          <beacon>trithemius</beacon>
+          <beacon>fabricius</beacon>
+          <beacon>kall</beacon>
+          <beacon>dpi</beacon>
+          <beacon>vkk</beacon>
+          <beacon>vd16</beacon>
+        </beacon>
+      </person>
+    </persons>
+    <places>
+      <place>
+        <placeName>Basel</placeName>
+        <geoNames>2661607</geoNames>
+        <geoData>
+          <lat>47.3822</lat>
+          <long>7.47229</long>
+        </geoData>
+      </place>
+    </places>
+    <publishers>
+      <publisher>Episcopius, Eusebius</publisher>
+    </publishers>
+    <year>1588</year>
+    <format>2°</format>
+    <histSubject>An Büchern. In Folio</histSubject>
+    <subjects>
+      <subject>Jurisprudenz</subject>
+    </subjects>
+    <genres>
+      <genre>Kommentar</genre>
+    </genres>
+    <mediaType>Druck</mediaType>
+    <languages>
+      <language>lat</language>
+    </languages>
+    <manifestation>
+      <systemManifestation>VD16</systemManifestation>
+      <idManifestation>16 B 576 </idManifestation>
+    </manifestation>
+    <bound>1</bound>
+    <comment>VD16-Nummer des übergeordneten Werks</comment>
+    <digitalCopy>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00090368-8</digitalCopy>
+  </item>
+</collection>

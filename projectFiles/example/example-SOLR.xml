@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">example0</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">9</field>
+    <field name="numberCat">1</field>
+    <field name="volumes">1</field>
+    <field name="titleCat">Bartol. A Saxoferrato consilia, Lugdun 546. Schw. L.</field>
+    <field name="titleBib">Consilia Bartoli Saxoferratei, ad omne genus causarum nodos dissolvendos, &amp; forenses commodè lites devitandas, aut easdem aptè &amp; utiliter instituendas, suscipiendàsue, mirè profutura, ac penè necessaria : quàm ante hac usquàm &amp; auctiora, &amp; venustiora reddita. Quibus Quaestionum, Tractatuum, Sermonum, &amp;id genus molem integram substruximus</field>
+    <field name="author">Bartolus de Saxoferrato#118652885</field>
+    <field name="place_1">Lyon</field>
+    <field name="geoNames_place_1">2996944</field>
+    <field name="coordinates_place_1">45.74846,4.84671</field>
+    <field name="publishers">Senneton, Jacques &amp; Jean</field>
+    <field name="year">1546</field>
+    <field name="format">2°</field>
+    <field name="histSubject">An Büchern. In Folio</field>
+    <field name="subjects">Jurisprudenz</field>
+    <field name="genres">Consilia</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">SUDOC</field>
+    <field name="idManifestation">190358432</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">http://www.sudoc.fr/190358432</field>
+    <field name="nameSystemManifestation">Catalogue du Système Universitaire de Documentation (Sudoc)</field>
+    <field name="manifestationFull">SUDOC#190358432</field>
+    <field name="languagesFull">Latein</field>
+    <field name="yearNormalized">1546</field>
+    <field name="owner">Schrader zu Schliestedt, Heinrich Bernhard</field>
+    <field name="ownerGND">123456789</field>
+    <field name="dateCollection">1775</field>
+    <field name="nameCollection">Bücher des H. B. Schrader zu Schliestedt</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783994</field>
+  </doc>
+  <doc>
+    <field name="id">example1</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">9</field>
+    <field name="numberCat">2</field>
+    <field name="volumes">1</field>
+    <field name="titleCat">iac. Bonfrerii, onomasticon urbium &amp; Locor-Sacræ Scriptur. Amstelod 707 P. B.</field>
+    <field name="titleBib">Onomasticon Urbium Et Locorum Sacræ Scripturæ: Sev Liber De Locis Hebraicis / Græcè primùm ab Eusebio Cæsariensi, Deinde Latinè Scriptus ab Hieronymo, In commodiorem verò ordinem redactus ... Tabulâ Geographicâ Judææ illustratus, Operâ Iacobi Bonfrerii S. J. Recensuit &amp; animadversionibus suis auxit Joannes Clericus. Accessit huic Editioni Brocardi Monachi, Ex Ordine Prædicatorum, Descriptio Terræ Sanctæ</field>
+    <field name="author">Eusebius Caesariensis#118531425</field>
+    <field name="contributor">Bonfrère, Jacques#139265058</field>
+    <field name="contributor">Le Clerc, Jean#119512947</field>
+    <field name="place_1">Amsterdam</field>
+    <field name="geoNames_place_1">2759794</field>
+    <field name="coordinates_place_1">52.37403,4.88969</field>
+    <field name="publishers">Halma, François</field>
+    <field name="year">1707</field>
+    <field name="format">2°</field>
+    <field name="histSubject">An Büchern. In Folio</field>
+    <field name="subjects">Bibelkunde</field>
+    <field name="genres">Namenslexikon</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">GBV</field>
+    <field name="idManifestation">150566379</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">http://gso.gbv.de/DB=2.1/PPNSET?PPN=150566379</field>
+    <field name="nameSystemManifestation">Gemeinsamer Bibliotheksverbund (GBV)</field>
+    <field name="manifestationFull">GBV#150566379</field>
+    <field name="languagesFull">Latein</field>
+    <field name="yearNormalized">1707</field>
+    <field name="owner">Schrader zu Schliestedt, Heinrich Bernhard</field>
+    <field name="ownerGND">123456789</field>
+    <field name="dateCollection">1775</field>
+    <field name="nameCollection">Bücher des H. B. Schrader zu Schliestedt</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783994</field>
+  </doc>
+  <doc>
+    <field name="id">example2</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">9</field>
+    <field name="numberCat">3</field>
+    <field name="volumes">1</field>
+    <field name="titleCat">Corpus jur. civil. cum not. Dionys. Gothofredi S. Gervasii 602. T I. II. Schw. L.</field>
+    <field name="titleBib">Corpvs Iuris Ciuilis, In quinque partes distinctum : Qvarvm Prima, Historia iuris à Justiniano compositi, Institutionum Libri IIII, Epitome Institutionum, Degestorum seu Pandectarum Libri L. continentur. Quæ reliquis partibus includantur, quinta docebit pagina / His Accesservnt Notæ Repetitæ Tertiæ - que lectionis, Dionysio Gothofredo IC.</field>
+    <field name="author">Justinianus I.#11855896X</field>
+    <field name="place_1">Saint-Gervais</field>
+    <field name="geoNames_place_1">3002499</field>
+    <field name="coordinates_place_1">48.88549,2.40422</field>
+    <field name="publishers">Vignon, Eustache, Erben</field>
+    <field name="year">1602</field>
+    <field name="format">2°</field>
+    <field name="histSubject">An Büchern. In Folio</field>
+    <field name="subjects">Jurisprudenz</field>
+    <field name="genres">Kodifikation</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">GBV</field>
+    <field name="idManifestation">63120430X</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">http://gso.gbv.de/DB=2.1/PPNSET?PPN=63120430X</field>
+    <field name="nameSystemManifestation">Gemeinsamer Bibliotheksverbund (GBV)</field>
+    <field name="manifestationFull">GBV#63120430X</field>
+    <field name="languagesFull">Latein</field>
+    <field name="yearNormalized">1602</field>
+    <field name="owner">Schrader zu Schliestedt, Heinrich Bernhard</field>
+    <field name="ownerGND">123456789</field>
+    <field name="dateCollection">1775</field>
+    <field name="nameCollection">Bücher des H. B. Schrader zu Schliestedt</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783994</field>
+  </doc>
+  <doc>
+    <field name="id">example3</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">9</field>
+    <field name="numberCat">5</field>
+    <field name="volumes">1</field>
+    <field name="titleCat">Ioh. Buxtorfii, Tiberias sive Commentar. musorethicus triplex ad illustrat. oper. bibl. Basil. conscript. Basil. 665. P. B.</field>
+    <field name="titleBib">Johannis Buxtorfi[i] P. Tiberias Sive Commentarius Masorethicus Triplex Historicus, Didacticus, Criticus : Ad illustrationem Operis Biblici Basiliensis conscriptus, Quo Primum Historia Masoretharum Tiberiensium ... explicatur: Secundo Clavis Masorae Traditur ... Tertio Castigationes Innumerorum mendorum per universam Masoram proponuntur / Recognitus, &amp; additamentis non paucis hinc inde locupletatus a Johanne Buxtorfio Fil. Editionem hancce novam accurante Johan. Jacobo Buxtorfio Joh. Fil. Joh. Nep</field>
+    <field name="author">Buxtorf, Johann#119354780</field>
+    <field name="place_1">Basel</field>
+    <field name="geoNames_place_1">2661604</field>
+    <field name="coordinates_place_1">47.55839,7.57327</field>
+    <field name="year">1665</field>
+    <field name="format">2°</field>
+    <field name="histSubject">An Büchern. In Folio</field>
+    <field name="subjects">Bibelkunde</field>
+    <field name="genres">Kommentar</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">VD17</field>
+    <field name="idManifestation">12:121708U</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=12:121708U</field>
+    <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)</field>
+    <field name="manifestationFull">VD17#12:121708U</field>
+    <field name="languagesFull">Latein</field>
+    <field name="yearNormalized">1665</field>
+    <field name="owner">Schrader zu Schliestedt, Heinrich Bernhard</field>
+    <field name="ownerGND">123456789</field>
+    <field name="dateCollection">1775</field>
+    <field name="nameCollection">Bücher des H. B. Schrader zu Schliestedt</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783994</field>
+  </doc>
+  <doc>
+    <field name="id">example4</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">9</field>
+    <field name="numberCat">6</field>
+    <field name="volumes">1</field>
+    <field name="titleCat">Ioh. Harduini conciliorum collectio regia maxima ad Phil. Labbei &amp; Gabriel. Cossartii I. labores cum Suppl. Paris 715. Tom. I-XII. v. L.</field>
+    <field name="titleBib">Conciliorum Collectio Regia Maxima, ad Philippi Labbei et Gabrielis Cossartu labores haud modica accessione facta, et emendationibus plurimis additis; cum novis Indicibus / Studio Johannis Harduini, sive Acta Conciliorum, et Epistolae Decretales, ac Constitutiones Summorum Pontificum</field>
+    <field name="author">Hardouin, Jean#122664485</field>
+    <field name="place_1">Paris</field>
+    <field name="geoNames_place_1">2988507</field>
+    <field name="coordinates_place_1">48.85341,2.3488</field>
+    <field name="publishers">Typographia Regia</field>
+    <field name="year">1715</field>
+    <field name="format">2°</field>
+    <field name="histSubject">An Büchern. In Folio</field>
+    <field name="subjects">Kirchengeschichte</field>
+    <field name="genres">Quellenedition</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">lat</field>
+    <field name="languages">grc</field>
+    <field name="systemManifestation">GBV</field>
+    <field name="idManifestation">223082406</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">http://gso.gbv.de/DB=2.1/PPNSET?PPN=223082406</field>
+    <field name="nameSystemManifestation">Gemeinsamer Bibliotheksverbund (GBV)</field>
+    <field name="manifestationFull">GBV#223082406</field>
+    <field name="yearNormalized">1715</field>
+    <field name="owner">Schrader zu Schliestedt, Heinrich Bernhard</field>
+    <field name="ownerGND">123456789</field>
+    <field name="dateCollection">1775</field>
+    <field name="nameCollection">Bücher des H. B. Schrader zu Schliestedt</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783994</field>
+  </doc>
+  <doc>
+    <field name="id">example5</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">9</field>
+    <field name="numberCat">19</field>
+    <field name="volumes">1</field>
+    <field name="titleCat">Fr. Lamkischen deutsche, hebräische und griechische Concordanz, Bibel, Leipzig und Frankfurth 705. Schw. L.</field>
+    <field name="titleBib">Concordantiæ Bibliorum Germanico-Hebraico-Græcæ = Deutsche, Hebräische und Griechische Concordantz-Bibel Oder Vollständige Anweisung aller Wörter, welche in der gantzen H. Schrifft ... fürkommen, Wo und wie offt dieselben gefunden, und auff unterschiedliche Art gebrauchet worden ; Auff gnädigste Verordnung und Beförderung, Des Durchlauchtigsten Fürsten und Herrn, Herrn Ernsts, Hertzogen zu Sachsen, ... In diese gantz neue und beqveme Form, mit vieler Mühe und grossem Fleiß zusammen gebracht und abgefasset / von M. Friedrich Lanckischen. Vormahls mit eine Vorrede des Chur-Fürstl. Sächsischen Oberhoff-Predigers, Beichtvaters und Kirchen-Raths Herrn D. Martini Geieri, zuerst heraus gegeben</field>
+    <field name="author">Lanckisch, Friedrich#12403909X</field>
+    <field name="place_1">Leipzig</field>
+    <field name="geoNames_place_1">2879139</field>
+    <field name="coordinates_place_1">51.33962,12.37129</field>
+    <field name="place_2">Frankfurt am Main</field>
+    <field name="geoNames_place_2">2925533</field>
+    <field name="coordinates_place_2">50.11552,8.68417</field>
+    <field name="publishers">Friedrich Lanckischens Erben</field>
+    <field name="publishers">Richter, Johann Heinrich</field>
+    <field name="year">1705</field>
+    <field name="format">2°</field>
+    <field name="histSubject">An Büchern. In Folio</field>
+    <field name="subjects">Bibelkunde</field>
+    <field name="genres">Konkordanz</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">ger</field>
+    <field name="languages">lat</field>
+    <field name="languages">gre</field>
+    <field name="systemManifestation">VD18</field>
+    <field name="idManifestation">10419063</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://gso.gbv.de/DB=1.65/CMD?ACT=SRCHA&amp;IKT=8002&amp;TRM=VD18+10419063</field>
+    <field name="nameSystemManifestation">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</field>
+    <field name="manifestationFull">VD18#10419063</field>
+    <field name="yearNormalized">1705</field>
+    <field name="owner">Schrader zu Schliestedt, Heinrich Bernhard</field>
+    <field name="ownerGND">123456789</field>
+    <field name="dateCollection">1775</field>
+    <field name="nameCollection">Bücher des H. B. Schrader zu Schliestedt</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783994</field>
+  </doc>
+  <doc>
+    <field name="id">example6</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">9</field>
+    <field name="numberCat">19</field>
+    <field name="volumes">1</field>
+    <field name="titleCat">Io. Foy-Vaillant Numismata ærea Imperator. Augustar. &amp; Cæsar. in Coloniis &amp;c. percussa P. I. II. Paris 697. P. B.</field>
+    <field name="titleBib">Numismata aerea imperatorum, Augustarum et Caesarum in coloniis, municipiis et urbibus jure latio donatis, ex omni modulo percussa</field>
+    <field name="author">Vaillant, Jean Foy#124498094</field>
+    <field name="place_1">Paris</field>
+    <field name="geoNames_place_1">2988507</field>
+    <field name="coordinates_place_1">48.85341,2.3488</field>
+    <field name="publishers">D. Horthemeb</field>
+    <field name="year">1697</field>
+    <field name="format">2°</field>
+    <field name="histSubject">An Büchern. In Folio</field>
+    <field name="subjects">Numismatik</field>
+    <field name="genres">Katalog</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">SUDOC</field>
+    <field name="idManifestation">85029319</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">http://www.sudoc.fr/85029319</field>
+    <field name="nameSystemManifestation">Catalogue du Système Universitaire de Documentation (Sudoc)</field>
+    <field name="manifestationFull">SUDOC#85029319</field>
+    <field name="languagesFull">Latein</field>
+    <field name="yearNormalized">1697</field>
+    <field name="owner">Schrader zu Schliestedt, Heinrich Bernhard</field>
+    <field name="ownerGND">123456789</field>
+    <field name="dateCollection">1775</field>
+    <field name="nameCollection">Bücher des H. B. Schrader zu Schliestedt</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783994</field>
+  </doc>
+  <doc>
+    <field name="id">example7</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">9</field>
+    <field name="numberCat">20</field>
+    <field name="volumes">1</field>
+    <field name="titleCat">Bartol. A Saxoferrato oper. Sup. Digest. Vet. Basil. 589. Schw. L.</field>
+    <field name="titleBib">Super Digestum Vetum Commentaria, cum additionibus excell. Iltorum</field>
+    <field name="author">Bartolus de Saxoferrato#118652885</field>
+    <field name="place_1">Basel</field>
+    <field name="geoNames_place_1">2661604</field>
+    <field name="coordinates_place_1">47.55839,7.57327</field>
+    <field name="publishers">Episcopius, Eusebius</field>
+    <field name="year">1589</field>
+    <field name="format">2°</field>
+    <field name="histSubject">An Büchern. In Folio</field>
+    <field name="subjects">Jurisprudenz</field>
+    <field name="genres">Kommentar</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">GBV</field>
+    <field name="idManifestation">305720775</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">http://gso.gbv.de/DB=2.1/PPNSET?PPN=305720775</field>
+    <field name="nameSystemManifestation">Gemeinsamer Bibliotheksverbund (GBV)</field>
+    <field name="manifestationFull">GBV#305720775</field>
+    <field name="languagesFull">Latein</field>
+    <field name="yearNormalized">1589</field>
+    <field name="owner">Schrader zu Schliestedt, Heinrich Bernhard</field>
+    <field name="ownerGND">123456789</field>
+    <field name="dateCollection">1775</field>
+    <field name="nameCollection">Bücher des H. B. Schrader zu Schliestedt</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783994</field>
+  </doc>
+  <doc>
+    <field name="id">example8</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">9</field>
+    <field name="numberCat">21</field>
+    <field name="volumes">1</field>
+    <field name="titleCat">ejusdem Commentar. in prim. part. infort. Basil 588. Schw. L.</field>
+    <field name="titleBib">Super Infortiatum Commentaria, cum adnott. doctissimor. Iltorum</field>
+    <field name="author">Bartolus de Saxoferrato#118652885</field>
+    <field name="place_1">Basel</field>
+    <field name="geoNames_place_1">2661605</field>
+    <field name="coordinates_place_1">47.66868,8.74821</field>
+    <field name="publishers">Episcopius, Eusebius</field>
+    <field name="year">1588</field>
+    <field name="format">2°</field>
+    <field name="histSubject">An Büchern. In Folio</field>
+    <field name="subjects">Jurisprudenz</field>
+    <field name="genres">Kommentar</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">GBV</field>
+    <field name="idManifestation">305721216</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">http://gso.gbv.de/DB=2.1/PPNSET?PPN=305721216</field>
+    <field name="nameSystemManifestation">Gemeinsamer Bibliotheksverbund (GBV)</field>
+    <field name="manifestationFull">GBV#305721216</field>
+    <field name="languagesFull">Latein</field>
+    <field name="yearNormalized">1588</field>
+    <field name="owner">Schrader zu Schliestedt, Heinrich Bernhard</field>
+    <field name="ownerGND">123456789</field>
+    <field name="dateCollection">1775</field>
+    <field name="nameCollection">Bücher des H. B. Schrader zu Schliestedt</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783994</field>
+  </doc>
+  <doc>
+    <field name="id">example9</field>
+    <field name="pageCat">1</field>
+    <field name="imageCat">9</field>
+    <field name="numberCat">22</field>
+    <field name="volumes">1</field>
+    <field name="titleCat">ejusd. Commentar. iu. prim. part. Dig. Novi Basil. 588. Schw. L.</field>
+    <field name="titleBib">In I. Partem Digesti Novi Bartoli À Saxoferrato Commentaria : Cum Adnotationibvs …</field>
+    <field name="author">Bartolus de Saxoferrato#118652885</field>
+    <field name="place_1">Basel</field>
+    <field name="geoNames_place_1">2661606</field>
+    <field name="coordinates_place_1">47.05248,9.62401</field>
+    <field name="publishers">Episcopius, Eusebius</field>
+    <field name="year">1588</field>
+    <field name="format">2°</field>
+    <field name="histSubject">An Büchern. In Folio</field>
+    <field name="subjects">Jurisprudenz</field>
+    <field name="genres">Kommentar</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">GBV</field>
+    <field name="idManifestation">152990542</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">http://gso.gbv.de/DB=2.1/PPNSET?PPN=152990542</field>
+    <field name="nameSystemManifestation">Gemeinsamer Bibliotheksverbund (GBV)</field>
+    <field name="manifestationFull">GBV#152990542</field>
+    <field name="languagesFull">Latein</field>
+    <field name="yearNormalized">1588</field>
+    <field name="owner">Schrader zu Schliestedt, Heinrich Bernhard</field>
+    <field name="ownerGND">123456789</field>
+    <field name="dateCollection">1775</field>
+    <field name="nameCollection">Bücher des H. B. Schrader zu Schliestedt</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783994</field>
+  </doc>
+  <doc>
+    <field name="id">example10</field>
+    <field name="pageCat">2</field>
+    <field name="imageCat">10</field>
+    <field name="numberCat">23</field>
+    <field name="volumes">1</field>
+    <field name="titleCat">Bartol. Commentar. in prim. part. Cod. Basil. 588. Schw. L.</field>
+    <field name="titleBib">In I. Partem Codicis Bartoli À Saxoferrato Commentaria</field>
+    <field name="author">Bartolus de Saxoferrato#118652885</field>
+    <field name="place_1">Basel</field>
+    <field name="geoNames_place_1">2661607</field>
+    <field name="coordinates_place_1">47.3822,7.47229</field>
+    <field name="publishers">Episcopius, Eusebius</field>
+    <field name="year">1588</field>
+    <field name="format">2°</field>
+    <field name="histSubject">An Büchern. In Folio</field>
+    <field name="subjects">Jurisprudenz</field>
+    <field name="genres">Kommentar</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">VD16</field>
+    <field name="idManifestation">16 B 576 </field>
+    <field name="bound">1</field>
+    <field name="comment">VD16-Nummer des übergeordneten Werks</field>
+    <field name="digitalCopy">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00090368-8</field>
+    <field name="linkManifestation">http://gateway-bayern.de/VD16+16 B 576 </field>
+    <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)</field>
+    <field name="manifestationFull">VD16#16 B 576 </field>
+    <field name="languagesFull">Latein</field>
+    <field name="yearNormalized">1588</field>
+    <field name="owner">Schrader zu Schliestedt, Heinrich Bernhard</field>
+    <field name="ownerGND">123456789</field>
+    <field name="dateCollection">1775</field>
+    <field name="nameCollection">Bücher des H. B. Schrader zu Schliestedt</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783994</field>
+  </doc>
+</add>

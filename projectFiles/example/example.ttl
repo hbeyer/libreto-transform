@@ -1,0 +1,460 @@
+@prefix br: <http://bibliotheksrekonstruktion.hab.de/> .
+@prefix libreto: <http://bibliotheksrekonstruktion.hab.de/ontology.php#> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix gnd: <http://d-nb.info/gnd/> .
+@prefix foaf: <http://xmlns.com/foaf/spec/#term_> .
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix gn: <http://www.geonames.org/ontology#> .
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix gndo: <http://d-nb.info/standards/elementset/gnd#> .
+
+br:example
+  a libreto:Collection ;
+  dc:date "1775"@xsd:gYear ;
+  dc:title "Bücher des H. B. Schrader zu Schliestedt" ;
+  dc:description "Abstract"@de ;
+  libreto:collector gnd:123456789 .
+
+gnd:123456789
+  a libreto:Person ;
+  foaf:name "Schrader zu Schliestedt, Heinrich Bernhard" .
+
+<br:example/catalogues/HAB_M%3A+Bc+1982>
+  a libreto:Catalogue ;
+  dc:date "1775"@xsd:gYear ;
+  libreto:shelfmark "M: Bc 1982" ;
+  libreto:owner "HAB" ;
+  dc:title "Apparatus librorum" ;
+  libreto:hasEntry [
+    a libreto:CatalogueEntry ;
+    libreto:text "Bartol. A Saxoferrato consilia, Lugdun 546. Schw. L." ;
+    libreto:page "1" ;
+    libreto:heading "An Büchern. In Folio" ;
+    libreto:number "1" ;
+    libreto:imageURL "http://diglib.hab.de/drucke/bc-1982/start.htm?image=9" ;
+    libreto:refersTo <br:example/item_example0>
+  ], [
+    a libreto:CatalogueEntry ;
+    libreto:text "iac. Bonfrerii, onomasticon urbium & Locor-Sacræ Scriptur. Amstelod 707 P. B." ;
+    libreto:page "1" ;
+    libreto:heading "An Büchern. In Folio" ;
+    libreto:number "2" ;
+    libreto:imageURL "http://diglib.hab.de/drucke/bc-1982/start.htm?image=9" ;
+    libreto:refersTo <br:example/item_example1>
+  ], [
+    a libreto:CatalogueEntry ;
+    libreto:text "Corpus jur. civil. cum not. Dionys. Gothofredi S. Gervasii 602. T I. II. Schw. L." ;
+    libreto:page "1" ;
+    libreto:heading "An Büchern. In Folio" ;
+    libreto:number "3" ;
+    libreto:imageURL "http://diglib.hab.de/drucke/bc-1982/start.htm?image=9" ;
+    libreto:refersTo <br:example/item_example2>
+  ], [
+    a libreto:CatalogueEntry ;
+    libreto:text "Ioh. Buxtorfii, Tiberias sive Commentar. musorethicus triplex ad illustrat. oper. bibl. Basil. conscript. Basil. 665. P. B." ;
+    libreto:page "1" ;
+    libreto:heading "An Büchern. In Folio" ;
+    libreto:number "5" ;
+    libreto:imageURL "http://diglib.hab.de/drucke/bc-1982/start.htm?image=9" ;
+    libreto:refersTo <br:example/item_example3>
+  ], [
+    a libreto:CatalogueEntry ;
+    libreto:text "Ioh. Harduini conciliorum collectio regia maxima ad Phil. Labbei & Gabriel. Cossartii I. labores cum Suppl. Paris 715. Tom. I-XII. v. L." ;
+    libreto:page "1" ;
+    libreto:heading "An Büchern. In Folio" ;
+    libreto:number "6" ;
+    libreto:imageURL "http://diglib.hab.de/drucke/bc-1982/start.htm?image=9" ;
+    libreto:refersTo <br:example/item_example4>
+  ], [
+    a libreto:CatalogueEntry ;
+    libreto:text "Fr. Lamkischen deutsche, hebräische und griechische Concordanz, Bibel, Leipzig und Frankfurth 705. Schw. L." ;
+    libreto:page "1" ;
+    libreto:heading "An Büchern. In Folio" ;
+    libreto:number "19" ;
+    libreto:imageURL "http://diglib.hab.de/drucke/bc-1982/start.htm?image=9" ;
+    libreto:refersTo <br:example/item_example5>
+  ], [
+    a libreto:CatalogueEntry ;
+    libreto:text "Io. Foy-Vaillant Numismata ærea Imperator. Augustar. & Cæsar. in Coloniis &c. percussa P. I. II. Paris 697. P. B." ;
+    libreto:page "1" ;
+    libreto:heading "An Büchern. In Folio" ;
+    libreto:number "19" ;
+    libreto:imageURL "http://diglib.hab.de/drucke/bc-1982/start.htm?image=9" ;
+    libreto:refersTo <br:example/item_example6>
+  ], [
+    a libreto:CatalogueEntry ;
+    libreto:text "Bartol. A Saxoferrato oper. Sup. Digest. Vet. Basil. 589. Schw. L." ;
+    libreto:page "1" ;
+    libreto:heading "An Büchern. In Folio" ;
+    libreto:number "20" ;
+    libreto:imageURL "http://diglib.hab.de/drucke/bc-1982/start.htm?image=9" ;
+    libreto:refersTo <br:example/item_example7>
+  ], [
+    a libreto:CatalogueEntry ;
+    libreto:text "ejusdem Commentar. in prim. part. infort. Basil 588. Schw. L." ;
+    libreto:page "1" ;
+    libreto:heading "An Büchern. In Folio" ;
+    libreto:number "21" ;
+    libreto:imageURL "http://diglib.hab.de/drucke/bc-1982/start.htm?image=9" ;
+    libreto:refersTo <br:example/item_example8>
+  ], [
+    a libreto:CatalogueEntry ;
+    libreto:text "ejusd. Commentar. iu. prim. part. Dig. Novi Basil. 588. Schw. L." ;
+    libreto:page "1" ;
+    libreto:heading "An Büchern. In Folio" ;
+    libreto:number "22" ;
+    libreto:imageURL "http://diglib.hab.de/drucke/bc-1982/start.htm?image=9" ;
+    libreto:refersTo <br:example/item_example9>
+  ], [
+    a libreto:CatalogueEntry ;
+    libreto:text "Bartol. Commentar. in prim. part. Cod. Basil. 588. Schw. L." ;
+    libreto:page "2" ;
+    libreto:heading "An Büchern. In Folio" ;
+    libreto:number "23" ;
+    libreto:imageURL "http://diglib.hab.de/drucke/bc-1982/start.htm?image=10" ;
+    libreto:refersTo <br:example/item_example10>
+  ] .
+
+<br:example/item_example0>
+  a libreto:Item ;
+  libreto:belongsTo br:example ;
+  dc:type "Druck" ;
+  dc:title "Consilia Bartoli Saxoferratei, ad omne genus causarum nodos dissolvendos, & forenses commodè lites devitandas, aut easdem aptè & utiliter instituendas, suscipiendàsue, mirè profutura, ac penè necessaria : quàm ante hac usquàm & auctiora, & venustiora reddita. Quibus Quaestionum, Tractatuum, Sermonum, &id genus molem integram substruximus" ;
+  dc:date "1546"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "2°" ;
+  dc:publisher "Senneton, Jacques & Jean" ;
+  dc:subject "Jurisprudenz" ;
+  dbo:genre "Consilia" ;
+  dc:language "lat"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <http://www.geonames.org/2996944> ;
+  dc:creator gnd:118652885 ;
+  libreto:hasManifestation <http://www.sudoc.fr/190358432> .
+
+<br:example/item_example1>
+  a libreto:Item ;
+  libreto:belongsTo br:example ;
+  dc:type "Druck" ;
+  dc:title "Onomasticon Urbium Et Locorum Sacræ Scripturæ: Sev Liber De Locis Hebraicis / Græcè primùm ab Eusebio Cæsariensi, Deinde Latinè Scriptus ab Hieronymo, In commodiorem verò ordinem redactus ... Tabulâ Geographicâ Judææ illustratus, Operâ Iacobi Bonfrerii S. J. Recensuit & animadversionibus suis auxit Joannes Clericus. Accessit huic Editioni Brocardi Monachi, Ex Ordine Prædicatorum, Descriptio Terræ Sanctæ" ;
+  dc:date "1707"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "2°" ;
+  dc:publisher "Halma, François" ;
+  dc:subject "Bibelkunde" ;
+  dbo:genre "Namenslexikon" ;
+  dc:language "lat"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <http://www.geonames.org/2759794> ;
+  dc:creator gnd:118531425 ;
+  dc:contributor gnd:139265058, gnd:119512947 ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=150566379> .
+
+<br:example/item_example2>
+  a libreto:Item ;
+  libreto:belongsTo br:example ;
+  dc:type "Druck" ;
+  dc:title "Corpvs Iuris Ciuilis, In quinque partes distinctum : Qvarvm Prima, Historia iuris à Justiniano compositi, Institutionum Libri IIII, Epitome Institutionum, Degestorum seu Pandectarum Libri L. continentur. Quæ reliquis partibus includantur, quinta docebit pagina / His Accesservnt Notæ Repetitæ Tertiæ - que lectionis, Dionysio Gothofredo IC." ;
+  dc:date "1602"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "2°" ;
+  dc:publisher "Vignon, Eustache, Erben" ;
+  dc:subject "Jurisprudenz" ;
+  dbo:genre "Kodifikation" ;
+  dc:language "lat"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <http://www.geonames.org/3002499> ;
+  dc:creator gnd:11855896X ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=63120430X> .
+
+<br:example/item_example3>
+  a libreto:Item ;
+  libreto:belongsTo br:example ;
+  dc:type "Druck" ;
+  dc:title "Johannis Buxtorfi[i] P. Tiberias Sive Commentarius Masorethicus Triplex Historicus, Didacticus, Criticus : Ad illustrationem Operis Biblici Basiliensis conscriptus, Quo Primum Historia Masoretharum Tiberiensium ... explicatur: Secundo Clavis Masorae Traditur ... Tertio Castigationes Innumerorum mendorum per universam Masoram proponuntur / Recognitus, & additamentis non paucis hinc inde locupletatus a Johanne Buxtorfio Fil. Editionem hancce novam accurante Johan. Jacobo Buxtorfio Joh. Fil. Joh. Nep" ;
+  dc:date "1665"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "2°" ;
+  dc:subject "Bibelkunde" ;
+  dbo:genre "Kommentar"@http://uri.gbv.de/terminology/aadgenres/ ;
+  dc:language "lat"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <http://www.geonames.org/2661604> ;
+  dc:creator gnd:119354780 ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=12:121708U> .
+
+<br:example/item_example4>
+  a libreto:Item ;
+  libreto:belongsTo br:example ;
+  dc:type "Druck" ;
+  dc:title "Conciliorum Collectio Regia Maxima, ad Philippi Labbei et Gabrielis Cossartu labores haud modica accessione facta, et emendationibus plurimis additis; cum novis Indicibus / Studio Johannis Harduini, sive Acta Conciliorum, et Epistolae Decretales, ac Constitutiones Summorum Pontificum" ;
+  dc:date "1715"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "2°" ;
+  dc:publisher "Typographia Regia" ;
+  dc:subject "Kirchengeschichte" ;
+  dbo:genre "Quellenedition" ;
+  dc:language "lat"@iso6392, "grc"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <http://www.geonames.org/2988507> ;
+  dc:creator gnd:122664485 ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=223082406> .
+
+<br:example/item_example5>
+  a libreto:Item ;
+  libreto:belongsTo br:example ;
+  dc:type "Druck" ;
+  dc:title "Concordantiæ Bibliorum Germanico-Hebraico-Græcæ = Deutsche, Hebräische und Griechische Concordantz-Bibel Oder Vollständige Anweisung aller Wörter, welche in der gantzen H. Schrifft ... fürkommen, Wo und wie offt dieselben gefunden, und auff unterschiedliche Art gebrauchet worden ; Auff gnädigste Verordnung und Beförderung, Des Durchlauchtigsten Fürsten und Herrn, Herrn Ernsts, Hertzogen zu Sachsen, ... In diese gantz neue und beqveme Form, mit vieler Mühe und grossem Fleiß zusammen gebracht und abgefasset / von M. Friedrich Lanckischen. Vormahls mit eine Vorrede des Chur-Fürstl. Sächsischen Oberhoff-Predigers, Beichtvaters und Kirchen-Raths Herrn D. Martini Geieri, zuerst heraus gegeben" ;
+  dc:date "1705"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "2°" ;
+  dc:publisher "Friedrich Lanckischens Erben", "Richter, Johann Heinrich" ;
+  dc:subject "Bibelkunde" ;
+  dbo:genre "Konkordanz"@http://uri.gbv.de/terminology/aadgenres/ ;
+  dc:language "ger"@iso6392, "lat"@iso6392, "gre"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <http://www.geonames.org/2879139>, <http://www.geonames.org/2925533> ;
+  dc:creator gnd:12403909X ;
+  libreto:hasManifestation <https://gso.gbv.de/DB=1.65/CMD?ACT=SRCHA&IKT=8002&TRM=VD18+10419063> .
+
+<br:example/item_example6>
+  a libreto:Item ;
+  libreto:belongsTo br:example ;
+  dc:type "Druck" ;
+  dc:title "Numismata aerea imperatorum, Augustarum et Caesarum in coloniis, municipiis et urbibus jure latio donatis, ex omni modulo percussa" ;
+  dc:date "1697"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "2°" ;
+  dc:publisher "D. Horthemeb" ;
+  dc:subject "Numismatik" ;
+  dbo:genre "Katalog"@http://uri.gbv.de/terminology/aadgenres/ ;
+  dc:language "lat"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <http://www.geonames.org/2988507> ;
+  dc:creator gnd:124498094 ;
+  libreto:hasManifestation <http://www.sudoc.fr/85029319> .
+
+<br:example/item_example7>
+  a libreto:Item ;
+  libreto:belongsTo br:example ;
+  dc:type "Druck" ;
+  dc:title "Super Digestum Vetum Commentaria, cum additionibus excell. Iltorum" ;
+  dc:date "1589"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "2°" ;
+  dc:publisher "Episcopius, Eusebius" ;
+  dc:subject "Jurisprudenz" ;
+  dbo:genre "Kommentar"@http://uri.gbv.de/terminology/aadgenres/ ;
+  dc:language "lat"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <http://www.geonames.org/2661604> ;
+  dc:creator gnd:118652885 ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=305720775> .
+
+<br:example/item_example8>
+  a libreto:Item ;
+  libreto:belongsTo br:example ;
+  dc:type "Druck" ;
+  dc:title "Super Infortiatum Commentaria, cum adnott. doctissimor. Iltorum" ;
+  dc:date "1588"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "2°" ;
+  dc:publisher "Episcopius, Eusebius" ;
+  dc:subject "Jurisprudenz" ;
+  dbo:genre "Kommentar"@http://uri.gbv.de/terminology/aadgenres/ ;
+  dc:language "lat"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <http://www.geonames.org/2661605> ;
+  dc:creator gnd:118652885 ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=305721216> .
+
+<br:example/item_example9>
+  a libreto:Item ;
+  libreto:belongsTo br:example ;
+  dc:type "Druck" ;
+  dc:title "In I. Partem Digesti Novi Bartoli À Saxoferrato Commentaria : Cum Adnotationibvs …" ;
+  dc:date "1588"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "2°" ;
+  dc:publisher "Episcopius, Eusebius" ;
+  dc:subject "Jurisprudenz" ;
+  dbo:genre "Kommentar"@http://uri.gbv.de/terminology/aadgenres/ ;
+  dc:language "lat"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <http://www.geonames.org/2661606> ;
+  dc:creator gnd:118652885 ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=152990542> .
+
+<br:example/item_example10>
+  a libreto:Item ;
+  libreto:belongsTo br:example ;
+  dc:type "Druck" ;
+  dc:title "In I. Partem Codicis Bartoli À Saxoferrato Commentaria" ;
+  dc:date "1588"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "2°" ;
+  dc:publisher "Episcopius, Eusebius" ;
+  dc:subject "Jurisprudenz" ;
+  dbo:genre "Kommentar"@http://uri.gbv.de/terminology/aadgenres/ ;
+  dc:language "lat"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "VD16-Nummer des übergeordneten Werks" ;
+  dc:hasFormat "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00090368-8" ;
+  libreto:hasPlace <http://www.geonames.org/2661607> ;
+  dc:creator gnd:118652885 .
+
+<http://www.geonames.org/2996944>
+  a libreto:Place ;
+  gn:name "Lyon" ;
+  geo:lat "45.74846"@xsd:decimal ;
+  geo:long "4.84671"@xsd:decimal .
+
+gnd:118652885
+  a libreto:Person ;
+  foaf:name "Bartolus de Saxoferrato" ;
+  dc:identifier "118652885"^^gndo:gndIdentifier .
+
+<http://www.sudoc.fr/190358432>
+  a libreto:Manifestation ;
+  libreto:database "Catalogue du Système Universitaire de Documentation (Sudoc)" ;
+  dc:identifier "190358432" .
+
+<http://www.geonames.org/2759794>
+  a libreto:Place ;
+  gn:name "Amsterdam" ;
+  geo:lat "52.37403"@xsd:decimal ;
+  geo:long "4.88969"@xsd:decimal .
+
+gnd:118531425
+  a libreto:Person ;
+  foaf:name "Eusebius Caesariensis" ;
+  dc:identifier "118531425"^^gndo:gndIdentifier .
+
+gnd:139265058
+  a libreto:Person ;
+  foaf:name "Bonfrère, Jacques" ;
+  dc:identifier "139265058"^^gndo:gndIdentifier .
+
+gnd:119512947
+  a libreto:Person ;
+  foaf:name "Le Clerc, Jean" ;
+  dc:identifier "119512947"^^gndo:gndIdentifier .
+
+<http://gso.gbv.de/DB=2.1/PPNSET?PPN=150566379>
+  a libreto:Manifestation ;
+  libreto:database "Gemeinsamer Bibliotheksverbund (GBV)" ;
+  dc:identifier "150566379" .
+
+<http://www.geonames.org/3002499>
+  a libreto:Place ;
+  gn:name "Saint-Gervais" ;
+  geo:lat "48.88549"@xsd:decimal ;
+  geo:long "2.40422"@xsd:decimal .
+
+gnd:11855896X
+  a libreto:Person ;
+  foaf:name "Justinianus I." ;
+  dc:identifier "11855896X"^^gndo:gndIdentifier .
+
+<http://gso.gbv.de/DB=2.1/PPNSET?PPN=63120430X>
+  a libreto:Manifestation ;
+  libreto:database "Gemeinsamer Bibliotheksverbund (GBV)" ;
+  dc:identifier "63120430X" .
+
+<http://www.geonames.org/2661604>
+  a libreto:Place ;
+  gn:name "Basel" ;
+  geo:lat "47.55839"@xsd:decimal ;
+  geo:long "7.57327"@xsd:decimal .
+
+gnd:119354780
+  a libreto:Person ;
+  foaf:name "Buxtorf, Johann" ;
+  dc:identifier "119354780"^^gndo:gndIdentifier .
+
+<http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=12:121708U>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)" ;
+  dc:identifier "12:121708U" .
+
+<http://www.geonames.org/2988507>
+  a libreto:Place ;
+  gn:name "Paris" ;
+  geo:lat "48.85341"@xsd:decimal ;
+  geo:long "2.3488"@xsd:decimal .
+
+gnd:122664485
+  a libreto:Person ;
+  foaf:name "Hardouin, Jean" ;
+  dc:identifier "122664485"^^gndo:gndIdentifier .
+
+<http://gso.gbv.de/DB=2.1/PPNSET?PPN=223082406>
+  a libreto:Manifestation ;
+  libreto:database "Gemeinsamer Bibliotheksverbund (GBV)" ;
+  dc:identifier "223082406" .
+
+<http://www.geonames.org/2879139>
+  a libreto:Place ;
+  gn:name "Leipzig" ;
+  geo:lat "51.33962"@xsd:decimal ;
+  geo:long "12.37129"@xsd:decimal .
+
+<http://www.geonames.org/2925533>
+  a libreto:Place ;
+  gn:name "Frankfurt am Main" ;
+  geo:lat "50.11552"@xsd:decimal ;
+  geo:long "8.68417"@xsd:decimal .
+
+gnd:12403909X
+  a libreto:Person ;
+  foaf:name "Lanckisch, Friedrich" ;
+  dc:identifier "12403909X"^^gndo:gndIdentifier .
+
+<https://gso.gbv.de/DB=1.65/CMD?ACT=SRCHA&IKT=8002&TRM=VD18+10419063>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" ;
+  dc:identifier "10419063" .
+
+gnd:124498094
+  a libreto:Person ;
+  foaf:name "Vaillant, Jean Foy" ;
+  dc:identifier "124498094"^^gndo:gndIdentifier .
+
+<http://www.sudoc.fr/85029319>
+  a libreto:Manifestation ;
+  libreto:database "Catalogue du Système Universitaire de Documentation (Sudoc)" ;
+  dc:identifier "85029319" .
+
+<http://gso.gbv.de/DB=2.1/PPNSET?PPN=305720775>
+  a libreto:Manifestation ;
+  libreto:database "Gemeinsamer Bibliotheksverbund (GBV)" ;
+  dc:identifier "305720775" .
+
+<http://www.geonames.org/2661605>
+  a libreto:Place ;
+  gn:name "Basel" ;
+  geo:lat "47.66868"@xsd:decimal ;
+  geo:long "8.74821"@xsd:decimal .
+
+<http://gso.gbv.de/DB=2.1/PPNSET?PPN=305721216>
+  a libreto:Manifestation ;
+  libreto:database "Gemeinsamer Bibliotheksverbund (GBV)" ;
+  dc:identifier "305721216" .
+
+<http://www.geonames.org/2661606>
+  a libreto:Place ;
+  gn:name "Basel" ;
+  geo:lat "47.05248"@xsd:decimal ;
+  geo:long "9.62401"@xsd:decimal .
+
+<http://gso.gbv.de/DB=2.1/PPNSET?PPN=152990542>
+  a libreto:Manifestation ;
+  libreto:database "Gemeinsamer Bibliotheksverbund (GBV)" ;
+  dc:identifier "152990542" .
+
+<http://www.geonames.org/2661607>
+  a libreto:Place ;
+  gn:name "Basel" ;
+  geo:lat "47.3822"@xsd:decimal ;
+  geo:long "7.47229"@xsd:decimal .
+

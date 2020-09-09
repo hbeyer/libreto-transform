@@ -1,0 +1,1379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">goethe0</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Gortz Of Berlingen, With The Iron Hand: An Historical Drama Of The Fifteenth Century: Translated From The German Of Goethe, The Author Of Werter</field>
+    <field name="borrower">Aguilar, Rose d'~1799-09-20</field>
+    <field name="dateLending">1799-09-20</field>
+    <field name="contributor">Goethe, Johann Wolfgang</field>
+    <field name="contributor">Aguilar, Rose d' (Übers.)</field>
+    <field name="place_1">Liverpool</field>
+    <field name="getty_place_1">7010597</field>
+    <field name="coordinates_place_1">53.416667,-3</field>
+    <field name="subjects">Goethe A.1.2 Selbständige Schriften</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1841*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1841*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe1</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Translations of German Poems, extracted from the musical publications of the author of The German Erato [Bd. 1]</field>
+    <field name="borrower">Beresford, Benjamin#137991517~1803-07-12</field>
+    <field name="dateLending">1803-07-12</field>
+    <field name="contributor">Beresford, Benjamin (Übers.)</field>
+    <field name="place_1">Berlin</field>
+    <field name="getty_place_1">7003712</field>
+    <field name="coordinates_place_1">52.516667,13.4</field>
+    <field name="subjects">Goethe G.5 Deutsche Literatur. Goethezeit</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert809*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert809*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe2</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Herman Et Dorothée: En IX Chants; Poëme allemand de Goethe</field>
+    <field name="borrower">Bitaubé, Paul Jérémie#116197870~1800-09-96</field>
+    <field name="dateLending">1800-09-96</field>
+    <field name="contributor">Goethe, Johann Wolfgang</field>
+    <field name="contributor">Bitaubé,  Paul Jérémie (Übers.)</field>
+    <field name="place_1">Paris</field>
+    <field name="getty_place_1">7008038</field>
+    <field name="coordinates_place_1">48.8667,2.3333</field>
+    <field name="subjects">Goethe A.1.2 Selbständige Schriften</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1844*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1844*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe3</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Zueignung: Dedication</field>
+    <field name="borrower">Bohte, Johann Heinrich#1018729577~1822-06-03</field>
+    <field name="dateLending">1822-06-03</field>
+    <field name="contributor">Goethe, Johann Wolfgang</field>
+    <field name="contributor">Soane, George (Übers.)</field>
+    <field name="place_1">Weimar</field>
+    <field name="getty_place_1">7012886</field>
+    <field name="coordinates_place_1">50.983333,11.316667</field>
+    <field name="subjects">Goethe A.1.2 Selbständige Schriften</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1916*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1916*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe4</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Lectures nouvelles amusantes et instructives à l'usage des amateurs de la langue Française</field>
+    <field name="borrower">Bonafont, Charles-Philippe#116237554~1831-04-20</field>
+    <field name="dateLending">1831-04-20</field>
+    <field name="contributor">Bonafont, Charles-Philippe</field>
+    <field name="place_1">Zeitz</field>
+    <field name="getty_place_1">7012351</field>
+    <field name="coordinates_place_1">51.05,12.15</field>
+    <field name="subjects">Goethe J.5 Französische Literatur. Seit 1789</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1562*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1562*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe5</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">German Romance: Specimens of Its Chief Authors, With Biographical and Critical Notices: By the Translator of Wilhelm Meister, and Author of The Life of Schiller, Bd. 4: Goethe</field>
+    <field name="borrower">Carlyle, Thomas#118519131~1827-04-15</field>
+    <field name="dateLending">1827-04-15</field>
+    <field name="contributor">Carlyle, Thomas (Übers./Hrsg.)</field>
+    <field name="place_1">Edinburgh</field>
+    <field name="getty_place_1">7009546</field>
+    <field name="coordinates_place_1">55.95,-3.2</field>
+    <field name="subjects">Goethe A.2 Übersetzungen von Werken Goethes</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert814*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert814*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe6</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Wilhelm Meister's Apprenticeship: A Novel: From the German of Goethe, Bd. 1</field>
+    <field name="borrower">Carlyle, Thomas#118519131~1824-06-24</field>
+    <field name="dateLending">1824-06-24</field>
+    <field name="contributor">Goethe, Johann Wolfgang</field>
+    <field name="contributor">Carlye, Thomas (Übers.)</field>
+    <field name="place_1">London</field>
+    <field name="getty_place_1">7011781</field>
+    <field name="coordinates_place_1">51.5142,-0.0931</field>
+    <field name="subjects">Goethe A.1.2 Selbständige Schriften</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1862*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1862*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe7</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Wilhelm Meister's Apprenticeship: A Novel: From the German of Goethe, Bd. 2</field>
+    <field name="borrower">Carlyle, Thomas#118519131~1824-06-24</field>
+    <field name="dateLending">1824-06-24</field>
+    <field name="contributor">Goethe, Johann Wolfgang</field>
+    <field name="contributor">Carlye, Thomas (Übers.)</field>
+    <field name="place_1">London</field>
+    <field name="getty_place_1">7011781</field>
+    <field name="coordinates_place_1">51.5142,-0.0931</field>
+    <field name="subjects">Goethe A.1.2 Selbständige Schriften</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1862*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1862*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe8</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Wilhelm Meister's Apprenticeship: A Novel: From the German of Goethe, Bd. 3</field>
+    <field name="borrower">Carlyle, Thomas#118519131~1824-06-24</field>
+    <field name="dateLending">1824-06-24</field>
+    <field name="contributor">Goethe, Johann Wolfgang</field>
+    <field name="contributor">Carlye, Thomas (Übers.)</field>
+    <field name="place_1">London</field>
+    <field name="getty_place_1">7011781</field>
+    <field name="coordinates_place_1">51.5142,-0.0931</field>
+    <field name="subjects">Goethe A.1.2 Selbständige Schriften</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1862*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1862*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe9</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Was wir bringen: Vorspiel, bey Eröffnung des neuen Schauspielhauses zu Lauchstädt</field>
+    <field name="borrower">Cotta, Johann Friedrich von#11852240X~1802-10-12</field>
+    <field name="dateLending">1802-10-12</field>
+    <field name="contributor">Goethe, Johann Wolfgang</field>
+    <field name="place_1">Tübingen</field>
+    <field name="getty_place_1">7004426</field>
+    <field name="coordinates_place_1">48.5333,9.05</field>
+    <field name="subjects">Goethe A.1.2 Selbständige Schriften</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1912*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1912*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe10</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Études Françaises et étrangères: Quatrième édition, corrigée et augmentée de huit pièces nouvelles</field>
+    <field name="borrower">Deschamps, Emile#117632767~1829-12-10</field>
+    <field name="dateLending">1829-12-10</field>
+    <field name="contributor">Deschamps, Émile</field>
+    <field name="place_1">Paris</field>
+    <field name="getty_place_1">7008038</field>
+    <field name="coordinates_place_1">48.8667,2.3333</field>
+    <field name="subjects">Goethe J.5 Französische Literatur. Seit 1789</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1575*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1575*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe11</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Poems: With Some Translations From The German</field>
+    <field name="borrower">Downes, George#116191031~1826-12-22</field>
+    <field name="dateLending">1826-12-22</field>
+    <field name="contributor">Anster, John</field>
+    <field name="place_1">Dublin</field>
+    <field name="getty_place_1">7001306</field>
+    <field name="coordinates_place_1">53.3333,-6.25</field>
+    <field name="subjects">Goethe H.3 Englische Literatur seit 1720</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1483*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1483*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe12</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Dublin University Prize Poems: With Spanish and German Ballads, &amp;c</field>
+    <field name="borrower">Downes, George#116191031~1826-12-22</field>
+    <field name="dateLending">1826-12-22</field>
+    <field name="contributor">Downes, George</field>
+    <field name="place_1">Dublin</field>
+    <field name="getty_place_1">7001306</field>
+    <field name="coordinates_place_1">53.3333,-6.25</field>
+    <field name="subjects">Goethe H.3 Englische Literatur seit 1720</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1506*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1506*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe13</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Faust: A Drama. In Two Volumes by Goethe. With Translations From The German By Lord Francis Leveson Gower, 2. Aufl., Bd. 1</field>
+    <field name="borrower">Ellsmere, Francis Egerton Earl of (Übers.)#102005451~1825-04</field>
+    <field name="dateLending">1825-04</field>
+    <field name="contributor">Goethe, Johann Wolfgang</field>
+    <field name="contributor">Ellsmere, Francis Egerton Earl of (Übers.)</field>
+    <field name="place_1">London</field>
+    <field name="getty_place_1">7011781</field>
+    <field name="coordinates_place_1">51.5142,-0.0931</field>
+    <field name="subjects">Goethe A.1.2 Selbständige Schriften</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1824*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1824*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe14</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Faust: A Drama. In Two Volumes by Goethe. With Translations From The German By Lord Francis Leveson Gower, 2. Aufl., Bd. 2</field>
+    <field name="borrower">Ellsmere, Francis Egerton Earl of (Übers.)#102005451~1825-04</field>
+    <field name="dateLending">1825-04</field>
+    <field name="contributor">Goethe, Johann Wolfgang</field>
+    <field name="contributor">Lessing, Gotthold Ephraim</field>
+    <field name="contributor">Schiller, Friedrich</field>
+    <field name="contributor">Bürger, Georg August</field>
+    <field name="contributor">Saalis-Seewis, Johann Gaudenz von</field>
+    <field name="contributor">Ellsmere, Francis Egerton Earl of (Übers.)</field>
+    <field name="place_1">London</field>
+    <field name="getty_place_1">7011781</field>
+    <field name="coordinates_place_1">51.5142,-0.0931</field>
+    <field name="subjects">Goethe A.1.2 Selbständige Schriften</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1824*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1824*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe15</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Essai sur la metamorphose des plantes par J. W. de Goethe: Trad. de l'allemand sur l'ed. orig. de Gotha (1790) par Frederic de Gingins-Lassaraz</field>
+    <field name="borrower">Gingins-la Sarra, Frédéric Charles de#11817892X~1829-04-15</field>
+    <field name="dateLending">1829-04-15</field>
+    <field name="contributor">Goethe, Johann Wolfgang</field>
+    <field name="contributor">Gingins- la Sarra, Frédéric de (Übers.)</field>
+    <field name="place_1">Genf</field>
+    <field name="getty_place_1">7007279</field>
+    <field name="coordinates_place_1">46.2167,6.15</field>
+    <field name="subjects">Goethe A.1.2 Selbständige Schriften</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1908*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1908*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe16</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Metaphraseis: Sammlung von Übersetzungen ins Griechische</field>
+    <field name="borrower">Göller, Franz#116704217~1825-02-01</field>
+    <field name="dateLending">1825-02-01</field>
+    <field name="contributor">Göller, Franz (Hrsg.)</field>
+    <field name="place_1">Köln</field>
+    <field name="getty_place_1">7004446</field>
+    <field name="coordinates_place_1">50.9333,6.95</field>
+    <field name="subjects">Goethe A.2 Übersetzungen von Werken Goethes</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1221*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1221*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe17</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Gold's London Magazine, Nr. 19</field>
+    <field name="borrower">Hüttner, Johann Christian#117053759~1821-07-03</field>
+    <field name="dateLending">1821-07-03</field>
+    <field name="contributor">[Anonym]</field>
+    <field name="place_1">London</field>
+    <field name="getty_place_1">7011781</field>
+    <field name="coordinates_place_1">51.5142,-0.0931</field>
+    <field name="subjects">Goethe B.4.2 Allgemeine Zeitschriften. Ausland</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert371*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert371*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe18</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Les années d'apprentissage de Guillaume Meister: Roman traduit de l'Allemand: Par Goethé</field>
+    <field name="borrower">Lassaulx, Franz Georg Joseph von#116002182~1801-07-17</field>
+    <field name="dateLending">1801-07-17</field>
+    <field name="contributor">Goethe, Johann Wolfgang</field>
+    <field name="contributor">Lassaulx, Franz Georg Joseph von (Übers.)</field>
+    <field name="place_1">Koblenz</field>
+    <field name="getty_place_1">7004448</field>
+    <field name="coordinates_place_1">50.35,7.6</field>
+    <field name="subjects">Goethe A.1.2 Selbständige Schriften</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1863*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1863*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe19</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Les années d'apprentissage de Guillaume Meister: Roman traduit de l'Allemand: Par Goethé</field>
+    <field name="borrower">Lassaulx, Franz Georg Joseph von#116002182~1801-07-17</field>
+    <field name="dateLending">1801-07-17</field>
+    <field name="contributor">Goethe, Johann Wolfgang</field>
+    <field name="contributor">Lassaulx, Franz Georg Joseph von (Übers.)</field>
+    <field name="place_1">Koblenz</field>
+    <field name="getty_place_1">7004448</field>
+    <field name="coordinates_place_1">50.35,7.6</field>
+    <field name="subjects">Goethe A.1.2 Selbständige Schriften</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1863*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1863*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe20</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Goethowa Iphigenia W. Taurii Tragédia w pateru</field>
+    <field name="borrower">Mácháka, Simon Karl#1019705728~1822-09-10</field>
+    <field name="dateLending">1822-09-10</field>
+    <field name="contributor">Goethe, Johann Wolfgang</field>
+    <field name="contributor">Machácka, Simon Karl (Übers.)</field>
+    <field name="place_1">Prag</field>
+    <field name="getty_place_1">7006464</field>
+    <field name="coordinates_place_1">50.1,14.4333</field>
+    <field name="subjects">Goethe A.1.2 Selbständige Schriften</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1854*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1854*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe21</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Faust: Tragédie, de M. Goethe; Trad. En Français Par M. Albert Stapfer; Ornée d'un Portrait de l'Auteur, Et De Dix-Sept Dessins Composés D'Après Les principales Scènes De L'Ouvrage Et Exécutés Sur Pierre Par M. Eugène Delacroix</field>
+    <field name="borrower">Motte, Charles#121242986~1828-02-30</field>
+    <field name="dateLending">1828-02-30</field>
+    <field name="contributor">Goethe, Johann Wolfgang</field>
+    <field name="contributor">Stapfer, Frédéric Albert Alexandre (Übers.)</field>
+    <field name="contributor">Delacroix, Eugène (Ill.)</field>
+    <field name="place_1">Paris</field>
+    <field name="getty_place_1">7008038</field>
+    <field name="coordinates_place_1">48.8667,2.3333</field>
+    <field name="subjects">Goethe A.1.2 Selbständige Schriften</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1826*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1826*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe22</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Observations on Leonardo da Vinci's celebrated picture of the last supper: By J.W. de Goethe, Minister of State to H.R.H. the Grand Duke of Saxe-Weimar, Author of Werther, Faust, Goetz of Berlichingen, &amp;c. &amp;c. ; translated from the German and accompanied with an introdroduktion, and a few notes by G.H. Noehden, LL.D.F.R.S. &amp;c.</field>
+    <field name="borrower">Nöhden, Georg Heinrich#117037788~1821-07-05</field>
+    <field name="dateLending">1821-07-05</field>
+    <field name="contributor">Goethe, Johann Wolfgang</field>
+    <field name="contributor">Nöhden, Georg Heinrich (Übers.)</field>
+    <field name="place_1">London</field>
+    <field name="getty_place_1">7011781</field>
+    <field name="coordinates_place_1">51.5142,-0.0931</field>
+    <field name="subjects">Goethe A.1.2 Selbständige Schriften</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1807*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1807*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe23</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (1. Ex.)</field>
+    <field name="borrower">Papadopoulos, Johannes~1818-08</field>
+    <field name="dateLending">1818-08</field>
+    <field name="contributor">Goethe, Johann Wolfgang</field>
+    <field name="contributor">Papadopoulos, Iōannēs (Übers.)</field>
+    <field name="place_1">Jena</field>
+    <field name="getty_place_1">7005973</field>
+    <field name="coordinates_place_1">50.9333,11.5833</field>
+    <field name="subjects">Goethe A.1.2 Selbständige Schriften</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1853*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1853*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe24</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (2. Ex.)</field>
+    <field name="borrower">Papadopoulos, Johannes~1818-08</field>
+    <field name="dateLending">1818-08</field>
+    <field name="contributor">Goethe, Johann Wolfgang</field>
+    <field name="contributor">Papadopoulos, Iōannēs (Übers.)</field>
+    <field name="place_1">Jena</field>
+    <field name="getty_place_1">7005973</field>
+    <field name="coordinates_place_1">50.9333,11.5833</field>
+    <field name="subjects">Goethe A.1.2 Selbständige Schriften</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1853*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1853*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe25</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (3. Ex.)</field>
+    <field name="borrower">Papadopoulos, Johannes~1818-08</field>
+    <field name="dateLending">1818-08</field>
+    <field name="contributor">Goethe, Johann Wolfgang</field>
+    <field name="contributor">Papadopoulos, Iōannēs (Übers.)</field>
+    <field name="place_1">Jena</field>
+    <field name="getty_place_1">7005973</field>
+    <field name="coordinates_place_1">50.9333,11.5833</field>
+    <field name="subjects">Goethe A.1.2 Selbständige Schriften</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1853*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1853*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe26</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (4. Ex.)</field>
+    <field name="borrower">Papadopoulos, Johannes~1818-08</field>
+    <field name="dateLending">1818-08</field>
+    <field name="contributor">Goethe, Johann Wolfgang</field>
+    <field name="contributor">Papadopoulos, Iōannēs (Übers.)</field>
+    <field name="place_1">Jena</field>
+    <field name="getty_place_1">7005973</field>
+    <field name="coordinates_place_1">50.9333,11.5833</field>
+    <field name="subjects">Goethe A.1.2 Selbständige Schriften</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1853*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1853*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe27</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (5. Ex.)</field>
+    <field name="borrower">Papadopoulos, Johannes~1818-08</field>
+    <field name="dateLending">1818-08</field>
+    <field name="contributor">Goethe, Johann Wolfgang</field>
+    <field name="contributor">Papadopoulos, Iōannēs (Übers.)</field>
+    <field name="place_1">Jena</field>
+    <field name="getty_place_1">7005973</field>
+    <field name="coordinates_place_1">50.9333,11.5833</field>
+    <field name="subjects">Goethe A.1.2 Selbständige Schriften</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1853*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1853*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe28</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (6. Ex.)</field>
+    <field name="borrower">Papadopoulos, Johannes~1818-08</field>
+    <field name="dateLending">1818-08</field>
+    <field name="contributor">Goethe, Johann Wolfgang</field>
+    <field name="contributor">Papadopoulos, Iōannēs (Übers.)</field>
+    <field name="place_1">Jena</field>
+    <field name="getty_place_1">7005973</field>
+    <field name="coordinates_place_1">50.9333,11.5833</field>
+    <field name="subjects">Goethe A.1.2 Selbständige Schriften</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1853*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1853*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe29</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (7. Ex.)</field>
+    <field name="borrower">Papadopoulos, Johannes~1818-08</field>
+    <field name="dateLending">1818-08</field>
+    <field name="contributor">Goethe, Johann Wolfgang</field>
+    <field name="contributor">Papadopoulos, Iōannēs (Übers.)</field>
+    <field name="place_1">Jena</field>
+    <field name="getty_place_1">7005973</field>
+    <field name="coordinates_place_1">50.9333,11.5833</field>
+    <field name="subjects">Goethe A.1.2 Selbständige Schriften</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1853*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1853*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe30</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (8. Ex.)</field>
+    <field name="borrower">Papadopoulos, Johannes~1818-08</field>
+    <field name="dateLending">1818-08</field>
+    <field name="contributor">Goethe, Johann Wolfgang</field>
+    <field name="contributor">Papadopoulos, Iōannēs (Übers.)</field>
+    <field name="place_1">Jena</field>
+    <field name="getty_place_1">7005973</field>
+    <field name="coordinates_place_1">50.9333,11.5833</field>
+    <field name="subjects">Goethe A.1.2 Selbständige Schriften</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1853*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1853*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe31</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (9. Ex.)</field>
+    <field name="borrower">Papadopoulos, Johannes~1818-08</field>
+    <field name="dateLending">1818-08</field>
+    <field name="contributor">Goethe, Johann Wolfgang</field>
+    <field name="contributor">Papadopoulos, Iōannēs (Übers.)</field>
+    <field name="place_1">Jena</field>
+    <field name="getty_place_1">7005973</field>
+    <field name="coordinates_place_1">50.9333,11.5833</field>
+    <field name="subjects">Goethe A.1.2 Selbständige Schriften</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1853*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1853*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe32</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (10. Ex.)</field>
+    <field name="borrower">Papadopoulos, Johannes~1818-08</field>
+    <field name="dateLending">1818-08</field>
+    <field name="contributor">Goethe, Johann Wolfgang</field>
+    <field name="contributor">Papadopoulos, Iōannēs (Übers.)</field>
+    <field name="place_1">Jena</field>
+    <field name="getty_place_1">7005973</field>
+    <field name="coordinates_place_1">50.9333,11.5833</field>
+    <field name="subjects">Goethe A.1.2 Selbständige Schriften</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1853*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1853*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe33</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (11. Ex.)</field>
+    <field name="borrower">Papadopoulos, Johannes~1818-08</field>
+    <field name="dateLending">1818-08</field>
+    <field name="contributor">Goethe, Johann Wolfgang</field>
+    <field name="contributor">Papadopoulos, Iōannēs (Übers.)</field>
+    <field name="place_1">Jena</field>
+    <field name="getty_place_1">7005973</field>
+    <field name="coordinates_place_1">50.9333,11.5833</field>
+    <field name="subjects">Goethe A.1.2 Selbständige Schriften</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1853*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1853*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe34</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (12. Ex.)</field>
+    <field name="borrower">Papadopoulos, Johannes~1818-08</field>
+    <field name="dateLending">1818-08</field>
+    <field name="contributor">Goethe, Johann Wolfgang</field>
+    <field name="contributor">Papadopoulos, Iōannēs (Übers.)</field>
+    <field name="place_1">Jena</field>
+    <field name="getty_place_1">7005973</field>
+    <field name="coordinates_place_1">50.9333,11.5833</field>
+    <field name="subjects">Goethe A.1.2 Selbständige Schriften</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1853*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1853*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe35</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (13. Ex.)</field>
+    <field name="borrower">Papadopoulos, Johannes~1818-08</field>
+    <field name="dateLending">1818-08</field>
+    <field name="contributor">Goethe, Johann Wolfgang</field>
+    <field name="contributor">Papadopoulos, Iōannēs (Übers.)</field>
+    <field name="place_1">Jena</field>
+    <field name="getty_place_1">7005973</field>
+    <field name="coordinates_place_1">50.9333,11.5833</field>
+    <field name="subjects">Goethe A.1.2 Selbständige Schriften</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1853*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1853*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe36</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (14. Ex.)</field>
+    <field name="borrower">Papadopoulos, Johannes~1818-08</field>
+    <field name="dateLending">1818-08</field>
+    <field name="contributor">Goethe, Johann Wolfgang</field>
+    <field name="contributor">Papadopoulos, Iōannēs (Übers.)</field>
+    <field name="place_1">Jena</field>
+    <field name="getty_place_1">7005973</field>
+    <field name="coordinates_place_1">50.9333,11.5833</field>
+    <field name="subjects">Goethe A.1.2 Selbständige Schriften</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1853*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1853*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe37</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (15. Ex.)</field>
+    <field name="borrower">Papadopoulos, Johannes~1818-08</field>
+    <field name="dateLending">1818-08</field>
+    <field name="contributor">Goethe, Johann Wolfgang</field>
+    <field name="contributor">Papadopoulos, Iōannēs (Übers.)</field>
+    <field name="place_1">Jena</field>
+    <field name="getty_place_1">7005973</field>
+    <field name="coordinates_place_1">50.9333,11.5833</field>
+    <field name="subjects">Goethe A.1.2 Selbständige Schriften</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1853*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1853*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe38</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (16. Ex.)</field>
+    <field name="borrower">Papadopoulos, Johannes~1818-08</field>
+    <field name="dateLending">1818-08</field>
+    <field name="contributor">Goethe, Johann Wolfgang</field>
+    <field name="contributor">Papadopoulos, Iōannēs (Übers.)</field>
+    <field name="place_1">Jena</field>
+    <field name="getty_place_1">7005973</field>
+    <field name="coordinates_place_1">50.9333,11.5833</field>
+    <field name="subjects">Goethe A.1.2 Selbständige Schriften</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1853*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1853*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe39</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (17. Ex.)</field>
+    <field name="borrower">Papadopoulos, Johannes~1818-08</field>
+    <field name="dateLending">1818-08</field>
+    <field name="contributor">Goethe, Johann Wolfgang</field>
+    <field name="contributor">Papadopoulos, Iōannēs (Übers.)</field>
+    <field name="place_1">Jena</field>
+    <field name="getty_place_1">7005973</field>
+    <field name="coordinates_place_1">50.9333,11.5833</field>
+    <field name="subjects">Goethe A.1.2 Selbständige Schriften</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1853*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1853*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe40</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (18. Ex.)</field>
+    <field name="borrower">Papadopoulos, Johannes~1818-08</field>
+    <field name="dateLending">1818-08</field>
+    <field name="contributor">Goethe, Johann Wolfgang</field>
+    <field name="contributor">Papadopoulos, Iōannēs (Übers.)</field>
+    <field name="place_1">Jena</field>
+    <field name="getty_place_1">7005973</field>
+    <field name="coordinates_place_1">50.9333,11.5833</field>
+    <field name="subjects">Goethe A.1.2 Selbständige Schriften</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1853*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1853*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe41</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (19. Ex.)</field>
+    <field name="borrower">Papadopoulos, Johannes~1818-08</field>
+    <field name="dateLending">1818-08</field>
+    <field name="contributor">Goethe, Johann Wolfgang</field>
+    <field name="contributor">Papadopoulos, Iōannēs (Übers.)</field>
+    <field name="place_1">Jena</field>
+    <field name="getty_place_1">7005973</field>
+    <field name="coordinates_place_1">50.9333,11.5833</field>
+    <field name="subjects">Goethe A.1.2 Selbständige Schriften</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1853*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1853*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe42</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (20. Ex.)</field>
+    <field name="borrower">Papadopoulos, Johannes~1818-08</field>
+    <field name="dateLending">1818-08</field>
+    <field name="contributor">Goethe, Johann Wolfgang</field>
+    <field name="contributor">Papadopoulos, Iōannēs (Übers.)</field>
+    <field name="place_1">Jena</field>
+    <field name="getty_place_1">7005973</field>
+    <field name="coordinates_place_1">50.9333,11.5833</field>
+    <field name="subjects">Goethe A.1.2 Selbständige Schriften</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1853*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1853*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe43</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (21. Ex.)</field>
+    <field name="borrower">Papadopoulos, Johannes~1818-08</field>
+    <field name="dateLending">1818-08</field>
+    <field name="contributor">Goethe, Johann Wolfgang</field>
+    <field name="contributor">Papadopoulos, Iōannēs (Übers.)</field>
+    <field name="place_1">Jena</field>
+    <field name="getty_place_1">7005973</field>
+    <field name="coordinates_place_1">50.9333,11.5833</field>
+    <field name="subjects">Goethe A.1.2 Selbständige Schriften</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1853*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1853*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe44</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (22. Ex.)</field>
+    <field name="borrower">Papadopoulos, Johannes~1818-08</field>
+    <field name="dateLending">1818-08</field>
+    <field name="contributor">Goethe, Johann Wolfgang</field>
+    <field name="contributor">Papadopoulos, Iōannēs (Übers.)</field>
+    <field name="place_1">Jena</field>
+    <field name="getty_place_1">7005973</field>
+    <field name="coordinates_place_1">50.9333,11.5833</field>
+    <field name="subjects">Goethe A.1.2 Selbständige Schriften</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1853*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1853*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe45</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (23. Ex.)</field>
+    <field name="borrower">Papadopoulos, Johannes~1818-08</field>
+    <field name="dateLending">1818-08</field>
+    <field name="contributor">Goethe, Johann Wolfgang</field>
+    <field name="contributor">Papadopoulos, Iōannēs (Übers.)</field>
+    <field name="place_1">Jena</field>
+    <field name="getty_place_1">7005973</field>
+    <field name="coordinates_place_1">50.9333,11.5833</field>
+    <field name="subjects">Goethe A.1.2 Selbständige Schriften</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1853*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1853*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe46</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (24. Ex.)</field>
+    <field name="borrower">Papadopoulos, Johannes~1818-08</field>
+    <field name="dateLending">1818-08</field>
+    <field name="contributor">Goethe, Johann Wolfgang</field>
+    <field name="contributor">Papadopoulos, Iōannēs (Übers.)</field>
+    <field name="place_1">Jena</field>
+    <field name="getty_place_1">7005973</field>
+    <field name="coordinates_place_1">50.9333,11.5833</field>
+    <field name="subjects">Goethe A.1.2 Selbständige Schriften</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1853*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1853*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe47</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (25. Ex.)</field>
+    <field name="borrower">Papadopoulos, Johannes~1818-08</field>
+    <field name="dateLending">1818-08</field>
+    <field name="contributor">Goethe, Johann Wolfgang</field>
+    <field name="contributor">Papadopoulos, Iōannēs (Übers.)</field>
+    <field name="place_1">Jena</field>
+    <field name="getty_place_1">7005973</field>
+    <field name="coordinates_place_1">50.9333,11.5833</field>
+    <field name="subjects">Goethe A.1.2 Selbständige Schriften</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1853*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1853*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe48</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (26. Ex.)</field>
+    <field name="borrower">Papadopoulos, Johannes~1818-08</field>
+    <field name="dateLending">1818-08</field>
+    <field name="contributor">Goethe, Johann Wolfgang</field>
+    <field name="contributor">Papadopoulos, Iōannēs (Übers.)</field>
+    <field name="place_1">Jena</field>
+    <field name="getty_place_1">7005973</field>
+    <field name="coordinates_place_1">50.9333,11.5833</field>
+    <field name="subjects">Goethe A.1.2 Selbständige Schriften</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1853*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1853*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe49</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (31. Ex.)</field>
+    <field name="borrower">Papadopoulos, Johannes~1818-08</field>
+    <field name="dateLending">1818-08</field>
+    <field name="contributor">Goethe, Johann Wolfgang</field>
+    <field name="contributor">Papadopoulos, Iōannēs (Übers.)</field>
+    <field name="place_1">Jena</field>
+    <field name="getty_place_1">7005973</field>
+    <field name="coordinates_place_1">50.9333,11.5833</field>
+    <field name="subjects">Goethe A.1.2 Selbständige Schriften</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1853*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1853*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe50</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Iphigenia in Tauris: A tragedy: Written originally in German</field>
+    <field name="borrower">Spiker, Samuel Heinrich#117491055~1831-03-15</field>
+    <field name="dateLending">1831-03-15</field>
+    <field name="contributor">Goethe, Johann Wolfgang</field>
+    <field name="contributor">Taylor, William (Übers.)</field>
+    <field name="place_1">Berlin</field>
+    <field name="getty_place_1">7003712</field>
+    <field name="coordinates_place_1">52.516667,13.4</field>
+    <field name="subjects">Goethe A.1.2 Selbständige Schriften</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1850*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1850*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe51</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Iphigenia in Tauris: A tragedy: Written originally in German [Nachdruck]</field>
+    <field name="borrower">Spiker, Samuel Heinrich#117491055~1831-03-15</field>
+    <field name="dateLending">1831-03-15</field>
+    <field name="contributor">Goethe, Johann Wolfgang</field>
+    <field name="contributor">Taylor, William (Übers.)</field>
+    <field name="place_1">Berlin</field>
+    <field name="getty_place_1">7003712</field>
+    <field name="coordinates_place_1">52.516667,13.4</field>
+    <field name="subjects">Goethe A.1.2 Selbständige Schriften</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1851*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1851*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe52</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Oeuvres Dramatiques De J. W. Goethe: Traduites De L'Allemand Précédées D'Une Notice Biographique Et Littéraire Sur Goethe, Bd. 1</field>
+    <field name="borrower">Stapfer, Frédéric Albert Alexandre#120959747~1826-06-27</field>
+    <field name="dateLending">1826-06-27</field>
+    <field name="contributor">Goethe, Johann Wolfgang</field>
+    <field name="contributor">Stapfer, Frédéric Albert Alexandre (Übers.)</field>
+    <field name="place_1">Château de Talcy</field>
+    <field name="getty_place_1">1100356</field>
+    <field name="coordinates_place_1">47.7667,1.45</field>
+    <field name="subjects">Goethe A.1.1 Goethe. Werkausgaben</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1805*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1805*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe53</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Oeuvres Dramatiques De J. W. Goethe: Traduites De L'Allemand Précédées D'Une Notice Biographique Et Littéraire Sur Goethe, Bd. 2</field>
+    <field name="borrower">Stapfer, Frédéric Albert Alexandre#120959747~1821-12-03</field>
+    <field name="dateLending">1821-12-03</field>
+    <field name="contributor">Goethe, Johann Wolfgang</field>
+    <field name="contributor">Stapfer, Frédéric Albert Alexandre (Übers.)</field>
+    <field name="place_1">Paris</field>
+    <field name="getty_place_1">7008038</field>
+    <field name="coordinates_place_1">48.8667,2.3333</field>
+    <field name="subjects">Goethe A.1.1 Goethe. Werkausgaben</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1805*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1805*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe54</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Oeuvres Dramatiques De J. W. Goethe: Traduites De L'Allemand Précédées D'Une Notice Biographique Et Littéraire Sur Goethe, Bd. 3</field>
+    <field name="borrower">Stapfer, Frédéric Albert Alexandre#120959747~1821-12-03</field>
+    <field name="dateLending">1821-12-03</field>
+    <field name="contributor">Goethe, Johann Wolfgang</field>
+    <field name="contributor">Stapfer, Frédéric Albert Alexandre (Übers.)</field>
+    <field name="place_1">Paris</field>
+    <field name="getty_place_1">7008038</field>
+    <field name="coordinates_place_1">48.8667,2.3333</field>
+    <field name="subjects">Goethe A.1.1 Goethe. Werkausgaben</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1805*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1805*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe55</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Oeuvres Dramatiques De J. W. Goethe: Traduites De L'Allemand Précédées D'Une Notice Biographique Et Littéraire Sur Goethe, Bd. 4</field>
+    <field name="borrower">Stapfer, Frédéric Albert Alexandre#120959747~1823-01-18</field>
+    <field name="dateLending">1823-01-18</field>
+    <field name="contributor">Goethe, Johann Wolfgang</field>
+    <field name="contributor">Stapfer, Frédéric Albert Alexandre (Übers.)</field>
+    <field name="place_1">Paris</field>
+    <field name="getty_place_1">7008038</field>
+    <field name="coordinates_place_1">48.8667,2.3333</field>
+    <field name="subjects">Goethe A.1.1 Goethe. Werkausgaben</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1805*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1805*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe56</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Des hommes célèbres de France au dix-huitième siècle, et de l'état de la littérature et des arts a la mème époque: Suivie des notes des traducteurs</field>
+    <field name="borrower">Teichmann, Johann Valentin#117253006~1823-04-09</field>
+    <field name="dateLending">1823-04-09</field>
+    <field name="contributor">Goethe, Johann Wolfgang</field>
+    <field name="contributor">Diderot, Denis</field>
+    <field name="contributor">Saur, Joseph Henri de (Übers.)</field>
+    <field name="contributor">Saint-Géniés, Léonce de (Übers.)</field>
+    <field name="place_1">Berlin</field>
+    <field name="getty_place_1">7003712</field>
+    <field name="coordinates_place_1">52.516667,13.4</field>
+    <field name="subjects">Goethe A.1.2 Selbständige Schriften</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1848*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1848*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe57</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (27. Ex.)</field>
+    <field name="borrower">Weller, Christian Friedrich Ernst#117344257~1818-08-03</field>
+    <field name="dateLending">1818-08-03</field>
+    <field name="contributor">Goethe, Johann Wolfgang</field>
+    <field name="contributor">Papadopoulos, Iōannēs (Übers.)</field>
+    <field name="place_1">Jena</field>
+    <field name="getty_place_1">7005973</field>
+    <field name="coordinates_place_1">50.9333,11.5833</field>
+    <field name="subjects">Goethe A.1.2 Selbständige Schriften</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1853*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1853*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe58</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (28. Ex.)</field>
+    <field name="borrower">Weller, Christian Friedrich Ernst#117344257~1818-08-03</field>
+    <field name="dateLending">1818-08-03</field>
+    <field name="contributor">Goethe, Johann Wolfgang</field>
+    <field name="contributor">Papadopoulos, Iōannēs (Übers.)</field>
+    <field name="place_1">Jena</field>
+    <field name="getty_place_1">7005973</field>
+    <field name="coordinates_place_1">50.9333,11.5833</field>
+    <field name="subjects">Goethe A.1.2 Selbständige Schriften</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1853*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1853*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe59</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (29. Ex.)</field>
+    <field name="borrower">Weller, Christian Friedrich Ernst#117344257~1818-08-03</field>
+    <field name="dateLending">1818-08-03</field>
+    <field name="contributor">Goethe, Johann Wolfgang</field>
+    <field name="contributor">Papadopoulos, Iōannēs (Übers.)</field>
+    <field name="place_1">Jena</field>
+    <field name="getty_place_1">7005973</field>
+    <field name="coordinates_place_1">50.9333,11.5833</field>
+    <field name="subjects">Goethe A.1.2 Selbständige Schriften</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1853*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1853*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe60</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Iphigeneia h? en Taurois: Trag?dia eis pente praxeis (30. Ex.)</field>
+    <field name="borrower">Weller, Christian Friedrich Ernst#117344257~1818-08-03</field>
+    <field name="dateLending">1818-08-03</field>
+    <field name="contributor">Goethe, Johann Wolfgang</field>
+    <field name="contributor">Papadopoulos, Iōannēs (Übers.)</field>
+    <field name="place_1">Jena</field>
+    <field name="getty_place_1">7005973</field>
+    <field name="coordinates_place_1">50.9333,11.5833</field>
+    <field name="subjects">Goethe A.1.2 Selbständige Schriften</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1853*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1853*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe61</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Metrische griechische Übersetzung des zweiten Gesanges (v. 1-273) von Goethes Hermann und Dorothea: mit beigefügtem Original und latein. Uebersetzung von Fischer. Einladungsschrift zu den am 1. 2. und 3. April 1830 anzustellenden öffentlichen Prüfungen und Redeübungen</field>
+    <field name="borrower">Winckler, Heinrich Arnold Wilhelm#117399817~1830-04-17</field>
+    <field name="dateLending">1830-04-17</field>
+    <field name="contributor">Goethe, Johann Wolfgang</field>
+    <field name="contributor">Fischer, Benjamin Gottlob (Übers.)</field>
+    <field name="contributor">Winckler, Heinrich Arnold Wilhelm (Übers.)</field>
+    <field name="place_1">Gießen</field>
+    <field name="getty_place_1">7004429</field>
+    <field name="coordinates_place_1">50.5833,8.65</field>
+    <field name="subjects">Goethe A.1.2 Selbständige Schriften</field>
+    <field name="institutionOriginal">KSW</field>
+    <field name="shelfmarkOriginal">ruppert1846*</field>
+    <field name="bound">1</field>
+    <field name="originalLink">https://lhwei.gbv.de/DB=2/CMD?ACT=SRCHA&amp;TRM=sgn+ruppert1846*</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+  <doc>
+    <field name="id">goethe62</field>
+    <field name="volumes">1</field>
+    <field name="borrower"></field>
+    <field name="place_1"></field>
+    <field name="targetOPAC">d</field>
+    <field name="bound">1</field>
+    <field name="owner">Goethe, Johann Wolfgang von</field>
+    <field name="ownerGND">118540238</field>
+    <field name="dateCollection">1832</field>
+    <field name="nameCollection">Übersetzungen von Goethes Texten</field>
+    <field name="GeoBrowserLink">https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/783996</field>
+  </doc>
+</add>

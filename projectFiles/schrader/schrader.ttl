@@ -1,0 +1,126 @@
+@prefix br: <http://bibliotheksrekonstruktion.hab.de/> .
+@prefix libreto: <http://bibliotheksrekonstruktion.hab.de/ontology.php#> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix gn: <http://www.geonames.org/ontology#> .
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+
+br:schrader
+  a libreto:Collection ;
+  dc:date "1775"@xsd:gYear ;
+  dc:title "Bibliothek des Heinrich Bernhard Schrader zu Schliestedt" ;
+  dc:description "Abstract"@de .
+
+<br:schrader/catalogues/HAB_M%3A+Bc+1982>
+  a libreto:Catalogue ;
+  dc:date "1775"@xsd:gYear ;
+  libreto:shelfmark "M: Bc 1982" ;
+  libreto:owner "HAB" ;
+  dc:title "Apparatus librorum" ;
+  libreto:hasEntry [
+    a libreto:CatalogueEntry ;
+    libreto:text "Biblia Regia 8 Voll. Antw. Plantijn" ;
+    libreto:page "2" ;
+    libreto:heading "Libri Theologici In Folio" ;
+    libreto:number "1" ;
+    libreto:imageURL "http://diglib.hab.de/drucke/bc-sbd-10-3s/start.htm?image=9" ;
+    libreto:refersTo <br:schrader/item_schrader0>
+  ] .
+
+<br:schrader/item_schrader0>
+  a libreto:Item ;
+  libreto:belongsTo br:schrader ;
+  dc:title "Biblia Sacra Hebraice, Chaldaice, Græce, & Latine Philippi II. Reg. Cathol. Pietate, Et Stvdio Ad Sacrosanctæ Ecclesiæ Vsvm" ;
+  dbo:numberOfVolumes "8"@xsd:integer ;
+  dc:publisher "Plantin, Christophe" ;
+  dbo:genre "Bibel"@http://uri.gbv.de/terminology/aadgenres/ ;
+  dc:language "heb"@iso6392, "arc"@iso6392, "grc"@iso6392, "syr"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <http://www.geonames.org/2803138> ;
+  libreto:hasManifestation <http://gso.gbv.de/DB=2.1/PPNSET?PPN=150613253> .
+
+<http://www.geonames.org/2803138>
+  a libreto:Place ;
+  gn:name "Antwerpen" ;
+  geo:lat "51.21989"@xsd:decimal ;
+  geo:long "4.40346"@xsd:decimal .
+
+<http://gso.gbv.de/DB=2.1/PPNSET?PPN=150613253>
+  a libreto:Manifestation ;
+  libreto:database "Gemeinsamer Bibliotheksverbund (GBV)" ;
+  dc:identifier "150613253" .
+
+<br:schrader/item_schrader1>
+  a libreto:Item ;
+  libreto:belongsTo br:schrader ;
+  dc:title "Vetus Testamentum Iuxta Septuaginta" ;
+  dc:date "1587"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "2°" ;
+  dc:publisher "Francesco Zanetti" ;
+  dbo:genre "Bibel"@http://uri.gbv.de/terminology/aadgenres/ ;
+  dc:language "grc"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <http://www.geonames.org/3169070> .
+
+<http://www.geonames.org/3169070>
+  a libreto:Place ;
+  gn:name "Rom" ;
+  geo:lat "41.89193"@xsd:decimal ;
+  geo:long "12.51133"@xsd:decimal .
+
+<br:schrader/item_schrader2>
+  a libreto:Item ;
+  libreto:belongsTo br:schrader ;
+  dc:date "1607"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "2°" ;
+  dc:publisher "Montanus" ;
+  dbo:genre "Bibel"@http://uri.gbv.de/terminology/aadgenres/ ;
+  libreto:physicalForm "gebunden"@de .
+
+<br:schrader/item_schrader3>
+  a libreto:Item ;
+  libreto:belongsTo br:schrader ;
+  dc:title "OPERA || MARCI TVLLII CICERONIS || QVOTQVOT AB INTERITV VINDICARI || SVMMORVM VIRORVM INDVSTRIA POTVERVNT,|| cùm ueterum exemplarium, tùm recentiorum collatione restituta,|| Et recognitione Ioachimi CAMERARII Pabergen/||sis elaborata ... || Accesserunt Castigationes Petri VICTORII, Rerum & uerborum INDEX || copiosus, ANNOTATIONES quo#[que] uariorum codicum ad eum || modum tractatae" ;
+  dc:date "1540"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "2°" ;
+  dc:publisher "Herwagen, Johannes d.Ä." ;
+  dc:subject "Altertumskunde"@http://uri.gbv.de/terminology/aadgenres/ ;
+  dc:language "lat"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <http://www.geonames.org/2661604> ;
+  libreto:hasManifestation <http://gateway-bayern.de/VD16+C 2816> .
+
+<http://www.geonames.org/2661604>
+  a libreto:Place ;
+  gn:name "Basel" ;
+  geo:lat "47.55839"@xsd:decimal ;
+  geo:long "7.57327"@xsd:decimal .
+
+<http://gateway-bayern.de/VD16+C 2816>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)" ;
+  dc:identifier "C 2816" .
+
+<br:schrader/item_schrader4>
+  a libreto:Item ;
+  libreto:belongsTo br:schrader ;
+  dc:title "M.TVLLII CICERO-||NIS PHILIPPICAE ORATIONES XIIII || IN M.ANTONIVM, A CAELIO SECVNDO CVRIONE POST || omnes omnium castigationes diligentius emendatae:|| & nouis, ijsʻ#[que] perpetuis explicatio=||nibus illustratae.|| HIS accessere Orationes quatuor, ad Philippicarum argumen||tum pertinentes, ex Dione historico, eodem Caelio Secundo Cu||rione interprete & explicatore" ;
+  dc:date "1551"@xsd:gYear ;
+  dbo:numberOfVolumes "1"@xsd:integer ;
+  libreto:bibliographicalFormat "2°" ;
+  dc:publisher "Froben, Hieronymus", "Episcopius, Nicolaus" ;
+  dc:subject "Altertumskunde"@http://uri.gbv.de/terminology/aadgenres/ ;
+  dbo:genre "Rede"@http://uri.gbv.de/terminology/aadgenres/ ;
+  dc:language "lat"@iso6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <http://www.geonames.org/2661604> ;
+  libreto:hasManifestation <http://gateway-bayern.de/VD16+C 3544> .
+
+<http://gateway-bayern.de/VD16+C 3544>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (VD 16)" ;
+  dc:identifier "C 3544" .
+
