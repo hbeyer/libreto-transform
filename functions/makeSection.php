@@ -9,9 +9,12 @@ function makeSections($data, $field) {
 		$section = new section();
 		$section->label = $entry->label;
 		$section->level = $entry->level;
-		$section->authority = $entry->authority;
-        
-		$section->geoData = $entry->geoData;
+		if ($field == 'persName') {
+			$section->authority = $entry->authority;
+		}
+		elseif ($field == 'placeName') {
+			$section->geoData = $entry->geoData;
+		}
 		$count = 1;
 		foreach($entry->content as $idItem) {
 			$section->content[] = $data[$idItem];
