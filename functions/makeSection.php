@@ -9,7 +9,7 @@ function makeSections($data, $field) {
 		$section = new section();
 		$section->label = $entry->label;
 		$section->level = $entry->level;
-		if ($field == 'persName') {
+		if ($field == 'persName' or $field == 'borrower') {
 			$section->authority = $entry->authority;
 		}
 		elseif ($field == 'placeName') {

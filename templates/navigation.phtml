@@ -6,7 +6,7 @@
                     <ul class="dropdown-menu">
                         <li><a href="<?php echo $catalogue->fileName.'-'.$field; ?>.html">Seitenanfang</a></li>
 <?php foreach ($toc as $entry): ?>
-                        <li><a href="<?php echo $catalogue->fileName.'-'.$field; ?>.html#<?php echo translateAnchor($entry['label']); ?>"><?php echo $entry['quantifiedLabel']; ?></a></li>
+                        <li><a href="<?php echo $catalogue->fileName.'-'.$field; ?>.html#<?php echo $entry['anchor']; ?>"><?php echo $entry['quantifiedLabel']; ?></a></li>
 <?php endforeach; ?>
                     </ul>
                 </li>

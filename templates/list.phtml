@@ -1,21 +1,8 @@
 <?php foreach ($structure as $section): ?>
-<?php
-
-$anchorCollapse = null;
-$gnd = null;
-if ($section->authority['system'] == 'gnd' and $section->authority['id']) {
-    $gnd = $section->authority['id'];
-    $anchor = 'person'.$section->authority['id'];
-    $anchorCollapse = $section->authority['id'];
-}
-else {
-    $anchor = translateAnchor($section->label);
-}
-
-?>
-            <h<?php echo $section->level + 1; ?> id="<?php echo $anchor; ?>"><?php if ($section->quantifiedLabel): ?><?php echo $section->quantifiedLabel; ?><?php else: ?><?php echo $section->label; ?><?php endif; ?>
+<?php $anchorCollapse = $section->makeAnchorCollapse(); ?>
+            <h<?php echo $section->level + 1; ?> id="<?php echo $section->makeAnchor(); ?>"><?php if ($section->quantifiedLabel): ?><?php echo $section->quantifiedLabel; ?><?php else: ?><?php echo $section->label; ?><?php endif; ?>
 <?php if ($anchorCollapse): ?> 
-            <a href="#<?php echo $anchorCollapse; ?>" data-toggle="collapse"><span class="glyphicon glyphicon-info-sign" style="font-size:14px"></span></a><div id="<?php echo $anchorCollapse; ?>" class="collapse"><span style="font-size:14px"><?php echo makeBeaconLinks($gnd, $repository); ?></div>
+            <a href="#<?php echo $anchorCollapse; ?>" data-toggle="collapse"><span class="glyphicon glyphicon-info-sign" style="font-size:14px"></span></a><div id="<?php echo $anchorCollapse; ?>" class="collapse"><span style="font-size:14px"><?php echo makeBeaconLinks($section->authority['id'], $repository); ?></div>
 <?php endif; ?></h<?php echo $section->level + 1; ?>>
 <?php foreach ($section->content as $object): ?>
 <?php if (get_class($object) == 'item'): ?>

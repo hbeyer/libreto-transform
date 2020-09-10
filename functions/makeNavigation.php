@@ -16,7 +16,7 @@ function makeToC($structure) {
 	$ToC = array();
 	foreach($structure as $section) {
 		if($section->level == 1) {
-			$ToCEntry = array('label' => $section->label, 'quantifiedLabel' => $section->quantifiedLabel);
+			$ToCEntry = array('label' => $section->label, 'quantifiedLabel' => $section->quantifiedLabel, 'anchor' => $section->makeAnchor());
 			$ToC[] = $ToCEntry;
 		}
 	}
