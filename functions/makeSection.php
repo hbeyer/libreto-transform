@@ -161,7 +161,7 @@ function compareItemInVolume($a, $b) {
 
 
 function makeList($structure, $catalogue) {
-    $repository = new beacon_repository;
+    $repository = new beacon_repository(false);
     $count = 0;
 	ob_start();
 	include 'templates/list.phtml';

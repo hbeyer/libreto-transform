@@ -67,7 +67,7 @@ class reconstruction {
         }
     }
 
-    public function enrichData($beaconUpdate = true) {
+    public function enrichData($beaconUpdate = false) {
         /*if ($this->valid == 0) {
             return;
         }*/

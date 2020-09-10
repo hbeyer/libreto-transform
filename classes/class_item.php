@@ -1,3 +1,5 @@
+
+
 <?php
 
 class item	{ //Refers to an item (book, manuscript, etc.) listed in the catalogue
@@ -80,6 +82,10 @@ class item	{ //Refers to an item (book, manuscript, etc.) listed in the catalogu
 			$place = new place;
 			$place->placeName = removeBrackets($value);
 			$this->places[] = $place;
+		}
+		elseif ($name == 'mögl. Nachweise HAB') {
+			$values = explode(';', $value);
+			$this->copiesHAB = $values;
 		}
 /*
 		elseif (substr($name, 0, 5) == 'Druck') {
