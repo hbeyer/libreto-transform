@@ -104,10 +104,10 @@ class item	{ //Refers to an item (book, manuscript, etc.) listed in the catalogu
 			array_merge($this->publishers, $publishers);
 		}		
 		elseif ($name == 'Sachbegriff') {
-			$this->subjects[] = $value;
+			$this->subjects = explode(';', $value);
 		}
 		elseif ($name == 'Gattungsbegriff') {
-			$this->genres[] = $value;
+			$this->genres = explode(';', $value);
 		}
 		elseif (substr($name, 0, 5) == 'Sprac') {
 			$this->languages[] = $value;
