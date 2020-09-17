@@ -218,49 +218,51 @@ class geoDataArchive {
         if (!preg_match('~[0-9]{5,9}~', $id)) {
             return(null);
         }
-		//shell_exec('wget -O placeGetty.json .A.json "http://vocab.getty.edu/tgn/'.$id.'.json_decode(json)"');
-		$url = 'http://vocab.getty.edu/tgn/'.$id.'.json';
-		shell_exec('wget -O placeGetty.json .A.json "'.$url.'"');
-		$responseString = file_get_contents('placeGetty.json');
-		if (!$responseString) {
-			echo 'Probleme beim Laden von '.$url."\n";
+		$url = 'https://ref.de.dariah.eu/tgnsearch/tgnquery.xql?id='.$id;
+		$prefLabel = null;
+		$lat = null;
+		$long = null;
+
+		$doc = new DOMDocument;
+		$test = $doc->load($url);
+		if ($test == null) {
+			echo 'Fehler beim Laden von TGN '.$id;
 			return(null);
 		}
-		$response = json_decode($responseString);
-		
-		$lat = '';
-		$long = '';
-		$prefLabel = '';
 
-		foreach ($response->results->bindings as $binding) {
-			if($binding->Predicate->value == 'http://www.w3.org/2003/01/geo/wgs84_pos#lat') {
-				$lat = $binding->Object->value;
+		$xp = new DOMXPath($doc);
+		$xp->registerNamespace('tgn', 'http://textgrid.info/namespaces/vocabularies/tgn');
+
+		$labelNodes = $xp->query('//tgn:Preferred_Term/tgn:Term_Text');
+		foreach ($labelNodes as $labelNode) {
+			if ($labelNode->nodeValue) {
+				$prefLabel = $labelNode->nodeValue;
 				break;
 			}
 		}
-		foreach ($response->results->bindings as $binding) {
-			if($binding->Predicate->value == 'http://www.w3.org/2003/01/geo/wgs84_pos#long') {
-				$long = $binding->Object->value;
-				break;
-			}
+
+		$latNodes = $xp->query('//tgn:Latitude/tgn:Decimal');
+		if (!empty($latNodes->item(0))) {
+			$lat = $latNodes->item(0)->nodeValue;
 		}
-		foreach ($response->results->bindings as $binding) {
-			if($binding->Predicate->value == 'http://www.w3.org/2004/02/skos/core#prefLabel') {
-				$prefLabel = $binding->Object->value;
-				break;
-			}
+
+		$longNodes = $xp->query('//tgn:Longitude/tgn:Decimal');
+		if (!empty($longNodes->item(0))) {
+			$long = $longNodes->item(0)->nodeValue;
 		}
-		
+
+		if ($prefLabel == null or $lat == null or $long == null) {
+			return(null);
+		}
+
 		$entry = new geoDataArchiveEntry();
 		$entry->label = $prefLabel;
 		$entry->lat = $lat;
 		$entry->long = $long;
 		$entry->getty = $id;
 		
-		//unlink('placeGetty.json');
-
 		return($entry);
-	}	
+	}
 
 	function makeEntryFromGNDTTL($gnd) {
 		$target = 'http://d-nb.info/gnd/'.$gnd.'/about/lds';

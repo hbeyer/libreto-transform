@@ -131,13 +131,20 @@ class uploader_xml extends uploader {
     }
 
     private function makePersonFromNode($node) {
-        $properties = array('persName', 'gnd', 'gender', 'role', 'dateLending');
+        $properties = array('persName', 'gnd', 'gender', 'role');
         $children = $node->childNodes;
         $person = new person;
         foreach($children as $child) {
             $field = strval($child->nodeName);
-            if ($child->nodeName == 'dateLending') {
-                $person->dateLending[] = $child->nodeValue;
+            if (in_array($field, array('beacon', 'dateLending'))) {
+                if ($child->nodeValue) {
+                    $person->$field[] = $child->nodeValue;
+                }
+                else {
+                    foreach ($child->childNodes as $grandChild) {
+                        $person->$field[] = $grandChild->nodeValue;                        
+                    }
+                }
             }
             elseif(in_array($child->nodeName, $properties)) {
                 $person->$field = trim($child->nodeValue);
