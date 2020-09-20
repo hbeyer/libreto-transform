@@ -199,6 +199,7 @@
 				<xs:enumeration value="ESTC"/>
 				<xs:enumeration value="USTC"/>
 				<xs:enumeration value="WorldCat"/>
+				<xs:enumeration value="K10plus"/>
 				<xs:enumeration value="GBV"/>
 				<xs:enumeration value="GVK"/>
 				<!-- Synonym für GBV -->

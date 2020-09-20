@@ -84,10 +84,10 @@
       <systemManifestation>VD17</systemManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Ausgabe nicht bestimmbar;Mehrbändiges Werk, VD17-Nummern der Hauptaufnahme: VD17 23:295444R oder VD17 14:689921E</comment>
     <copiesHAB>
       <copyHAB>A: 1.2.2 Geogr. 2° (1)</copyHAB>
     </copiesHAB>
-    <Kommentar>Ausgabe nicht bestimmbar;Mehrbändiges Werk, VD17-Nummern der Hauptaufnahme: VD17 23:295444R oder VD17 14:689921E</Kommentar>
   </item>
   <item>
     <id>sturm1</id>
@@ -155,11 +155,11 @@
       <idManifestation>230625754</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</comment>
     <copiesHAB>
       <copyHAB>M: Cb gr.-2° 65:1</copyHAB>
       <copyHAB>M: Cb gr.-2° 65:2</copyHAB>
     </copiesHAB>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</Kommentar>
   </item>
   <item>
     <id>sturm2</id>
@@ -171,8 +171,7 @@
     <titleCat>Allerhandrtraits in groß folio.</titleCat>
     <format>2°</format>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00275</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm3</id>
@@ -184,8 +183,7 @@
     <titleCat>Gar viel zusammengebundener Land-Charten worander Catalogg.</titleCat>
     <format>2°</format>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00275</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm4</id>
@@ -197,8 +195,7 @@
     <titleCat>Noch zweÿ Band allerhand LandCharten wobeÿ ebenmeßig der Catalogus.</titleCat>
     <format>2°</format>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00275</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm5</id>
@@ -251,12 +248,11 @@
       <systemManifestation>K10plus</systemManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Ausgabe nicht bestimmbar;K10+ PPN 137699441 (Erscheinungsjahr 1617), K10+ PPN 040077950 (Erscheinungsjahr 1622)</comment>
     <copiesHAB>
       <copyHAB>A: 4.1 Geogr. 2° (1)</copyHAB>
       <copyHAB>H: T 33.2° Helmst.</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00275</Link>
-    <Kommentar>Ausgabe nicht bestimmbar;K10+ PPN 137699441 (Erscheinungsjahr 1617), K10+ PPN 040077950 (Erscheinungsjahr 1622)</Kommentar>
   </item>
   <item>
     <id>sturm6</id>
@@ -268,8 +264,7 @@
     <titleCat>Eine Mappa worinLandCharten.</titleCat>
     <format>2°</format>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00275</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm7</id>
@@ -325,7 +320,6 @@
     <copiesHAB>
       <copyHAB>M: Da 2° 10</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00275</Link>
   </item>
   <item>
     <id>sturm8</id>
@@ -399,12 +393,11 @@
       <idManifestation>150778597</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme;Enth. Grund- und Aufrisse sowie Querschnitte von Gebäuden in Genua</comment>
     <copiesHAB>
       <copyHAB>A: E 1 Geom. 2° (1)</copyHAB>
       <copyHAB>A: E 1 Geom. 2° (2)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00276</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme;Enth. Grund- und Aufrisse sowie Querschnitte von Gebäuden in Genua</Kommentar>
   </item>
   <item>
     <id>sturm9</id>
@@ -442,8 +435,7 @@
       <idManifestation>1505956951</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00276</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm10</id>
@@ -455,8 +447,7 @@
     <titleCat>Ein Band in türk[i]sch Papier worinn allerhand LandCharten.</titleCat>
     <format>2°</format>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00276</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm11</id>
@@ -468,8 +459,7 @@
     <titleCat>Eine Mappa worinn allerhand in Kupffer gestochene und gemahlte Stücke nebst einem Catalogo.</titleCat>
     <format>2°</format>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00276</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm12</id>
@@ -481,8 +471,7 @@
     <titleCat>Der in Dresden beÿ den Carneval 1695 sehr prächtig gehaltenen Aufzug in Kupfer nebst einer Beschreibung.</titleCat>
     <format>2°</format>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00276</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm13</id>
@@ -521,11 +510,10 @@
       <idManifestation>38794527X</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Nachdruck KS 25-1660</comment>
     <copiesHAB>
       <copyHAB>Microfiche 333:5,1,3-7</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00276</Link>
-    <Kommentar>Nachdruck KS 25-1660</Kommentar>
   </item>
   <item>
     <id>sturm14</id>
@@ -583,7 +571,6 @@
       <copyHAB>M: Uf gr.-2° 25</copyHAB>
       <copyHAB>H: Yv 1.2° Helmst.</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00276</Link>
   </item>
   <item>
     <id>sturm15</id>
@@ -633,8 +620,7 @@
       <idManifestation>1:000385Y</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00276</Link>
-    <Kommentar>Enthält neben Titel und Widmung von Bodenehr 42 Kupfer von und nach Bottschild;kein Nachweis HAB</Kommentar>
+    <comment>Enthält neben Titel und Widmung von Bodenehr 42 Kupfer von und nach Bottschild;kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm16</id>
@@ -684,12 +670,11 @@
       <idManifestation>535724241</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</comment>
     <copiesHAB>
       <copyHAB>A: 6.11 Phys. 2° (1)</copyHAB>
       <copyHAB>A: 6.11 Phys. 2° (2)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00276</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</Kommentar>
   </item>
   <item>
     <id>sturm17</id>
@@ -758,7 +743,6 @@
     <copiesHAB>
       <copyHAB>Xb 2° 103</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00276</Link>
   </item>
   <item>
     <id>sturm18</id>
@@ -818,12 +802,11 @@
       <idManifestation>150745133</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</comment>
     <copiesHAB>
       <copyHAB>M: Fd 2° 16</copyHAB>
       <copyHAB>H: T 93.2° Helmst.</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00276</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</Kommentar>
   </item>
   <item>
     <id>sturm19</id>
@@ -874,8 +857,7 @@
       <idManifestation>1116381087</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00276</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme;kein Nachweis HAB</Kommentar>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme;kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm20</id>
@@ -926,6 +908,7 @@
       <idManifestation>13427962X</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hautaufnahme</comment>
     <copiesHAB>
       <copyHAB>A: 48.1 Quod. 2°</copyHAB>
       <copyHAB>A: 48.2 Quod. 2°</copyHAB>
@@ -933,8 +916,6 @@
       <copyHAB>
 A: 48.4 Quod. 2°</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00277</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hautaufnahme</Kommentar>
   </item>
   <item>
     <id>sturm21</id>
@@ -986,11 +967,10 @@ A: 48.4 Quod. 2°</copyHAB>
       <idManifestation>140376917</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>im Bestand der HAB nur eine Ausgabe von 1661 vorhanden (K10+ PPN 134254902)</comment>
     <copiesHAB>
       <copyHAB>H: T 8.2° Helmst.</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00277</Link>
-    <Kommentar>im Bestand der HAB nur eine Ausgabe von 1661 vorhanden (K10+ PPN 134254902)</Kommentar>
   </item>
   <item>
     <id>sturm22</id>
@@ -1036,11 +1016,10 @@ A: 48.4 Quod. 2°</copyHAB>
       <idManifestation>151473471</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</comment>
     <copiesHAB>
       <copyHAB>A: 2.1.3 Astron. 2° (1)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00277</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</Kommentar>
   </item>
   <item>
     <id>sturm23</id>
@@ -1089,12 +1068,11 @@ A: 48.4 Quod. 2°</copyHAB>
       <idManifestation>15147351X</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Mehrbändiges Werk:K10+ PPN der Hauptaufnahme</comment>
     <copiesHAB>
       <copyHAB>H: N 57.2° Helmst. (1)</copyHAB>
       <copyHAB>H: N 57.2° Helmst. (2)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00277</Link>
-    <Kommentar>Mehrbändiges Werk:K10+ PPN der Hauptaufnahme</Kommentar>
   </item>
   <item>
     <id>sturm24</id>
@@ -1162,14 +1140,13 @@ A: 48.4 Quod. 2°</copyHAB>
       <idManifestation>151522723</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</comment>
     <copiesHAB>
       <copyHAB>M: Na 2° 3 (1)</copyHAB>
       <copyHAB>M: Na 2° 3 (2)</copyHAB>
       <copyHAB>A: 2.1 Phys. 2° (1)</copyHAB>
       <copyHAB>A: 2.1 Phys. 2° (2)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00277</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</Kommentar>
   </item>
   <item>
     <id>sturm25</id>
@@ -1181,8 +1158,7 @@ A: 48.4 Quod. 2°</copyHAB>
     <titleCat>Florilogium vivum</titleCat>
     <format>2°</format>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00277</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm26</id>
@@ -1253,7 +1229,6 @@ A: 48.4 Quod. 2°</copyHAB>
       <copyHAB>M: Li 2° 90</copyHAB>
       <copyHAB>Schulenb. N 2° 33</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00277</Link>
   </item>
   <item>
     <id>sturm27</id>
@@ -1319,7 +1294,6 @@ A: 48.4 Quod. 2°</copyHAB>
     <copiesHAB>
       <copyHAB>A: 7.1 Geom. 2° (1)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00277</Link>
   </item>
   <item>
     <id>sturm28</id>
@@ -1398,8 +1372,7 @@ A: 48.4 Quod. 2°</copyHAB>
       <systemManifestation>VD17</systemManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00277</Link>
-    <Kommentar>Ausgabe nicht bestimmbar;VD17 12:651552R oder VD17 3122:734276B;kein Nachweis HAB</Kommentar>
+    <comment>Ausgabe nicht bestimmbar;VD17 12:651552R oder VD17 3122:734276B;kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm29</id>
@@ -1454,8 +1427,7 @@ A: 48.4 Quod. 2°</copyHAB>
       <idManifestation>211864382</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00277</Link>
-    <Kommentar>Schreibfehler beim Erscheinungsjahr: 1583 statt 1683;kein Nachweis HAB</Kommentar>
+    <comment>Schreibfehler beim Erscheinungsjahr: 1583 statt 1683;kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm30</id>
@@ -1509,8 +1481,7 @@ A: 48.4 Quod. 2°</copyHAB>
       <idManifestation>14751892X</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00277</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm31</id>
@@ -1561,8 +1532,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
       <idManifestation>868944491</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00277</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm32</id>
@@ -1614,8 +1584,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
       <idManifestation>142887269</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00277</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm33</id>
@@ -1674,8 +1643,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
       <idManifestation>150426836</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00277</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm34</id>
@@ -1729,8 +1697,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
       <idManifestation>14292251X</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00277</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm35</id>
@@ -1802,11 +1769,10 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
       <idManifestation>139871853</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Exlibris: Ex Bibliotheca L[udwig] R[udolf] Ducis Brunsvicensis Et Lunebuergensis. 55.</comment>
     <copiesHAB>
       <copyHAB>M: Ge 2° 7</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00277</Link>
-    <Kommentar>Exlibris: Ex Bibliotheca L[udwig] R[udolf] Ducis Brunsvicensis Et Lunebuergensis. 55.</Kommentar>
   </item>
   <item>
     <id>sturm36</id>
@@ -1854,11 +1820,10 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
       <idManifestation>151472297</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</comment>
     <copiesHAB>
       <copyHAB>H: N 13-14.2° Helmst.</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00278</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</Kommentar>
   </item>
   <item>
     <id>sturm37</id>
@@ -1909,11 +1874,10 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
       <idManifestation>151070857</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</comment>
     <copiesHAB>
       <copyHAB>M: Nb 2° 5</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00278</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</Kommentar>
   </item>
   <item>
     <id>sturm38</id>
@@ -1962,8 +1926,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
       <idManifestation>332283747</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00278</Link>
-    <Kommentar>kein Nachweis für 1599, nur für 1604;kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis für 1599, nur für 1604;kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm39</id>
@@ -2016,7 +1979,6 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
     <copiesHAB>
       <copyHAB>A: 2.1.4 Astron. 2° (1)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00278</Link>
   </item>
   <item>
     <id>sturm40</id>
@@ -2063,8 +2025,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
       <idManifestation>547:622910R</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00278</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm41</id>
@@ -2158,11 +2119,10 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
       <idManifestation>186902123</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>nur eine Ausgabe von 1698 nachgewiesen</comment>
     <copiesHAB>
       <copyHAB>Xb 4° 261</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00278</Link>
-    <Kommentar>nur eine Ausgabe von 1698 nachgewiesen</Kommentar>
   </item>
   <item>
     <id>sturm42</id>
@@ -2214,7 +2174,6 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
     <copiesHAB>
       <copyHAB>M: Jb 2° 15</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00278</Link>
   </item>
   <item>
     <id>sturm43</id>
@@ -2283,7 +2242,6 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
     <copiesHAB>
       <copyHAB>Schulenb. N 2° 89</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00278</Link>
   </item>
   <item>
     <id>sturm44</id>
@@ -2332,13 +2290,12 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
       <systemManifestation>K10plus</systemManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Ausgabe nicht bestimmbar;verschiedene Ausgaben mit Erscheinungsjahren zwischen 1668 und 1705 nachgewiesen;K10+ PPN 151311072, VD17 39:127588M, K10+ PPN 151311048, VD17 14:082413T oder K10+ PPN 151311013</comment>
     <copiesHAB>
       <copyHAB>M: Uf 4° 119</copyHAB>
       <copyHAB>M: Uf 2° 10</copyHAB>
       <copyHAB>H: N 169.2° Helmst. (1-2)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00278</Link>
-    <Kommentar>Ausgabe nicht bestimmbar;verschiedene Ausgaben mit Erscheinungsjahren zwischen 1668 und 1705 nachgewiesen;K10+ PPN 151311072, VD17 39:127588M, K10+ PPN 151311048, VD17 14:082413T oder K10+ PPN 151311013</Kommentar>
   </item>
   <item>
     <id>sturm45</id>
@@ -2395,11 +2352,10 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
       <systemManifestation>VD17</systemManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Ausgabe nicht bestimmbar;VD17 3:308099A (Erscheinungsjahr 1664) oder VD17 23:296832V (Erscheinungsjahr 1665);Nachweis der HAB hängt an K10+ PPN 150781814</comment>
     <copiesHAB>
       <copyHAB>A: 12.4 Geom. 2°</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00278</Link>
-    <Kommentar>Ausgabe nicht bestimmbar;VD17 3:308099A (Erscheinungsjahr 1664) oder VD17 23:296832V (Erscheinungsjahr 1665);Nachweis der HAB hängt an K10+ PPN 150781814</Kommentar>
   </item>
   <item>
     <id>sturm46</id>
@@ -2455,12 +2411,11 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
       <idManifestation>18421520X</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</comment>
     <copiesHAB>
       <copyHAB>M: Oe 2° 10:1</copyHAB>
       <copyHAB>M: Oe 2° 10:2</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00278</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</Kommentar>
   </item>
   <item>
     <id>sturm47</id>
@@ -2525,13 +2480,12 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
       <idManifestation>536025126</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</comment>
     <copiesHAB>
       <copyHAB>M: Ub 2° 6</copyHAB>
       <copyHAB>Xb 2° 6:1</copyHAB>
       <copyHAB>Xb 2° 6:2 (1)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00278</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</Kommentar>
   </item>
   <item>
     <id>sturm48</id>
@@ -2597,8 +2551,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
       <idManifestation>355578824</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00278</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm49</id>
@@ -2653,8 +2606,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
       <idManifestation>249667843</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00278</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme;kein Nachweis HAB</Kommentar>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme;kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm50</id>
@@ -2702,8 +2654,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
       <idManifestation>134253914</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00278</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm51</id>
@@ -2715,8 +2666,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
     <titleCat>Ein klein tractägen Guar: Guarani zur Baukunst gehörig 1693</titleCat>
     <format>2°</format>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00279</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm52</id>
@@ -2823,12 +2773,11 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
       <idManifestation>150236549</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Erscheinungsort weicht ab: Heidelberg (ermittelt) statt Prag</comment>
     <copiesHAB>
       <copyHAB>H: N 29.2° Helmst. (2)</copyHAB>
       <copyHAB>A: 15 Quod. 2° (1)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00279</Link>
-    <Kommentar>Erscheinungsort weicht ab: Heidelberg (ermittelt) statt Prag</Kommentar>
   </item>
   <item>
     <id>sturm53</id>
@@ -2879,11 +2828,10 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
       <idManifestation>537003975</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Exlibris: Ex Bibliotheca L[udovici] R[udolphi] Ducis Brunsvicensis Et Luneburgensis</comment>
     <copiesHAB>
       <copyHAB>M: Ug 2° 25 (1)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00279</Link>
-    <Kommentar>Exlibris: Ex Bibliotheca L[udovici] R[udolphi] Ducis Brunsvicensis Et Luneburgensis</Kommentar>
   </item>
   <item>
     <id>sturm54</id>
@@ -2943,7 +2891,6 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
     <copiesHAB>
       <copyHAB>M: Jb 4° 34</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00279</Link>
   </item>
   <item>
     <id>sturm55</id>
@@ -2993,11 +2940,10 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
       <idManifestation>155863533</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme;Nachweis der HAB hängt an K10+ PPN 151121575</comment>
     <copiesHAB>
       <copyHAB>A: 2.1 Astron. 2°</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00279</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme;Nachweis der HAB hängt an K10+ PPN 151121575</Kommentar>
   </item>
   <item>
     <id>sturm56</id>
@@ -3054,14 +3000,13 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
       <systemManifestation>K10plus</systemManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Ausgabe nicht bestimmbar;Mehrbändiges Werk, mögliche Nachweise (K10+ PPN) jeweils von der Hauptaufnahme: K10+ PPN 151052034 (Erscheinungsjahr ca. 1665), K10+ PPN 09181202X (Erscheinungsjahr 1664), K10+ PPN 151052085 (Erscheinungsjahr 1704)</comment>
     <copiesHAB>
       <copyHAB>H: N 169.2° Helmst. (4-7)</copyHAB>
       <copyHAB>A: 17.4 Geom. 2° (1), (2), (3), (4)</copyHAB>
       <copyHAB>H: N 167b.2° Helmst. (1), (2), (3), (4)</copyHAB>
       <copyHAB>M: Uf 2° 17</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00279</Link>
-    <Kommentar>Ausgabe nicht bestimmbar;Mehrbändiges Werk, mögliche Nachweise (K10+ PPN) jeweils von der Hauptaufnahme: K10+ PPN 151052034 (Erscheinungsjahr ca. 1665), K10+ PPN 09181202X (Erscheinungsjahr 1664), K10+ PPN 151052085 (Erscheinungsjahr 1704)</Kommentar>
   </item>
   <item>
     <id>sturm57</id>
@@ -3120,12 +3065,11 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
       <idManifestation>92222528</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>M: Od 4° 11: Exlibris: Ex Bibliotheca L R Ducis Brunsvicensis Et Luneburgensis.</comment>
     <copiesHAB>
       <copyHAB>M: Od 4° 11</copyHAB>
       <copyHAB>H: N 169.2° Helmst. (3)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00279</Link>
-    <Kommentar>M: Od 4° 11: Exlibris: Ex Bibliotheca L R Ducis Brunsvicensis Et Luneburgensis.</Kommentar>
   </item>
   <item>
     <id>sturm58</id>
@@ -3183,8 +3127,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
       <idManifestation>144498529</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00279</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm59</id>
@@ -3245,8 +3188,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
       <idManifestation>1110454945</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00279</Link>
-    <Kommentar>Verleger nicht eindeutig zuzuordnen;kein Nachweis HAB</Kommentar>
+    <comment>Verleger nicht eindeutig zuzuordnen;kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm60</id>
@@ -3297,11 +3239,10 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
       <idManifestation>91957907</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Schreibfehler beim Erscheinungsjahr: 1696 statt 1695</comment>
     <copiesHAB>
       <copyHAB>M: Ne 4° 37</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00279</Link>
-    <Kommentar>Schreibfehler beim Erscheinungsjahr: 1696 statt 1695</Kommentar>
   </item>
   <item>
     <id>sturm61</id>
@@ -3313,8 +3254,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
     <titleCat>Georgica Cariosa in 2 Bänden Nürnberg 1695.</titleCat>
     <format>2°</format>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00279</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm62</id>
@@ -3375,11 +3315,10 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
       <idManifestation>153481056</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</comment>
     <copiesHAB>
       <copyHAB>Xb 4° 147:1-3</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00279</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</Kommentar>
   </item>
   <item>
     <id>sturm63</id>
@@ -3441,8 +3380,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
       <idManifestation>39:124568L</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00279</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm64</id>
@@ -3493,8 +3431,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
       <idManifestation>237043327</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00279</Link>
-    <Kommentar>Nach dem Erscheinungsjahr handelt es sich um den dritten Band eines mehrbändigen Werkes, der nicht im VD17 nachgewiesen ist;kein Nachweis HAB</Kommentar>
+    <comment>Nach dem Erscheinungsjahr handelt es sich um den dritten Band eines mehrbändigen Werkes, der nicht im VD17 nachgewiesen ist;kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm65</id>
@@ -3528,12 +3465,11 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
       <idManifestation>144271877</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Ausgabe nicht bestimmbar;Mehrbändiges Werk; K10+ PPN der Hauptaufnahme;Nachweis HAB von 1684</comment>
     <copiesHAB>
       <copyHAB>M: Jb 4° 68</copyHAB>
       <copyHAB>Schulenb. J 2° 80</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00279</Link>
-    <Kommentar>Ausgabe nicht bestimmbar;Mehrbändiges Werk; K10+ PPN der Hauptaufnahme;Nachweis HAB von 1684</Kommentar>
   </item>
   <item>
     <id>sturm66</id>
@@ -3583,7 +3519,6 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
     <copiesHAB>
       <copyHAB>M: Gm 4° 1126 (1)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00280</Link>
   </item>
   <item>
     <id>sturm67</id>
@@ -3649,7 +3584,6 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
     <copiesHAB>
       <copyHAB>M: Uf 4° 109</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00280</Link>
   </item>
   <item>
     <id>sturm68</id>
@@ -3665,8 +3599,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
     <titleCat>Allerhand Kupfer von uhralten großen Herren ohne Titul blat.</titleCat>
     <format>2°</format>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00280</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm69</id>
@@ -3708,7 +3641,6 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
       <copyHAB>2.3 Aug. 2°</copyHAB>
       <copyHAB>Xb 1670</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00280</Link>
   </item>
   <item>
     <id>sturm70</id>
@@ -3786,6 +3718,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
       <idManifestation>155837885</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</comment>
     <digitalCopy>http://diglib.hab.de/drucke/gm-4f-522-1/start.htm;http://diglib.hab.de/drucke/gm-4f-522-2/start.htm;http://diglib.hab.de/drucke/gm-4f-522-3/start.htm;http://diglib.hab.de/drucke/gm-4f-522-4/start.htm</digitalCopy>
     <copiesHAB>
       <copyHAB>M: Gm 4° 522:1</copyHAB>
@@ -3796,8 +3729,6 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
       <copyHAB>H: T 821.2° Helmst.</copyHAB>
       <copyHAB>H: T 822.2° Helmst.</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00280</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</Kommentar>
   </item>
   <item>
     <id>sturm71</id>
@@ -3891,7 +3822,6 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
     <copiesHAB>
       <copyHAB>M: Cc 2° 3</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00280</Link>
   </item>
   <item>
     <id>sturm72</id>
@@ -3903,8 +3833,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
     <titleCat>Annibalis Curraci Abbildung und Bilter in der Farnesischen Gallerie des Herzog|ligen Hauses von Parma in Rom. Augs|purg ohne Jahrzahl.</titleCat>
     <format>2°</format>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00280</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm73</id>
@@ -3959,11 +3888,10 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
       <idManifestation>151314160</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</comment>
     <copiesHAB>
       <copyHAB>M: Uf 2° 16</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00280</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</Kommentar>
   </item>
   <item>
     <id>sturm74</id>
@@ -4016,8 +3944,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
       <idManifestation>143444050</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00280</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm75</id>
@@ -4069,11 +3996,10 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
       <idManifestation>150442769</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</comment>
     <copiesHAB>
       <copyHAB>M: Fg 2° 8</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00280</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</Kommentar>
   </item>
   <item>
     <id>sturm76</id>
@@ -4085,8 +4011,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
     <titleCat>Eine Mappa worinn unterschiedl[ich] Kupferstücke gebunden.</titleCat>
     <format>2°</format>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00280</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm77</id>
@@ -4134,11 +4059,10 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
       <idManifestation>183256255</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Nach dem Erscheinungsjahr handelt es sich um den ersten Band eines mehrbändigen Werkes</comment>
     <copiesHAB>
       <copyHAB>M: Jb qu.-4° 40 (1)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00281</Link>
-    <Kommentar>Nach dem Erscheinungsjahr handelt es sich um den ersten Band eines mehrbändigen Werkes</Kommentar>
   </item>
   <item>
     <id>sturm78</id>
@@ -4189,8 +4113,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
       <idManifestation>13735925X</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00281</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm79</id>
@@ -4259,7 +4182,6 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
     <copiesHAB>
       <copyHAB>M: Uf 2° 20</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00281</Link>
   </item>
   <item>
     <id>sturm80</id>
@@ -4271,8 +4193,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
     <titleCat>Amsterdammische Gebäude durch Jacob von Konn[?pen?] abgebildet.</titleCat>
     <format>2°</format>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00281</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm81</id>
@@ -4304,8 +4225,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
     </persons>
     <format>2°</format>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00281</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm82</id>
@@ -4395,7 +4315,6 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
       <copyHAB>H: T 941.2° Helmst.</copyHAB>
       <copyHAB>A: 1.2.3 Geogr. 2° (1)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00281</Link>
   </item>
   <item>
     <id>sturm83</id>
@@ -4452,7 +4371,6 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
     <copiesHAB>
       <copyHAB>A: 1.2.5 Geogr. 2° (2)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00281</Link>
   </item>
   <item>
     <id>sturm84</id>
@@ -4500,11 +4418,10 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
       <idManifestation>150019556</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Mehrbändiges Werk;10+ PPN der Hauptaufnahme</comment>
     <copiesHAB>
       <copyHAB>H: T 7.2° Helmst.</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00281</Link>
-    <Kommentar>Mehrbändiges Werk;10+ PPN der Hauptaufnahme</Kommentar>
   </item>
   <item>
     <id>sturm85</id>
@@ -4578,7 +4495,6 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
     <copiesHAB>
       <copyHAB>M: Gv 4° 33 (2)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00281</Link>
   </item>
   <item>
     <id>sturm86</id>
@@ -4660,7 +4576,6 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
     <copiesHAB>
       <copyHAB>M: Gv 4° 34</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00281</Link>
   </item>
   <item>
     <id>sturm87</id>
@@ -4715,11 +4630,10 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
       <idManifestation>369946421</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Enthalten in M: Gv 4° 34</comment>
     <copiesHAB>
       <copyHAB>M: Gv 4° 34</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00281</Link>
-    <Kommentar>Enthalten in M: Gv 4° 34</Kommentar>
   </item>
   <item>
     <id>sturm88</id>
@@ -4784,11 +4698,10 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
       <idManifestation>150674414</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</comment>
     <copiesHAB>
       <copyHAB>M: Gv 4° 28 (1)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00281</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</Kommentar>
   </item>
   <item>
     <id>sturm89</id>
@@ -4861,14 +4774,13 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
       <idManifestation>91789915</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme;M: Cc 4° 56: Exlibris: Ex Bibliotheca LR Ducis Brunsvicensis Et Luneburgensis</comment>
     <digitalCopy>http://diglib.hab.de/drucke/cc-4f-56-1s/start.htm;http://diglib.hab.de/drucke/cc-4f-56-2s/start.htm</digitalCopy>
     <copiesHAB>
       <copyHAB>M: Cc 4° 56 (1)</copyHAB>
       <copyHAB>M: Cc 4° 56 (2)</copyHAB>
       <copyHAB>M: Gv 4° 28 (2)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00281</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme;M: Cc 4° 56: Exlibris: Ex Bibliotheca LR Ducis Brunsvicensis Et Luneburgensis</Kommentar>
   </item>
   <item>
     <id>sturm90</id>
@@ -4933,13 +4845,12 @@ Durchgehends mit schönen Kupfern/ als Landcharten und Abrissen der fürnemsten 
       <systemManifestation>K10plus</systemManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Ausgabe nicht bestimmbar;K10+ PPN 151886547, K10+ PPN 151886547 oder K10+ PPN 09896822X;M: Cd 4° 14: Wappenexlibris: Elisabetha Sophia Maria, verwitwete Herzogin zu Braunschweig und Lüneburg</comment>
     <copiesHAB>
       <copyHAB>M: Gv 4° 69</copyHAB>
       <copyHAB>M: Gv 4° 70</copyHAB>
       <copyHAB>M: Cd 4° 14</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00281</Link>
-    <Kommentar>Ausgabe nicht bestimmbar;K10+ PPN 151886547, K10+ PPN 151886547 oder K10+ PPN 09896822X;M: Cd 4° 14: Wappenexlibris: Elisabetha Sophia Maria, verwitwete Herzogin zu Braunschweig und Lüneburg</Kommentar>
   </item>
   <item>
     <id>sturm91</id>
@@ -4992,11 +4903,10 @@ Durchgehends mit schönen Kupfern/ als Landcharten und Abrissen der fürnemsten 
       <idManifestation>09228180X</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Exlibris: Ex Bibliotheca L[udwig] R[udolf] Ducis Brunsvicensis Et Luneburgensis. Exlibris: Biblioth[eca] Collegii Carol[ini]</comment>
     <copiesHAB>
       <copyHAB>M: Gx 4° 54</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00281</Link>
-    <Kommentar>Exlibris: Ex Bibliotheca L[udwig] R[udolf] Ducis Brunsvicensis Et Luneburgensis. Exlibris: Biblioth[eca] Collegii Carol[ini]</Kommentar>
   </item>
   <item>
     <id>sturm92</id>
@@ -5046,12 +4956,11 @@ Durchgehends mit schönen Kupfern/ als Landcharten und Abrissen der fürnemsten 
       <idManifestation>843141085</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Engraved title-page: Syrie en Palestyn. Date in the imprint of the engraved title-page in some copies changed on the plate into 1678
+Evtl. auch enthalten in GBV PPN 151886636 (allerdings Erscheinungjahr 1681)</comment>
     <copiesHAB>
       <copyHAB>M: Gv 4° 70</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00282</Link>
-    <Kommentar>Engraved title-page: Syrie en Palestyn. Date in the imprint of the engraved title-page in some copies changed on the plate into 1678
-Evtl. auch enthalten in GBV PPN 151886636 (allerdings Erscheinungjahr 1681)</Kommentar>
   </item>
   <item>
     <id>sturm93</id>
@@ -5104,12 +5013,11 @@ Evtl. auch enthalten in GBV PPN 151886636 (allerdings Erscheinungjahr 1681)</Kom
       <idManifestation>092171850</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Hs. Besitzvermerk: Ferdinand Albrecht Hertzog Zu Braunschweig Und Lunæburg. Beveren 1671</comment>
     <digitalCopy>http://diglib.hab.de/drucke/cd-4f-17/start.htm</digitalCopy>
     <copiesHAB>
       <copyHAB>M: Cd 4° 17</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00282</Link>
-    <Kommentar>Hs. Besitzvermerk: Ferdinand Albrecht Hertzog Zu Braunschweig Und Lunæburg. Beveren 1671</Kommentar>
   </item>
   <item>
     <id>sturm94</id>
@@ -5168,6 +5076,8 @@ Evtl. auch enthalten in GBV PPN 151886636 (allerdings Erscheinungjahr 1681)</Kom
       <systemManifestation>VD17</systemManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Ausgabe nicht bestimmbar;kein Nachweis für 1682, evtl. für 1632 verschrieben?;K10+ PPN 137267584, VD17 23:000612T, siehe auch VD17 23:230960K (1640),
+VD17 23:299990N (1662) oder VD17 3:003586V (1674)</comment>
     <copiesHAB>
       <copyHAB>A: 257.3 Hist. 2° (1632)</copyHAB>
       <copyHAB>M: Gm 4° 738 (2)</copyHAB>
@@ -5175,9 +5085,6 @@ Evtl. auch enthalten in GBV PPN 151886636 (allerdings Erscheinungjahr 1681)</Kom
       <copyHAB>M: Cc 653</copyHAB>
       <copyHAB>M: Cc 4° 62</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00282</Link>
-    <Kommentar>Ausgabe nicht bestimmbar;kein Nachweis für 1682, evtl. für 1632 verschrieben?;K10+ PPN 137267584, VD17 23:000612T, siehe auch VD17 23:230960K (1640),
-VD17 23:299990N (1662) oder VD17 3:003586V (1674)</Kommentar>
   </item>
   <item>
     <id>sturm95</id>
@@ -5189,8 +5096,7 @@ VD17 23:299990N (1662) oder VD17 3:003586V (1674)</Kommentar>
     <titleCat>Ein band von allerhand RahrenKupffer stichen.</titleCat>
     <format>2°</format>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00282</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm96</id>
@@ -5202,8 +5108,7 @@ VD17 23:299990N (1662) oder VD17 3:003586V (1674)</Kommentar>
     <titleCat>Sunst Tom: in 5 bänden türckisch Papier mit vielen Kupfern und beschreibungen zur baukunst gehörig</titleCat>
     <format>2°</format>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00282</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm97</id>
@@ -5295,13 +5200,12 @@ VD17 23:299990N (1662) oder VD17 3:003586V (1674)</Kommentar>
       <idManifestation>151180830</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>siehe VD16 P 247</comment>
     <copiesHAB>
       <copyHAB>M: Uo 4° 32</copyHAB>
       <copyHAB>A: 270.1.1 Hist. 2° (1)</copyHAB>
       <copyHAB>A: 224.1 Hist. 2°</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00282</Link>
-    <Kommentar>siehe VD16 P 247</Kommentar>
   </item>
   <item>
     <id>sturm98</id>
@@ -5313,8 +5217,7 @@ VD17 23:299990N (1662) oder VD17 3:003586V (1674)</Kommentar>
     <titleCat>Opera Misericordiæ in einem dünnen bande Mompelgardi 1696.</titleCat>
     <format>2°</format>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00282</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm99</id>
@@ -5385,7 +5288,6 @@ VD17 23:299990N (1662) oder VD17 3:003586V (1674)</Kommentar>
     <copiesHAB>
       <copyHAB>A: 14.6 Phys. 2°</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00282</Link>
   </item>
   <item>
     <id>sturm100</id>
@@ -5446,7 +5348,6 @@ VD17 23:299990N (1662) oder VD17 3:003586V (1674)</Kommentar>
       <copyHAB>M: Jb 2° 18</copyHAB>
       <copyHAB>H: N 180.2° Helmst. (1)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00282</Link>
   </item>
   <item>
     <id>sturm101</id>
@@ -5492,7 +5393,6 @@ VD17 23:299990N (1662) oder VD17 3:003586V (1674)</Kommentar>
     <copiesHAB>
       <copyHAB>Schulenb. J 2° 128</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00282</Link>
   </item>
   <item>
     <id>sturm102</id>
@@ -5561,11 +5461,10 @@ VD17 23:299990N (1662) oder VD17 3:003586V (1674)</Kommentar>
       <idManifestation>151410259</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>siehe auch VD17 23:297056Z</comment>
     <copiesHAB>
       <copyHAB>A: 12.1 Bell. 2°</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00282</Link>
-    <Kommentar>siehe auch VD17 23:297056Z</Kommentar>
   </item>
   <item>
     <id>sturm103</id>
@@ -5619,7 +5518,6 @@ VD17 23:299990N (1662) oder VD17 3:003586V (1674)</Kommentar>
     <copiesHAB>
       <copyHAB>M: Jb 4° 28</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00282</Link>
   </item>
   <item>
     <id>sturm104</id>
@@ -5637,8 +5535,7 @@ VD17 23:299990N (1662) oder VD17 3:003586V (1674)</Kommentar>
     </persons>
     <format>2°</format>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00282</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm105</id>
@@ -5697,7 +5594,6 @@ VD17 23:299990N (1662) oder VD17 3:003586V (1674)</Kommentar>
     <copiesHAB>
       <copyHAB>A: 44 Hist. 2° (3)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00282</Link>
   </item>
   <item>
     <id>sturm106</id>
@@ -5778,7 +5674,6 @@ VD17 23:299990N (1662) oder VD17 3:003586V (1674)</Kommentar>
     <copiesHAB>
       <copyHAB>M: Ca 2° 1</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00282</Link>
   </item>
   <item>
     <id>sturm107</id>
@@ -5790,8 +5685,7 @@ VD17 23:299990N (1662) oder VD17 3:003586V (1674)</Kommentar>
     <titleCat>Allerhand Kupfer in einem kleinen Frant[?]bande.</titleCat>
     <format>2°</format>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00283</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm108</id>
@@ -5870,11 +5764,10 @@ VD17 23:299990N (1662) oder VD17 3:003586V (1674)</Kommentar>
       <idManifestation>92188664</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Exlibris: L[udovici] R[udolphi] Ducis Brunsvicensis Et Luneburgensis</comment>
     <copiesHAB>
       <copyHAB>M: Gs 2° 8</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00283</Link>
-    <Kommentar>Exlibris: L[udovici] R[udolphi] Ducis Brunsvicensis Et Luneburgensis</Kommentar>
   </item>
   <item>
     <id>sturm109</id>
@@ -5886,8 +5779,7 @@ VD17 23:299990N (1662) oder VD17 3:003586V (1674)</Kommentar>
     <titleCat>Topographia in 12 bänden nebst dazu gehörigen kupfern</titleCat>
     <format>2°</format>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00283</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm110</id>
@@ -5899,8 +5791,7 @@ VD17 23:299990N (1662) oder VD17 3:003586V (1674)</Kommentar>
     <titleCat>Eine kleine Mappa worinn einige Kupfer|stiche</titleCat>
     <format>2°</format>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00283</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm111</id>
@@ -5912,8 +5803,7 @@ VD17 23:299990N (1662) oder VD17 3:003586V (1674)</Kommentar>
     <titleCat>Noch eine dergleichen Mappa</titleCat>
     <format>2°</format>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00283</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm112</id>
@@ -5969,7 +5859,6 @@ VD17 23:299990N (1662) oder VD17 3:003586V (1674)</Kommentar>
     <copiesHAB>
       <copyHAB>H: N 47.2° Helmst. (1)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00283</Link>
   </item>
   <item>
     <id>sturm113</id>
@@ -6020,8 +5909,7 @@ VD17 23:299990N (1662) oder VD17 3:003586V (1674)</Kommentar>
       <idManifestation>553356879</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00283</Link>
-    <Kommentar>Nachweis HAB als DFG Nationallizenz</Kommentar>
+    <comment>Nachweis HAB als DFG Nationallizenz</comment>
   </item>
   <item>
     <id>sturm114</id>
@@ -6080,12 +5968,11 @@ VD17 23:299990N (1662) oder VD17 3:003586V (1674)</Kommentar>
       <idManifestation>536875901</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme;M: Na 4° 41: Provenienz Ludwig Rudolf</comment>
     <copiesHAB>
       <copyHAB>M: Na 4° 41</copyHAB>
       <copyHAB>Xb 4° 8 (1)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00283</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme;M: Na 4° 41: Provenienz Ludwig Rudolf</Kommentar>
   </item>
   <item>
     <id>sturm115</id>
@@ -6124,11 +6011,10 @@ VD17 23:299990N (1662) oder VD17 3:003586V (1674)</Kommentar>
       <idManifestation>134256328</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>mit Erscheinungsort Lyon nur eine Ausgabe von 1640 ermittelbar; kein Nachweis HAB von 1666</comment>
     <copiesHAB>
       <copyHAB>M: Jb 308</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00283</Link>
-    <Kommentar>mit Erscheinungsort Lyon nur eine Ausgabe von 1640 ermittelbar; kein Nachweis HAB von 1666</Kommentar>
   </item>
   <item>
     <id>sturm116</id>
@@ -6178,8 +6064,7 @@ VD17 23:299990N (1662) oder VD17 3:003586V (1674)</Kommentar>
       <idManifestation>144460432</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00283</Link>
-    <Kommentar>mit Erscheinungsort Amsterdam nur eine Ausgabe von 1640 ermittelbar;kein Nachweis HAB</Kommentar>
+    <comment>mit Erscheinungsort Amsterdam nur eine Ausgabe von 1640 ermittelbar;kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm117</id>
@@ -6221,8 +6106,7 @@ VD17 23:299990N (1662) oder VD17 3:003586V (1674)</Kommentar>
       <idManifestation>568212460</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00283</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm118</id>
@@ -6267,11 +6151,10 @@ VD17 23:299990N (1662) oder VD17 3:003586V (1674)</Kommentar>
       <idManifestation>151298637</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</comment>
     <copiesHAB>
       <copyHAB>H: N 41.2° Helmst.</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00283</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</Kommentar>
   </item>
   <item>
     <id>sturm119</id>
@@ -6283,8 +6166,7 @@ VD17 23:299990N (1662) oder VD17 3:003586V (1674)</Kommentar>
     <titleCat>Historische Bilderb</titleCat>
     <format>2°</format>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00283</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm120</id>
@@ -6296,8 +6178,7 @@ VD17 23:299990N (1662) oder VD17 3:003586V (1674)</Kommentar>
     <titleCat>Allerhand saubere Kupfer in bund Pappier gehefftet aus dem Ovidio</titleCat>
     <format>2°</format>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00283</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm121</id>
@@ -6363,8 +6244,7 @@ VD17 23:299990N (1662) oder VD17 3:003586V (1674)</Kommentar>
       <idManifestation>722378262</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00283</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm122</id>
@@ -6409,7 +6289,6 @@ VD17 23:299990N (1662) oder VD17 3:003586V (1674)</Kommentar>
     <copiesHAB>
       <copyHAB>M: Na 4° 2</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00283</Link>
   </item>
   <item>
     <id>sturm123</id>
@@ -6458,7 +6337,6 @@ VD17 23:299990N (1662) oder VD17 3:003586V (1674)</Kommentar>
     <copiesHAB>
       <copyHAB>A: 13.2 Astron. 2°</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00283</Link>
   </item>
   <item>
     <id>sturm124</id>
@@ -6527,7 +6405,6 @@ VD17 23:299990N (1662) oder VD17 3:003586V (1674)</Kommentar>
     <copiesHAB>
       <copyHAB>A: 111 Quod. 2° (1)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00284</Link>
   </item>
   <item>
     <id>sturm125</id>
@@ -6612,7 +6489,6 @@ VD17 23:299990N (1662) oder VD17 3:003586V (1674)</Kommentar>
       <copyHAB>Xb 4° 114</copyHAB>
       <copyHAB>Schulenb. J 2° 107 (1)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00284</Link>
   </item>
   <item>
     <id>sturm126</id>
@@ -6670,12 +6546,11 @@ VD17 23:299990N (1662) oder VD17 3:003586V (1674)</Kommentar>
       <idManifestation>153506032</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</comment>
     <copiesHAB>
       <copyHAB>M: Jb 4° 85</copyHAB>
       <copyHAB>Xb 4° 113</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00284</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</Kommentar>
   </item>
   <item>
     <id>sturm127</id>
@@ -6742,12 +6617,11 @@ VD17 23:299990N (1662) oder VD17 3:003586V (1674)</Kommentar>
       <systemManifestation>K10plus</systemManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Ausgabe nicht bestimmbar;K10+ PPN 151812659 oder K10+ PPN 151812764</comment>
     <copiesHAB>
       <copyHAB>M: Lh 4° 198</copyHAB>
       <copyHAB>M: Lh 4° 200</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00284</Link>
-    <Kommentar>Ausgabe nicht bestimmbar;K10+ PPN 151812659 oder K10+ PPN 151812764</Kommentar>
   </item>
   <item>
     <id>sturm128</id>
@@ -6788,11 +6662,10 @@ VD17 23:299990N (1662) oder VD17 3:003586V (1674)</Kommentar>
       <idManifestation>265996929</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Nachweis HAB 1583</comment>
     <copiesHAB>
       <copyHAB>A: 122 Quod. 2° (2)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00284</Link>
-    <Kommentar>Nachweis HAB 1583</Kommentar>
   </item>
   <item>
     <id>sturm129</id>
@@ -6839,7 +6712,6 @@ VD17 23:299990N (1662) oder VD17 3:003586V (1674)</Kommentar>
     <copiesHAB>
       <copyHAB>Schulenb. J 2° 84</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00284</Link>
   </item>
   <item>
     <id>sturm130</id>
@@ -6879,6 +6751,7 @@ VD17 23:299990N (1662) oder VD17 3:003586V (1674)</Kommentar>
       <idManifestation>147543444</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</comment>
     <copiesHAB>
       <copyHAB>M: Oe 4° 8:1</copyHAB>
       <copyHAB>M: Oe 4° 8:2</copyHAB>
@@ -6886,8 +6759,6 @@ VD17 23:299990N (1662) oder VD17 3:003586V (1674)</Kommentar>
       <copyHAB>
 Schulenb. O 2° 20 (1:2)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00284</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</Kommentar>
   </item>
   <item>
     <id>sturm131</id>
@@ -6899,8 +6770,7 @@ Schulenb. O 2° 20 (1:2)</copyHAB>
     <titleCat>Ein geschriebenes Mathemathisch Tractät[us]</titleCat>
     <format>2°</format>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00284</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm132</id>
@@ -6912,8 +6782,7 @@ Schulenb. O 2° 20 (1:2)</copyHAB>
     <titleCat>Ein geschriebenes Mathemathisch Tractät[us]</titleCat>
     <format>2°</format>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00284</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm133</id>
@@ -6925,8 +6794,7 @@ Schulenb. O 2° 20 (1:2)</copyHAB>
     <titleCat>noch ein dergleichen geschriebenes buch</titleCat>
     <format>2°</format>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00284</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm134</id>
@@ -6938,8 +6806,7 @@ Schulenb. O 2° 20 (1:2)</copyHAB>
     <titleCat>Eine geschriebene philosophische Tabell[e]</titleCat>
     <format>2°</format>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00284</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm135</id>
@@ -6951,8 +6818,7 @@ Schulenb. O 2° 20 (1:2)</copyHAB>
     <titleCat>Schaubuch allerleWerkzeüge</titleCat>
     <format>2°</format>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00284</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm136</id>
@@ -7001,13 +6867,12 @@ Schulenb. O 2° 20 (1:2)</copyHAB>
       <idManifestation>375266267</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>M: Gm 4° 107 (1): Provenienz: Ludwig Rudolf</comment>
     <copiesHAB>
       <copyHAB>M: Gm 4° 107 (1)</copyHAB>
       <copyHAB>M: Gm 4° 108</copyHAB>
       <copyHAB>H: T 868.2° Helmst.</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00284</Link>
-    <Kommentar>M: Gm 4° 107 (1): Provenienz: Ludwig Rudolf</Kommentar>
   </item>
   <item>
     <id>sturm137</id>
@@ -7054,12 +6919,11 @@ Schulenb. O 2° 20 (1:2)</copyHAB>
       <idManifestation>150952325</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme
+Ex-Libris: Ex Bibliotheca L R Ducis Brunsvicensis Et Luneburgensis</comment>
     <copiesHAB>
       <copyHAB>M: Nb 481</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00285</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme
-Ex-Libris: Ex Bibliotheca L R Ducis Brunsvicensis Et Luneburgensis</Kommentar>
   </item>
   <item>
     <id>sturm138</id>
@@ -7110,7 +6974,6 @@ Geometrie</subject>
     <copiesHAB>
       <copyHAB>A: 7.2 Geom.</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00285</Link>
   </item>
   <item>
     <id>sturm139</id>
@@ -7174,7 +7037,6 @@ Geometrie</subject>
     <copiesHAB>
       <copyHAB>M: Kb 47</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00285</Link>
   </item>
   <item>
     <id>sturm140</id>
@@ -7224,11 +7086,10 @@ Geometrie</subject>
       <idManifestation>13454031X</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Nachweis HAB abweichend von 1697</comment>
     <copiesHAB>
       <copyHAB>M: Nb 4° 42</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00285</Link>
-    <Kommentar>Nachweis HAB abweichend von 1697</Kommentar>
   </item>
   <item>
     <id>sturm141</id>
@@ -7276,11 +7137,11 @@ Geometrie</subject>
       <idManifestation>235513482</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</comment>
     <copiesHAB>
       <copyHAB>M: Jb 286:1</copyHAB>
       <copyHAB>M: Jb 286:2</copyHAB>
     </copiesHAB>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</Kommentar>
   </item>
   <item>
     <id>sturm142</id>
@@ -7323,8 +7184,7 @@ Geometrie</subject>
       <idManifestation>1094836451</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00285</Link>
-    <Kommentar>Mehrbändiges Werk;K10+PPN der Hauptaufnahme;Erscheinungsjahr 1709 statt 1609?;kein Nachweis HAB</Kommentar>
+    <comment>Mehrbändiges Werk;K10+PPN der Hauptaufnahme;Erscheinungsjahr 1709 statt 1609?;kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm143</id>
@@ -7379,7 +7239,6 @@ Geometrie</subject>
     <copiesHAB>
       <copyHAB>Wt 1191</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00285</Link>
   </item>
   <item>
     <id>sturm144</id>
@@ -7423,14 +7282,13 @@ Geometrie</subject>
       <idManifestation>151126879</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</comment>
     <copiesHAB>
       <copyHAB>M: Nb 370:1</copyHAB>
       <copyHAB>M: Nb 370:2</copyHAB>
       <copyHAB>M: Nb 370:3</copyHAB>
       <copyHAB>M: Nb 370:4</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00285</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</Kommentar>
   </item>
   <item>
     <id>sturm145</id>
@@ -7471,8 +7329,7 @@ Geometrie</subject>
       <idManifestation>14619523X</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00285</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme;kein Nachweis HAB</Kommentar>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme;kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm146</id>
@@ -7519,11 +7376,10 @@ Geometrie</subject>
       <idManifestation>243265220</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</comment>
     <copiesHAB>
       <copyHAB>Schulenb. J 106</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00285</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</Kommentar>
   </item>
   <item>
     <id>sturm147</id>
@@ -7581,8 +7437,7 @@ Geometrie</subject>
       <idManifestation>137606060</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00285</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm148</id>
@@ -7643,12 +7498,11 @@ Geometrie</subject>
       <idManifestation>144471639</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Nach Titel und Erscheinungsjahr muss es sich um den ersten Band eines mehrbändigen Werkes handeln;vgl. Wikipedia-Eintrag, dort unter Werke: K. Schott: Magia optica. Geheime doch naturmässige Gesicht- und Augen-Lehr.</comment>
     <copiesHAB>
       <copyHAB>A: 115.7 Quod. (1)</copyHAB>
       <copyHAB>H: M 225.4° Helmst. (1)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00285</Link>
-    <Kommentar>Nach Titel und Erscheinungsjahr muss es sich um den ersten Band eines mehrbändigen Werkes handeln;vgl. Wikipedia-Eintrag, dort unter Werke: K. Schott: Magia optica. Geheime doch naturmässige Gesicht- und Augen-Lehr.</Kommentar>
   </item>
   <item>
     <id>sturm149</id>
@@ -7716,11 +7570,10 @@ Geometrie</subject>
       <idManifestation>144471663</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Band vier des mehrbändigen Werkes</comment>
     <copiesHAB>
       <copyHAB>A: 115.7.1 Quod. (2)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00285</Link>
-    <Kommentar>Band vier des mehrbändigen Werkes</Kommentar>
   </item>
   <item>
     <id>sturm150</id>
@@ -7787,11 +7640,10 @@ Geometrie</subject>
       <idManifestation>324425392</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Band drei des mehrbändigen Werkes</comment>
     <copiesHAB>
       <copyHAB>A: 115.7.1 Quod. (1)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00285</Link>
-    <Kommentar>Band drei des mehrbändigen Werkes</Kommentar>
   </item>
   <item>
     <id>sturm151</id>
@@ -7858,7 +7710,6 @@ Geometrie</subject>
     <copiesHAB>
       <copyHAB>A: 125.52 Quod.</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00286</Link>
   </item>
   <item>
     <id>sturm152</id>
@@ -7911,7 +7762,6 @@ Geometrie</subject>
     <copiesHAB>
       <copyHAB>Xb 4182</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00286</Link>
   </item>
   <item>
     <id>sturm153</id>
@@ -7982,11 +7832,10 @@ Biologie/Zoologie</subject>
       <idManifestation>536023603</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Hs. Besitzvermerk: R[udolf] A[ugust, Herzog zu Braunschweig-Wolfenbüttel]</comment>
     <copiesHAB>
       <copyHAB>A: 56.1 Phys. (3)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00286</Link>
-    <Kommentar>Hs. Besitzvermerk: R[udolf] A[ugust, Herzog zu Braunschweig-Wolfenbüttel]</Kommentar>
   </item>
   <item>
     <id>sturm154</id>
@@ -8013,8 +7862,7 @@ Biologie/Zoologie</subject>
     </persons>
     <format>4°</format>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00286</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm155</id>
@@ -8083,7 +7931,6 @@ Biologie/Zoologie</subject>
     <copiesHAB>
       <copyHAB>M: Cd 97</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00286</Link>
   </item>
   <item>
     <id>sturm156</id>
@@ -8148,7 +7995,6 @@ Biologie/Zoologie</subject>
     <copiesHAB>
       <copyHAB>M: Gv 820</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00286</Link>
   </item>
   <item>
     <id>sturm157</id>
@@ -8197,8 +8043,7 @@ Biologie/Zoologie</subject>
       <idManifestation>536482640</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00286</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm158</id>
@@ -8255,8 +8100,7 @@ Cui Operi subjungitur, Chronologia Mathematicorvm Libri Tres</titleBib>
       <idManifestation>1115783955</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00286</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm159</id>
@@ -8297,11 +8141,10 @@ Cui Operi subjungitur, Chronologia Mathematicorvm Libri Tres</titleBib>
       <idManifestation>536013187</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Exlibris: Ex Bibliotheca L[udovici] R[udolphi] Ducis Brunsvicensis Et Luneburgensis</comment>
     <copiesHAB>
       <copyHAB>M: Ug 57 (1)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00286</Link>
-    <Kommentar>Exlibris: Ex Bibliotheca L[udovici] R[udolphi] Ducis Brunsvicensis Et Luneburgensis</Kommentar>
   </item>
   <item>
     <id>sturm160</id>
@@ -8313,8 +8156,7 @@ Cui Operi subjungitur, Chronologia Mathematicorvm Libri Tres</titleBib>
     <titleCat>Eine Mappa worin allerhand Mathema|tische Kupferstiche</titleCat>
     <format>4°</format>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00286</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm161</id>
@@ -8378,11 +8220,10 @@ Cui Operi subjungitur, Chronologia Mathematicorvm Libri Tres</titleBib>
       <idManifestation>134548337</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</comment>
     <copiesHAB>
       <copyHAB>M: Od 439</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00286</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</Kommentar>
   </item>
   <item>
     <id>sturm162</id>
@@ -8413,12 +8254,11 @@ Cui Operi subjungitur, Chronologia Mathematicorvm Libri Tres</titleBib>
       <systemManifestation>K10plus</systemManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Ausgabe nicht bestimmbar;K10+ PPN 039172082 oder K10+ PPN 150057350</comment>
     <copiesHAB>
       <copyHAB>M: Gm 1518 (1)</copyHAB>
       <copyHAB>M: Gm 1518.1 (1)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00286</Link>
-    <Kommentar>Ausgabe nicht bestimmbar;K10+ PPN 039172082 oder K10+ PPN 150057350</Kommentar>
   </item>
   <item>
     <id>sturm163</id>
@@ -8473,11 +8313,10 @@ Cui Operi subjungitur, Chronologia Mathematicorvm Libri Tres</titleBib>
       <idManifestation>150685513</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Provenienz: NN, Exlibris, Wappen</comment>
     <copiesHAB>
       <copyHAB>M: Nc 534</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00286</Link>
-    <Kommentar>Provenienz: NN, Exlibris, Wappen</Kommentar>
   </item>
   <item>
     <id>sturm164</id>
@@ -8534,7 +8373,6 @@ Cui Operi subjungitur, Chronologia Mathematicorvm Libri Tres</titleBib>
     <copiesHAB>
       <copyHAB>Xb 9875</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00286</Link>
   </item>
   <item>
     <id>sturm165</id>
@@ -8585,8 +8423,7 @@ Cui Operi subjungitur, Chronologia Mathematicorvm Libri Tres</titleBib>
       <idManifestation>774985488</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00286</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm166</id>
@@ -8598,8 +8435,7 @@ Cui Operi subjungitur, Chronologia Mathematicorvm Libri Tres</titleBib>
     <titleCat>Barthii usus Astronomicus Argentia 1629</titleCat>
     <format>4°</format>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00287</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm167</id>
@@ -8653,7 +8489,7 @@ Cui Operi subjungitur, Chronologia Mathematicorvm Libri Tres</titleBib>
       <idManifestation>247292990</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme;kein Nachweis HAB</Kommentar>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme;kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm168</id>
@@ -8709,11 +8545,10 @@ Cui Operi subjungitur, Chronologia Mathematicorvm Libri Tres</titleBib>
       <idManifestation>151551944</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</comment>
     <copiesHAB>
       <copyHAB>M: Nh 307</copyHAB>
     </copiesHAB>
-    <Link>'http://diglib.hab.de/mss/ba-1-673/start.htm?image=00287</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</Kommentar>
   </item>
   <item>
     <id>sturm169</id>
@@ -8778,8 +8613,7 @@ Cui Operi subjungitur, Chronologia Mathematicorvm Libri Tres</titleBib>
       <idManifestation>308648722</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00287</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm170</id>
@@ -8864,7 +8698,6 @@ Cui Operi subjungitur, Chronologia Mathematicorvm Libri Tres</titleBib>
     <copiesHAB>
       <copyHAB>M: Nx 11 (1)</copyHAB>
     </copiesHAB>
-    <Link>'http://diglib.hab.de/mss/ba-1-673/start.htm?image=00287</Link>
   </item>
   <item>
     <id>sturm171</id>
@@ -8935,8 +8768,7 @@ Cui Operi subjungitur, Chronologia Mathematicorvm Libri Tres</titleBib>
       <idManifestation>535818459</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>'http://diglib.hab.de/mss/ba-1-673/start.htm?image=00287</Link>
-    <Kommentar>enthalten in: Johannis Adolfi Tassii Philosophi Summi &amp; Mathematici Celeberrimi Opuscula Mathematica : Quorum elenchum pagina versa exhibet;kein Nachweis HAB</Kommentar>
+    <comment>enthalten in: Johannis Adolfi Tassii Philosophi Summi &amp; Mathematici Celeberrimi Opuscula Mathematica : Quorum elenchum pagina versa exhibet;kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm172</id>
@@ -9015,7 +8847,6 @@ Cui Operi subjungitur, Chronologia Mathematicorvm Libri Tres</titleBib>
       <copyHAB>M: Vb 364</copyHAB>
       <copyHAB>M: Nx 11 (2)</copyHAB>
     </copiesHAB>
-    <Link>'http://diglib.hab.de/mss/ba-1-673/start.htm?image=00287</Link>
   </item>
   <item>
     <id>sturm173</id>
@@ -9083,12 +8914,11 @@ Cui Operi subjungitur, Chronologia Mathematicorvm Libri Tres</titleBib>
       <idManifestation>150084595</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Kupfertitel: Dialogvs De Systemate Mvndi, Autore Galilæ Galilæi Lynceo</comment>
     <digitalCopy>http://diglib.hab.de/drucke/nx-11-3/start.htm</digitalCopy>
     <copiesHAB>
       <copyHAB>M: Nx 11 (3)</copyHAB>
     </copiesHAB>
-    <Link>'http://diglib.hab.de/mss/ba-1-673/start.htm?image=00287</Link>
-    <Kommentar>Kupfertitel: Dialogvs De Systemate Mvndi, Autore Galilæ Galilæi Lynceo</Kommentar>
   </item>
   <item>
     <id>sturm174</id>
@@ -9104,8 +8934,7 @@ Cui Operi subjungitur, Chronologia Mathematicorvm Libri Tres</titleBib>
     <titleCat>Cassandi Astronomia Hagae Comitum 1656</titleCat>
     <format>4°</format>
     <bound>1</bound>
-    <Link>'http://diglib.hab.de/mss/ba-1-673/start.htm?image=00287</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm175</id>
@@ -9152,8 +8981,7 @@ Cui Operi subjungitur, Chronologia Mathematicorvm Libri Tres</titleBib>
       <idManifestation>317342134</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>'http://diglib.hab.de/mss/ba-1-673/start.htm?image=00287</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm176</id>
@@ -9207,7 +9035,6 @@ Cui Operi subjungitur, Chronologia Mathematicorvm Libri Tres</titleBib>
     <copiesHAB>
       <copyHAB>A: 36.6 Phys. (4)</copyHAB>
     </copiesHAB>
-    <Link>'http://diglib.hab.de/mss/ba-1-673/start.htm?image=00287</Link>
   </item>
   <item>
     <id>sturm177</id>
@@ -9254,7 +9081,6 @@ Cui Operi subjungitur, Chronologia Mathematicorvm Libri Tres</titleBib>
       <copyHAB>A: 26.5 Geom. (1)</copyHAB>
       <copyHAB>A: 180.12 Quod. (1)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00287</Link>
   </item>
   <item>
     <id>sturm178</id>
@@ -9303,8 +9129,7 @@ Cui Operi subjungitur, Chronologia Mathematicorvm Libri Tres</titleBib>
       <idManifestation>77495454X</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00287</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme;kein Nachweis HAB</Kommentar>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme;kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm179</id>
@@ -9360,13 +9185,12 @@ Cui Operi subjungitur, Chronologia Mathematicorvm Libri Tres</titleBib>
       <idManifestation>213985195</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</comment>
     <digitalCopy>http://diglib.hab.de/drucke/oc-77-1/start.htm;http://diglib.hab.de/drucke/oc-77-2/start.htm</digitalCopy>
     <copiesHAB>
       <copyHAB>M: Oc 77:1</copyHAB>
       <copyHAB>M: Oc 77:2</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00287</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</Kommentar>
   </item>
   <item>
     <id>sturm180</id>
@@ -9421,7 +9245,6 @@ Cui Operi subjungitur, Chronologia Mathematicorvm Libri Tres</titleBib>
     <copiesHAB>
       <copyHAB>M: Oc 124</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00287</Link>
   </item>
   <item>
     <id>sturm181</id>
@@ -9467,8 +9290,7 @@ Cui Operi subjungitur, Chronologia Mathematicorvm Libri Tres</titleBib>
       <idManifestation>228017556</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00287</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme;kein Nachweis HAB</Kommentar>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme;kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm182</id>
@@ -9511,7 +9333,6 @@ Cui Operi subjungitur, Chronologia Mathematicorvm Libri Tres</titleBib>
     <copiesHAB>
       <copyHAB>M: Od 244</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00287</Link>
   </item>
   <item>
     <id>sturm183</id>
@@ -9565,7 +9386,6 @@ Cui Operi subjungitur, Chronologia Mathematicorvm Libri Tres</titleBib>
     <copiesHAB>
       <copyHAB>H: T 216.4° Helmst.</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00287</Link>
   </item>
   <item>
     <id>sturm184</id>
@@ -9634,8 +9454,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
       <idManifestation>536675090</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00288</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm185</id>
@@ -9714,11 +9533,11 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
       <idManifestation>147166586</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>keine Ausgabe von 1706 ermittelbar
+Nachweis HAB von 1674</comment>
     <copiesHAB>
       <copyHAB>M: Nc 9 (1)</copyHAB>
     </copiesHAB>
-    <Kommentar>keine Ausgabe von 1706 ermittelbar
-Nachweis HAB von 1674</Kommentar>
   </item>
   <item>
     <id>sturm186</id>
@@ -9773,10 +9592,10 @@ Nachweis HAB von 1674</Kommentar>
       <idManifestation>142935743</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Exlibris: Ex Bibliotheca L R Ducis Brunsvicensis Et Luneburgensis. 93</comment>
     <copiesHAB>
       <copyHAB>M: Nc 4° 32</copyHAB>
     </copiesHAB>
-    <Kommentar>Exlibris: Ex Bibliotheca L R Ducis Brunsvicensis Et Luneburgensis. 93</Kommentar>
   </item>
   <item>
     <id>sturm187</id>
@@ -9883,8 +9702,7 @@ Nachweis HAB von 1674</Kommentar>
       <idManifestation>1095170856</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00288</Link>
-    <Kommentar>Nebentitel: Heilige Augen- und Gemüths Lust;kein Nachweis HAB</Kommentar>
+    <comment>Nebentitel: Heilige Augen- und Gemüths Lust;kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm188</id>
@@ -9937,14 +9755,13 @@ Nachweis HAB von 1674</Kommentar>
       <idManifestation>147573068</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</comment>
     <copiesHAB>
       <copyHAB>M: Ca 4° 6:1</copyHAB>
       <copyHAB>M: Ca 4° 6:3 (1)</copyHAB>
       <copyHAB>M: Ca 4° 6:2</copyHAB>
       <copyHAB>M: Ca 4° 6:3 (2)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00288</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</Kommentar>
   </item>
   <item>
     <id>sturm189</id>
@@ -10000,7 +9817,6 @@ Nachweis HAB von 1674</Kommentar>
       <copyHAB>M: Gv 4° 32.1</copyHAB>
       <copyHAB>M: Gv 4° 32.1a</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00288</Link>
   </item>
   <item>
     <id>sturm190</id>
@@ -10065,8 +9881,7 @@ Nachweis HAB von 1674</Kommentar>
       <idManifestation>3:310203A</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00288</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm191</id>
@@ -10117,7 +9932,6 @@ Nachweis HAB von 1674</Kommentar>
     <copiesHAB>
       <copyHAB>M: Uf 21</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00288</Link>
   </item>
   <item>
     <id>sturm192</id>
@@ -10159,8 +9973,7 @@ Nachweis HAB von 1674</Kommentar>
       <idManifestation>137904886</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00288</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm193</id>
@@ -10172,8 +9985,7 @@ Nachweis HAB von 1674</Kommentar>
     <titleCat>Miscelanea varia maxime tamen Phÿsica et Mathematica</titleCat>
     <format>4°</format>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00288</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm194</id>
@@ -10220,8 +10032,7 @@ Nachweis HAB von 1674</Kommentar>
       <idManifestation>065405730</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00288</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm195</id>
@@ -10281,7 +10092,6 @@ Nachweis HAB von 1674</Kommentar>
     <copiesHAB>
       <copyHAB>M: Ca 173</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00288</Link>
   </item>
   <item>
     <id>sturm196</id>
@@ -10320,8 +10130,7 @@ Nachweis HAB von 1674</Kommentar>
       <idManifestation>481068554</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00288</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm197</id>
@@ -10378,14 +10187,13 @@ Nachweis HAB von 1674</Kommentar>
       <systemManifestation>K10plus</systemManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Ausgabe nicht bestimmbar;K10+ PPN 040074684 oder K10+ PPN 535549342;M: Gp 422: Einband aus Schildpatt. Aus der Bibliothek des Herzogs Ludwig Rudolph von Braunschweig</comment>
     <copiesHAB>
       <copyHAB>M: Gp 423</copyHAB>
       <copyHAB>M: Gp 422</copyHAB>
       <copyHAB>M: Gp 421</copyHAB>
       <copyHAB>A: 92.5 Hist.</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00289</Link>
-    <Kommentar>Ausgabe nicht bestimmbar;K10+ PPN 040074684 oder K10+ PPN 535549342;M: Gp 422: Einband aus Schildpatt. Aus der Bibliothek des Herzogs Ludwig Rudolph von Braunschweig</Kommentar>
   </item>
   <item>
     <id>sturm198</id>
@@ -10450,7 +10258,6 @@ Nachweis HAB von 1674</Kommentar>
       <copyHAB>M: Gv 345.1</copyHAB>
       <copyHAB>M: QuN 164 (4)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00289</Link>
   </item>
   <item>
     <id>sturm199</id>
@@ -10495,11 +10302,10 @@ Nachweis HAB von 1674</Kommentar>
       <idManifestation>535556055</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</comment>
     <copiesHAB>
       <copyHAB>M: Gv 366</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00289</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</Kommentar>
   </item>
   <item>
     <id>sturm200</id>
@@ -10550,7 +10356,6 @@ Nachweis HAB von 1674</Kommentar>
     <copiesHAB>
       <copyHAB>M: Gh 502</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00289</Link>
   </item>
   <item>
     <id>sturm201</id>
@@ -10603,11 +10408,10 @@ Nachweis HAB von 1674</Kommentar>
       <idManifestation>53566432X</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Exlibris: Ex Bibliotheca L[udovici] R[udolphi] Ducis Brunsvicensis Et Luneburgensis</comment>
     <copiesHAB>
       <copyHAB>M: Gv 828</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00289</Link>
-    <Kommentar>Exlibris: Ex Bibliotheca L[udovici] R[udolphi] Ducis Brunsvicensis Et Luneburgensis</Kommentar>
   </item>
   <item>
     <id>sturm202</id>
@@ -10686,8 +10490,7 @@ Nachweis HAB von 1674</Kommentar>
       <idManifestation>240367170</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00289</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm203</id>
@@ -10732,12 +10535,11 @@ Nachweis HAB von 1674</Kommentar>
       <idManifestation>151778183</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</comment>
     <copiesHAB>
       <copyHAB>M: Uf 195</copyHAB>
       <copyHAB>H: T 1059.4° Helmst.</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00289</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</Kommentar>
   </item>
   <item>
     <id>sturm204</id>
@@ -10789,8 +10591,7 @@ Nachweis HAB von 1674</Kommentar>
       <idManifestation>356288633</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00289</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm205</id>
@@ -10802,8 +10603,7 @@ Nachweis HAB von 1674</Kommentar>
     <titleCat>Woordenboek das ist Hollandisch und Französisch Lexicon Amsterdam 1701.</titleCat>
     <format>4°</format>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00289</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm206</id>
@@ -10849,7 +10649,6 @@ Nachweis HAB von 1674</Kommentar>
     <copiesHAB>
       <copyHAB>M: Nb 528</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00289</Link>
   </item>
   <item>
     <id>sturm207</id>
@@ -10916,7 +10715,6 @@ Nachweis HAB von 1674</Kommentar>
     <copiesHAB>
       <copyHAB>M: Uf 12</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00289</Link>
   </item>
   <item>
     <id>sturm208</id>
@@ -10962,11 +10760,10 @@ Nachweis HAB von 1674</Kommentar>
       <idManifestation>151498598</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</comment>
     <copiesHAB>
       <copyHAB>M: Uf 13</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00289</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</Kommentar>
   </item>
   <item>
     <id>sturm209</id>
@@ -10978,8 +10775,7 @@ Nachweis HAB von 1674</Kommentar>
     <titleCat>Allerhand disputationes und Mathe|matische Tractätchens.</titleCat>
     <format>4°</format>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00289</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm210</id>
@@ -11033,12 +10829,11 @@ Nachweis HAB von 1674</Kommentar>
       <idManifestation>151192383</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme; Bd. 1+2 von 1672;Provenienz: Rudolf August</comment>
     <copiesHAB>
       <copyHAB>M: Ne 280 (1.1)</copyHAB>
       <copyHAB>M: Ne 280 (1.2)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00290</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme; Bd. 1+2 von 1672;Provenienz: Rudolf August</Kommentar>
   </item>
   <item>
     <id>sturm211</id>
@@ -11090,12 +10885,11 @@ Nachweis HAB von 1674</Kommentar>
       <idManifestation>151061076</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</comment>
     <copiesHAB>
       <copyHAB>M: Oe 76a:1</copyHAB>
       <copyHAB>M: Oe 76a:2</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00290</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</Kommentar>
   </item>
   <item>
     <id>sturm212</id>
@@ -11140,12 +10934,11 @@ Nachweis HAB von 1674</Kommentar>
       <idManifestation>98994964</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>M: Nx 21 (1): Exlibris: Ex Bibliotheca LR Ducis Brunsvicensis Et Luneburgensis Nummer: 80 b.</comment>
     <copiesHAB>
       <copyHAB>M: Nx 21 (1)</copyHAB>
       <copyHAB>M: QuN 287.1 (10)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00290</Link>
-    <Kommentar>M: Nx 21 (1): Exlibris: Ex Bibliotheca LR Ducis Brunsvicensis Et Luneburgensis Nummer: 80 b.</Kommentar>
   </item>
   <item>
     <id>sturm213</id>
@@ -11157,8 +10950,7 @@ Nachweis HAB von 1674</Kommentar>
     <titleCat>Theologische Philosophische und Ma|thematische Manuscripta in 14 Bänden.</titleCat>
     <format>4°</format>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00290</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm214</id>
@@ -11191,11 +10983,10 @@ Nachweis HAB von 1674</Kommentar>
       <idManifestation>130117285</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Nachweis HAB Microform</comment>
     <copiesHAB>
       <copyHAB>M: Za 6</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00290</Link>
-    <Kommentar>Nachweis HAB Microform</Kommentar>
   </item>
   <item>
     <id>sturm215</id>
@@ -11220,8 +11011,7 @@ Nachweis HAB von 1674</Kommentar>
       <idManifestation>155891197</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00290</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm216</id>
@@ -11261,12 +11051,11 @@ Nachweis HAB von 1674</Kommentar>
       <idManifestation>098994964</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>M: Nx 21 (1): Exlibris: Ex Bibliotheca LR Ducis Brunsvicensis Et Luneburgensis Nummer: 80 b</comment>
     <copiesHAB>
       <copyHAB>M: Nx 21 (1)</copyHAB>
       <copyHAB>M: QuN 287.1 (10)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00290</Link>
-    <Kommentar>M: Nx 21 (1): Exlibris: Ex Bibliotheca LR Ducis Brunsvicensis Et Luneburgensis Nummer: 80 b</Kommentar>
   </item>
   <item>
     <id>sturm217</id>
@@ -11278,8 +11067,7 @@ Nachweis HAB von 1674</Kommentar>
     <titleCat>ein geschriebenes Mathemathisch Büchlein.</titleCat>
     <format>4°</format>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00290</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm218</id>
@@ -11291,8 +11079,7 @@ Nachweis HAB von 1674</Kommentar>
     <titleCat>Allerhand Kupfferstich durch Peter Schencken.</titleCat>
     <format>4°</format>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00290</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm219</id>
@@ -11304,8 +11091,7 @@ Nachweis HAB von 1674</Kommentar>
     <titleCat>Allerhand Kleine Kupfferstiche von Johann Wilhelm Bauren</titleCat>
     <format>4°</format>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00290</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm220</id>
@@ -11369,11 +11155,10 @@ Nachweis HAB von 1674</Kommentar>
       <idManifestation>09177537X</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</comment>
     <copiesHAB>
       <copyHAB>A: 32 Geom. (1)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00290</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</Kommentar>
   </item>
   <item>
     <id>sturm221</id>
@@ -11432,8 +11217,7 @@ Nachweis HAB von 1674</Kommentar>
       <idManifestation>3:301535C</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00291</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm222</id>
@@ -11451,8 +11235,7 @@ Nachweis HAB von 1674</Kommentar>
     </persons>
     <format>4°</format>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00291</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm223</id>
@@ -11464,8 +11247,7 @@ Nachweis HAB von 1674</Kommentar>
     <titleCat>Ein Heft worinn unterschiedlige Sachen absonderlich die Differentien zwischen den Fürstl. Zellischen und Wolffenbüttelschen Hau|sern.von Reichs Bannier.</titleCat>
     <format>4°</format>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00291</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm224</id>
@@ -11501,8 +11283,7 @@ Nachweis HAB von 1674</Kommentar>
       <idManifestation>374425000</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00291</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm225</id>
@@ -11556,11 +11337,10 @@ Nachweis HAB von 1674</Kommentar>
       <idManifestation>135130034</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Exlibris: Ex Bibliotheca LR Ducis Brunsvicensis Et Luneburgensis Nummer: 107</comment>
     <copiesHAB>
       <copyHAB>M: Nd 242</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00291</Link>
-    <Kommentar>Exlibris: Ex Bibliotheca LR Ducis Brunsvicensis Et Luneburgensis Nummer: 107</Kommentar>
   </item>
   <item>
     <id>sturm226</id>
@@ -11608,13 +11388,12 @@ Nachweis HAB von 1674</Kommentar>
       <idManifestation>151053790</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</comment>
     <copiesHAB>
       <copyHAB>M: QuN 142.12 (8)</copyHAB>
       <copyHAB>M: Rv 49 (1)</copyHAB>
       <copyHAB>M: Rv 49 (2)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00291</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</Kommentar>
   </item>
   <item>
     <id>sturm227</id>
@@ -11626,8 +11405,7 @@ Nachweis HAB von 1674</Kommentar>
     <titleCat>Ein Heft von unterschiedl. Disputationen</titleCat>
     <format>4°</format>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00291</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm228</id>
@@ -11689,7 +11467,6 @@ Nachweis HAB von 1674</Kommentar>
     <copiesHAB>
       <copyHAB>M: Gm 2534</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00291</Link>
   </item>
   <item>
     <id>sturm229</id>
@@ -11748,13 +11525,12 @@ Nachweis HAB von 1674</Kommentar>
       <idManifestation>135764475</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>diverse Exemplare</comment>
     <copiesHAB>
       <copyHAB>M: Gn Sammelbd. 78 (1)</copyHAB>
       <copyHAB>M: Li Sammelbd. 231 (2)</copyHAB>
       <copyHAB>A: 196.33 Hist.</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00291</Link>
-    <Kommentar>diverse Exemplare</Kommentar>
   </item>
   <item>
     <id>sturm230</id>
@@ -11828,7 +11604,6 @@ Nachweis HAB von 1674</Kommentar>
     <copiesHAB>
       <copyHAB>A: 187.2 Hist. (1)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00291</Link>
   </item>
   <item>
     <id>sturm231</id>
@@ -11840,8 +11615,7 @@ Nachweis HAB von 1674</Kommentar>
     <titleCat>Ein Heft von unterschiedligen Disputationen.</titleCat>
     <format>4°</format>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00291</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm232</id>
@@ -11853,8 +11627,7 @@ Nachweis HAB von 1674</Kommentar>
     <titleCat>Ein geschriebenes Tractätgen wie eingetreüe und geschickte Bediente bekom|men und erhalten Könne 1713</titleCat>
     <format>4°</format>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00291</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm233</id>
@@ -11908,7 +11681,6 @@ Nachweis HAB von 1674</Kommentar>
     <copiesHAB>
       <copyHAB>M: Nc 269</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00291</Link>
   </item>
   <item>
     <id>sturm234</id>
@@ -11968,7 +11740,6 @@ Nachweis HAB von 1674</Kommentar>
     <copiesHAB>
       <copyHAB>A: 31.12 Pol. (2)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00292</Link>
   </item>
   <item>
     <id>sturm235</id>
@@ -11980,8 +11751,7 @@ Nachweis HAB von 1674</Kommentar>
     <titleCat>Resolutio Caseum? Medreorum geschrieben</titleCat>
     <format>4°</format>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00292</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm236</id>
@@ -12046,7 +11816,6 @@ Nachweis HAB von 1674</Kommentar>
       <copyHAB>Xb 5367</copyHAB>
       <copyHAB>Xb 5368</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00292</Link>
   </item>
   <item>
     <id>sturm237</id>
@@ -12079,11 +11848,10 @@ Nachweis HAB von 1674</Kommentar>
       <idManifestation>167402153</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Nachweis HAB Mikroform</comment>
     <copiesHAB>
       <copyHAB>M: Za 343</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00292</Link>
-    <Kommentar>Nachweis HAB Mikroform</Kommentar>
   </item>
   <item>
     <id>sturm238</id>
@@ -12143,7 +11911,6 @@ Nachweis HAB von 1674</Kommentar>
       <copyHAB>H: 433 Helmst. Dr. (4)</copyHAB>
       <copyHAB>H: 913 Helmst. Dr. (1)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00292</Link>
   </item>
   <item>
     <id>sturm239</id>
@@ -12189,7 +11956,6 @@ Nachweis HAB von 1674</Kommentar>
     <copiesHAB>
       <copyHAB>Xb 5133 (1)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00292</Link>
   </item>
   <item>
     <id>sturm240</id>
@@ -12255,14 +12021,13 @@ Nachweis HAB von 1674</Kommentar>
       <idManifestation>151284474</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</comment>
     <copiesHAB>
       <copyHAB>M: Li 9919:1</copyHAB>
       <copyHAB>M: Li 9919:2</copyHAB>
       <copyHAB>M: Li 9919:3</copyHAB>
       <copyHAB>M: Li 9919:4</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00292</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</Kommentar>
   </item>
   <item>
     <id>sturm241</id>
@@ -12318,7 +12083,6 @@ Nachweis HAB von 1674</Kommentar>
     <copiesHAB>
       <copyHAB>A: 55.6 Astron.</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00292</Link>
   </item>
   <item>
     <id>sturm242</id>
@@ -12371,11 +12135,10 @@ Nachweis HAB von 1674</Kommentar>
       <idManifestation>536910596</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Könnte es sich ggf. um einen Schreibfehler handeln, 1635 statt 1625?;Nachweis HAB von 1635</comment>
     <copiesHAB>
       <copyHAB>Xb 8716 (1)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00292</Link>
-    <Kommentar>Könnte es sich ggf. um einen Schreibfehler handeln, 1635 statt 1625?;Nachweis HAB von 1635</Kommentar>
   </item>
   <item>
     <id>sturm243</id>
@@ -12424,7 +12187,6 @@ Nachweis HAB von 1674</Kommentar>
     <copiesHAB>
       <copyHAB>M: Nb 250</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00292</Link>
   </item>
   <item>
     <id>sturm244</id>
@@ -12479,8 +12241,7 @@ Nachweis HAB von 1674</Kommentar>
       <idManifestation>320931293</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00292</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm245</id>
@@ -12530,7 +12291,6 @@ Nachweis HAB von 1674</Kommentar>
     <copiesHAB>
       <copyHAB>Xb 9126</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00292</Link>
   </item>
   <item>
     <id>sturm246</id>
@@ -12582,7 +12342,6 @@ Nachweis HAB von 1674</Kommentar>
     <copiesHAB>
       <copyHAB>M: Ho 55</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00292</Link>
   </item>
   <item>
     <id>sturm247</id>
@@ -12637,7 +12396,6 @@ Nachweis HAB von 1674</Kommentar>
     <copiesHAB>
       <copyHAB>A: 78 Phys. (1)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00292</Link>
   </item>
   <item>
     <id>sturm248</id>
@@ -12689,7 +12447,6 @@ Nachweis HAB von 1674</Kommentar>
     <copiesHAB>
       <copyHAB>M: Ca 236</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00292</Link>
   </item>
   <item>
     <id>sturm249</id>
@@ -12732,12 +12489,11 @@ Nachweis HAB von 1674</Kommentar>
       <idManifestation>150679211</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>kein Nachweis für 1674;Nachweis HAB: 1673 (A: 142.1 Phys. (2) oder 1701 (M: Hr 208 (1)</comment>
     <copiesHAB>
       <copyHAB>A: 142.1 Phys. (2)</copyHAB>
       <copyHAB>M: Hr 208 (1)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00293</Link>
-    <Kommentar>kein Nachweis für 1674;Nachweis HAB: 1673 (A: 142.1 Phys. (2) oder 1701 (M: Hr 208 (1)</Kommentar>
   </item>
   <item>
     <id>sturm250</id>
@@ -12786,13 +12542,12 @@ Nachweis HAB von 1674</Kommentar>
       <idManifestation>149925565</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme;Ex-Libris: Ex Bibliotheca L R Ducis Brunsvicensis Et Luneburgensis</comment>
     <digitalCopy>http://diglib.hab.de/drucke/nb-221-1/start.htm;http://diglib.hab.de/drucke/nb-221-2/start.htm</digitalCopy>
     <copiesHAB>
       <copyHAB>M: Nb 221:1</copyHAB>
       <copyHAB>M: Nb 221:2</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00293</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme;Ex-Libris: Ex Bibliotheca L R Ducis Brunsvicensis Et Luneburgensis</Kommentar>
   </item>
   <item>
     <id>sturm251</id>
@@ -12855,7 +12610,6 @@ Nachweis HAB von 1674</Kommentar>
     <copiesHAB>
       <copyHAB>Xb 2201</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00293</Link>
   </item>
   <item>
     <id>sturm252</id>
@@ -12904,8 +12658,7 @@ Nachweis HAB von 1674</Kommentar>
       <idManifestation>142914134</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00293</Link>
-    <Kommentar>Nachweis HAB Mikroform</Kommentar>
+    <comment>Nachweis HAB Mikroform</comment>
   </item>
   <item>
     <id>sturm253</id>
@@ -12954,8 +12707,7 @@ Nachweis HAB von 1674</Kommentar>
       <idManifestation>192908448</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00293</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm254</id>
@@ -13008,7 +12760,6 @@ Nachweis HAB von 1674</Kommentar>
       <copyHAB>M: Jb 61 (2)</copyHAB>
       <copyHAB>M: Jb 62</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00293</Link>
   </item>
   <item>
     <id>sturm255</id>
@@ -13061,7 +12812,6 @@ Nachweis HAB von 1674</Kommentar>
     <copiesHAB>
       <copyHAB>M: Nx 91 (2)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00293</Link>
   </item>
   <item>
     <id>sturm256</id>
@@ -13117,7 +12867,6 @@ Nachweis HAB von 1674</Kommentar>
     <copiesHAB>
       <copyHAB>M: Lh 2618</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00293</Link>
   </item>
   <item>
     <id>sturm257</id>
@@ -13160,8 +12909,7 @@ Nachweis HAB von 1674</Kommentar>
       <idManifestation>412459558</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00293</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm258</id>
@@ -13206,11 +12954,10 @@ Nachweis HAB von 1674</Kommentar>
       <idManifestation>15042700X</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>kein Nachweis für 1710;Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</comment>
     <copiesHAB>
       <copyHAB>M: Nb 230</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00293</Link>
-    <Kommentar>kein Nachweis für 1710;Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</Kommentar>
   </item>
   <item>
     <id>sturm259</id>
@@ -13253,7 +13000,6 @@ Nachweis HAB von 1674</Kommentar>
     <copiesHAB>
       <copyHAB>M: Ob 23</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00293</Link>
   </item>
   <item>
     <id>sturm260</id>
@@ -13333,11 +13079,10 @@ Nachweis HAB von 1674</Kommentar>
       <idManifestation>147659140</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>kein Nachweis für 1698</comment>
     <copiesHAB>
       <copyHAB>Xb 5274</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00293</Link>
-    <Kommentar>kein Nachweis für 1698</Kommentar>
   </item>
   <item>
     <id>sturm261</id>
@@ -13386,8 +13131,7 @@ Nachweis HAB von 1674</Kommentar>
       <idManifestation>307556409</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00293</Link>
-    <Kommentar>kein Nachweis für 1713;kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis für 1713;kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm262</id>
@@ -13430,7 +13174,6 @@ Nachweis HAB von 1674</Kommentar>
       <copyHAB>M: Jb 283</copyHAB>
       <copyHAB>Schulenb. J 138</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00293</Link>
   </item>
   <item>
     <id>sturm263</id>
@@ -13473,12 +13216,11 @@ Nachweis HAB von 1674</Kommentar>
       <idManifestation>144216833</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</comment>
     <copiesHAB>
       <copyHAB>M: Jb 306</copyHAB>
       <copyHAB>Xb 4482 (1)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00294</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</Kommentar>
   </item>
   <item>
     <id>sturm264</id>
@@ -13536,7 +13278,6 @@ Nachweis HAB von 1674</Kommentar>
     <copiesHAB>
       <copyHAB>M: Ac 377 (1)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00294</Link>
   </item>
   <item>
     <id>sturm265</id>
@@ -13587,7 +13328,6 @@ Nachweis HAB von 1674</Kommentar>
     <copiesHAB>
       <copyHAB>M: Uf 50</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00294</Link>
   </item>
   <item>
     <id>sturm266</id>
@@ -13616,8 +13356,7 @@ Nachweis HAB von 1674</Kommentar>
       <idManifestation>147171695</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00294</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm267</id>
@@ -13670,7 +13409,6 @@ Nachweis HAB von 1674</Kommentar>
       <copyHAB>M: Jb 190</copyHAB>
       <copyHAB>Schulenb. J 119</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00294</Link>
   </item>
   <item>
     <id>sturm268</id>
@@ -13735,7 +13473,6 @@ Nachweis HAB von 1674</Kommentar>
     <copiesHAB>
       <copyHAB>M: Gl 4464</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00294</Link>
   </item>
   <item>
     <id>sturm269</id>
@@ -13790,7 +13527,6 @@ Nachweis HAB von 1674</Kommentar>
       <copyHAB>M: Jb 31 (1)</copyHAB>
       <copyHAB>Schulenb. J 71 (1)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00294</Link>
   </item>
   <item>
     <id>sturm270</id>
@@ -13836,7 +13572,6 @@ Nachweis HAB von 1674</Kommentar>
       <copyHAB>A: 35.2 Bell.</copyHAB>
       <copyHAB>Schulenb. J 110</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00294</Link>
   </item>
   <item>
     <id>sturm271</id>
@@ -13875,12 +13610,11 @@ Nachweis HAB von 1674</Kommentar>
       <idManifestation>249214431</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>kein Nachweis für 1707;Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</comment>
     <copiesHAB>
       <copyHAB>M: Aa 106:1
 M: Aa 106:2</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00294</Link>
-    <Kommentar>kein Nachweis für 1707;Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</Kommentar>
   </item>
   <item>
     <id>sturm272</id>
@@ -13926,11 +13660,10 @@ M: Aa 106:2</copyHAB>
       <idManifestation>150766777</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Band 1 eines mehrbändigen Werkes</comment>
     <copiesHAB>
       <copyHAB>M: Gv 281</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00294</Link>
-    <Kommentar>Band 1 eines mehrbändigen Werkes</Kommentar>
   </item>
   <item>
     <id>sturm273</id>
@@ -13978,8 +13711,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>403825334</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00294</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm274</id>
@@ -14023,14 +13755,13 @@ M: Aa 106:2</copyHAB>
       <idManifestation>153592729</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme;Signaturen der mittleren Aufstellung haben das Erscheinungsjahr 1700</comment>
     <copiesHAB>
       <copyHAB>Schulenb. E 86:1</copyHAB>
       <copyHAB>Schulenb. E 86:2</copyHAB>
       <copyHAB>M: Gk 255:1</copyHAB>
       <copyHAB>M: Gk 255:2</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00294</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme;Signaturen der mittleren Aufstellung haben das Erscheinungsjahr 1700</Kommentar>
   </item>
   <item>
     <id>sturm275</id>
@@ -14085,13 +13816,12 @@ M: Aa 106:2</copyHAB>
       <idManifestation>13745824X</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</comment>
     <copiesHAB>
       <copyHAB>M: Gu 230:1</copyHAB>
       <copyHAB>M: Gu 230a</copyHAB>
       <copyHAB>M: Gu 230:2</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00294</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</Kommentar>
   </item>
   <item>
     <id>sturm276</id>
@@ -14140,7 +13870,6 @@ M: Aa 106:2</copyHAB>
     <copiesHAB>
       <copyHAB>M: Gv 214.1</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00294</Link>
   </item>
   <item>
     <id>sturm277</id>
@@ -14182,7 +13911,6 @@ M: Aa 106:2</copyHAB>
     <copiesHAB>
       <copyHAB>M: Gw 73</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00295</Link>
   </item>
   <item>
     <id>sturm278</id>
@@ -14230,7 +13958,6 @@ M: Aa 106:2</copyHAB>
     <copiesHAB>
       <copyHAB>M: Jb 282 (1)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00295</Link>
   </item>
   <item>
     <id>sturm279</id>
@@ -14269,12 +13996,11 @@ M: Aa 106:2</copyHAB>
       <idManifestation>150250487</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</comment>
     <copiesHAB>
       <copyHAB>M: Gv 337 (1)</copyHAB>
       <copyHAB>M: Gv 337 (2)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00295</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</Kommentar>
   </item>
   <item>
     <id>sturm280</id>
@@ -14312,11 +14038,10 @@ M: Aa 106:2</copyHAB>
       <idManifestation>1117920348</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Nachweis HAB: Erscheinungsort Amsterdam</comment>
     <copiesHAB>
       <copyHAB>M: Uf 47</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00295</Link>
-    <Kommentar>Nachweis HAB: Erscheinungsort Amsterdam</Kommentar>
   </item>
   <item>
     <id>sturm281</id>
@@ -14368,11 +14093,10 @@ M: Aa 106:2</copyHAB>
       <idManifestation>134495594</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Nach Erscheinungsjahr Band zwei eines mehrbändigen Werkes</comment>
     <copiesHAB>
       <copyHAB>M: Nb 228</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00295</Link>
-    <Kommentar>Nach Erscheinungsjahr Band zwei eines mehrbändigen Werkes</Kommentar>
   </item>
   <item>
     <id>sturm282</id>
@@ -14421,7 +14145,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>245935657</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm283</id>
@@ -14463,7 +14187,6 @@ M: Aa 106:2</copyHAB>
       <copyHAB>M: Jb 280</copyHAB>
       <copyHAB>Schulenb. J 137</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00295</Link>
   </item>
   <item>
     <id>sturm284</id>
@@ -14520,8 +14243,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>683592416</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00295</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm285</id>
@@ -14555,8 +14277,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>310121221</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00295</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm286</id>
@@ -14609,7 +14330,6 @@ M: Aa 106:2</copyHAB>
     <copiesHAB>
       <copyHAB>Xd 8° 406 (4)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00295</Link>
   </item>
   <item>
     <id>sturm287</id>
@@ -14656,8 +14376,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>29:734559C</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00295</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm288</id>
@@ -14701,8 +14420,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>848383591</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00295</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm289</id>
@@ -14738,7 +14456,6 @@ M: Aa 106:2</copyHAB>
     <copiesHAB>
       <copyHAB>M: Hr 161 (1)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00296</Link>
   </item>
   <item>
     <id>sturm290</id>
@@ -14790,7 +14507,6 @@ M: Aa 106:2</copyHAB>
     <copiesHAB>
       <copyHAB>M: Ba 138</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00296</Link>
   </item>
   <item>
     <id>sturm291</id>
@@ -14834,8 +14550,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>13519475X</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00296</Link>
-    <Kommentar>HAB: Nachweis London 1688 als DFG-Nationallizenz (Early English books)</Kommentar>
+    <comment>HAB: Nachweis London 1688 als DFG-Nationallizenz (Early English books)</comment>
   </item>
   <item>
     <id>sturm292</id>
@@ -14881,12 +14596,11 @@ M: Aa 106:2</copyHAB>
       <idManifestation>130130648</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Nachweis HAB Microform</comment>
     <copiesHAB>
       <copyHAB>M: Za 8</copyHAB>
       <copyHAB>Microfilm 1:555</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00296</Link>
-    <Kommentar>Nachweis HAB Microform</Kommentar>
   </item>
   <item>
     <id>sturm293</id>
@@ -14948,7 +14662,6 @@ M: Aa 106:2</copyHAB>
       <copyHAB>M: Fe 137</copyHAB>
       <copyHAB>H: T 647.8° Helmst.</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00296</Link>
   </item>
   <item>
     <id>sturm294</id>
@@ -14995,11 +14708,10 @@ M: Aa 106:2</copyHAB>
       <idManifestation>151242364</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</comment>
     <copiesHAB>
       <copyHAB>M: Gm 552</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00296</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</Kommentar>
   </item>
   <item>
     <id>sturm295</id>
@@ -15038,8 +14750,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>230628710</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00296</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm296</id>
@@ -15091,11 +14802,10 @@ M: Aa 106:2</copyHAB>
       <idManifestation>216088976</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>HAB: Nachweis nur von 1721</comment>
     <copiesHAB>
       <copyHAB>M: Sd 118 (1)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00296</Link>
-    <Kommentar>HAB: Nachweis nur von 1721</Kommentar>
   </item>
   <item>
     <id>sturm297</id>
@@ -15156,7 +14866,7 @@ M: Aa 106:2</copyHAB>
     <titleCat>Rudimenta Linguæ Italicæ.</titleCat>
     <format>12°</format>
     <bound>1</bound>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm299</id>
@@ -15218,7 +14928,6 @@ M: Aa 106:2</copyHAB>
     <copiesHAB>
       <copyHAB>M: Oe 43</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00297</Link>
   </item>
   <item>
     <id>sturm300</id>
@@ -15304,7 +15013,6 @@ M: Aa 106:2</copyHAB>
       <copyHAB>M: Uf 192 (2)</copyHAB>
       <copyHAB>M: Jb 39 (2)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00297</Link>
   </item>
   <item>
     <id>sturm302</id>
@@ -15347,7 +15055,6 @@ M: Aa 106:2</copyHAB>
     <copiesHAB>
       <copyHAB>M: Nb 436</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00297</Link>
   </item>
   <item>
     <id>sturm303</id>
@@ -15395,7 +15102,6 @@ M: Aa 106:2</copyHAB>
     <copiesHAB>
       <copyHAB>M: Fd 119</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00297</Link>
   </item>
   <item>
     <id>sturm304</id>
@@ -15449,7 +15155,6 @@ M: Aa 106:2</copyHAB>
     <copiesHAB>
       <copyHAB>Xb 12° 422</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00297</Link>
   </item>
   <item>
     <id>sturm305</id>
@@ -15542,8 +15247,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>373214456</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00297</Link>
-    <Kommentar>HAB: diverse Nachweise aus anderen Erscheinungsjahren</Kommentar>
+    <comment>HAB: diverse Nachweise aus anderen Erscheinungsjahren</comment>
   </item>
   <item>
     <id>sturm306</id>
@@ -15614,7 +15318,6 @@ M: Aa 106:2</copyHAB>
     <copiesHAB>
       <copyHAB>M: Od 16</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00297</Link>
   </item>
   <item>
     <id>sturm307</id>
@@ -15664,11 +15367,10 @@ M: Aa 106:2</copyHAB>
       <idManifestation>231898649</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Werk enthalten in M: Jb 262</comment>
     <copiesHAB>
       <copyHAB>M: Jb 262</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00297</Link>
-    <Kommentar>Werk enthalten in M: Jb 262</Kommentar>
   </item>
   <item>
     <id>sturm308</id>
@@ -15729,7 +15431,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>496654071</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Kommentar>HAB: Nachweis 1728 (M: Nb 463)</Kommentar>
+    <comment>HAB: Nachweis 1728 (M: Nb 463)</comment>
   </item>
   <item>
     <id>sturm309</id>
@@ -15762,8 +15464,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>188049983</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00297</Link>
-    <Kommentar>HAB: kein Nachweis für 1662</Kommentar>
+    <comment>HAB: kein Nachweis für 1662</comment>
   </item>
   <item>
     <id>sturm310</id>
@@ -15815,8 +15516,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>165475595</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00297</Link>
-    <Kommentar>Ausgabe von 1644 nicht ermittelbar, nur 1642 (M: Lp 19)</Kommentar>
+    <comment>Ausgabe von 1644 nicht ermittelbar, nur 1642 (M: Lp 19)</comment>
   </item>
   <item>
     <id>sturm311</id>
@@ -15862,7 +15562,6 @@ M: Aa 106:2</copyHAB>
     <copiesHAB>
       <copyHAB>M: Ug 13</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00297</Link>
   </item>
   <item>
     <id>sturm312</id>
@@ -15895,8 +15594,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>431984239</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00297</Link>
-    <Kommentar>K10+ PPN bezieht sich auf Dritten Theil;HAB: div. Nachweise aus anderen Jahren</Kommentar>
+    <comment>K10+ PPN bezieht sich auf Dritten Theil;HAB: div. Nachweise aus anderen Jahren</comment>
   </item>
   <item>
     <id>sturm313</id>
@@ -15943,8 +15641,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>216362873</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00297</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm314</id>
@@ -15988,7 +15685,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>146270711</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm315</id>
@@ -16085,8 +15782,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>198441045</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00298</Link>
-    <Kommentar>HAB: Nachweis 1703 (M: Cc 363), 1729 (M: Cc 364)</Kommentar>
+    <comment>HAB: Nachweis 1703 (M: Cc 363), 1729 (M: Cc 364)</comment>
   </item>
   <item>
     <id>sturm317</id>
@@ -16141,7 +15837,6 @@ M: Aa 106:2</copyHAB>
     <copiesHAB>
       <copyHAB>M: Gh 487</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00298</Link>
   </item>
   <item>
     <id>sturm318</id>
@@ -16190,7 +15885,6 @@ M: Aa 106:2</copyHAB>
     <copiesHAB>
       <copyHAB>M: Cc 399</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00298</Link>
   </item>
   <item>
     <id>sturm319</id>
@@ -16202,8 +15896,7 @@ M: Aa 106:2</copyHAB>
     <titleCat>Quida de Forestieri in Napoli 1688.</titleCat>
     <format>12°</format>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00298</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm320</id>
@@ -16245,11 +15938,10 @@ M: Aa 106:2</copyHAB>
       <idManifestation>150290136</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme;Nachweis HAB nur Buch 2</comment>
     <copiesHAB>
       <copyHAB>M: Gx 239</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00298</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme;Nachweis HAB nur Buch 2</Kommentar>
   </item>
   <item>
     <id>sturm321</id>
@@ -16358,7 +16050,6 @@ M: Aa 106:2</copyHAB>
     <copiesHAB>
       <copyHAB>M: Gb 236</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00298</Link>
   </item>
   <item>
     <id>sturm323</id>
@@ -16409,8 +16100,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>150031378</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00298</Link>
-    <Kommentar>Nachweis HAB: 1674 (Xb 6667 (1));1665 Teil: Adpendix: Breviarum geographicum (M: Ca 21)</Kommentar>
+    <comment>Nachweis HAB: 1674 (Xb 6667 (1));1665 Teil: Adpendix: Breviarum geographicum (M: Ca 21)</comment>
   </item>
   <item>
     <id>sturm324</id>
@@ -16449,11 +16139,10 @@ M: Aa 106:2</copyHAB>
       <idManifestation>151669902</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</comment>
     <copiesHAB>
       <copyHAB>M: Gh 341</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00298</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</Kommentar>
   </item>
   <item>
     <id>sturm325</id>
@@ -16509,7 +16198,6 @@ M: Aa 106:2</copyHAB>
     <copiesHAB>
       <copyHAB>M: Ca 146</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00298</Link>
   </item>
   <item>
     <id>sturm326</id>
@@ -16575,7 +16263,6 @@ M: Aa 106:2</copyHAB>
       <copyHAB>M: Tb 2° 17</copyHAB>
       <copyHAB>Xd 2° 86</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00299</Link>
   </item>
   <item>
     <id>sturm327</id>
@@ -16665,7 +16352,6 @@ M: Aa 106:2</copyHAB>
     <copiesHAB>
       <copyHAB>M: Kb 2° 11</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00299</Link>
   </item>
   <item>
     <id>sturm328</id>
@@ -16736,7 +16422,6 @@ M: Aa 106:2</copyHAB>
     <copiesHAB>
       <copyHAB>H: P 402.2° Helmst.</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00299</Link>
   </item>
   <item>
     <id>sturm329</id>
@@ -16806,8 +16491,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>682321982</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00299</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm330</id>
@@ -16867,7 +16551,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>682225800</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm331</id>
@@ -16938,7 +16622,6 @@ M: Aa 106:2</copyHAB>
       <copyHAB>A: 229 Theol. 2°</copyHAB>
       <copyHAB>H: D 254.2° Helmst. (1)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00299</Link>
   </item>
   <item>
     <id>sturm332</id>
@@ -16994,8 +16677,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>143604678</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00299</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm333</id>
@@ -17058,12 +16740,11 @@ M: Aa 106:2</copyHAB>
       <idManifestation>535678568</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</comment>
     <copiesHAB>
       <copyHAB>M: To 4° 13 (1)</copyHAB>
       <copyHAB>M: To 4° 13 (2)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00299</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</Kommentar>
   </item>
   <item>
     <id>sturm334</id>
@@ -17121,7 +16802,6 @@ M: Aa 106:2</copyHAB>
       <copyHAB>M: Td 4° 27</copyHAB>
       <copyHAB>H: C 300.2° Helmst.</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00299</Link>
   </item>
   <item>
     <id>sturm335</id>
@@ -17140,11 +16820,10 @@ M: Aa 106:2</copyHAB>
       <idManifestation>150995008</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</comment>
     <copiesHAB>
       <copyHAB>M: Te 4° 29</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00299</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</Kommentar>
   </item>
   <item>
     <id>sturm336</id>
@@ -17157,8 +16836,7 @@ M: Aa 106:2</copyHAB>
     <format>2°</format>
     <histSubject>Theologische Bücher</histSubject>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00299</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm337</id>
@@ -17177,11 +16855,10 @@ M: Aa 106:2</copyHAB>
       <idManifestation>220661901</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme;Theil 1 von 1706</comment>
     <copiesHAB>
       <copyHAB>H: J 442a.4° Helmst.</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00300</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme;Theil 1 von 1706</Kommentar>
   </item>
   <item>
     <id>sturm338</id>
@@ -17194,8 +16871,7 @@ M: Aa 106:2</copyHAB>
     <format>4°</format>
     <histSubject>Theologische Bücher</histSubject>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00300</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm339</id>
@@ -17214,8 +16890,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>245368914</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00300</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm340</id>
@@ -17234,8 +16909,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>12:130233X</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00300</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm341</id>
@@ -17248,8 +16922,7 @@ M: Aa 106:2</copyHAB>
     <format>4°</format>
     <histSubject>Theologische Bücher</histSubject>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00300</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm342</id>
@@ -17268,11 +16941,10 @@ M: Aa 106:2</copyHAB>
       <idManifestation>150631618</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</comment>
     <copiesHAB>
       <copyHAB>M: Tp 557</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00300</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme</Kommentar>
   </item>
   <item>
     <id>sturm343</id>
@@ -17285,8 +16957,7 @@ M: Aa 106:2</copyHAB>
     <format>4°</format>
     <histSubject>Theologische Bücher</histSubject>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00300</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm344</id>
@@ -17309,7 +16980,6 @@ M: Aa 106:2</copyHAB>
       <copyHAB>M: Li 2222</copyHAB>
       <copyHAB>H: C 145a.4° Helmst.</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00300</Link>
   </item>
   <item>
     <id>sturm345</id>
@@ -17331,7 +17001,6 @@ M: Aa 106:2</copyHAB>
     <copiesHAB>
       <copyHAB>A: 10.11 Theol.</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00300</Link>
   </item>
   <item>
     <id>sturm346</id>
@@ -17354,7 +17023,6 @@ M: Aa 106:2</copyHAB>
       <copyHAB>Bibel-S. 86</copyHAB>
       <copyHAB>H: A 108.8° Helmst.</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00300</Link>
   </item>
   <item>
     <id>sturm347</id>
@@ -17376,7 +17044,6 @@ M: Aa 106:2</copyHAB>
     <copiesHAB>
       <copyHAB>H: J 418.4° Helmst.</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00300</Link>
   </item>
   <item>
     <id>sturm348</id>
@@ -17398,7 +17065,6 @@ M: Aa 106:2</copyHAB>
     <copiesHAB>
       <copyHAB>Bibel-S. 826</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00300</Link>
   </item>
   <item>
     <id>sturm349</id>
@@ -17420,7 +17086,6 @@ M: Aa 106:2</copyHAB>
     <copiesHAB>
       <copyHAB>A: 312.45 Theol. (4)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00300</Link>
   </item>
   <item>
     <id>sturm350</id>
@@ -17433,8 +17098,7 @@ M: Aa 106:2</copyHAB>
     <format>4°</format>
     <histSubject>Theologische Bücher</histSubject>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00301</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm351</id>
@@ -17447,8 +17111,7 @@ M: Aa 106:2</copyHAB>
     <format>4°</format>
     <histSubject>Theologische Bücher</histSubject>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00301</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm352</id>
@@ -17461,8 +17124,7 @@ M: Aa 106:2</copyHAB>
     <format>4°</format>
     <histSubject>Theologische Bücher</histSubject>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00301</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm353</id>
@@ -17479,7 +17141,7 @@ M: Aa 106:2</copyHAB>
     <format>4°</format>
     <histSubject>Theologische Bücher</histSubject>
     <bound>1</bound>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm354</id>
@@ -17496,8 +17158,7 @@ M: Aa 106:2</copyHAB>
     <format>4°</format>
     <histSubject>Theologische Bücher</histSubject>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00301</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm355</id>
@@ -17520,8 +17181,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>058612351</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00301</Link>
-    <Kommentar>HAB: Nachweis 1697 als Mikrofilm</Kommentar>
+    <comment>HAB: Nachweis 1697 als Mikrofilm</comment>
   </item>
   <item>
     <id>sturm356</id>
@@ -17544,12 +17204,11 @@ M: Aa 106:2</copyHAB>
       <idManifestation>091795478</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme; Teil 1 von 1692</comment>
     <copiesHAB>
       <copyHAB>M: Ts 115 (9)</copyHAB>
       <copyHAB>M: Ts 66 (12)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00301</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme; Teil 1 von 1692</Kommentar>
   </item>
   <item>
     <id>sturm357</id>
@@ -17566,8 +17225,7 @@ M: Aa 106:2</copyHAB>
     <format>4°</format>
     <histSubject>Theologische Bücher</histSubject>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00301</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm358</id>
@@ -17584,8 +17242,7 @@ M: Aa 106:2</copyHAB>
     <format>4°</format>
     <histSubject>Theologische Bücher</histSubject>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00301</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm359</id>
@@ -17598,8 +17255,7 @@ M: Aa 106:2</copyHAB>
     <format>4°</format>
     <histSubject>Theologische Bücher</histSubject>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00301</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm360</id>
@@ -17618,8 +17274,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>151619158</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00301</Link>
-    <Kommentar>Ausgabe nicht nachweisbar;HAB: Nachweis 1693 mit Augsburg als Druckort (M: Uh 90)</Kommentar>
+    <comment>Ausgabe nicht nachweisbar;HAB: Nachweis 1693 mit Augsburg als Druckort (M: Uh 90)</comment>
   </item>
   <item>
     <id>sturm361</id>
@@ -17632,8 +17287,7 @@ M: Aa 106:2</copyHAB>
     <format>4°</format>
     <histSubject>Theologische Bücher</histSubject>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00301</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm362</id>
@@ -17649,8 +17303,7 @@ M: Aa 106:2</copyHAB>
       <subject>Überschrift?</subject>
     </subjects>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00301</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm363</id>
@@ -17672,8 +17325,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>147123658</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00301</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm364</id>
@@ -17698,7 +17350,6 @@ M: Aa 106:2</copyHAB>
     <copiesHAB>
       <copyHAB>M: Ts 64 (1)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00301</Link>
   </item>
   <item>
     <id>sturm365</id>
@@ -17714,7 +17365,7 @@ M: Aa 106:2</copyHAB>
       <subject>Überschrift?</subject>
     </subjects>
     <bound>1</bound>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm366</id>
@@ -17736,7 +17387,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>310717809</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm367</id>
@@ -17762,7 +17413,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>303800259</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm368</id>
@@ -17782,8 +17433,7 @@ M: Aa 106:2</copyHAB>
       <subject>Überschrift?</subject>
     </subjects>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00302</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm369</id>
@@ -17808,7 +17458,6 @@ M: Aa 106:2</copyHAB>
     <copiesHAB>
       <copyHAB>M: Li 5385</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00302</Link>
   </item>
   <item>
     <id>sturm370</id>
@@ -17824,8 +17473,7 @@ M: Aa 106:2</copyHAB>
       <subject>Überschrift?</subject>
     </subjects>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00302</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm371</id>
@@ -17841,8 +17489,7 @@ M: Aa 106:2</copyHAB>
       <subject>Überschrift?</subject>
     </subjects>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00302</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm372</id>
@@ -17868,8 +17515,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>21959256X</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00302</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm373</id>
@@ -17898,7 +17544,6 @@ M: Aa 106:2</copyHAB>
     <copiesHAB>
       <copyHAB>M: Ts 304 (4)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00302</Link>
   </item>
   <item>
     <id>sturm374</id>
@@ -17914,8 +17559,7 @@ M: Aa 106:2</copyHAB>
       <subject>Überschrift?</subject>
     </subjects>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00302</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm375</id>
@@ -17928,8 +17572,7 @@ M: Aa 106:2</copyHAB>
     <format>8°</format>
     <histSubject>Theologische Bücher</histSubject>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00303</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm376</id>
@@ -17948,8 +17591,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>309105110</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00303</Link>
-    <Kommentar>HAB: Nachweis 1653 (M: Tm 328; A: 879.14 Theol. (1); A: 988.4 Theol. (2))</Kommentar>
+    <comment>HAB: Nachweis 1653 (M: Tm 328; A: 879.14 Theol. (1); A: 988.4 Theol. (2))</comment>
   </item>
   <item>
     <id>sturm377</id>
@@ -17962,8 +17604,7 @@ M: Aa 106:2</copyHAB>
     <format>8°</format>
     <histSubject>Theologische Bücher</histSubject>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00303</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm378</id>
@@ -17982,8 +17623,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>151865035</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00303</Link>
-    <Kommentar>Ausgabe nicht ermittelbar; HAB Nachweis 1706 (M: Tq 300)</Kommentar>
+    <comment>Ausgabe nicht ermittelbar; HAB Nachweis 1706 (M: Tq 300)</comment>
   </item>
   <item>
     <id>sturm379</id>
@@ -18002,8 +17642,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>574925465</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00303</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm380</id>
@@ -18022,8 +17661,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>212835025</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00303</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm381</id>
@@ -18042,8 +17680,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>091963052</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00303</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm382</id>
@@ -18062,8 +17699,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>147475082</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00303</Link>
-    <Kommentar>Mehrbändiges Werk; K10+ PPN der Hauptaufnahme;kein Nachweis HAB</Kommentar>
+    <comment>Mehrbändiges Werk; K10+ PPN der Hauptaufnahme;kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm383</id>
@@ -18076,8 +17712,7 @@ M: Aa 106:2</copyHAB>
     <format>8°</format>
     <histSubject>Theologische Bücher</histSubject>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00303</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm384</id>
@@ -18099,7 +17734,6 @@ M: Aa 106:2</copyHAB>
     <copiesHAB>
       <copyHAB>A: 671.8 Theol. (1)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00303</Link>
   </item>
   <item>
     <id>sturm385</id>
@@ -18118,11 +17752,10 @@ M: Aa 106:2</copyHAB>
       <idManifestation>151373973</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Exlibris: Ex Bibliotheca L[udovici] R[udolphi] Ducis Brunsvicensis Et Luneburgensis</comment>
     <copiesHAB>
       <copyHAB>M: Th 2415</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00303</Link>
-    <Kommentar>Exlibris: Ex Bibliotheca L[udovici] R[udolphi] Ducis Brunsvicensis Et Luneburgensis</Kommentar>
   </item>
   <item>
     <id>sturm386</id>
@@ -18141,8 +17774,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>244930082</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00303</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm387</id>
@@ -18161,8 +17793,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>318544679</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00303</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm388</id>
@@ -18185,7 +17816,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>311273181</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm389</id>
@@ -18211,7 +17842,6 @@ M: Aa 106:2</copyHAB>
     <copiesHAB>
       <copyHAB>Wt 1185</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00303</Link>
   </item>
   <item>
     <id>sturm390</id>
@@ -18237,7 +17867,6 @@ M: Aa 106:2</copyHAB>
     <copiesHAB>
       <copyHAB>Xb 50</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00303</Link>
   </item>
   <item>
     <id>sturm391</id>
@@ -18260,7 +17889,6 @@ M: Aa 106:2</copyHAB>
       <copyHAB>M: Li 3284</copyHAB>
       <copyHAB>A: 1128.2 Theol.</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00304</Link>
   </item>
   <item>
     <id>sturm392</id>
@@ -18273,8 +17901,7 @@ M: Aa 106:2</copyHAB>
     <format>8°</format>
     <histSubject>Theologische Bücher</histSubject>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00304</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm393</id>
@@ -18297,7 +17924,6 @@ M: Aa 106:2</copyHAB>
     <copiesHAB>
       <copyHAB>Xb 6788</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00304</Link>
   </item>
   <item>
     <id>sturm394</id>
@@ -18324,7 +17950,6 @@ M: Aa 106:2</copyHAB>
       <copyHAB>M: Td 5</copyHAB>
       <copyHAB>H: D 12.8° Helmst.</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00304</Link>
   </item>
   <item>
     <id>sturm395</id>
@@ -18350,7 +17975,6 @@ M: Aa 106:2</copyHAB>
     <copiesHAB>
       <copyHAB>M: Te 858 (2)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00304</Link>
   </item>
   <item>
     <id>sturm396</id>
@@ -18376,7 +18000,6 @@ M: Aa 106:2</copyHAB>
     <copiesHAB>
       <copyHAB>Xb 5316</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00304</Link>
   </item>
   <item>
     <id>sturm397</id>
@@ -18402,7 +18025,6 @@ M: Aa 106:2</copyHAB>
     <copiesHAB>
       <copyHAB>M: QuN 460.3 (1)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00304</Link>
   </item>
   <item>
     <id>sturm398</id>
@@ -18425,11 +18047,10 @@ M: Aa 106:2</copyHAB>
       <idManifestation>150167709</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>nach dem Erscheinungsjahr Band 1 eines mehrbändigen Werkes</comment>
     <copiesHAB>
       <copyHAB>M: Gv 714</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00304</Link>
-    <Kommentar>nach dem Erscheinungsjahr Band 1 eines mehrbändigen Werkes</Kommentar>
   </item>
   <item>
     <id>sturm399</id>
@@ -18448,8 +18069,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>1:073306E</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00304</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm400</id>
@@ -18468,8 +18088,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>154423637</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00304</Link>
-    <Kommentar>Nachweis von HAB 1667 (M: Th 1067, M: QuN 572 (1))</Kommentar>
+    <comment>Nachweis von HAB 1667 (M: Th 1067, M: QuN 572 (1))</comment>
   </item>
   <item>
     <id>sturm401</id>
@@ -18482,8 +18101,7 @@ M: Aa 106:2</copyHAB>
     <format>8°</format>
     <histSubject>Theologische Bücher</histSubject>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00304</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm402</id>
@@ -18506,11 +18124,10 @@ M: Aa 106:2</copyHAB>
       <idManifestation>1001428099</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Provenienz: Rudolf August &lt;Braunschweig-Lüneburg, Herzog&gt; / Initiale</comment>
     <copiesHAB>
       <copyHAB>A: 831.7 Theol. (1)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00304</Link>
-    <Kommentar>Provenienz: Rudolf August &lt;Braunschweig-Lüneburg, Herzog&gt; / Initiale</Kommentar>
   </item>
   <item>
     <id>sturm403</id>
@@ -18533,8 +18150,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>306726327</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00304</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm404</id>
@@ -18551,8 +18167,7 @@ M: Aa 106:2</copyHAB>
     <format>8°</format>
     <histSubject>Theologische Bücher</histSubject>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00304</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm405</id>
@@ -18575,7 +18190,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>535985940</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm406</id>
@@ -18592,8 +18207,7 @@ M: Aa 106:2</copyHAB>
     <format>8°</format>
     <histSubject>Theologische Bücher</histSubject>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00304</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm407</id>
@@ -18615,7 +18229,6 @@ M: Aa 106:2</copyHAB>
     <copiesHAB>
       <copyHAB>M: Th 1343</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00304</Link>
   </item>
   <item>
     <id>sturm408</id>
@@ -18628,8 +18241,7 @@ M: Aa 106:2</copyHAB>
     <format>8°</format>
     <histSubject>Theologische Bücher</histSubject>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00305</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm409</id>
@@ -18651,7 +18263,6 @@ M: Aa 106:2</copyHAB>
     <copiesHAB>
       <copyHAB>M: Ts 414 (1)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00305</Link>
   </item>
   <item>
     <id>sturm410</id>
@@ -18673,7 +18284,6 @@ M: Aa 106:2</copyHAB>
     <copiesHAB>
       <copyHAB>M: Ts 413 (1)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00305</Link>
   </item>
   <item>
     <id>sturm411</id>
@@ -18695,7 +18305,6 @@ M: Aa 106:2</copyHAB>
     <copiesHAB>
       <copyHAB>M: Ts 339 (1)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00305</Link>
   </item>
   <item>
     <id>sturm412</id>
@@ -18712,8 +18321,7 @@ M: Aa 106:2</copyHAB>
     <format>8°</format>
     <histSubject>Theologische Bücher</histSubject>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00305</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm413</id>
@@ -18736,8 +18344,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>328086320</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00305</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme;kein Nachweis HAB</Kommentar>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme;kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm414</id>
@@ -18756,8 +18363,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>153309857</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00305</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahmahme;Nachweis HAB 1700 (M: Th 991), 1710 (M: Tq 443, H: Yv 523.8° Helmst.)</Kommentar>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahmahme;Nachweis HAB 1700 (M: Th 991), 1710 (M: Tq 443, H: Yv 523.8° Helmst.)</comment>
   </item>
   <item>
     <id>sturm415</id>
@@ -18770,8 +18376,7 @@ M: Aa 106:2</copyHAB>
     <format>8°</format>
     <histSubject>Theologische Bücher</histSubject>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00305</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm416</id>
@@ -18790,8 +18395,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>253984483</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00305</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm417</id>
@@ -18810,8 +18414,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>313007985</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00305</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm418</id>
@@ -18837,7 +18440,6 @@ M: Aa 106:2</copyHAB>
     <copiesHAB>
       <copyHAB>M: QuN 520h (1)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00305</Link>
   </item>
   <item>
     <id>sturm419</id>
@@ -18863,7 +18465,6 @@ M: Aa 106:2</copyHAB>
     <copiesHAB>
       <copyHAB>M: QuN 520h (2)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00305</Link>
   </item>
   <item>
     <id>sturm420</id>
@@ -18889,7 +18490,6 @@ M: Aa 106:2</copyHAB>
     <copiesHAB>
       <copyHAB>M: QuN 520h (3)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00305</Link>
   </item>
   <item>
     <id>sturm421</id>
@@ -18912,11 +18512,10 @@ M: Aa 106:2</copyHAB>
       <idManifestation>252335899</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Aufsatz in M: QuN 520h (3):</comment>
     <copiesHAB>
       <copyHAB>M: QuN 520h (3)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00305</Link>
-    <Kommentar>Aufsatz in M: QuN 520h (3):</Kommentar>
   </item>
   <item>
     <id>sturm422</id>
@@ -18935,8 +18534,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>1:073343H</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00305</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm423</id>
@@ -18955,8 +18553,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>335360661</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00305</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm424</id>
@@ -18975,8 +18572,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>150902204</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00305</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm425</id>
@@ -18995,8 +18591,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>151223114</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00305</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm426</id>
@@ -19018,8 +18613,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>153115602</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00306</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm427</id>
@@ -19035,8 +18629,7 @@ M: Aa 106:2</copyHAB>
       <subject>Überschrift?</subject>
     </subjects>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00306</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm428</id>
@@ -19058,8 +18651,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>305076760</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00306</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm429</id>
@@ -19075,8 +18667,7 @@ M: Aa 106:2</copyHAB>
       <subject>Überschrift?</subject>
     </subjects>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00306</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm430</id>
@@ -19098,8 +18689,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>75:657092R</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00306</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm431</id>
@@ -19121,8 +18711,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>235405469</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00306</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm432</id>
@@ -19144,8 +18733,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>835526585</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00306</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm433</id>
@@ -19167,8 +18755,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>150995067</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00306</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm434</id>
@@ -19190,8 +18777,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>88022844X</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00306</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm435</id>
@@ -19217,7 +18803,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>30525815X</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm436</id>
@@ -19242,8 +18828,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>092297226</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00306</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm437</id>
@@ -19269,8 +18854,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>331338203</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00306</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm438</id>
@@ -19296,8 +18880,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>31016477X</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00306</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm439</id>
@@ -19313,8 +18896,7 @@ M: Aa 106:2</copyHAB>
       <subject>Überschrift?</subject>
     </subjects>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00306</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm440</id>
@@ -19336,8 +18918,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>310400732</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00307</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm441</id>
@@ -19359,8 +18940,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>091960614</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00307</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm442</id>
@@ -19382,8 +18962,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>151911304</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00307</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm443</id>
@@ -19405,8 +18984,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>092194575</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00307</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm444</id>
@@ -19428,8 +19006,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>313069980</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00307</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm445</id>
@@ -19445,8 +19022,7 @@ M: Aa 106:2</copyHAB>
       <subject>Überschrift?</subject>
     </subjects>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00307</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm446</id>
@@ -19468,8 +19044,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>237293382</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00307</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm447</id>
@@ -19491,8 +19066,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>308961862</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00307</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm448</id>
@@ -19514,8 +19088,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>314961666</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00307</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm449</id>
@@ -19537,8 +19110,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>053026845</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00307</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm450</id>
@@ -19557,8 +19129,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>536993262</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00308</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm451</id>
@@ -19571,8 +19142,7 @@ M: Aa 106:2</copyHAB>
     <format>12°</format>
     <histSubject>Theologische Bücher</histSubject>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00308</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm452</id>
@@ -19591,8 +19161,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>134755944</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00308</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm453</id>
@@ -19611,8 +19180,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>091973147</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00308</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm454</id>
@@ -19641,7 +19209,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>092136141</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm455</id>
@@ -19664,8 +19232,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>536972699</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00308</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm456</id>
@@ -19688,8 +19255,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>151772207</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00308</Link>
-    <Kommentar>Mehrbändiges Werk; K10+ PPN der Hauptaufnahme;kein Nachweis HAB</Kommentar>
+    <comment>Mehrbändiges Werk; K10+ PPN der Hauptaufnahme;kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm457</id>
@@ -19712,8 +19278,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>092227090</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00308</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm458</id>
@@ -19736,8 +19301,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>151772134</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00308</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm459</id>
@@ -19760,8 +19324,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>151772363</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00308</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm460</id>
@@ -19784,8 +19347,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>151772096</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00308</Link>
-    <Kommentar>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme;kein Nachweis HAB</Kommentar>
+    <comment>Mehrbändiges Werk;K10+ PPN der Hauptaufnahme;kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm461</id>
@@ -19804,8 +19366,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>395930588</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00308</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm462</id>
@@ -19824,8 +19385,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>092153364</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00308</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm463</id>
@@ -19844,8 +19404,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>151198543</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00308</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm464</id>
@@ -19864,8 +19423,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>683568957</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00308</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm465</id>
@@ -19884,8 +19442,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>091979242</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00308</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm466</id>
@@ -19904,8 +19461,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>302133461</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00308</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm467</id>
@@ -19924,8 +19480,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>226066762</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00308</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm468</id>
@@ -19948,7 +19503,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>535663196</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm469</id>
@@ -19971,8 +19526,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>151202109</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00308</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm470</id>
@@ -19995,8 +19549,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>150310161</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00308</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm471</id>
@@ -20019,8 +19572,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>303419822</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00308</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm472</id>
@@ -20033,8 +19585,7 @@ M: Aa 106:2</copyHAB>
     <format>12°</format>
     <histSubject>Theologische Bücher</histSubject>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00309</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm473</id>
@@ -20053,8 +19604,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>180847007</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00309</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm474</id>
@@ -20067,8 +19617,7 @@ M: Aa 106:2</copyHAB>
     <format>12°</format>
     <histSubject>Theologische Bücher</histSubject>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00309</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm475</id>
@@ -20090,7 +19639,6 @@ M: Aa 106:2</copyHAB>
     <copiesHAB>
       <copyHAB>A: 138.29 Eth. (2)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00309</Link>
   </item>
   <item>
     <id>sturm476</id>
@@ -20103,8 +19651,7 @@ M: Aa 106:2</copyHAB>
     <format>12°</format>
     <histSubject>Theologische Bücher</histSubject>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00309</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm477</id>
@@ -20127,8 +19674,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>092160247</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00309</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm478</id>
@@ -20154,7 +19700,6 @@ M: Aa 106:2</copyHAB>
     <copiesHAB>
       <copyHAB>M: QuN 931 (2)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00309</Link>
   </item>
   <item>
     <id>sturm479</id>
@@ -20180,7 +19725,6 @@ M: Aa 106:2</copyHAB>
     <copiesHAB>
       <copyHAB>M: Th 2289</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00309</Link>
   </item>
   <item>
     <id>sturm480</id>
@@ -20202,7 +19746,6 @@ M: Aa 106:2</copyHAB>
     <copiesHAB>
       <copyHAB>H: A 42.12° Helmst.</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00309</Link>
   </item>
   <item>
     <id>sturm481</id>
@@ -20215,8 +19758,7 @@ M: Aa 106:2</copyHAB>
     <format>12°</format>
     <histSubject>Theologische Bücher</histSubject>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00309</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm482</id>
@@ -20229,8 +19771,7 @@ M: Aa 106:2</copyHAB>
     <format>12°</format>
     <histSubject>Theologische Bücher</histSubject>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00309</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm483</id>
@@ -20243,8 +19784,7 @@ M: Aa 106:2</copyHAB>
     <format>12°</format>
     <histSubject>Theologische Bücher</histSubject>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00309</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm484</id>
@@ -20295,7 +19835,6 @@ M: Aa 106:2</copyHAB>
     <copiesHAB>
       <copyHAB>H: Yv 1420.8° Helmst.</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00309</Link>
   </item>
   <item>
     <id>sturm486</id>
@@ -20312,8 +19851,7 @@ M: Aa 106:2</copyHAB>
     <format>12°</format>
     <histSubject>Theologische Bücher</histSubject>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00309</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm487</id>
@@ -20339,7 +19877,6 @@ M: Aa 106:2</copyHAB>
     <copiesHAB>
       <copyHAB>M: Th 569 (2)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00309</Link>
   </item>
   <item>
     <id>sturm488</id>
@@ -20358,8 +19895,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>221258434</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00309</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm489</id>
@@ -20378,8 +19914,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>455150524</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00310</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm490</id>
@@ -20398,8 +19933,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>302445161</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00310</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm491</id>
@@ -20421,7 +19955,6 @@ M: Aa 106:2</copyHAB>
     <copiesHAB>
       <copyHAB>A: 1241.53 Theol. (2)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00310</Link>
   </item>
   <item>
     <id>sturm492</id>
@@ -20440,8 +19973,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>342741322</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00310</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm493</id>
@@ -20454,8 +19986,7 @@ M: Aa 106:2</copyHAB>
     <format>12°</format>
     <histSubject>Theologische Bücher</histSubject>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00310</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm494</id>
@@ -20474,8 +20005,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>146483634</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00310</Link>
-    <Kommentar>kein Nachweis HAB</Kommentar>
+    <comment>kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm495</id>
@@ -20497,7 +20027,6 @@ M: Aa 106:2</copyHAB>
     <copiesHAB>
       <copyHAB>M: QuN 1021 (1)</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00310</Link>
   </item>
   <item>
     <id>sturm496</id>
@@ -20519,7 +20048,6 @@ M: Aa 106:2</copyHAB>
     <copiesHAB>
       <copyHAB>Bibel-S. 716</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00310</Link>
   </item>
   <item>
     <id>sturm497</id>
@@ -20538,11 +20066,10 @@ M: Aa 106:2</copyHAB>
       <idManifestation>150867905</idManifestation>
     </manifestation>
     <bound>1</bound>
+    <comment>Mehbändiges Werk;K10+ PPN der Hauptaufnahme</comment>
     <copiesHAB>
       <copyHAB>M: Tb 356</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00310</Link>
-    <Kommentar>Mehbändiges Werk;K10+ PPN der Hauptaufnahme</Kommentar>
   </item>
   <item>
     <id>sturm498</id>
@@ -20564,7 +20091,6 @@ M: Aa 106:2</copyHAB>
     <copiesHAB>
       <copyHAB>H: YJ 62.12° Helmst.</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00310</Link>
   </item>
   <item>
     <id>sturm499</id>
@@ -20583,8 +20109,7 @@ M: Aa 106:2</copyHAB>
       <idManifestation>302307184</idManifestation>
     </manifestation>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00310</Link>
-    <Kommentar>Erscheinungsjahr 1707 nicht ermittelbar, nur 1706; kein Nachweis HAB</Kommentar>
+    <comment>Erscheinungsjahr 1707 nicht ermittelbar, nur 1706; kein Nachweis HAB</comment>
   </item>
   <item>
     <id>sturm500</id>
@@ -20598,8 +20123,7 @@ M: Aa 106:2</copyHAB>
     <format>12°</format>
     <histSubject>Theologische Bücher</histSubject>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00310</Link>
-    <Kommentar>nicht ermittelbar</Kommentar>
+    <comment>nicht ermittelbar</comment>
   </item>
   <item>
     <id>sturm501</id>
@@ -20620,7 +20144,6 @@ M: Aa 106:2</copyHAB>
     <copiesHAB>
       <copyHAB>M: Th 84</copyHAB>
     </copiesHAB>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00310</Link>
   </item>
   <item>
     <id>sturm502</id>
@@ -20631,7 +20154,6 @@ M: Aa 106:2</copyHAB>
     <titleCat>Ein Holländisch Schreiben Instrument von Meßing zur Geometrie gehörig mit dem Stativ.</titleCat>
     <histSubject>Mathematische Instrumente</histSubject>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00311</Link>
   </item>
   <item>
     <id>sturm503</id>
@@ -20642,7 +20164,6 @@ M: Aa 106:2</copyHAB>
     <titleCat>Noch ein dergleichen Instrument von Meßing</titleCat>
     <histSubject>Mathematische Instrumente</histSubject>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00311</Link>
   </item>
   <item>
     <id>sturm504</id>
@@ -20668,7 +20189,6 @@ Ein Triangel zur Waßerwage.
 Zweÿ Sonnen Ringe.</titleCat>
     <histSubject>Mathematische Instrumente</histSubject>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00311</Link>
   </item>
   <item>
     <id>sturm505</id>
@@ -20679,7 +20199,6 @@ Zweÿ Sonnen Ringe.</titleCat>
     <titleCat>Ein Maßeigen Horizontal wage.</titleCat>
     <histSubject>Mathematische Instrumente</histSubject>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00312</Link>
   </item>
   <item>
     <id>sturm506</id>
@@ -20690,7 +20209,6 @@ Zweÿ Sonnen Ringe.</titleCat>
     <titleCat>Ein Besteck mit Zirckeln Reißfedern und dergleichen.</titleCat>
     <histSubject>Mathematische Instrumente</histSubject>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00312</Link>
   </item>
   <item>
     <id>sturm507</id>
@@ -20701,7 +20219,6 @@ Zweÿ Sonnen Ringe.</titleCat>
     <titleCat>Noch ein dergleichen Besteck.</titleCat>
     <histSubject>Mathematische Instrumente</histSubject>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00312</Link>
   </item>
   <item>
     <id>sturm508</id>
@@ -20723,7 +20240,6 @@ Noch ein dergleichen Schächtelchen mit Vergrößer|ungs Glasern
 Ein Gläsern und ein Eisern Reiß Feder.</titleCat>
     <histSubject>Mathematische Instrumente</histSubject>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00312</Link>
   </item>
   <item>
     <id>sturm509</id>
@@ -20734,7 +20250,6 @@ Ein Gläsern und ein Eisern Reiß Feder.</titleCat>
     <titleCat>Ein Kästgen mit allerhand Farben zur Miniatur Mahlereÿ.</titleCat>
     <histSubject>Mathematische Instrumente</histSubject>
     <bound>1</bound>
-    <Link>http://diglib.hab.de/mss/ba-1-673/start.htm?image=00312</Link>
   </item>
   <item>
     <id>sturm510</id>

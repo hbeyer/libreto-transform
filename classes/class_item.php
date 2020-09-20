@@ -41,10 +41,6 @@ class item	{ //Refers to an item (book, manuscript, etc.) listed in the catalogu
 		if (!$value) {
 			return;
 		}
-        $ignore = array('Q');
-        if (in_array($name, $ignore)) {
-            return;
-        }
 		$value = trim($value);
 		$translation = array(
 			'Seite' => 'pageCat',
@@ -56,10 +52,10 @@ class item	{ //Refers to an item (book, manuscript, etc.) listed in the catalogu
 			'Sachgruppe hist.' => 'histSubject',
 			'Medium' => 'mediaType',
 			'Freitext' => 'comment',
-			'Digital URN/URL' => 'digitalCopy'
+			'Kommentar' => 'comment',
+			'Digital URN/URL' => 'digitalCopy',
 		);
         $name = strtr($name, $translation);
-
 		if ($name == 'Image') {
 			$this->imageCat = intval($value);
 		}
@@ -87,16 +83,6 @@ class item	{ //Refers to an item (book, manuscript, etc.) listed in the catalogu
 			$values = explode(';', $value);
 			$this->copiesHAB = $values;
 		}
-/*
-		elseif (substr($name, 0, 5) == 'Druck') {
-			if (!$this->publisher) {
-				$this->publisher = removeBrackets($value);
-			}
-			else {
-				$this->publisher .= '/'.removeBrackets($value);
-			}
-		}
-*/
 		elseif (substr($name, 0, 5) == 'Druck') {
 			$publishers = explode(';', $value);
 			array_map('trim', $publishers);
@@ -126,12 +112,9 @@ class item	{ //Refers to an item (book, manuscript, etc.) listed in the catalogu
 				$this->bound = 1;
 			}
 		}
-        elseif ($name == 'Onlinebiographien') {
-            return;
-        }
-        else {
-            $this->$name = $value;
-        }
+		elseif (in_array($name, $translation)) {
+			$this->$name = $value;
+		}
 	}
 	
 	public function importFirstCatEntry() {

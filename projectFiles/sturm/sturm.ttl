@@ -3814,6 +3814,7 @@ Ein Gläsern und ein Eisern Reiß Feder.""" ;
   dbo:genre "Atlas"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Ausgabe nicht bestimmbar;Mehrbändiges Werk, VD17-Nummern der Hauptaufnahme: VD17 23:295444R oder VD17 14:689921E" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7006952> ;
   dc:creator gnd:118658972, gnd:119054604 .
 
@@ -3828,6 +3829,7 @@ Ein Gläsern und ein Eisern Reiß Feder.""" ;
   dbo:genre "Atlas"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "fre"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7008038>, <http://vocab.getty.edu/tgn/7006952> ;
   dc:creator gnd:12360978X ;
   dc:contributor gnd:12900085X ;
@@ -3838,21 +3840,24 @@ Ein Gläsern und ein Eisern Reiß Feder.""" ;
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "2°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm3>
   a libreto:Item ;
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "2°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm4>
   a libreto:Item ;
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "2°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm5>
   a libreto:Item ;
@@ -3863,6 +3868,7 @@ Ein Gläsern und ein Eisern Reiß Feder.""" ;
   libreto:bibliographicalFormat "2°" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Ausgabe nicht bestimmbar;K10+ PPN 137699441 (Erscheinungsjahr 1617), K10+ PPN 040077950 (Erscheinungsjahr 1622)" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7006952> ;
   dc:creator gnd:119377713 ;
   dc:contributor gnd:103122516 .
@@ -3872,7 +3878,8 @@ Ein Gläsern und ein Eisern Reiß Feder.""" ;
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "2°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm7>
   a libreto:Item ;
@@ -3900,6 +3907,7 @@ Ein Gläsern und ein Eisern Reiß Feder.""" ;
   dc:subject "Architektur"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "ita"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme;Enth. Grund- und Aufrisse sowie Querschnitte von Gebäuden in Genua" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7007856> ;
   dc:creator gnd:11860354X ;
   dc:contributor gnd:135560802 ;
@@ -3914,6 +3922,7 @@ Ein Gläsern und ein Eisern Reiß Feder.""" ;
   libreto:bibliographicalFormat "2°" ;
   dc:subject "Anatomie"@http://uri.gbv.de/terminology/aadgenres/ ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7004324> ;
   dc:creator <br:sturm/persons/Vesalius%2C+Andreas> ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=1505956951> .
@@ -3923,21 +3932,24 @@ Ein Gläsern und ein Eisern Reiß Feder.""" ;
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "2°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm11>
   a libreto:Item ;
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "2°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm12>
   a libreto:Item ;
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "2°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm13>
   a libreto:Item ;
@@ -3947,6 +3959,7 @@ Ein Gläsern und ein Eisern Reiß Feder.""" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "2°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Nachdruck KS 25-1660" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7004324> ;
   dc:creator <br:sturm/persons/Decker%2C+Paul> ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=38794527X> ;
@@ -3985,6 +3998,7 @@ Ein Gläsern und ein Eisern Reiß Feder.""" ;
   libreto:bibliographicalFormat "2°" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Enthält neben Titel und Widmung von Bodenehr 42 Kupfer von und nach Bottschild;kein Nachweis HAB" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7004334> ;
   dc:creator gnd:122718011 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=1:000385Y> .
@@ -4000,6 +4014,7 @@ Ein Gläsern und ein Eisern Reiß Feder.""" ;
   dbo:genre "Pflanzenbuch"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392, "dut"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7005293> ;
   dc:creator gnd:124331785 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=535724241> .
@@ -4030,6 +4045,7 @@ Ein Gläsern und ein Eisern Reiß Feder.""" ;
   libreto:bibliographicalFormat "2°" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7007856> ;
   dc:creator gnd:118592920 ;
   dc:contributor gnd:12266448 ;
@@ -4044,6 +4060,7 @@ Ein Gläsern und ein Eisern Reiß Feder.""" ;
   libreto:bibliographicalFormat "2°" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme;kein Nachweis HAB" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7007660> ;
   dc:creator gnd:119431416 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=1116381087> .
@@ -4058,6 +4075,7 @@ Ein Gläsern und ein Eisern Reiß Feder.""" ;
   libreto:bibliographicalFormat "2°" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hautaufnahme" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7004449> ;
   dc:creator gnd:118880632 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=13427962X> .
@@ -4074,6 +4092,7 @@ Ein Gläsern und ein Eisern Reiß Feder.""" ;
   dbo:genre "Ordensliteratur:Jesuiten"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "im Bestand der HAB nur eine Ausgabe von 1661 vorhanden (K10+ PPN 134254902)" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7018159> ;
   dc:creator gnd:124081428 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=140376917> .
@@ -4088,6 +4107,7 @@ Ein Gläsern und ein Eisern Reiß Feder.""" ;
   libreto:bibliographicalFormat "2°" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7004847> ;
   dc:creator gnd:124081428 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151473471> .
@@ -4103,6 +4123,7 @@ Ein Gläsern und ein Eisern Reiß Feder.""" ;
   dc:subject "Astronomie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk:K10+ PPN der Hauptaufnahme" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7004847> ;
   dc:creator gnd:124081428 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=15147351X> .
@@ -4119,6 +4140,7 @@ Ein Gläsern und ein Eisern Reiß Feder.""" ;
   dbo:genre "Ordensliteratur:Jesuiten"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7006952> ;
   dc:creator gnd:118562347 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151522723> .
@@ -4128,7 +4150,8 @@ Ein Gläsern und ein Eisern Reiß Feder.""" ;
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "2°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm26>
   a libreto:Item ;
@@ -4171,6 +4194,7 @@ Ein Gläsern und ein Eisern Reiß Feder.""" ;
   dc:subject "Astronomie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Ausgabe nicht bestimmbar;VD17 12:651552R oder VD17 3122:734276B;kein Nachweis HAB" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7005187> ;
   dc:creator gnd:118561448 ;
   dc:contributor gnd:118514237 .
@@ -4185,6 +4209,7 @@ Ein Gläsern und ein Eisern Reiß Feder.""" ;
   libreto:bibliographicalFormat "2°" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Schreibfehler beim Erscheinungsjahr: 1583 statt 1683;kein Nachweis HAB" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7008038> ;
   dc:creator gnd:118804944 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=211864382> .
@@ -4200,6 +4225,7 @@ Ein Gläsern und ein Eisern Reiß Feder.""" ;
   dc:subject "Mathematik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7008038> ;
   dc:creator gnd:119277379 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=14751892X> ;
@@ -4220,6 +4246,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
   libreto:bibliographicalFormat "2°" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7005903> ;
   dc:creator gnd:118698761 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=868944491> ;
@@ -4240,6 +4267,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
   dc:subject "Astronomie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7011931> ;
   dc:creator gnd:129551651 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=142887269> ;
@@ -4260,6 +4288,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
   dc:subject "Astronomie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7004334> ;
   dc:creator gnd:100277608 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150426836> ;
@@ -4281,6 +4310,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
   dbo:genre "Ordensliteratur:Kapuziner"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7008038> ;
   dc:creator gnd:100810551 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=14292251X> ;
@@ -4301,6 +4331,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
   dbo:genre "Chronik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Exlibris: Ex Bibliotheca L[udwig] R[udolf] Ducis Brunsvicensis Et Lunebuergensis. 55." ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7013496>, <http://vocab.getty.edu/tgn/7004334> ;
   dc:creator gnd:128559098 ;
   dc:contributor gnd:118630067 ;
@@ -4317,6 +4348,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
   dc:subject "Mathematik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7000457> ;
   dc:creator gnd:130008583 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151472297> .
@@ -4331,6 +4363,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
   libreto:bibliographicalFormat "2°" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7008772> ;
   dc:creator gnd:128696346 ;
   dc:contributor gnd:1055548394 ;
@@ -4344,6 +4377,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "2°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis für 1599, nur für 1604;kein Nachweis HAB" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7006809> ;
   dc:creator gnd:118805797 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=332283747> .
@@ -4374,6 +4408,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
   dc:subject "Festungsbau"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7006952> ;
   dc:creator gnd:12487830X ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=547:622910R> .
@@ -4388,6 +4423,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
   libreto:bibliographicalFormat "2°" ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nur eine Ausgabe von 1698 nachgewiesen" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7004334> ;
   dc:creator gnd:118591355 ;
   dc:contributor gnd:118660535, gnd:11574943, gnd:141064994 ;
@@ -4442,6 +4478,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
   dc:subject "Architektur"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Ausgabe nicht bestimmbar;verschiedene Ausgaben mit Erscheinungsjahren zwischen 1668 und 1705 nachgewiesen;K10+ PPN 151311072, VD17 39:127588M, K10+ PPN 151311048, VD17 14:082413T oder K10+ PPN 151311013" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7004334> ;
   dc:creator gnd:124597696 ;
   libreto:hasContext [
@@ -4460,6 +4497,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
   dc:subject "Architektur"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Ausgabe nicht bestimmbar;VD17 3:308099A (Erscheinungsjahr 1664) oder VD17 23:296832V (Erscheinungsjahr 1665);Nachweis der HAB hängt an K10+ PPN 150781814" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7006952> ;
   dc:creator gnd:118794817 ;
   dc:contributor gnd:121460851 .
@@ -4474,6 +4512,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
   libreto:bibliographicalFormat "2°" ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7004334>, <br:sturm/places/Frankfurt%2FM.> ;
   dc:creator gnd:1055101187 ;
   dc:contributor gnd:104199288 ;
@@ -4490,6 +4529,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
   dc:subject "Architektur"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7004334>, <br:sturm/places/Frankfurt%2FM.> ;
   dc:creator gnd:118794396 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=536025126> .
@@ -4504,6 +4544,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
   libreto:bibliographicalFormat "2°" ;
   dc:language "fre"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7008038> ;
   dc:creator gnd:118627252 ;
   dc:contributor gnd:118740016 ;
@@ -4519,6 +4560,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
   libreto:bibliographicalFormat "2°" ;
   dc:language "lat"@iso6392, "ita"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme;kein Nachweis HAB" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7000874> ;
   dc:creator gnd:118741691 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=249667843> .
@@ -4534,6 +4576,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
   dc:subject "Astronomie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7005187> ;
   dc:creator gnd:128657588 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=134253914> .
@@ -4543,7 +4586,8 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "2°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm52>
   a libreto:Item ;
@@ -4556,6 +4600,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
   dc:subject "Astronomie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Erscheinungsort weicht ab: Heidelberg (ermittelt) statt Prag" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7005177> ;
   dc:creator gnd:118561448 ;
   dc:contributor gnd:118514237, gnd:118603701 ;
@@ -4571,6 +4616,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
   libreto:bibliographicalFormat "2°" ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Exlibris: Ex Bibliotheca L[udovici] R[udolphi] Ducis Brunsvicensis Et Luneburgensis" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7004334> ;
   dc:creator gnd:104045043 ;
   dc:contributor gnd:104045043 ;
@@ -4602,6 +4648,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
   dc:subject "Astronomie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme;Nachweis der HAB hängt an K10+ PPN 151121575" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7006952> ;
   dc:creator gnd:119357100 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=155863533> .
@@ -4616,6 +4663,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
   dc:subject "Mechanik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Ausgabe nicht bestimmbar;Mehrbändiges Werk, mögliche Nachweise (K10+ PPN) jeweils von der Hauptaufnahme: K10+ PPN 151052034 (Erscheinungsjahr ca. 1665), K10+ PPN 09181202X (Erscheinungsjahr 1664), K10+ PPN 151052085 (Erscheinungsjahr 1704)" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7004334> ;
   dc:creator gnd:118660535 ;
   libreto:hasContext [
@@ -4635,6 +4683,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
   dc:subject "Mechanik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "M: Od 4° 11: Exlibris: Ex Bibliotheca L R Ducis Brunsvicensis Et Luneburgensis." ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7004334> ;
   dc:creator gnd:118660535 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=92222528> ;
@@ -4655,6 +4704,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
   dc:subject "Mechanik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7008038> ;
   dc:creator gnd:118639749 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=144498529> ;
@@ -4675,6 +4725,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
   dc:subject "Astronomie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Verleger nicht eindeutig zuzuordnen;kein Nachweis HAB" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7004334> ;
   dc:creator gnd:118956507 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=1110454945> ;
@@ -4694,6 +4745,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
   libreto:bibliographicalFormat "2°" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Schreibfehler beim Erscheinungsjahr: 1696 statt 1695" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7004324> ;
   dc:creator gnd:11566761X ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=91957907> ;
@@ -4708,7 +4760,8 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "2°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm62>
   a libreto:Item ;
@@ -4720,6 +4773,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
   libreto:bibliographicalFormat "2°" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7004335> ;
   dc:creator gnd:119369826 ;
   dc:contributor gnd:1037526562 ;
@@ -4741,6 +4795,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
   dc:subject "Mathematik"@http://uri.gbv.de/terminology/aadgenres/, "Geometrie"@http://uri.gbv.de/terminology/aadgenres/, "Astronomie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "ger"@iso6392, "grc"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7004334> ;
   dc:creator gnd:100277608 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=39:124568L> ;
@@ -4761,6 +4816,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
   dc:subject "Kriegskunde"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Nach dem Erscheinungsjahr handelt es sich um den dritten Band eines mehrbändigen Werkes, der nicht im VD17 nachgewiesen ist;kein Nachweis HAB" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7004334> ;
   dc:creator gnd:128720263 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=237043327> ;
@@ -4777,6 +4833,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "2°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Ausgabe nicht bestimmbar;Mehrbändiges Werk; K10+ PPN der Hauptaufnahme;Nachweis HAB von 1684" ;
   dc:creator gnd:124653863 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=144271877> ;
   libreto:hasContext [
@@ -4830,6 +4887,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "2°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" ;
   libreto:hasContext [
     a libreto:PhysicalContext ;
     libreto:position "1" ;
@@ -4865,6 +4923,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
   dc:subject "Geographie"@http://uri.gbv.de/terminology/aadgenres/, "Topographie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "ger"@iso6392, "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme" ;
   dc:hasFormat "http://diglib.hab.de/drucke/gm-4f-522-1/start.htm;http://diglib.hab.de/drucke/gm-4f-522-2/start.htm;http://diglib.hab.de/drucke/gm-4f-522-3/start.htm;http://diglib.hab.de/drucke/gm-4f-522-4/start.htm" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7012986>, <http://vocab.getty.edu/tgn/7004334> ;
   dc:creator gnd:118764071 ;
@@ -4891,7 +4950,8 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "2°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm73>
   a libreto:Item ;
@@ -4903,6 +4963,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
   libreto:bibliographicalFormat "2°" ;
   dc:language "fre"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7008038>, <http://vocab.getty.edu/tgn/7006952> ;
   dc:creator gnd:117627666 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151314160> .
@@ -4919,6 +4980,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
   dbo:genre "Ordensliteratur:Jesuiten"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7000874> ;
   dc:creator gnd:119470241 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=143444050> .
@@ -4935,6 +4997,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
   dbo:genre "Ordensliteratur:Jesuiten"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7000874> ;
   dc:creator gnd:119470241 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150442769> .
@@ -4944,7 +5007,8 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "2°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm77>
   a libreto:Item ;
@@ -4956,6 +5020,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
   libreto:bibliographicalFormat "2°" ;
   dc:language "fre"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Nach dem Erscheinungsjahr handelt es sich um den ersten Band eines mehrbändigen Werkes" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7008038> ;
   dc:creator gnd:124536794 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=183256255> .
@@ -4971,6 +5036,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
   dc:subject "Architektur"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "fre"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7008038> ;
   dc:creator gnd:125008406 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=13735925X> ;
@@ -5006,7 +5072,8 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "2°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm81>
   a libreto:Item ;
@@ -5014,6 +5081,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "2°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" ;
   dc:creator gnd:118597051 .
 
 <br:sturm/item_sturm82>
@@ -5058,6 +5126,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
   dc:subject "Geographie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;10+ PPN der Hauptaufnahme" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7008038> ;
   dc:creator gnd:124639089 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150019556> .
@@ -5116,6 +5185,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
   dbo:genre "Reisebericht"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "ger"@iso6392, "dut"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Enthalten in M: Gv 4° 34" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7006952> ;
   dc:creator gnd:119068788 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=369946421> ;
@@ -5136,6 +5206,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
   dbo:genre "Reisebericht"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "ger"@iso6392, "fre"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7007279> ;
   dc:creator gnd:117248339 ;
   dc:contributor gnd:12441995X ;
@@ -5157,6 +5228,7 @@ Caelestis mathematicae pars secvndo : geometricas vmbrarvm continens leges, in q
   dbo:genre "Reisebericht"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme;M: Cc 4° 56: Exlibris: Ex Bibliotheca LR Ducis Brunsvicensis Et Luneburgensis" ;
   dc:hasFormat "http://diglib.hab.de/drucke/cc-4f-56-1s/start.htm;http://diglib.hab.de/drucke/cc-4f-56-2s/start.htm" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7004334> ;
   dc:creator gnd:119228998, gnd:128378565 ;
@@ -5181,6 +5253,7 @@ Durchgehends mit schönen Kupfern/ als Landcharten und Abrissen der fürnemsten 
   dbo:genre "Reisebericht"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Ausgabe nicht bestimmbar;K10+ PPN 151886547, K10+ PPN 151886547 oder K10+ PPN 09896822X;M: Cd 4° 14: Wappenexlibris: Elisabetha Sophia Maria, verwitwete Herzogin zu Braunschweig und Lüneburg" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7004334> ;
   dc:creator gnd:119068788 ;
   dc:contributor gnd:118508261 .
@@ -5197,6 +5270,7 @@ Durchgehends mit schönen Kupfern/ als Landcharten und Abrissen der fürnemsten 
   dbo:genre "Reisebericht"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Exlibris: Ex Bibliotheca L[udwig] R[udolf] Ducis Brunsvicensis Et Luneburgensis. Exlibris: Biblioth[eca] Collegii Carol[ini]" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7006952> ;
   dc:creator gnd:119068788 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=09228180X> .
@@ -5212,6 +5286,8 @@ Durchgehends mit schönen Kupfern/ als Landcharten und Abrissen der fürnemsten 
   dc:subject "Geographie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "dut"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment """Engraved title-page: Syrie en Palestyn. Date in the imprint of the engraved title-page in some copies changed on the plate into 1678
+Evtl. auch enthalten in GBV PPN 151886636 (allerdings Erscheinungjahr 1681)""" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7006952> ;
   dc:creator gnd:119068788 ;
   libreto:hasManifestation <http://picarta.pica.nl/DB=3.11/XMLPRS=Y/PPN?PPN=843141085> .
@@ -5228,6 +5304,7 @@ Durchgehends mit schönen Kupfern/ als Landcharten und Abrissen der fürnemsten 
   dbo:genre "Reisebericht"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Hs. Besitzvermerk: Ferdinand Albrecht Hertzog Zu Braunschweig Und Lunæburg. Beveren 1671" ;
   dc:hasFormat "http://diglib.hab.de/drucke/cd-4f-17/start.htm" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7006952> ;
   dc:creator gnd:119068788 ;
@@ -5244,6 +5321,8 @@ Durchgehends mit schönen Kupfern/ als Landcharten und Abrissen der fürnemsten 
   dbo:genre "Reisebericht"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment """Ausgabe nicht bestimmbar;kein Nachweis für 1682, evtl. für 1632 verschrieben?;K10+ PPN 137267584, VD17 23:000612T, siehe auch VD17 23:230960K (1640),
+VD17 23:299990N (1662) oder VD17 3:003586V (1674)""" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7012346> ;
   dc:creator gnd:118772392 .
 
@@ -5252,14 +5331,16 @@ Durchgehends mit schönen Kupfern/ als Landcharten und Abrissen der fürnemsten 
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "2°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm96>
   a libreto:Item ;
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "2°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm97>
   a libreto:Item ;
@@ -5271,6 +5352,7 @@ Durchgehends mit schönen Kupfern/ als Landcharten und Abrissen der fürnemsten 
   libreto:bibliographicalFormat "2°" ;
   dc:language "ger"@iso6392, "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "siehe VD16 P 247" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7012346> ;
   dc:creator gnd:119421488 ;
   dc:contributor gnd:118755366, gnd:118533185 ;
@@ -5281,7 +5363,8 @@ Durchgehends mit schönen Kupfern/ als Landcharten und Abrissen der fürnemsten 
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "2°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm99>
   a libreto:Item ;
@@ -5340,6 +5423,7 @@ Durchgehends mit schönen Kupfern/ als Landcharten und Abrissen der fürnemsten 
   dc:subject "Architektur"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "ita"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "siehe auch VD17 23:297056Z" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7005293> ;
   dc:creator gnd:119100754 ;
   dc:contributor gnd:12960223X ;
@@ -5366,6 +5450,7 @@ Durchgehends mit schönen Kupfern/ als Landcharten und Abrissen der fürnemsten 
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "2°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" ;
   dc:creator <br:sturm/persons/Schenck%2C+Peter> .
 
 <br:sturm/item_sturm105>
@@ -5404,7 +5489,8 @@ Durchgehends mit schönen Kupfern/ als Landcharten und Abrissen der fürnemsten 
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "2°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm108>
   a libreto:Item ;
@@ -5417,6 +5503,7 @@ Durchgehends mit schönen Kupfern/ als Landcharten und Abrissen der fürnemsten 
   dbo:genre "Chronik"@http://uri.gbv.de/terminology/aadgenres/, "Biographie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Exlibris: L[udovici] R[udolphi] Ducis Brunsvicensis Et Luneburgensis" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7004334> ;
   dc:creator gnd:118597051 ;
   dc:contributor gnd:118720945 ;
@@ -5427,21 +5514,24 @@ Durchgehends mit schönen Kupfern/ als Landcharten und Abrissen der fürnemsten 
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "2°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm110>
   a libreto:Item ;
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "2°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm111>
   a libreto:Item ;
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "2°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm112>
   a libreto:Item ;
@@ -5468,6 +5558,7 @@ Durchgehends mit schönen Kupfern/ als Landcharten und Abrissen der fürnemsten 
   libreto:bibliographicalFormat "2°" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Nachweis HAB als DFG Nationallizenz" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7011931> ;
   dc:creator gnd:118771167 ;
   dc:contributor gnd:102486491X ;
@@ -5483,6 +5574,7 @@ Durchgehends mit schönen Kupfern/ als Landcharten und Abrissen der fürnemsten 
   libreto:bibliographicalFormat "2°" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme;M: Na 4° 41: Provenienz Ludwig Rudolf" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7005293>, <http://vocab.getty.edu/tgn/7012639> ;
   dc:creator gnd:118684043 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=536875901> .
@@ -5497,6 +5589,7 @@ Durchgehends mit schönen Kupfern/ als Landcharten und Abrissen der fürnemsten 
   libreto:bibliographicalFormat "2°" ;
   dc:language "fre"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "mit Erscheinungsort Lyon nur eine Ausgabe von 1640 ermittelbar; kein Nachweis HAB von 1666" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7008772> ;
   dc:creator <br:sturm/persons/de+Ville%2C+Antoine> ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=134256328> .
@@ -5512,6 +5605,7 @@ Durchgehends mit schönen Kupfern/ als Landcharten und Abrissen der fürnemsten 
   dbo:genre "Astronomie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "mit Erscheinungsort Amsterdam nur eine Ausgabe von 1640 ermittelbar;kein Nachweis HAB" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7006952> ;
   dc:creator gnd:100811698 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=144460432> .
@@ -5527,6 +5621,7 @@ Durchgehends mit schönen Kupfern/ als Landcharten und Abrissen der fürnemsten 
   dbo:genre "Ars moriendi" ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7005293> ;
   dc:creator <br:sturm/persons/Petrarca%2C+Francesco> ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=568212460> .
@@ -5541,6 +5636,7 @@ Durchgehends mit schönen Kupfern/ als Landcharten und Abrissen der fürnemsten 
   libreto:bibliographicalFormat "2°" ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7004334> ;
   dc:creator gnd:116279427 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151298637> .
@@ -5550,14 +5646,16 @@ Durchgehends mit schönen Kupfern/ als Landcharten und Abrissen der fürnemsten 
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "2°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm120>
   a libreto:Item ;
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "2°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm121>
   a libreto:Item ;
@@ -5569,6 +5667,7 @@ Durchgehends mit schönen Kupfern/ als Landcharten und Abrissen der fürnemsten 
   libreto:bibliographicalFormat "2°" ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7006876> ;
   dc:creator gnd:11852786X ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=722378262> .
@@ -5644,6 +5743,7 @@ Durchgehends mit schönen Kupfern/ als Landcharten und Abrissen der fürnemsten 
   dc:subject "Festungsbau"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "ger"@iso6392, "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7005293> ;
   dc:creator gnd:128752696 ;
   dc:contributor gnd:128752947, gnd:12875303X ;
@@ -5659,6 +5759,7 @@ Durchgehends mit schönen Kupfern/ als Landcharten und Abrissen der fürnemsten 
   libreto:bibliographicalFormat "2°" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Ausgabe nicht bestimmbar;K10+ PPN 151812659 oder K10+ PPN 151812764" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7018159> ;
   dc:creator gnd:118627252 ;
   dc:contributor gnd:119046024 .
@@ -5673,6 +5774,7 @@ Durchgehends mit schönen Kupfern/ als Landcharten und Abrissen der fürnemsten 
   libreto:bibliographicalFormat "2°" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Nachweis HAB 1583" ;
   libreto:hasPlace <br:sturm/places/K%C3%B6ln> ;
   dc:creator gnd:115594582 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=265996929> .
@@ -5701,6 +5803,7 @@ Durchgehends mit schönen Kupfern/ als Landcharten und Abrissen der fürnemsten 
   libreto:bibliographicalFormat "2°" ;
   dc:language "lat"@iso6392, "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7012329> ;
   dc:creator <br:sturm/persons/von+Carlowitz%2C+Hans+Carl> ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=147543444> .
@@ -5710,35 +5813,40 @@ Durchgehends mit schönen Kupfern/ als Landcharten und Abrissen der fürnemsten 
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "2°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm132>
   a libreto:Item ;
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "2°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm133>
   a libreto:Item ;
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "2°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm134>
   a libreto:Item ;
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "2°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm135>
   a libreto:Item ;
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "2°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm136>
   a libreto:Item ;
@@ -5751,6 +5859,7 @@ Durchgehends mit schönen Kupfern/ als Landcharten und Abrissen der fürnemsten 
   dbo:genre "Gelegenheitsschrift:Krönung"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "M: Gm 4° 107 (1): Provenienz: Ludwig Rudolf" ;
   libreto:hasPlace <br:sturm/places/Berlin> ;
   dc:creator gnd:11851024X ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=375266267> .
@@ -5766,6 +5875,8 @@ Durchgehends mit schönen Kupfern/ als Landcharten und Abrissen der fürnemsten 
   dc:subject "Mathematik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "fre"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment """Mehrbändiges Werk;K10+ PPN der Hauptaufnahme
+Ex-Libris: Ex Bibliotheca L R Ducis Brunsvicensis Et Luneburgensis""" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7008038> ;
   dc:creator gnd:124654169 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150952325> .
@@ -5815,6 +5926,7 @@ Geometrie""", "Mechanik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:subject "Mathematik"@http://uri.gbv.de/terminology/aadgenres/, "Mechanik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "fre"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Nachweis HAB abweichend von 1697" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7008038> ;
   dc:creator gnd:100814891 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=13454031X> .
@@ -5830,6 +5942,7 @@ Geometrie""", "Mechanik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:subject "Artilleriehandwerk", "Kriegskunst", "Mechanik"@http://uri.gbv.de/terminology/aadgenres/, "Kriegskunde"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "fre"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7008038> ;
   dc:creator gnd:1050460731 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=235513482> .
@@ -5844,6 +5957,7 @@ Geometrie""", "Mechanik"@http://uri.gbv.de/terminology/aadgenres/ ;
   libreto:bibliographicalFormat "4°" ;
   dc:language "ger"@iso6392, "fre"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+PPN der Hauptaufnahme;Erscheinungsjahr 1709 statt 1609?;kein Nachweis HAB" ;
   libreto:hasPlace <br:sturm/places/Franfurt+am+Main> ;
   dc:creator gnd:120368927 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=1094836451> .
@@ -5875,6 +5989,7 @@ Geometrie""", "Mechanik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:subject "Praktische Geometrie", "Geometrie"@http://uri.gbv.de/terminology/aadgenres/, "Mechanik"@http://uri.gbv.de/terminology/aadgenres/, "" ;
   dc:language "fre"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7008038> ;
   dc:creator <br:sturm/persons/Manesson-Mallet%2C+Alain> ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151126879> .
@@ -5889,6 +6004,7 @@ Geometrie""", "Mechanik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dbo:genre "Biographie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "ita"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme;kein Nachweis HAB" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7004847> ;
   dc:creator <br:sturm/persons/Vasari%2C+Giorgio> ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=14619523X> .
@@ -5905,6 +6021,7 @@ Geometrie""", "Mechanik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dbo:genre "Kriegskunst", "Lehrbuch" ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7005293> ;
   dc:creator <br:sturm/persons/Herr%2C+Christoph> ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=243265220> .
@@ -5921,6 +6038,7 @@ Geometrie""", "Mechanik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dbo:genre "Wissenskompendium" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7008772> ;
   dc:creator gnd:118639749 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=137606060> .
@@ -5937,6 +6055,7 @@ Geometrie""", "Mechanik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dbo:genre "Wissenskompendium", "Ordensliteratur:Jesuiten"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Nach Titel und Erscheinungsjahr muss es sich um den ersten Band eines mehrbändigen Werkes handeln;vgl. Wikipedia-Eintrag, dort unter Werke: K. Schott: Magia optica. Geheime doch naturmässige Gesicht- und Augen-Lehr." ;
   libreto:hasPlace <br:sturm/places/Franfurt+am+Main>, <http://vocab.getty.edu/tgn/7004335> ;
   dc:creator gnd:121882128 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=144471639> .
@@ -5953,6 +6072,7 @@ Geometrie""", "Mechanik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dbo:genre "Wissenskompendium", "Ordensliteratur:Jesuiten"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Band vier des mehrbändigen Werkes" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7005293>, <http://vocab.getty.edu/tgn/7004335> ;
   dc:creator gnd:121882128 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=144471663> .
@@ -5969,6 +6089,7 @@ Geometrie""", "Mechanik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dbo:genre "Ordensliteratur:Jesuiten"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Band drei des mehrbändigen Werkes" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7005293>, <http://vocab.getty.edu/tgn/7004335> ;
   dc:creator gnd:121882128 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=324425392> .
@@ -6016,6 +6137,7 @@ Biologie/Zoologie""" ;
   dbo:genre "Fischereizucht und Teichkunde" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Hs. Besitzvermerk: R[udolf] A[ugust, Herzog zu Braunschweig-Wolfenbüttel]" ;
   libreto:hasPlace <br:sturm/places/Helmstedt> ;
   dc:creator gnd:11946943X ;
   dc:contributor gnd:11852190X ;
@@ -6027,6 +6149,7 @@ Biologie/Zoologie""" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "4°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" ;
   dc:creator gnd:116604824 ;
   libreto:hasContext [
     a libreto:PhysicalContext ;
@@ -6085,6 +6208,7 @@ Biologie/Zoologie""" ;
   libreto:bibliographicalFormat "4°" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7005187> ;
   dc:creator gnd:128657588 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=536482640> ;
@@ -6105,6 +6229,7 @@ Cui Operi subjungitur, Chronologia Mathematicorvm Libri Tres""" ;
   libreto:bibliographicalFormat "4°" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7006952> ;
   dc:creator gnd:118805746 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=1115783955> ;
@@ -6126,6 +6251,7 @@ Cui Operi subjungitur, Chronologia Mathematicorvm Libri Tres""" ;
   dbo:genre "Lehrbuch" ;
   dc:language "ger"@iso6392, "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Exlibris: Ex Bibliotheca L[udovici] R[udolphi] Ducis Brunsvicensis Et Luneburgensis" ;
   libreto:hasPlace <br:sturm/places/Berlin> ;
   dc:creator <br:sturm/persons/Dufresnoy%2C+Charles+Alphonse> ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=536013187> .
@@ -6135,7 +6261,8 @@ Cui Operi subjungitur, Chronologia Mathematicorvm Libri Tres""" ;
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "4°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm161>
   a libreto:Item ;
@@ -6149,6 +6276,7 @@ Cui Operi subjungitur, Chronologia Mathematicorvm Libri Tres""" ;
   dbo:genre "Theatrum Machinarum" ;
   dc:language "lat"@iso6392, "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7012329> ;
   dc:creator gnd:1157481914 ;
   dc:contributor gnd:116992514 ;
@@ -6163,6 +6291,7 @@ Cui Operi subjungitur, Chronologia Mathematicorvm Libri Tres""" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "4°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Ausgabe nicht bestimmbar;K10+ PPN 039172082 oder K10+ PPN 150057350" ;
   dc:creator gnd:124645658 .
 
 <br:sturm/item_sturm163>
@@ -6176,6 +6305,7 @@ Cui Operi subjungitur, Chronologia Mathematicorvm Libri Tres""" ;
   dc:subject "Physik"@http://uri.gbv.de/terminology/aadgenres/, "Optik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "fre"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Provenienz: NN, Exlibris, Wappen" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7006809> ;
   dc:creator gnd:118639749 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150685513> .
@@ -6209,6 +6339,7 @@ Cui Operi subjungitur, Chronologia Mathematicorvm Libri Tres""" ;
   dbo:genre "Traktat"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392, "eng"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7004334> ;
   dc:creator gnd:100475582 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=774985488> .
@@ -6218,7 +6349,8 @@ Cui Operi subjungitur, Chronologia Mathematicorvm Libri Tres""" ;
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "4°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm167>
   a libreto:Item ;
@@ -6231,6 +6363,7 @@ Cui Operi subjungitur, Chronologia Mathematicorvm Libri Tres""" ;
   dc:subject "Geometire", "Mechanik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme;kein Nachweis HAB" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7011781> ;
   dc:creator gnd:118771167 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=247292990> ;
@@ -6251,6 +6384,7 @@ Cui Operi subjungitur, Chronologia Mathematicorvm Libri Tres""" ;
   dc:subject "Zoologie"@http://uri.gbv.de/terminology/aadgenres/, "Physik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7006809> ;
   dc:creator gnd:118659359 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151551944> ;
@@ -6272,6 +6406,7 @@ Cui Operi subjungitur, Chronologia Mathematicorvm Libri Tres""" ;
   dbo:genre "Handbuch"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7005293>, <http://vocab.getty.edu/tgn/7012329> ;
   dc:creator gnd:116111909 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=308648722> .
@@ -6310,6 +6445,7 @@ Cui Operi subjungitur, Chronologia Mathematicorvm Libri Tres""" ;
   dbo:genre "Kalender"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "enthalten in: Johannis Adolfi Tassii Philosophi Summi & Mathematici Celeberrimi Opuscula Mathematica : Quorum elenchum pagina versa exhibet;kein Nachweis HAB" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7005289> ;
   dc:creator gnd:128352035 ;
   dc:contributor gnd:116885971 ;
@@ -6351,6 +6487,7 @@ Cui Operi subjungitur, Chronologia Mathematicorvm Libri Tres""" ;
   dc:subject "Astronomie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Kupfertitel: Dialogvs De Systemate Mvndi, Autore Galilæ Galilæi Lynceo" ;
   dc:hasFormat "http://diglib.hab.de/drucke/nx-11-3/start.htm" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7006809>, <http://vocab.getty.edu/tgn/7012346> ;
   dc:creator gnd:118537229 ;
@@ -6367,6 +6504,7 @@ Cui Operi subjungitur, Chronologia Mathematicorvm Libri Tres""" ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "4°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" ;
   libreto:hasContext [
     a libreto:PhysicalContext ;
     libreto:position "1" ;
@@ -6383,6 +6521,7 @@ Cui Operi subjungitur, Chronologia Mathematicorvm Libri Tres""" ;
   libreto:bibliographicalFormat "4°" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7006952> ;
   dc:creator gnd:128485973 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=317342134> ;
@@ -6437,6 +6576,7 @@ Cui Operi subjungitur, Chronologia Mathematicorvm Libri Tres""" ;
   dc:subject "Alchemie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "ger"@iso6392, "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme;kein Nachweis HAB" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7005289> ;
   dc:creator gnd:119262223 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=77495454X> .
@@ -6452,6 +6592,7 @@ Cui Operi subjungitur, Chronologia Mathematicorvm Libri Tres""" ;
   dc:subject "Alchemie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme" ;
   dc:hasFormat "http://diglib.hab.de/drucke/oc-77-1/start.htm;http://diglib.hab.de/drucke/oc-77-2/start.htm" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7004334> ;
   dc:creator gnd:11872536 ;
@@ -6481,6 +6622,7 @@ Cui Operi subjungitur, Chronologia Mathematicorvm Libri Tres""" ;
   libreto:bibliographicalFormat "4°" ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme;kein Nachweis HAB" ;
   libreto:hasPlace <br:sturm/places/Franfurt+am+Main>, <http://vocab.getty.edu/tgn/7012329> ;
   dc:creator gnd:122923685 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=228017556> .
@@ -6527,6 +6669,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:genre "Chronik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7005972>, <http://vocab.getty.edu/tgn/7012329> ;
   dc:creator gnd:11643290X ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=536675090> .
@@ -6541,6 +6684,8 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "4°" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment """keine Ausgabe von 1706 ermittelbar
+Nachweis HAB von 1674""" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7011781> ;
   dc:creator gnd:118963066 ;
   dc:contributor gnd:118587544, gnd:119115700 ;
@@ -6562,6 +6707,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dc:subject "Physik"@http://uri.gbv.de/terminology/aadgenres/, "Optik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "fre"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Exlibris: Ex Bibliotheca L R Ducis Brunsvicensis Et Luneburgensis. 93" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7008038> ;
   dc:creator gnd:124799361 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=142935743> ;
@@ -6582,6 +6728,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:genre "Predigtsammlung"@http://uri.gbv.de/terminology/aadgenres/, "Gebetbuch"@http://uri.gbv.de/terminology/aadgenres/, "Erbauungsliteratur"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392, "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Nebentitel: Heilige Augen- und Gemüths Lust;kein Nachweis HAB" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7004324> ;
   dc:creator gnd:11674099X ;
   dc:contributor gnd:121894290, gnd:104226447, gnd:120832623, gnd:117233439 ;
@@ -6598,6 +6745,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dc:subject "Geographie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7012329> ;
   dc:creator gnd:116479914 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=147573068> .
@@ -6629,6 +6777,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:genre "Ordensliteratur:Jesuiten"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasPlace <br:sturm/places/K%C3%B6ln> ;
   dc:creator gnd:117015415 ;
   dc:contributor gnd:117595640 ;
@@ -6659,6 +6808,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dc:subject "Geographie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7006926> ;
   dc:creator <br:sturm/persons/Luyts%2C+Joannes> ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=137904886> .
@@ -6668,7 +6818,8 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "4°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm194>
   a libreto:Item ;
@@ -6680,6 +6831,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "4°" ;
   dc:language "lat"@iso6392, "dut"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7006952> ;
   dc:creator gnd:116192909 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=065405730> .
@@ -6709,6 +6861,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "4°" ;
   dc:language "ita"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7005903> ;
   dc:creator <br:sturm/persons/Torre%2C+Carlo> ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=481068554> .
@@ -6724,6 +6877,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:genre "Chronik"@http://uri.gbv.de/terminology/aadgenres/, " Topographie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Ausgabe nicht bestimmbar;K10+ PPN 040074684 oder K10+ PPN 535549342;M: Gp 422: Einband aus Schildpatt. Aus der Bibliothek des Herzogs Ludwig Rudolph von Braunschweig" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7006952> ;
   dc:creator gnd:118636596 .
 
@@ -6754,6 +6908,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:genre "Reisebericht"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "ger"@iso6392, "fre"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme" ;
   libreto:hasPlace <br:sturm/places/Franfurt+am+Main> ;
   dc:creator gnd:121201708 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=535556055> .
@@ -6784,6 +6939,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:genre "Reisebericht"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Exlibris: Ex Bibliotheca L[udovici] R[udolphi] Ducis Brunsvicensis Et Luneburgensis" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7004334> ;
   dc:creator gnd:117653772 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=53566432X> .
@@ -6799,6 +6955,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:genre "Chronik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7006952> ;
   dc:creator gnd:117751235 ;
   dc:contributor gnd:118560034 ;
@@ -6814,6 +6971,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "4°" ;
   dc:language "fre"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7006952> ;
   dc:creator gnd:122076419 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151778183> .
@@ -6829,6 +6987,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:genre "Katalog"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "ita"@iso6392, "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7005603> ;
   dc:creator gnd:117616214 ;
   dc:contributor gnd:1055114920 ;
@@ -6839,7 +6998,8 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "4°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm206>
   a libreto:Item ;
@@ -6882,6 +7042,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "4°" ;
   dc:language "fre"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7006952> ;
   dc:creator gnd:119547961 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151498598> .
@@ -6891,7 +7052,8 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "4°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm210>
   a libreto:Item ;
@@ -6904,6 +7066,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dc:subject "Astronomie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme; Bd. 1+2 von 1672;Provenienz: Rudolf August" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7004334> ;
   dc:creator gnd:124374360 ;
   dc:contributor <br:sturm/persons/Gerhard%2C+Christoph> ;
@@ -6919,6 +7082,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "4°" ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7012329> ;
   dc:creator gnd:118660535 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151061076> .
@@ -6933,6 +7097,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "4°" ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "M: Nx 21 (1): Exlibris: Ex Bibliotheca LR Ducis Brunsvicensis Et Luneburgensis Nummer: 80 b." ;
   libreto:hasPlace <br:sturm/places/Braunschweig> ;
   dc:creator gnd:117364177 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=98994964> .
@@ -6942,7 +7107,8 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "4°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm214>
   a libreto:Item ;
@@ -6954,6 +7120,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "4°" ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Nachweis HAB Microform" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7012329> ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=130117285> .
 
@@ -6964,6 +7131,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "4°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   dc:creator gnd:132741784 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=155891197> .
 
@@ -6977,6 +7145,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "4°" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "M: Nx 21 (1): Exlibris: Ex Bibliotheca LR Ducis Brunsvicensis Et Luneburgensis Nummer: 80 b" ;
   dc:creator gnd:117364177 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=098994964> .
 
@@ -6985,21 +7154,24 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "4°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm218>
   a libreto:Item ;
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "4°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm219>
   a libreto:Item ;
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "4°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm220>
   a libreto:Item ;
@@ -7012,6 +7184,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dc:subject "Mechanik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "ger"@iso6392, "ita"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7012329>, <br:sturm/places/Altenburg> ;
   dc:contributor gnd:1157481914, gnd:116992514 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=09177537X> .
@@ -7027,6 +7200,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:genre "Itinerar"@http://uri.gbv.de/terminology/aadgenres/, "Reisebericht"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7005293> ;
   dc:creator gnd:100810764 ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=3:301535C> .
@@ -7037,6 +7211,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "4°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" ;
   dc:creator <br:sturm/persons/Bernoulli%2C+Johann> .
 
 <br:sturm/item_sturm223>
@@ -7044,7 +7219,8 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "4°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm224>
   a libreto:Item ;
@@ -7056,6 +7232,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "4°" ;
   dc:subject "Mathematik"@http://uri.gbv.de/terminology/aadgenres/, "Geometrie"@http://uri.gbv.de/terminology/aadgenres/ ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasPlace <br:sturm/places/Berlin> ;
   dc:creator gnd:1052497144 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=374425000> .
@@ -7072,6 +7249,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:genre "Emblembuch"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Exlibris: Ex Bibliotheca LR Ducis Brunsvicensis Et Luneburgensis Nummer: 107" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7005289> ;
   dc:creator gnd:128850744 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=135130034> .
@@ -7085,6 +7263,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "4°" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme" ;
   libreto:hasPlace <br:sturm/places/Franfurt+an+der+Oder> ;
   dc:creator gnd:119501600 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151053790> .
@@ -7094,7 +7273,8 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "4°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm228>
   a libreto:Item ;
@@ -7126,6 +7306,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:genre "Alterumskunde" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "diverse Exemplare" ;
   libreto:hasPlace <br:sturm/places/Helmstedt> ;
   dc:creator gnd:11852190X ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=135764475> ;
@@ -7161,14 +7342,16 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "4°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm232>
   a libreto:Item ;
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "4°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm233>
   a libreto:Item ;
@@ -7205,7 +7388,8 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "4°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm236>
   a libreto:Item ;
@@ -7232,6 +7416,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "4°" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Nachweis HAB Mikroform" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7005289> ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=167402153> .
 
@@ -7277,6 +7462,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:genre "Schulbuch"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/1036898> ;
   dc:creator gnd:118634771 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151284474> .
@@ -7307,6 +7493,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dc:subject "Astronomie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Könnte es sich ggf. um einen Schreibfehler handeln, 1635 statt 1625?;Nachweis HAB von 1635" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7007660> ;
   dc:creator gnd:124535062 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=536910596> .
@@ -7336,6 +7523,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "8°" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7004334>, <http://vocab.getty.edu/tgn/1038166> ;
   dc:creator gnd:116595949 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=320931293> .
@@ -7408,6 +7596,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "8°" ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis für 1674;Nachweis HAB: 1673 (A: 142.1 Phys. (2) oder 1701 (M: Hr 208 (1)" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7005973> ;
   dc:creator gnd:124548334 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150679211> .
@@ -7423,6 +7612,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dc:subject "Mathematik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "fre"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme;Ex-Libris: Ex Bibliotheca L R Ducis Brunsvicensis Et Luneburgensis" ;
   dc:hasFormat "http://diglib.hab.de/drucke/nb-221-1/start.htm;http://diglib.hab.de/drucke/nb-221-2/start.htm" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7006810> ;
   dc:creator gnd:118790943 ;
@@ -7455,6 +7645,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dc:subject "Astronomie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Nachweis HAB Mikroform" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7011781> ;
   dc:creator gnd:117565792 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=142914134> .
@@ -7470,6 +7661,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dc:subject "Geographie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "fre"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7007856> ;
   dc:creator gnd:122180437 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=192908448> .
@@ -7530,6 +7722,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dc:subject "Mathematik"@http://uri.gbv.de/terminology/aadgenres/, "Geometrie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "fre"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7006810> ;
   dc:creator <br:sturm/persons/Arnauld%2C+Antoine> ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=412459558> .
@@ -7544,6 +7737,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "8°" ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis für 1710;Mehrbändiges Werk;K10+ PPN der Hauptaufnahme" ;
   libreto:hasPlace <br:sturm/places/Franfurt+an+Oder> ;
   dc:creator gnd:117364177 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=15042700X> .
@@ -7573,6 +7767,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dc:subject "Anleitung"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "ger"@iso6392, "fre"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis für 1698" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7004334> ;
   dc:creator gnd:118671545 ;
   dc:contributor gnd:118659413, gnd:118041835 ;
@@ -7589,6 +7784,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:genre "Erbauungsliteratur"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis für 1713;kein Nachweis HAB" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7007660> ;
   dc:creator gnd:139612424 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=307556409> .
@@ -7618,6 +7814,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:genre "Traktat"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "ger"@iso6392, "fre"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7005293> ;
   dc:creator <br:sturm/persons/Deville%2C+Antoine> ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=144216833> .
@@ -7661,6 +7858,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:genre "Traktat"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasPlace <br:sturm/places/Framkfurt+am+Main> ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=147171695> .
 
@@ -7733,6 +7931,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "8°" ;
   dc:language "fre"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis für 1707;Mehrbändiges Werk;K10+ PPN der Hauptaufnahme" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7006952> ;
   dc:creator <br:sturm/persons/Fontenelle%2C+M.+de> ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=249214431> .
@@ -7747,6 +7946,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "8°" ;
   dc:language "fre"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Band 1 eines mehrbändigen Werkes" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7006952> ;
   dc:creator gnd:104069368 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150766777> .
@@ -7762,6 +7962,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dc:subject "Mathematik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasPlace <br:sturm/places/Frankfurt+an+der+Oder> ;
   dc:creator gnd:117364177 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=403825334> .
@@ -7776,6 +7977,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "8°" ;
   dc:language "fre"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme;Signaturen der mittleren Aufstellung haben das Erscheinungsjahr 1700" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7008038> ;
   dc:creator gnd:13365544X ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=153592729> .
@@ -7792,6 +7994,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:genre "Reisebericht"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "ger"@iso6392, "eng"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7012329> ;
   dc:creator gnd:132006294 ;
   dc:contributor gnd:1036491005 ;
@@ -7851,6 +8054,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "8°" ;
   dc:language "fre"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7006952> ;
   dc:creator <br:sturm/persons/La+Loub%C3%A8re%2C+Simon+de> ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150250487> .
@@ -7865,6 +8069,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "8°" ;
   dc:language "fre"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Nachweis HAB: Erscheinungsort Amsterdam" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7006952> ;
   dc:creator <br:sturm/persons/Gauger%2C+Nicolas> ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=1117920348> .
@@ -7879,6 +8084,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "8°" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Nach Erscheinungsjahr Band zwei eines mehrbändigen Werkes" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7004334> ;
   dc:creator gnd:100277608 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=134495594> .
@@ -7893,6 +8099,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "8°" ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasPlace <br:sturm/places/Franfurt+an+der+Oder> ;
   dc:creator gnd:117364177 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=245935657> ;
@@ -7932,6 +8139,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:genre "Reisebericht"@http://uri.gbv.de/terminology/aadgenres/, "Streitschrift:theol."@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7012329> ;
   dc:contributor gnd:133298485, gnd:118904159 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=683592416> .
@@ -7948,6 +8156,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:genre "Gebetbuch"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasPlace <br:sturm/places/Frankfurt+an+der+Oder> ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=310121221> .
 
@@ -7976,6 +8185,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "8°" ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7004334>, <http://vocab.getty.edu/tgn/1038166> ;
   dc:creator <br:sturm/persons/More%2C+Henry> ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=29:734559C> .
@@ -7990,6 +8200,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "8°" ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7005289> ;
   dc:creator gnd:141972246 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=848383591> .
@@ -8031,6 +8242,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "8°" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "HAB: Nachweis London 1688 als DFG-Nationallizenz (Early English books)" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7011931> ;
   dc:creator gnd:116136731 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=13519475X> .
@@ -8045,6 +8257,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "8°" ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Nachweis HAB Microform" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7012329> ;
   dc:contributor gnd:118074067 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=130130648> .
@@ -8074,6 +8287,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "8°" ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7012875> ;
   dc:creator gnd:116001739 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151242364> .
@@ -8088,6 +8302,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "8°" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7006809> ;
   dc:creator <br:sturm/persons/Jodin%2C+Antoine> ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=230628710> .
@@ -8103,6 +8318,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:genre "Alchemie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "HAB: Nachweis nur von 1721" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7012329> ;
   dc:creator gnd:118795473 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=216088976> .
@@ -8127,7 +8343,8 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "12°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm299>
   a libreto:Item ;
@@ -8223,6 +8440,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "12°" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "HAB: diverse Nachweise aus anderen Erscheinungsjahren" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7006952> ;
   dc:creator gnd:118613200 ;
   dc:contributor gnd:11857342X, gnd:117015415 ;
@@ -8254,6 +8472,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "12°" ;
   dc:language "fre"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Werk enthalten in M: Jb 262" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7006810> ;
   dc:creator gnd:118626264 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=231898649> .
@@ -8269,6 +8488,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dc:subject "Geometrie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "fre"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "HAB: Nachweis 1728 (M: Nb 463)" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7008038> ;
   dc:creator gnd:11900643X ;
   dc:contributor gnd:117573752 ;
@@ -8284,6 +8504,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "12°" ;
   dc:language "fre"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "HAB: kein Nachweis für 1662" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7006952> ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=188049983> .
 
@@ -8297,6 +8518,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "12°" ;
   dc:language "dut"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Ausgabe von 1644 nicht ermittelbar, nur 1642 (M: Lp 19)" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7006952> ;
   dc:creator gnd:119442027 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=165475595> .
@@ -8325,6 +8547,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "12°" ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "K10+ PPN bezieht sich auf Dritten Theil;HAB: div. Nachweise aus anderen Jahren" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7005289> ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=431984239> .
 
@@ -8338,6 +8561,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "12°" ;
   dc:language "ita"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7018159> ;
   dc:creator gnd:119016036 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=216362873> .
@@ -8352,6 +8576,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "12°" ;
   dc:language "ita"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7000874> ;
   dc:creator gnd:134081404 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=146270711> .
@@ -8382,6 +8607,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:genre "Reiseführer"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "HAB: Nachweis 1703 (M: Cc 363), 1729 (M: Cc 364)" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7005289> ;
   dc:creator <br:sturm/persons/Lehmann%2C+Peter+Ambrosius> ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=198441045> .
@@ -8420,7 +8646,8 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "12°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm320>
   a libreto:Item ;
@@ -8433,6 +8660,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dc:subject "Topographie"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme;Nachweis HAB nur Buch 2" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7005293> ;
   dc:creator <br:sturm/persons/Rochefort%2C+Charles+de> ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150290136> .
@@ -8486,6 +8714,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "12°" ;
   dc:language "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Nachweis HAB: 1674 (Xb 6667 (1));1665 Teil: Adpendix: Breviarum geographicum (M: Ca 21)" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7004334> ;
   dc:creator gnd:116108010 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150031378> ;
@@ -8505,6 +8734,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "12°" ;
   dc:language "ita"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7000457> ;
   dc:creator <br:sturm/persons/Del+Bruno%2C+Raffaelo> ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151669902> .
@@ -8580,6 +8810,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dc:subject "Theologie" ;
   dc:language "heb"@iso6392, "lat"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7007279> ;
   dc:contributor gnd:129272485, gnd:119049392 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=682321982> ;
@@ -8600,6 +8831,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dc:subject "Theologie" ;
   dc:language "lat"@iso6392, "grc"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7007279> ;
   dc:contributor gnd:119049392 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=682225800> ;
@@ -8634,6 +8866,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "2°" ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7005293> ;
   dc:creator gnd:118650386 ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=143604678> .
@@ -8649,6 +8882,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:genre "Chronik"@http://uri.gbv.de/terminology/aadgenres/ ;
   dc:language "ger"@iso6392 ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme" ;
   libreto:hasPlace <http://vocab.getty.edu/tgn/7005293> ;
   dc:creator gnd:118650386 ;
   dc:contributor <br:sturm/persons/Cave%2C+William> ;
@@ -8676,6 +8910,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "2°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150995008> .
 
 <br:sturm/item_sturm336>
@@ -8683,7 +8918,8 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "2°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm337>
   a libreto:Item ;
@@ -8692,6 +8928,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "4°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme;Theil 1 von 1706" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=220661901> .
 
 <br:sturm/item_sturm338>
@@ -8699,7 +8936,8 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "4°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm339>
   a libreto:Item ;
@@ -8708,6 +8946,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "4°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=245368914> .
 
 <br:sturm/item_sturm340>
@@ -8717,6 +8956,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "4°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=12:130233X> .
 
 <br:sturm/item_sturm341>
@@ -8724,7 +8964,8 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "4°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm342>
   a libreto:Item ;
@@ -8733,6 +8974,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "4°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150631618> .
 
 <br:sturm/item_sturm343>
@@ -8740,7 +8982,8 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "4°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm344>
   a libreto:Item ;
@@ -8801,21 +9044,24 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "4°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm351>
   a libreto:Item ;
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "4°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm352>
   a libreto:Item ;
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "4°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm353>
   a libreto:Item ;
@@ -8823,6 +9069,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "4°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" ;
   libreto:hasContext [
     a libreto:PhysicalContext ;
     libreto:position "1" ;
@@ -8835,6 +9082,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "4°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" ;
   libreto:hasContext [
     a libreto:PhysicalContext ;
     libreto:position "2" ;
@@ -8848,6 +9096,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "4°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "HAB: Nachweis 1697 als Mikrofilm" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=058612351> ;
   libreto:hasContext [
     a libreto:PhysicalContext ;
@@ -8862,6 +9111,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "4°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme; Teil 1 von 1692" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=091795478> ;
   libreto:hasContext [
     a libreto:PhysicalContext ;
@@ -8875,6 +9125,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "4°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" ;
   libreto:hasContext [
     a libreto:PhysicalContext ;
     libreto:position "5" ;
@@ -8887,6 +9138,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "4°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" ;
   libreto:hasContext [
     a libreto:PhysicalContext ;
     libreto:position "6" ;
@@ -8898,7 +9150,8 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "4°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm360>
   a libreto:Item ;
@@ -8907,6 +9160,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "4°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Ausgabe nicht nachweisbar;HAB: Nachweis 1693 mit Augsburg als Druckort (M: Uh 90)" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151619158> .
 
 <br:sturm/item_sturm361>
@@ -8914,7 +9168,8 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "4°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm362>
   a libreto:Item ;
@@ -8922,7 +9177,8 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "4°" ;
   dc:subject "Überschrift?" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm363>
   a libreto:Item ;
@@ -8932,6 +9188,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "4°" ;
   dc:subject "Überschrift?" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=147123658> .
 
 <br:sturm/item_sturm364>
@@ -8950,7 +9207,8 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "4°" ;
   dc:subject "Überschrift?" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm366>
   a libreto:Item ;
@@ -8960,6 +9218,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "4°" ;
   dc:subject "Überschrift?" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=310717809> .
 
 <br:sturm/item_sturm367>
@@ -8970,6 +9229,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "4°" ;
   dc:subject "Überschrift?" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=303800259> ;
   libreto:hasContext [
     a libreto:PhysicalContext ;
@@ -8984,6 +9244,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "4°" ;
   dc:subject "Überschrift?" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" ;
   libreto:hasContext [
     a libreto:PhysicalContext ;
     libreto:position "2" ;
@@ -9006,7 +9267,8 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "4°" ;
   dc:subject "Überschrift?" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm371>
   a libreto:Item ;
@@ -9014,7 +9276,8 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "4°" ;
   dc:subject "Überschrift?" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm372>
   a libreto:Item ;
@@ -9024,6 +9287,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "4°" ;
   dc:subject "Überschrift?" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=21959256X> ;
   libreto:hasContext [
     a libreto:PhysicalContext ;
@@ -9052,14 +9316,16 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "4°" ;
   dc:subject "Überschrift?" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm375>
   a libreto:Item ;
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "8°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm376>
   a libreto:Item ;
@@ -9068,6 +9334,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "8°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "HAB: Nachweis 1653 (M: Tm 328; A: 879.14 Theol. (1); A: 988.4 Theol. (2))" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=309105110> .
 
 <br:sturm/item_sturm377>
@@ -9075,7 +9342,8 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "8°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm378>
   a libreto:Item ;
@@ -9084,6 +9352,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "8°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Ausgabe nicht ermittelbar; HAB Nachweis 1706 (M: Tq 300)" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151865035> .
 
 <br:sturm/item_sturm379>
@@ -9093,6 +9362,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "8°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=574925465> .
 
 <br:sturm/item_sturm380>
@@ -9102,6 +9372,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "8°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=212835025> .
 
 <br:sturm/item_sturm381>
@@ -9111,6 +9382,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "8°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=091963052> .
 
 <br:sturm/item_sturm382>
@@ -9120,6 +9392,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "8°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk; K10+ PPN der Hauptaufnahme;kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=147475082> .
 
 <br:sturm/item_sturm383>
@@ -9127,7 +9400,8 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "8°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm384>
   a libreto:Item ;
@@ -9145,6 +9419,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "8°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Exlibris: Ex Bibliotheca L[udovici] R[udolphi] Ducis Brunsvicensis Et Luneburgensis" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151373973> .
 
 <br:sturm/item_sturm386>
@@ -9154,6 +9429,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "8°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=244930082> .
 
 <br:sturm/item_sturm387>
@@ -9163,6 +9439,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "8°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=318544679> .
 
 <br:sturm/item_sturm388>
@@ -9172,6 +9449,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "8°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=311273181> ;
   libreto:hasContext [
     a libreto:PhysicalContext ;
@@ -9221,7 +9499,8 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "8°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm393>
   a libreto:Item ;
@@ -9296,6 +9575,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "8°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nach dem Erscheinungsjahr Band 1 eines mehrbändigen Werkes" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150167709> ;
   libreto:hasContext [
     a libreto:PhysicalContext ;
@@ -9310,6 +9590,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "8°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=1:073306E> .
 
 <br:sturm/item_sturm400>
@@ -9319,6 +9600,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "8°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Nachweis von HAB 1667 (M: Th 1067, M: QuN 572 (1))" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=154423637> .
 
 <br:sturm/item_sturm401>
@@ -9326,7 +9608,8 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "8°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm402>
   a libreto:Item ;
@@ -9335,6 +9618,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "8°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Provenienz: Rudolf August <Braunschweig-Lüneburg, Herzog> / Initiale" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=1001428099> ;
   libreto:hasContext [
     a libreto:PhysicalContext ;
@@ -9349,6 +9633,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "8°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=306726327> ;
   libreto:hasContext [
     a libreto:PhysicalContext ;
@@ -9362,6 +9647,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "8°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" ;
   libreto:hasContext [
     a libreto:PhysicalContext ;
     libreto:position "3" ;
@@ -9375,6 +9661,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "8°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=535985940> ;
   libreto:hasContext [
     a libreto:PhysicalContext ;
@@ -9388,6 +9675,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "8°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" ;
   libreto:hasContext [
     a libreto:PhysicalContext ;
     libreto:position "2" ;
@@ -9408,7 +9696,8 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "8°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm409>
   a libreto:Item ;
@@ -9443,6 +9732,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "8°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" ;
   libreto:hasContext [
     a libreto:PhysicalContext ;
     libreto:position "1" ;
@@ -9456,6 +9746,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "8°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme;kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=328086320> ;
   libreto:hasContext [
     a libreto:PhysicalContext ;
@@ -9470,6 +9761,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "8°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahmahme;Nachweis HAB 1700 (M: Th 991), 1710 (M: Tq 443, H: Yv 523.8° Helmst.)" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=153309857> .
 
 <br:sturm/item_sturm415>
@@ -9477,7 +9769,8 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "8°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm416>
   a libreto:Item ;
@@ -9486,6 +9779,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "8°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=253984483> .
 
 <br:sturm/item_sturm417>
@@ -9495,6 +9789,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "8°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=313007985> .
 
 <br:sturm/item_sturm418>
@@ -9546,6 +9841,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "8°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Aufsatz in M: QuN 520h (3):" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=252335899> ;
   libreto:hasContext [
     a libreto:PhysicalContext ;
@@ -9560,6 +9856,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "8°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=1:073343H> .
 
 <br:sturm/item_sturm423>
@@ -9569,6 +9866,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "8°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=335360661> .
 
 <br:sturm/item_sturm424>
@@ -9578,6 +9876,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "8°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150902204> .
 
 <br:sturm/item_sturm425>
@@ -9587,6 +9886,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "8°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151223114> .
 
 <br:sturm/item_sturm426>
@@ -9597,6 +9897,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "8°" ;
   dc:subject "Überschrift?" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=153115602> .
 
 <br:sturm/item_sturm427>
@@ -9605,7 +9906,8 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "8°" ;
   dc:subject "Überschrift?" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm428>
   a libreto:Item ;
@@ -9615,6 +9917,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "8°" ;
   dc:subject "Überschrift?" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=305076760> .
 
 <br:sturm/item_sturm429>
@@ -9623,7 +9926,8 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "8°" ;
   dc:subject "Überschrift?" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm430>
   a libreto:Item ;
@@ -9633,6 +9937,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "8°" ;
   dc:subject "Überschrift?" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <http://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=75:657092R> .
 
 <br:sturm/item_sturm431>
@@ -9643,6 +9948,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "8°" ;
   dc:subject "Überschrift?" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=235405469> .
 
 <br:sturm/item_sturm432>
@@ -9653,6 +9959,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "8°" ;
   dc:subject "Überschrift?" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=835526585> .
 
 <br:sturm/item_sturm433>
@@ -9663,6 +9970,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "8°" ;
   dc:subject "Überschrift?" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150995067> .
 
 <br:sturm/item_sturm434>
@@ -9673,6 +9981,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "8°" ;
   dc:subject "Überschrift?" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=88022844X> .
 
 <br:sturm/item_sturm435>
@@ -9683,6 +9992,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "8°" ;
   dc:subject "Überschrift?" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=30525815X> ;
   libreto:hasContext [
     a libreto:PhysicalContext ;
@@ -9698,6 +10008,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "8°" ;
   dc:subject "Überschrift?" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=092297226> ;
   libreto:hasContext [
     a libreto:PhysicalContext ;
@@ -9713,6 +10024,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "8°" ;
   dc:subject "Überschrift?" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=331338203> ;
   libreto:hasContext [
     a libreto:PhysicalContext ;
@@ -9728,6 +10040,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "8°" ;
   dc:subject "Überschrift?" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=31016477X> ;
   libreto:hasContext [
     a libreto:PhysicalContext ;
@@ -9741,7 +10054,8 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "8°" ;
   dc:subject "Überschrift?" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm440>
   a libreto:Item ;
@@ -9751,6 +10065,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "8°" ;
   dc:subject "Überschrift?" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=310400732> .
 
 <br:sturm/item_sturm441>
@@ -9761,6 +10076,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "8°" ;
   dc:subject "Überschrift?" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=091960614> .
 
 <br:sturm/item_sturm442>
@@ -9771,6 +10087,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "8°" ;
   dc:subject "Überschrift?" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151911304> .
 
 <br:sturm/item_sturm443>
@@ -9781,6 +10098,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "8°" ;
   dc:subject "Überschrift?" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=092194575> .
 
 <br:sturm/item_sturm444>
@@ -9791,6 +10109,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "8°" ;
   dc:subject "Überschrift?" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=313069980> .
 
 <br:sturm/item_sturm445>
@@ -9799,7 +10118,8 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "8°" ;
   dc:subject "Überschrift?" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm446>
   a libreto:Item ;
@@ -9809,6 +10129,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "8°" ;
   dc:subject "Überschrift?" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=237293382> .
 
 <br:sturm/item_sturm447>
@@ -9819,6 +10140,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "8°" ;
   dc:subject "Überschrift?" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=308961862> .
 
 <br:sturm/item_sturm448>
@@ -9829,6 +10151,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "8°" ;
   dc:subject "Überschrift?" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=314961666> .
 
 <br:sturm/item_sturm449>
@@ -9839,6 +10162,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:bibliographicalFormat "8°" ;
   dc:subject "Überschrift?" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=053026845> .
 
 <br:sturm/item_sturm450>
@@ -9848,6 +10172,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "12°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=536993262> .
 
 <br:sturm/item_sturm451>
@@ -9855,7 +10180,8 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "12°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm452>
   a libreto:Item ;
@@ -9864,6 +10190,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "12°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=134755944> .
 
 <br:sturm/item_sturm453>
@@ -9873,6 +10200,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "12°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=091973147> .
 
 <br:sturm/item_sturm454>
@@ -9882,6 +10210,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "12°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   dc:creator <br:sturm/persons/Breckling%2C+Friedrich> ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=092136141> ;
   libreto:hasContext [
@@ -9897,6 +10226,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "12°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=536972699> ;
   libreto:hasContext [
     a libreto:PhysicalContext ;
@@ -9911,6 +10241,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "12°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk; K10+ PPN der Hauptaufnahme;kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151772207> ;
   libreto:hasContext [
     a libreto:PhysicalContext ;
@@ -9925,6 +10256,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "12°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=092227090> ;
   libreto:hasContext [
     a libreto:PhysicalContext ;
@@ -9939,6 +10271,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "12°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151772134> ;
   libreto:hasContext [
     a libreto:PhysicalContext ;
@@ -9953,6 +10286,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "12°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151772363> ;
   libreto:hasContext [
     a libreto:PhysicalContext ;
@@ -9967,6 +10301,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "12°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehrbändiges Werk;K10+ PPN der Hauptaufnahme;kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151772096> ;
   libreto:hasContext [
     a libreto:PhysicalContext ;
@@ -9981,6 +10316,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "12°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=395930588> .
 
 <br:sturm/item_sturm462>
@@ -9990,6 +10326,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "12°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=092153364> .
 
 <br:sturm/item_sturm463>
@@ -9999,6 +10336,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "12°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151198543> .
 
 <br:sturm/item_sturm464>
@@ -10008,6 +10346,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "12°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=683568957> .
 
 <br:sturm/item_sturm465>
@@ -10017,6 +10356,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "12°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=091979242> .
 
 <br:sturm/item_sturm466>
@@ -10026,6 +10366,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "12°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=302133461> .
 
 <br:sturm/item_sturm467>
@@ -10035,6 +10376,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "12°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=226066762> .
 
 <br:sturm/item_sturm468>
@@ -10044,6 +10386,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "12°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=535663196> ;
   libreto:hasContext [
     a libreto:PhysicalContext ;
@@ -10058,6 +10401,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "12°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151202109> ;
   libreto:hasContext [
     a libreto:PhysicalContext ;
@@ -10072,6 +10416,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "12°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150310161> ;
   libreto:hasContext [
     a libreto:PhysicalContext ;
@@ -10086,6 +10431,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "12°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=303419822> ;
   libreto:hasContext [
     a libreto:PhysicalContext ;
@@ -10098,7 +10444,8 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "12°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm473>
   a libreto:Item ;
@@ -10107,6 +10454,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "12°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=180847007> .
 
 <br:sturm/item_sturm474>
@@ -10114,7 +10462,8 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "12°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm475>
   a libreto:Item ;
@@ -10130,7 +10479,8 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "12°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm477>
   a libreto:Item ;
@@ -10139,6 +10489,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "12°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=092160247> ;
   libreto:hasContext [
     a libreto:PhysicalContext ;
@@ -10188,21 +10539,24 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "12°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm482>
   a libreto:Item ;
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "12°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm483>
   a libreto:Item ;
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "12°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm484>
   a libreto:Item ;
@@ -10238,6 +10592,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "12°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" ;
   libreto:hasContext [
     a libreto:PhysicalContext ;
     libreto:position "3" ;
@@ -10265,6 +10620,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "12°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=221258434> .
 
 <br:sturm/item_sturm489>
@@ -10274,6 +10630,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "12°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=455150524> .
 
 <br:sturm/item_sturm490>
@@ -10283,6 +10640,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "12°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=302445161> .
 
 <br:sturm/item_sturm491>
@@ -10301,6 +10659,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "12°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=342741322> .
 
 <br:sturm/item_sturm493>
@@ -10308,7 +10667,8 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "12°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm494>
   a libreto:Item ;
@@ -10317,6 +10677,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "12°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=146483634> .
 
 <br:sturm/item_sturm495>
@@ -10344,6 +10705,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "12°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Mehbändiges Werk;K10+ PPN der Hauptaufnahme" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150867905> .
 
 <br:sturm/item_sturm498>
@@ -10362,6 +10724,7 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "12°" ;
   libreto:physicalForm "gebunden"@de ;
+  libreto:comment "Erscheinungsjahr 1707 nicht ermittelbar, nur 1706; kein Nachweis HAB" ;
   libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=302307184> .
 
 <br:sturm/item_sturm500>
@@ -10369,7 +10732,8 @@ Cui praemißa est Isagoge Chronologica, In qua Cum Tempus Astronomicum ... Lumin
   libreto:belongsTo br:sturm ;
   dbo:numberOfVolumes "1"@xsd:integer ;
   libreto:bibliographicalFormat "12°" ;
-  libreto:physicalForm "gebunden"@de .
+  libreto:physicalForm "gebunden"@de ;
+  libreto:comment "nicht ermittelbar" .
 
 <br:sturm/item_sturm501>
   a libreto:Item ;
