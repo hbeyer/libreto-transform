@@ -283,6 +283,11 @@ function insertPageBreaks($dom, $data, $base) {
 		$expressionPreceding = '//p[@xml:id="'.$id.'"]/parent::*/preceding-sibling::*';
 		$precedingNodes = $xp->evaluate($expressionPreceding);
 		$preceding = $precedingNodes->item(0);
+		if ($preceding == null) {
+			var_dump($expressionPreceding);
+			die;
+		}
+		
 		
 		if($preceding->tagName == 'head') {
 			$parent->insertBefore($pb, $preceding);

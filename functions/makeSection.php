@@ -119,7 +119,13 @@ function joinVolumes($section) {
 		}
 		// Case 2: An item of a new miscellany
 		elseif($item->itemInVolume == 1 and isset($buffer[0])) {
-			$newContent[] = makeVolume($buffer);
+			// Das Folgende verhindert, dass Pseudo-Sammelbände mit nur einem Stücktitel als solche angezeigt werden.
+			if (count($buffer) == 1) {
+				$nowContent[] = $buffer[0];
+			}
+			elseif (count($buffer) > 1) {
+				$newContent[] = makeVolume($buffer);
+			}
 			$buffer = array();
 			$buffer[] = $item;
 		}

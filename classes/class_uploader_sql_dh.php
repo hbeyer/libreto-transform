@@ -17,6 +17,7 @@ class uploader_sql_dh extends uploader {
 
     public function loadContent($fileName = '') {
         $data = $this->pdo->query('SELECT * FROM Zusammenfassung')->fetchAll(PDO::FETCH_CLASS, 'item');
+		$data = $this->insertVolumeNote($data);
         $persons = $this->pdo->query('SELECT * FROM Autor')->fetchAll(PDO::FETCH_CLASS, 'person');
         $data = $this->enrichPersons($data, $persons);
         unset($persons);
@@ -42,6 +43,20 @@ class uploader_sql_dh extends uploader {
         }
         return($data);
     }
+	
+	private function insertVolumeNote($data) {
+		$countVolumes = 0;
+		foreach ($data as $item) {
+			if ($item->itemInVolume != 0) {
+				$item->volumeNote['misc'] = 'br:'.$this->fileName.'/miscellany_'.$countVolumes;
+				$item->volumeNote['positionMisc'] = $item->itemInVolume;
+				if ($item->itemInVolume == 1) {
+					$countVolumes++;
+				}
+			}
+		}
+		return($data);
+	}
 
 }
 
