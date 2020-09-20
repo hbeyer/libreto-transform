@@ -4,7 +4,7 @@
 #INSTITUTION: Berlin-Brandenburgische Akademie der Wissenschaften
 #NAME: Deutsches Textarchiv
 #CONTACT: Frank Wiegand <wiegand@bbaw.de>
-#TIMESTAMP: 2020-09-10T20:50:44Z
+#TIMESTAMP: 2020-09-18T11:08:39Z
 #TARGET: http://www.deutschestextarchiv.de/api/pnd/{ID}
 100015999|1
 100055427|3
@@ -681,6 +681,7 @@
 118628097|1
 11862833X|1
 11862850X|2
+118629042|5
 118629743|3
 118629840|3
 118629867|3

@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="de">
+
+    <head>
+        <title>Bibliothek von Leonhard Christoph Sturm</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+        <link rel="stylesheet" href="assets/css/affix.css">
+        <link rel="stylesheet" href="assets/css/proprietary.css">
+        <script src="assets/js/jquery.min.js"></script>
+        <script src="assets/js/bootstrap.min.js"></script>
+        <script src="assets/js/proprietary.js"></script>
+        <script src="assets/js/jqcloud.js"></script>
+    </head>
+
+    <body onload="javascript:x = getNavBarHeight();scrollNav(x);">
+
+        <div class="container-fluid" style="background-color:#FFFFFF">
+          <h1>Bibliothek von Leonhard Christoph Sturm (1719)</h1>
+            <p>Die Bücher und wissenschaftlichen Instrumente aus dem Besitz von Leonhard Christoph Sturm (1669–1719) wurden nach dessen Tod von Ludwig Rudolph von Braunschweig-Lüneburg (1671–1735), seinerzeit Fürst von Blankenburg im Harz und Dienstherr Sturms, übernommen und in die eigene Bibliothek integriert. Aus diesem Anlass entstand das 20 Blatt und 434 Bücherlose (ca. 500 Einzeltitel) umfassende handschriftliche Inventar. Zusammen mit der fürstlichen Bibliothek gelangten Sturms Bücher und Instrumente ab 1752/53 von Blankenburg nach Wolfenbüttel in die herzogliche Bibliothek. Hier verliert sich ihre Spur, da bislang keine entsprechenden Provenienzen im Bestand der HAB nachgewiesen wurden.</br>Rekonstruktion: Jörn Münkner, Katrin Schmidt, 2020</p>
+            <div style="float:left;margin-right:20px">
+            <p>Altkatalog: Herzog August Bibliothek Wolfenbüttel, BA I, 673 <a href="http://diglib.hab.de/mss/ba-1-673/start.htm?image=" target="_blank">Digitalisat</a><br />
+            <span id="switchLink"><a href="javascript:switchToOriginal()">Anzeige in Vorlageform</a></span></p>
+            </div>
+
+            <div class="dropdown" style="float:left">
+                <button class="btn btn-info dropdown-toggle" type="button" data-toggle="dropdown">Download<span class="caret"></span></button>
+                <ul class="dropdown-menu">
+                    <li class="dropdown-header">Datenexport</li> 
+                    <li><a href="sturm.csv">CSV</a></li>
+                    <li><a href="sturm.xml">XML</a></li>
+                    <li><a href="sturm-tei.xml">TEI</a></li>
+                    <li><a href="sturm.rdf">RDF/XML</a></li>
+                    <li><a href="sturm.ttl">Turtle</a></li>
+                    <li><a href="sturm-SOLR.xml">Solr XML</a></li>
+                    <li class="dropdown-header">Geodaten</li>
+                    <li><a href="printingPlaces.csv">CSV</a></li>
+                    <li><a href="printingPlaces.kml">KML</a></li>
+                    <li class="dropdown-header">Komplette Website</li>
+                    <li><a href="sturm.zip">ZIP</a></li>
+                </ul>
+            </div> 
+        </div>
+        <nav class="navbar navbar-default" data-spy="affix" data-offset-top="197">
+            <ul class="nav navbar-nav">
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="sturm-histSubject.html">Rubriken<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="sturm-histSubject.html">Seitenanfang</a></li>
+                        <li><a href="sturm-histSubject.html#ohneKategorie">ohne Kategorie (325)</a></li>
+                        <li><a href="sturm-histSubject.html#Architektur">Architektur (2)</a></li>
+                        <li><a href="sturm-histSubject.html#TheologischeBuecher">Theologische Bücher (176)</a></li>
+                        <li><a href="sturm-histSubject.html#MathematischeInstrumente">Mathematische Instrumente (8)</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="sturm-persName.html">Personen<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="sturm-persName.html">Seitenanfang</a></li>
+                        <li><a href="sturm-persName.html#A">A (12)</a></li>
+                        <li><a href="sturm-persName.html#B">B (57)</a></li>
+                        <li><a href="sturm-persName.html#C">C (30)</a></li>
+                        <li><a href="sturm-persName.html#D">D (24)</a></li>
+                        <li><a href="sturm-persName.html#E">E (4)</a></li>
+                        <li><a href="sturm-persName.html#F">F (13)</a></li>
+                        <li><a href="sturm-persName.html#G">G (12)</a></li>
+                        <li><a href="sturm-persName.html#H">H (23)</a></li>
+                        <li><a href="sturm-persName.html#I">I (2)</a></li>
+                        <li><a href="sturm-persName.html#J">J (4)</a></li>
+                        <li><a href="sturm-persName.html#K">K (15)</a></li>
+                        <li><a href="sturm-persName.html#L">L (15)</a></li>
+                        <li><a href="sturm-persName.html#M">M (20)</a></li>
+                        <li><a href="sturm-persName.html#N">N (3)</a></li>
+                        <li><a href="sturm-persName.html#O">O (2)</a></li>
+                        <li><a href="sturm-persName.html#P">P (22)</a></li>
+                        <li><a href="sturm-persName.html#R">R (17)</a></li>
+                        <li><a href="sturm-persName.html#S">S (58)</a></li>
+                        <li><a href="sturm-persName.html#T">T (14)</a></li>
+                        <li><a href="sturm-persName.html#V">V (12)</a></li>
+                        <li><a href="sturm-persName.html#W">W (12)</a></li>
+                        <li><a href="sturm-persName.html#Z">Z (7)</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="sturm-year.html">Datierung<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="sturm-year.html">Seitenanfang</a></li>
+                        <li><a href="sturm-year.html#1520–1530">1520–1530 (1)</a></li>
+                        <li><a href="sturm-year.html#1550–1560">1550–1560 (3)</a></li>
+                        <li><a href="sturm-year.html#1560–1570">1560–1570 (2)</a></li>
+                        <li><a href="sturm-year.html#1570–1580">1570–1580 (3)</a></li>
+                        <li><a href="sturm-year.html#1580–1590">1580–1590 (4)</a></li>
+                        <li><a href="sturm-year.html#1590–1600">1590–1600 (3)</a></li>
+                        <li><a href="sturm-year.html#1600–1610">1600–1610 (6)</a></li>
+                        <li><a href="sturm-year.html#1610–1620">1610–1620 (12)</a></li>
+                        <li><a href="sturm-year.html#1620–1630">1620–1630 (8)</a></li>
+                        <li><a href="sturm-year.html#1630–1640">1630–1640 (7)</a></li>
+                        <li><a href="sturm-year.html#1640–1650">1640–1650 (12)</a></li>
+                        <li><a href="sturm-year.html#1650–1660">1650–1660 (20)</a></li>
+                        <li><a href="sturm-year.html#1660–1670">1660–1670 (35)</a></li>
+                        <li><a href="sturm-year.html#1670–1680">1670–1680 (39)</a></li>
+                        <li><a href="sturm-year.html#1680–1690">1680–1690 (49)</a></li>
+                        <li><a href="sturm-year.html#1690–1700">1690–1700 (83)</a></li>
+                        <li><a href="sturm-year.html#1700–1710">1700–1710 (99)</a></li>
+                        <li><a href="sturm-year.html#1710–1720">1710–1720 (38)</a></li>
+                        <li><a href="sturm-year.html#1720–1730">1720–1730 (2)</a></li>
+                        <li><a href="sturm-year.html#ohneJahr">ohne Jahr (85)</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="sturm-subjects.html">Inhalte<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="sturm-subjects.html">Seitenanfang</a></li>
+                        <li><a href="sturm-subjects.html#
+Geometrie">
+Geometrie (1)</a></li>
+                        <li><a href="sturm-subjects.html#Alchemie">Alchemie (7)</a></li>
+                        <li><a href="sturm-subjects.html#Altertumskunde">Altertumskunde (1)</a></li>
+                        <li><a href="sturm-subjects.html#Anatomie">Anatomie (1)</a></li>
+                        <li><a href="sturm-subjects.html#Anleitung">Anleitung (1)</a></li>
+                        <li><a href="sturm-subjects.html#Architektur">Architektur (13)</a></li>
+                        <li><a href="sturm-subjects.html#Architektur,Geometrie">Architektur, Geometrie (1)</a></li>
+                        <li><a href="sturm-subjects.html#Artilleriehandwerk">Artilleriehandwerk (1)</a></li>
+                        <li><a href="sturm-subjects.html#Astrologie">Astrologie (3)</a></li>
+                        <li><a href="sturm-subjects.html#Astronmie">Astronmie (1)</a></li>
+                        <li><a href="sturm-subjects.html#Astronomie">Astronomie (18)</a></li>
+                        <li><a href="sturm-subjects.html#Botanik">Botanik (1)</a></li>
+                        <li><a href="sturm-subjects.html#Chemie">Chemie (2)</a></li>
+                        <li><a href="sturm-subjects.html#Chiromantie">Chiromantie (2)</a></li>
+                        <li><a href="sturm-subjects.html#Festungsbau">Festungsbau (4)</a></li>
+                        <li><a href="sturm-subjects.html#Fischkunde(Ichthyologie)
+Biologie/Zoologie">Fischkunde (Ichthyologie)
+Biologie/Zoologie (1)</a></li>
+                        <li><a href="sturm-subjects.html#Gartenbau">Gartenbau (1)</a></li>
+                        <li><a href="sturm-subjects.html#Geldwesen">Geldwesen (2)</a></li>
+                        <li><a href="sturm-subjects.html#Geographie">Geographie (14)</a></li>
+                        <li><a href="sturm-subjects.html#Geologie">Geologie (1)</a></li>
+                        <li><a href="sturm-subjects.html#Geometire">Geometire (1)</a></li>
+                        <li><a href="sturm-subjects.html#Geometrie">Geometrie (8)</a></li>
+                        <li><a href="sturm-subjects.html#Handwerksrecht">Handwerksrecht (1)</a></li>
+                        <li><a href="sturm-subjects.html#Italienisch-Deutsch">Italienisch-Deutsch (1)</a></li>
+                        <li><a href="sturm-subjects.html#Jurisprudenz">Jurisprudenz (1)</a></li>
+                        <li><a href="sturm-subjects.html#Kriegskunde">Kriegskunde (5)</a></li>
+                        <li><a href="sturm-subjects.html#Kriegskunst">Kriegskunst (1)</a></li>
+                        <li><a href="sturm-subjects.html#Landwirtschaft">Landwirtschaft (1)</a></li>
+                        <li><a href="sturm-subjects.html#Magnetismus">Magnetismus (1)</a></li>
+                        <li><a href="sturm-subjects.html#Mathematik">Mathematik (18)</a></li>
+                        <li><a href="sturm-subjects.html#Mechanik">Mechanik (17)</a></li>
+                        <li><a href="sturm-subjects.html#Medizin">Medizin (1)</a></li>
+                        <li><a href="sturm-subjects.html#Optik">Optik (7)</a></li>
+                        <li><a href="sturm-subjects.html#Physik">Physik (7)</a></li>
+                        <li><a href="sturm-subjects.html#PraktischeGeometrie">Praktische Geometrie (1)</a></li>
+                        <li><a href="sturm-subjects.html#Sprache">Sprache (1)</a></li>
+                        <li><a href="sturm-subjects.html#Sprachen">Sprachen (1)</a></li>
+                        <li><a href="sturm-subjects.html#Theologie">Theologie (2)</a></li>
+                        <li><a href="sturm-subjects.html#Topographie">Topographie (10)</a></li>
+                        <li><a href="sturm-subjects.html#Zoologie">Zoologie (1)</a></li>
+                        <li><a href="sturm-subjects.html#aesthetik">Ästhetik (1)</a></li>
+                        <li><a href="sturm-subjects.html#ueberschrift?">Überschrift? (37)</a></li>
+                        <li><a href="sturm-subjects.html#ohneKategorie">ohne Kategorie (1)</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="sturm-genres.html">Gattungen<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="sturm-genres.html">Seitenanfang</a></li>
+                        <li><a href="sturm-genres.html#Topographie"> Topographie (1)</a></li>
+                        <li><a href="sturm-genres.html#Alchemie">Alchemie (1)</a></li>
+                        <li><a href="sturm-genres.html#Alterumskunde">Alterumskunde (1)</a></li>
+                        <li><a href="sturm-genres.html#Anleitung">Anleitung (1)</a></li>
+                        <li><a href="sturm-genres.html#Arsmoriendi">Ars moriendi (1)</a></li>
+                        <li><a href="sturm-genres.html#Astronomie">Astronomie (1)</a></li>
+                        <li><a href="sturm-genres.html#Atlas">Atlas (2)</a></li>
+                        <li><a href="sturm-genres.html#Biographie">Biographie (2)</a></li>
+                        <li><a href="sturm-genres.html#Buchbinderanweisung">Buchbinderanweisung (1)</a></li>
+                        <li><a href="sturm-genres.html#Chronik">Chronik (6)</a></li>
+                        <li><a href="sturm-genres.html#Dissertation:theol.">Dissertation:theol. (1)</a></li>
+                        <li><a href="sturm-genres.html#Dissertationensammlung">Dissertationensammlung (2)</a></li>
+                        <li><a href="sturm-genres.html#Emblembuch">Emblembuch (1)</a></li>
+                        <li><a href="sturm-genres.html#Erbauungsliteratur">Erbauungsliteratur (2)</a></li>
+                        <li><a href="sturm-genres.html#Festungsbau">Festungsbau (2)</a></li>
+                        <li><a href="sturm-genres.html#FischereizuchtundTeichkunde">Fischereizucht und Teichkunde (1)</a></li>
+                        <li><a href="sturm-genres.html#Frauenliteratur">Frauenliteratur (1)</a></li>
+                        <li><a href="sturm-genres.html#Fuehrer">Führer (1)</a></li>
+                        <li><a href="sturm-genres.html#Gebetbuch">Gebetbuch (2)</a></li>
+                        <li><a href="sturm-genres.html#Gelegenheitsschrift:Kroenung">Gelegenheitsschrift:Krönung (1)</a></li>
+                        <li><a href="sturm-genres.html#Handbuch">Handbuch (1)</a></li>
+                        <li><a href="sturm-genres.html#Itinerar">Itinerar (1)</a></li>
+                        <li><a href="sturm-genres.html#Kalender">Kalender (2)</a></li>
+                        <li><a href="sturm-genres.html#Katalog">Katalog (1)</a></li>
+                        <li><a href="sturm-genres.html#Kommentar:jur.">Kommentar: jur. (1)</a></li>
+                        <li><a href="sturm-genres.html#Kommentar:theol.">Kommentar: theol. (1)</a></li>
+                        <li><a href="sturm-genres.html#Kriegskunde">Kriegskunde (2)</a></li>
+                        <li><a href="sturm-genres.html#Kriegskunst">Kriegskunst (1)</a></li>
+                        <li><a href="sturm-genres.html#Lehrbuch">Lehrbuch (3)</a></li>
+                        <li><a href="sturm-genres.html#Lexikon">Lexikon (2)</a></li>
+                        <li><a href="sturm-genres.html#MechanischeKuenste(Wissenskompendium)">Mechanische Künste(Wissenskompendium) (1)</a></li>
+                        <li><a href="sturm-genres.html#Nachschlagewerk">Nachschlagewerk (1)</a></li>
+                        <li><a href="sturm-genres.html#Ordensliteratur:Jesuiten">Ordensliteratur: Jesuiten (1)</a></li>
+                        <li><a href="sturm-genres.html#Ordensliteratur:Jesuiten">Ordensliteratur:Jesuiten (12)</a></li>
+                        <li><a href="sturm-genres.html#Ordensliteratur:Kapuziner">Ordensliteratur:Kapuziner (1)</a></li>
+                        <li><a href="sturm-genres.html#Pflanzenbuch">Pflanzenbuch (1)</a></li>
+                        <li><a href="sturm-genres.html#Portraetwerk">Porträtwerk (1)</a></li>
+                        <li><a href="sturm-genres.html#Predigtsammlung">Predigtsammlung (1)</a></li>
+                        <li><a href="sturm-genres.html#Reisebericht">Reisebericht (18)</a></li>
+                        <li><a href="sturm-genres.html#Reisefuehrer">Reiseführer (1)</a></li>
+                        <li><a href="sturm-genres.html#Schulbuch">Schulbuch (2)</a></li>
+                        <li><a href="sturm-genres.html#Sprach-undWoerterbuch">Sprach- und Wörterbuch (1)</a></li>
+                        <li><a href="sturm-genres.html#Streitschrift">Streitschrift (1)</a></li>
+                        <li><a href="sturm-genres.html#Streitschrift:theol.">Streitschrift:theol. (1)</a></li>
+                        <li><a href="sturm-genres.html#TheatrumMachinarum">Theatrum Machinarum (1)</a></li>
+                        <li><a href="sturm-genres.html#Topographie">Topographie (2)</a></li>
+                        <li><a href="sturm-genres.html#Traktat">Traktat (4)</a></li>
+                        <li><a href="sturm-genres.html#Wappenbuch">Wappenbuch (2)</a></li>
+                        <li><a href="sturm-genres.html#Wissenskompendium">Wissenskompendium (3)</a></li>
+                        <li><a href="sturm-genres.html#Woerterbuch">Wörterbuch (2)</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="sturm-languages.html">Sprachen<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="sturm-languages.html">Seitenanfang</a></li>
+                        <li><a href="sturm-languages.html#Niederlaendisch">Niederländisch (11)</a></li>
+                        <li><a href="sturm-languages.html#Englisch">Englisch (3)</a></li>
+                        <li><a href="sturm-languages.html#Franzoesisch">Französisch (45)</a></li>
+                        <li><a href="sturm-languages.html#Deutsch">Deutsch (120)</a></li>
+                        <li><a href="sturm-languages.html#Altgriechisch">Altgriechisch (2)</a></li>
+                        <li><a href="sturm-languages.html#Hebraeisch">Hebräisch (2)</a></li>
+                        <li><a href="sturm-languages.html#Italienisch">Italienisch (14)</a></li>
+                        <li><a href="sturm-languages.html#Latein">Latein (117)</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="sturm-placeName.html">Orte<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="sturm-placeName.html">Seitenanfang</a></li>
+                        <li><a href="sturm-placeName.html#AltdorfbeiNuernberg">Altdorf bei Nürnberg (2)</a></li>
+                        <li><a href="sturm-placeName.html#Altenburg">Altenburg (1)</a></li>
+                        <li><a href="sturm-placeName.html#Amsterdam">Amsterdam (38)</a></li>
+                        <li><a href="sturm-placeName.html#Antwerpen">Antwerpen (4)</a></li>
+                        <li><a href="sturm-placeName.html#Arnheim">Arnheim (1)</a></li>
+                        <li><a href="sturm-placeName.html#Augsburg">Augsburg (7)</a></li>
+                        <li><a href="sturm-placeName.html#Bamberg">Bamberg (1)</a></li>
+                        <li><a href="sturm-placeName.html#Basel">Basel (3)</a></li>
+                        <li><a href="sturm-placeName.html#Berlin">Berlin (3)</a></li>
+                        <li><a href="sturm-placeName.html#Bologna">Bologna (3)</a></li>
+                        <li><a href="sturm-placeName.html#Braunschweig">Braunschweig (2)</a></li>
+                        <li><a href="sturm-placeName.html#Breslau">Breslau (1)</a></li>
+                        <li><a href="sturm-placeName.html#Bruessel">Brüssel (1)</a></li>
+                        <li><a href="sturm-placeName.html#Coburg">Coburg (2)</a></li>
+                        <li><a href="sturm-placeName.html#Danzig">Danzig (3)</a></li>
+                        <li><a href="sturm-placeName.html#DenHaag">Den Haag (5)</a></li>
+                        <li><a href="sturm-placeName.html#Dresden">Dresden (1)</a></li>
+                        <li><a href="sturm-placeName.html#Florenz">Florenz (2)</a></li>
+                        <li><a href="sturm-placeName.html#FramkfurtamMain">Framkfurt am Main (1)</a></li>
+                        <li><a href="sturm-placeName.html#FranfurtamMain">Franfurt am Main (4)</a></li>
+                        <li><a href="sturm-placeName.html#FranfurtanderOder">Franfurt an der Oder (2)</a></li>
+                        <li><a href="sturm-placeName.html#FranfurtanOder">Franfurt an Oder (1)</a></li>
+                        <li><a href="sturm-placeName.html#Frankfurt(Oder)">Frankfurt (Oder) (1)</a></li>
+                        <li><a href="sturm-placeName.html#FrankfurtamMain">Frankfurt am Main (26)</a></li>
+                        <li><a href="sturm-placeName.html#FrankfurtanderOder">Frankfurt an der Oder (3)</a></li>
+                        <li><a href="sturm-placeName.html#Frankfurt/M.">Frankfurt/M. (2)</a></li>
+                        <li><a href="sturm-placeName.html#Genf">Genf (4)</a></li>
+                        <li><a href="sturm-placeName.html#Groningen">Groningen (1)</a></li>
+                        <li><a href="sturm-placeName.html#Halle(Saale)">Halle (Saale) (2)</a></li>
+                        <li><a href="sturm-placeName.html#Hamburg">Hamburg (16)</a></li>
+                        <li><a href="sturm-placeName.html#Hanau">Hanau (1)</a></li>
+                        <li><a href="sturm-placeName.html#Hannover">Hannover (1)</a></li>
+                        <li><a href="sturm-placeName.html#Heidelberg">Heidelberg (1)</a></li>
+                        <li><a href="sturm-placeName.html#Helmstedt">Helmstedt (4)</a></li>
+                        <li><a href="sturm-placeName.html#Husum">Husum (1)</a></li>
+                        <li><a href="sturm-placeName.html#Jena">Jena (4)</a></li>
+                        <li><a href="sturm-placeName.html#Kopenhagen">Kopenhagen (1)</a></li>
+                        <li><a href="sturm-placeName.html#Koeln">Köln (2)</a></li>
+                        <li><a href="sturm-placeName.html#Leeuwarden">Leeuwarden (1)</a></li>
+                        <li><a href="sturm-placeName.html#Leiden">Leiden (5)</a></li>
+                        <li><a href="sturm-placeName.html#Leipzig">Leipzig (25)</a></li>
+                        <li><a href="sturm-placeName.html#Ljubljana">Ljubljana (1)</a></li>
+                        <li><a href="sturm-placeName.html#London">London (3)</a></li>
+                        <li><a href="sturm-placeName.html#Lyon">Lyon (4)</a></li>
+                        <li><a href="sturm-placeName.html#Mailand">Mailand (2)</a></li>
+                        <li><a href="sturm-placeName.html#Mainz">Mainz (1)</a></li>
+                        <li><a href="sturm-placeName.html#Muenchen">München (1)</a></li>
+                        <li><a href="sturm-placeName.html#Neapel">Neapel (1)</a></li>
+                        <li><a href="sturm-placeName.html#Nuernberg">Nürnberg (36)</a></li>
+                        <li><a href="sturm-placeName.html#Oels">Oels (1)</a></li>
+                        <li><a href="sturm-placeName.html#Oppenheim">Oppenheim (3)</a></li>
+                        <li><a href="sturm-placeName.html#Oxford">Oxford (3)</a></li>
+                        <li><a href="sturm-placeName.html#Paris">Paris (20)</a></li>
+                        <li><a href="sturm-placeName.html#Pitschen">Pitschen (1)</a></li>
+                        <li><a href="sturm-placeName.html#Ratzeburg">Ratzeburg (1)</a></li>
+                        <li><a href="sturm-placeName.html#Regensburg">Regensburg (2)</a></li>
+                        <li><a href="sturm-placeName.html#Rom">Rom (5)</a></li>
+                        <li><a href="sturm-placeName.html#Rouen">Rouen (1)</a></li>
+                        <li><a href="sturm-placeName.html#Schleswig">Schleswig (1)</a></li>
+                        <li><a href="sturm-placeName.html#Schwerin">Schwerin (1)</a></li>
+                        <li><a href="sturm-placeName.html#Stendal">Stendal (1)</a></li>
+                        <li><a href="sturm-placeName.html#Strassburg">Straßburg (7)</a></li>
+                        <li><a href="sturm-placeName.html#Sulzbach">Sulzbach (2)</a></li>
+                        <li><a href="sturm-placeName.html#Tortona">Tortona (1)</a></li>
+                        <li><a href="sturm-placeName.html#Turin">Turin (1)</a></li>
+                        <li><a href="sturm-placeName.html#Ulm">Ulm (4)</a></li>
+                        <li><a href="sturm-placeName.html#Utrecht">Utrecht (1)</a></li>
+                        <li><a href="sturm-placeName.html#Venedig">Venedig (3)</a></li>
+                        <li><a href="sturm-placeName.html#Wesel">Wesel (1)</a></li>
+                        <li><a href="sturm-placeName.html#Wien">Wien (1)</a></li>
+                        <li><a href="sturm-placeName.html#Wittenberg">Wittenberg (2)</a></li>
+                        <li><a href="sturm-placeName.html#Wolfenbuettel">Wolfenbüttel (3)</a></li>
+                        <li><a href="sturm-placeName.html#Wuerzburg">Würzburg (5)</a></li>
+                        <li><a href="sturm-placeName.html#s.l.">s. l. (2)</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="sturm-format.html">Formate<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="sturm-format.html">Seitenanfang</a></li>
+                        <li><a href="sturm-format.html#2°">2° (148)</a></li>
+                        <li><a href="sturm-format.html#4°">4° (140)</a></li>
+                        <li><a href="sturm-format.html#8°">8° (133)</a></li>
+                        <li><a href="sturm-format.html#12°">12° (81)</a></li>
+                        <li><a href="sturm-format.html#ohneAngabe">ohne Angabe (9)</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="sturm-systemManifestation.html">Nachweise<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="sturm-systemManifestation.html">Seitenanfang</a></li>
+                        <li><a href="sturm-systemManifestation.html#K10plus">K10plus (395)</a></li>
+                        <li><a href="sturm-systemManifestation.html#STCN">STCN (1)</a></li>
+                        <li><a href="sturm-systemManifestation.html#VD17">VD17 (14)</a></li>
+                        <li><a href="sturm-systemManifestation.html#ohneKategorie">ohne Kategorie (101)</a></li>
+                    </ul>
+                </li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right" style="padding-right:15px">
+                <li class="dropdown">
+	                <a class="dropdown-toggle" data-toggle="dropdown" href="#"><span class="glyphicon glyphicon-picture"></span> Visualisierung<span class="caret"></span></a>
+	                <ul class="dropdown-menu">
+		                <li><a href="sturm-wordCloud.html" title="Wortwolken">Word Clouds</a></li>
+		                <li><a href="sturm-doughnut.html" title="Kreisdiagramme">Kreisdiagramme</a></li>
+				
+		                <li><a href="https://geobrowser.de.dariah.eu/?csv1=http://geobrowser.de.dariah.eu./storage/804678&currentStatus=mapChanged=Historical+map+of+1715" target="_blank" title="Druckorte in Kartenansicht">GeoBrowser</a></li>
+	                </ul>
+                </li>
+            </ul>
+        </nav>
+        <div class="container" style="min-height:600px;">
+
+			<script>
+	var subjects = '[{\"text\":\"\\u00dcberschrift?\",\"weight\":37},{\"text\":\"Astronomie\",\"weight\":18},{\"text\":\"Mathematik\",\"weight\":18},{\"text\":\"Mechanik\",\"weight\":17},{\"text\":\"Geographie\",\"weight\":14},{\"text\":\"Architektur\",\"weight\":13},{\"text\":\"Topographie\",\"weight\":10},{\"text\":\"Geometrie\",\"weight\":8},{\"text\":\"Physik\",\"weight\":7},{\"text\":\"Optik\",\"weight\":7},{\"text\":\"Alchemie\",\"weight\":7},{\"text\":\"Kriegskunde\",\"weight\":5},{\"text\":\"Festungsbau\",\"weight\":4},{\"text\":\"Astrologie\",\"weight\":3},{\"text\":\"Chiromantie\",\"weight\":2},{\"text\":\"Geldwesen\",\"weight\":2},{\"text\":\"Theologie\",\"weight\":2},{\"text\":\"Chemie\",\"weight\":2},{\"text\":\"Anatomie\",\"weight\":1},{\"text\":\"\\u00c4sthetik\",\"weight\":1},{\"text\":\"Zoologie\",\"weight\":1},{\"text\":\"Altertumskunde\",\"weight\":1},{\"text\":\"Sprachen\",\"weight\":1},{\"text\":\"Sprache\",\"weight\":1},{\"text\":\"Praktische Geometrie\",\"weight\":1},{\"text\":\"Artilleriehandwerk\",\"weight\":1},{\"text\":\"Botanik\",\"weight\":1},{\"text\":\"Medizin\",\"weight\":1},{\"text\":\"Magnetismus\",\"weight\":1},{\"text\":\"Anleitung\",\"weight\":1},{\"text\":\"Fischkunde (Ichthyologie)\\nBiologie\\/Zoologie\",\"weight\":1},{\"text\":\"Landwirtschaft\",\"weight\":1},{\"text\":\"Kriegskunst\",\"weight\":1},{\"text\":\"Astronmie\",\"weight\":1},{\"text\":\"Jurisprudenz\",\"weight\":1},{\"text\":\"Italienisch-Deutsch\",\"weight\":1},{\"text\":\"Handwerksrecht\",\"weight\":1},{\"text\":\"Geometire\",\"weight\":1},{\"text\":\"Geologie\",\"weight\":1},{\"text\":\"Architektur, Geometrie\",\"weight\":1},{\"text\":\"Gartenbau\",\"weight\":1},{\"text\":\"\\nGeometrie\",\"weight\":1}]';
+		var genres = '[{\"text\":\"Reisebericht\",\"weight\":18},{\"text\":\"Ordensliteratur:Jesuiten\",\"weight\":12},{\"text\":\"Chronik\",\"weight\":6},{\"text\":\"Traktat\",\"weight\":4},{\"text\":\"Wissenskompendium\",\"weight\":3},{\"text\":\"Lehrbuch\",\"weight\":3},{\"text\":\"W\\u00f6rterbuch\",\"weight\":2},{\"text\":\"Festungsbau\",\"weight\":2},{\"text\":\"Kriegskunde\",\"weight\":2},{\"text\":\"Kalender\",\"weight\":2},{\"text\":\"Gebetbuch\",\"weight\":2},{\"text\":\"Schulbuch\",\"weight\":2},{\"text\":\"Lexikon\",\"weight\":2},{\"text\":\"Erbauungsliteratur\",\"weight\":2},{\"text\":\"Biographie\",\"weight\":2},{\"text\":\"Wappenbuch\",\"weight\":2},{\"text\":\"Dissertationensammlung\",\"weight\":2},{\"text\":\"Topographie\",\"weight\":2},{\"text\":\"Atlas\",\"weight\":2},{\"text\":\"Ordensliteratur: Jesuiten\",\"weight\":1},{\"text\":\"Ordensliteratur:Kapuziner\",\"weight\":1},{\"text\":\"Pflanzenbuch\",\"weight\":1},{\"text\":\"Portr\\u00e4twerk\",\"weight\":1},{\"text\":\"Streitschrift\",\"weight\":1},{\"text\":\"Predigtsammlung\",\"weight\":1},{\"text\":\"Theatrum Machinarum\",\"weight\":1},{\"text\":\"Streitschrift:theol.\",\"weight\":1},{\"text\":\"Reisef\\u00fchrer\",\"weight\":1},{\"text\":\"Nachschlagewerk\",\"weight\":1},{\"text\":\"Sprach- und W\\u00f6rterbuch\",\"weight\":1},{\"text\":\" Topographie\",\"weight\":1},{\"text\":\"Mechanische K\\u00fcnste(Wissenskompendium)\",\"weight\":1},{\"text\":\"Fischereizucht und Teichkunde\",\"weight\":1},{\"text\":\"Alterumskunde\",\"weight\":1},{\"text\":\"Anleitung\",\"weight\":1},{\"text\":\"Ars moriendi\",\"weight\":1},{\"text\":\"Astronomie\",\"weight\":1},{\"text\":\"Buchbinderanweisung\",\"weight\":1},{\"text\":\"Dissertation:theol.\",\"weight\":1},{\"text\":\"Emblembuch\",\"weight\":1},{\"text\":\"Frauenliteratur\",\"weight\":1},{\"text\":\"Kriegskunst\",\"weight\":1},{\"text\":\"F\\u00fchrer\",\"weight\":1},{\"text\":\"Gelegenheitsschrift:Kr\\u00f6nung\",\"weight\":1},{\"text\":\"Handbuch\",\"weight\":1},{\"text\":\"Itinerar\",\"weight\":1},{\"text\":\"Katalog\",\"weight\":1},{\"text\":\"Kommentar: jur.\",\"weight\":1},{\"text\":\"Alchemie\",\"weight\":1},{\"text\":\"Kommentar: theol.\",\"weight\":1}]';
+		var persName = '[{\"text\":\"Leonhard Christoph Sturm\",\"weight\":10,\"link\":\"sturm-persName.html#person117364177\"},{\"text\":\"Olfert Dapper\",\"weight\":6,\"link\":\"sturm-persName.html#person119068788\"},{\"text\":\"Kaspar Schott\",\"weight\":5,\"link\":\"sturm-persName.html#person121882128\"},{\"text\":\"Fran\\u00e7ois Blondel\",\"weight\":4,\"link\":\"sturm-persName.html#person117627666\"},{\"text\":\"Georg Andreas B\\u00f6ckler\",\"weight\":4,\"link\":\"sturm-persName.html#person118660535\"},{\"text\":\"Christoph Heidemann\",\"weight\":3,\"link\":\"sturm-persName.html#person116604824\"},{\"text\":\"Johann Christoph Sturm\",\"weight\":3,\"link\":\"sturm-persName.html#person100277608\"},{\"text\":\"Athanasius Kircher\",\"weight\":3,\"link\":\"sturm-persName.html#person118562347\"},{\"text\":\"Giovanni Battista Riccioli\",\"weight\":3,\"link\":\"sturm-persName.html#person124081428\"},{\"text\":\"Vitruvius\",\"weight\":3,\"link\":\"sturm-persName.html#person118627252\"},{\"text\":\"Hermann Conring\",\"weight\":3,\"link\":\"sturm-persName.html#person11852190X\"},{\"text\":\"Christiaan Huygens\",\"weight\":3,\"link\":\"sturm-persName.html#person118639749\"},{\"text\":\"Nicolas Gauger\",\"weight\":2},{\"text\":\"Samuel von Pufendorf\",\"weight\":2,\"link\":\"sturm-persName.html#person118597051\"},{\"text\":\"Andreas Schottus\",\"weight\":2,\"link\":\"sturm-persName.html#person117015415\"},{\"text\":\"Georg Paul H\\u00f6nn\",\"weight\":2,\"link\":\"sturm-persName.html#person124256813\"},{\"text\":\"Johann Adolf Tassius\",\"weight\":2,\"link\":\"sturm-persName.html#person128352035\"},{\"text\":\"Ismael Boulliau\",\"weight\":2,\"link\":\"sturm-persName.html#person119277379\"},{\"text\":\"Tycho Brahe\",\"weight\":2,\"link\":\"sturm-persName.html#person118514237\"},{\"text\":\"Philipp Cl\\u00fcver\",\"weight\":2,\"link\":\"sturm-persName.html#person119150867\"},{\"text\":\"Johannes Buno\",\"weight\":2,\"link\":\"sturm-persName.html#person117156698\"},{\"text\":\"Filippo Buonanni\",\"weight\":2,\"link\":\"sturm-persName.html#person119470241\"},{\"text\":\"Christoph Leonhard Sturm\",\"weight\":2},{\"text\":\"Aegidius Strauch\",\"weight\":2,\"link\":\"sturm-persName.html#person117311421\"},{\"text\":\"Balthasar Mentzer\",\"weight\":2,\"link\":\"sturm-persName.html#person116885971\"},{\"text\":\"Christoph Cellarius\",\"weight\":2,\"link\":\"sturm-persName.html#person116479914\"},{\"text\":\"Christoph Weigel\",\"weight\":2,\"link\":\"sturm-persName.html#person118630067\"},{\"text\":\"Johann Joachim Becher\",\"weight\":2,\"link\":\"sturm-persName.html#person118507923\"},{\"text\":\"Wilhelm Dilich\",\"weight\":2,\"link\":\"sturm-persName.html#person119100754\"},{\"text\":\"Robert Fludd\",\"weight\":2,\"link\":\"sturm-persName.html#person118684043\"},{\"text\":\"Johannes Kepler\",\"weight\":2,\"link\":\"sturm-persName.html#person118561448\"},{\"text\":\"John Wallis\",\"weight\":2,\"link\":\"sturm-persName.html#person118771167\"},{\"text\":\"Benito Arias Montano\",\"weight\":2,\"link\":\"sturm-persName.html#person119049392\"},{\"text\":\"Heinrich Zeising\",\"weight\":2,\"link\":\"sturm-persName.html#person1157481914\"},{\"text\":\"Gottfried Arnold\",\"weight\":2,\"link\":\"sturm-persName.html#person118650386\"},{\"text\":\"Hieronymus Megiser\",\"weight\":2,\"link\":\"sturm-persName.html#person116992514\"},{\"text\":\"Augustin-Charles d\' Aviler\",\"weight\":2,\"link\":\"sturm-persName.html#person119547961\"},{\"text\":\"Johann Bayer\",\"weight\":2,\"link\":\"sturm-persName.html#person128657588\"},{\"text\":\"Vincenzo Scamozzi\",\"weight\":2,\"link\":\"sturm-persName.html#person118794817\"},{\"text\":\"Charles de Rochefort\",\"weight\":1},{\"text\":\"Justus Gotthart Rabener\",\"weight\":1,\"link\":\"sturm-persName.html#person118074067\"},{\"text\":\"Nikolaus Peters\",\"weight\":1,\"link\":\"sturm-persName.html#person128717890\"},{\"text\":\"Matthias Peters\",\"weight\":1,\"link\":\"sturm-persName.html#person128717912\"},{\"text\":\"Francesco Petrarca\",\"weight\":1},{\"text\":\"Jacques Rohault\",\"weight\":1,\"link\":\"sturm-persName.html#person118790943\"},{\"text\":\"Johannes Rosinus\",\"weight\":1,\"link\":\"sturm-persName.html#person117595640\"},{\"text\":\"Johanna Eleonora Petersen\",\"weight\":1,\"link\":\"sturm-persName.html#person119129787\"},{\"text\":\"Samuel Pitiscus\",\"weight\":1,\"link\":\"sturm-persName.html#person116192909\"},{\"text\":\"Carlo Rinaldini\",\"weight\":1,\"link\":\"sturm-persName.html#person130008583\"},{\"text\":\"Johann Baptist Renz\",\"weight\":1,\"link\":\"sturm-persName.html#person104226447\"},{\"text\":\"Theodorus Phytologus\",\"weight\":1,\"link\":\"sturm-persName.html#person128933828\"},{\"text\":\"Jean Picard\",\"weight\":1,\"link\":\"sturm-persName.html#person11900643X\"},{\"text\":\"Fran\\u00e7ois Pomey\",\"weight\":1,\"link\":\"sturm-persName.html#person120368927\"},{\"text\":\"Constantin de Renneville\",\"weight\":1,\"link\":\"sturm-persName.html#person104069368\"},{\"text\":\"Jacob Friedrich Reimmann\",\"weight\":1,\"link\":\"sturm-persName.html#person118599291\"},{\"text\":\"Andrea Pozzo\",\"weight\":1,\"link\":\"sturm-persName.html#person118741691\"},{\"text\":\"Jean Prestet\",\"weight\":1,\"link\":\"sturm-persName.html#person124654169\"},{\"text\":\"Heinrich Rantzau\",\"weight\":1,\"link\":\"sturm-persName.html#person11898716X\"},{\"text\":\"Denis Petau\",\"weight\":1,\"link\":\"sturm-persName.html#person118592920\"},{\"text\":\"Johann Friedrich P\\u00f6pping\",\"weight\":1},{\"text\":\"Kaspar Abel\",\"weight\":1,\"link\":\"sturm-persName.html#person116001739\"},{\"text\":\"Andrea Palladio\",\"weight\":1,\"link\":\"sturm-persName.html#person118591355\"},{\"text\":\"John Perry\",\"weight\":1,\"link\":\"sturm-persName.html#person132006294\"},{\"text\":\"Alain Manesson-Mallet\",\"weight\":1},{\"text\":\"Jean Menudier\",\"weight\":1,\"link\":\"sturm-persName.html#person12837862X\"},{\"text\":\"Johannes Mejer\",\"weight\":1,\"link\":\"sturm-persName.html#person119115255\"},{\"text\":\"Johann Joachim Mecken\",\"weight\":1,\"link\":\"sturm-persName.html#person115429271\"},{\"text\":\"Th\\u00e9odore Turquet de Mayerne\",\"weight\":1,\"link\":\"sturm-persName.html#person115667156\"},{\"text\":\"Martino Martini\",\"weight\":1,\"link\":\"sturm-persName.html#person11925476X\"},{\"text\":\"Caspar Manz\",\"weight\":1,\"link\":\"sturm-persName.html#person122673409\"},{\"text\":\"Johann Heinrich Majus\",\"weight\":1,\"link\":\"sturm-persName.html#person104104139\"},{\"text\":\"Jacob van Meurs\",\"weight\":1,\"link\":\"sturm-persName.html#person123414245\"},{\"text\":\"Joachim Johann Mader\",\"weight\":1,\"link\":\"sturm-persName.html#person104282215\"},{\"text\":\"Joannes Luyts\",\"weight\":1},{\"text\":\"Stanis\\u0142aw Lubieniecki\",\"weight\":1,\"link\":\"sturm-persName.html#person119357100\"},{\"text\":\"Christian S\\u00f8rensen Longomontanus\",\"weight\":1},{\"text\":\"Christen S\\u00f8rensen Longomontanus\",\"weight\":1,\"link\":\"sturm-persName.html#person100811698\"},{\"text\":\"Gottfried Lomer\",\"weight\":1,\"link\":\"sturm-persName.html#person120832623\"},{\"text\":\"Matthaeus der \\u00c4ltere Merian\",\"weight\":1,\"link\":\"sturm-persName.html#person118581090\"},{\"text\":\"Michael Mieth\",\"weight\":1,\"link\":\"sturm-persName.html#person124653863\"},{\"text\":\"Claude Perrault\",\"weight\":1,\"link\":\"sturm-persName.html#person118740016\"},{\"text\":\"Jacques Ozanam\",\"weight\":1},{\"text\":\"Jacob Peeters\",\"weight\":1,\"link\":\"sturm-persName.html#person122180437\"},{\"text\":\"Simon Paulli\",\"weight\":1,\"link\":\"sturm-persName.html#person124150993\"},{\"text\":\"Onofrio Panvinio\",\"weight\":1,\"link\":\"sturm-persName.html#person119421488\"},{\"text\":\"Emanuel Philibertus Panealbus\",\"weight\":1,\"link\":\"sturm-persName.html#person1157744648\"},{\"text\":\"Peter Paul Rubens\",\"weight\":1,\"link\":\"sturm-persName.html#person11860354X\"},{\"text\":\"Sante Pagnini\",\"weight\":1,\"link\":\"sturm-persName.html#person129272485\"},{\"text\":\"Adam Olearius\",\"weight\":1,\"link\":\"sturm-persName.html#person118736256\"},{\"text\":\"Jean Monier de Claire-Combe\",\"weight\":1,\"link\":\"sturm-persName.html#person1157661777\"},{\"text\":\"Constantijn Nobel\",\"weight\":1,\"link\":\"sturm-persName.html#person12878217X\"},{\"text\":\"Joan Nieuhof\",\"weight\":1,\"link\":\"sturm-persName.html#person118511157\"},{\"text\":\"Isaac Newton\",\"weight\":1,\"link\":\"sturm-persName.html#person118587544\"},{\"text\":\"Henry More\",\"weight\":1},{\"text\":\"Petrus Montanus\",\"weight\":1,\"link\":\"sturm-persName.html#person103122516\"},{\"text\":\"Arnoldus Montanus\",\"weight\":1,\"link\":\"sturm-persName.html#person123960088\"},{\"text\":\"Donato Rossetti\",\"weight\":1,\"link\":\"sturm-persName.html#person119513307\"},{\"text\":\"Christoph Raymund Schifflin\",\"weight\":1,\"link\":\"sturm-persName.html#person117233439\"},{\"text\":\"Rudolf, II., Heiliges R\\u00f6misches Reich, Kaiser\",\"weight\":1,\"link\":\"sturm-persName.html#person118603701\"},{\"text\":\"Andreas Vesalius\",\"weight\":1},{\"text\":\"Paolo Maria Terzago\",\"weight\":1,\"link\":\"sturm-persName.html#person117616214\"},{\"text\":\"Emanuele Tesauro\",\"weight\":1,\"link\":\"sturm-persName.html#person118756508\"},{\"text\":\"Henri Testelin\",\"weight\":1,\"link\":\"sturm-persName.html#person104045043\"},{\"text\":\"Jean de Thevenot\",\"weight\":1,\"link\":\"sturm-persName.html#person121201708\"},{\"text\":\"Christian Thomasius\",\"weight\":1,\"link\":\"sturm-persName.html#person11862220X\"},{\"text\":\"Simon Thomassin\",\"weight\":1,\"link\":\"sturm-persName.html#person122076419\"},{\"text\":\"Filippo Titi\",\"weight\":1,\"link\":\"sturm-persName.html#person134081404\"},{\"text\":\"Carlo Torre\",\"weight\":1},{\"text\":\"Salomon Trismosin\",\"weight\":1,\"link\":\"sturm-persName.html#person128850744\"},{\"text\":\"Johann Georg Tucher\",\"weight\":1,\"link\":\"sturm-persName.html#person130424471\"},{\"text\":\"Johann Weikhard von Valvasor\",\"weight\":1,\"link\":\"sturm-persName.html#person118764071\"},{\"text\":\"Amatus Varcin\",\"weight\":1,\"link\":\"sturm-persName.html#person1055548394\"},{\"text\":\"Giorgio Vasari\",\"weight\":1},{\"text\":\"S\\u00e9bastien Le Prestre de Vauban\",\"weight\":1,\"link\":\"sturm-persName.html#person118626264\"},{\"text\":\"Daniel Voet\",\"weight\":1,\"link\":\"sturm-persName.html#person128485973\"},{\"text\":\"Jean Taisnier\",\"weight\":1,\"link\":\"sturm-persName.html#person115594582\"},{\"text\":\"Johann Hermann Widerhold\",\"weight\":1,\"link\":\"sturm-persName.html#person12441995X\"},{\"text\":\"Philipp Ziegler\",\"weight\":1,\"link\":\"sturm-persName.html#person124945082\"},{\"text\":\"Philipp von Zesen\",\"weight\":1,\"link\":\"sturm-persName.html#person118636596\"},{\"text\":\"Martin Zeiller\",\"weight\":1,\"link\":\"sturm-persName.html#person118772392\"},{\"text\":\"Johannes Zahn\",\"weight\":1,\"link\":\"sturm-persName.html#person119369826\"},{\"text\":\"Christian von Wolff\",\"weight\":1,\"link\":\"sturm-persName.html#person118634771\"},{\"text\":\"Johann Wilhelm\",\"weight\":1,\"link\":\"sturm-persName.html#person124597696\"},{\"text\":\"Barthold Wichers\",\"weight\":1,\"link\":\"sturm-persName.html#person141972246\"},{\"text\":\"Hans Carl von Carlowitz\",\"weight\":1},{\"text\":\"George Wheler\",\"weight\":1,\"link\":\"sturm-persName.html#person128378565\"},{\"text\":\"Eberhard Welper\",\"weight\":1,\"link\":\"sturm-persName.html#person124374360\"},{\"text\":\"Giovan Christoforo Wartis\",\"weight\":1,\"link\":\"sturm-persName.html#person1036491005\"},{\"text\":\"Seth Ward\",\"weight\":1,\"link\":\"sturm-persName.html#person117565792\"},{\"text\":\"Hans Vredeman de Vries\",\"weight\":1,\"link\":\"sturm-persName.html#person118805797\"},{\"text\":\"Gerardus Joannes Vossius\",\"weight\":1,\"link\":\"sturm-persName.html#person118805746\"},{\"text\":\"Jean-Baptiste Tavernier\",\"weight\":1,\"link\":\"sturm-persName.html#person117248339\"},{\"text\":\"Emanuel Sweerts\",\"weight\":1,\"link\":\"sturm-persName.html#person124331785\"},{\"text\":\"Nicolaes Ryckmans\",\"weight\":1,\"link\":\"sturm-persName.html#person135560802\"},{\"text\":\"Georg Schreiber\",\"weight\":1,\"link\":\"sturm-persName.html#person128709715\"},{\"text\":\"Georg Paul R\\u00f6tenbeck\",\"weight\":1,\"link\":\"sturm-persName.html#person116595949\"},{\"text\":\"Joachim von Sandrart\",\"weight\":1,\"link\":\"sturm-persName.html#person118794396\"},{\"text\":\"Johann Jakob von Sandrart\",\"weight\":1},{\"text\":\"Nicolas Sanson\",\"weight\":1,\"link\":\"sturm-persName.html#person12360978X\"},{\"text\":\"Pompeo Sarnelli\",\"weight\":1},{\"text\":\"Joseph Juste Scaliger\",\"weight\":1,\"link\":\"sturm-persName.html#person118804944\"},{\"text\":\"Pietro Francesco Scarabelli\",\"weight\":1,\"link\":\"sturm-persName.html#person1055114920\"},{\"text\":\"Joachim Schaum\",\"weight\":1,\"link\":\"sturm-persName.html#person121460851\"},{\"text\":\"Johann Bernhard von Scheither\",\"weight\":1,\"link\":\"sturm-persName.html#person124753558\"},{\"text\":\"Peter Schenck\",\"weight\":1},{\"text\":\"Justus Lipsius\",\"weight\":1,\"link\":\"sturm-persName.html#person11857342X\"},{\"text\":\"Gregor Andreas Schmidt\",\"weight\":1,\"link\":\"sturm-persName.html#person128559098\"},{\"text\":\"Marten Schoock\",\"weight\":1,\"link\":\"sturm-persName.html#person118945777\"},{\"text\":\"Erasmus Oswald Schreckenfuchs\",\"weight\":1,\"link\":\"sturm-persName.html#person119824469\"},{\"text\":\"Wilhelm von Schr\\u00f6der\",\"weight\":1,\"link\":\"sturm-persName.html#person118795473\"},{\"text\":\"Daniel Suttinger\",\"weight\":1,\"link\":\"sturm-persName.html#person118999478\"},{\"text\":\"Johann Theodor Sprenger\",\"weight\":1,\"link\":\"sturm-persName.html#person123479851\"},{\"text\":\"Pierre Surirey de Saint-Remy\",\"weight\":1,\"link\":\"sturm-persName.html#person1050460731\"},{\"text\":\"Sturm. Leonhard Christoph\",\"weight\":1},{\"text\":\"Thomas Streete\",\"weight\":1,\"link\":\"sturm-persName.html#person100475582\"},{\"text\":\"Jan Stoje\\u0144ski\",\"weight\":1,\"link\":\"sturm-persName.html#person132741784\"},{\"text\":\"Tobias Stimmer\",\"weight\":1,\"link\":\"sturm-persName.html#person118755366\"},{\"text\":\"Johann Peterson Stengel\",\"weight\":1,\"link\":\"sturm-persName.html#person129541087\"},{\"text\":\"Jacob Spon\",\"weight\":1,\"link\":\"sturm-persName.html#person119228998\"},{\"text\":\"Salomon Schweigger\",\"weight\":1,\"link\":\"sturm-persName.html#person117653772\"},{\"text\":\"Daniel Specklin\",\"weight\":1,\"link\":\"sturm-persName.html#person118751808\"},{\"text\":\"Heinrich Siver\",\"weight\":1,\"link\":\"sturm-persName.html#person115531335\"},{\"text\":\"Kazimierz Siemienowicz\",\"weight\":1,\"link\":\"sturm-persName.html#person128752696\"},{\"text\":\"Johann Christian Seyler\",\"weight\":1,\"link\":\"sturm-persName.html#person124962483\"},{\"text\":\"Lucius Annaeus (Philosophus) Seneca\",\"weight\":1,\"link\":\"sturm-persName.html#person118613200\"},{\"text\":\"Veit Ludwig von Seckendorff\",\"weight\":1,\"link\":\"sturm-persName.html#person118760343\"},{\"text\":\"Nicolaas Listingh\",\"weight\":1,\"link\":\"sturm-persName.html#person1055693807\"},{\"text\":\"Robert Knox\",\"weight\":1,\"link\":\"sturm-persName.html#person121067173\"},{\"text\":\"Gottfried Wilhelm Leibniz\",\"weight\":1,\"link\":\"sturm-persName.html#person118571249\"},{\"text\":\"Gerolamo Cardano\",\"weight\":1},{\"text\":\"Andreas Cellarius\",\"weight\":1,\"link\":\"sturm-persName.html#person12487830X\"},{\"text\":\"William Cave\",\"weight\":1},{\"text\":\"Jacob Cats\",\"weight\":1,\"link\":\"sturm-persName.html#person119442027\"},{\"text\":\"John Caswell\",\"weight\":1,\"link\":\"sturm-persName.html#person102486491X\"},{\"text\":\"Otto Casmann\",\"weight\":1,\"link\":\"sturm-persName.html#person122548922\"},{\"text\":\"Paolo Casati\",\"weight\":1,\"link\":\"sturm-persName.html#person117647993\"},{\"text\":\"Rudolf Capell\",\"weight\":1,\"link\":\"sturm-persName.html#person122898613\"},{\"text\":\"Ch\\u00e9rubin d\'Orl\\u00e9ans\",\"weight\":1,\"link\":\"sturm-persName.html#person100810551\"},{\"text\":\"Sethus Calvisius\",\"weight\":1,\"link\":\"sturm-persName.html#person11643290X\"},{\"text\":\"Friedrich Ulrich Calixt\",\"weight\":1,\"link\":\"sturm-persName.html#person104279893\"},{\"text\":\"Anton Wilhelm B\\u00f6hm\",\"weight\":1,\"link\":\"sturm-persName.html#person118904159\"},{\"text\":\"Antonio Bulifon\",\"weight\":1,\"link\":\"sturm-persName.html#person100062903\"},{\"text\":\"Johann Siegmund Buchner\",\"weight\":1,\"link\":\"sturm-persName.html#person128720263\"},{\"text\":\"Johann Paul Buchner\",\"weight\":1,\"link\":\"sturm-persName.html#person120832380\"},{\"text\":\"\\u2026 Chastillon\",\"weight\":1,\"link\":\"sturm-persName.html#person104043733\"},{\"text\":\"Claudius Ptolem\\u00e4us\",\"weight\":1},{\"text\":\"Johann Theodor de Bry\",\"weight\":1},{\"text\":\"Maria Cunitz\",\"weight\":1,\"link\":\"sturm-persName.html#person128746777\"},{\"text\":\"Raffaelo Del Bruno\",\"weight\":1},{\"text\":\"Paul Decker\",\"weight\":1},{\"text\":\"Claude-Fran\\u00e7ois Milliet Dechales\",\"weight\":1,\"link\":\"sturm-persName.html#person128696346\"},{\"text\":\"Antoine de Ville\",\"weight\":1},{\"text\":\"Caspar Danckwerth\",\"weight\":1,\"link\":\"sturm-persName.html#person128718021\"},{\"text\":\"Thascius Caecilius Cyprianus\",\"weight\":1},{\"text\":\"Peter Cr\\u00fcger\",\"weight\":1,\"link\":\"sturm-persName.html#person124535062\"},{\"text\":\"Christoph Clavius\",\"weight\":1,\"link\":\"sturm-persName.html#person118880632\"},{\"text\":\"Philipp Jakob Croph\",\"weight\":1,\"link\":\"sturm-persName.html#person11674099X\"},{\"text\":\"Natale Conti\",\"weight\":1,\"link\":\"sturm-persName.html#person128918292\"},{\"text\":\"John Collins\",\"weight\":1,\"link\":\"sturm-persName.html#person119115700\"},{\"text\":\"Menno van Coehoorn\",\"weight\":1,\"link\":\"sturm-persName.html#person117691836\"},{\"text\":\"Johannes Coccejus\",\"weight\":1,\"link\":\"sturm-persName.html#person118676504\"},{\"text\":\"Samuel von Cocceji\",\"weight\":1,\"link\":\"sturm-persName.html#person119501600\"},{\"text\":\"August Buchner\",\"weight\":1,\"link\":\"sturm-persName.html#person118913859\"},{\"text\":\"Kaspar Brusch\",\"weight\":1,\"link\":\"sturm-persName.html#person118516345\"},{\"text\":\"Antoine Babuty Desgodets\",\"weight\":1,\"link\":\"sturm-persName.html#person125008406\"},{\"text\":\"Michel-Antoine Baudrand\",\"weight\":1,\"link\":\"sturm-persName.html#person124639089\"},{\"text\":\"Edward Bernard\",\"weight\":1,\"link\":\"sturm-persName.html#person116136731\"},{\"text\":\"Adrian Beier\",\"weight\":1,\"link\":\"sturm-persName.html#person116111909\"},{\"text\":\"Thomas Leonhard Beer\",\"weight\":1,\"link\":\"sturm-persName.html#person12875303X\"},{\"text\":\"Martin Beer\",\"weight\":1,\"link\":\"sturm-persName.html#person116108010\"},{\"text\":\"Johann Christoph Beer\",\"weight\":1,\"link\":\"sturm-persName.html#person118508261\"},{\"text\":\"Matthias Friedrich Beck\",\"weight\":1,\"link\":\"sturm-persName.html#person11566761X\"},{\"text\":\"Isaac Barrow\",\"weight\":1,\"link\":\"sturm-persName.html#person118963066\"},{\"text\":\"Petrus Bertius\",\"weight\":1,\"link\":\"sturm-persName.html#person117751235\"},{\"text\":\"Caspar Barlaeus\",\"weight\":1,\"link\":\"sturm-persName.html#person118859617\"},{\"text\":\"Daniele Matteo Alvise Barbaro\",\"weight\":1,\"link\":\"sturm-persName.html#person119046024\"},{\"text\":\"Pierre d\' Avity\",\"weight\":1},{\"text\":\"Antoine Arnauld\",\"weight\":1},{\"text\":\"J\\u00fcrgen Andersen\",\"weight\":1,\"link\":\"sturm-persName.html#person124816010\"},{\"text\":\"Andreas Albrecht\",\"weight\":1,\"link\":\"sturm-persName.html#person116279427\"},{\"text\":\"Johann Bernoulli\",\"weight\":1},{\"text\":\"Christoph Besold\",\"weight\":1,\"link\":\"sturm-persName.html#person119223473\"},{\"text\":\"Germain Brice\",\"weight\":1,\"link\":\"sturm-persName.html#person13365544X\"},{\"text\":\"Willem Bosman\",\"weight\":1},{\"text\":\"Friedrich Breckling\",\"weight\":1},{\"text\":\"Salomon de Bray\",\"weight\":1,\"link\":\"sturm-persName.html#person123667437\"},{\"text\":\"Claude Boutet\",\"weight\":1,\"link\":\"sturm-persName.html#person13862724X\"},{\"text\":\"\\u2026 Bouillet\",\"weight\":1},{\"text\":\"Samuel Bottschild\",\"weight\":1,\"link\":\"sturm-persName.html#person122718011\"},{\"text\":\"Abraham Bosse\",\"weight\":1,\"link\":\"sturm-persName.html#person118659413\"},{\"text\":\"Marco Boschini\",\"weight\":1,\"link\":\"sturm-persName.html#person119016036\"},{\"text\":\"Johann von Besser\",\"weight\":1,\"link\":\"sturm-persName.html#person11851024X\"},{\"text\":\"Ernst Friedrich von Borgsdorff\",\"weight\":1,\"link\":\"sturm-persName.html#person124438253\"},{\"text\":\"Giovanni Alfonso Borelli\",\"weight\":1,\"link\":\"sturm-persName.html#person118659359\"},{\"text\":\"Johann Leonhard Blank\",\"weight\":1,\"link\":\"sturm-persName.html#person118041835\"},{\"text\":\"Willem Janszoon Blaeu\",\"weight\":1,\"link\":\"sturm-persName.html#person118658972\"},{\"text\":\"Joan Blaeu\",\"weight\":1,\"link\":\"sturm-persName.html#person119054604\"},{\"text\":\"Anton Ernst Burckhard von Birckenstein\",\"weight\":1},{\"text\":\"Tobias Beutel\",\"weight\":1,\"link\":\"sturm-persName.html#person124645658\"},{\"text\":\"G\\u00e9rard Desargues\",\"weight\":1,\"link\":\"sturm-persName.html#person118671545\"},{\"text\":\"Antoine Deville\",\"weight\":1},{\"text\":\"Peter Ambrosius Lehmann\",\"weight\":1},{\"text\":\"Anselmus van Hulle\",\"weight\":1,\"link\":\"sturm-persName.html#person123989582\"},{\"text\":\"Antoine Jodin\",\"weight\":1},{\"text\":\"Alexis Hubert Jaillot\",\"weight\":1,\"link\":\"sturm-persName.html#person12900085X\"},{\"text\":\"Volquard Iversen\",\"weight\":1,\"link\":\"sturm-persName.html#person126791627\"},{\"text\":\"Evert Ysbrants Ides\",\"weight\":1,\"link\":\"sturm-persName.html#person12495877X\"},{\"text\":\"Johann H\\u00fcbner\",\"weight\":1,\"link\":\"sturm-persName.html#person118707701\"},{\"text\":\"Moritz Wilhelm H\\u00f6en\",\"weight\":1,\"link\":\"sturm-persName.html#person133298485\"},{\"text\":\"Anton Heinrich Horst\",\"weight\":1,\"link\":\"sturm-persName.html#person100925030\"},{\"text\":\"Kurprinz Joseph Ferdinand Bayern\",\"weight\":1,\"link\":\"sturm-persName.html#person11877641X\"},{\"text\":\"Pieter van Hoorn\",\"weight\":1,\"link\":\"sturm-persName.html#person128782072\"},{\"text\":\"Robert Hooke\",\"weight\":1,\"link\":\"sturm-persName.html#person118774883\"},{\"text\":\"Johann Heinrich Hofmann\",\"weight\":1,\"link\":\"sturm-persName.html#person1052497144\"},{\"text\":\"Johann Abraham Jacob Hoeping\",\"weight\":1,\"link\":\"sturm-persName.html#person124548334\"},{\"text\":\"Johannes Hevelius\",\"weight\":1,\"link\":\"sturm-persName.html#person119431416\"},{\"text\":\"Heinrich Hesse\",\"weight\":1},{\"text\":\"Kaiser Josep I. Heiliges R\\u00f6misches Reich\",\"weight\":1},{\"text\":\"Jan van Kampen\",\"weight\":1,\"link\":\"sturm-persName.html#person128782110\"},{\"text\":\"Quirin Heil\",\"weight\":1,\"link\":\"sturm-persName.html#person1037526562\"},{\"text\":\"Melchior K\\u00fcsel\",\"weight\":1,\"link\":\"sturm-persName.html#person121894274\"},{\"text\":\"Johann Lange\",\"weight\":1,\"link\":\"sturm-persName.html#person104270330\"},{\"text\":\"Ernst Lange\",\"weight\":1,\"link\":\"sturm-persName.html#person139612424\"},{\"text\":\"Friedrich Lanckisch\",\"weight\":1,\"link\":\"sturm-persName.html#person12403909X\"},{\"text\":\"Simon de La Loub\\u00e8re\",\"weight\":1},{\"text\":\"Philippe de La Hire\",\"weight\":1,\"link\":\"sturm-persName.html#person117573752\"},{\"text\":\"Guillaume Fran\\u00e7ois Antoine de L\'H\\u00f4pital\",\"weight\":1,\"link\":\"sturm-persName.html#person100814891\"},{\"text\":\"Johannes Kunckel\",\"weight\":1},{\"text\":\"K\\u00f6nig Karl Gustav X. Schweden\",\"weight\":1,\"link\":\"sturm-persName.html#person118720945\"},{\"text\":\"Johanna Sibylla Kraus\",\"weight\":1,\"link\":\"sturm-persName.html#person121894290\"},{\"text\":\"Matthias Kramer\",\"weight\":1,\"link\":\"sturm-persName.html#person104268018\"},{\"text\":\"Stanislaus Reinhard Acxtelmeier\",\"weight\":1,\"link\":\"sturm-persName.html#person122079566\"},{\"text\":\"Hendrik de Keyser\",\"weight\":1,\"link\":\"sturm-persName.html#person118777122\"},{\"text\":\"Pieter van der Keere\",\"weight\":1,\"link\":\"sturm-persName.html#person119377713\"},{\"text\":\"Kaiser Karl I. Heiliges R\\u00f6misches Reich\",\"weight\":1,\"link\":\"sturm-persName.html#person118560034\"},{\"text\":\"Christoph Herr\",\"weight\":1},{\"text\":\"Nicolas Hartsoeker\",\"weight\":1,\"link\":\"sturm-persName.html#person124799361\"},{\"text\":\"Johann Leonhard Dientzenhofer\",\"weight\":1,\"link\":\"sturm-persName.html#person119045850\"},{\"text\":\"Georg Christoph Eimmart\",\"weight\":1,\"link\":\"sturm-persName.html#person118956507\"},{\"text\":\"Nicolas de Fer\",\"weight\":1,\"link\":\"sturm-persName.html#person124536794\"},{\"text\":\"Pierre Jean Fabre\",\"weight\":1,\"link\":\"sturm-persName.html#person119262223\"},{\"text\":\"Basilius Faber\",\"weight\":1,\"link\":\"sturm-persName.html#person12444282X\"},{\"text\":\"Heinrich Ernst\",\"weight\":1,\"link\":\"sturm-persName.html#person124370748\"},{\"text\":\"Desiderius Erasmus\",\"weight\":1,\"link\":\"sturm-persName.html#person118530666\"},{\"text\":\"Daniel Elrich\",\"weight\":1,\"link\":\"sturm-persName.html#person128752947\"},{\"text\":\"Albrecht D\\u00fcrer\",\"weight\":1,\"link\":\"sturm-persName.html#person11852786X\"},{\"text\":\"Sebasti\\u00e1n Fern\\u00e1ndez de Medrano\",\"weight\":1,\"link\":\"sturm-persName.html#person1038028671\"},{\"text\":\"Jacob D\\u00f6pler\",\"weight\":1,\"link\":\"sturm-persName.html#person122923685\"},{\"text\":\"Charles Alphonse Dufresnoy\",\"weight\":1},{\"text\":\"Johannes Dubravius\",\"weight\":1,\"link\":\"sturm-persName.html#person11946943X\"},{\"text\":\"Johann Christoph Donauer\",\"weight\":1,\"link\":\"sturm-persName.html#person104199288\"},{\"text\":\"Johann Wilhelm Dilich\",\"weight\":1,\"link\":\"sturm-persName.html#person12960223X\"},{\"text\":\"Charles Philippe Dieussart\",\"weight\":1,\"link\":\"sturm-persName.html#person124676863\"},{\"text\":\"Kurf\\u00fcrst Ferdinand Maria Bayern\",\"weight\":1,\"link\":\"sturm-persName.html#person119105691\"},{\"text\":\"Johann Fischart\",\"weight\":1,\"link\":\"sturm-persName.html#person118533185\"},{\"text\":\"Jean Hardouin\",\"weight\":1},{\"text\":\"Willem Goeree\",\"weight\":1,\"link\":\"sturm-persName.html#person120847000\"},{\"text\":\"Georg Albrecht Hamberger\",\"weight\":1,\"link\":\"sturm-persName.html#person104208864\"},{\"text\":\"Guarino Guarini\",\"weight\":1,\"link\":\"sturm-persName.html#person118698761\"},{\"text\":\"David Gregory\",\"weight\":1,\"link\":\"sturm-persName.html#person129551651\"},{\"text\":\"Louis Goulon\",\"weight\":1,\"link\":\"sturm-persName.html#person103633998X\"},{\"text\":\"Johann Ludwig Gottfried\",\"weight\":1,\"link\":\"sturm-persName.html#person100015999\"},{\"text\":\"Nikolaus Goldmann\",\"weight\":1,\"link\":\"sturm-persName.html#person123624940\"},{\"text\":\"Ludwig Christoph Glotsch\",\"weight\":1,\"link\":\"sturm-persName.html#person141064994\"},{\"text\":\"Franz Philipp Florin\",\"weight\":1,\"link\":\"sturm-persName.html#person1055101187\"},{\"text\":\"Christoph Gerhard\",\"weight\":1},{\"text\":\"Martin Geier\",\"weight\":1},{\"text\":\"Galileo Galilei\",\"weight\":1,\"link\":\"sturm-persName.html#person118537229\"},{\"text\":\"Andr\\u00e9 F\\u00e9libien\",\"weight\":1,\"link\":\"sturm-persName.html#person119281384\"},{\"text\":\"Joseph Furttenbach\",\"weight\":1,\"link\":\"sturm-persName.html#person100810764\"},{\"text\":\"Erasmus Francisci\",\"weight\":1,\"link\":\"sturm-persName.html#person118534629\"},{\"text\":\"M. de Fontenelle\",\"weight\":1},{\"text\":\"Johann Jakob Zimmermann\",\"weight\":1,\"link\":\"sturm-persName.html#person118127055\"}]';
+		var placeName = '[{\"text\":\"Amsterdam\",\"weight\":38},{\"text\":\"N\\u00fcrnberg\",\"weight\":36},{\"text\":\"Frankfurt am Main\",\"weight\":26},{\"text\":\"Leipzig\",\"weight\":25},{\"text\":\"Paris\",\"weight\":20},{\"text\":\"Hamburg\",\"weight\":16},{\"text\":\"Stra\\u00dfburg\",\"weight\":7},{\"text\":\"Augsburg\",\"weight\":7},{\"text\":\"Rom\",\"weight\":5},{\"text\":\"Leiden\",\"weight\":5},{\"text\":\"W\\u00fcrzburg\",\"weight\":5},{\"text\":\"Den Haag\",\"weight\":5},{\"text\":\"Lyon\",\"weight\":4},{\"text\":\"Genf\",\"weight\":4},{\"text\":\"Franfurt am Main\",\"weight\":4},{\"text\":\"Jena\",\"weight\":4},{\"text\":\"Helmstedt\",\"weight\":4},{\"text\":\"Antwerpen\",\"weight\":4},{\"text\":\"Ulm\",\"weight\":4},{\"text\":\"Danzig\",\"weight\":3},{\"text\":\"Basel\",\"weight\":3},{\"text\":\"Oxford\",\"weight\":3},{\"text\":\"Oppenheim\",\"weight\":3},{\"text\":\"Venedig\",\"weight\":3},{\"text\":\"Frankfurt an der Oder\",\"weight\":3},{\"text\":\"Wolfenb\\u00fcttel\",\"weight\":3},{\"text\":\"Bologna\",\"weight\":3},{\"text\":\"London\",\"weight\":3},{\"text\":\"Berlin\",\"weight\":3},{\"text\":\"Wittenberg\",\"weight\":2},{\"text\":\"Mailand\",\"weight\":2},{\"text\":\"Regensburg\",\"weight\":2},{\"text\":\"Sulzbach\",\"weight\":2},{\"text\":\"Altdorf bei N\\u00fcrnberg\",\"weight\":2},{\"text\":\"K\\u00f6ln\",\"weight\":2},{\"text\":\"s. l.\",\"weight\":2},{\"text\":\"Frankfurt\\/M.\",\"weight\":2},{\"text\":\"Braunschweig\",\"weight\":2},{\"text\":\"Franfurt an der Oder\",\"weight\":2},{\"text\":\"Halle (Saale)\",\"weight\":2},{\"text\":\"Coburg\",\"weight\":2},{\"text\":\"Florenz\",\"weight\":2},{\"text\":\"Schleswig\",\"weight\":1},{\"text\":\"Schwerin\",\"weight\":1},{\"text\":\"Stendal\",\"weight\":1},{\"text\":\"Dresden\",\"weight\":1},{\"text\":\"Br\\u00fcssel\",\"weight\":1},{\"text\":\"Tortona\",\"weight\":1},{\"text\":\"Turin\",\"weight\":1},{\"text\":\"Utrecht\",\"weight\":1},{\"text\":\"Breslau\",\"weight\":1},{\"text\":\"Wesel\",\"weight\":1},{\"text\":\"Wien\",\"weight\":1},{\"text\":\"Bamberg\",\"weight\":1},{\"text\":\"Arnheim\",\"weight\":1},{\"text\":\"Rouen\",\"weight\":1},{\"text\":\"Husum\",\"weight\":1},{\"text\":\"Framkfurt am Main\",\"weight\":1},{\"text\":\"Groningen\",\"weight\":1},{\"text\":\"Altenburg\",\"weight\":1},{\"text\":\"Leeuwarden\",\"weight\":1},{\"text\":\"Heidelberg\",\"weight\":1},{\"text\":\"Hannover\",\"weight\":1},{\"text\":\"Ljubljana\",\"weight\":1},{\"text\":\"Hanau\",\"weight\":1},{\"text\":\"Mainz\",\"weight\":1},{\"text\":\"Kopenhagen\",\"weight\":1},{\"text\":\"M\\u00fcnchen\",\"weight\":1},{\"text\":\"Neapel\",\"weight\":1},{\"text\":\"Oels\",\"weight\":1},{\"text\":\"Frankfurt (Oder)\",\"weight\":1},{\"text\":\"Franfurt an Oder\",\"weight\":1},{\"text\":\"Pitschen\",\"weight\":1},{\"text\":\"Ratzeburg\",\"weight\":1}]';
+		makeWordCloud(persName);
+	</script>
+	
+			<div class="row">
+				<div class="buttonsTop">
+					<button type="button" class="btn btn-default" onclick="javascript:updateWordCloud(subjects)">Inhalte</button>
+	<button type="button" class="btn btn-default" onclick="javascript:updateWordCloud(genres)">Gattungen</button>
+	<button type="button" class="btn btn-default active" onclick="javascript:updateWordCloud(persName)">Personen</button>
+	<button type="button" class="btn btn-default" onclick="javascript:updateWordCloud(placeName)">Orte</button>
+	
+				</div>
+			</div>
+		    <div id="wordcloud"></div>        </div>
+
+        <footer class="container-fluid">
+            <p><a href="../index.php" style="color:white">Start</a>&nbsp;&nbsp;<a href="http://www.hab.de/de/home/impressum.html" style="color:white" target="_blank">Impressum</a></p>
+            <p style="color:white; text-align:right;">Stand: 20.09.2020</p>
+        </footer>
+
+    </body>
+
+</html>

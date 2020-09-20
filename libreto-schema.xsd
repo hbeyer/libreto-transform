@@ -778,6 +778,7 @@
                 <xs:enumeration value="EDIT16"/>
                 <!--<xs:enumeration value="USTC"/>-->
                 <xs:enumeration value="GBV"/>
+                <xs:enumeration value="K10plus"/>
                 <xs:enumeration value="SWB"/>
                 <xs:enumeration value="HBZ"/>
                 <xs:enumeration value="BVB"/>
