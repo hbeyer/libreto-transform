@@ -10,7 +10,7 @@ include('functions/encode.php');
 $reconstruction = new reconstruction('{Pfad zur Datei}', '{Dateiname für das Projekt}', '{xml|xml_full|csv|php|sql_dh}');
 $reconstruction->enrichData();
 $reconstruction->saveAllFormats();
-//$reconstruction->makeBioSheet();
+//$reconstruction->makeBioDataSheet();
 
 // Anpassen zum Eingrenzen der darzustellenden Felder
 $pages = array('numberCat', 'catSubjectFormat', 'shelfmarkOriginal', 'histSubject', 'persName', 'gender', 'beacon', 'year', 'subjects', 'histShelfmark', 'genres', 'languages', 'placeName', 'publishers', 'format', 'volumes', 'mediaType', 'bound', 'systemManifestation', 'institutionOriginal', 'provenanceAttribute', 'pageCat', 'titleWork', 'borrower', 'dateLending');
