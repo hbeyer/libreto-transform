@@ -15,7 +15,8 @@ function makeDoughnutPageContent($data, $facets, $folder) {
 				</div>
 				<div class="col-sm-6">
 					<div id="chart-legend" class="chart-legend"></div>
-					<div class="chart-numbers">Gesamtzahl: '.$number['items'].'<br />B&auml;nde: '.$number['volumes'].'</div>
+					<div class="chart-numbers">Gesamtzahl Titel: '.$number['items'].'
+					<span id="overallNumber"></span></div>
 				</div>
 			</div>';
 		$content .= makeDoughnutScript($data, $facets, $firstFacet, $folder);

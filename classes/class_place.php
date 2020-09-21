@@ -76,7 +76,7 @@ class place {
             return(true);
         }
         else {
-            echo('Keine Geodaten in GND: '.$this)."\n";
+            //echo('Keine Geodaten in GND: '.$this)."\n";
         }
         return(false);
     }

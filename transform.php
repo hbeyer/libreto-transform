@@ -1,14 +1,16 @@
 <?php
 
+set_time_limit (600);
 require __DIR__ .'/vendor/autoload.php';
 foreach (glob("classes/class_*.php") as $filename) {
     include $filename;
 	}
 include('functions/encode.php');
 
-$reconstruction = new reconstruction('{Pfad zur Datei}', '{Dateiname für das Projekt}', '{xml|csv|php|sql_dh}');
+$reconstruction = new reconstruction('{Pfad zur Datei}', '{Dateiname für das Projekt}', '{xml|xml_full|csv|php|sql_dh}');
 $reconstruction->enrichData();
 $reconstruction->saveAllFormats();
+//$reconstruction->makeBioSheet();
 
 // Anpassen zum Eingrenzen der darzustellenden Felder
 $pages = array('numberCat', 'catSubjectFormat', 'shelfmarkOriginal', 'histSubject', 'persName', 'gender', 'beacon', 'year', 'subjects', 'histShelfmark', 'genres', 'languages', 'placeName', 'publishers', 'format', 'volumes', 'mediaType', 'bound', 'systemManifestation', 'institutionOriginal', 'provenanceAttribute', 'pageCat', 'titleWork', 'borrower', 'dateLending');

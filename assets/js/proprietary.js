@@ -151,7 +151,21 @@ function replaceChart(newData) {
 	makeFirstButtonInactive();
 	myNewChart.destroy();
 	data = JSON.parse(newData);
+	updateCount(countMarked(data));
 	myNewChart = new Chart(ctx).Doughnut(data, optionsDoughnut);
 	legend = myNewChart.generateLegend();
 	document.getElementById('chart-legend').innerHTML = legend;
+}
+
+function updateCount(number) {
+	span = document.getElementById('overallNumber');
+	span.innerHTML = '<br />Auszeichnungen: ' + number;
+}
+
+function countMarked(data) {
+	var count = 0;
+	for (i = 0; i < data.length; i++) {
+		count += data[i]["value"];
+	}
+	return(count);
 }
