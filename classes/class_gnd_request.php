@@ -31,7 +31,7 @@ class gnd_request {
                 unset($string);
                 foreach ($this->response as $key => $value) {
                     if ($key == 'preferredName') {
-                        $this->preferredName = replaceUml($value);
+                        $this->preferredName = gnd_request::replaceUml($value);
                     }                    
                     if ($key == '@type') {
                         $this->type = $value;
@@ -40,7 +40,7 @@ class gnd_request {
                         $this->variantNames = $value;
                     }                    
                     if ($key == 'biographicalOrHistoricalInformation') {
-                        $this->info = replaceUml($value);
+                        $this->info = gnd_request::replaceUml($value);
                     }
                     if ($key == 'dateOfBirth') {
                         $this->dateBirth = $value;
@@ -50,14 +50,14 @@ class gnd_request {
                     }
                     if ($key == 'placeOfBirth') {
                         $this->placeBirth = new place;
-                        $this->placeBirth->placeName = replaceUml($value[0]['preferredName']);
+                        $this->placeBirth->placeName = gnd_request::replaceUml($value[0]['preferredName']);
                         if (!empty($value[0]['@id'])) {
                             $this->placeBirth->gnd = substr($value[0]['@id'], 22);
                         }
                     }
                     if ($key == 'placeOfDeath') {
                         $this->placeDeath = new place;
-                        $this->placeDeath->placeName = replaceUml($value[0]['preferredName']);
+                        $this->placeDeath->placeName = gnd_request::replaceUml($value[0]['preferredName']);
                         if (!empty($value[0]['@id'])) {
                             $this->placeDeath->gnd = substr($value[0]['@id'], 22);
                         }
@@ -65,7 +65,7 @@ class gnd_request {
                     if ($key == 'placeOfActivity') {
                         foreach ($value as $place) {
                             $placeActivity = new place;
-                            $placeActivity->placeName = replaceUml($place['preferredName']);
+                            $placeActivity->placeName = gnd_request::replaceUml($place['preferredName']);
                             if (!empty($place['@id'])) {
                                 $placeActivity->gnd = substr($place['@id'], 22);
                             }
@@ -90,6 +90,13 @@ class gnd_request {
         }
         return('');
     }
+	
+	// Die Funktion ersetzt kombinierende diakritische Zeichen (hier nicht als solche erkennbar) durch HMLT-Entities, um die versetzte Darstellung der Punkte in Firefox zu beheben.
+	static function replaceUml($string) {
+		$translate = array('Ä' => '&Auml;', 'Ö' => '&Ouml;', 'Ü' => '&Uuml;', 'ä' => '&auml;', 'ö' => '&ouml;', 'ü' => '&uuml;', 'ë' => '&euml;');
+		$string = strtr($string, $translate);
+		return($string);
+	}	
 
 }
 

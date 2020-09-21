@@ -1,5 +1,5 @@
 # libreto-transform
-Set of scripts for transforming library reconstruction data into reusable data formats (RDF, TEI, SOLR)
+Set of scripts for transforming library reconstruction data into reusable data formats (RDF, TEI, SOLR) and generating a Frontend in static HTML
 
 *Autor: Hartmut Beyer (beyer@hab.de)*
 
@@ -14,7 +14,7 @@ Benennen Sie im Ordner ***private/*** die Datei ***settings.php.template*** um i
 - Unter `$userAgentHTTP` Ihren Namen in beliebiger Form
 - Unter `$impressum` die URL des Impressums, das für die Publikation der Seite gültig ist
 
-Um eine Datenbankverbindung zu nutzen, kann analog die Datei ***connectionData.php.template*** angepasst werden (proprietäres Schema, entwickelt von D. Hakelberg)
+Um eine Datenbankverbindung zu nutzen, kann analog die Datei ***connectionData.php.template*** angepasst werden. Die Datenbank folgt dem Schema in ***schema-dh.sql*** (auf Basis der Datenerfassung von D. Hakelberg).
 
 ## Datenerfassung
 Daten können in XML oder in CSV erfasst werden. Zur Anlage eines XML-Dokuments nutzen Sie das Schema ***libreto-schema.xsd***. Im XML-Dokument werden sowohl die Erschließungsdaten als auch die Metadaten zur Sammlung hinterlegt. Zur Erstellung einer CSV-Datei nutzen Sie das Beispieldokument ***example.csv*** (Trennzeichen ";", Zeichencodierung "Windows-1252"). Die Metadaten werden in diesem Fall bei der Transformation erfasst. Die Benutzung der einzelnen Felder ist im Word-Dokument ***Dokumentation_CSV.doc*** beschrieben.
@@ -70,12 +70,12 @@ placeName | Erscheinungs- oder Entstehungsort des Sammlungsstücks | ja | nein |
 publishers | DruckerInnen oder VerlegerIn | ja | nein | ja
 format | Bibliographisches Format | ja | ja | nein
 volumes | Zahl der Bände | ja | nein | nein
-mediaType | Art des Sammlungsstück (Handschrift, Druck u. a.) | ja | ja | ja
+mediaType | Art des Sammlungsstücks (Handschrift, Druck u. a.) | ja | ja | ja
 bound | Angabe ob gebunden oder nicht | ja | ja | nein
 systemManifestation | Bibliographisches Nachweissystem, in das Sammlungsstück verzeichnet ist | ja | ja | ja
 institutionOriginal | Institution, die das Original besitzt | ja | ja | ja
 provenanceAttribute | Provenienzmerkmal des Originalexemplars, auf dem die Zuordnung zu der Sammlung beruht | ja | ja | ja
-pageCat | Seite im Altkatalog, auf dem das Sammlungsstück verzeichnet ist | ja | nein | nein
+pageCat | Seite im Altkatalog, auf der das Sammlungsstück verzeichnet ist | ja | nein | nein
 titleWork | Titel eines im Sammlungsstück enthaltenen Werkes | ja | nein | nein
 borrower | Person, die das Sammlungsstück entliehen hat | ja | nein | nein
 dateLending | Datum, an dem das Sammlungsstück entliehen wurde | ja | nein | ja
@@ -89,4 +89,4 @@ Anschließend wird ein neues Objekt der Klasse `frontend` erzeugt:
 Die Methode `frontend::build()` sorgt dafür, dass die Ergebnisse als statische HTML-Dateien im Verzeichnis ***projectFiles/{Dateiname}*** abgespeichert werden.
 
 ## Erzeugung einer biographischen Karte
-Mit der Methode `reconstruction::makeBioSheet()` kann zusätzlich ein Geodatenblatt zu den als AutorInnen oder BeiträgerInnen in der Sammlung enthaltenen und mit GND-Nummer versehenen Personen erzeugt werden (derzeit nur in CSV). Hierzu werden die GND-Normdatensätze geladen und unter ***cache/gnd*** vorgehalten (zum Auffrischen Ordner leeren). Für jede Nennung einer Person wird ein Ort und ein Datum (bevorzugt Geburtsort und -jahr) wiedergegeben. Die Geodaten werden aus der GND geladen. Von Geographika ohne Geodaten wird der bevorzugte Name angegeben, dieser kann dann mit dem GeoDataSheetEditor von DARIAH-DE ergänzt oder manuell nachgetragen werden. Die Datei wird wird im Projektordner unter ***bioPlaces.csv*** abgelegt.
+Mit der Methode `reconstruction::makeBioDataSheet()` kann zusätzlich ein Geodatenblatt zu den als AutorInnen oder BeiträgerInnen in der Sammlung enthaltenen und mit GND-Nummer versehenen Personen erzeugt werden (derzeit nur in CSV). Hierzu werden die GND-Normdatensätze geladen und unter ***cache/gnd*** vorgehalten (zum Auffrischen Ordner leeren). Für jede Nennung einer Person wird ein Ort und ein Datum (bevorzugt Geburtsort und -jahr) wiedergegeben. Die Geodaten werden aus der GND geladen. Von Geographika ohne Geodaten wird der bevorzugte Name angegeben, dieser kann dann mit dem GeoDataSheetEditor von DARIAH-DE ergänzt oder manuell nachgetragen werden. Die Datei wird wird im Projektordner unter ***bioPlaces.csv*** abgelegt.
