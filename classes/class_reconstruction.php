@@ -68,18 +68,12 @@ class reconstruction {
     }
 
     public function enrichData($beaconUpdate = false) {
-        /*if ($this->valid == 0) {
-            return;
-        }*/
         $this->addVolumeInformation();
         $this->insertGeoData();
         $this->insertBeacon($beaconUpdate);
     }
 
     public function saveAllFormats() {
-        /*if ($this->valid == 0) {
-            return;
-        }*/
         require_once(reconstruction::INCLUDEPATH.'makeIndex.php');
         $this->saveGeoData();
         $this->saveXML();        
