@@ -80,7 +80,8 @@ class reconstruction {
         $ser->serialize();
         $ser = new serializerXML($this->catalogue, $this->content, $this->fileName);
         $ser->serialize();        
-        $this->saveCSV();
+        $ser = new serializerCSV($this->catalogue, $this->content, $this->fileName);
+        $ser->serialize();
         $this->saveTEI();
         $ser = new serializerRDF($this->catalogue, $this->content, $this->fileName);
         $ser->serialize();
@@ -102,11 +103,6 @@ class reconstruction {
         else {
             echo 'Diese Methode unterstützt nur CSV';
         }
-    }
-
-    private function saveCSV() {
-        require(reconstruction::INCLUDEPATH.'makeCSV.php');
-        makeCSV($this->content, reconstruction::FOLDER.'/'.$this->fileName, $this->fileName);
     }
 
     private function saveGeoData() {

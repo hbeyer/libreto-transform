@@ -38,6 +38,17 @@ class place {
         return($result);
     }
 
+    public function toCSV() {
+        $ret = $this->placeName;
+        foreach (array('geoNames', 'gnd', 'getty') as $sys) {
+            if (!empty($this->$sys)) {
+                $ret .= '#'.$sys.$this->$sys;
+                return($ret);
+            }
+        }
+        return($ret);
+    }
+
     public function enrichByName($places) {
         foreach ($places as $place) {
             if ($this->placeName == $place->placeName) {

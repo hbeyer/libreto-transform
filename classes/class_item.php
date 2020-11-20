@@ -173,8 +173,34 @@ class item	{ //Refers to an item (book, manuscript, etc.) listed in the catalogu
 				$this->publishersObj[] = $publisher;
 			}
 		}
-
 	}
+
+	public function getPersonCSV($role, $position) {
+		$count = 0;
+		foreach ($this->persons as $person) {
+			if ($role == 'creator' and in_array($person->role, array('creator', 'VerfasserIn', 'author'))) {
+				if ($count == $position) {
+					return($person->__toString());
+				}
+				$count++;
+			}
+			elseif ($role == 'contributor' and !in_array($person->role, array('creator', 'VerfasserIn', 'author', 'borrower'))) {
+				if ($count == $position) {
+					return($person->__toString());
+				}
+				$count++;
+			}
+		}
+		return('');
+	}
+
+	public function getPlaceCSV($position) {
+		if (!empty($this->places[$position])) {
+			return($this->places[$position]->toCSV());
+		}
+		return('');
+	}
+
 }
 
 ?>

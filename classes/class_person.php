@@ -36,6 +36,17 @@ class person {
         }
         return(null);
     }
+
+    public function __toString() {
+        $ret = $this->persName;
+        if ($this->gnd) {
+            $ret .= '#'.$this->gnd;
+            if ($this->gender) {
+                $ret .= $this->gender;
+            }
+        }
+        return($ret);
+    }
 	
 }
 
