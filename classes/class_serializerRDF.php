@@ -5,9 +5,12 @@ class  serializerRDF extends serializer {
     protected $graph;
 
     public function serialize() {
-        $this->path = reconstruction::getPath($this->fileName, $this->fileName, 'rdf');
         $this->makeGraph();
-        $this->generateOutput();
+        $this->path = reconstruction::getPath($this->fileName, $this->fileName, 'rdf');
+        $this->generateOutputXML();
+        $this->save();
+        $this->path = reconstruction::getPath($this->fileName, $this->fileName, 'ttl');
+        $this->generateOutputTurtle();
         $this->save();
     }
 
@@ -316,10 +319,15 @@ class  serializerRDF extends serializer {
         return;
     }
 
-    protected function generateOutput() {
+    protected function generateOutputXML() {
         $serialiserX = new EasyRdf_Serialiser_RdfXml;
         $this->output = $serialiserX->serialise($this->graph, 'rdfxml');
     }
+
+    protected function generateOutputTurtle() {
+        $serialiserTTL = new EasyRdf_Serialiser_Turtle;
+        $this->output = $serialiserTTL->serialise($this->graph, 'turtle');
+    }    
 
 }   
 

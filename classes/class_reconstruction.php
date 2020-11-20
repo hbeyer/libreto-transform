@@ -76,11 +76,14 @@ class reconstruction {
     public function saveAllFormats() {
         require_once(reconstruction::INCLUDEPATH.'makeIndex.php');
         $this->saveGeoData();
-        $this->saveXML();        
+        $ser = new serializerPHP($this->catalogue, $this->content, $this->fileName);
+        $ser->serialize();
+        $ser = new serializerXML($this->catalogue, $this->content, $this->fileName);
+        $ser->serialize();        
         $this->saveCSV();
-        $this->savePHP();
         $this->saveTEI();
-        $this->saveRDF();
+        $ser = new serializerRDF($this->catalogue, $this->content, $this->fileName);
+        $ser->serialize();
         $this->saveSolrXML();
     }
 
@@ -101,24 +104,9 @@ class reconstruction {
         }
     }
 
-    private function saveXML() {
-        require(reconstruction::INCLUDEPATH.'makeXML.php');
-        saveXML($this->content, $this->catalogue, reconstruction::FOLDER, $this->fileName);
-    }
-
-    public function saveXMLFull() {
-        $export = new export_xml_full($this);
-    }
-
     private function saveCSV() {
         require(reconstruction::INCLUDEPATH.'makeCSV.php');
         makeCSV($this->content, reconstruction::FOLDER.'/'.$this->fileName, $this->fileName);
-    }
-
-    private function savePHP() {
-        $ser = serialize($this->content);
-        $handle = fopen(reconstruction::FOLDER.'/'.$this->fileName.'/dataPHP', 'w');
-	    fwrite($handle, $ser, 3000000);
     }
 
     private function saveGeoData() {
@@ -132,13 +120,6 @@ class reconstruction {
         require(reconstruction::INCLUDEPATH.'makeSection.php');
         require(reconstruction::INCLUDEPATH.'fieldList.php');
         makeTEI($this->content, $this->catalogue, reconstruction::FOLDER, $this->fileName);
-    }
-
-    private function saveRDF() {
-        $ser = new serializerRDF($this->catalogue, $this->content, $this->fileName);
-        $ser->serialize();
-        $ser2 = new serializerTurtle($this->catalogue, $this->content, $this->fileName);
-        $ser2->serialize();
     }
 
     private function saveSolrXML() {
@@ -240,8 +221,11 @@ class reconstruction {
         }
     }
 
-    static function getPath($folder, $fileName, $ending) {
-        return('projectFiles/'.$folder.'/'.$fileName.'.'.$ending);
+    static function getPath($folder, $fileName, $ending = '') {
+        if ($ending != '') {
+            $ending = '.'.$ending;
+        }
+        return('projectFiles/'.$folder.'/'.$fileName.$ending);
     }
 
 }
