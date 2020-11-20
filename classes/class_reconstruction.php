@@ -141,9 +141,10 @@ class reconstruction {
     }
 
     private function saveRDF() {
-        require(reconstruction::INCLUDEPATH.'makeRDF.php');
-        //saveRDFtoPath($this->content, $this->catalogue, reconstruction::FOLDER.'/'.$this->fileName.'/'.$this->fileName);
-        saveRDFtoPath($this->content, $this->catalogue, reconstruction::FOLDER, $this->fileName);
+        $ser = new serializerRDF($this->catalogue, $this->content, $this->fileName);
+        $ser->serialize();
+        $ser2 = new serializerTurtle($this->catalogue, $this->content, $this->fileName);
+        $ser2->serialize();
     }
 
     private function saveSolrXML() {
@@ -243,6 +244,10 @@ class reconstruction {
         if (!is_dir(reconstruction::FOLDER.'/'.$this->fileName)) {
             mkdir(reconstruction::FOLDER.'/'.$this->fileName, 0777, true);
         }
+    }
+
+    static function getPath($folder, $fileName, $ending) {
+        return('projectFiles/'.$folder.'/'.$fileName.'.'.$ending);
     }
 
 }
