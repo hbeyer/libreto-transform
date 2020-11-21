@@ -31,7 +31,7 @@ class reconstruction {
             $uploader = new uploader_sql_dh($this->fileName);
         }        
         else {
-            throw new Exception('Falsche Formatangabe: '.$format.'. Erlaubt sind xml, csv und xml_full', 1);
+            throw new Exception('Falsche Formatangabe: '.$format.'. Erlaubt sind xml, csv, xml_full, php und sql_dh', 1);
         }
         $this->metadataReconstruction = $uploader->loadMetadata();
         $this->catalogues = $uploader->loadCatalogues($this->fileName);
@@ -82,7 +82,8 @@ class reconstruction {
         $ser->serialize();        
         $ser = new serializerCSV($this->catalogue, $this->content, $this->fileName);
         $ser->serialize();
-        $this->saveTEI();
+        $ser = new serializerXML_TEI($this->catalogue, $this->content, $this->fileName);
+        $ser->serialize();
         $ser = new serializerRDF($this->catalogue, $this->content, $this->fileName);
         $ser->serialize();
         $this->saveSolrXML();
@@ -109,13 +110,6 @@ class reconstruction {
         require(reconstruction::INCLUDEPATH.'makeGeoDataSheet.php');
         makeGeoDataSheet($this->content, reconstruction::FOLDER.'/'.$this->fileName, 'csv');
         makeGeoDataSheet($this->content, reconstruction::FOLDER.'/'.$this->fileName, 'kml');
-    }
-
-    private function saveTEI() {
-        require(reconstruction::INCLUDEPATH.'makeTEI.php');
-        require(reconstruction::INCLUDEPATH.'makeSection.php');
-        require(reconstruction::INCLUDEPATH.'fieldList.php');
-        makeTEI($this->content, $this->catalogue, reconstruction::FOLDER, $this->fileName);
     }
 
     private function saveSolrXML() {

@@ -1,6 +1,6 @@
 <?php
 
-class  serializerXML extends serializer {
+class serializerXML extends serializer {
 
     protected $dom;
 
