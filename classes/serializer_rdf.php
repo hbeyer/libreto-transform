@@ -1,6 +1,6 @@
 <?php
 
-class  serializerRDF extends serializer {
+class  serializer_rdf extends serializer {
 
     protected $graph;
 

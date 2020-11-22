@@ -1,6 +1,6 @@
 <?php
 
-class  serializerPHP extends serializer {
+class  serializer_php extends serializer {
 
     public function serialize() {
         $this->path = reconstruction::getPath($this->fileName, 'dataPHP');

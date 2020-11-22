@@ -2,9 +2,6 @@
 
 set_time_limit (600);
 require __DIR__ .'/vendor/autoload.php';
-foreach (glob("classes/class_*.php") as $filename) {
-    include $filename;
-	}
 include('functions/encode.php');
 
 $reconstruction = new reconstruction('{Pfad zur Datei}', '{Dateiname für das Projekt}', '{xml|xml_full|csv|php|sql_dh}');

@@ -207,12 +207,6 @@ function insertSpace($genre) {
 	return($genre);
 }
 
-function cleanCoordinate($coordinate) {
-	$translation = array(',' => '.');
-	$coordinate = strtr($coordinate, $translation);
-	return($coordinate);
-}
-
 function removeSpecial($name) {
 	$translation = array('Á' => 'A', 'Ł' => 'L', 'Ğ' => 'G', 'Ǧ' => 'G', 'Ĝ' => 'G', 'Ḥ' => 'H', 'ã' => 'a', 'ā' => 'a', 'Ö' => 'Oe');
 	$name = strtr($name, $translation);

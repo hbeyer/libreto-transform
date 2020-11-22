@@ -1,6 +1,6 @@
 <?php
 
-class serializerXML extends serializer {
+class serializer_xml extends serializer {
 
     protected $dom;
 
@@ -60,23 +60,23 @@ class serializerXML extends serializer {
                 $itemProperty = $this->dom->createElement($key);
                 $textProperty = $this->dom->createTextNode($value);
                 $itemProperty->appendChild($textProperty);
-                $itemElement = serializerXML::appendNodeUnlessVoid($itemElement, $itemProperty);
+                $itemElement = serializer_xml::appendNodeUnlessVoid($itemElement, $itemProperty);
             }
             else {
-                $test1 = serializerXML::testIfAssociative($value);
+                $test1 = serializer_xml::testIfAssociative($value);
                 //Fall 2.0: Variable ist ein assoziatives Array
                 if($test1 == 1) {
                     $itemArrayProperty = $this->dom->createElement($key);
                     $itemArrayProperty = $this->appendAssocArrayToDOM($itemArrayProperty, $value);
-                    $itemElement = serializerXML::appendNodeUnlessVoid($itemElement, $itemArrayProperty);
+                    $itemElement = serializer_xml::appendNodeUnlessVoid($itemElement, $itemArrayProperty);
                 }
                 elseif($test1 == 0 and isset($value[0])) {
                     //Fall 2.1: Variable ist numerisches Array aus einfachen Werten
                     if(is_string($value[0]) or is_integer($value[0])) {
                         $itemArrayProperty = $this->dom->createElement($key);
-                        $fieldName = serializerXML::makeSubfieldName($key);
+                        $fieldName = serializer_xml::makeSubfieldName($key);
                         $itemArrayProperty = $this->appendNumericArrayToDOM($itemArrayProperty, $value, $fieldName);
-                        $itemElement = serializerXML::appendNodeUnlessVoid($itemElement, $itemArrayProperty);
+                        $itemElement = serializer_xml::appendNodeUnlessVoid($itemElement, $itemArrayProperty);
                     }
                     //Fall 2.2: Variable ist ein numerisches Array aus Objekten
                     elseif(is_object($value[0])) {
@@ -89,7 +89,7 @@ class serializerXML extends serializer {
                                 //Fall 2.2.1: Variable im Objekt ist ein Array
                                 if(is_array($objectValue)) {
                                     $objectVariable = $this->dom->createElement($objectKey);
-                                    $test = serializerXML::testIfAssociative($objectValue);
+                                    $test = serializer_xml::testIfAssociative($objectValue);
                                     //Fall 2.2.1.1: Variable im Objekt ist ein assoziatives Array
                                     if($test == 1) {
                                         $objectVariable = $this->appendAssocArrayToDOM($objectVariable, $objectValue);
@@ -97,10 +97,10 @@ class serializerXML extends serializer {
                                     //Fall 2.2.1.2: Variable im Objekt ist ein numerisches Array
                                     elseif($test == 0) {
                                         //Generieren eines Namens für das Subfeld, weil Integer in XML nicht akzeptiert werden
-                                        $fieldName = serializerXML::makeSubfieldName($objectKey);
+                                        $fieldName = serializer_xml::makeSubfieldName($objectKey);
                                         $objectVariable = $this->appendNumericArrayToDOM($objectVariable, $objectValue, $fieldName);
                                     }
-                                    $objectElement = serializerXML::appendNodeUnlessVoid($objectElement, $objectVariable);
+                                    $objectElement = serializer_xml::appendNodeUnlessVoid($objectElement, $objectVariable);
                                 }
                                 //Fall 2.2.2: Variable im Objekt ist ein Integer oder String
                                 elseif(is_int($objectValue) or is_string($objectValue)) {
@@ -108,12 +108,12 @@ class serializerXML extends serializer {
                                     $textObjectVariable = $this->dom->createTextNode($objectValue);
                                     $objectVariable->appendChild($textObjectVariable);
                                     
-                                    $objectElement = serializerXML::appendNodeUnlessVoid($objectElement, $objectVariable);
+                                    $objectElement = serializer_xml::appendNodeUnlessVoid($objectElement, $objectVariable);
                                 }
                             }
                             $itemObjectProperty->appendChild($objectElement);
                         }
-                        $itemElement = serializerXML::appendNodeUnlessVoid($itemElement, $itemObjectProperty);
+                        $itemElement = serializer_xml::appendNodeUnlessVoid($itemElement, $itemObjectProperty);
                     }
                 }
             }
@@ -126,7 +126,7 @@ class serializerXML extends serializer {
             $node = $this->dom->createElement($key);
             $textNode = $this->dom->createTextNode($value);
             $node->appendChild($textNode);
-            $parent = serializerXML::appendNodeUnlessVoid($parent, $node);
+            $parent = serializer_xml::appendNodeUnlessVoid($parent, $node);
         }
         return($parent);
     }
@@ -136,7 +136,7 @@ class serializerXML extends serializer {
             $node = $this->dom->createElement($fieldName);
             $textNode = $this->dom->createTextNode($value);
             $node->appendChild($textNode);      
-            $parent = serializerXML::appendNodeUnlessVoid($parent, $node);
+            $parent = serializer_xml::appendNodeUnlessVoid($parent, $node);
         }
         return($parent);
     }

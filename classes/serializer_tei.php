@@ -3,9 +3,7 @@
 require_once(reconstruction::INCLUDEPATH.'makeSection.php');
 require_once(reconstruction::INCLUDEPATH.'makeIndex.php');
 
-class serializerXML_TEI extends serializerXML {
-
-    protected $dom;
+class serializer_tei extends serializer_xml {
 
     public function serialize() {
         $this->path = reconstruction::getPath($this->fileName, $this->fileName.'-tei', 'xml');
