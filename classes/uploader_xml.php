@@ -11,7 +11,7 @@ class uploader_xml extends uploader {
         $this->fileName = $fileName;
 	    $this->dom = new DOMDocument();
 	    $this->dom->load($this->path);
-        if ($this->dom == FALSE) {
+        if ($this->dom == false) {
             throw new Exception('XML-Dokument ist nicht wohlgeformt');
         }
         if (!$this->dom->schemaValidate('uploadXML.xsd')) {
@@ -138,10 +138,8 @@ class uploader_xml extends uploader {
             $field = strval($child->nodeName);
             if (in_array($field, array('beacon', 'dateLending'))) {
                 foreach ($child->childNodes as $grandChild) {
-                    if ($grandChild->nodeValue) {
-                        if (trim($grandChild->nodeValue)) {
-                            $person->$field[] = trim($grandChild->nodeValue);
-                        }
+                    if (trim($grandChild->nodeValue)) {
+                        $person->$field[] = trim($grandChild->nodeValue);
                     }
                 }                
             }

@@ -160,10 +160,10 @@ class  serializer_rdf extends serializer {
             $this->addManifestation($itemResource, $item);
         }
         if ($item->work['systemWork'] and $item->work['idWork']) {
-            addWork($this->graph, $itemResource, $item);
+            $this->addWork($itemResource, $item);
         }
         if ($item->originalItem['institutionOriginal'] and $item->originalItem['shelfmarkOriginal']) {
-            addOriginalItem($this->graph, $itemResource, $item);
+            $this->addOriginalItem($itemResource, $item);
         }
 
         return;
