@@ -228,10 +228,10 @@ class serializer_solr extends serializer_xml {
     private function addNormalizedYear($row) {
         $normalizedYear = '';
         if(isset($row['year'])) {
-            $normalizedYear = normalizeYear($row['year']);
+            $normalizedYear = index::normalizeYear($row['year']);
             if($normalizedYear == '') {
                 if(isset($row['titleCat'])) {
-                    $normalizedYear = getYearFromTitle($row['titleCat']);
+                    $normalizedYear = index::getYearFromTitle($row['titleCat']);
                 }
             }
             if($normalizedYear != '') {

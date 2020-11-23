@@ -1,13 +1,11 @@
 <?php
 
-require_once(reconstruction::INCLUDEPATH.'makeIndex.php');
-
 class serializer_kml extends serializer_xml {
 
     public function serialize() {
         $this->path = reconstruction::getPath($this->fileName, 'printingPlaces', 'kml');
         $this->makeDOM();
-        $this->dom->load('templateKML.xml');
+        $this->dom->loadXML('<?xml version="1.0" encoding="UTF-8" standalone="yes"?><kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0"><Folder/></kml>');
         $this->insertContent();
         $this->output = $this->dom->saveXML();
         $this->save();
@@ -43,9 +41,9 @@ class serializer_kml extends serializer_xml {
     }
 
     protected function collectGeoData() {
-        $index1 = makeIndex($this->data, 'placeName');
-        $index2 = makeIndex($this->data, 'year');
-        $commonIndex = mergeIndices($index1, $index2);
+        $index1 = new index($this->data, 'placeName');
+        $index2 = new index($this->data, 'year');
+        $commonIndex = index::mergeIndices($index1->entries, $index2->entries);
         $result = array();
         $placeName = '';
 

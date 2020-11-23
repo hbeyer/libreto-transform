@@ -74,7 +74,6 @@ class reconstruction {
     }
 
     public function saveAllFormats() {
-        require_once(reconstruction::INCLUDEPATH.'makeIndex.php');
         $ser = new serializer_php($this->catalogue, $this->content, $this->fileName);
         $ser->serialize();
         $ser = new serializer_xml($this->catalogue, $this->content, $this->fileName);

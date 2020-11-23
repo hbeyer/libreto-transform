@@ -50,7 +50,7 @@ class beacon_repository {
         'fruchtbringer' => array('label' => 'Fruchtbringende Gesellschaft', 'location' => 'http://www.die-fruchtbringende-gesellschaft.de/files/fg_beacon.txt', 'target' => 'http://www.historische-kommission-muenchen-editionen.de/beacond/fbges.php?pnd={ID}', 'type' => 'default'),		
         'apw' => array('label' => 'Acta Pacis Westfalicae', 'location' => 'http://www.historische-kommission-muenchen-editionen.de/beacond/apw-digital.php?beacon', 'target' => 'http://www.historische-kommission-muenchen-editionen.de/beacond/apw-digital.php?pnd={ID}', 'type' => 'default'),
         'coco' => array('label' => 'Controversia et Confessio', 'location' => 'http://www.controversia-et-confessio.de/gnd/personen/beacon/file.txt', 'target' => 'http://www.controversia-et-confessio.de/gnd/{ID}', 'type' => 'default'),
-        'mmlo' => array('label' => 'Biographisches Lexikon der Münzmeister, Wardeine, Stempelschneider und Medailleure (MMLO)', 'location' => 'http://mmlo.de/beacon', 'target' => 'http://mmlo.de/Q/GND={ID}'),
+        'mmlo' => array('label' => 'Biographisches Lexikon der Münzmeister, Wardeine, Stempelschneider und Medailleure (MMLO)', 'location' => 'http://mmlo.de/beacon', 'target' => 'http://mmlo.de/Q/GND={ID}', 'type' => 'default'),
         'sandrart' => array('label' => 'Sandrart.net', 'location' => 'http://ta.sandrart.net/services/pnd-beacon/', 'target' => 'http://ta.sandrart.net/services/pnd-beacon/?pnd={ID}', 'type' => 'default'),
         'kall' => array('label' => 'Kalliope Verbundkatalog', 'location' => 'http://kalliope.staatsbibliothek-berlin.de/beacon/beacon.txt', 'target' => 'http://kalliope.staatsbibliothek-berlin.de/de/eac?eac.id={ID}', 'type' => 'default'),	
         'zdn' => array('label' => 'Zentrale Datenbank Nachlässe', 'location' => 'http://www.historische-kommission-muenchen-editionen.de/beacond/zdn.php?beacon', 'target' => 'http://www.historische-kommission-muenchen-editionen.de/beacond/zdn.php?pnd={ID}', 'type' => 'default'), 
@@ -61,7 +61,7 @@ class beacon_repository {
         'cors' => array('label' => 'correspSearch – Verzeichnisse von Briefeditionen', 'location' => 'https://correspsearch.net/api/v1.1/gnd-beacon.xql?correspondent=all', 'target' => 'http://correspsearch.bbaw.de/search.xql?correspondent=http://d-nb.info/gnd/{ID}&l=de', 'type' => 'default'),
         'bahnsen' => array('label' => 'Briefwechsel Benedikt Bahnsen', 'location' => 'http://diglib.hab.de/edoc/ed000233/beacon_bahnsen.txt', 'target' => 'http://diglib.hab.de/content.php?dir=edoc/ed000233&distype=optional&metsID=edoc_ed000233_personenregister_transcript&xml=register%2Fregister-person.xml&xsl=http://diglib.hab.de/edoc/ed000233/tei-pers.xsl#{ID}', 'type' => 'default'),
         'humbdig' => array('label' => 'edition humboldt digital', 'location' => 'https://edition-humboldt.de/api/v1/beacon.xql', 'target' => 'https://edition-humboldt.de/register/personen/detail.xql?normid=http://d-nb.info/gnd/{ID}', 'type' => 'default'),
-        'cfgb' => array('label' => 'Carl Friedrich Gauss Briefwechsel', 'location' => 'http://www.historische-kommission-muenchen-editionen.de/beacond/gauss.php?beacon', 'target' => 'http://www.historische-kommission-muenchen-editionen.de/beacond/gauss.php?pnd={ID}'),
+        'cfgb' => array('label' => 'Carl Friedrich Gauss Briefwechsel', 'location' => 'http://www.historische-kommission-muenchen-editionen.de/beacond/gauss.php?beacon', 'target' => 'http://www.historische-kommission-muenchen-editionen.de/beacond/gauss.php?pnd={ID}', 'type' => 'default'),
         'gauss' => array('label' => 'Briefwechsel von Carl Friedrich Gauß - Korrespondenten', 'location' => 'http://www.historische-kommission-muenchen-editionen.de/beacond/gauss.php?beacon', 'target' => 'http://www.historische-kommission-muenchen-editionen.de/beacond/gauss.php?pnd={ID}', 'type' => 'default'),
         'muenz' => array('label' => 'Katalog des Münzkabinetts Staatliche Museen zu Berlin', 'location' => 'http://ww2.smb.museum/ikmk/beacon_gnd.php', 'target' => 'http://ww2.smb.museum/ikmk/filter_text.php?filter%5B0%5D%5Bfield%5D=gnd&filter%5B0%5D%5Btext%5D={ID}', 'type' => 'default'),	
         'dpi' => array('label' => 'Digitaler Portraitindex', 'location' => 'http://www.portraitindex.de/pnd_beacon.txt', 'target' => 'http://www.portraitindex.de/dokumente/pnd/{ID}', 'type' => 'default'),
@@ -77,7 +77,7 @@ class beacon_repository {
         'vd16' => array('label' => 'Verzeichnis der Drucke 16. Jahrhunderts (VD 16)', 'location' => 'http://www.historische-kommission-muenchen-editionen.de/beacond/vd16.txt', 'target' => 'http://www.gateway-bayern.de/opensearch?rfr_id=LinkedOpenData%3ABeacon&res_id=VD16&rft_id=info%3Apnd%2F{ID}', 'type' => 'default'),
         'ecod' => array('label' => 'e-codices Virtuelle Handschriftenbibliothek der Schweiz', 'location' => 'http://www.historische-kommission-muenchen-editionen.de/beacond/ecodices.php?beacon', 'target' => 'http://www.e-codices.unifr.ch/de/search/all?sSearchField=person_names&sQueryString=pnd_{ID}', 'type' => 'default'),
         'jdg' => array('label' => 'Jahresberichte für deutsche Geschichte', 'location' => 'http://jdgdb.bbaw.de/jdg-gndbeacon.txt', 'target' => 'http://jdgdb.bbaw.de/cgi-bin/jdg?t_idn_erg=x&idn=GND:{ID}', 'type' => 'default'),
-	'aqhab' => array('label' => 'Alchemische Bestände der HAB', 'location' => 'http://alchemie.hab.de/beacon.txt', 'target' => 'http://alchemie.hab.de/personen?gnd={ID}', 'type' => 'default')
+        'aqhab' => array('label' => 'Alchemische Bestände der HAB', 'location' => 'http://alchemie.hab.de/beacon.txt', 'target' => 'http://alchemie.hab.de/personen?gnd={ID}', 'type' => 'default')
     );
 
 // '' => array('label' => '', 'location' => '', 'target' => '', 'type' => 'default'),
@@ -218,6 +218,11 @@ class beacon_repository {
     private function makeLink($key, $gnd, $target) {
         if (in_array($target, array('_blank', '_self', '_parent', '_top'))) {
             $target = ' target="'.$target.'"';
+        }
+        if (empty($this->beacon_sources[$key]['type'])) {
+            var_dump($key);
+            var_dump($gnd);
+            die;
         }
         if ($this->beacon_sources[$key]['type'] == 'specified') {
             $url = $this->extractURL($gnd, $key);

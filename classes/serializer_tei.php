@@ -1,14 +1,13 @@
 <?php
 
 require_once(reconstruction::INCLUDEPATH.'makeSection.php');
-require_once(reconstruction::INCLUDEPATH.'makeIndex.php');
 
 class serializer_tei extends serializer_xml {
 
     public function serialize() {
         $this->path = reconstruction::getPath($this->fileName, $this->fileName.'-tei', 'xml');
         $this->makeDOM();
-        $this->dom->load('templateTEI.xml');
+        $this->dom->loadXML('<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title></title></titleStmt><publicationStmt><publisher><name type="org">Herzog August Bibliothek Wolfenbüttel</name><address><street>Lessingplatz 1</street><name type="city">Wolfenbüttel</name><postCode>D-38299</postCode><name type="country">Germany</name></address></publisher><date /></publicationStmt><sourceDesc><listWit></listWit></sourceDesc></fileDesc></teiHeader><text><body></body></text></TEI>');
         $this->insertMetadata();
         $this->insertTranscription();
         $this->insertBibliography();
@@ -51,9 +50,9 @@ class serializer_tei extends serializer_xml {
         $body = $bodyNodeList->item(0);
         $lastPageCat = '';
         
-        $index = makeIndex($this->data, 'histSubject');
+        $index = new index($this->data, 'histSubject');
         $structuredData = array();
-        foreach($index as $entry) {
+        foreach($index->entries as $entry) {
             $section = new section();
             $section->label = $entry->label;
             foreach($entry->content as $idItem) {
@@ -225,7 +224,7 @@ class serializer_tei extends serializer_xml {
             $yearText = $this->dom->createTextNode($item->year);
             $year = $this->dom->createElement('date');
             $year->appendChild($yearText);
-            $when = normalizeYear($item->year);
+            $when = index::normalizeYear($item->year);
             if(preg_match('~[12][0-9]{3}~', $when) == TRUE) {
                 $year->setAttribute('when', $when);
             }

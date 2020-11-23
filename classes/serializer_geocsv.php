@@ -1,7 +1,5 @@
 <?php
 
-require_once(reconstruction::INCLUDEPATH.'makeIndex.php');
-
 class serializer_geocsv extends serializer_kml {
 
     public $fields = array('Name','Address','Description','Longitude','Latitude','TimeStamp','TimeSpan:begin','TimeSpan:end','GettyID');

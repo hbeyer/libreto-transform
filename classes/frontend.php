@@ -20,7 +20,6 @@ class frontend {
     public function build() {
         // Die folgenden Dateien sind u. U. schon vorher inkludiert, wenn man reconstruction::saveAllFormats() ausgeführt hat.
         require_once(reconstruction::INCLUDEPATH.'makeSection.php');
-        require_once(reconstruction::INCLUDEPATH.'makeIndex.php');
         require('private/settings.php');
         require(reconstruction::INCLUDEPATH.'makeNavigation.php');
         require(reconstruction::INCLUDEPATH.'makePage.php');

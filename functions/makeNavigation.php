@@ -2,7 +2,7 @@
 
 function makeNavigation($catalogue, $tocs, $facet) {
 	/*$tocs is an associative array of arrays created by the function makeToC,
-	the index of which is the field the function makeIndex used to create the index categories
+	the index of which is the field the method index::construct() used for the index categories
 	$facet is the field used for the actual page
 	*/
 	ob_start();

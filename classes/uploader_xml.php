@@ -137,14 +137,13 @@ class uploader_xml extends uploader {
         foreach($children as $child) {
             $field = strval($child->nodeName);
             if (in_array($field, array('beacon', 'dateLending'))) {
-                if ($child->nodeValue) {
-                    $person->$field[] = $child->nodeValue;
-                }
-                else {
-                    foreach ($child->childNodes as $grandChild) {
-                        $person->$field[] = $grandChild->nodeValue;                        
+                foreach ($child->childNodes as $grandChild) {
+                    if ($grandChild->nodeValue) {
+                        if (trim($grandChild->nodeValue)) {
+                            $person->$field[] = trim($grandChild->nodeValue);
+                        }
                     }
-                }
+                }                
             }
             elseif(in_array($child->nodeName, $properties)) {
                 $person->$field = trim($child->nodeValue);

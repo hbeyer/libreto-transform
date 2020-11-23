@@ -68,11 +68,11 @@ function makeCloudJSON($data, $field, $limit, $folder) {
 }
 
 function makeCloudArrays($data, $field) {
-	$index = makeIndex($data, $field);
+	$index = new index($data, $field);
 	$count = 0;
 	$weightArray = array();
 	$nameArray = array();
-	foreach($index as $entry) {
+	foreach($index->entries as $entry) {
 		if($entry->label != 'ohne Kategorie') {
 			$text = htmlspecialchars($entry->label);
 			$text = preprocessText($text, $field);
@@ -89,11 +89,11 @@ function makeCloudArrays($data, $field) {
 }
 
 function makeCloudArraysPersons($data) {
-	$index = makeIndex($data, 'persName');
+	$index = new index($data, 'persName');
 	$count = 0;
 	$weightArray = array();
 	$nameArray = array();
-	foreach($index as $entry) {
+	foreach($index->entries as $entry) {
 		$id = $count;
 		if($entry->authority['system'] == 'gnd') {
 			$id = $entry->authority['id'];

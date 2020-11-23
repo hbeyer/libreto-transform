@@ -1,6 +1,6 @@
 <?php
 
-class  serializer {
+abstract class serializer {
 
     protected $catalogue;
     protected $data;

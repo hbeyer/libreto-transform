@@ -3,9 +3,9 @@
 // The following functions serve to convert an array of objects of the type indexEntry into an array of objects of the type section. The function to select depends on the facet chosen. For the facets cat, persons and year there are special functions. All other facets are covered by the function makeSections.
 
 function makeSections($data, $field) {
-	$index = makeIndex($data, $field);
+	$index = new index($data, $field);
 	$structuredData = array();
-	foreach($index as $entry) {
+	foreach($index->entries as $entry) {
 		$section = new section();
 		$section->label = $entry->label;
 		$section->level = $entry->level;
