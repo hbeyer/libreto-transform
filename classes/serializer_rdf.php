@@ -15,7 +15,8 @@ class  serializer_rdf extends serializer {
     }
 
     protected function makeGraph() {
-        $this->graph = new EasyRdf_Graph();
+        $this->aadgenres = aadgenres::getGenres();
+		$this->graph = new EasyRdf_Graph();
         EasyRdf_Namespace::set('dc', 'http://purl.org/dc/terms/');
         EasyRdf_Namespace::set('foaf', 'http://xmlns.com/foaf/spec/#term_');
         EasyRdf_Namespace::set('gn', 'http://www.geonames.org/ontology#');
@@ -117,14 +118,14 @@ class  serializer_rdf extends serializer {
         }
         foreach ($item->subjects as $subject) {
             $dataType = null;
-            if (in_array(removeBlanks($subject), aadgenres::GENRES)) {
+            if (in_array(removeBlanks($subject), $this->aadgenres)) {
                 $dataType = 'http://uri.gbv.de/terminology/aadgenres/';
             }
             $itemResource->add('dc:subject', EasyRdf_Literal::create($subject, null, $dataType));
         }
         foreach ($item->genres as $genre) {
             $dataType = null;
-            if (in_array(removeBlanks($genre), aadgenres::GENRES)) {
+            if (in_array(removeBlanks($genre), $this->aadgenres)) {
                 $dataType = 'http://uri.gbv.de/terminology/aadgenres/';
             }
             $itemResource->add('dbo:genre', EasyRdf_Literal::create($genre, null, $dataType));
