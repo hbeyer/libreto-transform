@@ -1,6 +1,6 @@
 <?php
 
-static class aadgenres {
+abstract class aadgenres {
 	
 	static function getGenres() {
 
