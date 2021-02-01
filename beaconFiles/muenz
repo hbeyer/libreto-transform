@@ -120,6 +120,24 @@
 <div id='section-carousel' class='carousel slide' data-ride='carousel'>
 <div class='carousel-inner' role='listbox'>
 <div class='item active'>
+<a class='carousel-caption' href='news?lang=de&news_id=1338' title='Nachrichten'>
+<p>IKMK überschreitet die 40.000er Marke</p>
+<p><time datetime='2021-01-13'>13. Januar 2021</time></p>
+</a>
+</div>
+<div class='item'>
+<a class='carousel-caption' href='news?lang=de&news_id=1330' title='Nachrichten'>
+<p>Mitarbeiter des Münzkabinetts: Von, für und mit Menschen. Vorstellung der neuen Publikation zur Geschichte des Münzkabinetts</p>
+<p><time datetime='2020-12-10'>10. Dezember 2020</time></p>
+</a>
+</div>
+<div class='item'>
+<a class='carousel-caption' href='news?lang=de&news_id=1328' title='Nachrichten'>
+<p>J. Sanford Saltus-Preis der American Numismatic Society für Anna Franziska Schwarzbach am 3. Dezember 2020</p>
+<p><time datetime='2020-12-03'>3. Dezember 2020</time></p>
+</a>
+</div>
+<div class='item'>
 <a class='carousel-caption' href='news?lang=de&news_id=1318' title='Nachrichten'>
 <p>Hans-Dieter Dannenberg am 12. Okt. 2020 verstorben / Nachruf</p>
 <p><time datetime='2020-10-19'>19. Okt. 2020</time></p>
@@ -135,24 +153,6 @@
 <a class='carousel-caption' href='news?lang=de&news_id=1301' title='Nachrichten'>
 <p>IKMK überschreitet 38.000 Objekteinträge</p>
 <p><time datetime='2020-06-24'>24. Juni 2020</time></p>
-</a>
-</div>
-<div class='item'>
-<a class='carousel-caption' href='news?lang=de&news_id=1283' title='Nachrichten'>
-<p>eMuseum - Ausstellungswerkzeug für das Münzkabinett eröffnet</p>
-<p><time datetime='2020-03-22'>22. März 2020</time></p>
-</a>
-</div>
-<div class='item'>
-<a class='carousel-caption' href='news?lang=de&news_id=1267' title='Nachrichten'>
-<p>IKMK nun mit 37.000 Objekten online</p>
-<p><time datetime='2020-02-05'>5. Februar 2020</time></p>
-</a>
-</div>
-<div class='item'>
-<a class='carousel-caption' href='news?lang=de&news_id=1253' title='Nachrichten'>
-<p>Sammlungsbestand erschlossen: Gold- und Silbermünzen der Kaiser Valentinianus I. und II., Valens und Gratianus</p>
-<p><time datetime='2019-12-23'>23. Dezember 2019</time></p>
 </a>
 </div>
 </div>

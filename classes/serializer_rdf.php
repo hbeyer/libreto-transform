@@ -44,7 +44,7 @@ class  serializer_rdf extends serializer {
         if ($this->catalogue->description) {
             $collection->add('dc:description', EasyRdf_Literal::create($this->catalogue->description, 'de', null));
         }
-        if ($this->catalogue->owner and $this->catalogue->ownerGND) {    
+        if ($this->catalogue->owner and $this->catalogue->ownerGND) {
             $owner = $this->graph->resource('gnd:'.$this->catalogue->ownerGND, 'libreto:Person');
             $owner->addLiteral('foaf:name', $this->catalogue->owner);
             $collection->addResource('libreto:collector', $owner);
@@ -234,10 +234,11 @@ class  serializer_rdf extends serializer {
             $personResource->add('dc:identifier', $identifierGND);
         }
         if ($person->role == 'borrower') {
-            $lending = $this->graph->newBNode('libreto:Lending');
-            $lending->add('libreto:dateLending', EasyRdf_Literal::create($person->dateLending, null, 'xsd:date'));
-            $lending->addResource('libreto:borrower', $personResource);
-     
+            foreach ($person->dateLending as $dateL) {
+                $lending = $this->graph->newBNode('libreto:Lending');
+                $lending->add('libreto:dateLending', EasyRdf_Literal::create($dateL, null, 'xsd:date'));
+                $lending->addResource('libreto:borrower', $personResource);                
+            }
         }
         else {    
             $property = 'dc:contributor';
