@@ -1,7 +1,7 @@
 #FORMAT: BEACON
 #VERSION: 0.1
 #TARGET: http://beacon.findbuch.de/pnd-resolver/regacad/{ID}
-#TIMESTAMP: 2020-12-02T00:20:13Z
+#TIMESTAMP: 2021-02-09T00:20:14Z
 #CONTACT: Thomas Berger < ThB [at] Gymel [dot] Com >
 #FEED: https://beacon.findbuch.de/downloads/regacad/regacad-pndbeacon.txt
 #EXAMPLES: 116170654
@@ -12,7 +12,7 @@
 #UPDATE: On demand
 #PREFIX: http://d-nb.info/gnd/
 #DESCRIPTION: Protokolle ("Registres") der wöchentlichen Plenarsitzungen der Académie Royale des Sciences et Belles-Lettres de Prusse aus den Jahren 1746 bis 1786 < http://akademieregistres.bbaw.de/ >
-#X-REVISION: 122 [2017-03-05T00:03:37Z]
+#X-REVISION: 123 [2017-03-05T00:03:37Z]
 #X-EXTENT: 497 unique identifiers of type SeeAlso::Identifier::PND
 100002188
 100003141

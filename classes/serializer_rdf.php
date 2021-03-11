@@ -52,7 +52,7 @@ class  serializer_rdf extends serializer {
         elseif ($this->catalogue->owner) {
             $owner = $this->graph->resource('br:'.$this->fileName.'/persons/'.urlencode($this->catalogue->owner), 'libreto:Person');
             $owner->addLiteral('foaf:name', $this->catalogue->owner);
-            $collection->addResource('libreto:collector', $this->owner);
+            $collection->addResource('libreto:collector', $this->catalogue->owner);
         }
     }
 
