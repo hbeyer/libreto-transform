@@ -80,6 +80,7 @@ class index {
 			$index1 = $this->makeEntries($collect1);
 			unset($collect1);
 			$collect2 = $this->collectIDs('format');
+			$index2 = $this->makeEntries($collect2);
 			$this->entries2 = $this->makeEntries($collect2);
 			unset($collect2);
 			$this->entries = index::mergeIndices($index1, $index2);
@@ -167,12 +168,14 @@ class index {
 		return($commonIndex);
 	}
 
-	private function collectIDs() {
+	private function collectIDs($field = null) {
+		if ($field == null) {
+			$field = $this->field;
+		}
 		$collect = array();
 		$count = 0;
 		foreach($this->data as $item) {
-			$fieldStr = $this->field;
-			$key = index::preprocessFields($this->field, $item->$fieldStr, $item);
+			$key = index::preprocessFields($field, $item->$field, $item);
 			if(array_key_exists($key, $collect) == FALSE) {
 				$collect[$key] = array();
 			}
@@ -245,6 +248,9 @@ class index {
 		foreach($this->data as $item) {
 			foreach($item->persons as $person) {
 				foreach($person->beacon as $beacon) {
+					if (empty($beaconSources[$beacon])) {
+						continue;
+					}
 					$key = $beaconSources[$beacon]['label'];
 					if(array_key_exists($key, $collect) == FALSE) {
 						$collect[$key] = array();
