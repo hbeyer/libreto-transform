@@ -11,7 +11,7 @@ class serializer_solr extends serializer_xml {
     }
 
     protected function insertContent() {
-        $multiValued = array('languages', 'languagesFull', 'genres', 'subjects', 'author', 'contributor', 'publishers');
+        $multiValued = array('languages', 'languagesFull', 'genres', 'subjects', 'author', 'contributor', 'publishers', 'borrower', 'borrower_pers');
         $SOLRArray = $this->makeSOLRArray();
         $SOLRArray = $this->addMetaDataSOLR($SOLRArray);
         $rootElement = $this->dom->createElement('add');
@@ -162,6 +162,8 @@ class serializer_solr extends serializer_xml {
         }
         if(isset($collectBorrowers[0])) {
             $result['borrower'] = implode(';', $collectBorrowers);
+            $borr_pers = array_unique(array_map(function($string) { $split = explode('~', $string); return($split[0]); }, $collectBorrowers));
+            $result['borrower_pers'] = implode(';', $borr_pers);
         }
         if(isset($collectDateLending[0])) {
             $result['dateLending'] = implode(';', $collectDateLending);
