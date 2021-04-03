@@ -10,7 +10,7 @@ class reconstruction {
     const FOLDER = 'projectFiles';
     const INCLUDEPATH = 'functions/';
     public $valid = 0;
-    private $GNDList = array();
+    protected $GNDList = array();
 
     function __construct($path, $fileName, $format = 'xml') {
         $this->fileName = $fileName;
@@ -48,17 +48,17 @@ class reconstruction {
         }*/
     }
     
-    private function convertCatalogueToFull() {
+    protected function convertCatalogueToFull() {
         $this->catalogues[0]->addSections($this->content);
     }
 
-    private function convertContentToFull() {
+    protected function convertContentToFull() {
         foreach ($this->content as $item) {
             $item->convertToFull();
         }
     }
 
-    private function convertMetadataToDefault() {
+    protected function convertMetadataToDefault() {
         if (empty($this->catalogue) and isset($this->catalogues[0])) {
             $this->catalogue = $this->catalogues[0];
         }
@@ -109,7 +109,7 @@ class reconstruction {
         }
     }
 
-    private function insertIDs() {
+    protected function insertIDs() {
         $count = 0;
         foreach ($this->content as $item) {
             $item->id = $this->fileName.$count; 
@@ -117,7 +117,7 @@ class reconstruction {
         }
     }
 
-    private function addVolumeInformation() {
+    protected function addVolumeInformation() {
         $countVolumes = -1;
         $result = array();
         foreach ($this->content as $item) {
@@ -175,7 +175,7 @@ class reconstruction {
         $archiveGetty->saveToFile('getty');
     }
 
-    private function makeCompleteGNDList() {
+    protected function makeCompleteGNDList() {
         foreach ($this->content as $item) {
             foreach ($item->persons as $person) {
                 if ($person->gnd) {
@@ -186,7 +186,7 @@ class reconstruction {
         return($this->GNDList);
     }
 
-    private function makeSelectiveGNDList($include = array()) {
+    protected function makeSelectiveGNDList($include = array()) {
         foreach ($this->content as $item) {
             foreach ($item->persons as $person) {
                 if (in_array($person->role, $include)) {
@@ -197,7 +197,7 @@ class reconstruction {
         return($this->GNDList);        
     }
 
-    private function createDirectory() {
+    protected function createDirectory() {
         if (!is_dir(reconstruction::FOLDER.'/'.$this->fileName)) {
             mkdir(reconstruction::FOLDER.'/'.$this->fileName, 0777, true);
         }

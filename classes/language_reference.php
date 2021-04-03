@@ -4,6 +4,7 @@ abstract class language_reference {
 
     //Language codes according to ISO 639.2
     static $languageCodes = array(
+	    'gez' => 'Altäthiopisch',
 	    'ang' => 'Altenglisch',
 	    'fro' => 'Altfranzösisch',
 	    'grc' => 'Altgriechisch',
