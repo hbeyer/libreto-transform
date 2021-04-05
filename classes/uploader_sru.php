@@ -59,6 +59,8 @@ class uploader_sru extends uploader {
 		$xpn = new DOMXPath($this->tempDOM);
 		$xpn->registerNamespace('pica', 'info:srw/schema/5/picaXML-v1.0');
 
+
+
 		$singleValued = array('year', 'titleBib', 'format', 'digitalCopy');
 		foreach ($singleValued as $field) {
 			$conf = picaConf::getFieldConf($field);
@@ -88,7 +90,33 @@ class uploader_sru extends uploader {
 		$conf = picaConf::getFieldConf('titleSupp');
 		$array = $this->getValues($recNode, $xpn, $conf['field'], $conf['subfield']);
 		if (isset($array[0])) {
-			$item->titleBib .= $array[0];
+			$item->titleBib .= '. '.$array[0];
+		}
+
+		$conf = picaConf::getFieldConf('bbg');
+		$array = $this->getValues($recNode, $xpn, $conf['field'], $conf['subfield']);
+		$bbg = array_shift($array);
+		$item->mediaType = $this->getMediaType($bbg);
+		if (substr($bbg, 1, 1) == 'f') {
+			$conf = picaConf::getGroupConf('seriesf');
+			$serData = $this->getNestedValues($recNode, $xpn, $conf['field'], $conf['subfields']);
+			$serData = array_shift($serData);
+			if (isset($serData['title']) and isset($serData['vol'])) {
+				if ($item->titleBib) {
+					$item->titleBib .= '. '.$serData['title'].' '.$serData['vol'];
+				}
+				else {
+					$item->titleBib = $serData['title'].' '.$serData['vol'];
+				}
+			}
+		}
+		elseif (substr($bbg, 1, 1) == 'F') {
+			$conf = picaConf::getGroupConf('seriesf');
+			$serData = $this->getNestedValues($recNode, $xpn, $conf['field'], $conf['subfields']);
+			$serData = array_shift($serData);
+			if ($item->titleBib and isset($serData['title']) and isset($serData['vol'])) {
+				$item->titleBIb = $serData['title'].' '.$serData['vol'].' '.$item->titleBib;
+			}
 		}
 
 		$item->titleBib = strtr($item->titleBib, array('@' => '', '..' => '.', '  ' => ' ', '=||' => '', '||' => ''));
@@ -130,12 +158,8 @@ class uploader_sru extends uploader {
 			$item->places[] = $place;
 		}
 
-		$conf = picaConf::getFieldConf('publishers');
-		$array = $this->getValues($recNode, $xpn, $conf['field'], $conf['subfield']);
-		$item->publishers = $array;
-
 		if ($item->places == array()) {
-			$conf = picaConf::getFieldConf('places');
+			$conf = picaConf::getFieldConf('placesVorl');
 			$array = $this->getValues($recNode, $xpn, $conf['field'], $conf['subfield']);
 			foreach ($array as $placeName) {
 				$place = new place;
@@ -144,11 +168,13 @@ class uploader_sru extends uploader {
 			}
 		}
 
+		$conf = picaConf::getFieldConf('publishers');
+		$array = $this->getValues($recNode, $xpn, $conf['field'], $conf['subfield']);
+		$item->publishers = $array;
+
 		$item = $this->getManifestation($item, $recNode, $xpn);
 
-		$conf = picaConf::getFieldConf('bbg');
-		$array = $this->getValues($recNode, $xpn, $conf['field'], $conf['subfield']);
-		$item->mediaType = $this->getMediaType(array_shift($array));
+		$item = $this->getShelfmark($item, $recNode, $xpn);
 
 		return($item);
 	}
@@ -236,6 +262,25 @@ class uploader_sru extends uploader {
 			return($conc[$ind]);
 		}
 		return(null);
+	}
+
+	protected function getShelfmark($item, $recNode, $xpn) {
+		$confPPN = picaConf::getFieldConf('ppn');
+		$conf = picaConf::getGroupConf('shelfmarks');
+		$smData = $this->getNestedValues($recNode, $xpn, $conf['field'], $conf['subfields']);
+		foreach ($smData as $smRow) {
+			if (isset($smRow['institution']) and isset($smRow['shelfmark'])) {
+				if ($smRow['institution'] == 'Bibliothek der Oberkirche Arnstadt') {
+					$item->originalItem['institutionOriginal'] = trim($smRow['institution']);
+					$item->originalItem['shelfmarkOriginal'] = $smRow['shelfmark'];
+					$ppnAr = $this->getValues($recNode, $xpn, $confPPN['field'], $confPPN['subfield']);
+					$item->originalItem['targetOPAC'] = 'https://kxp.k10plus.de/DB=2.1/PPNSET?PPN={ID}';
+					$item->originalItem['searchID'] = array_shift($ppnAr);
+					return($item);
+				}
+			}
+		}
+		return($item);
 	}
 
 }

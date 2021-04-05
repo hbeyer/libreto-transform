@@ -208,7 +208,7 @@ function insertSpace($genre) {
 }
 
 function removeSpecial($name) {
-	$translation = array('Á' => 'A', 'Ł' => 'L', 'Ğ' => 'G', 'Ǧ' => 'G', 'Ĝ' => 'G', 'Ḥ' => 'H', 'ã' => 'a', 'ā' => 'a', 'Ö' => 'Oe');
+	$translation = array('Á' => 'A', 'Ł' => 'L', 'Ğ' => 'G', 'Ǧ' => 'G', 'Ĝ' => 'G', 'Ḥ' => 'H', 'ã' => 'a', 'ā' => 'a', 'Ö' => 'Oe', 'Š' => 'S');
 	$name = strtr($name, $translation);
 	return($name);
 }

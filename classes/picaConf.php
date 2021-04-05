@@ -18,8 +18,8 @@ class picaConf {
 			'format' => array('field' => '034I', 'subfield' => 'a'),
 			'subjects' => array('field' => '044S', 'subfield' => 'a'),
 			'publishers' => array('field' => '033A', 'subfield' => 'n'),
-			'places' => array('field' => '033D', 'subfield' => 'p'),
-			'digitalCopy' => array('field' => '017D', 'subfield' => 'u', 'implode' => null)
+			'placesVorl' => array('field' => '033A', 'subfield' => 'p'),
+			'digitalCopy' => array('field' => '017D', 'subfield' => 'u')
 		);
 		if (empty($conf[$field])) {
 			return(null);
@@ -32,7 +32,10 @@ class picaConf {
 			'author1' => array('field' => '028A', 'subfields' => array('forename' => 'd', 'surname' => 'a', 'personal' => 'p', 'from' => 'l', 'gnd' => '7')),
 			'author2' => array('field' => '028B', 'subfields' => array('forename' => 'd', 'surname' => 'a', 'personal' => 'p', 'from' => 'l', 'gnd' => '7')),
 			'contributors' => array('field' => '028C', 'subfields' => array('forename' => 'd', 'surname' => 'a', 'personal' => 'p', 'from' => 'l', 'gnd' => '7')),
-			'places' => array('field' => '033D', 'subfields' => array('placeName' => 'p', 'gnd' => '7'))
+			'places' => array('field' => '033D', 'subfields' => array('placeName' => 'p', 'gnd' => '7')),
+			'shelfmarks' => array('field' => '209A', 'subfields' => array('institution' => 'f', 'shelfmark' => 'a')),
+			'seriesf' => array('field' => '036C', 'subfields' => array('title' => 'a', 'vol' => 'l')),
+			'seriesF' => array('field' => '036D', 'subfields' => array('title' => '8', 'vol' => 'l'))
 		);
 		if (empty($conf[$field])) {
 			return(null);
