@@ -90,3 +90,16 @@ Die Methode `frontend::build()` sorgt dafür, dass die Ergebnisse als statische 
 
 ## Erzeugung einer biographischen Karte
 Mit der Methode `reconstruction::makeBioDataSheet()` kann zusätzlich ein Geodatenblatt zu den als AutorInnen oder BeiträgerInnen in der Sammlung enthaltenen und mit GND-Nummer versehenen Personen erzeugt werden (derzeit nur in CSV). Hierzu werden die GND-Normdatensätze geladen und unter ***cache/gnd*** vorgehalten (zum Auffrischen Ordner leeren). Für jede Nennung einer Person wird ein Ort und ein Datum (bevorzugt Geburtsort und -jahr) wiedergegeben. Die Geodaten werden aus der GND geladen. Von Geographika ohne Geodaten wird der bevorzugte Name angegeben, dieser kann dann mit dem GeoDataSheetEditor von DARIAH-DE ergänzt oder manuell nachgetragen werden. Die Datei wird wird im Projektordner unter ***bioPlaces.csv*** abgelegt.
+
+## Direktimport von Daten über die SRU-Schnittstelle
+Anstelle der manuellen Datenerfassung in CSV oder XML können die Daten auch über die SRU-Schnittstelle aus einem Bibliothekskatalog geladen werden. Voraussetzung ist, dass die Schnittstelle das Format picaxml unterstützt.
+Hierfür wird ein Objekt der Klasse `reconstruction_sru` mit den folgenden Parametern erzeugt:
+
+- `$query`: Die Abfrage in PICA-Syntax. Jedem Suchschlüssel muss "pica." vorangestellt werden. Leerzeichen müssen durch "+" codiert werden.
+- `$fileName`: Der Dateiname für das Projekt
+- Optional: `$sru`. Die Adresse der SRU-Schnittstelle, sofern nicht die des Gemeinsamen Verbundkatalogs (http://sru.k10plus.de/gvk) abgefragt werden soll. Zu den vorhandenen Schnittstellen s. https://wiki.k10plus.de/display/K10PLUS/Datenbanken und http://uri.gbv.de/database/
+- Optional: `$bib`. Der Name der Bibliothek, deren Signaturen eingebunden werden sollen. Sofern der Bibliotheksname in PICA-Feld 209A $f steht und der Parameter `$regexSig` nicht gesetzt ist, wird von der genannten Bibliothek jeweils die erste Signatur übernommen.
+- Optional: `$regexSig`. Ein regulärer Ausdruck, der auf alle Signaturen, die als Originalexemplar angezeigt werden sollen, matcht. Hiervon wird in einem Datensatz jeweils die erste übernommen. Bei Verwendung sollte im Parameter `$bib` der Bibliotheksname stehen.
+
+### Beispiel:
+`$reconstruction = new reconstruction_sru('pica.exk=sammlung+hardt+and+pica.bbg=(aa*+or+af*)', 'hardt', null, 'Herzog August Bibliothek Wolfenbüttel', 'M: Li 5530 Slg');`

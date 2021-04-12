@@ -2,7 +2,7 @@
 
 class picaConverter {
 	
-	public static function makeItem($recNode, $xp, $bib) {
+	public static function makeItem($recNode, $xp, $bib, $regexSig) {
 		$item = new item;
 		$singleValued = array('year', 'titleBib', 'format', 'digitalCopy');
 		foreach ($singleValued as $field) {
@@ -101,7 +101,7 @@ class picaConverter {
 		$item = picaConverter::insertManifestation($item, $recNode, $xp);
 
 		if ($bib) {
-			$item = picaConverter::insertShelfmark($item, $recNode, $xp, $bib);
+			$item = picaConverter::insertShelfmark($item, $recNode, $xp, $bib, $regexSig);
 		}
 
 		return($item);
@@ -238,17 +238,34 @@ class picaConverter {
 		return(null);
 	}
 
-	protected static function insertShelfmark($item, $recNode, $xp, $bib) {
+	protected static function insertShelfmark($item, $recNode, $xp, $bib, $regexSig) {
 		$smData = picaConverter::getNestedValues($recNode, $xp, 'shelfmarks');
-		foreach ($smData as $smRow) {
-			if (isset($smRow['institution']) and isset($smRow['shelfmark'])) {
-				if (trim($smRow['institution']) == $bib) {
+		$ppnAr = picaConverter::getValues($recNode, $xp, 'ppn');
+		$ppn = array_shift($ppnAr);
+		if ($regexSig == null) {
+			foreach ($smData as $smRow) {
+				if (isset($smRow['institution']) and isset($smRow['shelfmark'])) {
+					if (trim($smRow['institution']) == $bib) {
+						$item->originalItem['institutionOriginal'] = $bib;
+						$item->originalItem['shelfmarkOriginal'] = $smRow['shelfmark'];
+						$item->originalItem['targetOPAC'] = 'https://kxp.k10plus.de/DB=2.1/PPNSET?PPN={ID}';
+						$item->originalItem['searchID'] = $ppn;
+						return($item);
+					}
+				}
+			}
+		}
+		else {
+			foreach ($smData as $smRow) {
+				if (empty($smRow['shelfmark'])) {
+					continue;
+				} 
+				if (preg_match('~'.$regexSig.'~', $smRow['shelfmark'])) {
 					$item->originalItem['institutionOriginal'] = $bib;
 					$item->originalItem['shelfmarkOriginal'] = $smRow['shelfmark'];
-					$ppnAr = picaConverter::getValues($recNode, $xp, 'ppn');
 					$item->originalItem['targetOPAC'] = 'https://kxp.k10plus.de/DB=2.1/PPNSET?PPN={ID}';
-					$item->originalItem['searchID'] = array_shift($ppnAr);
-					return($item);
+					$item->originalItem['searchID'] = $ppn;
+					return($item);	
 				}
 			}
 		}
