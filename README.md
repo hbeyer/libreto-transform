@@ -102,4 +102,4 @@ Hierfür wird ein Objekt der Klasse `reconstruction_sru` mit den folgenden Param
 - Optional: `$regexSig`. Ein regulärer Ausdruck, der auf alle Signaturen, die als Originalexemplar angezeigt werden sollen, matcht. Hiervon wird in einem Datensatz jeweils die erste übernommen. Bei Verwendung sollte im Parameter `$bib` der Bibliotheksname stehen.
 
 ### Beispiel:
-`$reconstruction = new reconstruction_sru('pica.exk=sammlung+hardt+and+pica.bbg=(aa*+or+af*)', 'hardt', null, 'Herzog August Bibliothek Wolfenbüttel', 'M: Li 5530 Slg');`
+> $reconstruction = new reconstruction_sru('pica.exk=sammlung+hardt+and+pica.bbg=(aa*+or+af*)', 'hardt', null, 'Herzog August Bibliothek Wolfenbüttel', 'M: Li 5530 Slg');
