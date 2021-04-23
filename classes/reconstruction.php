@@ -132,7 +132,7 @@ class reconstruction {
         $this->content = $result;
     }
 
-    public function insertBeacon($beaconupdate = true) {
+    public function insertBeacon($beaconupdate = false) {
         $repository = new beacon_repository($beaconupdate);
         $gnds = array();
         foreach ($this->content as $item) {

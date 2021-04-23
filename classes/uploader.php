@@ -33,7 +33,7 @@ class  uploader {
         if (!file_exists($metaPath)) {
            copy ('templateCat.php', $metaPath);
            chmod($metaPath, 0777);
-           throw new Exception('Bitte füllen Sie die Datei '.$this->fileName.'-cat.php aus und wiederholen Sie den Vorgang.', 1);
+           die('Bitte füllen Sie die Datei '.$this->fileName.'-cat.php aus und wiederholen Sie den Vorgang.');
         }
         else {
             require($metaPath);
@@ -43,7 +43,7 @@ class  uploader {
                         continue;
                     }
                     if (substr($value, 0, 1) == '{') {
-                        throw new Exception('Bitte entfernen Sie alle geschweiften Klammern aus der Datei '.$this->fileName.'-cat.php und wiederholen Sie den Vorgang.', 1);
+                        die('Bitte entfernen Sie alle geschweiften Klammern aus der Datei '.$this->fileName.'-cat.php und wiederholen Sie den Vorgang.');
                     }
                 }
                 return($catalogue);

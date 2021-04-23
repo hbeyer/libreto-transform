@@ -101,5 +101,7 @@ Hierfür wird ein Objekt der Klasse `reconstruction_sru` mit den folgenden Param
 - Optional: `$bib`. Der Name der Bibliothek, deren Signaturen eingebunden werden sollen. Sofern der Bibliotheksname in PICA-Feld 209A $f steht und der Parameter `$regexSig` nicht gesetzt ist, wird von der genannten Bibliothek jeweils die erste Signatur übernommen.
 - Optional: `$regexSig`. Ein regulärer Ausdruck, der auf alle Signaturen, die als Originalexemplar angezeigt werden sollen, matcht. Hiervon wird in einem Datensatz jeweils die erste übernommen. Bei Verwendung sollte im Parameter `$bib` der Bibliotheksname stehen.
 
+Die geladenen XML-Daten werden unter cache/pica zwischengespeichert. Nach Änderungen an den Katalogisaten muss dieser Ordner geleehrt werden.
+
 ### Beispiel:
 `$reconstruction = new reconstruction_sru('pica.exk=sammlung+hardt+and+pica.bbg=(aa*+or+af*)', 'hardt', null, 'Herzog August Bibliothek Wolfenbüttel', 'M: Li 5530 Slg');`

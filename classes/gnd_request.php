@@ -27,7 +27,6 @@ class gnd_request {
             }
             else {
                 $this->response = json_decode($string, true);
-                //var_dump($this->response);
                 unset($string);
                 foreach ($this->response as $key => $value) {
                     if ($key == 'preferredName') {

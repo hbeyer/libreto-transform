@@ -80,7 +80,6 @@ class place {
 
     public function addGeoData($geoDataArchive, $type, $user = '') {
         $entry = $geoDataArchive->getFromWeb($this->$type, $type, $user);
-        //var_dump($entry);
         if ($entry) {
             $this->geoData = array('lat' => $entry->lat, 'long' => $entry->long);
             $geoDataArchive->insertEntryIfNew($type, $this->$type, $entry);

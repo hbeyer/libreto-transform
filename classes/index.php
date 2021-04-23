@@ -26,7 +26,7 @@ class index {
 		$this->field = $field;
 		$this->data = $data;
 		$this->indexFields = array_merge($this->normalFields, $this->personFields, $this->placeFields, $this->arrayFields, $this->workFields, $this->manifestationFields, $this->originalItemFields, $this->virtualFields);
-		$this->beaconRep = new beacon_repository;
+		$this->beaconRep = new beacon_repository(true);
 		if(in_array($this->field, $this->normalFields)) {
 			$collect = $this->collectIDs();
 		}

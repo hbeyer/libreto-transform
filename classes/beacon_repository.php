@@ -12,7 +12,7 @@ class beacon_repository {
     private $sourcesHAB = array('bahnsen', 'fruchtbringer', 'cph', 'aqhab', 'vkk', 'sandrart'); // Hier wird festgelegt, welche der unten stehenden Quellen als "Ressourcen der HAB" angezeigt werden sollen
     public $beacon_sources = array(
     	'ddb' => array('label' => 'Deutsche Digitale Bibliothek', 'location' => 'https://labs.ddb.de/app/beagen/item/person/all/latest', 'target' => 'https://www.deutsche-digitale-bibliothek.de/person/gnd/{ID}', 'type' => 'default'),
-        'apd' => array('label' => 'Archivportal D', 'location' => 'https://www.archivportal-d.de/static/de/beacon-archivportal-persons.txt', 'target' => 'https://www.archivportal-d.de/person/gnd/{ID}', 'type' => 'default'),
+        'apd' => array('label' => 'Archivportal D', 'location' => 'https://labs.deutsche-digitale-bibliothek.de/app/beagen/item/person/archive/latest', 'target' => 'https://www.archivportal-d.de/person/gnd/{ID}', 'type' => 'default'),
         'wkp' => array('label' => 'Wikipedia', 'location' => 'http://tools.wmflabs.org/persondata/beacon/dewiki.txt', 'target' => 'http://tools.wmflabs.org/persondata/redirect/gnd/de/{ID}', 'type' => 'default'),        
         'db' => array('label' => 'Deutsche Biographie', 'location' => 'http://www.historische-kommission-muenchen-editionen.de/beacon_db_register.txt', 'target' => 'http://www.deutsche-biographie.de/pnd{ID}.html', 'type' => 'default'),
         'dbi' => array('label' => 'Dizionario Biografico degli Italiani', 'location' => 'http://beacon.findbuch.de/downloads/patchwork/pw_dbi-gndbeacon.txt', 'target' => 'http://beacon.findbuch.de/gnd-resolver/pw_dbi/{ID}', 'type' => 'default'),
@@ -39,9 +39,9 @@ class beacon_repository {
         'hpk' => array('label' => 'Hamburger Professorinnen- und Professorenkatalog', 'location' => 'https://www.hpk.uni-hamburg.de/hpk_gnd_beacon.txt', 'target' => 'https://www.hpk.uni-hamburg.de/resolve/gnd/{ID}', 'type' => 'default'),
         'cph' => array('label' => 'Helmstedter Professorenkatalog', 'location' => 'http://uni-helmstedt.hab.de/beacon.php', 'target' => 'http://uni-helmstedt.hab.de/index.php?cPage=5&sPage=prof&wWidth=1920&wHeight=957&suche1=gnd&pnd1=&muster1={ID}', 'type' => 'default'),		
         'cpr' => array('label' => 'Rostocker Professorenkatalog', 'location' => 'http://cpr.uni-rostock.de/cpr_pnd_beacon.txt', 'target' => 'http://cpr.uni-rostock.de/pnd/{ID}', 'type' => 'default'),		
-        'cpl' => array('label' => 'Leipziger Professorenkatalog', 'location' => 'http://www.uni-leipzig.de/unigeschichte/professorenkatalog/leipzig/cpl-beacon.txt', 'target' => 'http://www.uni-leipzig.de/unigeschichte/professorenkatalog/leipzig/pnd/{ID}', 'type' => 'default'),
+        'cpl' => array('label' => 'Leipziger Professorenkatalog', 'location' => 'http://www.uni-leipzig.de/unigeschichte/professorenkatalog/leipzig/cpl-beacon.txt', 'target' => 'https://www.uni-marburg.de/uniarchiv/pkat/gnd?id={ID}', 'type' => 'default'),
         'cpm' => array('label' => 'Catalogus Professorum der Universität Mainz', 'location' => 'http://gutenberg-biographics.ub.uni-mainz.de/gnd/personen/beacon/file.txt', 'target' => 'http://gutenberg-biographics.ub.uni-mainz.de/gnd/{ID}', 'type' => 'default'),
-        'mpo' => array('label' => 'Marburger Professorenkatalog online', 'location' => 'https://www.lagis-hessen.de/pkat_mr.txt', 'target' =>  'https://www.uni-marburg.de/uniarchiv/pkat/gnd?id={ID}', 'type' => 'default'),
+        'mpo' => array('label' => 'Marburger Professorenkatalog online', 'location' => 'https://professorenkatalog.online.uni-marburg.de/pkat_mr.txt', 'target' =>  'https://www.uni-marburg.de/uniarchiv/pkat/gnd?id={ID}', 'type' => 'default'),
         'cprm' => array('label' => 'Matrikel der Universität Rostock', 'location' => 'http://matrikel.uni-rostock.de/matrikel_rostock_pnd_beacon.txt', 'target' => 'http://matrikel.uni-rostock.de/gnd/{ID}', 'type' => 'default'),
         'hvuz' => array('label' => 'Historische Vorlesungsverzeichnisse der Universität Zürich 1833–1900', 'location' => 'http://histvv.uzh.ch/pnd.txt', 'target' => 'http://histvv.uzh.ch/pnd/{ID}', 'type' => 'default'),
         'mabk' => array('label' => 'Matrikel der Akademie der Bildenden Künste München', 'location' => 'http://www.historische-kommission-muenchen-editionen.de/beacond/adbk.php?beacon', 'target' => 'http://www.historische-kommission-muenchen-editionen.de/beacond/adbk.php?pnd={ID}', 'type' => 'default'),	
@@ -63,7 +63,7 @@ class beacon_repository {
         'humbdig' => array('label' => 'edition humboldt digital', 'location' => 'https://edition-humboldt.de/api/v1/beacon.xql', 'target' => 'https://edition-humboldt.de/register/personen/detail.xql?normid=http://d-nb.info/gnd/{ID}', 'type' => 'default'),
         'cfgb' => array('label' => 'Carl Friedrich Gauss Briefwechsel', 'location' => 'http://www.historische-kommission-muenchen-editionen.de/beacond/gauss.php?beacon', 'target' => 'http://www.historische-kommission-muenchen-editionen.de/beacond/gauss.php?pnd={ID}', 'type' => 'default'),
         'gauss' => array('label' => 'Briefwechsel von Carl Friedrich Gauß - Korrespondenten', 'location' => 'http://www.historische-kommission-muenchen-editionen.de/beacond/gauss.php?beacon', 'target' => 'http://www.historische-kommission-muenchen-editionen.de/beacond/gauss.php?pnd={ID}', 'type' => 'default'),
-        'muenz' => array('label' => 'Katalog des Münzkabinetts Staatliche Museen zu Berlin', 'location' => 'http://ww2.smb.museum/ikmk/beacon_gnd.php', 'target' => 'http://ww2.smb.museum/ikmk/filter_text.php?filter%5B0%5D%5Bfield%5D=gnd&filter%5B0%5D%5Btext%5D={ID}', 'type' => 'default'),	
+        'muenz' => array('label' => 'Katalog des Münzkabinetts Staatliche Museen zu Berlin', 'location' => 'https://ikmk.smb.museum/beacon_gnd.php', 'target' => 'https://ikmk.smb.museum/extended_search?search_type=search-extended&search_values%5Bfilter%5D%5B0%5D%5Bfield%5D=gnd&search_values%5Bfilter%5D%5B0%5D%5Bvalue%5D={ID}', 'type' => 'default'),	
         'dpi' => array('label' => 'Digitaler Portraitindex', 'location' => 'http://www.portraitindex.de/pnd_beacon.txt', 'target' => 'http://www.portraitindex.de/dokumente/pnd/{ID}', 'type' => 'default'),
         'vkk' => array('label' => 'Virtuelles Kupferstichkabinett', 'location' => 'http://www.virtuelles-kupferstichkabinett.de/beacon.php', 'target' => 'http://www.virtuelles-kupferstichkabinett.de/index.php?reset=1&subPage=search&selTab=2&habFilter=1&haumFilter=1&selFilter=0&sKey1=pzusatz&sWord1={ID}', 'type' => 'default'),
         'gpa' => array('label' => 'Graphikportal – Akteure', 'location' => 'https://www.graphikportal.org/gnd_beacon_event.txt', 'target' => 'https://www.graphikportal.org/gnd-beacon/{ID}', 'type' => 'default'),
@@ -83,12 +83,13 @@ class beacon_repository {
 // '' => array('label' => '', 'location' => '', 'target' => '', 'type' => 'default'),
 
     function __construct($update = true) {
+        $this->valid = $this->validate();
         $dateArchive = intval(file_get_contents($this->folder.'/changeDate'));
         $this->lastUpdate = date('Y-m-d H:i:s', $dateArchive);      
         if ($update == false) {
             return;
         }
-        elseif ($this->validate() == false) {
+        elseif ($this->valid == false) {
             if (!is_dir($this->folder)) {
                 mkdir($this->folder, 0777);
             }
@@ -102,24 +103,16 @@ class beacon_repository {
         
     }
 
-  //   function __construct() {
-		// if (!is_dir($this->folder)) {
-		// 	mkdir($this->folder);
-  //           chmod($this->folder, $this->filePermission);
-  //           $this->update();
-		// }
-  //       $this->valid = $this->validate();
-  //   }
-
     public function secondsSinceLastUpdate() {
         return(date('U') - $this->lastUpdate);
     }
 
     public function update() {
+        echo "Aktualisieren der BEACON-Dateien unter beaconFiles\n";
         ini_set('user_agent', $this->user);
         foreach ($this->beacon_sources as $key => $source) {
-            if (!copy($source['location'], $this->folder.'/'.$key)) {
-                echo 'Kopieren von '.$source['location'].' nach '.$this->folder.'/'.$key.' schlug fehl.<br />';
+            if (!@copy($source['location'], $this->folder.'/'.$key)) {
+                echo 'Problem beim Kopieren von '.$source['location'].' nach '.$this->folder.'/'.$key."\n";
             }
             else {
                 chmod($this->folder.'/'.$key, $this->filePermission);
@@ -220,8 +213,6 @@ class beacon_repository {
             $target = ' target="'.$target.'"';
         }
         if (empty($this->beacon_sources[$key]['type'])) {
-            var_dump($key);
-            var_dump($gnd);
             die;
         }
         if ($this->beacon_sources[$key]['type'] == 'specified') {

@@ -8,7 +8,7 @@ class export_xml_full extends export {
 		$root = $this->dom->getElementsByTagName('collection')->item(0);
 	    $this->addMetadata($root);
 	    $this->addContent($root);
-	    echo $this->dom->saveXML();
+	    $this->dom->saveXML();
 	    return(true);
 	}
 
