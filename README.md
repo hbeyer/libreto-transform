@@ -104,4 +104,4 @@ Hierfür wird ein Objekt der Klasse `reconstruction_sru` mit den folgenden Param
 Die geladenen XML-Daten werden unter cache/pica zwischengespeichert. Nach Änderungen an den Katalogisaten muss dieser Ordner geleehrt werden.
 
 ### Beispiel:
-`$reconstruction = new reconstruction_sru('pica.exk=sammlung+hardt+and+pica.bbg=(aa*+or+af*)', 'hardt', null, 'Herzog August Bibliothek Wolfenbüttel', 'M: Li 5530 Slg');`
+> $reconstruction = new reconstruction_sru('pica.exk=sammlung+hardt+and+pica.bbg=(aa*+or+af*)', 'hardt', null, 'Herzog August Bibliothek Wolfenbüttel', 'M: Li 5530 Slg');
