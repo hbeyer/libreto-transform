@@ -11,3 +11,5 @@ class catalogue_section {
 	}
 
 }
+
+?>

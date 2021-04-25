@@ -14,7 +14,7 @@ class reconstruction_sru extends reconstruction {
         $this->catalogues = $uploader->loadCatalogues($this->fileName);
         //$this->catalogue = $this->catalogues[0];
         $this->convertMetadataToDefault();
-        //$this->content = $uploader->content;
+        $this->content = $uploader->content;
         $this->insertIDs();
         $this->convertCatalogueToFull();
         $this->convertContentToFull();

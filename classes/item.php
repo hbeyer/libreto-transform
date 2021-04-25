@@ -1,5 +1,3 @@
-
-
 <?php
 
 class item	{ //Refers to an item (book, manuscript, etc.) listed in the catalogue

@@ -10,8 +10,6 @@ class uploader_sru extends uploader {
 	protected $tempXP = null;
 	public $numHits = 0;
 
-	//$bib: Diese Lösung ist nur dann befriedigend, wenn 209A $f mit dem Bibliotheksnamen besetzt ist, was bei der HAB z. B. nicht der Fall ist. Man könnte einen regulären Ausdruck zur Selektion der Signatur übergeben, was aber zusätzlich zu $bib geschehen müsste
-	//Weiteres Desiderat: Ansprechen einzelner OPACs per SRU, s. die Liste unter http://uri.gbv.de/database/opac und https://wiki.k10plus.de/display/K10PLUS/Datenbanken
 	public function __construct($query, $fileName, $sru = null, $bib = null, $regexSig = null) {
 		if (substr($sru, 0, 10) == 'http://sru') {
 			$this->source = trim($sru, '/');
