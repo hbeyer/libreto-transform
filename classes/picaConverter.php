@@ -47,17 +47,6 @@ class picaConverter {
 					$item->titleBib = $titleSer;
 				}
 			}
-
-			/*
-			if (isset($serData['title']) and isset($serData['vol'])) {
-				if ($item->titleBib) {
-					$item->titleBib .= '. '.$serData['title'].' '.$serData['vol'];
-				}
-				else {
-					$item->titleBib = $serData['title'].' '.$serData['vol'];
-				}
-			}
-			*/
 		}
 		elseif (substr($bbg, 1, 1) == 'F') {
 			$serData = picaConverter::getNestedValues($recNode, $xp, 'seriesf');
@@ -112,6 +101,9 @@ class picaConverter {
 		}
 
 		$item->publishers = picaConverter::getValues($recNode, $xp, 'publishers');
+		if (empty($item->publishers)) {
+			$item->publishers = picaConverter::getValues($recNode, $xp, 'publishersVorl');
+		}
 
 		$item = picaConverter::insertManifestation($item, $recNode, $xp);
 
@@ -151,7 +143,8 @@ class picaConverter {
 			'titleSupp' => array('field' => '021A', 'subfield' => 'd'),
 			'format' => array('field' => '034I', 'subfield' => 'a'),
 			'subjects' => array('field' => '044S', 'subfield' => 'a'),
-			'publishers' => array('field' => '033A', 'subfield' => 'n'),
+			'publishers' => array('field' => '033J', 'subfield' => '8'),
+			'publishersVorl' => array('field' => '033A', 'subfield' => 'n'),
 			'placesVorl' => array('field' => '033A', 'subfield' => 'p'),
 			'digitalCopy' => array('field' => '017D', 'subfield' => 'u')
 		);
