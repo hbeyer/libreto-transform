@@ -223,6 +223,26 @@ class index {
 		return($return);
 	}
 
+
+	private function collectIDsSubObjects($subField) {
+		$collect = array();
+		$count = 0;
+		foreach($this->data as $item) {
+			$fieldStr = $this->field;
+			foreach($item->$subField as $subItem) {
+				$key = index::preprocessFields($subField, $subItem->$fieldStr, $item);
+				if(array_key_exists($key, $collect) == FALSE) {
+					$collect[$key] = array();
+				}
+				$collect[$key][] = $count;
+			}
+		$count ++;
+		}
+		$return = array('collect' => $collect);
+		return($return);
+	}
+
+/*
 	private function collectIDsSubObjects($subField) {
 		$collect = array();
 		$count = 0;
@@ -240,6 +260,7 @@ class index {
 		$return = array('collect' => $collect);
 		return($return);
 	}
+*/
 
 	private function collectIDsBeacon() {
 	    $beaconSources = $this->beaconRep->beacon_sources;
