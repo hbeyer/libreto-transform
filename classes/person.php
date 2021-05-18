@@ -47,6 +47,13 @@ class person {
         }
         return($ret);
     }
+
+    public function makeID() {
+        if ($this->gnd) {
+            return('gnd_'.$this->gnd);
+        }
+        return($this->persName);
+    }
 	
 }
 

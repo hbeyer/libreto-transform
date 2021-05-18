@@ -90,6 +90,16 @@ class place {
         }
         return(false);
     }
+
+    public function makeID() {
+        $sys = array('getty', 'gnd', 'geoNames');
+        foreach ($sys as $name) {
+            if ($this->$name) {
+                return($name.'_'.$this->$name);
+            }
+        }
+        return($this->placeName);
+    }
 	
 }
 

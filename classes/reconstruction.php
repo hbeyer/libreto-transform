@@ -90,6 +90,8 @@ class reconstruction {
         $ser->serialize();
         $ser = new serializer_geocsv($this->catalogue, $this->content, $this->fileName);
         $ser->serialize();
+        $ser = new serializer_gephi($this->catalogue, $this->content, $this->fileName);
+        $ser->serialize();
     }
 
     public function makeBioDataSheet($restrict = array(), $format = 'csv') {

@@ -26,7 +26,7 @@ class index {
 		$this->field = $field;
 		$this->data = $data;
 		$this->indexFields = array_merge($this->normalFields, $this->personFields, $this->placeFields, $this->arrayFields, $this->workFields, $this->manifestationFields, $this->originalItemFields, $this->virtualFields);
-		$this->beaconRep = new beacon_repository(true);
+		$this->beaconRep = new beacon_repository(false);
 		if(in_array($this->field, $this->normalFields)) {
 			$collect = $this->collectIDs();
 		}
@@ -474,15 +474,18 @@ class index {
 
 	static function normalizeYear($year) {
 		if(preg_match('~([12][0-9][0-9][0-9])[-– ]{1,3}([12][0-9][0-9][0-9])~', $year, $treffer)) {
-			$yearAssign = intval(($treffer[1] + $treffer[2]) / 2);
+			return(strval(intval(($treffer[1] + $treffer[2]) / 2)));
 		}
 		elseif(preg_match('~[12][0-9][0-9][0-9]~', $year, $treffer)) {
-			$yearAssign = $treffer[0];
+			return($treffer[0]);
 		}
-		else {
-			$yearAssign = '';
+		elseif(preg_match('~([12][0-9])XX~', $year, $treffer)) {
+			return($treffer[1].'50');
 		}
-		return($yearAssign);
+		elseif(preg_match('~([12][0-9][0-9])X~', $year, $treffer)) {
+			return($treffer[1].'5');
+		}		
+		return('');
 	}
 		
 	static function getYearFromTitle($title) {
