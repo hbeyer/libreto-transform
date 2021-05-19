@@ -38,7 +38,7 @@ Die Methode `reconstruction::insertGeoData()` fügt Geodaten für Orte hinzu.
 
 Die Methode `reconstruction::insertBeacon()` erzeugt Links zu biographischen Nachweissystemen für Personen. 
 
-Die Methode `reconstruction::saveAllFormats()` speichert im Ordner ***projectFiles/{Dateiname}*** die Daten in folgenden Formaten ab: CSV, XML, RDF/XML, Turtle, TEI, SOLR-XML. Außerdem werden Geodatenblätter in CSV und KML erzeugt.
+Die Methode `reconstruction::saveAllFormats()` speichert im Ordner ***projectFiles/{Dateiname}*** die Daten in folgenden Formaten ab: CSV, XML, RDF/XML, Gephi (CSV), Turtle, TEI, SOLR-XML. Außerdem werden Geodatenblätter in CSV und KML erzeugt.
 
 Außerdem werden die Geodaten im KML- und CSV-Format ausgegeben. Zur Erzeugung einer Kartenansicht muss die Datei `printingPlaces.csv` im Datasheet Editor (https://geobrowser.de.dariah.eu/edit/) hochgeladen und die ID der Datensammlung als `geoBrowserStorageID` bei den Metadaten eingefügt werden.
 
