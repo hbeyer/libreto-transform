@@ -2,8 +2,8 @@
 #PREFIX: http://d-nb.info/gnd/
 #TARGET: https://www.online.uni-marburg.de/fpmr/php/gs/xs2.php?f1=pnd&s1={ID}
 #FEED: https://www.online.uni-marburg.de/fpmr/pnd.txt
-#CONTACT: JÃ¶rg Witzel <joerg.witzel@staff.uni-marburg.de>
-#INSTITUTION: Forschungsstelle fÃ¼r Personalschriften
+#CONTACT: Jörg Witzel <joerg.witzel@staff.uni-marburg.de>
+#INSTITUTION: Forschungsstelle für Personalschriften
 #NAME: Gesamtkatalog deutschsprachiger Leichenpredigten (GESA)
 #MESSAGE: Leichenpredigten 1550-1800 (GESA)
 #TIMESTAMP: 2018-04-26
@@ -36328,4 +36328,3 @@
 189533463|8
 189545364|1
 189551283|1
-

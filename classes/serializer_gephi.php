@@ -3,6 +3,7 @@
 class  serializer_gephi extends serializer {
 
     public function serialize() {
+        $this->beaconRep = new beacon_repository();
         $this->pathNodes = reconstruction::getPath($this->fileName, $this->fileName.'-nodes', 'csv');
         $this->pathEdges = reconstruction::getPath($this->fileName, $this->fileName.'-edges', 'csv');
         $this->handleNodes = fopen($this->pathNodes, 'w');
@@ -15,6 +16,9 @@ class  serializer_gephi extends serializer {
         $this->ownerNode = 'gnd_'.$this->catalogue->ownerGND;
         fputcsv($this->handleNodes, array($this->ownerNode, $this->catalogue->owner, $ownerType));
         fputcsv($this->handleEdges, array('source', 'target', 'property', 'date'));
+        foreach ($this->beaconRep->beacon_sources as $key => $bdata) {
+            fputcsv($this->handleNodes, array('beacon_'.$key, $bdata['label'], 'Personendatenbank'));
+        }
         foreach ($this->data as $item) {
             $this->postData($item);
         }
@@ -43,7 +47,13 @@ class  serializer_gephi extends serializer {
 	    	}
 	    	else {
 	    		fputcsv($this->handleEdges, array($personID, $bookID, $property, $timestamp));
-	    	}    		
+	    	}
+            foreach ($person->beacon as $bkey) {
+                if (!empty($this->beaconRep->beacon_sources[$bkey])) {
+                    $bdata = $this->beaconRep->beacon_sources[$bkey];
+                    fputcsv($this->handleEdges, array('beacon_'.$bkey, $personID, 'contains', date('Y')));
+                }
+            }    		
     	}
     	foreach ($item->publishers as $publisher) {
     		fputcsv($this->handleNodes, array($publisher, $publisher, 'Druckende_Verlegende'));
@@ -58,7 +68,7 @@ class  serializer_gephi extends serializer {
     	foreach ($subjects as $subject) {
 			fputcsv($this->handleNodes, array($subject, $subject, 'Inhalt_Gattung'));
     		fputcsv($this->handleEdges, array($subject, $bookID, 'subject', $timestamp));
-    	}    	
+    	}
     }
 
     private function makeBookID($item) {

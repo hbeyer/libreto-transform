@@ -1,4 +1,4 @@
-#FORMAT: BEACON
+﻿#FORMAT: BEACON
 #PREFIX: http://d-nb.info/gnd/
 #TARGET: http://www.personalschriften.de/leichenpredigten/digitale-editionen/autothuer/personenregister.html#{ID}
 #FEED: http://www.online.uni-marburg.de/fpmr/autothuer.txt
@@ -237,4 +237,3 @@
 122292081
 122106555
 11697060X
-
