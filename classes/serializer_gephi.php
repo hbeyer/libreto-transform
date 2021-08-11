@@ -30,7 +30,7 @@ class  serializer_gephi extends serializer {
     	fputcsv($this->handleEdges, array($this->ownerNode, $bookID, 'owner', $this->catalogue->year));
     	$timestamp = index::normalizeYear($item->year);
     	fputcsv($this->handleNodes, array($bookID, $this->makeShortTitle($item), 'Buch'));
-    	foreach ($item->persons as $person) {
+    	foreach ($item->persons as $person) { 
     		$property = 'contributor';
     		$personID = $person->makeID();
     		if (in_array($person->role, array('creator', 'author', 'VerfasserIn', 'Verfasser'))) {
