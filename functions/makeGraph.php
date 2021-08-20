@@ -18,6 +18,7 @@ function makeGraphPageContent($data) {
 	foreach ($persColl as $key => $persArr) {
 		$series[] = array('id' => $key, 'name' => $persArr['name'], 'color' => '#a08246', 'linkWith' => $persArr['linkWith']);
 	}
+	$height = count($series)*15;
 	$series = json_encode($series);
 	ob_start();
 	include 'templates/graph.phtml';
