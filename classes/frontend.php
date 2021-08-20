@@ -26,6 +26,7 @@ class frontend {
         require(reconstruction::INCLUDEPATH.'makeEntry.php');
         require(reconstruction::INCLUDEPATH.'makeCloudList.php');
         require(reconstruction::INCLUDEPATH.'makeDoughnutList.php');
+        require(reconstruction::INCLUDEPATH.'makeGraph.php');
         require_once(reconstruction::INCLUDEPATH.'auxiliaryFunctions.php');
         recurse_copy('assets', reconstruction::FOLDER.'/'.$this->reconstruction->fileName.'/assets');
 
@@ -94,7 +95,15 @@ class frontend {
 			fwrite($datei, $content, 10000000);
 			fclose($datei);
 		}
-
+		// Erzeugen der Seite mit dem Graph
+		$navigation = makeNavigation($this->reconstruction->catalogue, $tocs, 'graph');
+		$pageContent = makeGraphPageContent($this->reconstruction->content);
+		$content = makePage($this->reconstruction->catalogue, $navigation, $pageContent, 'graph', $impressum);
+		$fileName = reconstruction::FOLDER.'/'.$this->reconstruction->fileName.'/'.$this->reconstruction->fileName.'-graph.html';
+		$datei = fopen($fileName,"w");
+		fwrite($datei, $content, 10000000);
+		fclose($datei);		
+		
 		zipFolderContent(reconstruction::FOLDER.'/'.$this->reconstruction->fileName, $this->reconstruction->fileName);
 
     }

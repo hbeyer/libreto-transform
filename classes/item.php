@@ -199,6 +199,32 @@ class item	{ //Refers to an item (book, manuscript, etc.) listed in the catalogu
 		return('');
 	}
 
+	public function makeItemName() {
+		if (!empty($this->manifestation['systemManifestation']) and !empty($this->manifestation['idManifestation'])) {
+			return($this->manifestation['systemManifestation'].' '.$this->manifestation['idManifestation']);
+		}
+		
+		elseif (!empty($this->originalItem['institutionOriginal']) and !empty($this->originalItem['shelfmarkOriginal'])) {
+			return($this->originalItem['institutionOriginal'].', '.$this->originalItem['institutionOriginal']);
+		}
+		/*
+		elseif (!empty($this->work['titleWork'])) {
+			return(substr($this->work['titleWork'], 0, 15));
+		}
+		*/
+		elseif (!empty($this->titleBib)) {
+			return(substr($this->titleBib, 0, 15));
+		}
+		elseif (!empty($this->titleCat)) {
+			return(substr($this->titleCat, 0, 15));
+		}
+		$return = $this->id;
+		if ($this->mediaType) {
+			$return = $return.' ('.$this->mediaType.')';
+		}
+		return($return);
+	}
+
 }
 
 ?>
