@@ -89,7 +89,6 @@ class index {
 		foreach($this->entries as $entry) {
 			$entry->label = index::postprocessFields($field, $entry->label);
 		}
-		
 		$this->data = null;
 		return(true);
 
@@ -428,8 +427,26 @@ class index {
 		return($value);
 	}
 
-	// Hier muss nachgearbeitet werden, weil Umlaute ans Ende sortiert werden.
+
 	static function sortCollect($collect) {
+		if(isset($collect['concordanceGND'])) {
+			$sortingConcordance = array_flip($collect['concordanceGND']);
+			uksort($sortingConcordance, 'index::cmpStr');
+			$new = array();
+			foreach($sortingConcordance as $name => $gnd) {
+				$new[$gnd] = $collect['collect'][$gnd];
+			}
+			$collect['collect'] = $new;
+		}
+		else {
+			uksort($collect['collect'], 'index::cmpStr');
+		}
+		$collect['collect'] = index::postponeVoid($collect['collect']);
+		return($collect);
+	}
+
+	// Backup
+	static function _sortCollect($collect) {
 		if(isset($collect['concordanceGND'])) {
 			$sortingConcordance = array_flip($collect['concordanceGND']);
 			ksort($sortingConcordance, SORT_STRING | SORT_FLAG_CASE);
@@ -445,6 +462,7 @@ class index {
 		$collect['collect'] = index::postponeVoid($collect['collect']);
 		return($collect);
 	}
+	// Ende Backup
 
 	static function sortCollectInt($collect) {
 		ksort($collect['collect']);
@@ -503,6 +521,16 @@ class index {
 		return($yearAssign);
 	}
 
+	static function cmpStr($a, $b) {
+		$conc = array('Ä' => 'Ae', 'Ö' => 'Oe', 'Ü' => 'Ue');
+		//$a = strtolower($a);
+		$a = strtr($a, $conc);
+		//$b = strtolower($b);
+		$b = strtr($b, $conc);
+		return strcasecmp($a, $b);
+	}	
+
 }
+
 
 ?>
