@@ -427,7 +427,6 @@ class index {
 		return($value);
 	}
 
-
 	static function sortCollect($collect) {
 		if(isset($collect['concordanceGND'])) {
 			$sortingConcordance = array_flip($collect['concordanceGND']);
@@ -444,25 +443,6 @@ class index {
 		$collect['collect'] = index::postponeVoid($collect['collect']);
 		return($collect);
 	}
-
-	// Backup
-	static function _sortCollect($collect) {
-		if(isset($collect['concordanceGND'])) {
-			$sortingConcordance = array_flip($collect['concordanceGND']);
-			ksort($sortingConcordance, SORT_STRING | SORT_FLAG_CASE);
-			$new = array();
-			foreach($sortingConcordance as $name => $gnd) {
-				$new[$gnd] = $collect['collect'][$gnd];
-			}
-			$collect['collect'] = $new;
-		}
-		else {
-			ksort($collect['collect'], SORT_STRING | SORT_FLAG_CASE);
-		}
-		$collect['collect'] = index::postponeVoid($collect['collect']);
-		return($collect);
-	}
-	// Ende Backup
 
 	static function sortCollectInt($collect) {
 		ksort($collect['collect']);
@@ -523,9 +503,7 @@ class index {
 
 	static function cmpStr($a, $b) {
 		$conc = array('Ä' => 'Ae', 'Ö' => 'Oe', 'Ü' => 'Ue');
-		//$a = strtolower($a);
 		$a = strtr($a, $conc);
-		//$b = strtolower($b);
 		$b = strtr($b, $conc);
 		return strcasecmp($a, $b);
 	}	
