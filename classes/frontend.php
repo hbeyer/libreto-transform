@@ -95,6 +95,7 @@ class frontend {
 			fwrite($datei, $content, 10000000);
 			fclose($datei);
 		}
+		/*
 		// Erzeugen der Seite mit dem Graph
 		$navigation = makeNavigation($this->reconstruction->catalogue, $tocs, 'graph');
 		$pageContent = makeGraphPageContent($this->reconstruction->content);
@@ -103,7 +104,8 @@ class frontend {
 		$datei = fopen($fileName,"w");
 		fwrite($datei, $content, 10000000);
 		fclose($datei);		
-		
+		*/
+
 		zipFolderContent(reconstruction::FOLDER.'/'.$this->reconstruction->fileName, $this->reconstruction->fileName);
 
     }

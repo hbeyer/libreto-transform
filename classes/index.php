@@ -428,6 +428,7 @@ class index {
 		return($value);
 	}
 
+	// Hier muss nachgearbeitet werden, weil Umlaute ans Ende sortiert werden.
 	static function sortCollect($collect) {
 		if(isset($collect['concordanceGND'])) {
 			$sortingConcordance = array_flip($collect['concordanceGND']);

@@ -8,14 +8,14 @@ class  serializer_gephi extends serializer {
         $this->pathEdges = reconstruction::getPath($this->fileName, $this->fileName.'-edges', 'csv');
         $this->handleNodes = fopen($this->pathNodes, 'w');
         $this->handleEdges = fopen($this->pathEdges, 'w');
-        fputcsv($this->handleNodes, array('id', 'label', 'type'));
+        fputcsv($this->handleNodes, array('ID', 'Label', 'Type'));
         $ownerType = 'Person';
         if (strpos('-', $this->catalogue->ownerGND) !== false) {
         	$ownerType = 'Institution';
         }
         $this->ownerNode = 'gnd_'.$this->catalogue->ownerGND;
         fputcsv($this->handleNodes, array($this->ownerNode, $this->catalogue->owner, $ownerType));
-        fputcsv($this->handleEdges, array('source', 'target', 'property', 'date'));
+        fputcsv($this->handleEdges, array('Source', 'Target', 'property', 'Date'));
         foreach ($this->beaconRep->beacon_sources as $key => $bdata) {
             fputcsv($this->handleNodes, array('beacon_'.$key, $bdata['label'], 'Personendatenbank'));
         }

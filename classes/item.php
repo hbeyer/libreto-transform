@@ -77,6 +77,7 @@ class item	{ //Refers to an item (book, manuscript, etc.) listed in the catalogu
 			$place->placeName = removeBrackets($value);
 			$this->places[] = $place;
 		}
+		//elseif (in_array($name, array('mögl. Nachweise HAB', 'copiesHAB'))) {
 		elseif ($name == 'mögl. Nachweise HAB') {
 			$values = explode(';', $value);
 			$this->copiesHAB = $values;
@@ -85,7 +86,7 @@ class item	{ //Refers to an item (book, manuscript, etc.) listed in the catalogu
 			$publishers = explode(';', $value);
 			array_map('trim', $publishers);
 			array_map('removeBrackets', $publishers);
-			array_merge($this->publishers, $publishers);
+			$this->publishers = array_merge($this->publishers, $publishers);
 		}		
 		elseif ($name == 'Sachbegriff') {
 			$this->subjects = explode(';', $value);
@@ -200,6 +201,7 @@ class item	{ //Refers to an item (book, manuscript, etc.) listed in the catalogu
 	}
 
 	public function makeItemName() {
+		return('Druck');
 		if (!empty($this->manifestation['systemManifestation']) and !empty($this->manifestation['idManifestation'])) {
 			return($this->manifestation['systemManifestation'].' '.$this->manifestation['idManifestation']);
 		}

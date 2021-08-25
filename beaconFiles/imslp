@@ -1,7 +1,7 @@
 #FORMAT: BEACON
 #VERSION: 0.1
 #TARGET: http://beacon.findbuch.de/gnd-resolver/pw_imslp/{ID}
-#TIMESTAMP: 2021-03-30T10:48:22Z
+#TIMESTAMP: 2021-07-29T00:55:32Z
 #CONTACT: Thomas Berger < ThB [at] Gymel [dot] Com >
 #FEED: https://beacon.findbuch.de/downloads/patchwork/pw_imslp-gndbeacon.txt
 #EXAMPLES: 118556878
@@ -10,7 +10,7 @@
 #UPDATE: infrequently
 #PREFIX: http://d-nb.info/gnd/
 #DESCRIPTION: Aus der de:Wikipedia und en:Wikipedia extrahierte Links
-#X-REVISION: 64215 [2020-07-07T03:06:00Z]
+#X-REVISION: 64789 [2020-07-07T03:06:00Z]
 #X-EXTENT: 3977 unique identifiers of type SeeAlso::Identifier
 100000541
 100001718|3

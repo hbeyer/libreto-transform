@@ -11,12 +11,12 @@ function makeGraphPageContent($data) {
 				$persColl[strval($person)]['linkWith'][] = $item->id;
 			}
 			else {
-				$persColl[strval($person)] = array('name' => $person->persName, 'linkWith' => array($item->id));
+				$persColl[strval($person)] = array('name' => $person->persName, 'linkWith' => array($item->id), 'value' => 0);
 			}
 		}
 	}
 	foreach ($persColl as $key => $persArr) {
-		$series[] = array('id' => $key, 'name' => $persArr['name'], 'color' => '#a08246', 'linkWith' => $persArr['linkWith']);
+		$series[] = array('id' => $key, 'name' => $persArr['name'], 'color' => '#a08246', 'linkWith' => $persArr['linkWith'], 'value' => 0);
 	}
 	$height = count($series)*15;
 	$series = json_encode($series);

@@ -4,8 +4,8 @@
 #TARGET: http://alchemie.hab.de/personen?gnd={ID}
 #FEED: http://alchemie.hab.de/beacon.txt
 #CONTACT: beyer@hab.de
-#INSTITUTION: Herzog August Bibliothek Wolfenbüttel
-#DESCRIPTION: Personen in den alchemischen Beständen der Herzog August Bibliothek
+#INSTITUTION: Herzog August Bibliothek WolfenbÃ¼ttel
+#DESCRIPTION: Personen in den alchemischen BestÃ¤nden der Herzog August Bibliothek
 #TIMESTAMP: 2019-02-14T06:18:03
 101304854
 1026895928
