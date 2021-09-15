@@ -17,7 +17,7 @@ class MyDOM {
 		$result = array();
 		foreach($this->node->childNodes as $child) {
 			if ($child->nodeName == $name) {
-				$result[] = $child->nodeValue;
+				$result[] = trim($child->nodeValue);
 			}
 		}
 		return($result);		
@@ -46,21 +46,21 @@ class MyDOM {
 		$result = array();
 		foreach ($this->node->childNodes as $child) {
 			if (in_array($child->nodeName, $names)) {
-				$result[$child->nodeName] = $child->nodeValue;
+				$result[$child->nodeName] = trim($child->nodeValue);
 			}
 		}
 		return($result);
 	}
 
 	public function writeTextToObject($object, $property) {
-		$object->$property = $this->node->nodeValue;
+		$object->$property = trim($this->node->nodeValue);
 	}
 
 	public function writeChildrenToObject($object, $names) {
 		foreach ($this->node->childNodes as $child) {
 			$nameChild = $child->nodeName;
 			if (in_array($nameChild, $names)) {
-				$object->$nameChild = $child->nodeValue;
+				$object->$nameChild = trim($child->nodeValue);
 			}
 		}
 		return($object);
@@ -70,7 +70,7 @@ class MyDOM {
 		$result = array();
 		foreach ($this->node->childNodes as $child) {
 			if ($child->nodeName == $name) {
-				$result[] = $child->nodeValue;
+				$result[] = trim($child->nodeValue);
 			}
 		}
 		return($result);
@@ -81,7 +81,7 @@ class MyDOM {
 		foreach ($this->node->attributes as $attribute) {
 			$attrName = $attribute->nodeName;
 			if (in_array($attrName, $names)) {
-				$object->$attrName = $attribute->nodeValue;
+				$object->$attrName = trim($attribute->nodeValue);
 			}
 		}
 		return($object);			
@@ -92,20 +92,20 @@ class MyDOM {
 		foreach ($this->node->attributes as $attribute) {
 			$attrName = $attribute->nodeName;
 			if (in_array($attrName, $names)) {
-				$result[$attrName] = $attribute->nodeValue;
+				$result[$attrName] = trim($attribute->nodeValue);
 			}
 		}
 		return($result);			
 	}
 
 	public function getContent() {
-		return($this->node->nodeValue);
+		return(trim($this->node->nodeValue));
 	}
 
 	public function getAttribute($name) {
 		foreach ($this->node->attributes as $attribute) {
 			if ($attribute->nodeName == $name) {
-				return($attribute->nodeValue);
+				return(trim($attribute->nodeValue));
 			}
 		}
 		return(null);
