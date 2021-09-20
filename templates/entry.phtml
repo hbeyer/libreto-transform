@@ -3,9 +3,9 @@ $proof = new reference($item->manifestation['systemManifestation'], $item->manif
 $proofWork = new reference($item->work['systemWork'], $item->work['idWork']);
 ?>
                 <p><?php if ($persons): ?><span class="authorList"><?php echo $persons; ?>: </span><?php endif; ?><?php if ($item->titleBib and $item->titleCat): ?><span class="titleBib"><?php echo $item->titleBib; ?></span><span class="titleCat"><?php echo $item->titleCat; ?></span><?php elseif ($item->titleBib): ?><span class="titleBib"><?php echo $item->titleBib; ?></span><span class="titleCat">[Recherchierter Titel:] <?php echo $item->titleBib; ?></span><?php elseif ($item->titleCat): ?><span class="titleBib">[Titel im Altkatalog:] <?php echo $item->titleCat; ?></span><span class="titleCat"><?php echo $item->titleCat; ?></span><?php endif; ?><?php if ($item->bound === 0 or $item->bound == 'ungebunden'): ?>, ungebunden<?php endif; ?><?php if ($item->volumes > 1): ?><span class="volumes">, <?php echo $item->volumes; ?> Bde.</span><?php endif; ?><?php if ($published): ?><span class="published">, <?php echo $published; ?></span><?php endif; ?>
-                    <a id="link<?php echo 'current_'.$count; ?>" href="javascript:toggle('<?php echo 'current_'.$count; ?>')">Mehr</a>
+                    <a id="link<?php echo $item->id; ?>" href="javascript:toggle('<?php echo $item->id; ?>')">Mehr</a>
                 </p>
-                <div id="<?php echo 'current_'.$count; ?>" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                <div id="<?php echo $item->id;?>" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
 <?php if ($sourceLink): ?>
                     <?php echo $sourceLink; ?><br /><?php endif; ?>
 <?php if ($item->histShelfmark): ?>                    Altsignatur: <?php echo $item->histShelfmark; ?><br/>

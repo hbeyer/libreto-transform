@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="de">
+
+    <head>
+        <title><?php echo $catalogue->heading; ?></title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+        <link rel="stylesheet" href="assets/css/affix.css">
+        <link rel="stylesheet" href="assets/css/proprietary.css">
+        <script src="assets/js/jquery.min.js"></script>
+        <script src="assets/js/bootstrap.min.js"></script>
+        <script src="assets/js/proprietary.js"></script>
+    </head>
+
+    <body onload="javascript:x = getNavBarHeight();scrollNav(x);">
+
+        <div class="container-fluid" style="background-color:#FFFFFF">
+          <h1><?php echo $catalogue->heading; ?> (<?php echo $catalogue->year; ?>)</h1>
+            <p><?php echo $catalogue->description; ?><?php if ($catalogue->creatorReconstruction and $catalogue->yearReconstruction): ?></br>Rekonstruktion: <?php echo $catalogue->creatorReconstruction; ?>, <?php echo $catalogue->yearReconstruction; ?><?php endif; ?></p>
+<?php if ($catalogue->institution and $catalogue->shelfmark): ?>
+            <div style="float:left;margin-right:20px">
+            <p>Altkatalog: <?php echo $catalogue->institution; ?>, <?php echo $catalogue->shelfmark; ?><?php if ($catalogue->base): ?> <a href="<?php echo $catalogue->base ?>" target="_blank">Digitalisat</a><?php endif; ?><br />
+            <span id="switchLink"><a href="javascript:switchToOriginal()">Anzeige in Vorlageform</a></span></p>
+            </div>
+<?php endif; ?>
+
+            <div class="dropdown" style="float:left">
+                <button class="btn btn-info dropdown-toggle" type="button" data-toggle="dropdown">Download<span class="caret"></span></button>
+                <ul class="dropdown-menu">
+                    <li class="dropdown-header">Datenexport</li> 
+                    <li><a href="<?php echo $catalogue->fileName; ?>.csv">CSV</a></li>
+                    <li><a href="<?php echo $catalogue->fileName; ?>.xml">XML</a></li>
+                    <li><a href="<?php echo $catalogue->fileName; ?>-tei.xml">TEI</a></li>
+                    <li><a href="<?php echo $catalogue->fileName; ?>.rdf">RDF/XML</a></li>
+                    <li><a href="<?php echo $catalogue->fileName; ?>.ttl">Turtle</a></li>
+                    <li><a href="<?php echo $catalogue->fileName; ?>-gephi.zip">Gephi (CSV)</a></li>
+                    <li><a href="<?php echo $catalogue->fileName; ?>-SOLR.xml">Solr XML</a></li>
+                    <li class="dropdown-header">Geodaten</li>
+                    <li><a href="printingPlaces.csv">CSV</a></li>
+                    <li><a href="printingPlaces.kml">KML</a></li>
+                    <li class="dropdown-header">Komplette Website</li>
+                    <li><a href="<?php echo $catalogue->fileName; ?>.zip">ZIP</a></li>
+                </ul>
+            </div> 
+        </div>
+		
+        <nav class="navbar navbar-default" data-spy="affix" data-offset-top="197">
+            <ul class="nav navbar-nav">
+<?php foreach($tocs as $field  => $toc): ?>
+                <li class="dropdown<?php if ($field == $this->facet) { echo ' active'; } ?>">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="<?php echo $catalogue->fileName.'-'.$field; ?>.htm"><?php echo translateFieldNames($field); ?><span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="<?php echo $catalogue->fileName.'-'.$field; ?>.htm">Seitenanfang</a></li>
+<?php foreach ($toc as $entry): ?>
+                        <li><a href="<?php echo $catalogue->fileName.'-'.$field; if ($entry['extension'] != '0') { echo '-'.$entry['extension']; } ?>.htm#<?php echo $entry['anchor']; ?>"><?php echo $entry['quantifiedLabel']; ?></a></li>
+<?php endforeach; ?>
+                    </ul>
+                </li>
+<?php endforeach; ?>
+            </ul>
+            <ul class="nav navbar-nav navbar-right" style="padding-right:15px">
+                <li class="dropdown">
+	                <a class="dropdown-toggle" data-toggle="dropdown" href="#"><span class="glyphicon glyphicon-picture"></span> Visualisierung<span class="caret"></span></a>
+	                <ul class="dropdown-menu">
+		                <li><a href="<?php echo $catalogue->fileName; ?>-wordCloud.htm" title="Wortwolken">Word Clouds</a></li>
+		                <li><a href="<?php echo $catalogue->fileName; ?>-doughnut.htm" title="Kreisdiagramme">Kreisdiagramme</a></li>
+<?php if ($catalogue->geoBrowserStorageID): ?>
+		                <li><a href="<?php echo geoBrowserLink::url($catalogue->geoBrowserStorageID, $catalogue->year); ?>" target="_blank" title="Druckorte in Kartenansicht">GeoBrowser</a></li>
+<?php endif; ?>
+	                </ul>
+                </li>
+            </ul>
+        </nav>
+
+        <div class="container" style="min-height:600px;">
+<?php if ($total > 1): ?>            
+            <ul class="pagination">
+                <li <?php if ($ind == 0) { echo 'class="active"'; } ?>><a href="<?php echo $catalogue->fileName.'-'.$this->facet.'.htm'; ?>">1</a></li>
+<?php for ($n = 1; $n < $total; $n++): ?>
+                <li <?php if ($n == $ind) { echo 'class="active"'; } ?>><a href="<?php echo $catalogue->fileName.'-'.$this->facet.'-'.$n.'.htm'; ?>"><?php echo $n + 1; ?></a></li>
+<?php endfor; ?>
+            </ul>
+<?php endif; ?>
+<?php foreach ($sub as $section): ?>
+<?php $anchorCollapse = $section->makeAnchorCollapse(); ?>
+            <h<?php echo $section->level + 1; ?> id="<?php echo $section->makeAnchor(); ?>"><?php if ($section->quantifiedLabel): ?><?php echo $section->quantifiedLabel; ?><?php else: ?><?php echo $section->label; ?><?php endif; ?>
+<?php if ($anchorCollapse): ?> 
+            <a href="#<?php echo $anchorCollapse; ?>" data-toggle="collapse"><span class="glyphicon glyphicon-info-sign" style="font-size:14px"></span></a><div id="<?php echo $anchorCollapse; ?>" class="collapse"><span style="font-size:14px"><?php echo makeBeaconLinks($section->authority['id'], $this->beaconRep); ?></div>
+<?php endif; ?></h<?php echo $section->level + 1; ?>>
+<?php foreach ($section->content as $object): ?>
+<?php if (get_class($object) == 'item'): ?>
+            <div class="entry">
+<?php makeEntry($object, $catalogue->base); ?>
+            </div>
+<?php endif; ?>
+<?php if (get_class($object) == 'volume'): ?>
+            <div class="entry"><?php if ($object->volumes > 1): ?>Sammlung in <?php echo $object->volumes; ?> B&auml;nden<?php endif; ?><?php if ($object->volumes == 1 or is_integer($object->volumes) == FALSE): ?>Sammelband<?php endif; ?>
+                <ul>
+<?php foreach($object->content as $item): ?>
+                    <li class="entry-list"><?php makeEntry($item, $catalogue->base); ?></li>
+<?php endforeach; ?>
+                </ul>
+            </div>    
+<?php endif; ?>
+<?php endforeach; ?>
+<?php endforeach; ?>
+        </div>
+
+        <footer class="container-fluid">
+            <p><a href="../index.php" style="color:white">Start</a>&nbsp;&nbsp;<a href="<?php echo $impressum; ?>" style="color:white" target="_blank">Impressum</a></p>
+            <p style="color:white; text-align:right;">Stand: <?php echo date('d.m.Y'); ?></p>
+        </footer>
+
+    </body>
+
+</html>

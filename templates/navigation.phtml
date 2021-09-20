@@ -2,11 +2,11 @@
             <ul class="nav navbar-nav">
 <?php foreach($tocs as $field  => $toc): ?>
                 <li class="dropdown<?php if ($field == $facet) { echo ' active'; } ?>">
-                    <a class="dropdown-toggle" data-toggle="dropdown" href="<?php echo $catalogue->fileName.'-'.$field.'.html'; ?>"><?php echo translateFieldNames($field); ?><span class="caret"></span></a>
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="<?php echo $catalogue->fileName.'-'.$field; ?>.htm"><?php echo translateFieldNames($field); ?><span class="caret"></span></a>
                     <ul class="dropdown-menu">
-                        <li><a href="<?php echo $catalogue->fileName.'-'.$field; ?>.html">Seitenanfang</a></li>
+                        <li><a href="<?php echo $catalogue->fileName.'-'.$field; ?>.htm">Seitenanfang</a></li>
 <?php foreach ($toc as $entry): ?>
-                        <li><a href="<?php echo $catalogue->fileName.'-'.$field; ?>.html#<?php echo $entry['anchor']; ?>"><?php echo $entry['quantifiedLabel']; ?></a></li>
+                        <li><a href="<?php echo $catalogue->fileName.'-'.$field; if ($entry['extension'] != '0') { echo '-'.$entry['extension']; } ?>.htm#<?php echo $entry['anchor']; ?>"><?php echo $entry['quantifiedLabel']; ?></a></li>
 <?php endforeach; ?>
                     </ul>
                 </li>
@@ -14,14 +14,14 @@
             </ul>
             <ul class="nav navbar-nav navbar-right" style="padding-right:15px">
                 <li class="dropdown">
-	                <a class="dropdown-toggle" data-toggle="dropdown" href="#"><span class="glyphicon glyphicon-picture"></span> Visualisierung<span class="caret"></span></a>
-	                <ul class="dropdown-menu">
-		                <li><a href="<?php echo $catalogue->fileName; ?>-wordCloud.html" title="Wortwolken">Word Clouds</a></li>
-		                <li><a href="<?php echo $catalogue->fileName; ?>-doughnut.html" title="Kreisdiagramme">Kreisdiagramme</a></li>
-<?php if ($catalogue->geoBrowserStorageID): ?>				
-		                <li><a href="<?php echo geoBrowserLink::url($catalogue->geoBrowserStorageID, $catalogue->year); ?>" target="_blank" title="Druckorte in Kartenansicht">GeoBrowser</a></li>
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#"><span class="glyphicon glyphicon-picture"></span> Visualisierung<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="<?php echo $catalogue->fileName; ?>-wordCloud.htm" title="Wortwolken">Word Clouds</a></li>
+                        <li><a href="<?php echo $catalogue->fileName; ?>-doughnut.htm" title="Kreisdiagramme">Kreisdiagramme</a></li>
+<?php if ($catalogue->geoBrowserStorageID): ?>
+                        <li><a href="<?php echo geoBrowserLink::url($catalogue->geoBrowserStorageID, $catalogue->year); ?>" target="_blank" title="Druckorte in Kartenansicht">GeoBrowser</a></li>
 <?php endif; ?>
-	                </ul>
+                    </ul>
                 </li>
             </ul>
         </nav>

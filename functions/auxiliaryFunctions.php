@@ -30,7 +30,7 @@ function zipFolderContent($folder, $fileName) {
 	$zip->addGlob($folder.'/assets/css/*.css', 0, $optionsCSS);
 	$zip->addGlob($folder.'/assets/fonts/*', 0, $optionsFonts);
 	$zip->addGlob($folder.'/assets/js/*.js', 0, $optionsJS);
-	$zip->addGlob($folder.'/*.html', 0, $options);
+	$zip->addGlob($folder.'/*.htm', 0, $options);
 	$zip->addGlob($folder.'/*.x*', 0, $options);
 	$zip->addGlob($folder.'/*.js', 0, $options);
 	$zip->addGlob($folder.'/*.php', 0, $options);
@@ -43,11 +43,13 @@ function zipFolderContent($folder, $fileName) {
 	$zip->close();
 }
 
+/*
 // Die Funktion ersetzt kombinierende diakritische Zeichen (hier nicht als solche erkennbar) durch HMLT-Entities, um die versetzte Darstellung der Punkte in Firefox zu beheben.
 function replaceUml($string) {
 	$translate = array('Ä' => '&Auml;', 'Ö' => '&Ouml;', 'Ü' => '&Uuml;', 'ä' => '&auml;', 'ö' => '&ouml;', 'ü' => '&uuml;', 'ë' => '&euml;');
 	$string = strtr($string, $translate);
 	return($string);
 }
+*/
 
 ?>

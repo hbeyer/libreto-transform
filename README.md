@@ -1,3 +1,4 @@
+
 # libreto-transform
 Set of scripts for transforming library reconstruction data into reusable data formats (RDF, TEI, SOLR) and generating a Frontend in static HTML
 
@@ -86,7 +87,7 @@ Anschließend wird ein neues Objekt der Klasse `frontend` erzeugt:
 - `$reconstruction`: Das Objekt der Klasse `reconstruction`
 - `$facetList`: Das Objekt der Klasse `facetList`
 
-Die Methode `frontend::build()` sorgt dafür, dass die Ergebnisse als statische HTML-Dateien im Verzeichnis ***projectFiles/{Dateiname}*** abgespeichert werden.
+Die Methode `frontend::build($maxLen = 100)` sorgt dafür, dass die Ergebnisse als statische HTML-Dateien im Verzeichnis ***projectFiles/{Dateiname}*** abgespeichert werden. Der Parameter `maxLen` legt fest, wie viele Einträge maximal auf einer Seite zu sehen sein sollen. Wird null übergeben, erscheinen alle Einträge auf einer Seite.
 
 ## Erzeugung einer biographischen Karte
 Mit der Methode `reconstruction::makeBioDataSheet()` kann zusätzlich ein Geodatenblatt zu den als AutorInnen oder BeiträgerInnen in der Sammlung enthaltenen und mit GND-Nummer versehenen Personen erzeugt werden (derzeit nur in CSV). Hierzu werden die GND-Normdatensätze geladen und unter ***cache/gnd*** vorgehalten (zum Auffrischen Ordner leeren). Für jede Nennung einer Person wird ein Ort und ein Datum (bevorzugt Geburtsort und -jahr) wiedergegeben. Die Geodaten werden aus der GND geladen. Von Geographika ohne Geodaten wird der bevorzugte Name angegeben, dieser kann dann mit dem GeoDataSheetEditor von DARIAH-DE ergänzt oder manuell nachgetragen werden. Die Datei wird wird im Projektordner unter ***bioPlaces.csv*** abgelegt.
