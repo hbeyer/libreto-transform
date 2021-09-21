@@ -23,6 +23,19 @@ class section { // A list of items with a title to be displayed as a chapter of 
     	}
     	return(null);
 	}
+	
+	public function getSize() {
+		$size = 0;
+		foreach ($this->content as $obj) {
+			if (get_class($obj) == 'item') {
+				$size += 1;
+			}
+			elseif (get_class($obj) == 'volume') {
+				$size += count($obj->content);
+			}
+		}
+		return($size);
+	}
 
 }
 
