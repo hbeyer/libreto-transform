@@ -15,12 +15,40 @@ class page {
 		if ($this->facet == 'persName') {
 			$this->beaconRep = new beacon_repository();
 		}
-		$this->splitSections($sections);
+		$this->makeSubpages($sections);
 		$this->makeToC();
 
 	}
+	
+	private function makeSubpages($sections) {
+		$collectSec = array();
+		$collectSize = 0;		
+		while ($next = array_shift($sections) {
+			$size = $next->getSize();
+			if ($size > $this->maxLen) {
+				if (!empty($collectSec)) {
+					$this->subpages[] = $collectSec;
+				}
+				$this->subpages[] = array($next);
+				$collectSize = 0;
+			}
+			elseif (!empty($collectSec) and ($collectSize + $size) > $this->maxLen) {
+				$this->subpages[] = $collectSec;
+				$collectSec = array($next);
+				$collectSize = $size;
+			}
+			else {
+				$collectSec[] = $next;
+				$collectSize += $size;
+			}
+		}
+		if (!empty($collectSec)) {
+			$this->subpages[] = $collectSec;
+		}
+	}
 
-	private function splitSections($sections) {
+	
+	/*private function splitSections($sections) {
 		$subpage = array();
 		$sizeSubpage = 0;
 		while ($sizeSubpage < $this->maxLen) {
@@ -41,7 +69,7 @@ class page {
 		if (!empty($subpage)) {
 			$this->subpages[] = $subpage;
 		}
-	}
+	}*/
 	
 	public function buildSubpages($path, $catalogue, $tocs, $impressum) {
 		
