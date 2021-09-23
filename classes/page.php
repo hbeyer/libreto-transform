@@ -20,6 +20,21 @@ class page {
 
 	}
 	
+	public function __toString() {
+	   $overallSize = 0;
+	   $res = 'Seite '.$this->facet.', '.count($this->subpages).' Unterseiten:'."\n";
+	   foreach ($this->subpages as $ind => $subpage) {
+	       $secArr = array();
+	       foreach ($subpage as $section) {
+	           $secArr[] = $section->label.' ('.$section->getSize().')';
+	       }
+	       $res .= "\n".'Nr. '.$ind."\n";
+	       $res .= implode("\n", $secArr)."\n"
+	   }
+	   return($res);
+	   
+	}
+	
 	private function makeSubpages($sections) {
 		$collectSec = array();
 		$collectSize = 0;		
