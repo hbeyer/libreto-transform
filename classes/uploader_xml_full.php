@@ -22,7 +22,7 @@ class uploader_xml_full extends uploader {
     	$catNodes = $this->dom->getElementsByTagName('catalogue');
     	foreach($catNodes as $catNode) {
     		$catalogue = new catalogue();
-    		$myNode = new MyDOM($catNode);
+    		$myNode = new MyDom($catNode);
     		$myNode->writeAttributesToObject($catalogue, array('id'));
     		$myNode->writeChildrenToObject($catalogue, array('title', 'place', 'year', 'institution', 'shelfmark', 'base'));
     		$persons = $myNode->getChildNodes('person');
@@ -40,7 +40,7 @@ class uploader_xml_full extends uploader {
     public function loadMetadata() {
     	$metadataSet = new metadata_reconstruction;
     	$metadata = $this->dom->getElementsByTagName('metadata')->item(0);
-    	$myMetaDom = new MyDOM($metadata);
+    	$myMetaDom = new MyDom($metadata);
     	$myMetaDom->writeChildrenToObject($metadataSet, array('heading', 'owner', 'ownerGND', 'description', 'geoBrowserStorageID', 'yearReconstruction'));
         $personNodes = $myMetaDom->getChildNodes('person');
         foreach ($personNodes as $persNode) {
@@ -60,7 +60,7 @@ class uploader_xml_full extends uploader {
 
     	foreach ($itemList as $itemNode) {
 
-    		$myItem = new MyDOM($itemNode);
+    		$myItem = new MyDom($itemNode);
     		$item = new item;
 
             //Laden der Katalogeinträge (der jeweils erste wird aus Gründen der Rückwärtskompatibilität direkt in $item geschrieben)
@@ -94,7 +94,7 @@ class uploader_xml_full extends uploader {
     		foreach ($personNodes as $pNode) {
     			$person = new person;
     			$person->persName = $pNode->nodeValue;
-    			$myPN = new MyDOM($pNode);
+    			$myPN = new MyDom($pNode);
     			$myPN->writeAttributesToObject($person, array('gnd', 'role', 'dateLending', 'gender'));
     			$beaconString = $myPN->getAttribute('beacon');
     			if ($beaconString) {
@@ -108,7 +108,7 @@ class uploader_xml_full extends uploader {
     		foreach ($placeNodes as $pNode) {
     			$place = new place;
     			$place->placeName = $pNode->nodeValue;
-    			$myPN = new MyDOM($pNode);
+    			$myPN = new MyDom($pNode);
     			$myPN->writeAttributesToObject($place, array('geoNames', 'getty', 'gnd'));
     			$geoDataString = $myPN->getAttribute('geoData');
     			if (strpos($geoDataString, ',') > 2) {
@@ -122,7 +122,7 @@ class uploader_xml_full extends uploader {
     		$printerNodes = $xp->query('publisher', $itemNode);
     		foreach ($printerNodes as $pNode) {
     			$item->publishers[] = $pNode->nodeValue;
-    			$myPN = new MyDOM($pNode);
+    			$myPN = new MyDom($pNode);
     			$gnd = $myPN->getAttribute('gnd');
     			if ($gnd) {
     				$publisher = new publisher;
@@ -188,7 +188,7 @@ class uploader_xml_full extends uploader {
                 $pbNodes = $xp->query('preceding::pb[@cat="'.$attributes['cat'].'"]', $itemNode);
                 if ($pbNodes->length >= 1) {
                     $pb = $pbNodes->item($pbNodes->length - 1);
-                    $myPB = new MyDOM($pb);
+                    $myPB = new MyDom($pb);
                     $attributesPB = $myPB->getAttributes(array('no', 'image'));
                     if (isset($attributesPB['no'])) {
                         $entry->pageCat = $attributesPB['no'];

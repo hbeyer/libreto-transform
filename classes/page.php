@@ -29,7 +29,7 @@ class page {
 	           $secArr[] = $section->label.' ('.$section->getSize().')';
 	       }
 	       $res .= "\n".'Nr. '.$ind."\n";
-	       $res .= implode("\n", $secArr)."\n"
+	       $res .= implode("\n", $secArr)."\n";
 	   }
 	   return($res);
 	   
@@ -38,7 +38,7 @@ class page {
 	private function makeSubpages($sections) {
 		$collectSec = array();
 		$collectSize = 0;		
-		while ($next = array_shift($sections) {
+		while ($next = array_shift($sections)) {
 			$size = $next->getSize();
 			if ($size > $this->maxLen) {
 				if (!empty($collectSec)) {

@@ -48,6 +48,13 @@ class frontend {
 				$page = new page($secList, $facet, $maxLen);
 				$pages[] = $page;
 			}
+
+			/*
+	        foreach ($pages as $page) {
+	            echo $page;
+	        }
+	        die;
+			*/
 			
 			// Zusammenführen der Inhaltsverzeichnisdaten
 			$tocs = array();
@@ -60,11 +67,6 @@ class frontend {
 				$page->buildSubpages($this->path, $this->reconstruction->catalogue, $tocs, $impressum);
 			}
 		}
-
-        foreach ($pages as $page) {
-            echo $page;
-        }
-        die;
 
         else {
 
@@ -89,7 +91,7 @@ class frontend {
 				$count++;
 			}
 			        
-			// FÃ¼r jede Struktur wird jetzt eine HTML-Datei berechnet und gespeichert.
+			// Für jede Struktur wird jetzt eine HTML-Datei berechnet und gespeichert.
 			$count = 0;
 			
 			foreach($structures as $structure) {
@@ -109,7 +111,7 @@ class frontend {
 			
 			unset($structures);        	
         }
-		
+
 		//Anlegen der Datei index.php mit Weiterleitung auf die Startseite
 		$this->makeStartPage();
 					
