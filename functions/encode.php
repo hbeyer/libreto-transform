@@ -150,7 +150,8 @@ function translateGenderAbbr($field) {
 	$translation = array(
 		'm' => 'Männlich',
 		'f' => 'Weiblich',
-		'*' => 'Weiteres'
+		'd' => 'Divers',
+		'k' => 'Körperschaft'
 		);
 	$result = strtr($field, $translation);
 	return($result);		

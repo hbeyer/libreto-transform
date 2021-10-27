@@ -365,6 +365,12 @@ class index {
 				$value = 9999; // Makes empty year fields be sorted to the end
 			}
 		}
+		elseif($field == 'languages') {
+			$value = language_reference::getLanguage($value);
+			if($value == '') {
+				$value = 'ohne Angabe';
+			}		
+		}		
 		elseif($field == 'format') {
 			$value = sortingFormat($value);
 			if($value == '') {
@@ -502,11 +508,12 @@ class index {
 	}
 
 	static function cmpStr($a, $b) {
-		$conc = array('Ä' => 'Ae', 'Ö' => 'Oe', 'Ü' => 'Ue');
+		$conc = array('Ä' => 'Ae', 'Ö' => 'Oe', 'Ü' => 'Ue', 'Á' => 'A');
 		$a = strtr($a, $conc);
 		$b = strtr($b, $conc);
 		return strcasecmp($a, $b);
-	}	
+	}
+
 
 }
 

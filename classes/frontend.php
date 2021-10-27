@@ -48,13 +48,6 @@ class frontend {
 				$page = new page($secList, $facet, $maxLen);
 				$pages[] = $page;
 			}
-
-			/*
-	        foreach ($pages as $page) {
-	            echo $page;
-	        }
-	        die;
-			*/
 			
 			// Zusammenführen der Inhaltsverzeichnisdaten
 			$tocs = array();

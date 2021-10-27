@@ -32,26 +32,30 @@ class page {
 	       $res .= implode("\n", $secArr)."\n";
 	   }
 	   return($res);
-	   
 	}
 	
 	private function makeSubpages($sections) {
 		$collectSec = array();
-		$collectSize = 0;		
+		$collectSize = 0;
 		while ($next = array_shift($sections)) {
 			$size = $next->getSize();
+			// Wenn die aktuelle section größer ist als das Limit:
 			if ($size > $this->maxLen) {
+				// Wenn bereits sections im Zwischenspeicher sind:
 				if (!empty($collectSec)) {
 					$this->subpages[] = $collectSec;
+					$collectSec = array();
 				}
 				$this->subpages[] = array($next);
 				$collectSize = 0;
 			}
+			// Wenn die aktuelle section zwar unter dem Limit ist, aber zusammen mit dem Zwischenspeicher das Limit erreicht wird:
 			elseif (!empty($collectSec) and ($collectSize + $size) > $this->maxLen) {
 				$this->subpages[] = $collectSec;
 				$collectSec = array($next);
 				$collectSize = $size;
 			}
+			// Wenn weder die aktuelle section noch die aktuelle section mit dem Zwischenspeicher das Limit überschreitet:
 			else {
 				$collectSec[] = $next;
 				$collectSize += $size;
@@ -61,30 +65,6 @@ class page {
 			$this->subpages[] = $collectSec;
 		}
 	}
-
-	
-	/*private function splitSections($sections) {
-		$subpage = array();
-		$sizeSubpage = 0;
-		while ($sizeSubpage < $this->maxLen) {
-			$sec = array_shift($sections);
-			$sizeSubpage += count($sec->content);
-			$subpage[] = $sec;
-		}
-		foreach ($sections as $sec) {
-			if ((count($sec->content) + $sizeSubpage) > $this->maxLen) {
-			 	$this->subpages[] = $subpage;
-			 	$subpage = array($sec);
-			 	$sizeSubpage = count($sec->content);
-			}
-			else {
-				$subpage[] = $sec;
-			}
-		}
-		if (!empty($subpage)) {
-			$this->subpages[] = $subpage;
-		}
-	}*/
 	
 	public function buildSubpages($path, $catalogue, $tocs, $impressum) {
 		

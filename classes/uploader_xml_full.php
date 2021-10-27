@@ -68,7 +68,12 @@ class uploader_xml_full extends uploader {
 
     		//Bestimmen des Kontextes im Sammelband
     		if ($itemNode->parentNode->nodeName == 'miscellany') {
-                $item->itemInVolume = $xp->query('preceding-sibling::item', $itemNode)->length + 1;
+                if ($xp->query('parent::miscellany/child::item', $itemNode)->length == 1) {
+                    $item->itemInVolume = 0;
+                }
+                else {
+                    $item->itemInVolume = $xp->query('preceding-sibling::item', $itemNode)->length + 1;
+                }
     			if ($item->itemInVolume == 1) {
     				$countMisc += 1;
     			}
@@ -93,7 +98,7 @@ class uploader_xml_full extends uploader {
     		$personNodes = $xp->query('person', $itemNode);
     		foreach ($personNodes as $pNode) {
     			$person = new person;
-    			$person->persName = $pNode->nodeValue;
+    			$person->persName = trim($pNode->nodeValue);
     			$myPN = new MyDom($pNode);
     			$myPN->writeAttributesToObject($person, array('gnd', 'role', 'dateLending', 'gender'));
     			$beaconString = $myPN->getAttribute('beacon');
@@ -107,7 +112,7 @@ class uploader_xml_full extends uploader {
     		$placeNodes = $xp->query('place', $itemNode);
     		foreach ($placeNodes as $pNode) {
     			$place = new place;
-    			$place->placeName = $pNode->nodeValue;
+    			$place->placeName = trim($pNode->nodeValue);
     			$myPN = new MyDom($pNode);
     			$myPN->writeAttributesToObject($place, array('geoNames', 'getty', 'gnd'));
     			$geoDataString = $myPN->getAttribute('geoData');
@@ -121,12 +126,12 @@ class uploader_xml_full extends uploader {
     		//Laden von DruckerInnen. Sie werden parallel als Strings und als (bislang ungenutzte) Objekte hinterlegt
     		$printerNodes = $xp->query('publisher', $itemNode);
     		foreach ($printerNodes as $pNode) {
-    			$item->publishers[] = $pNode->nodeValue;
+    			$item->publishers[] = trim($pNode->nodeValue);
     			$myPN = new MyDom($pNode);
     			$gnd = $myPN->getAttribute('gnd');
     			if ($gnd) {
     				$publisher = new publisher;
-    				$publisher->name = $pNode->nodeValue;
+    				$publisher->name = trim($pNode->nodeValue);
     				$publisher->gnd = $gnd;
     				$item->publishersObj[] = $publisher;
     			}
@@ -200,7 +205,7 @@ class uploader_xml_full extends uploader {
                 if (isset($attributes['section'])) {
                     $nodeSection = $xp->query('//catalogue[@id="'.$attributes['cat'].'"]/sections/section[@id="'.$attributes['section'].'"]')->item(0);
                     if ($nodeSection) {
-                        $entry->histSubject = $nodeSection->nodeValue;
+                        $entry->histSubject = trim($nodeSection->nodeValue);
                     }
                 }
             }
