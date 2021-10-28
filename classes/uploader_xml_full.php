@@ -140,11 +140,11 @@ class uploader_xml_full extends uploader {
     		//Laden von Manifestationen
     		$manNode = $myItem->getSingleChildNode('manifestation');
     		if ($manNode) {
-    			$item->manifestation['systemManifestation'] = $manNode->getAttribute('system');
-    			$item->manifestation['idManifestation'] = $manNode->getAttribute('id');
-    			$commentNode = $manNode->getSingleChildNode('comment');
+    			$item->manifestation['systemManifestation'] = trim($manNode->getAttribute('system'));
+    			$item->manifestation['idManifestation'] = trim($manNode->getAttribute('id'));
+    			$commentNode = trim($manNode->getSingleChildNode('comment'));
     			if ($commentNode) {
-    				$item->manifestation['commentManifestation'] = $commentNode->getContent();
+    				$item->manifestation['commentManifestation'] = trim($commentNode->getContent());
     			}
     		}
 
@@ -168,6 +168,17 @@ class uploader_xml_full extends uploader {
                 foreach ($properties as $key => $value) {
                     $item->originalItem[$concordance[$key]] = $value;
                 }
+                $paNode = $originalNode->getSingleChildNode('provenanceAttribute');
+                if (!empty($paNode)) {
+                    $type = $paNode->getAttribute('type');
+                    if ($item->originalItem['provenanceAttribute'] and $type) {
+                        $item->originalItem['provenanceAttribute'] = $type.': '.$item->originalItem['provenanceAttribute'];
+                    }
+                    elseif ($type) {
+                        $item->originalItem['provenanceAttribute'] = $type;
+                    }
+                }
+
             }
 
     		$result[] = $item;
