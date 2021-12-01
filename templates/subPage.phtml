@@ -74,7 +74,7 @@
         </nav>
 
         <div class="container" style="min-height:600px;">
-<?php if ($total > 1): ?>            
+<?php if ($total > 1): ?>
             <ul class="pagination">
                 <li <?php if ($ind == 0) { echo 'class="active"'; } ?>><a href="<?php echo $catalogue->fileName.'-'.$this->facet.'.htm'; ?>">1</a></li>
 <?php for ($n = 1; $n < $total; $n++): ?>
@@ -105,6 +105,14 @@
 <?php endif; ?>
 <?php endforeach; ?>
 <?php endforeach; ?>
+<?php if ($total > 1): ?>            
+            <ul class="pagination">
+                <li <?php if ($ind == 0) { echo 'class="active"'; } ?>><a href="<?php echo $catalogue->fileName.'-'.$this->facet.'.htm'; ?>">1</a></li>
+<?php for ($n = 1; $n < $total; $n++): ?>
+                <li <?php if ($n == $ind) { echo 'class="active"'; } ?>><a href="<?php echo $catalogue->fileName.'-'.$this->facet.'-'.$n.'.htm'; ?>"><?php echo $n + 1; ?></a></li>
+<?php endfor; ?>
+            </ul>
+<?php endif; ?>
         </div>
 
         <footer class="container-fluid">
