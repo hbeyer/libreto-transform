@@ -1,0 +1,20 @@
+<catalogue>
+	<!--
+		Die Felder müssen so ausgefüllt werden, dass keine geschweiften Klammern übrig bleiben.
+		Ist ein Feld nicht anwendbar, wird es weggelassen.
+	-->
+	<owner>{Besitzende Person oder Institution}</owner> <!--  -->
+	<ownerGND>{GND der besitzenden Person oder Institution}</ownerGND>
+	<heading>{Name der rekonstruierten Sammlung}</heading>
+	<title>{Titel des Altkatalogs}</title>
+	<placeCat>{Druckort des Altkatalogs}</placeCat>
+	<printer>{Drucker des Altkatalogs}</printer>
+	<year>{Datum des Altkatalogs bzw. Stichjahr der Rekonstruktion}</year>
+	<institution>{Institution, die den Altkatalog besitzt}</institution>
+	<shelfmark>{Signatur des Altkatalogs}</shelfmark>
+	<base>{Pfad für das Digitalisat das Altkatalogs. Die Image-Nummer wird durch {No} wiedergegeben, fehlt das, wird sie angehängt. Relative Links zur Nutzung lokaler Bilder sind möglich.}</base>
+	<description>{Abstract zur rekonstruierten Sammlung}</description>
+	<geoBrowserStorageID>{ID unter https://geobrowser.de.dariah.eu/ für ein bereits vorhandenes Datenset}</geoBrowserStorageID>
+	<creatorReconstruction>{Für die Rekonstruktion verantwortliche Person oder Personen (Freitextfeld)}</creatorReconstruction>
+	<yearReconstruction>{Jahr der Rekonstruktion}</yearReconstruction>
+</catalogue>

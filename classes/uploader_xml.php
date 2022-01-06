@@ -21,6 +21,7 @@ class uploader_xml extends uploader {
         $xml->load($this->path);
         $this->metadataNode = $xml->getElementsByTagName('metadata')->item(0);
         $this->contentNodes = $xml->getElementsByTagName('item');
+        $this->metaPath = reconstruction::FOLDER.'/'.$this->fileName.'/'.$this->fileName.'-metadata.xml';
     }	
 
     public function loadCatalogues($fileName) {

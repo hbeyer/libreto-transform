@@ -15,6 +15,7 @@ class uploader_sru extends uploader {
 			$this->source = trim($sru, '/');
 		}
 		$this->fileName = $fileName;
+		$this->metaPath = reconstruction::FOLDER.'/'.$this->fileName.'/'.$this->fileName.'-metadata.xml';
 		$this->query = $query;
 		$this->loadSets();
 		while ($xml = array_shift($this->xmlSets)) {

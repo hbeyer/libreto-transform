@@ -6,6 +6,7 @@ class uploader_sql_dh extends uploader {
 
     function __construct($fileName) {
         $this->fileName = $fileName;
+        $this->metaPath = reconstruction::FOLDER.'/'.$this->fileName.'/'.$this->fileName.'-metadata.xml';
         require('private/connectionData.php');
         try { 
             $this->pdo = new PDO($dsn, $user, $pass, $options);

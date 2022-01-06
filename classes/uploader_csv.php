@@ -8,6 +8,7 @@ class uploader_csv extends uploader {
     function __construct($path, $fileName) {
         $this->path = $path;
         $this->fileName = $fileName;
+        $this->metaPath = reconstruction::FOLDER.'/'.$this->fileName.'/'.$this->fileName.'-metadata.xml';
 	    $string = file_get_contents($this->path);
         $string = convertWindowsToUTF8($string);
         $rows = str_getcsv($string, "\n");
@@ -23,7 +24,6 @@ class uploader_csv extends uploader {
         }
         return($result);
     }
-
 
     private function makeItemFromAssocArray($row) {
 
@@ -131,8 +131,6 @@ class uploader_csv extends uploader {
 
     }
 
-
-
     private function makeAssocRows($rows, $fieldNames) {
         $result = array();
         foreach ($rows as $row) {
@@ -164,7 +162,6 @@ class uploader_csv extends uploader {
         }
         return(1);
     }
-
 
 }
 

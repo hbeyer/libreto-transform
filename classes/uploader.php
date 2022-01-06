@@ -11,6 +11,7 @@ class  uploader {
         $this->path = $path;
         $this->fileName = $fileName;
         $this->format = $format;
+        $this->metaPath = reconstruction::FOLDER.'/'.$this->fileName.'/'.$this->fileName.'-metadata.xml';
     }
 
     public function loadCatalogues($fileName) {
@@ -26,30 +27,59 @@ class  uploader {
         $catalogue = $this->loadMetaFile();
         $set = $catalogue->makeMetadataSet();
         return($set);
-    }    
-    
+    }
+
     protected function loadMetaFile() {
-        $metaPath = reconstruction::FOLDER.'/'.$this->fileName.'/'.$this->fileName.'-cat.php';
-        if (!file_exists($metaPath)) {
-           copy ('templateCat.php', $metaPath);
-           chmod($metaPath, 0777);
-           die('Bitte füllen Sie die Datei '.$this->fileName.'-cat.php aus und wiederholen Sie den Vorgang.');
+        if (!file_exists($this->metaPath)) {
+           copy ('template-metadata.xml', $this->metaPath); //Vorlage muss erstellt werden
+           chmod($this->metaPath, 0777);
+           die('Bitte füllen Sie die Datei '.$this->fileName.'-metadata.xml aus und wiederholen Sie den Vorgang.');
         }
         else {
-            require($metaPath);
+            $catalogue = $this->readMetadata();
             if (!empty($catalogue)) {
                 foreach ($catalogue as $value) {
                     if (is_array($value)) {
                         continue;
                     }
                     if (substr($value, 0, 1) == '{') {
-                        die('Bitte entfernen Sie alle geschweiften Klammern aus der Datei '.$this->fileName.'-cat.php und wiederholen Sie den Vorgang.');
+                        die('Bitte entfernen Sie alle geschweiften Klammern aus der Datei '.$this->fileName.'-metadata.xml und wiederholen Sie den Vorgang.');
                     }
                 }
                 return($catalogue);
             }
         }
     }
+
+    protected function readMetadata() {
+        $cat = new catalogue;
+        $dom = new DOMDocument;
+        $dom->load($this->metaPath);
+        $root = $dom->getElementsByTagName('catalogue')->item(0);
+        foreach ($root->childNodes as $node) {
+            if (property_exists('catalogue', $node->nodeName)) {
+                $cat->{$node->nodeName} = $node->nodeValue;
+            }
+        }
+        return($cat);
+    }
+
+    public function writeMetadata($cat) {
+        $dom = new DOMDocument('1.0', 'UTF-8');
+        $dom->formatOutput = true;
+        $root = $dom->createElement('catalogue');
+        foreach ($cat as $key => $value) {
+            if (is_string($value) == false) {
+                continue;
+            }
+            $new = $dom->createElement($key);
+            $text = $dom->createTextNode($value);
+            $new->appendChild($text);
+            $root->appendChild($new);
+        }
+        $dom->appendChild($root);
+        file_put_contents($this->metaPath, $dom->saveXML());
+    }    
 
 }
 

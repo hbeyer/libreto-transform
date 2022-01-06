@@ -7,6 +7,7 @@ class uploader_xml_full extends uploader {
     function __construct($path, $fileName) {
         $this->path = $path;
         $this->fileName = $fileName;
+        $this->metaPath = reconstruction::FOLDER.'/'.$this->fileName.'/'.$this->fileName.'-metadata.xml';
 	    $this->dom = new DOMDocument();
 	    $this->dom->load($this->path);
         if ($this->dom == FALSE) {

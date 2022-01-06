@@ -39,9 +39,12 @@ class reconstruction {
         $this->convertMetadataToDefault();
         $this->content = $uploader->loadContent($this->fileName); //Unelegant, weil das nur für xml_full gebraucht wird
         $this->insertIDs();
-        if ($format == 'csv' or $format == 'xml' or $format == 'php') {
+        if ($format != 'sql_dh') {
             $this->convertCatalogueToFull();
             $this->convertContentToFull();
+        }
+        if (in_array($format, array('xml', 'xml_full'))) {
+            $uploader->writeMetadata($this->catalogue);
         }
         /*elseif ($format == 'xml_full') {
             $this->convertMetadataToDefault();

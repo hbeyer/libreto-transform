@@ -7,6 +7,7 @@ class uploader_php extends uploader {
     function __construct($path, $fileName) {
         $this->path = $path;
         $this->fileName = $fileName;
+        $this->metaPath = reconstruction::FOLDER.'/'.$this->fileName.'/'.$this->fileName.'-metadata.xml';
 	    $string = file_get_contents($this->path);
         $this->unserialized = unserialize($string);
         $this->validate();
