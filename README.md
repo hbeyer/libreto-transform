@@ -1,18 +1,19 @@
 
 # libreto-transform
-Set of scripts for transforming library reconstruction data into reusable data formats (RDF, TEI, SOLR) and generating a Frontend in static HTML
+Set of scripts for transforming library reconstruction data into reusable data formats (RDF, TEI, SOLR) and generating a frontend in static HTML
 
 *Autor: Hartmut Beyer (beyer@hab.de)*
 
 ## Anforderungen
-Die Anwendung erfordert einen Server mit PHP (getestet mit Version 5.6–7.3) und schreibenden Zugriff auf Dateien und Ordner innerhalb des Programmordners.
+Die Anwendung erfordert eine Installation von PHP (getestet mit Version 5.6–7.3) und schreibenden Zugriff auf Dateien und Ordner innerhalb des Programmordners.
+Unter Windows empfiehlt sich die Verwndung von XAMPP, der Programmordner muss dann unter xampp/htdocs/ liegen. Unter Linux ist es /var/www/html/. Alternativ kann LibReTo von der Kommandozeile aus benutzt werden.
 
 ## Installation
-Kopieren Sie alle Dateien in einen Ordner auf dem Server.
+Herunterladen des Programmordners, dies kann manuell als ZIP-Datei oder auf der Kommandozeile mit `git clone https://github.com/hbeyer/libreto-transform` geschehen.
 
-Benennen Sie im Ordner ***private/*** die Datei ***settings.php.template*** um in ***settings.php*** und tragen Sie die folgenden Angaben ein:
-- Unter `$userGeoNames` der Login Ihres Accounts bei geoNames (http://www.geonames.org/login)
-- Unter `$userAgentHTTP` Ihren Namen in beliebiger Form
+Im Ordner ***private/*** muss die Datei ***settings.php.template*** in ***settings.php*** umbenannt werden. Darin müssen folgenden Angaben stehen:
+- Unter `$userGeoNames` der Login eines Accounts bei geoNames (http://www.geonames.org/login)
+- Unter `$userAgentHTTP` der Name der benutzenden Person in beliebiger Form
 - Unter `$impressum` die URL des Impressums, das für die Publikation der Seite gültig ist
 
 Um eine Datenbankverbindung zu nutzen, kann analog die Datei ***connectionData.php.template*** angepasst werden. Die Datenbank folgt dem Schema in ***schema-dh.sql*** (auf Basis der Datenerfassung von D. Hakelberg).
