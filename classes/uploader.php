@@ -33,7 +33,7 @@ class  uploader {
         if (!file_exists($this->metaPath)) {
            copy ('template-metadata.xml', $this->metaPath); //Vorlage muss erstellt werden
            chmod($this->metaPath, 0777);
-           die('Bitte füllen Sie die Datei '.$this->fileName.'-metadata.xml aus und wiederholen Sie den Vorgang.');
+           die('Bitte Datei '.$this->fileName.'-metadata.xml ausfüllen und den Vorgang wiederholen.');
         }
         else {
             $catalogue = $this->readMetadata();
@@ -43,7 +43,7 @@ class  uploader {
                         continue;
                     }
                     if (substr($value, 0, 1) == '{') {
-                        die('Bitte entfernen Sie alle geschweiften Klammern aus der Datei '.$this->fileName.'-metadata.xml und wiederholen Sie den Vorgang.');
+                        die('Bitte führende und schließende geschweifte Klammern aus der Datei '.$this->fileName.'-metadata.xml entfernen und den Vorgang wiederholen.');
                     }
                 }
                 return($catalogue);

@@ -20,13 +20,13 @@ function recurse_copy($src,$dst) {
 function zipFolderContent($folder, $fileName) {
 	$zip = new ZipArchive;
 	$zipFile = $folder.'/'.$fileName.'.zip';
-	if ($zip->open($zipFile, ZipArchive::CREATE) !== TRUE) {
+	if ($zip->open($zipFile, ZipArchive::CREATE) !== true) {
 		die('cannot open '.$fileName);
 	}	
-	$options = array('add_path' => $fileName.'/', 'remove_all_path' => TRUE);
-	$optionsCSS = array('add_path' => $fileName.'/assets/css/', 'remove_all_path' => TRUE);
-	$optionsFonts = array('add_path' => $fileName.'/assets/fonts/', 'remove_all_path' => TRUE);
-	$optionsJS = array('add_path' => $fileName.'/assets/js/', 'remove_all_path' => TRUE);
+	$options = array('add_path' => $fileName.'/', 'remove_all_path' => true);
+	$optionsCSS = array('add_path' => $fileName.'/assets/css/', 'remove_all_path' => true);
+	$optionsFonts = array('add_path' => $fileName.'/assets/fonts/', 'remove_all_path' => true);
+	$optionsJS = array('add_path' => $fileName.'/assets/js/', 'remove_all_path' => true);
 	$zip->addGlob($folder.'/assets/css/*.css', 0, $optionsCSS);
 	$zip->addGlob($folder.'/assets/fonts/*', 0, $optionsFonts);
 	$zip->addGlob($folder.'/assets/js/*.js', 0, $optionsJS);
@@ -41,6 +41,16 @@ function zipFolderContent($folder, $fileName) {
 	$zip->addFile($folder.'/dataPHP', $fileName.'/dataPHP');
 
 	$zip->close();
+}
+
+function validateFileName($name) {
+	if (!preg_match('~^[a-z\d-]{3,40}$~', $name)) {
+		return(false);
+	}
+	if (in_array($name, ['libreto', 'libreto-transform', 'libreto-search', 'assets'])) {
+		return(false);
+	}
+	return(true);
 }
 
 /*
