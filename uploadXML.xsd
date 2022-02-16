@@ -255,6 +255,8 @@
 				<xs:element minOccurs="0" ref="digitalCopyOriginal"/>
 				<xs:element minOccurs="0" ref="targetOPAC"/>
 				<xs:element minOccurs="0" ref="searchID"/>
+				<xs:element minOccurs="0" ref="OPACLink"/>
+				<xs:element minOccurs="0" ref="commentOriginal"/>
 			</xs:all>
 		</xs:complexType>
 	</xs:element>
@@ -264,6 +266,8 @@
 	<xs:element name="digitalCopyOriginal" type="xs:string"/>
 	<xs:element name="targetOPAC" type="xs:string"/>
 	<xs:element name="searchID" type="xs:string"/>
+	<xs:element name="OPACLink" type="xs:string"/>
+	<xs:element name="commentOriginal" type="xs:string"/>
 	<xs:element name="work">
 		<xs:complexType>
 			<xs:all>

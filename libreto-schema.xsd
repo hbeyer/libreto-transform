@@ -829,6 +829,8 @@
                 <xs:element minOccurs="0" ref="digitalCopyOriginal"/>
                 <xs:element minOccurs="0" ref="targetOPAC"/>
                 <xs:element minOccurs="0" ref="searchID"/>
+                <xs:element minOccurs="0" ref="OPACLink"/>
+                <xs:element minOccurs="0" ref="commentOriginal"/>
             </xs:all>
         </xs:complexType>
     </xs:element>
@@ -847,6 +849,16 @@
             <xs:documentation xml:lang="ger">Summarische Angabe über die Merkmale des Originals, die für seine Identifikation und bzw. die Zuordnung zu dieser konkreten Sammlung ausschlaggebend sind</xs:documentation>
         </xs:annotation>
     </xs:element>
+    <xs:element name="OPACLink" type="xs:string">
+        <xs:annotation>
+            <xs:documentation xml:lang="ger">Link zum Eintrag des Exemplars im OPAC der besitzenden Institution</xs:documentation>
+        </xs:annotation>
+    </xs:element>
+    <xs:element name="commentOriginal" type="xs:string">
+        <xs:annotation>
+            <xs:documentation xml:lang="ger">Kommentar, der sich auf das Exemplar bezieht und nicht die Provenienz betrifft (s. ansonsten provenanceAttribute)</xs:documentation>
+        </xs:annotation>
+    </xs:element>      
     <xs:element name="digitalCopyOriginal" type="xs:string">
         <xs:annotation>
             <xs:documentation xml:lang="ger">Link zum Digitalisat des Originalexemplars (für Digitalisate der Ausgabe s. digitalCopy)</xs:documentation>

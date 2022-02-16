@@ -11,7 +11,11 @@
 #ISIL: DE-23
 #MESSAGE: Eintrag im Virtuellen Kupferstichkabinett (VKK)
 #UPDATE: weekly
+<<<<<<< HEAD
+#TIMESTAMP: 2022-02-16T09:21:34+01:00
+=======
 #TIMESTAMP: 2021-12-26T18:38:45+01:00
+>>>>>>> 8bfb84fd43d66aae0f9d55ae56a1d23df9dfcfdc
 000315737|2
 001514887|1
 001653731|13

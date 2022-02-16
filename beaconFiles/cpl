@@ -4,7 +4,11 @@
 #CONTACT: professorenkatalog@uni-leipzig.de / Christian Augustin, Christian Rau, Thomas Riechert 
 #FEED: http://www.uni-leipzig.de/unigeschichte/professorenkatalog/leipzig/cpl-beacon.txt
 #INSTITUTION: Professorenkatalog der Universität Leipzig
+<<<<<<< HEAD
+#TIMESTAMP: 2022-02-16 09:21:25		
+=======
 #TIMESTAMP: 2021-12-26 18:37:33		
+>>>>>>> 8bfb84fd43d66aae0f9d55ae56a1d23df9dfcfdc
  11653321		
 079487068		
 100030750		
@@ -1271,7 +1275,6 @@
 12436005X		
 124364837		
 124413471		
-124434703		
 124437818		
 124544789		
 124547311		
