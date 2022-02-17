@@ -15,19 +15,18 @@ class page {
 		if ($this->facet == 'persName') {
 			$this->beaconRep = new beacon_repository();
 		}
+		$this->sections = $sections;
+		$this->insertAnchors();
 		$this->makeSubpages($sections);
-		$this->markSubpages();
 		$this->makeToC();
 
 	}
 
-	private function markSubpages() {
-		foreach ($this->subpages as $subpage) {
-			//Das Folgende führt zu merkwürdigen Ergebnissen
-			foreach ($subpage as $nosec => $section) {
-				foreach ($section->content as $item) {
-					$item->anchor = $item->id.'-'.$nosec;
-				}
+	private function insertAnchors() {
+		foreach ($this->sections as $sec) {
+			$hash = substr(md5($sec->label), 0, 5);
+			foreach ($sec->content as $item) {
+				$item->anchor = $item->id.'-'.$hash;
 			}
 		}
 	}
@@ -46,10 +45,10 @@ class page {
 	   return($res);
 	}
 	
-	private function makeSubpages($sections) {
+	private function makeSubpages() {
 		$collectSec = array();
 		$collectSize = 0;
-		while ($next = array_shift($sections)) {
+		while ($next = array_shift($this->sections)) {
 			$size = $next->getSize();
 			// Wenn die aktuelle section größer ist als das Limit:
 			if ($size > $this->maxLen) {

@@ -115,10 +115,13 @@ function fillCloudList($weightArray, $nameArray, $limit, $path) {
 	foreach($weightArray as $id => $weight) {
 		$name = $nameArray[$id];
 		$row = array('text' => $name, 'weight' => $weight);
+		//Die Erzeugung von Links für Personen ist wegen der Paginierung deaktiviert
+		/*
 		if(preg_match('~^[0-9X]{8,10}$~', $id)) {
 			$link = $path.'person'.$id;
 			$row['link'] = $link;
 		}
+		*/
 		$content[] = $row;
 		$count++;
 		if($count > $limit) {

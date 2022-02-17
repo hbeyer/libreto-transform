@@ -53,8 +53,7 @@ class serializer_tei extends serializer_xml {
         $index = new index($this->data, 'histSubject');
         $structuredData = array();
         foreach($index->entries as $entry) {
-            $section = new section();
-            $section->label = $entry->label;
+            $section = new section($entry->label);
             foreach($entry->content as $idItem) {
                 $section->content[] = $this->data[$idItem];
             }

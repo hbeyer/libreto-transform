@@ -6,9 +6,9 @@ function makeSections($data, $field) {
 	$index = new index($data, $field);
 	$structuredData = array();
 	foreach($index->entries as $entry) {
-		$section = new section();
-		$section->label = $entry->label;
-		$section->level = $entry->level;
+		$section = new section($entry->label, $entry->level);
+		//$section->label = $entry->label;
+		//$section->level = $entry->level;
 		if ($field == 'persName' or $field == 'borrower') {
 			$section->authority = $entry->authority;
 		}
@@ -17,7 +17,7 @@ function makeSections($data, $field) {
 		}
 		$count = 1;
 		foreach($entry->content as $idItem) {
-			$section->content[] = $data[$idItem];
+			$section->content[] = clone($data[$idItem]);
 			$count++;
 		}
 		$structuredData[] = $section;
@@ -59,7 +59,7 @@ function quantifyLabels($structuredData) {
 
 function addHigherLevel($structuredData, $field) {
 	$newStructure = array();
-	$previousSection = new section();
+	$previousSection = new section('');
 	foreach($structuredData as $section) {
 		$higherSection = makeHigherSection($section, $previousSection, $field);
 		if(is_object($higherSection) == TRUE) {
@@ -77,8 +77,7 @@ function makeHigherSection($section, $previousSection, $field) {
 		$previousLetter = strtoupper(substr($previousSection->label, 0, 1));
 		$currentLetter = strtoupper(substr($section->label, 0, 1));
 		if($previousLetter != $currentLetter) {
-			$higherSection = new section();
-			$higherSection->label = $currentLetter;
+			$higherSection = new section($currentLetter);
 		}
 	}
 	elseif($field == 'year') {
@@ -86,8 +85,7 @@ function makeHigherSection($section, $previousSection, $field) {
 			$previousDecade = makeDecadeFromTo($previousSection->label);
 			$currentDecade = makeDecadeFromTo($section->label);
 			if($previousDecade != $currentDecade) {
-				$higherSection = new section();
-				$higherSection->label = $currentDecade;
+				$higherSection = new section($currentDecade);
 			}
 		}
 	}
