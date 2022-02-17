@@ -3,11 +3,7 @@
 #FORMAT: BEACON
 #INSTITUTION: Sächsische Biografie
 #TARGET: http://saebi.isgv.de/gnd/{ID}
-<<<<<<< HEAD
-#TIMESTAMP: 1644999683
-=======
-#TIMESTAMP: 1640540222
->>>>>>> 8bfb84fd43d66aae0f9d55ae56a1d23df9dfcfdc
+#TIMESTAMP: 1645022610
 #VERSION: 0.1
 #COUNT: 12403
 101568484X

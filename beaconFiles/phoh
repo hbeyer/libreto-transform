@@ -8,13 +8,8 @@
 #NAME: Kaiser und Höfe (KH)
 #DESCRIPTION: Personendatenbank der Höflinge der österreichischen Habsburger der kaiserlichen Linie sowie der Nebenlinien des 16. und 17. Jahrhunderts
 #ISIL: DE-2335
-<<<<<<< HEAD
-#TIMESTAMP: 2022-02-16T09:21:22+01:00
+#TIMESTAMP: 2022-02-16T15:43:29+01:00
 #REVISIT: 2022-02-17T01:00:00+01:00
-=======
-#TIMESTAMP: 2021-12-26T18:36:51+01:00
-#REVISIT: 2021-12-27T01:00:00+01:00
->>>>>>> 8bfb84fd43d66aae0f9d55ae56a1d23df9dfcfdc
 100010458
 100026656
 100029752
@@ -2300,10 +2295,6 @@
 173862829
 174061730
 174143958
-<<<<<<< HEAD
-=======
-174152159
->>>>>>> 8bfb84fd43d66aae0f9d55ae56a1d23df9dfcfdc
 174323638
 17439294X
 174660359

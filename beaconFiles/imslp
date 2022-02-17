@@ -1,11 +1,7 @@
 #FORMAT: BEACON
 #VERSION: 0.1
 #TARGET: http://beacon.findbuch.de/gnd-resolver/pw_imslp/{ID}
-<<<<<<< HEAD
 #TIMESTAMP: 2022-01-21T05:43:32Z
-=======
-#TIMESTAMP: 2021-12-26T01:40:19Z
->>>>>>> 8bfb84fd43d66aae0f9d55ae56a1d23df9dfcfdc
 #CONTACT: Thomas Berger < ThB [at] Gymel [dot] Com >
 #FEED: https://beacon.findbuch.de/downloads/patchwork/pw_imslp-gndbeacon.txt
 #EXAMPLES: 118556878
@@ -14,11 +10,7 @@
 #UPDATE: infrequently
 #PREFIX: http://d-nb.info/gnd/
 #DESCRIPTION: Aus der de:Wikipedia und en:Wikipedia extrahierte Links
-<<<<<<< HEAD
 #X-REVISION: 65384 [2022-01-21T05:37:26Z]
-=======
-#X-REVISION: 65379 [2021-12-26T01:34:58Z]
->>>>>>> 8bfb84fd43d66aae0f9d55ae56a1d23df9dfcfdc
 #X-EXTENT: 13491 unique identifiers of type SeeAlso::Identifier
 100000541
 100001718|3
@@ -2340,12 +2332,8 @@
 1089066813
 1089081731
 1089107242
-<<<<<<< HEAD
 1089172125
 1089174713
-=======
-1089154437
->>>>>>> 8bfb84fd43d66aae0f9d55ae56a1d23df9dfcfdc
 1089181809
 1089182511
 1089182538
@@ -2934,7 +2922,6 @@
 1157512046
 1157512240
 1157562817
-1157566367
 1157597114
 115759980
 1157602096

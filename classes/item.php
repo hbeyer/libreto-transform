@@ -2,6 +2,7 @@
 
 class item	{ //Refers to an item (book, manuscript, etc.) listed in the catalogue
 	public $id;
+	public $anchor = "";
 	public $pageCat; //Page in the catalogue where the item was found
 	public $imageCat; //Image number of the page in the digitized catalogue
 	public $numberCat; //Number of the item as found in catalogue

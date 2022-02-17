@@ -16,8 +16,20 @@ class page {
 			$this->beaconRep = new beacon_repository();
 		}
 		$this->makeSubpages($sections);
+		$this->markSubpages();
 		$this->makeToC();
 
+	}
+
+	private function markSubpages() {
+		foreach ($this->subpages as $subpage) {
+			//Das Folgende führt zu merkwürdigen Ergebnissen
+			foreach ($subpage as $nosec => $section) {
+				foreach ($section->content as $item) {
+					$item->anchor = $item->id.'-'.$nosec;
+				}
+			}
+		}
 	}
 	
 	public function __toString() {

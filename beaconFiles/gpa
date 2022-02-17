@@ -3,11 +3,7 @@
 #FORMAT: PND-BEACON
 #INSTITUTION: Deutsches Dokumentationszentrum fuer Kunstgeschichte - Bildarchiv Foto Marburg
 #DESCRIPTION: Graphikportal - Akteure (Künstler, Verleger, Auftraggeber etc.)
-<<<<<<< HEAD
-#TIMESTAMP: 2022-02-15T10:04:30Z
-=======
-#TIMESTAMP: 2021-12-26T08:33:50Z
->>>>>>> 8bfb84fd43d66aae0f9d55ae56a1d23df9dfcfdc
+#TIMESTAMP: 2022-02-16T10:04:30Z
 #FEED: https://www.graphikportal.org/gnd_beacon_event.txt
 118612271|526
 119551489|60
