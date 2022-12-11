@@ -1,0 +1,14 @@
+version: "3.8"
+
+services:
+  app:
+    container_name: libreto-server
+    build:
+        context: .
+        dockerfile: Dockerfile
+    ports:
+      - 84:80
+    working_dir: /var/www/html
+    volumes:
+      - ./:/var/www/html
+      - ./config-docker/php.ini:/usr/local/etc/php/php.ini
