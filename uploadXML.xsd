@@ -252,7 +252,6 @@
 				<xs:element minOccurs="0" ref="institutionOriginal"/>
 				<xs:element minOccurs="0" ref="shelfmarkOriginal"/>
 				<xs:element minOccurs="0" ref="provenanceAttribute"/>
-				<xs:element minOccurs="0" ref="OPACLink"/>
 				<xs:element minOccurs="0" ref="digitalCopyOriginal"/>
 				<xs:element minOccurs="0" ref="targetOPAC"/>
 				<xs:element minOccurs="0" ref="searchID"/>
@@ -264,7 +263,6 @@
 	<xs:element name="institutionOriginal" type="xs:string"/>
 	<xs:element name="shelfmarkOriginal" type="xs:string"/>
 	<xs:element name="provenanceAttribute" type="xs:string"/>
-	<xs:element name="OPACLink" type="xs:string"/>
 	<xs:element name="digitalCopyOriginal" type="xs:string"/>
 	<xs:element name="targetOPAC" type="xs:string"/>
 	<xs:element name="searchID" type="xs:string"/>
