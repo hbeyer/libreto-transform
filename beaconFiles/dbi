@@ -1,7 +1,11 @@
 #FORMAT: BEACON
 #VERSION: 0.1
 #TARGET: http://beacon.findbuch.de/gnd-resolver/pw_dbi/{ID}
+<<<<<<< HEAD
+#TIMESTAMP: 2022-11-21T19:49:27Z
+=======
 #TIMESTAMP: 2021-11-26T03:00:44Z
+>>>>>>> 3d393ce8df436f173e4029e6dc7517979e20e32d
 #CONTACT: Thomas Berger < ThB [at] Gymel [dot] Com >
 #FEED: https://beacon.findbuch.de/downloads/patchwork/pw_dbi-gndbeacon.txt
 #EXAMPLES: 11923212X
@@ -10,7 +14,11 @@
 #UPDATE: infrequently
 #PREFIX: http://d-nb.info/gnd/
 #DESCRIPTION: Aus der Wikipedia extrahierte Links
+<<<<<<< HEAD
+#X-REVISION: 32874 [2019-06-10T16:58:56Z]
+=======
 #X-REVISION: 32013 [2019-06-10T16:58:56Z]
+>>>>>>> 3d393ce8df436f173e4029e6dc7517979e20e32d
 #X-EXTENT: 5488 unique identifiers of type SeeAlso::Identifier
 100001718
 100001912
