@@ -1,4 +1,5 @@
 
+
 # libreto-transform
 Set of scripts for transforming library reconstruction data into reusable data formats (RDF, TEI, SOLR) and generating a frontend in static HTML
 
@@ -7,6 +8,14 @@ Set of scripts for transforming library reconstruction data into reusable data f
 ## Anforderungen
 Die Anwendung erfordert eine Installation von PHP (getestet mit Version 5.6–7.3) und schreibenden Zugriff auf Dateien und Ordner innerhalb des Programmordners.
 Unter Windows empfiehlt sich die Verwndung von XAMPP, der Programmordner muss dann unter xampp/htdocs/ liegen. Unter Linux ist es /var/www/html/. Alternativ kann LibReTo von der Kommandozeile aus benutzt werden.
+
+## Starten mit Docker
+LibReTo kann einfach mit Docker gestartet werden. Die Konfiguration der virtuellen Maschine ist in ***docker-compose.yml*** definiert. Sie kann (sofern Docker installiert ist) mit folgendem Befehl gestartet werden:
+
+```bash
+docker-compose up -d
+```
+Der Server läuft dann unter http://localhost:84/. Im Wurzelverzeichnis kann etwa ein Skript transform-myproject.php mit [http://localhost:84/transform-myproject.php](http://localhost:84/%7BDateiname%20Transformationsskript%7D.php) ausgeführt werden.
 
 ## Installation
 Herunterladen des Programmordners, dies kann manuell als ZIP-Datei oder auf der Kommandozeile mit `git clone https://github.com/hbeyer/libreto-transform` geschehen.
