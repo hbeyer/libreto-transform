@@ -6,11 +6,11 @@ Set of scripts for transforming library reconstruction data into reusable data f
 *Autor: Hartmut Beyer (beyer@hab.de)*
 
 ## Anforderungen
-Die Anwendung erfordert eine Installation von PHP (getestet mit Version 5.6–7.3) und schreibenden Zugriff auf Dateien und Ordner innerhalb des Programmordners.
+Die Anwendung erfordert eine Installation von PHP (getestet mit Version 5.6–7.4) und schreibenden Zugriff auf Dateien und Ordner innerhalb des Programmordners.
 Unter Windows empfiehlt sich die Verwndung von XAMPP, der Programmordner muss dann unter xampp/htdocs/ liegen. Unter Linux ist es /var/www/html/. Alternativ kann LibReTo von der Kommandozeile aus benutzt werden.
 
-## Starten mit Docker
-LibReTo kann einfach mit Docker gestartet werden. Die Konfiguration der virtuellen Maschine ist in ***docker-compose.yml*** definiert. Sie kann (sofern Docker installiert ist) mit folgendem Befehl gestartet werden:
+## LibReTo auf Docker
+LibReTo kann einfach mit Docker gestartet werden. Die Konfiguration der virtuellen Maschine mit PHP 7.4.33 ist in ***docker-compose.yml*** definiert. Zum Erzeugen des Image und Starten der virtuellen Maschine muss im Wurzelverzeichnis folgendes Kommando ausgeführt werden:
 
 ```bash
 docker-compose up -d
@@ -31,7 +31,28 @@ Um eine Datenbankverbindung zu nutzen, kann analog die Datei ***connectionData.p
 Daten können in XML oder in CSV erfasst werden. Zur Anlage eines XML-Dokuments nutzen Sie das Schema ***libreto-schema.xsd***. Im XML-Dokument werden sowohl die Erschließungsdaten als auch die Metadaten zur Sammlung hinterlegt. Zur Erstellung einer CSV-Datei nutzen Sie das Beispieldokument ***example.csv*** (Trennzeichen ";", Zeichencodierung "Windows-1252"). Die Metadaten werden in diesem Fall bei der Transformation erfasst. Die Benutzung der einzelnen Felder ist im Word-Dokument ***Dokumentation_CSV.doc*** beschrieben.
 
 ## Transformation
-Ein Transformationsskript kann unter Verwendung der Datei ***transform.php*** erstellt werden. Hierin muss zunächst ein Objekt der Klasse `reconstruction` in folgender Weise erzeugt werden:
+
+### Codebeispiel
+
+```php
+set_time_limit(600);
+require __DIR__ .'/vendor/autoload.php';
+include('functions/encode.php');
+
+$reconstruction = new reconstruction('source/myproject.xml', 'myproject', 'xml');
+$reconstruction->enrichData();
+$reconstruction->saveAllFormats();
+
+$pages = array('histSubject', 'persName', 'gender', 'beacon', 'year', 'subjects', 'languages', 'placeName', 'publishers');
+$doughnuts = array('histSubject', 'subjects', 'beacon', 'languages');
+$clouds = array('publishers', 'subjects', 'persName', 'shelfmarkOriginal');
+
+$facetList = new facetList($pages, $doughnuts, $clouds);
+$frontend = new frontend($reconstruction, $facetList);
+$frontend->build();
+```
+
+Ein Transformationsskript kann unter Verwendung der Datei ***transform.php*** erstellt werden. Hierin muss zunächst ein Objekt der Klasse `reconstruction` erzeugt werden:
 
 `reconstruction::__construct(string $path, string $fileName [, string $format = 'xml'])`
 - `$path`: Pfad zur Ausgangsdatei mit Dateiname und -Endung.
@@ -109,10 +130,21 @@ Hierfür wird ein Objekt der Klasse `reconstruction_sru` mit den folgenden Param
 - `$query`: Die Abfrage in PICA-Syntax. Jedem Suchschlüssel muss "pica." vorangestellt werden. Leerzeichen müssen durch "+" codiert werden.
 - `$fileName`: Der Dateiname für das Projekt
 - Optional: `$sru`. Die Adresse der SRU-Schnittstelle, sofern nicht die des Gemeinsamen Verbundkatalogs (http://sru.k10plus.de/gvk) abgefragt werden soll. Zu den vorhandenen Schnittstellen s. https://wiki.k10plus.de/display/K10PLUS/Datenbanken und http://uri.gbv.de/database/
-- Optional: `$bib`. Der Name der Bibliothek, deren Signaturen eingebunden werden sollen. Sofern der Bibliotheksname in PICA-Feld 209A $f steht und der Parameter `$regexSig` nicht gesetzt ist, wird von der genannten Bibliothek jeweils die erste Signatur übernommen.
+- Optional: `$bib`. Der Name der Bibliothek, deren Signaturen eingebunden werden sollen. Sofern der Bibliotheksname in PICA-Feld `209A $f` steht und der Parameter `$regexSig` nicht gesetzt ist, wird von der genannten Bibliothek jeweils die erste Signatur übernommen.
 - Optional: `$regexSig`. Ein regulärer Ausdruck, der auf alle Signaturen, die als Originalexemplar angezeigt werden sollen, matcht. Hiervon wird in einem Datensatz jeweils die erste übernommen. Bei Verwendung sollte im Parameter `$bib` der Bibliotheksname stehen.
 
 Die geladenen XML-Daten werden unter ***cache/pica*** zwischengespeichert. Nach Änderungen an den Katalogisaten muss dieser Ordner geleert werden.
 
-### Beispiel:
-> $reconstruction = new reconstruction_sru('pica.exk=sammlung+hardt+and+pica.bbg=(aa*+or+af*)', 'hardt', null, 'Herzog August Bibliothek Wolfenbüttel', 'M: Li 5530 Slg');
+### Beispiel
+
+```php
+set_time_limit(600);
+require __DIR__ .'/vendor/autoload.php';
+include('functions/encode.php');
+
+$reconstruction = new reconstruction_sru('pica.exk=sammlung+hardt+and+pica.bbg=(aa*+or+af*)', 'hardt', null, 'Herzog August Bibliothek Wolfenbüttel', 'M: Li 5530 Slg');
+
+$facetList = new facetList();
+$frontend = new frontend($reconstruction, $facetList);
+$frontend->build();
+```
