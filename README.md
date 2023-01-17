@@ -1,5 +1,6 @@
 
 
+
 # libreto-transform
 Set of scripts for transforming library reconstruction data into reusable data formats (RDF, TEI, SOLR) and generating a frontend in static HTML
 
@@ -9,16 +10,8 @@ Set of scripts for transforming library reconstruction data into reusable data f
 Die Anwendung erfordert eine Installation von PHP (getestet mit Version 5.6–7.4) und schreibenden Zugriff auf Dateien und Ordner innerhalb des Programmordners.
 Unter Windows empfiehlt sich die Verwndung von XAMPP, der Programmordner muss dann unter xampp/htdocs/ liegen. Unter Linux ist es /var/www/html/. Alternativ kann LibReTo von der Kommandozeile aus benutzt werden.
 
-## LibReTo auf Docker
-LibReTo kann einfach mit Docker gestartet werden. Die Konfiguration der virtuellen Maschine mit PHP 7.4.33 ist in ***docker-compose.yml*** definiert. Zum Erzeugen des Image und Starten der virtuellen Maschine muss im Wurzelverzeichnis folgendes Kommando ausgeführt werden:
-
-```bash
-docker-compose up -d
-```
-Der Server läuft dann unter http://localhost:84/. Im Wurzelverzeichnis kann etwa ein Skript transform-myproject.php mit [http://localhost:84/transform-myproject.php](http://localhost:84/%7BDateiname%20Transformationsskript%7D.php) ausgeführt werden.
-
 ## Installation
-Herunterladen des Programmordners, dies kann manuell als ZIP-Datei oder auf der Kommandozeile mit `git clone https://github.com/hbeyer/libreto-transform` geschehen.
+Herunterladen des Programmordners, dies kann manuell als ZIP-Datei oder auf der Kommandozeile mit `git clone https://github.com/hbeyer/libreto-transform` geschehen (entfällt bei Nutzung von Docker).
 
 Im Ordner ***private/*** muss die Datei ***settings.php.template*** in ***settings.php*** umbenannt werden. Darin müssen folgenden Angaben stehen:
 - Unter `$userGeoNames` der Login eines Accounts bei geoNames (http://www.geonames.org/login)
@@ -27,8 +20,18 @@ Im Ordner ***private/*** muss die Datei ***settings.php.template*** in ***settin
 
 Um eine Datenbankverbindung zu nutzen, kann analog die Datei ***connectionData.php.template*** angepasst werden. Die Datenbank folgt dem Schema in ***schema-dh.sql*** (auf Basis der Datenerfassung von D. Hakelberg).
 
+## LibReTo auf Docker
+LibReTo kann einfach mit Docker genutzt werden. Dafür muss Docker installiert sein, s. (https://www.docker.com/). Die Konfiguration der virtuellen Maschine ist in ***docker-compose.yml*** definiert. Zum Starten muss im Wurzelverzeichnis folgendes Kommando ausgeführt werden:
+
+```bash
+docker-compose up -d
+```
+Der Server läuft dann unter http://localhost:84/. Im Wurzelverzeichnis kann etwa ein Skript transform-myproject.php durch Aufruf von [http://localhost:84/transform-myproject.php](http://localhost:84/%7BDateiname%20Transformationsskript%7D.php) ausgeführt werden.
+
+Eine MySQL-Datenbank startet mit und kann unter http://localhost:85/ mit PHPMyAdmin bearbeitet werden, sofern eine Erfassung per MySQL gewünscht ist (Server: "libreto-db", User: "admin", Passwort: "testpassword"). Das in der Datenbank `libreto` geladene Schema entspricht dem Erfassungsformat 'sql_dh' (s. u.).
+
 ## Datenerfassung
-Daten können in XML oder in CSV erfasst werden. Zur Anlage eines XML-Dokuments nutzen Sie das Schema ***libreto-schema.xsd***. Im XML-Dokument werden sowohl die Erschließungsdaten als auch die Metadaten zur Sammlung hinterlegt. Zur Erstellung einer CSV-Datei nutzen Sie das Beispieldokument ***example.csv*** (Trennzeichen ";", Zeichencodierung "Windows-1252"). Die Metadaten werden in diesem Fall bei der Transformation erfasst. Die Benutzung der einzelnen Felder ist im Word-Dokument ***Dokumentation_CSV.doc*** beschrieben.
+Daten können in XML oder in CSV erfasst werden. Zur Anlage eines XML-Dokuments dient das Schema ***libreto-schema.xsd***. Im XML-Dokument werden sowohl die Erschließungsdaten als auch die Metadaten zur Sammlung hinterlegt. Zur Erstellung einer CSV-Datei kann das Beispieldokument ***example.csv*** (Trennzeichen ";", Zeichencodierung "Windows-1252") verwendet werden. Die Metadaten werden in diesem Fall bei der Transformation erfasst. Die Benutzung der einzelnen Felder ist im Word-Dokument ***Dokumentation_CSV.doc*** beschrieben.
 
 ## Transformation
 
@@ -52,6 +55,8 @@ $frontend = new frontend($reconstruction, $facetList);
 $frontend->build();
 ```
 
+### Klasse 'reconstruction'
+
 Ein Transformationsskript kann unter Verwendung der Datei ***transform.php*** erstellt werden. Hierin muss zunächst ein Objekt der Klasse `reconstruction` erzeugt werden:
 
 `reconstruction::__construct(string $path, string $fileName [, string $format = 'xml'])`
@@ -62,7 +67,7 @@ Ein Transformationsskript kann unter Verwendung der Datei ***transform.php*** er
 	- 'xml' (Standardwert): XML-Datei, die gegen das Schema ***uploadXML.xsd*** validiert
 	- 'xml_full': XML-Datei, die gegen das Schema ***libreto-schmema-full.xsd*** validiert
 	- 'php': Serialisierte PHP-Daten (werden automatisch erzeugt und im Projektordner unter `dataPHP` abgelegt)
-	- 'sql_dh': MySQL-Datenbank nach einem proprietären Schema. Die Zugangsdaten werden in der Datei ***private/connectionData.php*** nach der Vorlage ***connectionData.php.template*** eingetragen. Das Datenbankschema liegt unter ***schema-dh.sql***
+	- 'sql_dh': MySQL-Datenbank nach einem proprietären Schema. Die Zugangsdaten werden in der Datei ***private/connectionData.php*** nach der Vorlage ***connectionData.php.template*** eingetragen. Das Datenbankschema liegt unter ***schema-dh.sql***. Der Parameter `$path` kann in diesem Fall beliebig gesetzt werden.
 
 Die Methode `reconstruction::enrichData()` fügt Geodaten für Orte sowie Links zu biographischen Nachweissystemen bei Personen hinzu und vergibt IDs für Sammelbände.
 
@@ -148,3 +153,4 @@ $facetList = new facetList();
 $frontend = new frontend($reconstruction, $facetList);
 $frontend->build();
 ```
+

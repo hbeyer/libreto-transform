@@ -12,3 +12,25 @@ services:
     volumes:
       - ./:/var/www/html
       - ./config-docker/php.ini:/usr/local/etc/php/php.ini
+      - ./config-docker/connectionData.php:/var/www/html/private/connectionData.php
+      
+  libreto-db:
+    container_name: libreto-db
+    image: mysql:5.7.36
+    restart: always
+    environment:
+      MYSQL_DATABASE: libreto
+      MYSQL_USER: admin
+      MYSQL_PASSWORD: testpassword
+      MYSQL_RANDOM_ROOT_PASSWORD: '1'
+    volumes:
+      - ./config-docker/db:/var/lib/mysql
+
+  libreto-pma:
+    container_name: libreto-pma
+    image: phpmyadmin:5.2
+    restart: always
+    ports: 
+      - 85:80
+    environment:
+      - PMA_ARBITRARY=1
