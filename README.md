@@ -71,8 +71,6 @@ Ein Transformationsskript kann unter Verwendung der Datei ***transform.php*** er
 	- 'php': Serialisierte PHP-Daten (werden automatisch erzeugt und im Projektordner unter `dataPHP` abgelegt)
 	- 'sql_dh': MySQL-Datenbank nach einem proprietären Schema. Die Zugangsdaten werden in der Datei ***private/connectionData.php*** nach der Vorlage ***connectionData.php.template*** eingetragen. Das Datenbankschema liegt unter ***schema-dh.sql***. Der Parameter `$path` kann in diese Fall beliebig gesetzt werden. Beispiel:
 	
-```php
-
 Die Methode `reconstruction::enrichData()` fügt Geodaten für Orte sowie Links zu biographischen Nachweissystemen bei Personen hinzu und vergibt IDs für Sammelbände.
 
 Die Methode `reconstruction::insertGeoData()` fügt Geodaten für Orte hinzu.
