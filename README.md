@@ -21,12 +21,12 @@ Im Ordner ***private/*** muss die Datei ***settings.php.template*** in ***settin
 Um eine Datenbankverbindung zu nutzen, kann analog die Datei ***connectionData.php.template*** angepasst werden. Die Datenbank folgt dem Schema in ***schema-dh.sql*** (auf Basis der Datenerfassung von D. Hakelberg).
 
 ## LibReTo auf Docker
-LibReTo kann einfach mit Docker genutzt werden. Dafür muss Docker installiert sein, s. (https://www.docker.com/). Die Konfiguration der virtuellen Maschine ist in ***docker-compose.yml*** definiert. Zum Starten muss im Wurzelverzeichnis folgendes Kommando ausgeführt werden:
+LibReTo kann einfach mit Docker genutzt werden. Dafür muss Docker installiert sein, s. (https://www.docker.com/). Die Konfiguration der virtuellen Maschine ist in ***docker-compose.yml*** definiert. Zum Starten muss im Programmordner folgendes Kommando ausgeführt werden:
 
 ```bash
 docker-compose up -d
 ```
-Der Server läuft dann unter http://localhost:84/. Im Wurzelverzeichnis kann etwa ein Skript transform-myproject.php durch Aufruf von [http://localhost:84/transform-myproject.php](http://localhost:84/%7BDateiname%20Transformationsskript%7D.php) ausgeführt werden.
+Der Server läuft dann unter http://localhost:84/. Im Programmordner kann etwa ein Skript transform-myproject.php durch Aufruf von [http://localhost:84/transform-myproject.php](http://localhost:84/%7BDateiname%20Transformationsskript%7D.php) ausgeführt werden.
 
 Die Datei ***settings.php*** muss wie unter "Installation" beschrieben angepasst werden.
 
