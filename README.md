@@ -28,6 +28,8 @@ docker-compose up -d
 ```
 Der Server läuft dann unter http://localhost:84/. Im Wurzelverzeichnis kann etwa ein Skript transform-myproject.php durch Aufruf von [http://localhost:84/transform-myproject.php](http://localhost:84/%7BDateiname%20Transformationsskript%7D.php) ausgeführt werden.
 
+Die Datei ***settings.php*** muss wie unter "Installation" beschrieben angepasst werden.
+
 Eine MySQL-Datenbank startet mit und kann unter http://localhost:85/ mit PHPMyAdmin bearbeitet werden, sofern eine Erfassung per MySQL gewünscht ist (Server: "libreto-db", User: "admin", Passwort: "testpassword"). Das in der Datenbank `libreto` geladene Schema entspricht dem Erfassungsformat 'sql_dh' (s. u.).
 
 ## Datenerfassung
@@ -67,7 +69,9 @@ Ein Transformationsskript kann unter Verwendung der Datei ***transform.php*** er
 	- 'xml' (Standardwert): XML-Datei, die gegen das Schema ***uploadXML.xsd*** validiert
 	- 'xml_full': XML-Datei, die gegen das Schema ***libreto-schmema-full.xsd*** validiert
 	- 'php': Serialisierte PHP-Daten (werden automatisch erzeugt und im Projektordner unter `dataPHP` abgelegt)
-	- 'sql_dh': MySQL-Datenbank nach einem proprietären Schema. Die Zugangsdaten werden in der Datei ***private/connectionData.php*** nach der Vorlage ***connectionData.php.template*** eingetragen. Das Datenbankschema liegt unter ***schema-dh.sql***. Der Parameter `$path` kann in diesem Fall beliebig gesetzt werden.
+	- 'sql_dh': MySQL-Datenbank nach einem proprietären Schema. Die Zugangsdaten werden in der Datei ***private/connectionData.php*** nach der Vorlage ***connectionData.php.template*** eingetragen. Das Datenbankschema liegt unter ***schema-dh.sql***. Der Parameter `$path` kann in diese Fall beliebig gesetzt werden. Beispiel:
+	
+```php
 
 Die Methode `reconstruction::enrichData()` fügt Geodaten für Orte sowie Links zu biographischen Nachweissystemen bei Personen hinzu und vergibt IDs für Sammelbände.
 
