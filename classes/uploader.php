@@ -36,7 +36,7 @@ class  uploader {
            die('Bitte Datei '.$this->fileName.'-metadata.xml ausfüllen und den Vorgang wiederholen.');
         }
         else {
-            $catalogue = $this->readMetadata();
+            $catalogue = uploader::readMetadata($this->metaPath);
             if (!empty($catalogue)) {
                 foreach ($catalogue as $value) {
                     if (is_array($value)) {
@@ -51,10 +51,10 @@ class  uploader {
         }
     }
 
-    protected function readMetadata() {
+    static function readMetadata($metaPath) {
         $cat = new catalogue;
         $dom = new DOMDocument;
-        $dom->load($this->metaPath);
+        $dom->load($metaPath);
         $root = $dom->getElementsByTagName('catalogue')->item(0);
         foreach ($root->childNodes as $node) {
             if (property_exists('catalogue', $node->nodeName)) {

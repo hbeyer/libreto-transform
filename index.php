@@ -11,35 +11,15 @@
         <script src="assets/js/proprietary.js"></script>		
 	</head>
 	<body>
-        <nav class="navbar navbar-inverse navbar-fixed-top">
-            <div class="container-fluid">
-                <ul class="nav navbar-nav">
-                    <li class="active"><a href="https://bibliotheksrekonstruktion.hab.de" target="_blank" title="LibReTo an der HAB">HAB</a></li>
-                    <li><a href="https://github.com/hbeyer/libreto-transform" title="LibReTo auf GitHub" target="_blank">GitHub</a></li>
-                    <li class="dropdown">
-                        <a class="dropdown-toggle" data-toggle="dropdown" href="#">Dokumentation<span class="caret"></span></a>
-                        <ul class="dropdown-menu">
-                            <li><a href="Dokumentation_CSV.pdf">Anleitung CSV</a></li>
-							<li><a href="example.csv">Vorlage CSV</a></li>
-							<li><a href="libreto-schema.xsd">Erfassungsschema XML</a></li>
-                            <li><a href="libreto-schema-full.xsd">Erweitertes Erfassungsschema XML</a></li>
-                        </ul>
-                    </li>
-					<?php if ($_SERVER['SERVER_PORT'] == '84'): ?>
-					<li class="active"><a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>:85/" target="_blank" title="Lokale Erfassungsdatenbank">PHPMyAdmin</a></li>
-					<?php endif; ?>					
-                </ul>
-                <ul class="nav navbar-nav navbar-right">
-                    <li style="margin-right:1em;"><img src="assets/images/icon.svg" height="50" alt="Logo HAB"/></li>
-                </ul>
-            </div>
-        </nav>	
+<?php 	$active = basename(__FILE__, '.php');
+		include('templates/user_interface/navigation.phtml'); 
+?>
 		<div class="container" style="min-height:1000px;margin-top:80px;">
 			<h1>Testseite f&uuml;r LibReTo</h1>
 			<p>
 			<?php echo 'Es funktioniert!<br>Server: '.$_SERVER['SERVER_NAME'].':'.$_SERVER['SERVER_PORT'].'<br>PHP-Version: '.phpversion(); ?>
 			</p>
-			<p>Transformationsskripte können im Hauptverzeichnis (i. d. R. &bdquo;libreto-transform&rdquo;) gespeichert und über die Adressleiste ausgeführt werden. Codebeispiel:
+			<p>Transformationsskripte können im Hauptverzeichnis (i. d. R. &bdquo;libreto-transform&rdquo;) gespeichert und über die Adressleiste ausgeführt werden. Die Ergebnisse werden im Ordner &bdquo;projectFiles&rdquo; gespeichert. Codebeispiel:
 				<pre>
 require __DIR__ .'/vendor/autoload.php';
 include('functions/encode.php');
