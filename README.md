@@ -26,7 +26,14 @@ LibReTo kann einfach mit Docker genutzt werden. Dafür muss Docker installiert s
 ```bash
 docker-compose up -d
 ```
-Der Server läuft dann unter http://localhost:84/. Im Programmordner kann etwa ein Skript transform-myproject.php durch Aufruf von [http://localhost:84/transform-myproject.php](http://localhost:84/%7BDateiname%20Transformationsskript%7D.php) ausgeführt werden.
+
+Der Server läuft dann unter http://localhost:84/. Im Programmordner kann etwa ein Skript ***transform-myproject.php*** durch Aufruf von [http://localhost:84/transform-myproject.php](http://localhost:84/%7BDateiname%20Transformationsskript%7D.php) ausgeführt werden.
+
+Alternativ kann man sich über die Kommandozeile mit dem laufenden Container verbinden:
+
+```bash
+docker exec -it libreto-server sh
+```
 
 Die Datei ***settings.php*** muss wie unter "Installation" beschrieben angepasst werden.
 
