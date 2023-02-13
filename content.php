@@ -6,7 +6,7 @@ $content = [];
 foreach (glob('projectFiles/*') as $path) {
 	$folder = strtr($path, ['projectFiles/' => '']);
     $content[$folder] = [];
-	$pathCat = 'projectFiles/'.$folder.'/'.$folder;
+	$pathCat = $path.'/'.$folder;
 	if (file_exists($pathCat.'-cat.php')) {
 		require($pathCat.'-cat.php');
 	}
