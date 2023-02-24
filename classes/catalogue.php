@@ -11,6 +11,7 @@ class catalogue {
 	//public $fileName; //The file name to be used in the URL
 	public $description;
 	public $geoBrowserStorageID;
+	public $geoBrowserStorageID_bio;
 	public $creatorReconstruction;
 	public $yearReconstruction;
 

@@ -27,7 +27,7 @@ class serializer_xml extends serializer {
     protected function insertMetadataFromCatalogue() {
         $root = $this->dom->documentElement;
         $metadata = $this->dom->createElement('metadata');
-        $metadataFields = array('heading', 'owner', 'ownerGND', 'fileName', 'title', 'base', 'placeCat', 'year', 'institution', 'shelfmark', 'description', 'geoBrowserStorageID', 'creatorReconstruction', 'yearReconstruction');
+        $metadataFields = array('heading', 'owner', 'ownerGND', 'fileName', 'title', 'base', 'placeCat', 'year', 'institution', 'shelfmark', 'description', 'geoBrowserStorageID', 'geoBrowserStorageID_bio', 'creatorReconstruction', 'yearReconstruction');
         foreach($this->catalogue as $key => $value) {
             if(in_array($key, $metadataFields) and $value) {
                 $element = $this->dom->createElement($key);

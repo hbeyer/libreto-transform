@@ -14,7 +14,8 @@
 	<shelfmark>{Signatur des Altkatalogs}</shelfmark>
 	<base>{Pfad für das Digitalisat das Altkatalogs. Die Image-Nummer wird durch {No} wiedergegeben, fehlt das, wird sie angehängt. Relative Links zur Nutzung lokaler Bilder sind möglich.}</base>
 	<description>{Abstract zur rekonstruierten Sammlung}</description>
-	<geoBrowserStorageID>{ID unter https://geobrowser.de.dariah.eu/ für ein bereits vorhandenes Datenset}</geoBrowserStorageID>
+	<geoBrowserStorageID>{ID unter https://geobrowser.de.dariah.eu/ für ein bereits vorhandenes Datenset zu den Titeln}</geoBrowserStorageID>
+	<geoBrowserStorageID_bio>{ID unter https://geobrowser.de.dariah.eu/ für ein bereits vorhandenes Datenset zu den Personen (bioPlaces.csv</geoBrowserStorageID_bio>
 	<creatorReconstruction>{Für die Rekonstruktion verantwortliche Person oder Personen (Freitextfeld)}</creatorReconstruction>
 	<yearReconstruction>{Jahr der Rekonstruktion}</yearReconstruction>
 </catalogue>

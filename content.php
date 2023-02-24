@@ -5,6 +5,9 @@ include('functions/encode.php');
 $content = [];
 foreach (glob('projectFiles/*') as $path) {
 	$folder = strtr($path, ['projectFiles/' => '']);
+	if ($path == "projectFiles/index.php") {
+		continue;
+	}
     $content[$folder] = [];
 	$pathCat = $path.'/'.$folder;
 	if (file_exists($pathCat.'-cat.php')) {

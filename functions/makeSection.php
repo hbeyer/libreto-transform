@@ -94,6 +94,10 @@ function makeHigherSection($section, $previousSection, $field) {
 
 // This is an auxiliary function for makeHigherSection
 function makeDecadeFromTo($year) {
+	if (!preg_match('~\d{3,4}~', $year) == 1) {
+		return($year);
+	}
+	$year = intval($year);
 	$decadeStart = $year - ($year % 10);
 	$decadeEnd = $decadeStart + 10;
 	$fromTo = $decadeStart.'–'.$decadeEnd;

@@ -157,7 +157,8 @@ class uploader_csv extends uploader {
         $width = count($this->fieldNames);
         foreach ($this->rows as $index => $row) {
             if (count($row) != $width) {
-                throw new Exception('Uneinheitliche Anzahl an Spalten ab Nr. '.$index + 1, 1);
+				$place = $index + 1;
+                throw new Exception("Uneinheitliche Anzahl an Spalten ab Nr. $place", 1);
             }
         }
         return(1);

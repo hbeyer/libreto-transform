@@ -23,6 +23,7 @@
 				<xs:element maxOccurs="1" minOccurs="0" ref="shelfmark"/>
 				<xs:element maxOccurs="1" minOccurs="0" ref="description"/>
 				<xs:element maxOccurs="1" minOccurs="0" ref="geoBrowserStorageID"/>
+				<xs:element maxOccurs="1" minOccurs="0" ref="geoBrowserStorageID_bio"/>
 				<xs:element maxOccurs="1" minOccurs="0" ref="creatorReconstruction"/>
 				<xs:element maxOccurs="1" minOccurs="0" ref="yearReconstruction"/>
 			</xs:all>
@@ -39,6 +40,7 @@
 	<xs:element name="shelfmark" type="xs:string"/>
 	<xs:element name="description" type="xs:string"/>
 	<xs:element name="geoBrowserStorageID" type="xs:string"/>
+	<xs:element name="geoBrowserStorageID_bio" type="xs:string"/>
 	<xs:element name="creatorReconstruction" type="xs:string"/>
 	<xs:element name="yearReconstruction" type="xs:string"/>
 	<xs:element name="item">

@@ -42,7 +42,7 @@ class uploader_xml_full extends uploader {
     	$metadataSet = new metadata_reconstruction;
     	$metadata = $this->dom->getElementsByTagName('metadata')->item(0);
     	$myMetaDom = new MyDom($metadata);
-    	$myMetaDom->writeChildrenToObject($metadataSet, array('heading', 'owner', 'ownerGND', 'description', 'geoBrowserStorageID', 'yearReconstruction'));
+    	$myMetaDom->writeChildrenToObject($metadataSet, array('heading', 'owner', 'ownerGND', 'description', 'geoBrowserStorageID', 'geoBrowserStorageID_bio', 'yearReconstruction'));
         $personNodes = $myMetaDom->getChildNodes('person');
         foreach ($personNodes as $persNode) {
             $person = new person;
