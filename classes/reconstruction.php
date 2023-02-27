@@ -80,7 +80,9 @@ class reconstruction {
         $ser = new serializer_php($this->catalogue, $this->content, $this->fileName);
         $ser->serialize();
         $ser = new serializer_xml($this->catalogue, $this->content, $this->fileName);
-        $ser->serialize();        
+		$ser->serialize();  
+        $ser = new serializer_xml_full($this->catalogues, $this->metadataReconstruction, $this->content);
+        $ser->serialize();  
         $ser = new serializer_csv($this->catalogue, $this->content, $this->fileName);
         $ser->serialize();
         $ser = new serializer_tei($this->catalogue, $this->content, $this->fileName);

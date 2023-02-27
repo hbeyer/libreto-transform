@@ -4,8 +4,14 @@ class serializer_xml extends serializer {
 
     protected $dom;
 
+    public function __construct(catalogue $catalogue, $data, $fileName) {
+        $this->catalogue = $catalogue;
+        $this->data = $data;
+        $this->fileName = $fileName;
+		$this->path = reconstruction::getPath($this->fileName, $this->fileName, 'xml');
+    }
+
     public function serialize() {
-        $this->path = reconstruction::getPath($this->fileName, $this->fileName, 'xml');
         $this->makeDOM();
         $this->insertContent();
         $this->output = $this->dom->saveXML();
@@ -28,8 +34,8 @@ class serializer_xml extends serializer {
         $root = $this->dom->documentElement;
         $metadata = $this->dom->createElement('metadata');
         $metadataFields = array('heading', 'owner', 'ownerGND', 'fileName', 'title', 'base', 'placeCat', 'year', 'institution', 'shelfmark', 'description', 'geoBrowserStorageID', 'geoBrowserStorageID_bio', 'creatorReconstruction', 'yearReconstruction');
-        foreach($this->catalogue as $key => $value) {
-            if(in_array($key, $metadataFields) and $value) {
+        foreach ($this->catalogue as $key => $value) {
+            if (in_array($key, $metadataFields) and $value) {
                 $element = $this->dom->createElement($key);
                 $text = $this->dom->createTextNode($value);
                 $element->appendChild($text);

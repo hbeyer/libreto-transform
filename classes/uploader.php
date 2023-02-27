@@ -26,6 +26,7 @@ class  uploader {
     public function loadMetadata() {
         $catalogue = $this->loadMetaFile();
         $set = $catalogue->makeMetadataSet();
+		$set->fileName = $this->fileName;
         return($set);
     }
 

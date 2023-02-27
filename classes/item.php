@@ -26,8 +26,10 @@ class item	{ //Refers to an item (book, manuscript, etc.) listed in the catalogu
 	public $genres = array(); // Contains one ore more indications of genre as string
 	public $mediaType; //Book, Manuscript, Physical Object, etc.
 	public $languages = array(); //One or more language codes according to ISO 639.2
-	public $manifestation = array('systemManifestation' => '', 'idManifestation' => '', 'commentManifestation' => ''); //Entry in a bibliographic database or library catalogue			
-	public $originalItem = array('institutionOriginal' => '', 'shelfmarkOriginal' => '', 'provenanceAttribute' => '', 'digitalCopyOriginal' => '', 'targetOPAC' => '', 'searchID' => '', 'OPACLink' => '', 'commentOriginal' => '');
+	//public $manifestation = array('systemManifestation' => '', 'idManifestation' => '', 'commentManifestation' => ''); //Entry in a bibliographic database or library catalogue			
+	public $manifestation = array('systemManifestation' => '', 'idManifestation' => ''); //Entry in a bibliographic database or library catalogue			
+	//public $originalItem = array('institutionOriginal' => '', 'shelfmarkOriginal' => '', 'provenanceAttribute' => '', 'digitalCopyOriginal' => '', 'targetOPAC' => '', 'searchID' => '', 'OPACLink' => '', 'commentOriginal' => '');
+	public $originalItem = array('institutionOriginal' => '', 'shelfmarkOriginal' => '', 'provenanceAttribute' => '', 'digitalCopyOriginal' => '', 'targetOPAC' => '', 'searchID' => '', 'OPACLink' => '');
 	public $work = array('titleWork' => '', 'systemWork' => '', 'idWork' => ''); //Entry for the work in a public database.			
 	public $bound = 1;
 	public $comment;

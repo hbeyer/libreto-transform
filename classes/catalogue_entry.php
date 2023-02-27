@@ -8,6 +8,7 @@ class catalogue_entry {
 	public $pageCat;
 	public $imageCat;	
 	public $histSubject;
+	public $idSect;
 
 }
 

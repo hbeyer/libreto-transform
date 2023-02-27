@@ -8,6 +8,7 @@ class metadata_reconstruction {
 	public $ownerGND; // The GND of this person or institution
 	public $description;
 	public $geoBrowserStorageID;
+	public $geoBrowserStorageID_bio;
 	public $creatorReconstruction;
 	public $yearReconstruction;
 
