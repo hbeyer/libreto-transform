@@ -20,7 +20,7 @@
         <script src="https://cdn.amcharts.com/lib/4/charts.js"></script>
         <script src="https://cdn.amcharts.com/lib/4/plugins/forceDirected.js"></script>
         <script src="https://cdn.amcharts.com/lib/4/themes/moonrisekingdom.js"></script>
-        <script src="https://cdn.amcharts.com/lib/4/themes/animated.js"></script>            
+        <script src="https://cdn.amcharts.com/lib/4/themes/animated.js"></script>
 <?php endif; ?>
     </head>
 
@@ -39,9 +39,10 @@
             <div class="dropdown" style="float:left">
                 <button class="btn btn-info dropdown-toggle" type="button" data-toggle="dropdown">Download<span class="caret"></span></button>
                 <ul class="dropdown-menu">
-                    <li class="dropdown-header">Datenexport</li> 
+                    <li class="dropdown-header">Datenexport</li>
                     <li><a href="<?php echo $catalogue->fileName; ?>.csv">CSV</a></li>
                     <li><a href="<?php echo $catalogue->fileName; ?>.xml">XML</a></li>
+                    <li><a href="<?php echo $catalogue->fileName; ?>-full.xml">XML (erweitert)</a></li>
                     <li><a href="<?php echo $catalogue->fileName; ?>-tei.xml">TEI</a></li>
                     <li><a href="<?php echo $catalogue->fileName; ?>.rdf">RDF/XML</a></li>
                     <li><a href="<?php echo $catalogue->fileName; ?>.ttl">Turtle</a></li>
@@ -53,7 +54,7 @@
                     <li class="dropdown-header">Komplette Website</li>
                     <li><a href="<?php echo $catalogue->fileName; ?>.zip">ZIP</a></li>
                 </ul>
-            </div> 
+            </div>
         </div>
 <?php echo $navigation; ?>
         <div class="container" style="min-height:600px;">

@@ -38,6 +38,15 @@ class catalogue {
 			$count++;
 		}
 	}
+	
+	public function getSectID($histSubject) {
+	    foreach($this->sections as $sec) {
+	    if ($sec->label == $histSubject) {
+	            return($sec->id);
+	        }
+	    }
+	    return("");
+	}
 
 	public function importFromMetadataSet(metadata_reconstruction $set) {
 		foreach ($set as $key => $value) {

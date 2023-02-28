@@ -5,7 +5,7 @@ class reconstruction {
     public $catalogue = null;
     public $catalogues = array();
     public $metadataReconstruction;
-    public $content = array();    
+    public $content = array();
     public $fileName;
     const FOLDER = 'projectFiles';
     const INCLUDEPATH = 'functions/';
@@ -29,7 +29,7 @@ class reconstruction {
         }
         elseif ($format == 'sql_dh') {
             $uploader = new uploader_sql_dh($this->fileName);
-        }        
+        }
         else {
             throw new Exception('Falsche Formatangabe: '.$format.'. Erlaubt sind xml, csv, xml_full, php und sql_dh', 1);
         }
@@ -50,14 +50,15 @@ class reconstruction {
             $this->convertMetadataToDefault();
         }*/
     }
-    
+
     protected function convertCatalogueToFull() {
         $this->catalogues[0]->addSections($this->content);
     }
 
     protected function convertContentToFull() {
         foreach ($this->content as $item) {
-            $item->convertToFull();
+            $sectID = $this->catalogues[0]->getSectID($item->histSubject);
+            $item->convertToFull($sectID);
         }
     }
 
@@ -80,15 +81,15 @@ class reconstruction {
         $ser = new serializer_php($this->catalogue, $this->content, $this->fileName);
         $ser->serialize();
         $ser = new serializer_xml($this->catalogue, $this->content, $this->fileName);
-		$ser->serialize();  
+		$ser->serialize();
         $ser = new serializer_xml_full($this->catalogues, $this->metadataReconstruction, $this->content);
-        $ser->serialize();  
+        $ser->serialize();
         $ser = new serializer_csv($this->catalogue, $this->content, $this->fileName);
         $ser->serialize();
         $ser = new serializer_tei($this->catalogue, $this->content, $this->fileName);
         $ser->serialize();
         $ser = new serializer_solr($this->catalogue, $this->content, $this->fileName);
-        $ser->serialize();        
+        $ser->serialize();
         $ser = new serializer_rdf($this->catalogue, $this->content, $this->fileName);
         $ser->serialize();
         $ser = new serializer_kml($this->catalogue, $this->content, $this->fileName);
@@ -119,7 +120,7 @@ class reconstruction {
     protected function insertIDs() {
         $count = 0;
         foreach ($this->content as $item) {
-            $item->id = $this->fileName.$count; 
+            $item->id = $this->fileName.$count;
             $count++;
         }
     }
@@ -156,7 +157,7 @@ class reconstruction {
         }
     }
 
-    public function insertGeoData() {    
+    public function insertGeoData() {
         require_once('private/settings.php');
         $archiveGeoNames = new geoDataArchive('geoNames');
         $archiveGND = new geoDataArchive('gnd');
@@ -201,7 +202,7 @@ class reconstruction {
                 }
             }
         }
-        return($this->GNDList);        
+        return($this->GNDList);
     }
 
     protected function createDirectory() {

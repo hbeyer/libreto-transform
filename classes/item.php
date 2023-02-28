@@ -26,16 +26,16 @@ class item	{ //Refers to an item (book, manuscript, etc.) listed in the catalogu
 	public $genres = array(); // Contains one ore more indications of genre as string
 	public $mediaType; //Book, Manuscript, Physical Object, etc.
 	public $languages = array(); //One or more language codes according to ISO 639.2
-	//public $manifestation = array('systemManifestation' => '', 'idManifestation' => '', 'commentManifestation' => ''); //Entry in a bibliographic database or library catalogue			
-	public $manifestation = array('systemManifestation' => '', 'idManifestation' => ''); //Entry in a bibliographic database or library catalogue			
+	//public $manifestation = array('systemManifestation' => '', 'idManifestation' => '', 'commentManifestation' => ''); //Entry in a bibliographic database or library catalogue
+	public $manifestation = array('systemManifestation' => '', 'idManifestation' => ''); //Entry in a bibliographic database or library catalogue
 	//public $originalItem = array('institutionOriginal' => '', 'shelfmarkOriginal' => '', 'provenanceAttribute' => '', 'digitalCopyOriginal' => '', 'targetOPAC' => '', 'searchID' => '', 'OPACLink' => '', 'commentOriginal' => '');
 	public $originalItem = array('institutionOriginal' => '', 'shelfmarkOriginal' => '', 'provenanceAttribute' => '', 'digitalCopyOriginal' => '', 'targetOPAC' => '', 'searchID' => '', 'OPACLink' => '');
-	public $work = array('titleWork' => '', 'systemWork' => '', 'idWork' => ''); //Entry for the work in a public database.			
+	public $work = array('titleWork' => '', 'systemWork' => '', 'idWork' => ''); //Entry for the work in a public database.
 	public $bound = 1;
 	public $comment;
 	public $digitalCopy;
 	public $copiesHAB = array(); //Array of shelfmarks from the HAB
-	
+
 	// Das Folgende sorgt für den Import aus einer SQL-Datenbank, in die die Hakelberg'sche Tabelle hochgeladen wurde
 	public function __set ($name, $value) {
 
@@ -90,7 +90,7 @@ class item	{ //Refers to an item (book, manuscript, etc.) listed in the catalogu
 			array_map('trim', $publishers);
 			array_map('removeBrackets', $publishers);
 			$this->publishers = array_merge($this->publishers, $publishers);
-		}		
+		}
 		elseif ($name == 'Sachbegriff') {
 			$this->subjects = explode(';', $value);
 		}
@@ -118,7 +118,7 @@ class item	{ //Refers to an item (book, manuscript, etc.) listed in the catalogu
 			$this->$name = $value;
 		}
 	}
-	
+
 	public function importFirstCatEntry() {
 		if (isset($this->catEntries[0])) {
 			foreach ($this->catEntries[0] as $key => $value) {
@@ -157,14 +157,15 @@ class item	{ //Refers to an item (book, manuscript, etc.) listed in the catalogu
         }
     }
 
-    public function convertToFull() {
+    public function convertToFull($sectID) {
     	if ($this->catEntries == array()) {
 	    	$catEntry = new catalogue_entry;
 			$catEntry->idCat = 'cat1';
+			$catEntry->idSect = $sectID;
 			$catEntry->titleCat = $this->titleCat;
 			$catEntry->numberCat = $this->numberCat;
 			$catEntry->pageCat = $this->pageCat;
-			$catEntry->imageCat = $this->imageCat;	
+			$catEntry->imageCat = $this->imageCat;
 			$catEntry->histSubject = $this->histSubject;
 			$this->catEntries[] = $catEntry;
     	}
@@ -208,7 +209,7 @@ class item	{ //Refers to an item (book, manuscript, etc.) listed in the catalogu
 		if (!empty($this->manifestation['systemManifestation']) and !empty($this->manifestation['idManifestation'])) {
 			return($this->manifestation['systemManifestation'].' '.$this->manifestation['idManifestation']);
 		}
-		
+
 		elseif (!empty($this->originalItem['institutionOriginal']) and !empty($this->originalItem['shelfmarkOriginal'])) {
 			return($this->originalItem['institutionOriginal'].', '.$this->originalItem['institutionOriginal']);
 		}

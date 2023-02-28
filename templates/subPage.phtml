@@ -28,9 +28,10 @@
             <div class="dropdown" style="float:left">
                 <button class="btn btn-info dropdown-toggle" type="button" data-toggle="dropdown">Download<span class="caret"></span></button>
                 <ul class="dropdown-menu">
-                    <li class="dropdown-header">Datenexport</li> 
+                    <li class="dropdown-header">Datenexport</li>
                     <li><a href="<?php echo $catalogue->fileName; ?>.csv">CSV</a></li>
                     <li><a href="<?php echo $catalogue->fileName; ?>.xml">XML</a></li>
+                    <li><a href="<?php echo $catalogue->fileName; ?>-full.xml">XML (erweitert)</a></li>
                     <li><a href="<?php echo $catalogue->fileName; ?>-tei.xml">TEI</a></li>
                     <li><a href="<?php echo $catalogue->fileName; ?>.rdf">RDF/XML</a></li>
                     <li><a href="<?php echo $catalogue->fileName; ?>.ttl">Turtle</a></li>
@@ -42,9 +43,9 @@
                     <li class="dropdown-header">Komplette Website</li>
                     <li><a href="<?php echo $catalogue->fileName; ?>.zip">ZIP</a></li>
                 </ul>
-            </div> 
+            </div>
         </div>
-		
+
         <nav class="navbar navbar-default" data-spy="affix" data-offset-top="197">
             <ul class="nav navbar-nav">
 <?php foreach($tocs as $field  => $toc): ?>
@@ -88,7 +89,7 @@
 <?php foreach ($sub as $section): ?>
 <?php $anchorCollapse = $section->makeAnchorCollapse(); ?>
             <h<?php echo $section->level + 1; ?> id="<?php echo $section->makeAnchor(); ?>"><?php if ($section->quantifiedLabel): ?><?php echo $section->quantifiedLabel; ?><?php else: ?><?php echo $section->label; ?><?php endif; ?>
-<?php if ($anchorCollapse): ?> 
+<?php if ($anchorCollapse): ?>
             <a href="#<?php echo $anchorCollapse; ?>" data-toggle="collapse"><span class="glyphicon glyphicon-info-sign" style="font-size:14px"></span></a><div id="<?php echo $anchorCollapse; ?>" class="collapse"><span style="font-size:14px"><?php echo makeBeaconLinks($section->authority['id'], $this->beaconRep); ?></div>
 <?php endif; ?></h<?php echo $section->level + 1; ?>>
 <?php foreach ($section->content as $object): ?>
@@ -104,11 +105,11 @@
                     <li class="entry-list"><?php makeEntry($item, $catalogue->base); ?></li>
 <?php endforeach; ?>
                 </ul>
-            </div>    
+            </div>
 <?php endif; ?>
 <?php endforeach; ?>
 <?php endforeach; ?>
-<?php if ($total > 1): ?>            
+<?php if ($total > 1): ?>
             <ul class="pagination">
                 <li <?php if ($ind == 0) { echo 'class="active"'; } ?>><a href="<?php echo $catalogue->fileName.'-'.$this->facet.'.htm'; ?>">1</a></li>
 <?php for ($n = 1; $n < $total; $n++): ?>

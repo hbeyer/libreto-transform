@@ -77,13 +77,13 @@ function makeOriginalLink($originalItem) {
 	$OPACLink = $originalItem['OPACLink'];
 	$provenanceAttribute = $originalItem['provenanceAttribute'];
 	$digitalCopyOriginal = $originalItem['digitalCopyOriginal'];
-	
+
 	if($institutionOriginal and $shelfmarkOriginal and $targetOPAC == '') {
 		$result = 'Originalexemplar: '.$institutionOriginal.', '.$shelfmarkOriginal;
 	}
 	elseif($institutionOriginal and $shelfmarkOriginal and $OPACLink) {
 		$result = 'Originalexemplar: <a href="'.$OPACLink.'" target="_blank">'.$institutionOriginal.', '.$shelfmarkOriginal.'</a>';
-	}	
+	}
 	elseif($institutionOriginal and $shelfmarkOriginal and $targetOPAC and $searchID == '') {
 		$link = makeBeaconLink($shelfmarkOriginal, $targetOPAC);
 		$result = 'Originalexemplar: <a href="'.$link.'" target="_blank">'.$institutionOriginal.', '.$shelfmarkOriginal.'</a>';
@@ -99,7 +99,7 @@ function makeOriginalLink($originalItem) {
 		$result .= '; Digitalisat: '.makeDigiLink($digitalCopyOriginal);
 	}
 	return($result);
-}	
+}
 
 function makeSourceLink($item, $base = '') {
     $citationArray = array();
@@ -147,12 +147,12 @@ function makeDigiLink($digi) {
 	$result = '<span class="heading_info">'.$title.': </span><a href="'.$resolver.$digi.'" target="_blank">'.$digi.'</a>';
 	return($result);
 }
-	
+
 function makeCopiesHAB($copies) {
     if (!$copies) {
         return(NULL);
     }
-	$base = 'http://opac.lbs-braunschweig.gbv.de/DB=2/SET=31/TTL=1/CMD?ACT=SRCHA&TRM=sgb+';
+	$base = 'http://opac.lbs-braunschweig.gbv.de/DB=2/CMD?ACT=SRCHA&TRM=sgb+';
 	$links = array();
 	$translation = array('(' => '', ')' => '');
 	foreach($copies as $copy) {
