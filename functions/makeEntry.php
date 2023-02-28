@@ -77,7 +77,6 @@ function makeOriginalLink($originalItem) {
 	$OPACLink = $originalItem['OPACLink'];
 	$provenanceAttribute = $originalItem['provenanceAttribute'];
 	$digitalCopyOriginal = $originalItem['digitalCopyOriginal'];
-	$commentOriginal = $originalItem['commentOriginal'];
 	
 	if($institutionOriginal and $shelfmarkOriginal and $targetOPAC == '') {
 		$result = 'Originalexemplar: '.$institutionOriginal.', '.$shelfmarkOriginal;
@@ -96,9 +95,6 @@ function makeOriginalLink($originalItem) {
 	if($result and $provenanceAttribute) {
 		$result .= '; Grund für Zuschreibung: '.$provenanceAttribute;
 	}
-	if($result and $commentOriginal) {
-		$result .= '; '.$commentOriginal;
-	}	
 	if($result and $digitalCopyOriginal) {
 		$result .= '; Digitalisat: '.makeDigiLink($digitalCopyOriginal);
 	}
