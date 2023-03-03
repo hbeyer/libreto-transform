@@ -2,14 +2,14 @@
 
 // Spezialfall für die Daten zur Bibliothek von Philippine Charlotte mit zwei Altkatalogen
 class uploader_csv_hfs extends uploader_csv {
-	
-	protected $fieldNames_norm = 'id', 'noTitle', 'schranknummer_cat1', 'rang_cat1', 'order_cat1', 'subject_cat1', 'image_cat1', 'pageCat_cat1', 'titleCat_cat1', 'titleCat_praun_suppl', 'id_cat2', 'image_cat2', 'pageCat_cat2', 'schranknummer_cat2', 'order_cat2', 'titleCat_cat2', 'idManifestation_k10p', 'comment_cat1', 'volumes', 'ppn_copy1', 'shelfmark_copy1', 'provenance_note', 'provenance_dumas', 'provenance_pc', 'provenance_sophie_dorothea', 'provenance_cat', 'provenances', 'bbg', 'languages', 'titleBib', 'year', 'place_vorl', 'place_norm', 'place_gnd', 'place_ans', 'place_tgn', 'author1_forename', 'author1_surname', 'author1_normalized', 'author1_wikidata', 'author1_gender', 'author1_gnd', 'author1_gender_de', 'author2_forename', 'author2_surname', 'author2_gnd', 'author2_gender', 'author3_forename', 'author3_surname', 'author3_gnd', 'author3_gender', 'author4_forename', 'author4_surname', 'author4_gnd', 'author4_gender', 'contributor1_forename', 'contributor1_surname', 'contributor1_gender', 'contributor1_gnd', 'contributor2_forename', 'contributor2_surname', 'contributor2_gnd', 'contributor3_forename', 'contributor3_surname', 'contributor3_gnd', 'contributor4_forename', 'contributor4_surname', 'contributor4_gnd', 'shelfmark_1', 'shelfmark_2', 'shelfmark_3', 'provenance_dumas', 'provenance_pc3', 'provenance_sophie_dorothea4', 'sru_prov';
-	
-	
+
+	protected $fieldNames_norm = 'id', 'noTitle', 'schranknummer_cat1', 'rang_cat1', 'order_cat1', 'subject_cat1', 'image_cat1', 'pageCat_cat1', 'titleCat_cat1', 'titleCat_praun_suppl', 'id_cat2', 'image_cat2', 'pageCat_cat2', 'schranknummer_cat2', 'order_cat2', 'titleCat_cat2', 'idManifestation_k10p', 'comment_cat1', 'volumes', 'ppn_copy1', 'shelfmark_copy1', 'provenance_note', 'provenance_dumas', 'provenance_pc', 'provenance_sophie_dorothea', 'provenance_cat', 'shelfmark_copy2', 'provenances', 'bbg', 'languages', 'titleBib', 'year', 'place_vorl', 'place_norm', 'place_gnd', 'place_ans', 'place_tgn', 'author1_forename', 'author1_surname', 'author1_normalized', 'author1_wikidata', 'author1_gender', 'author1_gnd', 'author1_gender_de', 'author2_forename', 'author2_surname', 'author2_gnd', 'author2_gender', 'author3_forename', 'author3_surname', 'author3_gnd', 'author3_gender', 'author4_forename', 'author4_surname', 'author4_gnd', 'author4_gender', 'contributor1_forename', 'contributor1_surname', 'contributor1_gender', 'contributor1_gnd', 'contributor2_forename', 'contributor2_surname', 'contributor2_gnd', 'contributor3_forename', 'contributor3_surname', 'contributor3_gnd', 'contributor4_forename', 'contributor4_surname', 'contributor4_gnd', 'shelfmark_1', 'shelfmark_2', 'shelfmark_3', 'provenance_dumas', 'provenance_pc3', 'provenance_sophie_dorothea4', 'sru_prov';
+
+
     protected function makeItem($row) {
-		
+
         $item = new item();
-        
+
 		if ($row['id']) {
 			$item->id = $row['id'];
 		}
@@ -31,7 +31,7 @@ class uploader_csv_hfs extends uploader_csv {
 		if ($row['subject_cat1']) {
 			$item->subjects[] = $row['subject_cat1'];
 		}
-		
+
 		$placeName = uploader::getByPreference(array($row['place_norm'], $row['place_ans'], $row['place_vorl']));
 		if ($placeName != null) {
 			$place = new place;
@@ -44,7 +44,7 @@ class uploader_csv_hfs extends uploader_csv {
 			}
 			$item->places[] = $place;
 		}
-		
+
 		if (strstr('Sammlungszugehörigkeit nachgewiesen', $row['provenance_note']) != false) {
 			$item->originalItem = array('institutionOriginal' => 'Herzog August Bibliothek Wolfenbüttel', 'shelfmarkOriginal' => $row['shelfmark_copy1'], 'targetOPAC' => 'https://opac.lbs-braunschweig.gbv.de/DB=2/XMLPRS=N/PPN?PPN={ID}', 'searchID' => $row['ppn_copy1']);
 			$provenances = implode('; ', array($row['provenance_pc'], $row['provenance_dumas'], $row['provenance_sophie_dorothea'], $row['provenance_cat'], $row['provenances']));
@@ -55,21 +55,21 @@ class uploader_csv_hfs extends uploader_csv {
 		elseif ($row['shelfmark_copy1']) {
 			$item->copiesHAB[] = $row['shelfmark_copy1'];
 		}
-		$shelfmarkFields = array('shelfmark_1', 'shelfmark_2', 'shelfmark_3'):
+		$shelfmarkFields = array('shelfmark_copy2', 'shelfmark_1', 'shelfmark_2', 'shelfmark_3'):
 		foreach ($shelfmarkFields as $sf) {
 			if (!empty($row[$sf])) {
 				$item->copiesHAB[] = $row[$sf];
 			}
 		}
-		
+
 		if ($row['provenance_note']) {
 			$item->comment = $row['provenance_note'];
-		}		
-		
+		}
+
 		if ($row['author1_normalized']) {
 			$pers = new person($row['author1_normalized', $row['author1_gnd', $row['author1_gender'], $role = 'creator';
 			$item->persons[] = $pers;
-		}						
+		}
 		if ($row['author2_surname']) {
 			$pers = new person($row['author2_surname'], $row['author2_gnd'], $row['author2_gender']);
 			if ($row['author2_forename']) {
@@ -118,7 +118,7 @@ class uploader_csv_hfs extends uploader_csv {
 				$pers->persName = $row['contributor4_forename'].' '.$row['contributor4_surname'];
 			}
 			$item->persons[] = $pers;
-		}		
+		}
 
 		if ($row["titleCat_cat1"]) {
 			$entry = new catalogue_entry;
@@ -142,11 +142,11 @@ class uploader_csv_hfs extends uploader_csv {
 			$entry->histSubject = $row['schranknummer_cat2'];
 			$item->catEntries[$entry];
 		}
-		
+
 		return($item);
-		
+
 	}
-		
+
 
     private function validate() {
         if (empty($this->rows[0])) {
