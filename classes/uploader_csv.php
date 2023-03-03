@@ -2,8 +2,8 @@
 
 class uploader_csv extends uploader {
 	
-    private $fieldNames;
-    private $rows;
+    protected $fieldNames;
+    protected $rows;
 
     function __construct($path, $fileName) {
         $this->path = $path;
@@ -25,7 +25,7 @@ class uploader_csv extends uploader {
         return($result);
     }
 
-    private function makeItemFromAssocArray($row) {
+    protected function makeItemFromAssocArray($row) {
 
         $item = new item();
         
@@ -131,7 +131,7 @@ class uploader_csv extends uploader {
 
     }
 
-    private function makeAssocRows($rows, $fieldNames) {
+    protected function makeAssocRows($rows, $fieldNames) {
         $result = array();
         foreach ($rows as $row) {
             $row = str_getcsv($row, ';');
@@ -144,7 +144,7 @@ class uploader_csv extends uploader {
         return($result);
     }
 
-    private function validate() {
+    protected function validate() {
         if (empty($this->rows[0])) {
             throw new Exception('Es wurden keine Daten geladen.', 1);
         }
@@ -163,6 +163,15 @@ class uploader_csv extends uploader {
         }
         return(1);
     }
+	
+	public static function getByPreference($array) {
+		foreach ($array as $var) {
+			if (!empty($var)) {
+				return($var);
+			}
+		}
+		return(null);
+	}	
 
 }
 

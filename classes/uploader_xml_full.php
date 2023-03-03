@@ -33,6 +33,14 @@ class uploader_xml_full extends uploader {
     			$persNode->writeAttributesToObject($person, array('gnd', 'role', 'gender'));
     			$catalogue->persons[] = $person;
     		}
+			$sectionParent = $myNode->getSingleChildNode('sections');
+			$sections = $sectionParent->getChildNodes('section');
+			foreach ($sections as $secNode) {
+				$id = $secNode->getAttribute('id');
+				$label = $secNode->node->nodeValue;
+				$catSec = new catalogue_section($id, $label);
+				$catalogue->sections[] = $catSec;
+			}
     		$result[] = $catalogue;
     	}
     	return($result);
@@ -225,7 +233,6 @@ class uploader_xml_full extends uploader {
         }
         $item->importFirstCatEntry();
     }
-
 
 }
 

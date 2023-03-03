@@ -8,6 +8,19 @@ class person {
 	public $beacon = array(); //Presence in databases is denoted by keys from class beaconData
 	public $dateLending = array();
 
+	function __construct($name, $gnd = null, $gender = null, $role = 'creator') {
+		$this->persName = $name;
+		if ($gnd) {
+			$this->gnd = $gnd;
+		}
+		if ($gender) {
+			$this->gender = $gender;
+		}
+		if ($role) {
+			$this->role = $role;
+		}		
+	}
+
 	public function __set($name, $value) {
 		$translation = array(
             'Name' => 'persName',

@@ -49,7 +49,7 @@ class frontend {
 				$pages[] = $page;
 			}
 			
-			// Zusammenführen der Inhaltsverzeichnisdaten
+			// ZusammenfÃ¼hren der Inhaltsverzeichnisdaten
 			$tocs = array();
 			foreach ($pages as $page) {
 				$tocs[$page->facet] = $page->ToC;
@@ -84,7 +84,7 @@ class frontend {
 				$count++;
 			}
 			        
-			// Für jede Struktur wird jetzt eine HTML-Datei berechnet und gespeichert.
+			// FÃ¼r jede Struktur wird jetzt eine HTML-Datei berechnet und gespeichert.
 			$count = 0;
 			
 			foreach($structures as $structure) {
@@ -153,6 +153,5 @@ class frontend {
 
 
 }
-
 
 ?>

@@ -40,6 +40,22 @@ class serializer_xml_full extends serializer_xml {
 		foreach ($this->catalogues as $cat) {
 			$catElement = $this->dom->createElement('catalogue');
 			$catElement->setAttribute("id", $cat->id);
+			foreach($cat->persons as $pers) {
+				$persEl = $this->dom->createElement('person');
+				if (!$pers->role) {
+					$pers->role = 'VerfasserIn';
+				}
+				$persEl->setAttribute('role', $pers->role);
+				if ($person->gnd) {
+					$persEl->setAttribute('gnd', $pers->gnd);
+				}
+				if ($person->gender) {
+					$persEl->setAttribute('gender', $pers->gender);
+				}
+				$text = $this->dom->createTextNode($pers->persName);
+				$persEl->appendChild($text);
+				$catEl->appendChild($persEl);
+			}
 			$fields = array('title', 'placeCat', 'printer', 'year', 'institution', 'shelfmark');
 			foreach ($cat as $key => $value) {
 				if (in_array($key, $fields)) {
