@@ -24,7 +24,7 @@
 require __DIR__ .'/vendor/autoload.php';
 include('functions/encode.php');
 
-$reconstruction = new reconstruction('source/myproject.xml', 'myproject', 'xml');
+$reconstruction = new Reconstruction('source/myproject.xml', 'myproject', 'xml');
 $reconstruction->enrichData();
 $reconstruction->saveAllFormats();
 
@@ -32,8 +32,8 @@ $pages = array('histSubject', 'persName', 'gender', 'beacon', 'year', 'subjects'
 $doughnuts = array('histSubject', 'subjects', 'beacon', 'languages');
 $clouds = array('publishers', 'subjects', 'persName', 'shelfmarkOriginal');
 
-$facetList = new facetList($pages, $doughnuts, $clouds);
-$frontend = new frontend($reconstruction, $facetList);
+$facetList = new FacetList($pages, $doughnuts, $clouds);
+$frontend = new Frontend($reconstruction, $facetList);
 $frontend->build();				
 				</pre>
 			</p>

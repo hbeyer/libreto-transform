@@ -68,7 +68,7 @@ function makeCloudJSON($data, $field, $limit, $folder) {
 }
 
 function makeCloudArrays($data, $field) {
-	$index = new index($data, $field);
+	$index = new Index($data, $field);
 	$count = 0;
 	$weightArray = array();
 	$nameArray = array();
@@ -89,7 +89,7 @@ function makeCloudArrays($data, $field) {
 }
 
 function makeCloudArraysPersons($data) {
-	$index = new index($data, 'persName');
+	$index = new Index($data, 'persName');
 	$count = 0;
 	$weightArray = array();
 	$nameArray = array();

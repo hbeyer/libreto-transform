@@ -3,10 +3,10 @@
 // The following functions serve to convert an array of objects of the type indexEntry into an array of objects of the type section. The function to select depends on the facet chosen. For the facets cat, persons and year there are special functions. All other facets are covered by the function makeSections.
 
 function makeSections($data, $field) {
-	$index = new index($data, $field);
+	$index = new Index($data, $field);
 	$structuredData = array();
 	foreach($index->entries as $entry) {
-		$section = new section($entry->label, $entry->level);
+		$section = new Section($entry->label, $entry->level);
 		//$section->label = $entry->label;
 		//$section->level = $entry->level;
 		if ($field == 'persName' or $field == 'borrower') {
@@ -23,7 +23,7 @@ function makeSections($data, $field) {
 		$structuredData[] = $section;
 	}
 	$structuredData = addHigherLevel($structuredData, $field);
-	
+
 	quantifyLabels($structuredData);
 	return($structuredData);
 }
@@ -59,7 +59,7 @@ function quantifyLabels($structuredData) {
 
 function addHigherLevel($structuredData, $field) {
 	$newStructure = array();
-	$previousSection = new section('');
+	$previousSection = new Section('');
 	foreach($structuredData as $section) {
 		$higherSection = makeHigherSection($section, $previousSection, $field);
 		if(is_object($higherSection) == TRUE) {
@@ -77,7 +77,7 @@ function makeHigherSection($section, $previousSection, $field) {
 		$previousLetter = strtoupper(substr($previousSection->label, 0, 1));
 		$currentLetter = strtoupper(substr($section->label, 0, 1));
 		if($previousLetter != $currentLetter) {
-			$higherSection = new section($currentLetter);
+			$higherSection = new Section($currentLetter);
 		}
 	}
 	elseif($field == 'year') {
@@ -85,7 +85,7 @@ function makeHigherSection($section, $previousSection, $field) {
 			$previousDecade = makeDecadeFromTo($previousSection->label);
 			$currentDecade = makeDecadeFromTo($section->label);
 			if($previousDecade != $currentDecade) {
-				$higherSection = new section($currentDecade);
+				$higherSection = new Section($currentDecade);
 			}
 		}
 	}
@@ -146,7 +146,7 @@ function joinVolumes($section) {
 
 function makeVolume($buffer) {
 	uasort($buffer, 'compareItemInVolume');
-	$result = new volume();
+	$result = new Volume();
 	$volumesMisc = $buffer[0]->volumesMisc;
 	$volumesMisc = intval($volumesMisc);
 	if($volumesMisc) {
@@ -165,11 +165,11 @@ function compareItemInVolume($a, $b) {
 	}
 }
 
-// This function converts an array of objects of the class section into a list in HTML format. The variable $catalogue contains an object of the type catalogue. The function displays content either as text, for monographic entries, or as unordered list, for miscellanies.
+// This function converts an array of objects of the class Section into a list in HTML format. The variable $catalogue contains an object of the type catalogue. The function displays content either as text, for monographic entries, or as unordered list, for miscellanies.
 
 
 function makeList($structure, $catalogue) {
-    $repository = new beacon_repository(false);
+    $repository = new BeaconRepository(false);
     $count = 0;
 	ob_start();
 	include 'templates/list.phtml';
@@ -179,7 +179,7 @@ function makeList($structure, $catalogue) {
 }
 
 function makeBeaconLinks($gnd, $repository) {
-    $linkArray = $repository->getLinks(new gnd($gnd), '_blank');
+    $linkArray = $repository->getLinks(new GND($gnd), '_blank');
     if (is_array($linkArray) == false) {
     	return('');
     }

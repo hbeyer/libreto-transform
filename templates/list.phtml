@@ -1,23 +1,23 @@
 <?php foreach ($structure as $section): ?>
 <?php $anchorCollapse = $section->makeAnchorCollapse(); ?>
             <h<?php echo $section->level + 1; ?> id="<?php echo $section->makeAnchor(); ?>"><?php if ($section->quantifiedLabel): ?><?php echo $section->quantifiedLabel; ?><?php else: ?><?php echo $section->label; ?><?php endif; ?>
-<?php if ($anchorCollapse): ?> 
+<?php if ($anchorCollapse): ?>
             <a href="#<?php echo $anchorCollapse; ?>" data-toggle="collapse"><span class="glyphicon glyphicon-info-sign" style="font-size:14px"></span></a><div id="<?php echo $anchorCollapse; ?>" class="collapse"><span style="font-size:14px"><?php echo makeBeaconLinks($section->authority['id'], $repository); ?></div>
 <?php endif; ?></h<?php echo $section->level + 1; ?>>
 <?php foreach ($section->content as $object): ?>
-<?php if (get_class($object) == 'item'): ?>
+<?php if (get_class($object) == 'Item'): ?>
             <div class="entry">
 <?php makeEntry($object, $catalogue->base, $count); $count++; ?>
             </div>
 <?php endif; ?>
-<?php if (get_class($object) == 'volume'): ?>
+<?php if (get_class($object) == 'Volume'): ?>
             <div class="entry"><?php if ($object->volumes > 1): ?>Sammlung in <?php echo $object->volumes; ?> B&auml;nden<?php endif; ?><?php if ($object->volumes == 1 or is_integer($object->volumes) == FALSE): ?>Sammelband<?php endif; ?>
                 <ul>
 <?php foreach($object->content as $item): ?>
                     <li class="entry-list"><?php makeEntry($item, $catalogue->base, $count); $count++; ?></li>
 <?php endforeach; ?>
                 </ul>
-            </div>    
+            </div>
 <?php endif; ?>
 <?php endforeach; ?>
 <?php endforeach; ?>

@@ -1,6 +1,3 @@
-
-
-
 # libreto-transform
 Set of scripts for transforming library reconstruction data into reusable data formats (RDF, TEI, SOLR) and generating a frontend in static HTML
 
@@ -51,7 +48,7 @@ set_time_limit(600);
 require __DIR__ .'/vendor/autoload.php';
 include('functions/encode.php');
 
-$reconstruction = new reconstruction('source/myproject.xml', 'myproject', 'xml');
+$reconstruction = new Reconstruction('source/myproject.xml', 'myproject', 'xml');
 $reconstruction->enrichData();
 $reconstruction->saveAllFormats();
 
@@ -59,42 +56,42 @@ $pages = array('histSubject', 'persName', 'gender', 'beacon', 'year', 'subjects'
 $doughnuts = array('histSubject', 'subjects', 'beacon', 'languages');
 $clouds = array('publishers', 'subjects', 'persName', 'shelfmarkOriginal');
 
-$facetList = new facetList($pages, $doughnuts, $clouds);
-$frontend = new frontend($reconstruction, $facetList);
+$facetList = new FacetList($pages, $doughnuts, $clouds);
+$frontend = new Frontend($reconstruction, $facetList);
 $frontend->build();
 ```
 
-### Klasse 'reconstruction'
+### Klasse 'Reconstruction'
 
-Ein Transformationsskript kann unter Verwendung der Datei ***transform.php*** erstellt werden. Hierin muss zunächst ein Objekt der Klasse `reconstruction` erzeugt werden:
+Ein Transformationsskript kann unter Verwendung der Datei ***transform.php*** erstellt werden. Hierin muss zunächst ein Objekt der Klasse `Reconstruction` erzeugt werden:
 
-`reconstruction::__construct(string $path, string $fileName [, string $format = 'xml'])`
+`Reconstruction::__construct(string $path, string $fileName [, string $format = 'xml'])`
 - `$path`: Pfad zur Ausgangsdatei mit Dateiname und -Endung.
 - `$fileName`: Dateiname für das Projekt
 - `$format`: Format der Ausgangsdatei. Vorgesehen sind:
-	- 'csv': CSV-Datei 
+	- 'csv': CSV-Datei
 	- 'xml' (Standardwert): XML-Datei, die gegen das Schema ***uploadXML.xsd*** validiert
 	- 'xml_full': XML-Datei, die gegen das Schema ***libreto-schmema-full.xsd*** validiert
 	- 'php': Serialisierte PHP-Daten (werden automatisch erzeugt und im Projektordner unter `dataPHP` abgelegt)
 	- 'sql_dh': MySQL-Datenbank nach einem proprietären Schema. Die Zugangsdaten werden in der Datei ***private/connectionData.php*** nach der Vorlage ***connectionData.php.template*** eingetragen. Das Datenbankschema liegt unter ***schema-dh.sql***. Der Parameter `$path` kann in diese Fall beliebig gesetzt werden. Beispiel:
-	
-Die Methode `reconstruction::enrichData()` fügt Geodaten für Orte sowie Links zu biographischen Nachweissystemen bei Personen hinzu und vergibt IDs für Sammelbände.
 
-Die Methode `reconstruction::insertGeoData()` fügt Geodaten für Orte hinzu.
+Die Methode `Reconstruction::enrichData()` fügt Geodaten für Orte sowie Links zu biographischen Nachweissystemen bei Personen hinzu und vergibt IDs für Sammelbände.
 
-Die Methode `reconstruction::insertBeacon()` erzeugt Links zu biographischen Nachweissystemen für Personen. 
+Die Methode `Reconstruction::insertGeoData()` fügt Geodaten für Orte hinzu.
 
-Die Methode `reconstruction::saveAllFormats()` speichert im Ordner ***projectFiles/{Dateiname}*** die Daten in folgenden Formaten ab: CSV, XML, RDF/XML, Gephi (CSV), Turtle, TEI, SOLR-XML. Außerdem werden Geodatenblätter in CSV und KML erzeugt.
+Die Methode `Reconstruction::insertBeacon()` erzeugt Links zu biographischen Nachweissystemen für Personen.
+
+Die Methode `Reconstruction::saveAllFormats()` speichert im Ordner ***projectFiles/{Dateiname}*** die Daten in folgenden Formaten ab: CSV, XML, RDF/XML, Gephi (CSV), Turtle, TEI, SOLR-XML. Außerdem werden Geodatenblätter in CSV und KML erzeugt.
 
 Außerdem werden die Geodaten im KML- und CSV-Format ausgegeben. Zur Erzeugung einer Kartenansicht muss die Datei `printingPlaces.csv` im Datasheet Editor (https://geobrowser.de.dariah.eu/edit/) hochgeladen und die ID der Datensammlung als `geoBrowserStorageID` bei den Metadaten eingefügt werden.
 
 ## Metadatenanreicherung (entfällt bei XML)
-Wurde eine andere Option als 'xml' oder 'xml_full' bei der Erstellung des Objekts der Klasse `reconstruction` gewählt, so kommt beim Ausführen des Skripts zunächst eine Aufforderung zum Ausfüllen der Datei ***projectFiles/{Dateiname}/{Dateiname}-metadata.xml***. Hier müssen alle Angaben in geschweiften Klammern ersetzt bzw. das Element entfernt werden.
+Wurde eine andere Option als 'xml' oder 'xml_full' bei der Erstellung des Objekts der Klasse `Reconstruction` gewählt, so kommt beim Ausführen des Skripts zunächst eine Aufforderung zum Ausfüllen der Datei ***projectFiles/{Dateiname}/{Dateiname}-metadata.xml***. Hier müssen alle Angaben in geschweiften Klammern ersetzt bzw. das Element entfernt werden.
 
 ## Erzeugen der Website
-Hierzu muss zunächst ein Objekt der Klasse `facetList` erzeugt werden. Bei Erzeugung des Objekts ohne Parameter werden für die Auswahl der darzustellenden Felder Standardsets angewandt. Die Sets können in der folgenden Weise überschrieben werden:
+Hierzu muss zunächst ein Objekt der Klasse `FacetList` erzeugt werden. Bei Erzeugung des Objekts ohne Parameter werden für die Auswahl der darzustellenden Felder Standardsets angewandt. Die Sets können in der folgenden Weise überschrieben werden:
 
-`facetList::__construct([array $pages [, array $doughnuts [, array $clouds]]])`
+`FacetList::__construct([array $pages [, array $doughnuts [, array $clouds]]])`
 
 Übergeben wird in $pages ein Array mit Feldnamen, die auf eigenen Seiten dargestellt werden sollen. In $doughnuts können analog Felder für Kreisdiagramme angegeben werden, in $clouds Felder für Wortwolken. Welche Felder für welche Visualisierung zugelassen sind, verdeutlicht die folgende Aufstellung.
 
@@ -126,20 +123,20 @@ titleWork | Titel eines im Sammlungsstück enthaltenen Werkes | ja | nein | nein
 borrower | Person, die das Sammlungsstück entliehen hat | ja | nein | nein
 dateLending | Datum, an dem das Sammlungsstück entliehen wurde | ja | nein | ja
 
-Anschließend wird ein neues Objekt der Klasse `frontend` erzeugt:
+Anschließend wird ein neues Objekt der Klasse `Frontend` erzeugt:
 
-`frontend::__construct($reconstruction, $facetList)`
-- `$reconstruction`: Das Objekt der Klasse `reconstruction`
-- `$facetList`: Das Objekt der Klasse `facetList`
+`Frontend::__construct($reconstruction, $facetList)`
+- `$reconstruction`: Das Objekt der Klasse `Reconstruction`
+- `$facetList`: Das Objekt der Klasse `FacetList`
 
-Die Methode `frontend::build($maxLen = 100)` sorgt dafür, dass die Ergebnisse als statische HTML-Dateien im Verzeichnis ***projectFiles/{Dateiname}*** abgespeichert werden. Der Parameter `maxLen` legt fest, wie viele Einträge maximal auf einer Seite zu sehen sein sollen. Wird null übergeben, erscheinen alle Einträge auf einer Seite.
+Die Methode `Frontend::build($maxLen = 100)` sorgt dafür, dass die Ergebnisse als statische HTML-Dateien im Verzeichnis ***projectFiles/{Dateiname}*** abgespeichert werden. Der Parameter `maxLen` legt fest, wie viele Einträge maximal auf einer Seite zu sehen sein sollen. Wird null übergeben, erscheinen alle Einträge auf einer Seite.
 
 ## Erzeugung einer biographischen Karte
-Mit der Methode `reconstruction::makeBioDataSheet()` kann zusätzlich ein Geodatenblatt zu den als AutorInnen oder BeiträgerInnen in der Sammlung enthaltenen und mit GND-Nummer versehenen Personen erzeugt werden (derzeit nur in CSV). Hierzu werden die GND-Normdatensätze geladen und unter ***cache/gnd*** vorgehalten (zum Auffrischen Ordner leeren). Für jede Nennung einer Person wird ein Ort und ein Datum (bevorzugt Geburtsort und -jahr) wiedergegeben. Die Geodaten werden aus der GND geladen. Von Geographika ohne Geodaten wird der bevorzugte Name angegeben, dieser kann dann mit dem GeoDataSheetEditor von DARIAH-DE ergänzt oder manuell nachgetragen werden. Die Datei wird wird im Projektordner unter ***bioPlaces.csv*** abgelegt.
+Mit der Methode `Reconstruction::makeBioDataSheet()` kann zusätzlich ein Geodatenblatt zu den als AutorInnen oder BeiträgerInnen in der Sammlung enthaltenen und mit GND-Nummer versehenen Personen erzeugt werden (derzeit nur in CSV). Hierzu werden die GND-Normdatensätze geladen und unter ***cache/gnd*** vorgehalten (zum Auffrischen Ordner leeren). Für jede Nennung einer Person wird ein Ort und ein Datum (bevorzugt Geburtsort und -jahr) wiedergegeben. Die Geodaten werden aus der GND geladen. Von Geographika ohne Geodaten wird der bevorzugte Name angegeben, dieser kann dann mit dem GeoDataSheetEditor von DARIAH-DE ergänzt oder manuell nachgetragen werden. Die Datei wird wird im Projektordner unter ***bioPlaces.csv*** abgelegt.
 
 ## Direktimport von Daten über die SRU-Schnittstelle
 Anstelle der manuellen Datenerfassung in CSV oder XML können die Daten auch über die SRU-Schnittstelle aus einem Bibliothekskatalog geladen werden. Voraussetzung ist, dass die Schnittstelle das Format picaxml unterstützt.
-Hierfür wird ein Objekt der Klasse `reconstruction_sru` mit den folgenden Parametern erzeugt:
+Hierfür wird ein Objekt der Klasse `Reconstruction_SRU` mit den folgenden Parametern erzeugt:
 
 - `$query`: Die Abfrage in PICA-Syntax. Jedem Suchschlüssel muss "pica." vorangestellt werden. Leerzeichen müssen durch "+" codiert werden.
 - `$fileName`: Der Dateiname für das Projekt
@@ -156,10 +153,9 @@ set_time_limit(600);
 require __DIR__ .'/vendor/autoload.php';
 include('functions/encode.php');
 
-$reconstruction = new reconstruction_sru('pica.exk=sammlung+hardt+and+pica.bbg=(aa*+or+af*)', 'hardt', null, 'Herzog August Bibliothek Wolfenbüttel', 'M: Li 5530 Slg');
+$reconstruction = new Reconstruction_SRU('pica.exk=sammlung+hardt+and+pica.bbg=(aa*+or+af*)', 'hardt', null, 'Herzog August Bibliothek Wolfenbüttel', 'M: Li 5530 Slg');
 
-$facetList = new facetList();
-$frontend = new frontend($reconstruction, $facetList);
+$facetList = new FacetList();
+$frontend = new Frontend($reconstruction, $facetList);
 $frontend->build();
 ```
-

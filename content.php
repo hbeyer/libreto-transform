@@ -14,10 +14,10 @@ foreach (glob('projectFiles/*') as $path) {
 		require($pathCat.'-cat.php');
 	}
 	elseif (file_exists($pathCat.'-metadata.xml')) {
-		$catalogue = uploader::readMetadata($pathCat.'-metadata.xml');
+		$catalogue = Uploader::readMetadata($pathCat.'-metadata.xml');
 	}
 	elseif (file_exists($pathCat.'.xml')) {
-		$rec = new reconstruction($pathCat.'.xml', $folder, 'xml');
+		$rec = new Reconstruction($pathCat.'.xml', $folder, 'xml');
 		$catalogue = $rec->catalogue;
 		unset($rec);
 	}

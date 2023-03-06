@@ -67,10 +67,10 @@
 		                <li><a href="<?php echo $catalogue->fileName; ?>-wordCloud.htm" title="Wortwolken">Word Clouds</a></li>
 		                <li><a href="<?php echo $catalogue->fileName; ?>-doughnut.htm" title="Kreisdiagramme">Kreisdiagramme</a></li>
 <?php if ($catalogue->geoBrowserStorageID): ?>
-		                <li><a href="<?php echo geoBrowserLink::url($catalogue->geoBrowserStorageID, $catalogue->year); ?>" target="_blank" title="Druckorte in Kartenansicht">GeoBrowser<?php if ($catalogue->geoBrowserStorageID_bio): ?> (Titel)<?php endif; ?></a></li>
+		                <li><a href="<?php echo GeoBrowserLink::url($catalogue->geoBrowserStorageID, $catalogue->year); ?>" target="_blank" title="Druckorte in Kartenansicht">GeoBrowser<?php if ($catalogue->geoBrowserStorageID_bio): ?> (Titel)<?php endif; ?></a></li>
 <?php endif; ?>
 <?php if ($catalogue->geoBrowserStorageID_bio): ?>
-		                <li><a href="<?php echo geoBrowserLink::url($catalogue->geoBrowserStorageID_bio, $catalogue->year); ?>" target="_blank" title="Druckorte in Kartenansicht">GeoBrowser (Personen)</a></li>
+		                <li><a href="<?php echo GeoBrowserLink::url($catalogue->geoBrowserStorageID_bio, $catalogue->year); ?>" target="_blank" title="Druckorte in Kartenansicht">GeoBrowser (Personen)</a></li>
 <?php endif; ?>
 	                </ul>
                 </li>
@@ -93,12 +93,12 @@
             <a href="#<?php echo $anchorCollapse; ?>" data-toggle="collapse"><span class="glyphicon glyphicon-info-sign" style="font-size:14px"></span></a><div id="<?php echo $anchorCollapse; ?>" class="collapse"><span style="font-size:14px"><?php echo makeBeaconLinks($section->authority['id'], $this->beaconRep); ?></div>
 <?php endif; ?></h<?php echo $section->level + 1; ?>>
 <?php foreach ($section->content as $object): ?>
-<?php if (get_class($object) == 'item'): ?>
+<?php if (get_class($object) == 'Item'): ?>
             <div class="entry">
 <?php makeEntry($object, $catalogue->base); ?>
             </div>
 <?php endif; ?>
-<?php if (get_class($object) == 'volume'): ?>
+<?php if (get_class($object) == 'Volume'): ?>
             <div class="entry"><?php if ($object->volumes > 1): ?>Sammlung in <?php echo $object->volumes; ?> B&auml;nden<?php endif; ?><?php if ($object->volumes == 1 or is_integer($object->volumes) == FALSE): ?>Sammelband<?php endif; ?>
                 <ul>
 <?php foreach($object->content as $item): ?>
