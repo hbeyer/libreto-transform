@@ -5,7 +5,7 @@ class Reconstruction_SRU extends Reconstruction {
     function __construct($query, $fileName, $sru = null, $bib = null, $regexSig = null) {
         $this->fileName = $fileName;
         $this->createDirectory();
-        $uploader = new Uploader_sru($query, $this->fileName, $sru, $bib, $regexSig);
+        $uploader = new Uploader_SRU($query, $this->fileName, $sru, $bib, $regexSig);
         if ($uploader->numHits == 0) {
             echo 'Keine Treffer für die Anfrage '.$query;
             return;

@@ -18,7 +18,7 @@ class GNDRequest {
     public $placesActivity = array();
     public $academicDegree;
 
-    function __construct(gnd $gnd, cache_gnd $cache) {
+    function __construct(GND $gnd, Cache_GND $cache) {
         $this->gnd = $gnd;
         if ($this->gnd->valid == true) {
             $string = $cache->get($this->gnd->id);

@@ -7,7 +7,7 @@ class Serializer_XML_full extends Serializer_XML {
 
     public function __construct($catalogues, MetadataReconstruction $metadata, $data) {
 		foreach ($catalogues as $cat) {
-			if (get_class($cat) == "Catalogue") {
+			if (get_class($cat) == 'Catalogue') {
 				$this->catalogues[] = $cat;
 			}
 		}

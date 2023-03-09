@@ -5,12 +5,10 @@ class MyDOM {
 	private $node;
 
 	function __construct($node) {
-		if (get_class($node) == 'DOMElement') {
-			$this->node = $node;
+		if (get_class($node) != 'DOMElement') {
+			throw new Exception('Kein gültiges DOMElement übergeben');		
 		}
-		else {
-			throw new Exception('Kein gültiges DOMElement übergeben');
-		}
+		$this->node = $node;
 	}
 
 	public function getChildValues($name) {
@@ -27,7 +25,7 @@ class MyDOM {
 		$result = array();
 		foreach($this->node->childNodes as $child) {
 			if ($child->nodeName == $name) {
-				$result[] = new myDOM($child);
+				$result[] = new MyDOM($child);
 			}
 		}
 		return($result);
@@ -36,7 +34,7 @@ class MyDOM {
 	public function getSingleChildNode($name) {
 		foreach($this->node->childNodes as $child) {
 			if ($child->nodeName == $name) {
-				return(new myDOM($child));
+				return(new MyDOM($child));
 			}
 		}
 		return(null);

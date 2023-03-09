@@ -220,7 +220,7 @@ class PicaConverter {
 		return($person);
 	}
 
-	protected static function insertManifestation(item $item, $recNode, $xp) {
+	protected static function insertManifestation(Item $item, $recNode, $xp) {
 		$vds = array('16', '17', '18');
 		foreach ($vds as $vd) {
 			$array = PicaConverter::getValues($recNode, $xp, 'vd'.$vd);

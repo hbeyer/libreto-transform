@@ -4,7 +4,7 @@ class GeoDataSheet {
 
 	private $rows = array();
 
-	function insertRow(geoDataRow $row) {
+	function insertRow(GeoDataRow $row) {
 		$this->rows[] = $row;
 	}
 

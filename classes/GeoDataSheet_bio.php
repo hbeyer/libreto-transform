@@ -4,7 +4,7 @@ class GeoDataSheet_bio extends GeoDataSheet {
 
 	private $geoDataArchive;
 
-	function __construct($GNDList, cache $cache) {
+	function __construct($GNDList, Cache $cache) {
 		$this->geoDataArchive = new GeoDataArchive('gnd');
 		foreach ($GNDList as $gnd) {
 			$request = new GND_request(new GND($gnd), $cache);
@@ -18,7 +18,7 @@ class GeoDataSheet_bio extends GeoDataSheet {
 		$this->geoDataArchive->saveToFile('gnd');
 	}
 
-	private function makeRowFromRequest(gnd_request $request) {
+	private function makeRowFromRequest(GNDRequest $request) {
 		$row = new GeoDataRow;
 		if (!empty($request->placeBirth->gnd) and $request->dateBirth) {
 			$row->insertPlaceFromGNDRequest($request, 'Birth', $this->geoDataArchive);

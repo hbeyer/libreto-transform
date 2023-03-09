@@ -125,7 +125,7 @@ class BeaconRepository {
         $this->lastUpdate = $date;
     }
 
-    public function getLinks(gnd $gnd, $target = '') {
+    public function getLinks(GND $gnd, $target = '') {
         if ($gnd->valid != true) {
             return(null);
         }
@@ -137,7 +137,7 @@ class BeaconRepository {
         return($result);
     }
 
-    public function getSelectedLinks(gnd $gnd, $hab = true, $target = '') {
+    public function getSelectedLinks(GND $gnd, $hab = true, $target = '') {
         if ($gnd->valid != true) {
             return(null);
         }

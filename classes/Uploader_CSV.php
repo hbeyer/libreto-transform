@@ -135,6 +135,7 @@ class Uploader_CSV extends Uploader {
         $result = array();
         foreach ($rows as $row) {
             $row = str_getcsv($row, ';');
+			var_dump($row);
             $newRow = array();
             foreach ($row as $key => $value) {
                 $newRow[$fieldNames[$key]] = $value;

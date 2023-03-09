@@ -31,7 +31,7 @@ class Uploader_SRU extends Uploader {
 	}
 
 	protected function loadSets() {
-		$cache = new Cache_pica;
+		$cache = new Cache_PICA;
 		$url = $this->makeURL('1', '0');
 		$string = $cache->get($url);
 		preg_match('~<zs:numberOfRecords>([0-9]+)</zs:numberOfRecords>~', $string, $hits);
