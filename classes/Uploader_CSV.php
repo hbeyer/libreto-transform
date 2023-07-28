@@ -135,7 +135,6 @@ class Uploader_CSV extends Uploader {
         $result = array();
         foreach ($rows as $row) {
             $row = str_getcsv($row, ';');
-			var_dump($row);
             $newRow = array();
             foreach ($row as $key => $value) {
                 $newRow[$fieldNames[$key]] = $value;
@@ -150,10 +149,15 @@ class Uploader_CSV extends Uploader {
             throw new Exception('Es wurden keine Daten geladen.', 1);
         }
         $fieldsMin = array('id', 'pageCat', 'imageCat', 'numberCat', 'itemInVolume', 'titleCat', 'titleBib', 'titleNormalized', 'author1', 'author2', 'author3', 'author4', 'contributor1', 'contributor2', 'contributor3', 'contributor4', 'place1', 'place2', 'publishers', 'year', 'format', 'histSubject', 'subjects', 'genres', 'mediaType', 'languages', 'systemManifestation', 'idManifestation', 'institutionOriginal', 'shelfmarkOriginal', 'provenanceAttribute', 'digitalCopyOriginal', 'targetOPAC', 'searchID', 'titleWork', 'systemWork', 'idWork', 'bound',  'comment', 'digitalCopy');
+        $missing = array();
         foreach ($fieldsMin as $fieldMin) {
             if (!in_array($fieldMin, $this->fieldNames)) {
-                throw new Exception('Fehlende Spalte: '.$fieldMin, 1);
+                $missing[] = $fieldMin;
+                //throw new Exception('Fehlende Spalte: '.$fieldMin, 1);
             }
+        }
+        if (count($missing) > 0) {
+            echo 'Fehlende Spalten: '.implode(", ", $missing).' (bitte ignorieren falls so intendiert).'."\n";
         }
         $width = count($this->fieldNames);
         foreach ($this->rows as $index => $row) {

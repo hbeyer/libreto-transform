@@ -2,12 +2,11 @@
 #PREFIX: http://d-nb.info/gnd/
 #TARGET: http://www.historische-kommission-muenchen-editionen.de/beacond/adbk.php?pnd={ID}
 #FEED: http://www.historische-kommission-muenchen-editionen.de/beacond/adbk.php?beacon
-#CONTACT: matthias.reinert@hk.badw.de
+#CONTACT: matthias.reinert@hk.badw.de (Beacon)
 #MESSAGE: Matrikel der Akademie der Bildenden Künste München
 #INSTITUTION: nicht autorisiert, temporaer fuer http://matrikel.adbk.de
 #DESCRIPTION: ausgelesene PND Zuordnung der Matrikelbuecher,   1504 Eintraege
-#TIMESTAMP: 2011-08-24
-#REVISIT: 2012-08-24
+#DATE: 2019-02-24
 100505503
 103748229
 117359165

@@ -16,19 +16,19 @@ class Reconstruction {
         $this->fileName = $fileName;
         $this->createDirectory();
         if ($format == 'xml') {
-            $uploader = new Uploader_xml($path, $this->fileName);
+            $uploader = new Uploader_XML($path, $this->fileName);
         }
         elseif ($format == 'xml_full') {
-            $uploader = new Uploader_xml_full($path, $this->fileName);
+            $uploader = new Uploader_XML_full($path, $this->fileName);
         }
         elseif ($format == 'csv') {
             $uploader = new Uploader_CSV($path, $this->fileName);
         }
         elseif ($format == 'php') {
-            $uploader = new Uploader_php($path, $this->fileName);
+            $uploader = new Uploader_PHP($path, $this->fileName);
         }
         elseif ($format == 'sql_dh') {
-            $uploader = new Uploader_sql_dh($this->fileName);
+            $uploader = new Uploader_SQL($this->fileName);
         }
         else {
             throw new Exception('Falsche Formatangabe: '.$format.'. Erlaubt sind xml, csv, xml_full, php und sql_dh', 1);

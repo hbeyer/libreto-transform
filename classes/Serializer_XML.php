@@ -90,7 +90,7 @@ class Serializer_XML extends Serializer {
                         //Iteration über die Variablen des gefundenen Objekts
                         foreach($value as $object) {
                             $nameObject = get_class($object);
-                            $objectElement = $this->dom->createElement($nameObject);
+                            $objectElement = $this->dom->createElement(strtolower($nameObject));
                             foreach($object as $objectKey => $objectValue) {
                                 //Fall 2.2.1: Variable im Objekt ist ein Array
                                 if(is_array($objectValue)) {
