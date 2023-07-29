@@ -50,7 +50,7 @@ class Catalogue {
 
 	public function importFromMetadataSet(MetadataReconstruction $set) {
 		foreach ($set as $key => $value) {
-			if (property_exists('catalogue', $key)) {
+			if (property_exists('Catalogue', $key)) {
 				$this->$key = $value;
 			}
 		}

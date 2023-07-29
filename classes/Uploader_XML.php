@@ -40,7 +40,7 @@ class Uploader_XML extends Uploader {
     public function loadMetadata() {
     	$metadataSet = new MetadataReconstruction;
         foreach ($this->metadataNode->childNodes as $child) {
-            if (property_exists('metadata_reconstruction', $child->nodeName)) {
+            if (property_exists('MetadataReconstruction', $child->nodeName)) {
                 $field = $child->nodeName;
                 $metadataSet->$field = $child->nodeValue;
             }
