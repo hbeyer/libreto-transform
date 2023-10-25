@@ -796,6 +796,7 @@
                 <xs:enumeration value="EDIT16"/>
                 <!--<xs:enumeration value="USTC"/>-->
                 <xs:enumeration value="GBV"/>
+                <xs:enumeration value="K10plus"/>
                 <xs:enumeration value="SWB"/>
                 <xs:enumeration value="HBZ"/>
                 <xs:enumeration value="BVB"/>
@@ -805,6 +806,7 @@
                 <xs:enumeration value="DNB"/>
                 <xs:enumeration value="Paris BnF"/>
                 <xs:enumeration value="ESTC"/>
+                <xs:enumeration value="LHD"/>
                 <xs:enumeration value="COPAC"/>
                 <xs:enumeration value="London BL"/>
                 <xs:enumeration value="LoC"/>
@@ -817,9 +819,10 @@
                 <xs:enumeration value="SUDOC"/>
                 <xs:enumeration value="SBN"/>
                 <xs:enumeration value="UniCat"/>
-                <xs:enumeration value="NEBIS"/>
+                <xs:enumeration value="SwissCov"/>
+                <!--<xs:enumeration value="NEBIS"/>
                 <xs:enumeration value="SWISSBIB"/>
-                <xs:enumeration value="RERO"/>
+                <xs:enumeration value="RERO"/>-->
                 <!--<xs:enumeration value="LBVÖ"/>-->
                 <xs:enumeration value="STCN"/>
                 <xs:enumeration value="ZDB"/>

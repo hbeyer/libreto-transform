@@ -87,7 +87,7 @@
             <xs:documentation xml:lang="ger">ID eines zur Sammlung gehörigen Geodatenblattes im DARIAH Geo-Browser, das sich auf die Druck- bzw. Entstehungsorte bezieht</xs:documentation>
         </xs:annotation>
     </xs:element>
-    <xs:element name="geoBrowserStorageID" type="xs:string">
+    <xs:element name="geoBrowserStorageID_bio" type="xs:string">
         <xs:annotation>
             <xs:documentation xml:lang="ger">ID eines zur Sammlung gehörigen Geodatenblattes im DARIAH Geo-Browser, das sich auf die Personen bezieht</xs:documentation>
         </xs:annotation>
@@ -794,6 +794,7 @@
                 <xs:enumeration value="DNB"/>
                 <xs:enumeration value="Paris BnF"/>
                 <xs:enumeration value="ESTC"/>
+                <xs:enumeration value="LHD"/>
                 <xs:enumeration value="COPAC"/>
                 <xs:enumeration value="London BL"/>
                 <xs:enumeration value="LoC"/>
@@ -806,9 +807,10 @@
                 <xs:enumeration value="SUDOC"/>
                 <xs:enumeration value="SBN"/>
                 <xs:enumeration value="UniCat"/>
-                <xs:enumeration value="NEBIS"/>
+                <xs:enumeration value="SwissCov"/>
+                <!--<xs:enumeration value="NEBIS"/>
                 <xs:enumeration value="SWISSBIB"/>
-                <xs:enumeration value="RERO"/>
+                <xs:enumeration value="RERO"/>-->
                 <!--<xs:enumeration value="LBVÖ"/>-->
                 <xs:enumeration value="STCN"/>
                 <xs:enumeration value="ZDB"/>

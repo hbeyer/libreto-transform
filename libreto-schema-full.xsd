@@ -921,6 +921,7 @@
             <xs:enumeration value="DNB"/>
             <xs:enumeration value="Paris BnF"/>
             <xs:enumeration value="ESTC"/>
+            <xs:enumeration value="LHD"/>
             <xs:enumeration value="COPAC"/>
             <xs:enumeration value="London BL"/>
             <xs:enumeration value="LoC"/>
@@ -933,15 +934,16 @@
             <xs:enumeration value="SUDOC"/>
             <xs:enumeration value="SBN"/>
             <xs:enumeration value="UniCat"/>
-            <xs:enumeration value="NEBIS"/>
-            <xs:enumeration value="SWISSBIB"/>
-            <xs:enumeration value="RERO"/>
+            <xs:enumeration value="SwissCov"/>
+            <!--<xs:enumeration value="NEBIS"/>
+                <xs:enumeration value="SWISSBIB"/>
+                <xs:enumeration value="RERO"/>-->
             <!--<xs:enumeration value="LBVÖ"/>-->
             <xs:enumeration value="STCN"/>
             <xs:enumeration value="ZDB"/>
             <!--<xs:enumeration value="UB Antwerpen"/><xs:enumeration value="UB Gent"/><xs:enumeration value="Josiah"/><xs:enumeration value="SOLO"/><xs:enumeration value="UUL"/><xs:enumeration value="BUvA"/>-->
             <xs:enumeration value="Ohne Nachweis"/>
-            <xs:enumeration value="Ausgabe nicht bestimmbar"/>    
+            <xs:enumeration value="Ausgabe nicht bestimmbar"/>
           </xs:restriction>
         </xs:simpleType>        
       </xs:attribute>
