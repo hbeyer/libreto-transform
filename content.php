@@ -1,6 +1,7 @@
 <?php
 require __DIR__ .'/vendor/autoload.php';
 include('functions/encode.php');
+include('private/settings.php');
 
 $content = [];
 foreach (glob('projectFiles/*') as $path) {

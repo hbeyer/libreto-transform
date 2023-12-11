@@ -1,6 +1,6 @@
 <?php
 
-$catalogue = new catalogue;
+$catalogue = new Catalogue;
 $catalogue->owner = 'Schrader zu Schliestedt, Heinrich Bernhard';
 $catalogue->ownerGND = '123456789';
 $catalogue->heading = 'Bücher des H. B. Schrader zu Schliestedt';
