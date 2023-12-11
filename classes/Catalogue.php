@@ -66,6 +66,26 @@ class Catalogue {
 		return($set);
 	}
 
+    public function writeMetadata($fileName) {
+        $dom = new DOMDocument('1.0', 'UTF-8');
+        $dom->formatOutput = true;
+        $root = $dom->createElement('catalogue');
+        $fields = array('heading', 'owner', 'ownerGND', 'description', 'geoBrowserStorageID', 'geoBrowserStorageID_bio', 'creatorReconstruction', 'yearReconstruction', 'base', 'title', 'placeCat', 'printer', 'year', 'institution', 'shelfmark');
+        foreach ($fields as $field) {
+            if (empty($this->$field)) {
+                continue;
+            }
+            $new = $dom->createElement($field);
+            $text = $dom->createTextNode($this->$field);
+            $new->appendChild($text);
+            $root->appendChild($new);
+        }
+        $dom->appendChild($root);
+        $path = Reconstruction::getPath($fileName, $fileName.'-metadata', 'xml');
+        file_put_contents($path, $dom->saveXML());
+        chmod($path, 0777);
+    }
+
 }
 
 ?>

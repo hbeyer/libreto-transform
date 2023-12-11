@@ -51,6 +51,15 @@ class Reconstruction {
         }*/
     }
 
+    public function updateCat($cat) {
+        foreach ($this->catalogue as $key => $value) {
+            if (!empty($cat->$key)) {
+                $value = $cat->$key;
+            }
+        }
+        $this->convertCatalogueToFull();
+    }
+
     protected function convertCatalogueToFull() {
         $this->catalogues[0]->addSections($this->content);
     }

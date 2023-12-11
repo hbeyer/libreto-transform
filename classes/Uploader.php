@@ -80,6 +80,7 @@ class  Uploader {
         }
         $dom->appendChild($root);
         file_put_contents($this->metaPath, $dom->saveXML());
+        chmod($this->metaPath, 0777);
     }
 
 }

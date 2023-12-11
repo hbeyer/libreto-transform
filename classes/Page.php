@@ -26,6 +26,12 @@ class Page {
 		foreach ($this->sections as $sec) {
 			$hash = substr(md5($sec->label), 0, 5);
 			foreach ($sec->content as $item) {
+			    if (get_class($item) == 'Volume') {
+                    foreach ($item->content as $part) {
+                        $part->anchor = $part->id.'-'.$hash;
+                    }
+			        continue;
+			    }
 				$item->anchor = $item->id.'-'.$hash;
 			}
 		}

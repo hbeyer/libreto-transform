@@ -1,0 +1,32 @@
+pre {
+    background-color: #303841;
+    color: #f7feff;
+}
+
+code.html .prop_char {
+    color:#5eb4b4;
+}
+
+code.html .function {
+    color:#6699cc;
+}
+
+code.html .keyword {
+    color:#b894c6;
+}
+
+code.html .string {
+    color:#93c694;
+}
+
+code.html .operator {
+    color:#f97b58;
+}
+
+code.html .control {
+    color:#b894c6;
+}
+
+code.html .number {
+    color:#f9ae58;
+}

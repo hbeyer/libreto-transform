@@ -2,20 +2,21 @@
             <div class="container-fluid">
                 <ul class="nav navbar-nav">
                     <li<?php if ($active == 'index'): ?> class="active"<?php endif; ?>><a href="index.php" title="Startseite">Home</a></li>
-					<li<?php if ($active == 'content'): ?> class="active"<?php endif; ?>><a href="content.php" title="Lokale Bibliotheksrekonstruktionen">Bibliotheken</a></li>
                     <li class="dropdown">
                         <a class="dropdown-toggle" data-toggle="dropdown" href="#">Erfassung<span class="caret"></span></a>
                         <ul class="dropdown-menu">
-                            <li><a href="Dokumentation_CSV.pdf">Anleitung CSV</a></li>
-							<li><a href="example.csv">Vorlage CSV</a></li>
-							<li><a href="libreto-schema.xsd">Erfassungsschema XML</a></li>
-                            <li><a href="libreto-schema-full.xsd">Erweitertes Erfassungsschema XML</a></li>
+                            <li><a href="Dokumentation_CSV.pdf" title="Dokumentation CSV (PDF)" target="_blank">Anleitung CSV</a></li>
+							<li><a href="example.csv" title="Beispieldokument (CSV)" target="_blank">Vorlage CSV</a></li>
+							<li><a href="libreto-schema.xsd" title="Erfassungsschema (XSD)" target="_blank">Erfassungsschema XML</a></li>
+                            <li><a href="libreto-schema-full.xsd" title="Erfassungsschema erweitertes XML (XSD)" target="_blank">Erweitertes Erfassungsschema XML</a></li>
                         </ul>
                     </li>
+                    <li><a href="form.php" title="Formular für browserbasierte Transformation">Formular</a></li>
+					<li<?php if ($active == 'content'): ?> class="active"<?php endif; ?>><a href="content.php" title="Lokale Bibliotheksrekonstruktionen">Bibliotheken</a></li>
 					<?php if ($_SERVER['SERVER_PORT'] == '84'): ?>
 					<li><a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>:85/" target="_blank" title="Lokale Erfassungsdatenbank">PHPMyAdmin</a></li>
 					<?php endif; ?>
-					<li><a href="https://github.com/hbeyer/libreto-transform" title="Quellcode und Dokumenttion auf GitHub" target="_blank">GitHub</a></li>
+					<li><a href="https://github.com/hbeyer/libreto-transform" title="Quellcode und Dokumentation auf GitHub" target="_blank">GitHub</a></li>
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
                     <li style="margin-right:1em;"><img src="assets/images/icon.svg" height="50" alt="Logo HAB"/></li>

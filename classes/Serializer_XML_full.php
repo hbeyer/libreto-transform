@@ -230,7 +230,7 @@ class Serializer_XML_full extends Serializer_XML {
 				$insertArray['url'] = $item->originalItem['OPACLink'];
 			}
 			elseif ($item->originalItem['targetOPAC'] and $item->originalItem['searchID']) {
-				$url = translate($item->originalItem['targetOPAC'], array('{ID}', $item->originalItem['searchID']));
+				$url = strtr($item->originalItem['targetOPAC'], array('{ID}', $item->originalItem['searchID']));
 				$insertArray['url'] = $url;
 			}
 			$this->appendAssocArrayToDOM($copyEl, $insertArray);

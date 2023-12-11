@@ -22,7 +22,7 @@ class FacetList {
         }
         if (is_array($clouds)) {
             $this->clouds = array_intersect($clouds, $this->allowedClouds);
-        } 
+        }
     }
 
 }
