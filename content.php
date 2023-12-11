@@ -31,6 +31,7 @@ foreach (glob('projectFiles/*') as $path) {
 	}
 }
 ?>
+<!DOCTYPE html>
 <html>
 	<head>
 		<title>LibReTo Rekonstruktionen</title>
@@ -39,6 +40,7 @@ foreach (glob('projectFiles/*') as $path) {
         <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
         <link rel="stylesheet" href="assets/css/affix.css" />
         <link rel="stylesheet" href="assets/css/proprietary.css" />
+        <<link rel="icon" type="image/x-icon" href="assets/images/favicon.png" />
         <script src="assets/js/jquery.min.js"></script>
         <script src="assets/js/bootstrap.min.js"></script>
         <script src="assets/js/proprietary.js"></script>		

@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 	<head>
 		<title>LibReTo Transformation</title>
@@ -6,6 +7,7 @@
         <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
         <link rel="stylesheet" href="assets/css/affix.css" />
         <link rel="stylesheet" href="assets/css/proprietary.css" />
+        <link rel="icon" type="image/x-icon" href="assets/images/favicon.png" />
         <script src="assets/js/jquery.min.js"></script>
         <script src="assets/js/bootstrap.min.js"></script>
         <script src="assets/js/proprietary.js"></script>
@@ -13,22 +15,32 @@
 	</head>
 	<body>
 <?php $active = basename(__FILE__, '.php');
-		include('templates/user_interface/navigation.phtml'); 
+		require __DIR__ .'/vendor/autoload.php';
+		require __DIR__ .'/functions/encode.php';
+		include('templates/user_interface/navigation.phtml');
 ?>
 	<div class="container" style="min-height:1000px;margin-top:80px;">
 		<div class="row">
 			<h2>Transformation einer Datensammlung</h2>
 <?php if(isset($_POST["fileName"])): ?>
+			<!--
 			<div class="well">
 				<?php var_dump($_POST); ?>
 			</div>
-<?php endif; ?>			
+			-->
+<?php
+	$action = new FormAction($_POST);
+?>
+	<div class="well">
+		<?php echo $action->message; ?>
+	</div>
+<?php endif; ?>
 			<form method="post" class="form-horizontal" action="form.php">
-			
+
 				<div class="panel panel-default">
 					<div class="panel-heading">Datenquelle</div>
 					<div class="panel-body">
-					
+
 						<div class="form-group">
 							<div class="formrow">
 								<label class="control-label col-sm-3" for="path_file">Pfad zur Datei</label>
@@ -52,19 +64,19 @@
 								</div>
 							</div>
 						</div>
-						
+
 					</div>
 				</div>
-				
+
 				<div class="panel panel-default">
 					<div class="panel-heading">Metadaten</div>
 					<div class="panel-body">
-						
+
 						<span id="metadata_info"></span>
 
 						<label  class="control-label col-sm-3" for="fileName">Dateiname</label>
 						<div class="col-sm-9">
-							<input type="text" class="form-control" id="fileName" name="fileName" name="fileName" pattern="[a-z-]+" maxlength="45" required onchange="javascript:loadMetadata(this.value)" />
+							<input type="text" class="form-control" id="fileName" name="fileName" name="fileName" pattern="[a-z\-]+" maxlength="45" required onchange="javascript:loadMetadata(this.value)" />
 							<p class="form-text text-muted">Name für den Projektordner (nur Kleinbuchstaben und Bindestrich erlaubt)</p>
 						</div>
 
@@ -73,38 +85,38 @@
 							<div class="col-sm-9">
 								<input type="text" class="form-control" id="owner" name="owner" />
 								<p class="form-text text-muted">Historischer Eigentümer der rekonstruierten Bibliothek</p>
-							</div>		
+							</div>
 
 							<label  class="control-label col-sm-3" for="ownerGND">GND</label>
 							<div class="col-sm-9">
 								<input type="text" class="form-control" id="ownerGND" name="ownerGND" pattern="[0-9-X]{8,12}" maxlength="12"/>
 								<p class="form-text text-muted">GND-Nummer des Eigentümers</p>
 							</div>
-							
+
 							<label  class="control-label col-sm-3" for="heading">Bibliotheksname</label>
 							<div class="col-sm-9">
 								<input type="text" class="form-control" id="heading" name="heading" maxlength="160" />
 								<p class="form-text text-muted">Bezeichnung der rekonstruierten Bibliothek, z. B. &bdquo;Bibliothek von Hartmann Schedel&rdquo;</p>
 							</div>
-							
+
 							<label  class="control-label col-sm-3" for="year">Jahr</label>
 							<div class="col-sm-9">
 								<input type="text" class="form-control" id="year" name="year" pattern="[12]?[0-9]{3}" maxlength="4" />
 								<p class="form-text text-muted">Stichjahr der Bibliotheksrekonstruktion, bei Katalogen: Erscheinungsjahr</p>
 							</div>
-							
+
 							<label  class="control-label col-sm-3" for="title">Titel Katalog</label>
 							<div class="col-sm-9">
 								<input type="text" class="form-control" id="title" name="title" maxlength="400" />
 								<p class="form-text text-muted">Titel des handschriftlichen oder gedruckten Katalogs, wenn vorhanden</p>
 							</div>
-							
+
 							<label  class="control-label col-sm-3" for="placeCat">Erscheinungsort Katalog</label>
 							<div class="col-sm-9">
 								<input type="text" class="form-control" id="placeCat" name="placeCat" maxlength="80" />
 								<p class="form-text text-muted">Erscheinungs- oder Entstehungsort des Katalogs, wenn vorhanden</p>
 							</div>
-							
+
 							<label  class="control-label col-sm-3" for="printer">Drucker</label>
 							<div class="col-sm-9">
 								<input type="text" class="form-control" id="printer" name="printer" maxlength="160" />
@@ -116,37 +128,37 @@
 								<input type="text" class="form-control" id="institution" name="institution" maxlength="160" />
 								<p class="form-text text-muted">Institution, die den Katalog besitzt, wenn vorhanden</p>
 							</div>
-							
+
 							<label  class="control-label col-sm-3" for="shelfmark" maxlength="80">Signatur</label>
 							<div class="col-sm-9">
 								<input type="text" class="form-control" id="shelfmark" name="shelfmark" />
 								<p class="form-text text-muted">Signatur des Katalogs, wenn vorhanden</p>
 							</div>
-							
+
 							<label  class="control-label col-sm-3" for="base">Digitalisat</label>
 							<div class="col-sm-9">
-								<input type="url" class="form-control" id="base" name="base" maxlength="160" />
+								<input type="text" class="form-control" id="base" name="base" maxlength="160" />
 								<p class="form-text text-muted">Pfad für das Digitalisat das Altkatalogs. Die Image-Nummer wird durch {No} wiedergegeben, fehlt das, wird sie angehängt.</p>
 							</div>
-							
+
 							<label  class="control-label col-sm-3" for="description">Abstract</label>
 							<div class="col-sm-9">
 								<textarea class="form-control" rows="3" id="description" name="description" maxlength="4000"></textarea>
 								<p class="form-text text-muted">Beschreibung der rekonstruierten Bibliothek</p>
 							</div>
-							
+
 							<label  class="control-label col-sm-3" for="creatorReconstruction">Verantwortliche Rekonstruktion</label>
 							<div class="col-sm-9">
 								<input type="text" class="form-control" id="creatorReconstruction" name="creatorReconstruction" maxlength="160" />
 								<p class="form-text text-muted">Für die Rekonstruktion verantwortliche Person oder Personen (Freitextfeld)</p>
 							</div>
-							
+
 							<label  class="control-label col-sm-3" for="yearReconstruction">Jahr Rekonstruktion</label>
 							<div class="col-sm-9">
 								<input type="text" class="form-control" id="yearReconstruction" name="yearReconstruction" pattern="20[0-9]{2}" maxlength="4" />
 								<p class="form-text text-muted">Jahr der Rekonstruktion</p>
 							</div>
-							
+
 							<label  class="control-label col-sm-3" for="geoBrowserStorageID">ID GeoBrowser</label>
 							<div class="col-sm-9">
 								<input type="text" class="form-control" id="geoBrowserStorageID" name="geoBrowserStorageID" maxlength="160" />
@@ -156,11 +168,11 @@
 
 					</div>
 					</div>
-					
-					<div class="panel panel-default">				
+
+					<div class="panel panel-default">
 						<div class="panel-heading">Darzustellende Felder</div>
 						<div class="panel-body">
-						
+
 							<label class="control-label col-sm-3" for="pages">Eigene Seite</label>
 							<div class="col-sm-9">
 								<label class="checkbox-inline" for="page_histSubject"><input type="checkbox" id="page_histSubject" name="page_histSubject" value="yes" checked />Rubrik</label>
@@ -171,7 +183,7 @@
 								<label class="checkbox-inline" for="page_languages"><input type="checkbox" id="page_languages" name="page_languages" value="yes" />Sprache</label>
 								<label class="checkbox-inline" for="page_placeName"><input type="checkbox" id="page_placeName" name="page_placeName" value="yes" />Ort</label>
 								<label class="checkbox-inline" for="page_publishers"><input type="checkbox" id="page_publishers" name="page_publishers" value="yes" />Drucker/Verleger</label>
-								
+
 								<label class="checkbox-inline" for="page_format"><input type="checkbox" id="page_format" name="page_format" value="yes" />Format</label>
 								<label class="checkbox-inline" for="page_mediaType"><input type="checkbox" id="page_mediaType" name="page_mediaType" value="yes" />Medientyp</label>
 								<label class="checkbox-inline" for="page_systemManifestation"><input type="checkbox" id="page_systemManifestation" name="page_systemManifestation" value="yes" />Nachweissystem</label>
@@ -211,7 +223,7 @@
 								<label class="checkbox-inline" for="cloud_beacon"><input type="checkbox" id="cloud_beacon" name="cloud_beacon" value="yes" />Personenprofil</label>
 								<label class="checkbox-inline" for="cloud_borrower"><input type="checkbox" id="cloud_borrower" name="cloud_borrower" value="yes" />Entleiher</label>
 							</div>
-							
+
 							<label class="control-label col-sm-3" for="pages">Kreisdiagramm</label>
 							<div class="col-sm-9">
 								<label class="checkbox-inline" for="doughnut_histSubject"><input type="checkbox" id="doughnut_histSubject" name="doughnut_histSubject" value="yes" checked />Rubrik</label>
@@ -227,11 +239,12 @@
 								<label class="checkbox-inline" for="doughnut_institutionOriginal"><input type="checkbox" id="doughnut_institutionOriginal" name="doughnut_institutionOriginal" value="yes" />Besitzende Institution</label>
 								<label class="checkbox-inline" for="doughnut_provenanceAttribute"><input type="checkbox" id="doughnut_provenanceAttribute" name="doughnut_provenanceAttribute" value="yes" />Provenienzmerkmal</label>
 								<label class="checkbox-inline" for="doughnut_bound"><input type="checkbox" id="doughnut_bound" name="doughnut_bound" value="yes" />Gebunden</label>
-							</div>							
-							
+							</div>
+
 						</div>
 					</div>
-				<button type="submit" class="btn btn-default" onclick="javascript:return confirm(\'Transformation mit diesen Daten beginnen?\');">Abschicken</button>
+					<input type="hidden" name="execute" value="yes">
+				<button type="submit" class="btn btn-default" onclick="javascript:return confirm('Transformation mit diesen Daten beginnen?');">Abschicken</button>
 			</form>
 		</div>
 	</div>

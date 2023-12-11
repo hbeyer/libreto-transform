@@ -1,42 +1,47 @@
+<!DOCTYPE html>
 <html>
 	<head>
-		<title>LibReTo Testseite</title>
+		<title>LibReTo - Startseite</title>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
         <link rel="stylesheet" href="assets/css/affix.css" />
         <link rel="stylesheet" href="assets/css/proprietary.css" />
+        <link rel="stylesheet" href="assets/css/code.css" />
+        <link rel="icon" type="image/x-icon" href="assets/images/favicon.png" />
         <script src="assets/js/jquery.min.js"></script>
         <script src="assets/js/bootstrap.min.js"></script>
-        <script src="assets/js/proprietary.js"></script>		
+        <script src="assets/js/proprietary.js"></script>
 	</head>
 	<body>
 <?php 	$active = basename(__FILE__, '.php');
-		include('templates/user_interface/navigation.phtml'); 
+		include('templates/user_interface/navigation.phtml');
 ?>
 		<div class="container" style="min-height:1000px;margin-top:80px;">
-			<h1>Testseite f&uuml;r LibReTo</h1>
+			<h1>Willkommen bei LibReTo!</h1>
 			<p>
-			<?php echo 'Es funktioniert!<br>Server: '.$_SERVER['SERVER_NAME'].':'.$_SERVER['SERVER_PORT'].'<br>PHP-Version: '.phpversion(); ?>
+			<?php echo 'Server: '.$_SERVER['SERVER_NAME'].':'.$_SERVER['SERVER_PORT'].'<br>PHP-Version: '.phpversion(); ?>
 			</p>
-			<p>Transformationsskripte können im Hauptverzeichnis (i. d. R. &bdquo;libreto-transform&rdquo;) gespeichert und über die Adressleiste ausgeführt werden. Die Ergebnisse werden im Ordner &bdquo;projectFiles&rdquo; gespeichert. Codebeispiel:
-				<pre>
-require __DIR__ .'/vendor/autoload.php';
-include('functions/encode.php');
+			<p>Bibliotheksrekonstruktionen können mit Hilfe des <a href="form.php" title="Formular &ouml;ffnen">Formulars</a> aus erfassten Datensammlungen erzeugt werden.</p>
+			<p>Für Fortgeschrittene empfiehlt sich die Anlage von Transformationsskripten. Diese können im Hauptverzeichnis (i. d. R. &bdquo;libreto-transform&rdquo;) gespeichert und über die Adressleiste ausgeführt werden. Die Ergebnisse werden im Ordner &bdquo;projectFiles&rdquo; gespeichert. Codebeispiel:</p>
 
-$reconstruction = new Reconstruction('source/myproject.xml', 'myproject', 'xml');
-$reconstruction->enrichData();
-$reconstruction->saveAllFormats();
 
-$pages = array('histSubject', 'persName', 'gender', 'beacon', 'year', 'subjects', 'languages', 'placeName', 'publishers');
-$doughnuts = array('histSubject', 'subjects', 'beacon', 'languages');
-$clouds = array('publishers', 'subjects', 'persName', 'shelfmarkOriginal');
+				<pre><code class="html"><span class="keyword">require</span> <span class="keyword">__DIR__</span><span class="operator">.</span><span class="prop_char">'</span><span class="string">/vendor/autoload.php</span><span class="prop_char">'</span>;
+<span class="keyword">include</span>(</span><span class="prop_char">'</span><span class="string">functions/encode.php</span><span class="prop_char">'</span>);
 
-$facetList = new FacetList($pages, $doughnuts, $clouds);
-$frontend = new Frontend($reconstruction, $facetList);
-$frontend->build();				
-				</pre>
-			</p>
+<span class="prop_char">$</span>reconstruction <span class="operator">=</span> <span class="keyword">new</span> <span class="function">Reconstruction</span>(<span class="prop_char">'</span><span class="string">source/myproject.xml</span><span class="prop_char">'</span><span class="string">, </span><span class="prop_char">'</span><span class="string">myproject</span><span class="prop_char">'</span><span class="string">, </span><span class="prop_char">'</span><span class="string">xml</span><span class="prop_char">'</span>);
+<span class="prop_char">$</span>reconstruction-><span class="function">enrichData</span>();
+<span class="prop_char">$</span>reconstruction-><span class="function">saveAllFormats</span>();
+
+<span class="prop_char">$</span>pages <span class="operator">=</span> <span class="function">array</span>(<span class="prop_char">'</span><span class="string">histSubject</span><span class="prop_char">'</span><span class="string">, </span><span class="prop_char">'</span><span class="string">persName</span><span class="prop_char">'</span><span class="string">, </span><span class="prop_char">'</span><span class="string">gender</span><span class="prop_char">'</span><span class="string">, </span><span class="prop_char">'</span><span class="string">beacon</span><span class="prop_char">'</span><span class="string">, </span><span class="prop_char">'</span><span class="string">year</span><span class="prop_char">'</span><span class="string">, </span><span class="prop_char">'</span><span class="string">subjects</span><span class="prop_char">'</span><span class="string">, </span><span class="prop_char">'</span><span class="string">languages</span><span class="prop_char">'</span><span class="string">, </span><span class="prop_char">'</span><span class="string">placeName</span><span class="prop_char">'</span><span class="string">, </span><span class="prop_char">'</span><span class="string">publishers</span><span class="prop_char">'</span>);
+<span class="prop_char">$</span>doughnuts <span class="operator">=</span> <span class="function">array</span>(<span class="prop_char">'</span><span class="string">histSubject</span><span class="prop_char">'</span><span class="string">, </span><span class="prop_char">'</span><span class="string">subjects</span><span class="prop_char">'</span><span class="string">, </span><span class="prop_char">'</span><span class="string">beacon</span><span class="prop_char">'</span><span class="string">, </span><span class="prop_char">'</span><span class="string">languages</span><span class="prop_char">'</span>);
+<span class="prop_char">$</span>clouds = <span class="function">array</span>(<span class="prop_char">'</span><span class="string">publishers</span><span class="prop_char">'</span><span class="string">, </span><span class="prop_char">'</span><span class="string">subjects</span><span class="prop_char">'</span><span class="string">, </span><span class="prop_char">'</span><span class="string">persName</span><span class="prop_char">'</span><span class="string">, </span><span class="prop_char">'</span><span class="string">shelfmarkOriginal</span><span class="prop_char">'</span>);
+
+<span class="prop_char">$</span>facetList <span class="operator">=</span> <span class="keyword">new</span> <span class="function">FacetList</span>(<span class="prop_char">$</span>pages, <span class="prop_char">$</span>doughnuts, <span class="prop_char">$</span>clouds);
+<span class="prop_char">$</span>frontend <span class="operator">=</span> <span class="keyword">new</span> <span class="function">Frontend</span>(<span class="prop_char">$</span>reconstruction, <span class="prop_char">$</span>facetList);
+<span class="prop_char">$</span>frontend-><span class="function">build</span>();</code></pre>
+
+
 		</div>
         <footer class="container-fluid">
             <p>
@@ -44,6 +49,6 @@ $frontend->build();
                 <a href="https://www.hab.de" style="color:white" target="_blank">HAB</a>&nbsp;&nbsp;
                 <a href="http://www.mww-forschung.de" style="color:white" target="_blank">MWW</a>&nbsp;&nbsp;
             </p>
-        </footer>		
+        </footer>
 	</body>
 </html>

@@ -4,11 +4,11 @@ Set of scripts for transforming library reconstruction data into reusable data f
 *Autor: Hartmut Beyer (beyer@hab.de)*
 
 ## Anforderungen
-Die Anwendung erfordert eine Installation von PHP (getestet mit Version 5.6–7.4) und schreibenden Zugriff auf Dateien und Ordner innerhalb des Programmordners.
+Die Anwendung erfordert eine Installation von PHP (getestet mit Version 5.6–8.1) und schreibenden Zugriff auf Dateien und Ordner innerhalb des Programmordners.
 Unter Windows empfiehlt sich die Verwndung von XAMPP, der Programmordner muss dann unter xampp/htdocs/ liegen. Unter Linux ist es /var/www/html/. Alternativ kann LibReTo von der Kommandozeile aus benutzt werden.
 
 ## Installation
-Herunterladen des Programmordners, dies kann manuell als ZIP-Datei oder auf der Kommandozeile mit `git clone https://github.com/hbeyer/libreto-transform` geschehen (entfällt bei Nutzung von Docker).
+Herunterladen des Programmordners, dies kann manuell als ZIP-Datei oder auf der Kommandozeile mit `git clone https://github.com/hbeyer/libreto-transform` geschehen.
 
 Im Ordner ***private/*** muss die Datei ***settings.php.template*** in ***settings.php*** umbenannt werden. Darin müssen folgenden Angaben stehen:
 - Unter `$userGeoNames` der Login eines Accounts bei geoNames (http://www.geonames.org/login)
@@ -17,6 +17,8 @@ Im Ordner ***private/*** muss die Datei ***settings.php.template*** in ***settin
 
 Um eine Datenbankverbindung zu nutzen, kann analog die Datei ***connectionData.php.template*** angepasst werden. Die Datenbank folgt dem Schema in ***schema-dh.sql*** (auf Basis der Datenerfassung von D. Hakelberg).
 
+Nach der Installation kann unter [http://localhost/libreto-transform/](http://localhost/libreto-transform/) die Nutzeroberfläche von LibReTo gestartet werden. Diese enthält die Dokumentation, ein Formular zur browserbasierten Nutzung und eine Übersicht über die lokal vorhandenen Bibliotheksrekonstruktionen.
+
 ## LibReTo auf Docker
 LibReTo kann einfach mit Docker genutzt werden. Dafür muss Docker installiert sein, s. (https://www.docker.com/). Die Konfiguration der virtuellen Maschine ist in ***docker-compose.yml*** definiert. Zum Starten muss im Programmordner folgendes Kommando ausgeführt werden:
 
@@ -24,7 +26,7 @@ LibReTo kann einfach mit Docker genutzt werden. Dafür muss Docker installiert s
 docker-compose up -d
 ```
 
-Der Server läuft dann unter http://localhost:84/. Im Programmordner kann etwa ein Skript ***transform-myproject.php*** durch Aufruf von [http://localhost:84/transform-myproject.php](http://localhost:84/%7BDateiname%20Transformationsskript%7D.php) ausgeführt werden.
+Der Server läuft dann unter http://localhost:84/. Durch Aufruf dieser URL wird die Benutzeroberfläche gestartet. Im Programmordner kann etwa ein Skript ***transform-myproject.php*** durch Aufruf von [http://localhost:84/transform-myproject.php](http://localhost:84/%7BDateiname%20Transformationsskript%7D.php) ausgeführt werden.
 
 Alternativ kann man sich über die Kommandozeile mit dem laufenden Container verbinden:
 
@@ -40,6 +42,8 @@ Eine MySQL-Datenbank startet mit und kann unter http://localhost:85/ mit PHPMyAd
 Daten können in XML oder in CSV erfasst werden. Zur Anlage eines XML-Dokuments dient das Schema ***libreto-schema.xsd***. Im XML-Dokument werden sowohl die Erschließungsdaten als auch die Metadaten zur Sammlung hinterlegt. Zur Erstellung einer CSV-Datei kann das Beispieldokument ***example.csv*** (Trennzeichen ";", Zeichencodierung "Windows-1252") verwendet werden. Die Metadaten werden in diesem Fall bei der Transformation erfasst. Die Benutzung der einzelnen Felder ist im Word-Dokument ***Dokumentation_CSV.doc*** beschrieben.
 
 ## Transformation
+
+Die Transformation kann über das Formular (***form.php***) oder durch Ausführen eines Skripts auf der Kommandozeile vorgenommen werden.
 
 ### Codebeispiel
 
