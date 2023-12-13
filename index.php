@@ -16,7 +16,7 @@
 	<body>
 <?php 	$active = basename(__FILE__, '.php');
 		include('templates/user_interface/navigation.phtml');
-		include('privat/settings.php');
+		include('private/settings.php');
 ?>
 		<div class="container" style="min-height:1000px;margin-top:80px;">
 			<h1>Willkommen bei LibReTo!</h1>
