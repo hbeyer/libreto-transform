@@ -6,6 +6,7 @@ Set of scripts for transforming library reconstruction data into reusable data f
 ## Anforderungen
 Die Anwendung erfordert eine Installation von PHP (getestet mit Version 5.6–8.1) und schreibenden Zugriff auf Dateien und Ordner innerhalb des Programmordners.
 Unter Windows empfiehlt sich die Verwndung von XAMPP, der Programmordner muss dann unter xampp/htdocs/ liegen. Unter Linux ist es /var/www/html/. Alternativ kann LibReTo von der Kommandozeile aus benutzt werden.
+In der PHP-Konfiguration sollten unbedingt die Fehlermeldungen aktiviert sein ("display_errors = On" in der Datei php.ini), was insbesondere bei Nutzung von Apache unter Linux oft nicht der Fall ist.
 
 ## Installation
 Herunterladen des Programmordners, dies kann manuell als ZIP-Datei oder auf der Kommandozeile mit `git clone https://github.com/hbeyer/libreto-transform` geschehen.

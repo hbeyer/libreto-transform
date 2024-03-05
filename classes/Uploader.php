@@ -11,7 +11,7 @@ class  Uploader {
         $this->path = $path;
         $this->fileName = $fileName;
         $this->format = $format;
-        $this->metaPath = Reconstruction::FOLDER.'/'.$this->fileName.'/'.$this->fileName.'-metadata.xml';
+        //$this->metaPath = Reconstruction::FOLDER.'/'.$this->fileName.'/'.$this->fileName.'-metadata.xml';
     }
 
     public function loadCatalogues($fileName) {
@@ -79,6 +79,7 @@ class  Uploader {
             $root->appendChild($new);
         }
         $dom->appendChild($root);
+        $path = Reconstruction::FOLDER.'/'.$this->fileName.'/'.$this->fileName.'-metadata.xml';
         file_put_contents($this->metaPath, $dom->saveXML());
         chmod($this->metaPath, 0777);
     }
