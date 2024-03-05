@@ -1,5 +1,6 @@
 <?php
 
+#[\AllowDynamicProperties]
 class Section { // A list of items with a title to be displayed as a chapter of a web page
 
 	public $quantifiedLabel;

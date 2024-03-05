@@ -1007,7 +1007,8 @@
             <xs:enumeration value="Titelschild"/>
             <xs:enumeration value="Einband; Titelschild"/>
             <xs:enumeration value="Altsignatur; Einband; Titelschild"/>
-            <xs:enumeration value="Altsignatur; Titelschild"/>
+            <xs:enumeration value="Altsignatur; Autogramm"/>
+            <xs:enumeration value="Altsignatur; Stempel"/>
           </xs:restriction>          
         </xs:simpleType>
       </xs:attribute>

@@ -1,5 +1,6 @@
 <?php
 
+#[\AllowDynamicProperties]
 class  Serializer_Gephi extends Serializer {
 
     public function serialize() {
@@ -10,8 +11,10 @@ class  Serializer_Gephi extends Serializer {
         $this->handleEdges = fopen($this->pathEdges, 'w');
         fputcsv($this->handleNodes, array('ID', 'Label', 'Type'));
         $ownerType = 'Person';
-        if (strpos('-', $this->catalogue->ownerGND) !== false) {
-        	$ownerType = 'Institution';
+        if (!empty($this->catalogue->ownerGND)) {
+            if (strpos('-', $this->catalogue->ownerGND) !== false) {
+            	$ownerType = 'Institution';
+            }        
         }
         $this->ownerNode = 'gnd_'.$this->catalogue->ownerGND;
         fputcsv($this->handleNodes, array($this->ownerNode, $this->catalogue->owner, $ownerType));

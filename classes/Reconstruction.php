@@ -91,7 +91,7 @@ class Reconstruction {
         $ser->serialize();
         $ser = new Serializer_XML($this->catalogue, $this->content, $this->fileName);
 		$ser->serialize();
-        $ser = new Serializer_XML_full($this->catalogues, $this->metadataReconstruction, $this->content);
+        $ser = new Serializer_XML_full($this->catalogues, $this->metadataReconstruction, $this->content, $this->fileName);
         $ser->serialize();
         $ser = new Serializer_CSV($this->catalogue, $this->content, $this->fileName);
         $ser->serialize();

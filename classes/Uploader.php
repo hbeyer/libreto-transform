@@ -11,7 +11,7 @@ class  Uploader {
         $this->path = $path;
         $this->fileName = $fileName;
         $this->format = $format;
-        //$this->metaPath = Reconstruction::FOLDER.'/'.$this->fileName.'/'.$this->fileName.'-metadata.xml';
+        $this->metaPath = Reconstruction::FOLDER.'/'.$this->fileName.'/'.$this->fileName.'-metadata.xml';
     }
 
     public function loadCatalogues($fileName) {

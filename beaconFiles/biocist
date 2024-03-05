@@ -1,244 +1,5368 @@
-#FORMAT: BEACON
-#PREFIX: http://d-nb.info/gnd/
-#VERSION: 0.1
-#FEED: http://www.statistik-bw.de/LABI/Biographia-Cisterciensis.txt
-#NAME: Biographia Cisterciensis (BioCist)
-#MESSAGE: Biographia Cisterciensis (BioCist)
-#INSTITUTION: www.zisterzienserlexikon.de
-#CONTACT: Wilfred Berger <webmaster@stala.bwl.de>
-#TIMESTAMP: 2014-12-20T10:01:04Z
-100038220||http://www.zisterzienserlexikon.de/wiki/Besozzi,_Raimondo
-10016403X||http://www.zisterzienserlexikon.de/wiki/Henriquez,_Chrysostomus
-100323685||http://www.zisterzienserlexikon.de/wiki/Richalm_von_Sch%C3%B6ntal
-100744273||http://www.zisterzienserlexikon.de/wiki/Hiltprand,_Bonifatius
-100936881||http://www.zisterzienserlexikon.de/wiki/Arnulf_von_L%C3%B6wen
-100939406||http://www.zisterzienserlexikon.de/wiki/Konrad_von_Eberbach
-100942849||http://www.zisterzienserlexikon.de/wiki/Gilbert_von_Hoyland
-100950922||http://www.zisterzienserlexikon.de/wiki/Isaak_von_Stella
-100953344||http://www.zisterzienserlexikon.de/wiki/Matth%C3%A4us_von_K%C3%B6nigssaal
-100966411||http://www.zisterzienserlexikon.de/wiki/Johannes_von_Ford
-100968562||http://www.zisterzienserlexikon.de/wiki/Ulrich_von_Lilienfeld
-101864892||http://www.zisterzienserlexikon.de/wiki/Gerards,_Alberich
-10195512X||http://www.zisterzienserlexikon.de/wiki/Hoffmann,_Eberhard
-102309892||http://www.zisterzienserlexikon.de/wiki/Rancati,_Ilarione
-102455023||http://www.zisterzienserlexikon.de/wiki/Bona,_Giovanni
-10246717X||http://www.zisterzienserlexikon.de/wiki/Volkuin_von_Sittichenbach
-102473501||http://www.zisterzienserlexikon.de/wiki/Gilbert_von_Citeaux
-102506930||http://www.zisterzienserlexikon.de/wiki/Jacobus_von_Eltville
-102520755||http://www.zisterzienserlexikon.de/wiki/Reginald_von_Alna
-102905967||http://www.zisterzienserlexikon.de/wiki/Mickl,_Quirin
-10315115X||http://www.zisterzienserlexikon.de/wiki/Waltheof_von_Melrose
-104279354||http://www.zisterzienserlexikon.de/wiki/Clavey,_Johann
-104581751||http://www.zisterzienserlexikon.de/wiki/Christan_von_Lilienfeld
-104832991||http://www.zisterzienserlexikon.de/wiki/Birngruber,_Sylvester
-10492988X||http://www.zisterzienserlexikon.de/wiki/Boylan,_Eugene
-105125113||http://www.zisterzienserlexikon.de/wiki/Chautard,_Jean-Baptiste
-105362948||http://www.zisterzienserlexikon.de/wiki/Drijvers,_Pius
-105441937||http://www.zisterzienserlexikon.de/wiki/Elsen,_Christophorus
-105740829||http://www.zisterzienserlexikon.de/wiki/Griesser,_Bruno
-105804827||http://www.zisterzienserlexikon.de/wiki/Fiderer,_Eugen
-106341928||http://www.zisterzienserlexikon.de/wiki/Lekai,_Louis
-106341936||http://www.zisterzienserlexikon.de/wiki/Schneider,_Ambrosius
-106394517||http://www.zisterzienserlexikon.de/wiki/Pfennigbauer,_Friedrich
-106601539||http://www.zisterzienserlexikon.de/wiki/Nossek,_Meinrad
-107662892||http://www.zisterzienserlexikon.de/wiki/Stibitz,_Theobald
-109300750||http://www.zisterzienserlexikon.de/wiki/Louf,_André
-109325125||http://www.zisterzienserlexikon.de/wiki/Kleiner,_Sighard
-109676742||http://www.zisterzienserlexikon.de/wiki/Standaert,_Maur
-110562798||http://www.zisterzienserlexikon.de/wiki/Siwek,_Alberich
-111165334||http://www.zisterzienserlexikon.de/wiki/Lauterer,_Kassian
-111594596||http://www.zisterzienserlexikon.de/wiki/Vosicky,_Bernhard
-112838111||http://www.zisterzienserlexikon.de/wiki/Strommer,_Alberich
-116144521||http://www.zisterzienserlexikon.de/wiki/Bernhard,_Athanasius
-116201959||http://www.zisterzienserlexikon.de/wiki/Bliemetzrieder,_Placidus
-116248025||http://www.zisterzienserlexikon.de/wiki/P%C3%B6ck,_Gregor
-116771828||http://www.zisterzienserlexikon.de/wiki/Mariacher,_Stephan
-116838507||http://www.zisterzienserlexikon.de/wiki/Matschik,_Martin
-116853654||http://www.zisterzienserlexikon.de/wiki/Mauermann,_Franz_Laurenz
-116959037||http://www.zisterzienserlexikon.de/wiki/Van_der_Meulen,_Ephrem
-117077917||http://www.zisterzienserlexikon.de/wiki/Janauschek,_Leopold
-11711006X||http://www.zisterzienserlexikon.de/wiki/Oechsle,_Kaspar
-117364584||http://www.zisterzienserlexikon.de/wiki/Siegl,_Meinrad
-117536334||http://www.zisterzienserlexikon.de/wiki/Geramb,_Marie-Joseph
-117588385||http://www.zisterzienserlexikon.de/wiki/M%C3%BCller,_Gregor
-118509810||http://www.zisterzienserlexikon.de/wiki/Bernhard_von_Clairvaux
-118518283||http://www.zisterzienserlexikon.de/wiki/C%C3%A4sarius_von_Heisterbach
-118587382||http://www.zisterzienserlexikon.de/wiki/Neumann,_Wilhelm
-118590782||http://www.zisterzienserlexikon.de/wiki/Otto_von_Freising
-118593501||http://www.zisterzienserlexikon.de/wiki/Pfanner,_Franz
-118598244||http://www.zisterzienserlexikon.de/wiki/Ranc%C3%A9,_Armand-Jean
-118601474||http://www.zisterzienserlexikon.de/wiki/Robert_von_Molesme
-118633023||http://www.zisterzienserlexikon.de/wiki/Wilhelm_von_Saint-Thierry
-118643908||http://www.zisterzienserlexikon.de/wiki/Aelred_von_Rievaulx
-118700723||http://www.zisterzienserlexikon.de/wiki/Haid,_Kassian
-118701533||http://www.zisterzienserlexikon.de/wiki/Stephen_Harding
-11874304X||http://www.zisterzienserlexikon.de/wiki/Pyrker,_Johann_Ladislaus
-118771671||http://www.zisterzienserlexikon.de/wiki/Wiesinger,_Alois
-118811924||http://www.zisterzienserlexikon.de/wiki/Sagheddu,_Maria_Gabriella
-118821628||http://www.zisterzienserlexikon.de/wiki/Zwyssig,_Alberich
-11884170X||http://www.zisterzienserlexikon.de/wiki/Wiest,_Stephan
-118895494||http://www.zisterzienserlexikon.de/wiki/H%C3%A9linand_de_Froidmont
-118905090||http://www.zisterzienserlexikon.de/wiki/Nibling,_Johannes
-118922947||http://www.zisterzienserlexikon.de/wiki/Arn%C3%A1iz_Bar%C3%B3n,_Rafael
-119011336||http://www.zisterzienserlexikon.de/wiki/Guerric_von_Igny
-119169657||http://www.zisterzienserlexikon.de/wiki/Konrad_von_Urach
-119175215||http://www.zisterzienserlexikon.de/wiki/Reitwinkler,_Theobald
-11923453X||http://www.zisterzienserlexikon.de/wiki/Konrad_von_Ebrach
-119268531||http://www.zisterzienserlexikon.de/wiki/Balduin_von_Ford
-119298341||http://www.zisterzienserlexikon.de/wiki/Ughelli,_Ferdinando
-11941659X||http://www.zisterzienserlexikon.de/wiki/Gran,_Willem
-11943895X||http://www.zisterzienserlexikon.de/wiki/Kelty,_Matthew
-11945677X||http://www.zisterzienserlexikon.de/wiki/Dubois,_Marie-G%C3%A9rard
-119501414||http://www.zisterzienserlexikon.de/wiki/Eberhard_von_Rohrdorf
-119515474||http://www.zisterzienserlexikon.de/wiki/Mussbacher,_Norbert
-119524481||http://www.zisterzienserlexikon.de/wiki/Presse,_Alexis
-11954816X||http://www.zisterzienserlexikon.de/wiki/Becziczka,_Ambros
-120013231||http://www.zisterzienserlexikon.de/wiki/Bootz,_Robert
-12016289X||http://www.zisterzienserlexikon.de/wiki/Hausner,_Albert
-120500248||http://www.zisterzienserlexikon.de/wiki/Lestrange,_Augustin
-120888653||http://www.zisterzienserlexikon.de/wiki/Kuntschak,_Abund
-120972026||http://www.zisterzienserlexikon.de/wiki/Venusi,_Benedikt
-121126765||http://www.zisterzienserlexikon.de/wiki/R%C3%B6ls,_Roger
-121276287||http://www.zisterzienserlexikon.de/wiki/Tansi,_Cyprian_Michael
-12189004X||http://www.zisterzienserlexikon.de/wiki/Kervingant,_Marie
-122067479||http://www.zisterzienserlexikon.de/wiki/Harzer,_Eberhard
-122846389||http://www.zisterzienserlexikon.de/wiki/Schmid,_Eugen
-123915538||http://www.zisterzienserlexikon.de/wiki/Schl%C3%B6gl,_Nivard
-124247539||http://www.zisterzienserlexikon.de/wiki/Streicher,_Nivard
-124345166||http://www.zisterzienserlexikon.de/wiki/Spahr,_Kolumban
-124444466||http://www.zisterzienserlexikon.de/wiki/Waddell,_Chrysogonus
-124780288||http://www.zisterzienserlexikon.de/wiki/Desnoyers,_Jean-Baptiste
-124879632||http://www.zisterzienserlexikon.de/wiki/Jongelinus,_Gaspar
-125123523||http://www.zisterzienserlexikon.de/wiki/Denter,_Thomas
-126059365||http://www.zisterzienserlexikon.de/wiki/Eicheler,_Idesbald
-126272670||http://www.zisterzienserlexikon.de/wiki/Gaumannm%C3%BCller,_Franz
-126318891||http://www.zisterzienserlexikon.de/wiki/Kortschak,_Ernest
-126522898||http://www.zisterzienserlexikon.de/wiki/Krahl,_Bernhard
-126589445||http://www.zisterzienserlexikon.de/wiki/Mayer,_Heinrich
-126680981||http://www.zisterzienserlexikon.de/wiki/Kaindl,_Dominik
-126883661||http://www.zisterzienserlexikon.de/wiki/R%C3%B6ssler,_Stephan
-127492593||http://www.zisterzienserlexikon.de/wiki/Sch%C3%BCcker,_Walter
-12768784X||http://www.zisterzienserlexikon.de/wiki/B%C3%A9kefi,_Remig
-127869085||http://www.zisterzienserlexikon.de/wiki/Krahl,_Ignaz
-127877886||http://www.zisterzienserlexikon.de/wiki/Studeny,_Lambert
-127902988||http://www.zisterzienserlexikon.de/wiki/Pexa,_Aelred
-128080280||http://www.zisterzienserlexikon.de/wiki/Dimier,_Anselme
-128475862||http://www.zisterzienserlexikon.de/wiki/Boccone,_Paolo
-128816759||http://www.zisterzienserlexikon.de/wiki/Heim,_Maximilian
-128961880||http://www.zisterzienserlexikon.de/wiki/M%C3%BCller,_Franz_Xaver
-12897706X||http://www.zisterzienserlexikon.de/wiki/Lebreton,_Christophe
-129080616||http://www.zisterzienserlexikon.de/wiki/Nucius,_Johann
-129186945||http://www.zisterzienserlexikon.de/wiki/Ha%C3%9Flinger,_Ambrosius
-129236918||http://www.zisterzienserlexikon.de/wiki/Mayer,_Salesius
-129263702||http://www.zisterzienserlexikon.de/wiki/Scheffer,_Klemens
-129361259||http://www.zisterzienserlexikon.de/wiki/Braunstorfer,_Karl
-129681490||http://www.zisterzienserlexikon.de/wiki/Taufferer,_Franz_Xaver
-129929697||http://www.zisterzienserlexikon.de/wiki/Schenkl,_Assumpta
-129991708||http://www.zisterzienserlexikon.de/wiki/Lebersorg,_Wolfgang
-130095257||http://www.zisterzienserlexikon.de/wiki/Handle,_Augustin
-130095893||http://www.zisterzienserlexikon.de/wiki/Keplinger,_Ludwig
-130099864||http://www.zisterzienserlexikon.de/wiki/Hanthaler,_Chrysostomus
-130176354||http://www.zisterzienserlexikon.de/wiki/Visch,_Charles
-13033118X||http://www.zisterzienserlexikon.de/wiki/Kurz,_Hermann
-130839086||http://www.zisterzienserlexikon.de/wiki/Fromme,_Bruno
-13256999X||http://www.zisterzienserlexikon.de/wiki/Souchier,_J%C3%A9r%C3%B4me
-132868040||http://www.zisterzienserlexikon.de/wiki/Edelbauer,_Alfred
-133079139||http://www.zisterzienserlexikon.de/wiki/Watzl,_Florian
-13308373X||http://www.zisterzienserlexikon.de/wiki/Wuku,_Robert
-133241432||http://www.zisterzienserlexikon.de/wiki/Angelsbrugger,_C%C3%B6lestin
-133507157||http://www.zisterzienserlexikon.de/wiki/Einspeckh,_Achatius
-133765083||http://www.zisterzienserlexikon.de/wiki/Grad,_Theobald
-133819000||http://www.zisterzienserlexikon.de/wiki/Hettenkofer,_Athanasius
-133826252||http://www.zisterzienserlexikon.de/wiki/Dumont,_Charles
-135646995||http://www.zisterzienserlexikon.de/wiki/Adam_von_Ebrach
-136044638||http://www.zisterzienserlexikon.de/wiki/Madauer,_Bartholom%C3%A4us
-136149405||http://www.zisterzienserlexikon.de/wiki/Berthold_von_Urach
-136414559||http://www.zisterzienserlexikon.de/wiki/Hermann_von_Marienstatt
-136593402||http://www.zisterzienserlexikon.de/wiki/Kocik,_Eustachy
-13694129X||http://www.zisterzienserlexikon.de/wiki/Lepori,_Mauro-Giuseppe
-137111150||http://www.zisterzienserlexikon.de/wiki/Kalkum,_Maurus
-13732586X||http://www.zisterzienserlexikon.de/wiki/Heinrich_I._von_Heisterbach
-137447973||http://www.zisterzienserlexikon.de/wiki/Gertrud_von_Hackeborn
-137812426||http://www.zisterzienserlexikon.de/wiki/Deltsch,_Wigand
-138653895||http://www.zisterzienserlexikon.de/wiki/Henckel-Donnersmarck,_Gregor
-139172955||http://www.zisterzienserlexikon.de/wiki/Leeb,_Robert
-139788824||http://www.zisterzienserlexikon.de/wiki/Kurz,_Matth%C3%A4us
-140012249||http://www.zisterzienserlexikon.de/wiki/Doninger,_Emmerich
-142621196||http://www.zisterzienserlexikon.de/wiki/Farkasfalvy,_Denis
-142707759||http://www.zisterzienserlexikon.de/wiki/Limmer,_Malachias
-143477552||http://www.zisterzienserlexikon.de/wiki/Le_Bail,_Anselme
-14379406X||http://www.zisterzienserlexikon.de/wiki/Caesarius_von_Milendonk
-143929194||http://www.zisterzienserlexikon.de/wiki/Crophius,_Ludwig
-143978012||http://www.zisterzienserlexikon.de/wiki/David_von_Himmerod
-143987186||http://www.zisterzienserlexikon.de/wiki/Eisvogel,_Gregor
-151066639||http://www.zisterzienserlexikon.de/wiki/Cocheril,_Maur
-151466181||http://www.zisterzienserlexikon.de/wiki/Willi,_Dominikus
-15450906X||http://www.zisterzienserlexikon.de/wiki/Van_Hecke,_Lode
-154728209||http://www.zisterzienserlexikon.de/wiki/Noschitzka,_Canisius
-156156067||http://www.zisterzienserlexikon.de/wiki/Sailer,_Roger
-156765403||http://www.zisterzienserlexikon.de/wiki/Schlecht,_Robert
-173334466||http://www.zisterzienserlexikon.de/wiki/Mengelberg,_Augustinus
-173338577||http://www.zisterzienserlexikon.de/wiki/Kneusgen,_Hermann
-17333864X||http://www.zisterzienserlexikon.de/wiki/Kruchen,_Andreas
-174162561||http://www.zisterzienserlexikon.de/wiki/Dargnies,_Fran%C3%A7ois
-184449561||http://www.zisterzienserlexikon.de/wiki/Wocher,_Laurentius
-188391207||http://www.zisterzienserlexikon.de/wiki/Dessl,_Reinhold
-18881647X||http://www.zisterzienserlexikon.de/wiki/Amatori,_Alberico
-188916296||http://www.zisterzienserlexikon.de/wiki/Cesari,_Teobaldo
-101138518X||http://www.zisterzienserlexikon.de/wiki/Grasb%C3%B6ck,_Theobald
-101139782X||http://www.zisterzienserlexikon.de/wiki/Gr%C3%BCnbeck,_Heinrich
-1011620561||http://www.zisterzienserlexikon.de/wiki/Haslroither,_Gerhard
-1011830051||http://www.zisterzienserlexikon.de/wiki/Barri%C3%A8re,_Jean
-1012266923||http://www.zisterzienserlexikon.de/wiki/G%C3%B6ldlin,_Nikolaus
-101226792X||http://www.zisterzienserlexikon.de/wiki/Groner,_Heinrich
-1012291480||http://www.zisterzienserlexikon.de/wiki/Notz,_Eugen
-101240367X||http://www.zisterzienserlexikon.de/wiki/Walter,_Leodegar
-1014987563||http://www.zisterzienserlexikon.de/wiki/Kronpa%C3%9F,_Immolata
-1015428673||http://www.zisterzienserlexikon.de/wiki/Van_Doninck,_Benedictus
-101575337X||http://www.zisterzienserlexikon.de/wiki/Heidmann,_Alberich
-1017150230||http://www.zisterzienserlexikon.de/wiki/M%C3%BCller,_Eugen
-1017834229||http://www.zisterzienserlexikon.de/wiki/Kr%C3%BCgner,_Salesius
-1019308583||http://www.zisterzienserlexikon.de/wiki/Johannes_von_Fridingen
-1019359935||http://www.zisterzienserlexikon.de/wiki/Lichtblau,_Stephan
-1019375604||http://www.zisterzienserlexikon.de/wiki/R%C3%B6ssler,_Stephan
-1020637439||http://www.zisterzienserlexikon.de/wiki/Schrattenbach,_Bernhard
-1023119692||http://www.zisterzienserlexikon.de/wiki/Millauer,_Maximilian
-1024094405||http://www.zisterzienserlexikon.de/wiki/Nagl,_Erasmus
-1025021649||http://www.zisterzienserlexikon.de/wiki/Panschab,_Justin
-1025606043||http://www.zisterzienserlexikon.de/wiki/Pavel,_Raphael
-1025653254||http://www.zisterzienserlexikon.de/wiki/Bouchu,_Pierre
-1025836715||http://www.zisterzienserlexikon.de/wiki/Larcher,_Nicolas
-102622909X||http://www.zisterzienserlexikon.de/wiki/Veilleux,_Armand
-1027644236||http://www.zisterzienserlexikon.de/wiki/Reimann,_Martin
-1029569428||http://www.zisterzienserlexikon.de/wiki/Bottino,_Girolamo
-1030492891||http://www.zisterzienserlexikon.de/wiki/Konrad_von_Krosigk
-1030555303||http://www.zisterzienserlexikon.de/wiki/Schmidt,_Leopold
-1030563780||http://www.zisterzienserlexikon.de/wiki/Schmidt,_Valentin
-103169580X||http://www.zisterzienserlexikon.de/wiki/Schober,_Johann
-1032422920||http://www.zisterzienserlexikon.de/wiki/Schopper,_Valentin
-1034016709||http://www.zisterzienserlexikon.de/wiki/Szeghy,_Ern%C5%91
-1036144399||http://www.zisterzienserlexikon.de/wiki/Steiger,_Benedikt
-1036229092||http://www.zisterzienserlexikon.de/wiki/Rabensteiner,_Alberich
-1036431398||http://www.zisterzienserlexikon.de/wiki/Steininger,_Augustin
-1036810151||http://www.zisterzienserlexikon.de/wiki/St%C3%B6ckl,_Sebastian
-1036810542||http://www.zisterzienserlexikon.de/wiki/St%C3%B6ckli,_Augustin
-1041656467||http://www.zisterzienserlexikon.de/wiki/Esteva,_Maur
-1042303665||http://www.zisterzienserlexikon.de/wiki/Zakar,_Polik%C3%A1rp
-1046824805||http://www.zisterzienserlexikon.de/wiki/Southey,_Ambrose
-1047314959||http://www.zisterzienserlexikon.de/wiki/Steigenberger,_Petrus
-104942090X||http://www.zisterzienserlexikon.de/wiki/Bylansky,_Gottfried
-1051152356||http://www.zisterzienserlexikon.de/wiki/Bergh,_Alberich
-1051152410||http://www.zisterzienserlexikon.de/wiki/Emons,_Petrus
-1051177782||http://www.zisterzienserlexikon.de/wiki/Camp,_Leopold
-105117984X||http://www.zisterzienserlexikon.de/wiki/Pesgen,_Ferdinand
-1051179866||http://www.zisterzienserlexikon.de/wiki/Pfl%C3%BCger,_Johann_Kaspar
-1051200768||http://www.zisterzienserlexikon.de/wiki/Simonis,_Gregor
-1051212154||http://www.zisterzienserlexikon.de/wiki/Pidoll,_Anselm
-1051212219||http://www.zisterzienserlexikon.de/wiki/Plein,_Anastasius
-1051212413||http://www.zisterzienserlexikon.de/wiki/Recke,_Vitus
-1051959276||http://www.zisterzienserlexikon.de/wiki/Endr%C3%A9dy,_Vendel
-1056133287||http://www.zisterzienserlexikon.de/wiki/Boucherat,_Nicolas_I
-1057936731||http://www.zisterzienserlexikon.de/wiki/Gamerith,_Berthold
-1057936936||http://www.zisterzienserlexikon.de/wiki/H%C3%B6rweg,_Julius
-1060421186||http://www.zisterzienserlexikon.de/wiki/Hantschke,_Procopius
-1060497956||http://www.zisterzienserlexikon.de/wiki/Strunk,_Franciscus
+<!DOCTYPE html>
+<html dir="ltr" lang="de-DE">
+<head>
+
+<meta charset="utf-8">
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2024 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+
+
+<link rel="icon" href="/typo3conf/ext/blbweb/Resources/Public/Images/favicon/favicon.ico" type="image/vnd.microsoft.icon">
+<title>BLB: Neue Recherche</title>
+<meta name="generator" content="TYPO3 CMS" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=1" />
+<meta property="og:image" content="https://www.blb-karlsruhe.de/typo3conf/ext/blbweb/Resources/Public/Images/favicon/mstile-310x310.png" />
+
+
+<link rel="stylesheet" href="/typo3conf/ext/blbweb/node_modules/swiper/swiper-bundle.min.css?499162500" media="all">
+<link rel="stylesheet" href="/typo3conf/ext/femanager/Resources/Public/Css/Main.min.css?1674128314" media="all">
+<link rel="stylesheet" href="/typo3conf/ext/blbweb/Resources/Public/app.css?1707910355" media="all">
+
+
+
+<script src="/typo3conf/ext/blbweb/node_modules/jquery/dist/jquery.min.js?499162500"></script>
+<script src="/typo3conf/ext/blbweb/Resources/Public/vendor.js?1707910355"></script>
+
+
+<link rel="shortcut icon" type="image/x-icon" href="/typo3conf/ext/blbweb/Resources/Public/Images/favicon/favicon.ico">
+            <link rel="apple-touch-icon-precomposed" sizes="57x57" href="/typo3conf/ext/blbweb/Resources/Public/Images/favicon/apple-touch-icon-57x57.png">
+            <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/typo3conf/ext/blbweb/Resources/Public/Images/favicon/apple-touch-icon-114x114.png">
+            <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/typo3conf/ext/blbweb/Resources/Public/Images/favicon/apple-touch-icon-72x72.png">
+            <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/typo3conf/ext/blbweb/Resources/Public/Images/favicon/apple-touch-icon-144x144.png">
+            <link rel="apple-touch-icon-precomposed" sizes="60x60" href="/typo3conf/ext/blbweb/Resources/Public/Images/favicon/apple-touch-icon-60x60.png">
+            <link rel="apple-touch-icon-precomposed" sizes="120x120" href="/typo3conf/ext/blbweb/Resources/Public/Images/favicon/apple-touch-icon-120x120.png">
+            <link rel="apple-touch-icon-precomposed" sizes="76x76" href="/typo3conf/ext/blbweb/Resources/Public/Images/favicon/apple-touch-icon-76x76.png">
+            <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/typo3conf/ext/blbweb/Resources/Public/Images/favicon/apple-touch-icon-152x152.png">
+            <link rel="icon" type="image/png" href="/typo3conf/ext/blbweb/Resources/Public/Images/favicon/favicon-196x196.png" sizes="196x196">
+            <link rel="icon" type="image/png" href="/typo3conf/ext/blbweb/Resources/Public/Images/favicon/favicon-96x96.png" sizes="96x96">
+            <link rel="icon" type="image/png" href="/typo3conf/ext/blbweb/Resources/Public/Images/favicon/favicon-32x32.png" sizes="32x32">
+            <link rel="icon" type="image/png" href="/typo3conf/ext/blbweb/Resources/Public/Images/favicon/favicon-16x16.png" sizes="16x16">
+            <link rel="icon" type="image/png" href="/typo3conf/ext/blbweb/Resources/Public/Images/favicon/favicon-128.png" sizes="128x128">
+            <meta name="application-name" content="BLB Karlsruhe">
+            <meta name="msapplication-TileColor" content="#FFFFFF">
+            <meta name="msapplication-TileImage" content="/typo3conf/ext/blbweb/Resources/Public/Images/favicon/mstile-144x144.png">
+            <meta name="msapplication-square70x70logo" content="/typo3conf/ext/blbweb/Resources/Public/Images/favicon/mstile-70x70.png">
+            <meta name="msapplication-square150x150logo" content="/typo3conf/ext/blbweb/Resources/Public/Images/favicon/mstile-150x150.png">
+            <meta name="msapplication-wide310x150logo" content="/typo3conf/ext/blbweb/Resources/Public/Images/favicon/mstile-310x150.png">
+            <meta name="msapplication-square310x310logo" content="/typo3conf/ext/blbweb/Resources/Public/Images/favicon/mstile-310x310.png">
+            <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0"><link rel="profile" href="http://a9.com/-/spec/opensearch/1.1/" />
+			<link rel="search"
+				  type="application/opensearchdescription+xml"
+				  href="https://www.blb-karlsruhe.de/?type=7567"
+				  title="Website Search"
+			/>
+</head>
+<body>
+<div class="blb-container">
+    <div class="blb-container-wrapper">
+      
+<nav id="Header_Container_Navbar" class="blb-nav no-print">
+    <div class="blb-nav-logo">
+        <div class="blb-logo ">
+    
+    <a href="https://www.blb-karlsruhe.de/" target="_top">
+        <div class="blb-logo-object" style="background-image:url('/files/user_upload/Logo/blb.svg')"></div>
+    </a>
+    
+</div>
+    </div>
+    <div class="blb-nav-toggle">
+        <div class="blb-nav-toggle-container">
+            <button class="blb-nav-toggle-btn" id="blb-nav-toggle-btn"></button>
+        </div>
+        
+
+        <div class="blb-nav-social-icon-wrapper-mobile">
+            <div class="blb-nav-social-icon" id="wa">
+                <a href="https://www.blb-karlsruhe.de/whats-app" title="WhatsApp" target="_blank" data-tooltip="false" rel="noreferrer">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180">
+                        <path d="M0 0h180v180H0z" style="stroke-width:0"/>
+                        <path d="M132.52 47.23c-11.28-11.29-26.28-17.52-42.26-17.52-32.93 0-59.74 26.8-59.75 59.74 0 10.53 2.75 20.81 7.98 29.87l-8.48 30.96 31.67-8.31a59.654 59.654 0 0 0 28.55 7.27h.03c32.93 0 59.74-26.8 59.75-59.75 0-15.97-6.2-30.98-17.48-42.27Zm-42.26 91.93h-.02c-8.91 0-17.65-2.4-25.28-6.92l-1.81-1.08-18.8 4.93 5.02-18.33-1.18-1.88a49.517 49.517 0 0 1-7.59-26.43c.01-27.38 22.29-49.66 49.68-49.66 13.26 0 25.73 5.18 35.11 14.57 9.38 9.39 14.54 21.87 14.53 35.13-.01 27.38-22.29 49.66-49.66 49.66Zm27.24-37.19c-1.49-.75-8.83-4.36-10.2-4.86-1.37-.5-2.36-.75-3.36.75-.99 1.5-3.86 4.86-4.73 5.85-.87 1-1.74 1.12-3.23.37-1.49-.75-6.3-2.32-12.01-7.41-4.44-3.96-7.43-8.85-8.31-10.34-.87-1.5-.09-2.3.65-3.05.67-.67 1.49-1.74 2.24-2.62.75-.87.99-1.5 1.49-2.49.5-1 .25-1.87-.12-2.62s-3.36-8.1-4.6-11.08c-1.21-2.91-2.44-2.52-3.36-2.56-.87-.04-1.87-.05-2.86-.05s-2.61.37-3.98 1.87-5.23 5.11-5.23 12.45 5.35 14.45 6.1 15.45 10.53 16.08 25.5 22.54c3.56 1.54 6.34 2.46 8.51 3.15 3.58 1.14 6.83.98 9.4.59 2.87-.43 8.83-3.61 10.08-7.1 1.24-3.49 1.24-6.48.87-7.1s-1.37-1-2.86-1.74Z" style="stroke-width:0;fill-rule:evenodd"/>
+                    </svg>
+                </a>
+            </div>
+            <div class="blb-nav-social-icon" id="yt">
+                <a href="https://www.youtube.com/@badischelandesbibliothek" title="YouTube" target="_blank" data-tooltip="false" rel="noreferrer">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180">
+                        <path d="M0 0h180v180H0z" style="stroke-width:0"/>
+                        <path d="M147.49 61.12a15.041 15.041 0 0 0-10.61-10.61C127.52 48 90 48 90 48s-37.53 0-46.88 2.51a15.041 15.041 0 0 0-10.61 10.61C30 70.48 30 90 30 90s0 19.53 2.51 28.88c1.38 5.16 5.45 9.23 10.61 10.61C52.48 132 90 132 90 132s37.53 0 46.88-2.51c5.16-1.38 9.23-5.45 10.61-10.61C150 109.52 150 90 150 90s0-19.53-2.51-28.88ZM78 108V72l31.18 18L78 108Z" style="stroke-width:0"/>
+                    </svg>
+                </a>
+            </div>
+            <div class="blb-nav-social-icon" id="x">
+                <a href="https://twitter.com/BLB_Karlsruhe" title="Twitter/X" target="_blank" data-tooltip="false" rel="noreferrer">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180">
+                        <path d="M0 0h180v180H0z" style="stroke-width:0"/>
+                        <path d="M101.17 80.81 144.88 30h-10.36L96.56 74.12 66.25 30H31.29l45.84 66.72L31.29 150h10.36l40.08-46.59L113.74 150h34.96l-47.54-69.19ZM86.98 97.3l-4.64-6.64L45.38 37.8h15.91l29.82 42.66 4.64 6.64 38.77 55.45h-15.91L86.97 97.3Z" style="stroke-width:0"/>
+                    </svg>
+                </a>
+            </div>
+            <div class="blb-nav-social-icon" id="ig">
+                <a href="https://www.instagram.com/badischelandesbibliothek/" title="Instagram" target="_blank" data-tooltip="false" rel="noreferrer">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180">
+                        <path d="M0 0h180v180H0z" style="stroke-width:0"/>
+                        <path d="M65.15 30.42c-6.38.3-10.74 1.32-14.55 2.82-3.94 1.54-7.29 3.6-10.61 6.94-3.33 3.34-5.38 6.69-6.9 10.64-1.48 3.82-2.48 8.18-2.76 14.57-.28 6.4-.34 8.44-.31 24.73.03 16.29.1 18.34.41 24.74.31 6.38 1.32 10.74 2.82 14.55 1.54 3.94 3.6 7.29 6.94 10.61 3.34 3.33 6.69 5.37 10.64 6.9 3.82 1.48 8.18 2.48 14.57 2.76 6.4.28 8.44.34 24.73.31 16.3-.03 18.34-.1 24.74-.41 6.38-.31 10.74-1.33 14.55-2.82 3.94-1.54 7.29-3.6 10.61-6.94 3.33-3.34 5.37-6.69 6.9-10.64 1.48-3.82 2.48-8.18 2.76-14.56.28-6.4.35-8.45.31-24.74-.03-16.29-.1-18.33-.41-24.73-.3-6.39-1.33-10.74-2.82-14.56-1.54-3.94-3.6-7.28-6.94-10.61-3.34-3.33-6.69-5.38-10.64-6.9-3.82-1.48-8.18-2.48-14.57-2.76-6.4-.28-8.44-.35-24.74-.31-16.29.03-18.33.1-24.73.41m.7 108.47c-5.85-.25-9.03-1.23-11.14-2.04-2.8-1.08-4.8-2.39-6.91-4.48-2.1-2.1-3.41-4.09-4.5-6.89-.82-2.12-1.81-5.29-2.09-11.14-.3-6.32-.37-8.22-.39-24.24-.03-16.02.03-17.91.3-24.24.25-5.85 1.23-9.03 2.04-11.14 1.08-2.81 2.38-4.8 4.48-6.91 2.1-2.11 4.09-3.41 6.89-4.5 2.12-.83 5.29-1.81 11.14-2.09 6.33-.3 8.22-.36 24.24-.39 16.02-.03 17.92.03 24.25.3 5.85.25 9.03 1.22 11.14 2.04 2.81 1.08 4.81 2.38 6.91 4.48 2.1 2.1 3.41 4.09 4.5 6.89.83 2.11 1.81 5.29 2.08 11.13.3 6.33.37 8.23.4 24.24.03 16.02-.03 17.92-.31 24.24-.25 5.85-1.22 9.03-2.04 11.15-1.08 2.8-2.38 4.8-4.48 6.91-2.1 2.1-4.09 3.41-6.89 4.5-2.11.82-5.29 1.81-11.13 2.09-6.33.3-8.22.37-24.25.39-16.02.03-17.91-.03-24.24-.3m48.91-80.95c0 3.97 3.24 7.19 7.21 7.18 3.98 0 7.19-3.24 7.19-7.21 0-3.97-3.24-7.19-7.21-7.19-3.98 0-7.19 3.24-7.19 7.21M59.19 90.06c.03 17.02 13.85 30.78 30.86 30.75 17.01-.03 30.79-13.85 30.75-30.87-.03-17.01-13.85-30.78-30.87-30.75-17.01.03-30.78 13.86-30.75 30.87m10.81-.02C69.97 79 78.91 70.02 89.95 70c11.04-.02 20.02 8.91 20.04 19.96.02 11.05-8.92 20.02-19.96 20.04-11.04.02-20.02-8.92-20.04-19.96"/>
+                    </svg>
+                </a>
+            </div>
+            <div class="blb-nav-social-icon" id="fb">
+                <a href="https://www.facebook.com/BadischeLandesbibliothek/" title="Facebook" target="_blank" data-tooltip="false" rel="noreferrer">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180">
+                        <path d="M0 0h180v180H0z" style="stroke-width:0"/>
+                        <path d="M150.09 90.48c0-33.14-26.86-60-60-60s-60 26.86-60 60c0 28.14 19.37 51.75 45.51 58.23v-39.9H63.23V90.47H75.6v-7.9c0-20.42 9.24-29.89 29.29-29.89 3.8 0 10.36.75 13.04 1.49v16.62c-1.42-.15-3.88-.22-6.93-.22-9.84 0-13.64 3.73-13.64 13.42v6.48h19.6l-3.37 18.34H97.36v41.23c29.71-3.59 52.73-28.88 52.73-59.56Z" style="stroke-width:0"/>
+                    </svg>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="blb-nav-wrapper hidden">
+        
+                <div class="blb-nav-breadcrumbs">
+                    <ul class="blb-breadcrumbs"><li><a >Startseite</a></li><li><a href="/recherche">Recherche</a></li><li><a href="/recherche/baden-wuerttemberg">Baden-Württemberg</a></li><li><a href="/recherche/baden-wuerttemberg/landesbibliographie-baden-wuerttemberg">Landesbibliographie Baden-Württemberg</a></li><li>Neue Recherche</li></ul>
+                </div>
+            
+
+        <div class="blb-nav-menu menu-icons">
+            <ul class="menu-item-list header-menu">
+                <li class="menu-item menu-item-search">
+                    <a href="/suchergebnisse" class="menu-item-link">
+                        Suchen
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <div class="blb-nav-menu menu-one">
+            
+    
+        
+
+        <ul class="menu-item-list header-menu">
+            
+                <li class="menu-item has-sub-menu ">
+                    <a href="/die-blb" class="menu-item-link">
+                        <span>Die BLB</span>
+                    </a>
+
+                    
+                        <ul id="nav_sub_p81" class="menu-item-list header-menu">
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/die-blb/portraet" class="menu-item-link">
+                <span>Porträt</span>
+            </a>
+
+            
+                <ul id="nav_sub_p82" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="https://www.blb-karlsruhe.de/files/user_upload/PDF/1_Die_%20BLB/Statistik_der_BLB_fuer_2022.pdf" target="_blank" class="menu-item-link">
+                <span>Statistik (PDF)</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/die-blb/portraet/regionale-aufgaben" class="menu-item-link">
+                <span>Regionale Aufgaben</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/die-blb/portraet/kulturelle-aufgaben" class="menu-item-link">
+                <span>Kulturelle Aufgaben</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/die-blb/portraet/pflichtexemplarbibliothek" class="menu-item-link">
+                <span>Pflichtexemplarbibliothek</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/die-blb/portraet/bankverbindung-und-umsatzsteuer-identifikationsnummer" class="menu-item-link">
+                <span>Bankverbindung und Umsatzsteuer-Identifikationsnummer</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/die-blb/portraet/anfahrt" class="menu-item-link">
+                <span>Anfahrt</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/die-blb/ansprechpartner" class="menu-item-link">
+                <span>Ansprechpartner</span>
+            </a>
+
+            
+                <ul id="nav_sub_p107" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/die-blb/ansprechpartner/organigramm" class="menu-item-link">
+                <span>Organigramm</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/die-blb/ansprechpartner/fachreferate" class="menu-item-link">
+                <span>Fachreferate</span>
+            </a>
+
+            
+                <ul id="nav_sub_p108" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/die-blb/ansprechpartner/fachreferate/nach-faechern" class="menu-item-link">
+                <span>Nach Fächern</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/die-blb/ansprechpartner/fachreferate/nach-personen" class="menu-item-link">
+                <span>Nach Personen</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/die-blb/geschichte" class="menu-item-link">
+                <span>Geschichte</span>
+            </a>
+
+            
+                <ul id="nav_sub_p117" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/die-blb/geschichte/chronik-1500-1770" class="menu-item-link">
+                <span>Chronik 1500–1770</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/die-blb/geschichte/von-der-saekularisation-1803-bis-1930" class="menu-item-link">
+                <span>Von der Säkularisation 1803 bis 1930</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/die-blb/geschichte/leiter-der-blb-seit-1769" class="menu-item-link">
+                <span>Leiter der BLB seit 1769</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/die-blb/geschichte/die-zerstoerung-der-bibliothek-1942" class="menu-item-link">
+                <span>Die Zerstörung der Bibliothek 1942</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/die-blb/geschichte/historischer-katalog-1872-1942" class="menu-item-link">
+                <span>Historischer Katalog 1872-1942</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/die-blb/geschichte/ns-raubgut" class="menu-item-link">
+                <span>NS-Raubgut</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/die-blb/geschichte/der-handschriftenstreit-2006-2009" class="menu-item-link">
+                <span>Der Handschriftenstreit 2006-2009</span>
+            </a>
+
+            
+                <ul id="nav_sub_p121" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/die-blb/geschichte/der-handschriftenstreit-2006-2009/archiv-der-landtagsdokumente" class="menu-item-link">
+                <span>Archiv der Landtagsdokumente</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/die-blb/geschichte/der-handschriftenstreit-2006-2009/archiv-der-presseberichte" class="menu-item-link">
+                <span>Archiv der Presseberichte</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/die-blb/gebaeude" class="menu-item-link">
+                <span>Gebäude</span>
+            </a>
+
+            
+                <ul id="nav_sub_p125" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/die-blb/gebaeude/geschichte" class="menu-item-link">
+                <span>Geschichte</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/die-blb/gebaeude/architekt" class="menu-item-link">
+                <span>Architekt</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/die-blb/gebaeude/kunst-am-bau" class="menu-item-link">
+                <span>Kunst am Bau</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/die-blb/gebaeude/skulpturengarten" class="menu-item-link">
+                <span>Skulpturengarten</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/die-blb/gebaeude/gebaeudesanierung" class="menu-item-link">
+                <span>Gebäudesanierung</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/die-blb/publikationen" class="menu-item-link">
+                <span>Publikationen</span>
+            </a>
+
+            
+                <ul id="nav_sub_p88" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/die-blb/publikationen/veroeffentlichungen-ueber-die-badische-landesbibliothek" class="menu-item-link">
+                <span>Veröffentlichungen über die Badische Landesbibliothek</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/die-blb/publikationen/veroeffentlichungen-zu-ausstellungen-der-badischen-landesbibliothek" class="menu-item-link">
+                <span>Veröffentlichungen zu Ausstellungen der Badischen Landesbibliothek</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/die-blb/publikationen/veroeffentlichungen-zu-den-historischen-bestaenden-der-badischen-landesbibliothek" class="menu-item-link">
+                <span>Veröffentlichungen zu den historischen Beständen der Badischen Landesbibliothek</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/die-blb/ausbildung" class="menu-item-link">
+                <span>Ausbildung</span>
+            </a>
+
+            
+                <ul id="nav_sub_p134" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/die-blb/ausbildung/fachangestellte-fuer-medien-und-informationsdienste" class="menu-item-link">
+                <span>Fachangestellte für Medien- und Informationsdienste</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/die-blb/ausbildung/wissenschaftliche-bibliothekare" class="menu-item-link">
+                <span>Wissenschaftliche Bibliothekare</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/die-blb/ausbildung/bibliothekarische-fachpraktika" class="menu-item-link">
+                <span>Bibliothekarische Fachpraktika</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/die-blb/ausbildung/verwaltungsfachpraktika" class="menu-item-link">
+                <span>Verwaltungsfachpraktika</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/die-blb/ausbildung/informationspraktika-fuer-studierende" class="menu-item-link">
+                <span>Informationspraktika für Studierende</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/die-blb/ausbildung/praktika-fuer-schueler" class="menu-item-link">
+                <span>Praktika für Schüler</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/die-blb/spenden-schenken-foerdern" class="menu-item-link">
+                <span>Spenden, Schenken, Fördern</span>
+            </a>
+
+            
+                <ul id="nav_sub_p141" class="menu-item-list header-menu">
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/die-blb/spenden-schenken-foerdern/badische-bibliotheksgesellschaft" class="menu-item-link">
+                <span>Badische Bibliotheksgesellschaft</span>
+            </a>
+
+            
+                <ul id="nav_sub_p763" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/die-blb/spenden-schenken-foerdern/badische-bibliotheksgesellschaft/mitglied-werden" class="menu-item-link">
+                <span>Mitglied werden</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/die-blb/spenden-schenken-foerdern/badische-bibliotheksgesellschaft/projekte" class="menu-item-link">
+                <span>Projekte</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/die-blb/spenden-schenken-foerdern/badische-bibliotheksgesellschaft/satzung" class="menu-item-link">
+                <span>Satzung</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/die-blb/spenden-schenken-foerdern/buchgeschenke-und-nachlaesse" class="menu-item-link">
+                <span>Buchgeschenke und Nachlässe</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/die-blb/spenden-schenken-foerdern/geldspenden" class="menu-item-link">
+                <span>Geldspenden</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/die-blb/rechtsgrundlagen" class="menu-item-link">
+                <span>Rechtsgrundlagen</span>
+            </a>
+
+            
+                <ul id="nav_sub_p148" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/die-blb/rechtsgrundlagen/benutzungsordnung" class="menu-item-link">
+                <span>Benutzungsordnung</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/die-blb/rechtsgrundlagen/bibliotheksgebuehrenverordnung" class="menu-item-link">
+                <span>Bibliotheksgebührenverordnung</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/die-blb/rechtsgrundlagen/pflichtexemplargesetz" class="menu-item-link">
+                <span>Pflichtexemplargesetz</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/die-blb/rechtsgrundlagen/pflichtexemplarverordnung" class="menu-item-link">
+                <span>Pflichtexemplarverordnung</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/die-blb/rechtsgrundlagen/amtsdruckschriftenverordnung" class="menu-item-link">
+                <span>Amtsdruckschriftenverordnung</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/die-blb/rechtsgrundlagen/leihverkehrsordnung" class="menu-item-link">
+                <span>Leihverkehrsordnung</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/die-blb/rechtsgrundlagen/landesgebuehrengesetz" class="menu-item-link">
+                <span>Landesgebührengesetz</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/die-blb/rechtsgrundlagen/entgelte-fuer-reproduktionsdienstleistungen" class="menu-item-link">
+                <span>Entgelte für Reproduktionsdienstleistungen</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+</ul>
+                    
+                </li>
+            
+                <li class="menu-item has-sub-menu current active">
+                    <a href="/recherche" class="menu-item-link">
+                        <span>Recherche</span>
+                    </a>
+
+                    
+                        <ul id="nav_sub_p157" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="https://rds-blb.ibs-bw.de/opac/" target="_blank" class="menu-item-link" rel="noreferrer">
+                <span>Katalog plus</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/service/medien/elektronische-medien/datenbanken" class="menu-item-link">
+                <span>Datenbanken</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/recherche/zeitschriften-und-zeitungen" class="menu-item-link">
+                <span>Zeitschriften und Zeitungen</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu active">
+            <a href="/recherche/baden-wuerttemberg" class="menu-item-link">
+                <span>Baden-Württemberg</span>
+            </a>
+
+            
+                <ul id="nav_sub_p190" class="menu-item-list header-menu">
+    
+        <li class="menu-item has-sub-menu active">
+            <a href="/recherche/baden-wuerttemberg/landesbibliographie-baden-wuerttemberg" class="menu-item-link">
+                <span>Landesbibliographie Baden-Württemberg</span>
+            </a>
+
+            
+                <ul id="nav_sub_p196" class="menu-item-list header-menu">
+    
+        <li class="menu-item  active">
+            <a href="/recherche/baden-wuerttemberg/landesbibliographie-baden-wuerttemberg/neue-recherche" class="menu-item-link">
+                <span>Neue Recherche</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/recherche/baden-wuerttemberg/personendatenbank-der-landesbibliographie" class="menu-item-link">
+                <span>Personendatenbank der Landesbibliographie</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/recherche/baden-wuerttemberg/regionaliaopen" class="menu-item-link">
+                <span>RegionaliaOpen</span>
+            </a>
+
+            
+                <ul id="nav_sub_p1555" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/recherche/baden-wuerttemberg/regionaliaopen/zeitschriften" class="menu-item-link">
+                <span>Zeitschriften</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/recherche/baden-wuerttemberg/leo-bw" class="menu-item-link">
+                <span>LEO-BW</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/recherche/baden-wuerttemberg/baden-wuerttembergisches-online-archiv" class="menu-item-link">
+                <span>Baden-Württembergisches Online-Archiv</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/recherche/baden-wuerttemberg/digitalisierte-bestaende-der-blb" class="menu-item-link">
+                <span>Digitalisierte Bestände der BLB</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/recherche/baden-wuerttemberg/weitere-fachinformationen" class="menu-item-link">
+                <span>Weitere Fachinformationen</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/recherche/fachinformationen" class="menu-item-link">
+                <span>Fachinformationen</span>
+            </a>
+
+            
+                <ul id="nav_sub_p158" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/recherche/fachinformationen/allgemeines" class="menu-item-link">
+                <span>Allgemeines</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/recherche/fachinformationen/geographie" class="menu-item-link">
+                <span>Geographie</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/recherche/fachinformationen/germanistik" class="menu-item-link">
+                <span>Germanistik</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/recherche/fachinformationen/geschichte" class="menu-item-link">
+                <span>Geschichte</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/recherche/fachinformationen/kunst-und-architektur" class="menu-item-link">
+                <span>Kunst und Architektur</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/recherche/fachinformationen/mathematik-und-informatik" class="menu-item-link">
+                <span>Mathematik und Informatik</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/recherche/fachinformationen/medien-und-kommunikation" class="menu-item-link">
+                <span>Medien und Kommunikation</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/recherche/fachinformationen/medizin" class="menu-item-link">
+                <span>Medizin</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/recherche/fachinformationen/moderne-sprachen" class="menu-item-link">
+                <span>Moderne Sprachen</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/recherche/fachinformationen/musik-und-theater" class="menu-item-link">
+                <span>Musik und Theater</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/recherche/fachinformationen/naturwissenschaften" class="menu-item-link">
+                <span>Naturwissenschaften</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/recherche/fachinformationen/psychologie-und-paedagogik" class="menu-item-link">
+                <span>Psychologie und Pädagogik</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/recherche/fachinformationen/philosophie" class="menu-item-link">
+                <span>Philosophie</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/recherche/fachinformationen/rechtswissenschaft" class="menu-item-link">
+                <span>Rechtswissenschaft</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/recherche/fachinformationen/soziologie-und-politik" class="menu-item-link">
+                <span>Soziologie und Politik</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/recherche/fachinformationen/technik" class="menu-item-link">
+                <span>Technik</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/recherche/fachinformationen/theologie" class="menu-item-link">
+                <span>Theologie</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/recherche/fachinformationen/wirtschaft" class="menu-item-link">
+                <span>Wirtschaft</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/recherche/spezialbestaende" class="menu-item-link">
+                <span>Spezialbestände</span>
+            </a>
+
+            
+                <ul id="nav_sub_p174" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/recherche/spezialbestaende/handschriften" class="menu-item-link">
+                <span>Handschriften</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/recherche/spezialbestaende/inkunabeln" class="menu-item-link">
+                <span>Inkunabeln</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/recherche/spezialbestaende/alte-drucke-und-rara" class="menu-item-link">
+                <span>Alte Drucke und Rara</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/recherche/spezialbestaende/autographen-und-nachlaesse" class="menu-item-link">
+                <span>Autographen und Nachlässe</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/recherche/spezialbestaende/musikalien" class="menu-item-link">
+                <span>Musikalien</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/recherche/spezialbestaende/historische-karten" class="menu-item-link">
+                <span>Historische Karten</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/recherche/digitalisierte-bestaende-der-blb" class="menu-item-link">
+                <span>Digitalisierte Bestände der BLB</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/recherche/in-karlsruhe-und-weltweit" class="menu-item-link">
+                <span>In Karlsruhe und weltweit</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+                    
+                </li>
+            
+                <li class="menu-item has-sub-menu ">
+                    <a href="/service" class="menu-item-link">
+                        <span>Service</span>
+                    </a>
+
+                    
+                        <ul id="nav_sub_p518" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/service/anmeldung" class="menu-item-link">
+                <span>Anmeldung</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/service/mein-konto" class="menu-item-link">
+                <span>Mein Konto</span>
+            </a>
+
+            
+                <ul id="nav_sub_p568" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/service/mein-konto/kontouebersicht" class="menu-item-link">
+                <span>Kontoübersicht</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/service/mein-konto/verlaengerung" class="menu-item-link">
+                <span>Verlängerung</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/service/mein-konto/vormerkung" class="menu-item-link">
+                <span>Vormerkung</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/service/mein-konto/fernleihe" class="menu-item-link">
+                <span>Fernleihe</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/service/mein-konto/gebuehren" class="menu-item-link">
+                <span>Gebühren</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/service/mein-konto/e-mail-verwaltung" class="menu-item-link">
+                <span>E-Mail-Verwaltung</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/service/mein-konto/passwort" class="menu-item-link">
+                <span>Passwort</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/service/medien" class="menu-item-link">
+                <span>Medien</span>
+            </a>
+
+            
+                <ul id="nav_sub_p556" class="menu-item-list header-menu">
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/service/medien/elektronische-medien" class="menu-item-link">
+                <span>Elektronische Medien</span>
+            </a>
+
+            
+                <ul id="nav_sub_p564" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/service/medien/elektronische-medien/e-books" class="menu-item-link">
+                <span>E-Books</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/service/medien/elektronische-medien/e-journals-und-e-paper" class="menu-item-link">
+                <span>E-Journals und E-Paper</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/service/medien/elektronische-medien/datenbanken" class="menu-item-link">
+                <span>Datenbanken</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/service/medien/ausleihbare-medien" class="menu-item-link">
+                <span>Ausleihbare Medien</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/service/medien/bestseller" class="menu-item-link">
+                <span>Bestseller</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/service/medien/praesenzbestaende" class="menu-item-link">
+                <span>Präsenzbestände</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/service/medien/historische-bestaende" class="menu-item-link">
+                <span>Historische Bestände</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/service/medien/zeitschriften-und-zeitungen" class="menu-item-link">
+                <span>Zeitschriften und Zeitungen</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/service/medien/musikalien" class="menu-item-link">
+                <span>Musikalien</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/service/medien/audiovisuelle-medien" class="menu-item-link">
+                <span>Audiovisuelle Medien</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/service/medien/ueber-fernleihe-bestellbare-medien" class="menu-item-link">
+                <span>Über Fernleihe bestellbare Medien</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/service/medien/leihgaben-fuer-ausstellungen-1" class="menu-item-link">
+                <span>Leihgaben für Ausstellungen</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/service/medien/leihgaben-fuer-ausstellungen-1" class="menu-item-link">
+                <span>Leihgaben für Ausstellungen</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/service/beratung-und-schulung" class="menu-item-link">
+                <span>Beratung und Schulung</span>
+            </a>
+
+            
+                <ul id="nav_sub_p535" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/service/beratung-und-schulung/neues-aus-der-teaching-library-und-der-lernwerkstatt" class="menu-item-link">
+                <span>Newsletter</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/service/beratung-und-schulung/schule-1" class="menu-item-link">
+                <span>Schule und Ausbildung</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/service/beratung-und-schulung/studium-1" class="menu-item-link">
+                <span>Studium</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/service/raeume/lernwerkstatt/media-studio-1-1" class="menu-item-link">
+                <span>Workshops der Lernwerkstatt</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/service/beratung-und-schulung/beruf-und-freizeit-1" class="menu-item-link">
+                <span>Angebote zu den Historischen Beständen</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/service/raeume" class="menu-item-link">
+                <span>Räume</span>
+            </a>
+
+            
+                <ul id="nav_sub_p527" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/service/raeume/servicezentrum" class="menu-item-link">
+                <span>Servicezentrum</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/service/raeume/lernwerkstatt" class="menu-item-link">
+                <span>Lernwerkstatt</span>
+            </a>
+
+            
+                <ul id="nav_sub_p1732" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/service/raeume/lernwerkstatt/programm" class="menu-item-link">
+                <span>Programm</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/service/raeume/lernwerkstatt/media-studio-1" class="menu-item-link">
+                <span>Bild- und Videoproduktion</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/service/raeume/lernwerkstatt/media-studio-1-1" class="menu-item-link">
+                <span>Workshops der Lernwerkstatt</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/service/raeume/offenes-magazin" class="menu-item-link">
+                <span>Offenes Magazin</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/service/raeume/lesesaal" class="menu-item-link">
+                <span>Lesesaal</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/service/raeume/lesesaal-sammlungen" class="menu-item-link">
+                <span>Lesesaal Sammlungen</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/service/raeume/wissenstor" class="menu-item-link">
+                <span>Wissenstor</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/service/raeume/gruppenarbeitsraeume" class="menu-item-link">
+                <span>Gruppenarbeitsräume</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/cafe" class="menu-item-link">
+                <span>Café</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/service/raeume/kinderfreundlich-vor-ort" class="menu-item-link">
+                <span>Kinderfreundlich vor Ort</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/barrierefreiheit-vor-ort" class="menu-item-link">
+                <span>Barrierefrei vor Ort</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/service/raeume/foto-und-filmaufnahmen" class="menu-item-link">
+                <span>Foto- und Filmaufnahmen</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/service/technik" class="menu-item-link">
+                <span>Technik</span>
+            </a>
+
+            
+                <ul id="nav_sub_p520" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/service/technik/computer-und-ipads" class="menu-item-link">
+                <span>Computer und iPads</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/service/technik/technik-fuer-gruppenarbeit" class="menu-item-link">
+                <span>Technik für Gruppenarbeit</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/service/technik/mikrofilmscanner" class="menu-item-link">
+                <span>Mikrofilmscanner</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/service/internet" class="menu-item-link">
+                <span>Internet</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/service/reproduktionen" class="menu-item-link">
+                <span>Reproduktionen</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/service/publizieren" class="menu-item-link">
+                <span>Publizieren</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+                    
+                </li>
+            
+                <li class="menu-item has-sub-menu ">
+                    <a href="/sammlungen" class="menu-item-link">
+                        <span>Sammlungen</span>
+                    </a>
+
+                    
+                        <ul id="nav_sub_p318" class="menu-item-list header-menu">
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/sammlungen/baden-wuerttemberg" class="menu-item-link">
+                <span>Baden-Württemberg</span>
+            </a>
+
+            
+                <ul id="nav_sub_p377" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/baden-wuerttemberg/bestand" class="menu-item-link">
+                <span>Bestand</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/sammlungen/baden-wuerttemberg/sammlung-digital" class="menu-item-link">
+                <span>Sammlung digital</span>
+            </a>
+
+            
+                <ul id="nav_sub_p385" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/baden-wuerttemberg/sammlung-digital/adressbuecher" class="menu-item-link">
+                <span>Adressbücher</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/baden-wuerttemberg/sammlung-digital/zeitungen" class="menu-item-link">
+                <span>Zeitungen</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/baden-wuerttemberg/sammlung-digital/biographien" class="menu-item-link">
+                <span>Biographien</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/baden-wuerttemberg/sammlung-digital/theaterzettel" class="menu-item-link">
+                <span>Theaterzettel</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/baden-wuerttemberg/sammlung-digital/landtagsprotokolle" class="menu-item-link">
+                <span>Landtagsprotokolle</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/baden-wuerttemberg/sammlung-digital/weitere-geschichtsquellen" class="menu-item-link">
+                <span>Weitere Geschichtsquellen</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/baden-wuerttemberg/recherche" class="menu-item-link">
+                <span>Recherche</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/baden-wuerttemberg/service" class="menu-item-link">
+                <span>Service</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/recherche/baden-wuerttemberg/weitere-fachinformationen" class="menu-item-link">
+                <span>Weitere Fachinformationen</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/sammlungen/handschriften" class="menu-item-link">
+                <span>Handschriften</span>
+            </a>
+
+            
+                <ul id="nav_sub_p409" class="menu-item-list header-menu">
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/sammlungen/handschriften/bestand" class="menu-item-link">
+                <span>Bestand</span>
+            </a>
+
+            
+                <ul id="nav_sub_p414" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/handschriften/bestand/karlsruhe" class="menu-item-link">
+                <span>Karlsruhe</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/handschriften/bestand/durlach-und-rastatt" class="menu-item-link">
+                <span>Durlach und Rastatt</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/sammlungen/handschriften/bestand/donaueschingen" class="menu-item-link">
+                <span>Donaueschingen</span>
+            </a>
+
+            
+                <ul id="nav_sub_p422" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/handschriften/bestand/donaueschingen/dfg-projekt" class="menu-item-link">
+                <span>DFG-Projekt</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/handschriften/bestand/reichenau" class="menu-item-link">
+                <span>Reichenau</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/handschriften/bestand/st-peter-auf-dem-schwarzwald" class="menu-item-link">
+                <span>St. Peter auf dem Schwarzwald</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/handschriften/bestand/st-blasien" class="menu-item-link">
+                <span>St. Blasien</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/handschriften/bestand/ettenheimmuenster" class="menu-item-link">
+                <span>Ettenheimmünster</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/handschriften/bestand/lichtenthal" class="menu-item-link">
+                <span>Lichtenthal</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/handschriften/bestand/st-georgen" class="menu-item-link">
+                <span>St. Georgen</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/handschriften/bestand/weitere-kloester" class="menu-item-link">
+                <span>Weitere Klöster</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/handschriften/bestand/sammlung-reuchlin" class="menu-item-link">
+                <span>Sammlung Reuchlin</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/handschriften/bestand/weitere-sammlungen" class="menu-item-link">
+                <span>Weitere Sammlungen</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/handschriften/handschriften-digital" class="menu-item-link">
+                <span>Handschriften digital</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/recherche/spezialbestaende/handschriften" class="menu-item-link">
+                <span>Recherche</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/handschriften/service" class="menu-item-link">
+                <span>Service</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/handschriften/weitere-fachinformationen" class="menu-item-link">
+                <span>Weitere Fachinformationen</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/sammlungen/inkunabeln" class="menu-item-link">
+                <span>Inkunabeln</span>
+            </a>
+
+            
+                <ul id="nav_sub_p427" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/inkunabeln/bestand" class="menu-item-link">
+                <span>Bestand</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/inkunabeln/inkunabeln-digital" class="menu-item-link">
+                <span>Inkunabeln digital</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/recherche/spezialbestaende/inkunabeln" class="menu-item-link">
+                <span>Recherche</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/inkunabeln/service" class="menu-item-link">
+                <span>Service</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/inkunabeln/weitere-fachinformationen" class="menu-item-link">
+                <span>Weitere Fachinformationen</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/sammlungen/alte-drucke-und-rara" class="menu-item-link">
+                <span>Alte Drucke und Rara</span>
+            </a>
+
+            
+                <ul id="nav_sub_p368" class="menu-item-list header-menu">
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/sammlungen/alte-drucke-und-rara/bestand" class="menu-item-link">
+                <span>Bestand</span>
+            </a>
+
+            
+                <ul id="nav_sub_p389" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/alte-drucke-und-rara/bestand/schlossbibliothek-baden-baden" class="menu-item-link">
+                <span>Schlossbibliothek Baden-Baden</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/alte-drucke-und-rara/bestand/schlossbibliothek-boedigheim" class="menu-item-link">
+                <span>Schlossbibliothek Bödigheim</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/alte-drucke-und-rara/bestand/bibliothek-des-bismarck-gymnasiums" class="menu-item-link">
+                <span>Bibliothek des Bismarck-Gymnasiums</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/alte-drucke-und-rara/bestand/grimmelshausen-sammlung-koennecke-koschlig" class="menu-item-link">
+                <span>Grimmelshausen-Sammlung Könnecke-Koschlig</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/alte-drucke-und-rara/bestand/alchemie-bibliothek-alexander-von-bernus" class="menu-item-link">
+                <span>Alchemie-Bibliothek Alexander von Bernus</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/alte-drucke-und-rara/bestand/nachlassbibliotheken" class="menu-item-link">
+                <span>Nachlassbibliotheken</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/alte-drucke-und-rara/bestand/kinderbuchsammlungen" class="menu-item-link">
+                <span>Kinderbuchsammlungen</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/alte-drucke-und-rara/bestand/buchkunstsammlungen" class="menu-item-link">
+                <span>Buchkunstsammlungen</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/alte-drucke-und-rara/bestand/einbandsammlung" class="menu-item-link">
+                <span>Einbandsammlung</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/alte-drucke-und-rara/bestand/weitere-sammlungen" class="menu-item-link">
+                <span>Weitere Sammlungen</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/alte-drucke-und-rara/alte-drucke-und-rara-digital" class="menu-item-link">
+                <span>Alte Drucke und Rara digital</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/recherche/spezialbestaende/alte-drucke-und-rara" class="menu-item-link">
+                <span>Recherche</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/alte-drucke-und-rara/service" class="menu-item-link">
+                <span>Service</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/alte-drucke-und-rara/weitere-fachinformationen" class="menu-item-link">
+                <span>Weitere Fachinformationen</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/sammlungen/autographen-und-nachlaesse" class="menu-item-link">
+                <span>Autographen und Nachlässe</span>
+            </a>
+
+            
+                <ul id="nav_sub_p446" class="menu-item-list header-menu">
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/sammlungen/autographen-und-nachlaesse/bestand" class="menu-item-link">
+                <span>Bestand</span>
+            </a>
+
+            
+                <ul id="nav_sub_p450" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/autographen-und-nachlaesse/bestand/johann-peter-hebel-archiv" class="menu-item-link">
+                <span>Johann-Peter-Hebel-Archiv</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/autographen-und-nachlaesse/bestand/reinhold-schneider-archiv" class="menu-item-link">
+                <span>Reinhold-Schneider-Archiv</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/autographen-und-nachlaesse/bestand/nachlass-alexander-von-bernus" class="menu-item-link">
+                <span>Nachlass Alexander von Bernus</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/autographen-und-nachlaesse/bestand/nachlass-max-laeuger" class="menu-item-link">
+                <span>Nachlass Max Laeuger</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/autographen-und-nachlaesse/bestand/weitere-nachlaesse-a-z" class="menu-item-link">
+                <span>Weitere Nachlässe A-Z</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/autographen-und-nachlaesse/bestand/autographen" class="menu-item-link">
+                <span>Autographen</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/autographen-und-nachlaesse/autographen-und-nachlaesse-digital" class="menu-item-link">
+                <span>Autographen und Nachlässe digital</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/recherche/spezialbestaende/autographen-und-nachlaesse" class="menu-item-link">
+                <span>Recherche</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/autographen-und-nachlaesse/service" class="menu-item-link">
+                <span>Service</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/autographen-und-nachlaesse/weitere-fachinformationen" class="menu-item-link">
+                <span>Weitere Fachinformationen</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/sammlungen/musikalien" class="menu-item-link">
+                <span>Musikalien</span>
+            </a>
+
+            
+                <ul id="nav_sub_p458" class="menu-item-list header-menu">
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/sammlungen/musikalien/bestand" class="menu-item-link">
+                <span>Bestand</span>
+            </a>
+
+            
+                <ul id="nav_sub_p463" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/musikalien/bestand/hofbibliothek-karlsruhe" class="menu-item-link">
+                <span>Hofbibliothek Karlsruhe</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/musikalien/bestand/fuerstlich-fuerstenbergische-hofbibliothek-donaueschingen" class="menu-item-link">
+                <span>Fürstlich Fürstenbergische Hofbibliothek Donaueschingen</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/musikalien/bestand/schlossbibliothek-baden-baden" class="menu-item-link">
+                <span>Schlossbibliothek Baden-Baden</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/musikalien/bestand/vor-und-nachlaesse-a-z" class="menu-item-link">
+                <span>Vor- und Nachlässe A-Z</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/musikalien/bestand/moderne-noten" class="menu-item-link">
+                <span>Moderne Noten</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/musikalien/bestand/cds" class="menu-item-link">
+                <span>CDs</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/musikalien/sammlung-digital" class="menu-item-link">
+                <span>Sammlung digital</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/recherche/spezialbestaende/musikalien" class="menu-item-link">
+                <span>Recherche</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/musikalien/service" class="menu-item-link">
+                <span>Service</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/musikalien/weitere-fachinformationen" class="menu-item-link">
+                <span>Weitere Fachinformationen</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/sammlungen/historische-karten" class="menu-item-link">
+                <span>Historische Karten</span>
+            </a>
+
+            
+                <ul id="nav_sub_p320" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/historische-karten/bestand" class="menu-item-link">
+                <span>Bestand</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/historische-karten/historische-karten-digital" class="menu-item-link">
+                <span>Historische Karten digital</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/recherche/spezialbestaende/historische-karten" class="menu-item-link">
+                <span>Recherche</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/historische-karten/service" class="menu-item-link">
+                <span>Service</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/historische-karten/weitere-fachinformationen" class="menu-item-link">
+                <span>Weitere Fachinformationen</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/sammlungen/digitalisierte-bestaende" class="menu-item-link">
+                <span>Digitalisierte Bestände</span>
+            </a>
+
+            
+                <ul id="nav_sub_p470" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/digitalisierte-bestaende/profil" class="menu-item-link">
+                <span>Profil</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/digitalisierte-bestaende/digitalisierungswerkstatt" class="menu-item-link">
+                <span>Digitalisierungswerkstatt</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/digitalisierte-bestaende/service" class="menu-item-link">
+                <span>Service</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/digitalisierte-bestaende/publikationen" class="menu-item-link">
+                <span>Publikationen</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/sammlungen/unesco-weltdokumentenerbe-nibelungenlied" class="menu-item-link">
+                <span>UNESCO-Weltdokumentenerbe Nibelungenlied</span>
+            </a>
+
+            
+                <ul id="nav_sub_p1261" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/unesco-weltdokumentenerbe-nibelungenlied/unesco-weltdokumentenerbe" class="menu-item-link">
+                <span>UNESCO-Weltdokumentenerbe</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/unesco-weltdokumentenerbe-nibelungenlied/das-nibelungenlied" class="menu-item-link">
+                <span>Das Nibelungenlied</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/unesco-weltdokumentenerbe-nibelungenlied/die-handschrift-c" class="menu-item-link">
+                <span>Die Handschrift C</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/unesco-weltdokumentenerbe-nibelungenlied/virtuelle-ausstellung" class="menu-item-link">
+                <span>Virtuelle Ausstellung</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/sammlungen/unesco-weltdokumentenerbe-nibelungenlied/weitere-informationen" class="menu-item-link">
+                <span>Weitere Informationen</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+</ul>
+                    
+                </li>
+            
+                <li class="menu-item has-sub-menu ">
+                    <a href="/aktuelles" class="menu-item-link">
+                        <span>Aktuelles</span>
+                    </a>
+
+                    
+                        <ul id="nav_sub_p476" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/kulturprogramm" class="menu-item-link">
+                <span>Kulturprogramm</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/aktuelles/ausstellungen" class="menu-item-link">
+                <span>Ausstellungen</span>
+            </a>
+
+            
+                <ul id="nav_sub_p482" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/naechste-ausstellungen" class="menu-item-link">
+                <span>Nächste Ausstellungen</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/aktuelle-ausstellungen" class="menu-item-link">
+                <span>Aktuelle Ausstellungen</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen" class="menu-item-link">
+                <span>Virtuelle Ausstellungen</span>
+            </a>
+
+            
+                <ul id="nav_sub_p1103" class="menu-item-list header-menu">
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/maxreger2023" class="menu-item-link">
+                <span>Max Reger und sein Interpret Karl Straube</span>
+            </a>
+
+            
+                <ul id="nav_sub_p1986" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/maxreger2023/aufstrebender-orgelvirtuose-und-unbeachteter-komponist" class="menu-item-link">
+                <span>Aufstrebender Orgelvirtuose und unbeachteter Komponist</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/maxreger2023/kuenstlerischer-austausch" class="menu-item-link">
+                <span>Künstlerischer Austausch</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/maxreger2023/straube-als-vermittler" class="menu-item-link">
+                <span>Straube als Vermittler</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/maxreger2023/auseinanderstrebende-bach-auffassung" class="menu-item-link">
+                <span>Auseinanderstrebende Bach-Auffassung</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/maxreger2023/straube-als-kritischer-berater" class="menu-item-link">
+                <span>Straube als kritischer Berater</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/maxreger2023/straube-und-die-nachwelt" class="menu-item-link">
+                <span>Straube und die Nachwelt</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schwarzwaldbahn" class="menu-item-link">
+                <span>Mit der Schwarzwaldbahn an den Bodensee</span>
+            </a>
+
+            
+                <ul id="nav_sub_p1867" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schwarzwaldbahn/urlaub-im-schwarzwald" class="menu-item-link">
+                <span>Urlaub im Schwarzwald</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schwarzwaldbahn/buergerinitiative" class="menu-item-link">
+                <span>Bürgerinitiative und Verkehrswende</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schwarzwaldbahn/internationaler-tourismus" class="menu-item-link">
+                <span>Internationaler Tourismus</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schwarzwaldbahn/ganzjaehriges-urlaubsziel" class="menu-item-link">
+                <span>Ganzjähriges Urlaubsziel</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schwarzwaldbahn/ausblick-auf-spaete-werbegrafik" class="menu-item-link">
+                <span>Ausblick auf späte Werbegrafik</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schwarzwaldbahn/tourismus-in-baden" class="menu-item-link">
+                <span>Tourismus in Baden</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schwarzwaldbahn/untersee-und-rhein" class="menu-item-link">
+                <span>Mobilität in Baden und darüber hinaus</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schwarzwaldbahn/tourismus-am-bodensee" class="menu-item-link">
+                <span>Tourismus am Bodensee</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schwarzwaldbahn/verkehrsmittel-als-attraktion" class="menu-item-link">
+                <span>Verkehrsmittel als Attraktion</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/faszination-fliegen" class="menu-item-link">
+                <span>Faszination Fliegen</span>
+            </a>
+
+            
+                <ul id="nav_sub_p1757" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/faszination-fliegen/pionierzeit" class="menu-item-link">
+                <span>Pionierzeit</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/faszination-fliegen/der-lange-weg-zur-flugphysik" class="menu-item-link">
+                <span>Der lange Weg zur Flugphysik</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/faszination-fliegen/fotografie-in-der-fruehen-fliegerei" class="menu-item-link">
+                <span>Fotografie in der frühen Fliegerei</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/faszination-fliegen/frauen-in-der-luft" class="menu-item-link">
+                <span>Frauen in der Luft</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/faszination-fliegen/militaerflugzeuge" class="menu-item-link">
+                <span>Militärflugzeuge</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/faszination-fliegen/anfaenge-des-flugtourismus" class="menu-item-link">
+                <span>Anfänge des Flugtourismus</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/faszination-fliegen/fliegerei-in-den-medien" class="menu-item-link">
+                <span>Fliegerei in den Medien</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/seher-wunder-wissenschaft" class="menu-item-link">
+                <span>Seher Wunder Wissenschaft</span>
+            </a>
+
+            
+                <ul id="nav_sub_p1711" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/aktuelle-ausstellungen/seher-wunder-wissenschaft/orakel" class="menu-item-link">
+                <span>Orakel</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/aktuelle-ausstellungen/seher-wunder-wissenschaft/seher" class="menu-item-link">
+                <span>Seher</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/aktuelle-ausstellungen/seher-wunder-wissenschaft/propheten" class="menu-item-link">
+                <span>Propheten</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/aktuelle-ausstellungen/seher-wunder-wissenschaft/zeichendeutung" class="menu-item-link">
+                <span>Zeichendeutung</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/aktuelle-ausstellungen/seher-wunder-wissenschaft/sterndeutung" class="menu-item-link">
+                <span>Sterndeutung</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/aktuelle-ausstellungen/seher-wunder-wissenschaft/tierkreis" class="menu-item-link">
+                <span>Tierkreis</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/aktuelle-ausstellungen/seher-wunder-wissenschaft/wissenschaft" class="menu-item-link">
+                <span>Wissenschaft</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/johannes-reuchlin-juedische-kultur" class="menu-item-link">
+                <span>Fort damit - Johannes Reuchlin und die jüdische Kultur</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/die-welt-der-nibelungen" class="menu-item-link">
+                <span>Die Welt der Nibelungen</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/250-jahre-oeffentlich-die-badische-landesbibliothek-1771-2021" class="menu-item-link">
+                <span>250 Jahre ÖFFENTLICH – Die Badische Landesbibliothek 1771–2021</span>
+            </a>
+
+            
+                <ul id="nav_sub_p1613" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/250-jahre-oeffentlich-die-badische-landesbibliothek-1771-2021/markgraf-karl-friedrich-begruender-der-karlsruher-hofbibliothek-als-oeffentliche-einrichtung" class="menu-item-link">
+                <span>Markgraf Karl Friedrich Begründer der Karlsruher Hofbibliothek als öffentliche Einrichtung</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/250-jahre-oeffentlich-die-badische-landesbibliothek-1771-2021/die-benutzungsordnung-von-1771" class="menu-item-link">
+                <span>Die Benutzungsordnung von 1771</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/250-jahre-oeffentlich-die-badische-landesbibliothek-1771-2021/der-apothekenfluegel-des-schlosses" class="menu-item-link">
+                <span>Der „Apothekenflügel“ des Schlosses</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/250-jahre-oeffentlich-die-badische-landesbibliothek-1771-2021/friedrich-valentin-molter-erster-hauptamtlicher-bibliothekar-der-oeffentlichen-hofbibliothek" class="menu-item-link">
+                <span>Friedrich Valentin Molter – Erster hauptamtlicher Bibliothekar der öffentlichen Hofbibliothek</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/250-jahre-oeffentlich-die-badische-landesbibliothek-1771-2021/direktor-molter-als-benutzer-seiner-bibliothek" class="menu-item-link">
+                <span>Direktor Molter als Benutzer seiner Bibliothek</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/250-jahre-oeffentlich-die-badische-landesbibliothek-1771-2021/die-benutzung-der-reuchliniana-vor-1771" class="menu-item-link">
+                <span>Die Benutzung der Reuchliniana vor 1771</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/250-jahre-oeffentlich-die-badische-landesbibliothek-1771-2021/der-orientalist-jacob-jonas-bjoernstaahl-als-benutzer-der-oeffentlichen-bibliothek-in-karlsruhe-1773/74" class="menu-item-link">
+                <span>Der Orientalist Jacob Jonas Björnståhl als Benutzer der öffentlichen Bibliothek in Karlsruhe 1773/74</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/250-jahre-oeffentlich-die-badische-landesbibliothek-1771-2021/die-benutzungsordnung-von-1843" class="menu-item-link">
+                <span>Die Benutzungsordnung von 1843</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/250-jahre-oeffentlich-die-badische-landesbibliothek-1771-2021/umzug-in-das-sammlungsgebaeude-am-friedrichsplatz-1873" class="menu-item-link">
+                <span>Umzug in das Sammlungsgebäude am Friedrichsplatz 1873</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/250-jahre-oeffentlich-die-badische-landesbibliothek-1771-2021/benutzungsbetrieb-der-hof-und-landesbibliothek-am-friedrichsplatz" class="menu-item-link">
+                <span>Benutzungsbetrieb der Hof- und Landesbibliothek am Friedrichsplatz</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/250-jahre-oeffentlich-die-badische-landesbibliothek-1771-2021/regionaler-und-ueberregionaler-leihverkehr" class="menu-item-link">
+                <span>Regionaler und überregionaler Leihverkehr</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/250-jahre-oeffentlich-die-badische-landesbibliothek-1771-2021/zerstoerung-1942-und-wiederaufbau-ab-1946" class="menu-item-link">
+                <span>Zerstörung 1942 und Wiederaufbau ab 1946</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/250-jahre-oeffentlich-die-badische-landesbibliothek-1771-2021/im-nymphengarten" class="menu-item-link">
+                <span>Im Nymphengarten</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten" class="menu-item-link">
+                <span>Fakten oder Fantasie? Karten erzählen Geschichten!</span>
+            </a>
+
+            
+                <ul id="nav_sub_p1396" class="menu-item-list header-menu">
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/vom-antiken-weltbild-zur-karte" class="menu-item-link">
+                <span>Vom antiken Weltbild zur Karte</span>
+            </a>
+
+            
+                <ul id="nav_sub_p1398" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/vom-antiken-weltbild-zur-karte/biblische-geographie" class="menu-item-link">
+                <span>Biblische Geographie</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/vom-antiken-weltbild-zur-karte/weltkarten" class="menu-item-link">
+                <span>Weltkarten</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/vom-antiken-weltbild-zur-karte/atlanten" class="menu-item-link">
+                <span>Atlanten</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/die-entwicklung-des-heliozentrischen-weltbilds" class="menu-item-link">
+                <span>Die Entwicklung des heliozentrischen Weltbilds</span>
+            </a>
+
+            
+                <ul id="nav_sub_p1404" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/die-entwicklung-des-heliozentrischen-weltbilds/seekarten" class="menu-item-link">
+                <span>Seekarten</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/himmelskarten" class="menu-item-link">
+                <span>Himmelskarten</span>
+            </a>
+
+            
+                <ul id="nav_sub_p1406" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/himmelskarten/himmelsatlanten" class="menu-item-link">
+                <span>Himmelsatlanten</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/himmelskarten/armillarsphaeren" class="menu-item-link">
+                <span>Armillarsphären</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/karten-des-erdinneren" class="menu-item-link">
+                <span>Karten des Erdinneren</span>
+            </a>
+
+            
+                <ul id="nav_sub_p1408" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/karten-des-erdinneren/wissenschaften" class="menu-item-link">
+                <span>Wissenschaften</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/karten-zur-biblischen-heilsgeschichte" class="menu-item-link">
+                <span>Karten zur biblischen Heilsgeschichte</span>
+            </a>
+
+            
+                <ul id="nav_sub_p1410" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/karten-zur-biblischen-heilsgeschichte/altes-testament" class="menu-item-link">
+                <span>Altes Testament</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/karten-zur-biblischen-heilsgeschichte/paradies" class="menu-item-link">
+                <span>Paradies</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/karten-zur-biblischen-heilsgeschichte/jerusalem" class="menu-item-link">
+                <span>Jerusalem</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/karten-idealer-staedte" class="menu-item-link">
+                <span>Karten idealer Städte</span>
+            </a>
+
+            
+                <ul id="nav_sub_p1416" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/karten-idealer-staedte/vitruv-und-scamozzi" class="menu-item-link">
+                <span>Vitruv und Scamozzi</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/karten-idealer-staedte/athanasius-kircher" class="menu-item-link">
+                <span>Athanasius Kircher</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/karten-idealer-staedte/karlsruhe" class="menu-item-link">
+                <span>Karlsruhe</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/karten-in-der-literatur" class="menu-item-link">
+                <span>Karten in der Literatur</span>
+            </a>
+
+            
+                <ul id="nav_sub_p1412" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/karten-in-der-literatur/literarische-orte" class="menu-item-link">
+                <span>Literarische Orte</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/karten-in-der-literatur/abenteuerromane" class="menu-item-link">
+                <span>Abenteuerromane</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/fantasiekarten" class="menu-item-link">
+                <span>Fantasiekarten</span>
+            </a>
+
+            
+                <ul id="nav_sub_p1414" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/fantasiekarten/fiktive-orte" class="menu-item-link">
+                <span>Fiktive Orte</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/politische-karten" class="menu-item-link">
+                <span>Politische Karten</span>
+            </a>
+
+            
+                <ul id="nav_sub_p1418" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/politische-karten/deutschland-und-frankreich" class="menu-item-link">
+                <span>Deutschland und Frankreich</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/politische-karten/atlanten" class="menu-item-link">
+                <span>Atlanten</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/europaeische-expansion" class="menu-item-link">
+                <span>Europäische Expansion</span>
+            </a>
+
+            
+                <ul id="nav_sub_p1420" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/europaeische-expansion/suedsee-und-pazifik" class="menu-item-link">
+                <span>Südsee und Pazifik</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/europaeische-expansion/weltkarten" class="menu-item-link">
+                <span>Weltkarten</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/und-was-ist-ihre-geschichte" class="menu-item-link">
+                <span>Und was ist Ihre Geschichte?</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="http://ausstellungen.blb-karlsruhe.de" target="_blank" class="menu-item-link" rel="noreferrer">
+                <span>Das Kochbuch in Baden 1770–1950</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht" class="menu-item-link">
+                <span>Leuchtender KLANG – Klingendes LICHT</span>
+            </a>
+
+            
+                <ul id="nav_sub_p1303" class="menu-item-list header-menu">
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/biographie" class="menu-item-link">
+                <span>Biographie</span>
+            </a>
+
+            
+                <ul id="nav_sub_p1305" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/biographie/familie" class="menu-item-link">
+                <span>Familie</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/biographie/lehrtaetigkeit" class="menu-item-link">
+                <span>Lehrtätigkeit</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/biographie/fruehwerke-und-literatur" class="menu-item-link">
+                <span>Frühwerke und Literatur</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/biographie/persoenliches" class="menu-item-link">
+                <span>Persönliches</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/biographie/werklisten-und-statements" class="menu-item-link">
+                <span>Werklisten und Statements</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/checkpoint-charlie" class="menu-item-link">
+                <span>Checkpoint Charlie</span>
+            </a>
+
+            
+                <ul id="nav_sub_p1304" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/checkpoint-charlie/checkpoint-charlie" class="menu-item-link">
+                <span>Checkpoint Charlie</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/e-musik" class="menu-item-link">
+                <span>E-Musik</span>
+            </a>
+
+            
+                <ul id="nav_sub_p1306" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/e-musik/tief-unten-traumversunken" class="menu-item-link">
+                <span>tief Unten – traumversunken</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/e-musik/traumkraut" class="menu-item-link">
+                <span>Traumkraut</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/e-musik/streichtrio-nr-1" class="menu-item-link">
+                <span>Streichtrio Nr. 1</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/e-musik/rhizom-ii" class="menu-item-link">
+                <span>Rhizom II</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/e-musik/alien-lines-and-fields" class="menu-item-link">
+                <span>Alien Lines and Fields</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/multimedia" class="menu-item-link">
+                <span>Multimedia</span>
+            </a>
+
+            
+                <ul id="nav_sub_p1307" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/multimedia/zwischenzonen" class="menu-item-link">
+                <span>Zwischenzonen</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/multimedia/electronic-mandala" class="menu-item-link">
+                <span>Electronic Mandala</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/medienkunst" class="menu-item-link">
+                <span>Medienkunst</span>
+            </a>
+
+            
+                <ul id="nav_sub_p1308" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/medienkunst/kataloge-und-cds" class="menu-item-link">
+                <span>Kataloge und CDs</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/medienkunst/kuenstlerpaar" class="menu-item-link">
+                <span>Künstlerpaar</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/medienkunst/artificial-soundscapes" class="menu-item-link">
+                <span>Artificial Soundscapes</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/medienkunst/aquaangelusvox" class="menu-item-link">
+                <span>AquaAngelusVox</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/medienkunst/sonicrooms" class="menu-item-link">
+                <span>SonicRooms</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/medienkunst/soniclines-nrooms" class="menu-item-link">
+                <span>SonicLines n&#039;Rooms</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/medienkunst/soniclines-nrooms-7" class="menu-item-link">
+                <span>SonicLines n&#039;Rooms No. 7</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/medienkunst/toposonic-spheres" class="menu-item-link">
+                <span>TopoSonic Spheres</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/medienkunst/toposonic-tunnel" class="menu-item-link">
+                <span>TopoSonic Tunnel</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/medienkunst/microsonical-shinning-biospheres-no-1" class="menu-item-link">
+                <span>MicroSonical Shining Biospheres No. 1</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/medienkunst/solarsonical-insects" class="menu-item-link">
+                <span>SolarSonical Insects</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/medienkunst/solarsonical-insects-2" class="menu-item-link">
+                <span>SolarSonical Insects # 2</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/sabine-schaefer-scaled-2019" class="menu-item-link">
+                <span>Sabine Schäfer: SCALED, 2019</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918" class="menu-item-link">
+                <span>Schlaglichter – 100 Bücher des Jahres 1918</span>
+            </a>
+
+            
+                <ul id="nav_sub_p1112" class="menu-item-list header-menu">
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/zuhause-alltag-und-familie" class="menu-item-link">
+                <span>Zuhause – Alltag und Familie</span>
+            </a>
+
+            
+                <ul id="nav_sub_p1104" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/zuhause-alltag-und-familie/nahrung" class="menu-item-link">
+                <span>Nahrung</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/zuhause-alltag-und-familie/kleidung" class="menu-item-link">
+                <span>Kleidung</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/zuhause-alltag-und-familie/kinderbuecher" class="menu-item-link">
+                <span>Kinderbücher</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/zuhause-alltag-und-familie/volkskalender" class="menu-item-link">
+                <span>Volkskalender</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/krieg-mensch-und-moral" class="menu-item-link">
+                <span>Krieg – Mensch und Moral</span>
+            </a>
+
+            
+                <ul id="nav_sub_p1111" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/krieg-mensch-und-moral/kriegsanleihe" class="menu-item-link">
+                <span>Kriegsanleihe</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/krieg-mensch-und-moral/der-voelkerkrieg" class="menu-item-link">
+                <span>Der Völkerkrieg</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/krieg-mensch-und-moral/kriegserlebnisse" class="menu-item-link">
+                <span>Kriegserlebnisse</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/krieg-mensch-und-moral/feldzeitungen" class="menu-item-link">
+                <span>Feldzeitungen</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/krieg-mensch-und-moral/kriegsverletzungen" class="menu-item-link">
+                <span>Kriegsverletzungen</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/krieg-mensch-und-moral/kriegsschiffe" class="menu-item-link">
+                <span>Kriegsschiffe</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/wissenschaft-theorie-und-fortschritt" class="menu-item-link">
+                <span>Wissenschaft – Theorie und Fortschritt</span>
+            </a>
+
+            
+                <ul id="nav_sub_p1110" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/wissenschaft-theorie-und-fortschritt/sexualwissenschaft" class="menu-item-link">
+                <span>Sexualwissenschaft</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/wissenschaft-theorie-und-fortschritt/fritz-haber-und-die-chemische-industrie" class="menu-item-link">
+                <span>Fritz Haber und die chemische Industrie</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/wissenschaft-theorie-und-fortschritt/die-entstehung-der-modernen-physik" class="menu-item-link">
+                <span>Die Entstehung der modernen Physik</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/wissenschaft-theorie-und-fortschritt/technik" class="menu-item-link">
+                <span>Technik</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/unterwegs-baden-und-die-welt" class="menu-item-link">
+                <span>Unterwegs – Baden und die Welt</span>
+            </a>
+
+            
+                <ul id="nav_sub_p1109" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/unterwegs-baden-und-die-welt/reisen-im-krieg" class="menu-item-link">
+                <span>Reisen im Krieg</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/unterwegs-baden-und-die-welt/kolonien" class="menu-item-link">
+                <span>Kolonien</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/unterwegs-baden-und-die-welt/der-nahe-osten-und-die-judenfrage" class="menu-item-link">
+                <span>Der Nahe Osten und die Judenfrage</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/unterwegs-baden-und-die-welt/baden" class="menu-item-link">
+                <span>Baden</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/zeitgeschehen-politik-und-gesellschaft" class="menu-item-link">
+                <span>Zeitgeschehen – Politik und Gesellschaft</span>
+            </a>
+
+            
+                <ul id="nav_sub_p1108" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/zeitgeschehen-politik-und-gesellschaft/frieden-von-brest-litowsk" class="menu-item-link">
+                <span>Frieden von Brest-Litowsk</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/zeitgeschehen-politik-und-gesellschaft/russische-revolution" class="menu-item-link">
+                <span>Russische Revolution</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/zeitgeschehen-politik-und-gesellschaft/novemberrevolution" class="menu-item-link">
+                <span>Novemberrevolution</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/zeitgeschehen-politik-und-gesellschaft/badische-revolution" class="menu-item-link">
+                <span>Badische Revolution</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/zeitgeschehen-politik-und-gesellschaft/frauenwahlrecht" class="menu-item-link">
+                <span>Frauenwahlrecht</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/zeitgeschehen-politik-und-gesellschaft/gesellschaftstheorie" class="menu-item-link">
+                <span>Gesellschaftstheorie</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/kultur-kunst-musik-literatur" class="menu-item-link">
+                <span>Kultur – Kunst, Musik, Literatur</span>
+            </a>
+
+            
+                <ul id="nav_sub_p1107" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/kultur-kunst-musik-literatur/theater" class="menu-item-link">
+                <span>Theater</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/kultur-kunst-musik-literatur/literatur" class="menu-item-link">
+                <span>Literatur</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/kultur-kunst-musik-literatur/kunst" class="menu-item-link">
+                <span>Kunst</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/kultur-kunst-musik-literatur/musik" class="menu-item-link">
+                <span>Musik</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/aktuelles/ausstellungen/vergangene-ausstellungen" class="menu-item-link">
+                <span>Vergangene Ausstellungen</span>
+            </a>
+
+            
+                <ul id="nav_sub_p1167" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/vergangene-ausstellungen/archiv-ausstellungen-2022" class="menu-item-link">
+                <span>Archiv Ausstellungen 2022</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/vergangene-ausstellungen/archiv-ausstellungen-2021" class="menu-item-link">
+                <span>Archiv Ausstellungen 2021</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/vergangene-ausstellungen/archiv-ausstellungen-2020" class="menu-item-link">
+                <span>Archiv Ausstellungen 2020</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/vergangene-ausstellungen/archiv-ausstellungen-2019" class="menu-item-link">
+                <span>Archiv Ausstellungen 2019</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/vergangene-ausstellungen/archiv-ausstellungen-2018" class="menu-item-link">
+                <span>Archiv Ausstellungen 2018</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/vergangene-ausstellungen/archiv-ausstellungen-2017" class="menu-item-link">
+                <span>Archiv Ausstellungen 2017</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/vergangene-ausstellungen/archiv-ausstellungen-2016" class="menu-item-link">
+                <span>Archiv Ausstellungen 2016</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/vergangene-ausstellungen/archiv-ausstellungen-2015" class="menu-item-link">
+                <span>Archiv Ausstellungen 2015</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/vergangene-ausstellungen/archiv-ausstellungen-2014" class="menu-item-link">
+                <span>Archiv Ausstellungen 2014</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/vergangene-ausstellungen/archiv-ausstellungen-2013" class="menu-item-link">
+                <span>Archiv Ausstellungen 2013</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/vergangene-ausstellungen/archiv-ausstellungen-2012" class="menu-item-link">
+                <span>Archiv Ausstellungen 2012</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/vergangene-ausstellungen/archiv-ausstellungen-2011" class="menu-item-link">
+                <span>Archiv Ausstellungen 2011</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/vergangene-ausstellungen/archiv-ausstellungen-2010" class="menu-item-link">
+                <span>Archiv Ausstellungen 2010</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/vergangene-ausstellungen/archiv-ausstellungen-2009" class="menu-item-link">
+                <span>Archiv Ausstellungen 2009</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/vergangene-ausstellungen/archiv-ausstellungen-2008" class="menu-item-link">
+                <span>Archiv Ausstellungen 2008</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/vergangene-ausstellungen/archiv-ausstellungen-2007" class="menu-item-link">
+                <span>Archiv Ausstellungen 2007</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/vergangene-ausstellungen/archiv-ausstellungen-2006" class="menu-item-link">
+                <span>Archiv Ausstellungen 2006</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/vergangene-ausstellungen/archiv-ausstellungen-2005" class="menu-item-link">
+                <span>Archiv Ausstellungen 2005</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/vergangene-ausstellungen/archiv-ausstellungen-2004" class="menu-item-link">
+                <span>Archiv Ausstellungen 2004</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/vergangene-ausstellungen/archiv-ausstellungen-2003" class="menu-item-link">
+                <span>Archiv Ausstellungen 2003</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/vergangene-ausstellungen/archiv-ausstellungen-2002" class="menu-item-link">
+                <span>Archiv Ausstellungen 2002</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/schulungsprogramm" class="menu-item-link">
+                <span>Schulungsprogramm</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/aktuelles/kulturgueter-auf-reisen" class="menu-item-link">
+                <span>Kulturgüter auf Reisen</span>
+            </a>
+
+            
+                <ul id="nav_sub_p479" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/kulturgueter-auf-reisen/archiv-kulturgueter-2023" class="menu-item-link">
+                <span>Archiv Kulturgüter 2023</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/kulturgueter-auf-reisen/archiv-kulturgueter-2022" class="menu-item-link">
+                <span>Archiv Kulturgüter 2022</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/kulturgueter-auf-reisen/archiv-kulturgueter-2020-1" class="menu-item-link">
+                <span>Archiv Kulturgüter 2021</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/kulturgueter-auf-reisen/archiv-kulturgueter-2020" class="menu-item-link">
+                <span>Archiv Kulturgüter 2020</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/kulturgueter-auf-reisen/archiv-kulturgueter-2019" class="menu-item-link">
+                <span>Archiv Kulturgüter 2019</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/kulturgueter-auf-reisen/archiv-kulturgueter-2018" class="menu-item-link">
+                <span>Archiv Kulturgüter 2018</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/kulturgueter-auf-reisen/archiv-kulturgueter-2017" class="menu-item-link">
+                <span>Archiv Kulturgüter 2017</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/kulturgueter-auf-reisen/archiv-kulturgueter-2016" class="menu-item-link">
+                <span>Archiv Kulturgüter 2016</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/kulturgueter-auf-reisen/archiv-kulturgueter-2015" class="menu-item-link">
+                <span>Archiv Kulturgüter 2015</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/kulturgueter-auf-reisen/archiv-kulturgueter-2014" class="menu-item-link">
+                <span>Archiv Kulturgüter 2014</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/kulturgueter-auf-reisen/archiv-kulturgueter-2013" class="menu-item-link">
+                <span>Archiv Kulturgüter 2013</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/kulturgueter-auf-reisen/archiv-kulturgueter-2012" class="menu-item-link">
+                <span>Archiv Kulturgüter 2012</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/kulturgueter-auf-reisen/archiv-kulturgueter-2011" class="menu-item-link">
+                <span>Archiv Kulturgüter 2011</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/kulturgueter-auf-reisen/archiv-kulturgueter-2010" class="menu-item-link">
+                <span>Archiv Kulturgüter 2010</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/kulturgueter-auf-reisen/archiv-kulturgueter-2009" class="menu-item-link">
+                <span>Archiv Kulturgüter 2009</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/kulturgueter-auf-reisen/archiv-kulturgueter-2008" class="menu-item-link">
+                <span>Archiv Kulturgüter 2008</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/kulturgueter-auf-reisen/archiv-kulturgueter-2007" class="menu-item-link">
+                <span>Archiv Kulturgüter 2007</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/kulturgueter-auf-reisen/archiv-kulturgueter-2006" class="menu-item-link">
+                <span>Archiv Kulturgüter 2006</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/kulturgueter-auf-reisen/archiv-kulturgueter-2005" class="menu-item-link">
+                <span>Archiv Kulturgüter 2005</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/aktuelles/neuerwerbung-des-monats" class="menu-item-link">
+                <span>Neuerwerbung des Monats</span>
+            </a>
+
+            
+                <ul id="nav_sub_p480" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/neuerwerbung-des-monats/archiv-neuerwerbungen-2023" class="menu-item-link">
+                <span>Archiv Neuerwerbungen 2023</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/archiv-neuerwerbungen-2022" class="menu-item-link">
+                <span>Archiv Neuerwerbungen 2022</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/neuerwerbung-des-monats/archiv-neuerwerbungen-2021" class="menu-item-link">
+                <span>Archiv Neuerwerbungen 2021</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/neuerwerbung-des-monats/archiv-neuerwerbungen-2020" class="menu-item-link">
+                <span>Archiv Neuerwerbungen 2020</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/neuerwerbung-des-monats/archiv-neuerwerbungen-2019" class="menu-item-link">
+                <span>Archiv Neuerwerbungen 2019</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/neuerwerbung-des-monats/archiv-neuerwerbungen-2018" class="menu-item-link">
+                <span>Archiv Neuerwerbungen 2018</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/neuerwerbung-des-monats/archiv-neuerwerbungen-2017" class="menu-item-link">
+                <span>Archiv Neuerwerbungen 2017</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/neuerwerbung-des-monats/archiv-neuerwerbungen-2016" class="menu-item-link">
+                <span>Archiv Neuerwerbungen 2016</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/neuerwerbung-des-monats/archiv-neuerwerbungen-2015" class="menu-item-link">
+                <span>Archiv Neuerwerbungen 2015</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/neuerwerbung-des-monats/archiv-neuerwerbungen-2014" class="menu-item-link">
+                <span>Archiv Neuerwerbungen 2014</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/neuerwerbung-des-monats/archiv-neuerwerbungen-2013" class="menu-item-link">
+                <span>Archiv Neuerwerbungen 2013</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/neuerwerbung-des-monats/archiv-neuerwerbungen-2012" class="menu-item-link">
+                <span>Archiv Neuerwerbungen 2012</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/neuerwerbung-des-monats/archiv-neuerwerbungen-2011" class="menu-item-link">
+                <span>Archiv Neuerwerbungen 2011</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/aktuelles/projekte" class="menu-item-link">
+                <span>Projekte</span>
+            </a>
+
+            
+                <ul id="nav_sub_p484" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/projekte/laufende-projekte" class="menu-item-link">
+                <span>Laufende Projekte</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/projekte/2023-abgeschlossen" class="menu-item-link">
+                <span>2023 abgeschlossen</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/projekte/2022-abgeschlossen" class="menu-item-link">
+                <span>2022 abgeschlossen</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/projekte/2021-abgeschlossen" class="menu-item-link">
+                <span>2021 abgeschlossen</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/projekte/2020-abgeschlossen" class="menu-item-link">
+                <span>2020 abgeschlossen</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/projekte/2019-abgeschlossen" class="menu-item-link">
+                <span>2019 abgeschlossen</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/projekte/2018-abgeschlossen" class="menu-item-link">
+                <span>2018 abgeschlossen</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/projekte/2017-abgeschlossen" class="menu-item-link">
+                <span>2017 abgeschlossen</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/stellenangebote" class="menu-item-link">
+                <span>Stellenangebote</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/aktuelles/der-donaueschinger-wigalois" class="menu-item-link">
+                <span>Der Donaueschinger Wigalois</span>
+            </a>
+
+            
+                <ul id="nav_sub_p1278" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/der-donaueschinger-wigalois/erwerbung-2018" class="menu-item-link">
+                <span>Erwerbung 2018</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/der-donaueschinger-wigalois/der-wigalois-roman" class="menu-item-link">
+                <span>Der Wigalois-Roman</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/der-donaueschinger-wigalois/die-handschrift" class="menu-item-link">
+                <span>Die Handschrift</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/der-donaueschinger-wigalois/weitere-informationen" class="menu-item-link">
+                <span>Weitere Informationen</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+</ul>
+                    
+                </li>
+            
+                <li class="menu-item has-sub-menu ">
+                    <a href="/kalender" class="menu-item-link">
+                        <span>Kalender</span>
+                    </a>
+
+                    
+                        <ul id="nav_sub_p2" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/kalender/archiv-kalender" class="menu-item-link">
+                <span>Archiv Kalender</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+                    
+                </li>
+            
+        </ul>
+    
+
+
+        </div>
+        <div class="blb-nav-menu menu-two">
+            
+    
+        
+
+        <ul class="menu-item-list header-menu">
+            
+                <li class="menu-item has-sub-menu ">
+                    <a href="/news" class="menu-item-link">
+                        <span>News</span>
+                    </a>
+
+                    
+                        <ul id="nav_sub_p9" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/news/archiv-news" class="menu-item-link">
+                <span>Archiv News</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+                    
+                </li>
+            
+                <li class="menu-item has-sub-menu ">
+                    <a href="/presse" class="menu-item-link">
+                        <span>Presse</span>
+                    </a>
+
+                    
+                        <ul id="nav_sub_p70" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/presse/foto-und-filmaufnahmen" class="menu-item-link">
+                <span>Foto- und Filmaufnahmen</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/presse/archiv" class="menu-item-link">
+                <span>Pressearchiv</span>
+            </a>
+
+            
+                <ul id="nav_sub_p1996" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/presse/archiv/2023" class="menu-item-link">
+                <span>2023</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/presse/archiv/2022" class="menu-item-link">
+                <span>2022</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/presse/archiv/2021" class="menu-item-link">
+                <span>2021</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/presse/archiv/2020" class="menu-item-link">
+                <span>2020</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/presse/archiv/2019" class="menu-item-link">
+                <span>2019</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/presse/archiv/2018" class="menu-item-link">
+                <span>2018</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/presse/archiv/2017" class="menu-item-link">
+                <span>2017</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/presse/archiv/2016" class="menu-item-link">
+                <span>2016</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/presse/archiv/2015" class="menu-item-link">
+                <span>2015</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/presse/archiv/2014" class="menu-item-link">
+                <span>2014</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/presse/archiv/2013" class="menu-item-link">
+                <span>2013</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/presse/archiv/2012" class="menu-item-link">
+                <span>2012</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/presse/archiv/2011" class="menu-item-link">
+                <span>2011</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/presse/archiv/2010" class="menu-item-link">
+                <span>2010</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/presse/archiv/2009" class="menu-item-link">
+                <span>2009</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+</ul>
+                    
+                </li>
+            
+                <li class="menu-item  ">
+                    <a href="https://www.blb-karlsruhe.de/konto" target="_blank" class="menu-item-link">
+                        <span>Mein Konto</span>
+                    </a>
+
+                    
+                </li>
+            
+                <li class="menu-item  ">
+                    <a href="/shop" class="menu-item-link">
+                        <span>Shop</span>
+                    </a>
+
+                    
+                </li>
+            
+                <li class="menu-item has-sub-menu ">
+                    <a href="/glossar" class="menu-item-link">
+                        <span>Glossar</span>
+                    </a>
+
+                    
+                        <ul id="nav_sub_p793" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/glossar/a" class="menu-item-link">
+                <span>A</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/glossar/b" class="menu-item-link">
+                <span>B</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/glossar/c" class="menu-item-link">
+                <span>C</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/glossar/d" class="menu-item-link">
+                <span>D</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/glossar/e" class="menu-item-link">
+                <span>E</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/glossar/f" class="menu-item-link">
+                <span>F</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/glossar/g" class="menu-item-link">
+                <span>G</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/glossar/h" class="menu-item-link">
+                <span>H</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/glossar/i" class="menu-item-link">
+                <span>I</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/glossar/j" class="menu-item-link">
+                <span>J</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/glossar/k" class="menu-item-link">
+                <span>K</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/glossar/l" class="menu-item-link">
+                <span>L</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/glossar/m" class="menu-item-link">
+                <span>M</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/glossar/n" class="menu-item-link">
+                <span>N</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/glossar/o" class="menu-item-link">
+                <span>O</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/glossar/p" class="menu-item-link">
+                <span>P</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/glossar/r" class="menu-item-link">
+                <span>R</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/glossar/s" class="menu-item-link">
+                <span>S</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/glossar/t" class="menu-item-link">
+                <span>T</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/glossar/u" class="menu-item-link">
+                <span>U</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/glossar/v" class="menu-item-link">
+                <span>V</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/glossar/w" class="menu-item-link">
+                <span>W</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/glossar/z" class="menu-item-link">
+                <span>Z</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+                    
+                </li>
+            
+                <li class="menu-item  ">
+                    <a href="/die-blb/formulare/kontaktformulare/badische-landesbibliothek" class="menu-item-link">
+                        <span>Kontakt</span>
+                    </a>
+
+                    
+                </li>
+            
+        </ul>
+    
+
+
+        </div>
+    </div>
+    <div class="blb-nav-icons">
+        <div class="blb-nav-icon-list">
+            <div class="blb-nav-search-icon">
+                <a href="/suchergebnisse" title="Suchen" class="blb-icon blb-search-icon">
+                    <div class="blb-search-icon-svg">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="1.2 0.5 17.6 19">
+                            <path d="M18.8 18.5 14 13.7c1.5-1.4 2.4-3.4 2.4-5.6C16.4 3.9 13 .5 8.8.5S1.2 3.9 1.2 8.1c0 4.2 3.4 7.6 7.6 7.6 1.5 0 2.9-.4 4.1-1.2l4.9 4.9c0 .1 1-.9 1-.9zM2.6 8.1c0-3.4 2.8-6.2 6.2-6.2S15 4.7 15 8.1s-2.8 6.2-6.2 6.2-6.2-2.7-6.2-6.2z"/>
+                        </svg>
+                    </div>                    
+                    <span>
+                        Suchen
+                    </span>
+                </a>
+            </div>
+            
+            
+
+            <div class="blb-nav-social-icon-wrapper-desktop">
+                <div class="blb-nav-social-icon" id="wa">
+                    <a href="https://www.blb-karlsruhe.de/whats-app" title="WhatsApp" target="_blank" data-tooltip="false" rel="noreferrer">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180">
+                            <path d="M0 0h180v180H0z" style="stroke-width:0"/>
+                            <path d="M132.52 47.23c-11.28-11.29-26.28-17.52-42.26-17.52-32.93 0-59.74 26.8-59.75 59.74 0 10.53 2.75 20.81 7.98 29.87l-8.48 30.96 31.67-8.31a59.654 59.654 0 0 0 28.55 7.27h.03c32.93 0 59.74-26.8 59.75-59.75 0-15.97-6.2-30.98-17.48-42.27Zm-42.26 91.93h-.02c-8.91 0-17.65-2.4-25.28-6.92l-1.81-1.08-18.8 4.93 5.02-18.33-1.18-1.88a49.517 49.517 0 0 1-7.59-26.43c.01-27.38 22.29-49.66 49.68-49.66 13.26 0 25.73 5.18 35.11 14.57 9.38 9.39 14.54 21.87 14.53 35.13-.01 27.38-22.29 49.66-49.66 49.66Zm27.24-37.19c-1.49-.75-8.83-4.36-10.2-4.86-1.37-.5-2.36-.75-3.36.75-.99 1.5-3.86 4.86-4.73 5.85-.87 1-1.74 1.12-3.23.37-1.49-.75-6.3-2.32-12.01-7.41-4.44-3.96-7.43-8.85-8.31-10.34-.87-1.5-.09-2.3.65-3.05.67-.67 1.49-1.74 2.24-2.62.75-.87.99-1.5 1.49-2.49.5-1 .25-1.87-.12-2.62s-3.36-8.1-4.6-11.08c-1.21-2.91-2.44-2.52-3.36-2.56-.87-.04-1.87-.05-2.86-.05s-2.61.37-3.98 1.87-5.23 5.11-5.23 12.45 5.35 14.45 6.1 15.45 10.53 16.08 25.5 22.54c3.56 1.54 6.34 2.46 8.51 3.15 3.58 1.14 6.83.98 9.4.59 2.87-.43 8.83-3.61 10.08-7.1 1.24-3.49 1.24-6.48.87-7.1s-1.37-1-2.86-1.74Z" style="stroke-width:0;fill-rule:evenodd"/>
+                        </svg>
+                    </a>
+                </div>
+                <div class="blb-nav-social-icon" id="yt">
+                    <a href="https://www.youtube.com/@badischelandesbibliothek" title="YouTube" target="_blank" data-tooltip="false" rel="noreferrer">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180">
+                            <path d="M0 0h180v180H0z" style="stroke-width:0"/>
+                            <path d="M147.49 61.12a15.041 15.041 0 0 0-10.61-10.61C127.52 48 90 48 90 48s-37.53 0-46.88 2.51a15.041 15.041 0 0 0-10.61 10.61C30 70.48 30 90 30 90s0 19.53 2.51 28.88c1.38 5.16 5.45 9.23 10.61 10.61C52.48 132 90 132 90 132s37.53 0 46.88-2.51c5.16-1.38 9.23-5.45 10.61-10.61C150 109.52 150 90 150 90s0-19.53-2.51-28.88ZM78 108V72l31.18 18L78 108Z" style="stroke-width:0"/>
+                        </svg>
+                    </a>
+                </div>
+                <div class="blb-nav-social-icon" id="x">
+                    <a href="https://twitter.com/BLB_Karlsruhe" title="Twitter/X" target="_blank" data-tooltip="false" rel="noreferrer">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180">
+                            <path d="M0 0h180v180H0z" style="stroke-width:0"/>
+                            <path d="M101.17 80.81 144.88 30h-10.36L96.56 74.12 66.25 30H31.29l45.84 66.72L31.29 150h10.36l40.08-46.59L113.74 150h34.96l-47.54-69.19ZM86.98 97.3l-4.64-6.64L45.38 37.8h15.91l29.82 42.66 4.64 6.64 38.77 55.45h-15.91L86.97 97.3Z" style="stroke-width:0"/>
+                        </svg>
+                    </a>
+                </div>
+                <div class="blb-nav-social-icon" id="ig">
+                    <a href="https://www.instagram.com/badischelandesbibliothek/" title="Instagram" target="_blank" data-tooltip="false" rel="noreferrer">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180">
+                            <path d="M0 0h180v180H0z" style="stroke-width:0"/>
+                            <path d="M65.15 30.42c-6.38.3-10.74 1.32-14.55 2.82-3.94 1.54-7.29 3.6-10.61 6.94-3.33 3.34-5.38 6.69-6.9 10.64-1.48 3.82-2.48 8.18-2.76 14.57-.28 6.4-.34 8.44-.31 24.73.03 16.29.1 18.34.41 24.74.31 6.38 1.32 10.74 2.82 14.55 1.54 3.94 3.6 7.29 6.94 10.61 3.34 3.33 6.69 5.37 10.64 6.9 3.82 1.48 8.18 2.48 14.57 2.76 6.4.28 8.44.34 24.73.31 16.3-.03 18.34-.1 24.74-.41 6.38-.31 10.74-1.33 14.55-2.82 3.94-1.54 7.29-3.6 10.61-6.94 3.33-3.34 5.37-6.69 6.9-10.64 1.48-3.82 2.48-8.18 2.76-14.56.28-6.4.35-8.45.31-24.74-.03-16.29-.1-18.33-.41-24.73-.3-6.39-1.33-10.74-2.82-14.56-1.54-3.94-3.6-7.28-6.94-10.61-3.34-3.33-6.69-5.38-10.64-6.9-3.82-1.48-8.18-2.48-14.57-2.76-6.4-.28-8.44-.35-24.74-.31-16.29.03-18.33.1-24.73.41m.7 108.47c-5.85-.25-9.03-1.23-11.14-2.04-2.8-1.08-4.8-2.39-6.91-4.48-2.1-2.1-3.41-4.09-4.5-6.89-.82-2.12-1.81-5.29-2.09-11.14-.3-6.32-.37-8.22-.39-24.24-.03-16.02.03-17.91.3-24.24.25-5.85 1.23-9.03 2.04-11.14 1.08-2.81 2.38-4.8 4.48-6.91 2.1-2.11 4.09-3.41 6.89-4.5 2.12-.83 5.29-1.81 11.14-2.09 6.33-.3 8.22-.36 24.24-.39 16.02-.03 17.92.03 24.25.3 5.85.25 9.03 1.22 11.14 2.04 2.81 1.08 4.81 2.38 6.91 4.48 2.1 2.1 3.41 4.09 4.5 6.89.83 2.11 1.81 5.29 2.08 11.13.3 6.33.37 8.23.4 24.24.03 16.02-.03 17.92-.31 24.24-.25 5.85-1.22 9.03-2.04 11.15-1.08 2.8-2.38 4.8-4.48 6.91-2.1 2.1-4.09 3.41-6.89 4.5-2.11.82-5.29 1.81-11.13 2.09-6.33.3-8.22.37-24.25.39-16.02.03-17.91-.03-24.24-.3m48.91-80.95c0 3.97 3.24 7.19 7.21 7.18 3.98 0 7.19-3.24 7.19-7.21 0-3.97-3.24-7.19-7.21-7.19-3.98 0-7.19 3.24-7.19 7.21M59.19 90.06c.03 17.02 13.85 30.78 30.86 30.75 17.01-.03 30.79-13.85 30.75-30.87-.03-17.01-13.85-30.78-30.87-30.75-17.01.03-30.78 13.86-30.75 30.87m10.81-.02C69.97 79 78.91 70.02 89.95 70c11.04-.02 20.02 8.91 20.04 19.96.02 11.05-8.92 20.02-19.96 20.04-11.04.02-20.02-8.92-20.04-19.96"/>
+                        </svg>
+                    </a>
+                </div>
+                <div class="blb-nav-social-icon" id="fb">
+                    <a href="https://www.facebook.com/BadischeLandesbibliothek/" title="Facebook" target="_blank" data-tooltip="false" rel="noreferrer">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180">
+                            <path d="M0 0h180v180H0z" style="stroke-width:0"/>
+                            <path d="M150.09 90.48c0-33.14-26.86-60-60-60s-60 26.86-60 60c0 28.14 19.37 51.75 45.51 58.23v-39.9H63.23V90.47H75.6v-7.9c0-20.42 9.24-29.89 29.29-29.89 3.8 0 10.36.75 13.04 1.49v16.62c-1.42-.15-3.88-.22-6.93-.22-9.84 0-13.64 3.73-13.64 13.42v6.48h19.6l-3.37 18.34H97.36v41.23c29.71-3.59 52.73-28.88 52.73-59.56Z" style="stroke-width:0"/>
+                        </svg>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="blb-nav-breadcrumbs">
+        
+            <ul class="blb-breadcrumbs"><li><a >Startseite</a></li><li><a href="/recherche">Recherche</a></li><li><a href="/recherche/baden-wuerttemberg">Baden-Württemberg</a></li><li><a href="/recherche/baden-wuerttemberg/landesbibliographie-baden-wuerttemberg">Landesbibliographie Baden-Württemberg</a></li><li>Neue Recherche</li></ul>
+        
+    </div>
+</nav>
+
+      <!--TYPO3SEARCH_begin-->
+      
+
+    <div id="blb-content-container" class="blb-box-container-50-30-20">
+        <div class="blb-box-main">
+            <article class="blb-content">
+                
+	    	
+
+
+
+
+	<div id="c16229">
+    	
+
+    
+            
+                    
+    
+            <h1>Neue Recherche</h1>
+        
+
+
+
+                    
+    
+        <div class="blb-textpic">
+            
+    
+        <div class="blb-text">
+          <p>Die Landesbibliographie Baden-Württemberg ist zum 1. Januar 2024 vom Statistischen Landesamt in den Verbundkatalog K10plus umgezogen. Verbunden mit dieser Umstellung der Datenhaltung ist eine neue Rechercheoberfläche.</p>
+          
+        </div>
+    
+
+        </div>
+    
+
+
+                
+        
+
+
+	</div>
+
+	    	
+
+
+
+
+	<div id="c16230">
+    	
+
+    
+            
+                    
+    
+            
+        
+
+
+
+                    
+    
+        
+
+                <div class="blb-textpic horizontal">
+                    
+
+    
+        
+
+                
+
+                        <div class="blb-images vertical">
+                            
+
+                                <div class="blb-image">
+                                    
+
+    
+        <img src="/files/user_upload/Logo/blb.svg" width="170" height="70" alt="" />
+    
+
+
+
+
+                                    <div class="blb-image-description-wrapper">
+                                      <div class="blb-image-description"></div>
+                                      
+                                    </div>
+                                </div>
+                            
+                        </div>
+
+                    
+
+            
+    
+
+
+                    
+    
+        <div class="blb-text">
+          <p>Wechseln Sie in in den <a href="https://rds-blb.ibs-bw.de/opac/RDSIndex/Search?type=AllFields&amp;filter%5B%5D=tz%3ABWLB" target="_blank" rel="noreferrer">Katalog plus der BLB</a>. Ihnen steht eine Einschlitzsuche und eine erweiterte Suche zur Verfügung. In der Trefferliste haben Sie über eine Suchoption rechts die Möglichkeit, Ihre Suchanfrage auf Treffer der Landesbibliographie zu beschränken.</p>
+          
+        </div>
+    
+
+                </div>
+
+            
+    
+
+
+                
+        
+
+
+	</div>
+
+	    	
+
+
+
+
+	<div id="c16232">
+    	
+
+    
+            
+                    
+    
+            
+        
+
+
+
+                    
+    
+        
+
+                <div class="blb-textpic horizontal">
+                    
+
+    
+        
+
+                
+
+                        <div class="blb-images vertical">
+                            
+
+                                <div class="blb-image">
+                                    
+
+    
+        <img src="/files/user_upload/2_Recherche/wlb.svg" width="170" height="60" alt="Zu sehen ist das Logo der Württembergischen Landesbibliothek." />
+    
+
+
+
+
+                                    <div class="blb-image-description-wrapper">
+                                      <div class="blb-image-description"></div>
+                                      
+                                    </div>
+                                </div>
+                            
+                        </div>
+
+                    
+
+            
+    
+
+
+                    
+    
+        <div class="blb-text">
+          <p>Wechseln Sie in den <a href="https://wlb.boss.bsz-bw.de/" target="_blank" rel="noreferrer">Katalog Plus der WLB</a>. Ihnen steht eine Einschlitzsuche und eine erweiterte Suche zur Verfügung. In der Trefferliste haben Sie über eine Suchoption rechts die Möglichkeit, Ihre Suchanfrage auf Titel Landesbibliographie einzuschränken.</p>
+          
+        </div>
+    
+
+                </div>
+
+            
+    
+
+
+                
+        
+
+
+	</div>
+
+	    	
+
+
+
+
+	<div id="c16236">
+    	
+
+    
+            
+                    
+    
+            <h2>Kontakt</h2>
+        
+
+
+
+                    
+    
+        <div class="blb-textpic">
+            
+    
+        <div class="blb-text">
+          <p>Bei Fragen können Sie jederzeit die Teams von WLB und BLB kontaktieren:</p><ul> 	<li>WLB:&nbsp;<a href="mailto:landesbibliographie@wlb-stuttgart.de">landesbibliographie@wlb-stuttgart.de</a></li> 	<li>BLB: <a href="mailto:landesbibliographie@blb-karlsruhe.de">landesbibliographie@blb-karlsruhe.de</a>&nbsp;</li> </ul>
+          
+        </div>
+    
+
+        </div>
+    
+
+
+                
+        
+
+
+	</div>
+
+            </article>
+        </div>
+        <div class="blb-box blb-box-collapse blb-box-sidebar blb-sidebar-controller blb-sidebar-1 no-print" 
+            data-expanded-on="wide"
+            data-collapsed-on="compact,mobile"
+            data-static-on="wide">
+            <!--TYPO3SEARCH_end-->
+<div id="Sidebar_Header" class="blb-box-header">
+    <button id="sidebar-blb-box-toggle" class="blb-box-toggle">
+        <span class="blb-box-toggle-title">
+            Schnelleinstieg
+        </span>
+        <span class="blb-box-toggle-arrow"></span>
+    </button>
+</div>
+<div id="Sidebar_Content" class="blb-box-content">
+	<div class="blb-box-content-wrapper">
+		
+	    	
+
+
+
+
+	<div id="c12">
+    	
+
+    
+            
+                    
+    
+            
+        
+
+
+
+                    
+    
+        <div class="blb-textpic">
+            
+    
+        <div class="blb-text">
+            
+    
+            
+        
+
+
+
+            <div class="list-of-links"><ul><li class="blb-link internal-link"><a href="/blblog">Hier geht's zum BLBlog!</a></li></ul></div><div class="list-of-links"><ul><li class="blb-link internal-link"><a href="https://www.blb-karlsruhe.de/konto" target="_blank">Mein Konto</a></li><li class="blb-link internal-link"><a href="https://rds-blb.ibs-bw.de/opac/" target="_blank" rel="noreferrer">Katalog plus</a></li><li class="blb-link external-link"><a href="https://booking.blb-karlsruhe.de/" target="_blank" rel="noreferrer">Raumbuchungssystem</a></li><li class="blb-link internal-link"><a href="/recherche/baden-wuerttemberg/landesbibliographie-baden-wuerttemberg/neue-recherche">Landesbibliographie</a></li><li class="blb-link external-link"><a href="https://digital.blb-karlsruhe.de/" target="_blank" rel="noreferrer">Digitale Sammlungen</a></li><li class="blb-link internal-link"><a href="/die-blb/seiten-ohne-menue/infos-fuer-einsteiger">Infos für Einsteiger</a></li><li class="blb-link internal-link"><a href="https://elearning.blb-karlsruhe.de/" target="_blank" rel="noreferrer">Online-Kurse und Tutorials</a></li></ul></div>
+            
+        </div>
+    
+
+        </div>
+    
+
+
+                
+        
+
+
+	</div>
+<div id="c">
+    
+
+    
+        
+        
+    
+
+    
+
+
+</div>
+
+	    	
+
+
+
+
+	<div id="c13">
+    	
+
+    
+            
+                    
+    
+            
+        
+
+
+
+                    
+    
+        <div class="blb-textpic">
+            
+    
+        <div class="blb-text">
+          <h4>Adresse</h4>
+<p>Erbprinzenstraße 15<br /> 76133 Karlsruhe<br /> T +49 721 175-2221<br /> service@blb-karlsruhe.de</p>
+<h4>Öffnungszeiten</h4>
+<p>Haupthaus<br /> Mo–Fr 9–19 Uhr / Sa 10–18 Uhr</p>
+<p>Lesesaal Sammlungen<br /> Mo–Mi/Fr 9.30–16 Uhr / Do 9.30–18 Uhr</p>
+<p>Wissenstor<br /> Mo–Fr 9–22 Uhr / Sa–So&nbsp;10–22 Uhr</p>
+          
+        </div>
+    
+
+        </div>
+    
+
+
+                
+        
+
+
+	</div>
+
+	</div>
+</div>
+<!--TYPO3SEARCH_begin-->
+
+        </div>
+        <div class="blb-content-container-grid-inner">
+            
+
+            
+        </div>
+    </div>
+
+
+      <!--TYPO3SEARCH_end-->
+    </div>
+</div>
+
+<footer class="blb-footer no-print">
+    <div class="blb-container blb-container-footer">
+        <div class="blb-footer-wrapper">
+            <div class="blb-footer-group">
+                <div class="blb-footer-item">
+                    
+	    	
+
+
+
+
+	<div id="c1343">
+    	
+
+    
+            
+                    
+
+
+                    
+    
+        <div class="blb-textpic">
+            
+    
+        <div class="blb-text">
+          <p>Badische Landesbibliothek<br />Erbprinzenstraße 15<br />76133 Karlsruhe</p>
+<p>&nbsp;</p>
+          
+        </div>
+    
+
+        </div>
+    
+
+
+                
+        
+
+
+	</div>
+
+                </div>
+                <div class="blb-footer-item">
+                    
+	    	
+
+
+
+
+	<div id="c4">
+    	
+
+    
+            
+                    
+    
+            
+        
+
+
+
+                    
+    
+        <div class="blb-textpic">
+            
+    
+        <div class="blb-text">
+          <p>T +49 721 175-2221<br /> service@blb-karlsruhe.de</p>
+          
+        </div>
+    
+
+        </div>
+    
+
+
+                
+        
+
+
+	</div>
+
+    
+        
+
+        <ul class="menu-item-list footer-menu">
+            
+                <li class="menu-item  ">
+                    <a href="/oeffnungszeiten" class="menu-item-link">
+                        <span>Öffnungszeiten</span>
+                    </a>
+
+                    
+                </li>
+            
+        </ul>
+    
+
+
+    
+        
+
+        <ul class="menu-item-list footer-menu">
+            
+                <li class="menu-item  ">
+                    <a href="/cafe" class="menu-item-link">
+                        <span>Café</span>
+                    </a>
+
+                    
+                </li>
+            
+        </ul>
+    
+
+
+                </div>
+                <div class="blb-footer-item">
+                    
+    
+        
+
+        <ul class="menu-item-list footer-menu">
+            
+                <li class="menu-item  ">
+                    <a href="/impressum" class="menu-item-link">
+                        <span>Impressum</span>
+                    </a>
+
+                    
+                </li>
+            
+                <li class="menu-item  ">
+                    <a href="/datenschutz" class="menu-item-link">
+                        <span>Datenschutz</span>
+                    </a>
+
+                    
+                </li>
+            
+                <li class="menu-item  ">
+                    <a href="/barrierefreiheit" class="menu-item-link">
+                        <span>Barrierefreiheit</span>
+                    </a>
+
+                    
+                </li>
+            
+                <li class="menu-item  ">
+                    <a href="/leichte-sprache" class="menu-item-link">
+                        <span>Leichte Sprache</span>
+                    </a>
+
+                    
+                </li>
+            
+                <li class="menu-item  ">
+                    <a href="/gebaerdensprache" class="menu-item-link">
+                        <span>Gebärdensprache</span>
+                    </a>
+
+                    
+                </li>
+            
+        </ul>
+    
+
+
+                </div>
+            </div>
+            <div class="blb-footer-group">
+                <div class="blb-footer-item logo">
+                    <div class="blb-logo ">
+    
+    
+        <div class="blb-logo-object" style="background-image:url('/files/Template/Public/Images/ico/logo_f.svg')"></div>
+    
+    
+</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<div class="unsupported-browser-container">
+    <div class="overlay">
+        <div class="overlay-box">
+            <div class="overlay-box-header">
+                <a href="https://blb-karlsruhe.de" target="_blank" class="logo-container" rel="noreferrer">
+                  <img src="/typo3conf/ext/blbweb/Resources/Public/Images/blb.svg">
+                </a>
+                <h1>Nicht unterstützter Web-Browser!</h1>
+            </div>
+            <div class="overlay-box-body">
+                <p>
+                  Ihr verwendeter Web-Browser ist veraltet und kann daher einige der modernen Funktionen der Webseite <a href="https://www.blb-karlsruhe.de" target="_blank">www.blb-karlsruhe.de</a> nicht unterstützen.<br>
+                  Um diese Webseite nutzen zu können und sich sicher im Internet zu bewegen, verwenden Sie bitte einen der folgenden Web-Browser:<br>
+                </p>
+                <table class="browser-list">
+                    <tr>
+                        <td><img height="64" src="/typo3conf/ext/blbweb/Resources/Public/Images/Browsers/firefox.png"></td>
+                        <td><a href="https://www.mozilla.org/de/" target="_blank" rel="noreferrer">Mozilla inc., Firefox</a></td>
+                    </tr>
+                    <tr>
+                        <td><img height="64" src="/typo3conf/ext/blbweb/Resources/Public/Images/Browsers/chrome.png"></td>
+                        <td><a href="https://www.google.de/chrome/" target="_blank" rel="noreferrer">Google inc., Chrome</a></td>
+                    </tr>
+                    <tr>
+                        <td><img height="64" src="/typo3conf/ext/blbweb/Resources/Public/Images/Browsers/chromium.png"></td>
+                        <td><a href="https://www.chromium.org/getting-involved/download-chromium" target="_blank" rel="noreferrer">Google inc., Chromium</a></td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="/typo3conf/ext/femanager/Resources/Public/JavaScript/Validation.min.js?1674128314"></script>
+<script src="/typo3conf/ext/femanager/Resources/Public/JavaScript/Femanager.min.js?1674128314"></script>
+<script src="/typo3conf/ext/powermail/Resources/Public/JavaScript/Powermail/Form.min.js?1679583754" defer="defer"></script>
+<script src="/typo3conf/ext/blbweb/Resources/Public/app.js?1707910355"></script>
+
+<!-- Matomo -->
+
+<script type="text/javascript">
+
+  var _paq = window._paq = window._paq || [];
+
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+
+  _paq.push(["disableCookies"]);
+
+  _paq.push(['trackPageView']);
+
+  _paq.push(['enableLinkTracking']);
+
+  (function() {
+
+    var u="https://statistik.blb-karlsruhe.de/";
+
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+
+    _paq.push(['setSiteId', '9']);
+
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+
+    g.type='text/javascript'; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+
+  })();
+
+</script>
+
+<!-- End Matomo Code -->
+</body>
+</html>

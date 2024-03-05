@@ -1,7 +1,7 @@
 #FORMAT: BEACON
 #PREFIX: http://d-nb.info/gnd/
-#TARGET: http://histvv.uzh.ch/pnd/{ID}
-#FEED: http://histvv.uzh.ch/pnd.txt
+#TARGET: http://localhost:3000/pnd/{ID}
+#FEED: http://localhost:3000/pnd.txt
 #COUNT: 354
 #INSTITUTION: Universitätsarchiv Zürich
 #MESSAGE: Lehrveranstaltungen an der Universität Zürich

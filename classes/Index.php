@@ -337,6 +337,9 @@ class Index {
 	}
 
 	static function preprocessFields($field, $value, $item) {
+        if ($value == null) {
+            $value = '';
+        }
 		$value = trim($value, '[]');
 		if($field == 'persName') {
 			$value = removeSpecial($value);

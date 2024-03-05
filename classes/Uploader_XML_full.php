@@ -1,5 +1,6 @@
 <?php
 
+#[\AllowDynamicProperties]
 class Uploader_XML_full extends Uploader {
 
 	private $dom;
@@ -7,6 +8,7 @@ class Uploader_XML_full extends Uploader {
     function __construct($path, $fileName) {
         $this->path = $path;
         $this->fileName = $fileName;
+        $this->metaPath = Reconstruction::FOLDER.'/'.$this->fileName.'/'.$this->fileName.'-metadata.xml';
 	    $this->dom = new DOMDocument();
 	    $this->dom->load($this->path);
         if ($this->dom == FALSE) {
@@ -36,8 +38,8 @@ class Uploader_XML_full extends Uploader {
 			$sections = $sectionParent->getChildNodes('section');
 			foreach ($sections as $secNode) {
 				$id = $secNode->getAttribute('id');
-				$label = $secNode->node->nodeValue;
-				$catSec = new Catalogue_section($id, $label);
+				$label = $secNode->getContent();
+				$catSec = new CatalogueSection($id, $label);
 				$catalogue->sections[] = $catSec;
 			}
     		$result[] = $catalogue;
@@ -46,13 +48,13 @@ class Uploader_XML_full extends Uploader {
     }
 
     public function loadMetadata() {
-    	$metadataSet = new MetadataReconstruction;
+    	$metadataSet = new MetadataReconstruction();
     	$metadata = $this->dom->getElementsByTagName('metadata')->item(0);
     	$myMetaDom = new MyDOM($metadata);
     	$myMetaDom->writeChildrenToObject($metadataSet, array('heading', 'owner', 'ownerGND', 'description', 'geoBrowserStorageID', 'geoBrowserStorageID_bio', 'yearReconstruction'));
         $personNodes = $myMetaDom->getChildNodes('person');
         foreach ($personNodes as $persNode) {
-            $person = new Person;
+            $person = new Person();
             $persNode->writeTextToObject($person, 'persName');
             $persNode->writeAttributesToObject($person, array('gnd', 'role', 'gender'));
             $metadataSet->persons[] = $person;
@@ -124,10 +126,10 @@ class Uploader_XML_full extends Uploader {
     			$myPN = new MyDOM($pNode);
     			$myPN->writeAttributesToObject($place, array('geoNames', 'getty', 'gnd'));
     			$geoDataString = $myPN->getAttribute('geoData');
-    			if (strpos($geoDataString, ',') > 2) {
+                if (!empty($geoDataString)) {
     				$place->geoData['lat'] = explode(',', $geoDataString)[0];
     				$place->geoData['long'] = explode(',', $geoDataString)[1];
-    			}
+                }
     			$item->places[] = $place;
     		}
 
@@ -150,10 +152,10 @@ class Uploader_XML_full extends Uploader {
     		if ($manNode) {
     			$item->manifestation['systemManifestation'] = trim($manNode->getAttribute('system'));
     			$item->manifestation['idManifestation'] = trim($manNode->getAttribute('id'));
-    			$commentNode = trim($manNode->getSingleChildNode('comment'));
-    			if ($commentNode) {
-    				$item->manifestation['commentManifestation'] = trim($commentNode->getContent());
-    			}
+                if (!empty($manNode->getSingleChildNode('comment'))) {
+    			    $commentNode = trim($manNode->getSingleChildNode('comment'));
+                    $item->manifestation['commentManifestation'] = trim($commentNode->getContent());
+                }
     		}
 
     		//Laden von Werken
@@ -228,6 +230,28 @@ class Uploader_XML_full extends Uploader {
                     }
                 }
             }
+            else {
+                $pbNodes = $xp->query('preceding::pb', $itemNode);
+                if ($pbNodes->length >= 1) {
+                    $pb = $pbNodes->item($pbNodes->length - 1);
+                    $myPB = new MyDOM($pb);
+                    $attributesPB = $myPB->getAttributes(array('no', 'image'));
+                    if (isset($attributesPB['no'])) {
+                        $entry->pageCat = $attributesPB['no'];
+                    }
+                    if (isset($attributesPB['image'])) {
+                        $entry->imageCat = $attributesPB['image'];
+                    }
+                }
+                if (isset($attributes['section'])) {
+                    $nodeSection = $xp->query('//catalogue/sections/section[@id="'.$attributes['section'].'"]')->item(0);
+                    if ($nodeSection) {
+                        $entry->histSubject = trim($nodeSection->nodeValue);
+                    }
+                }
+            }
+
+
             $item->catEntries[] = $entry;
         }
         $item->importFirstCatEntry();

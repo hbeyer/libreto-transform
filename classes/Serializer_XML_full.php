@@ -1,18 +1,19 @@
 <?php
 
+#[\AllowDynamicProperties]
 class Serializer_XML_full extends Serializer_XML {
 
 	public $catalogues = array();
 	public $metadataReconstruction;
 
-    public function __construct($catalogues, MetadataReconstruction $metadata, $data) {
+    public function __construct($catalogues, MetadataReconstruction $metadata, $data, $fileName) {
 		foreach ($catalogues as $cat) {
 			if (get_class($cat) == 'Catalogue') {
 				$this->catalogues[] = $cat;
 			}
 		}
 		$this->metadataReconstruction = $metadata;
-		$this->fileName = $this->metadataReconstruction->fileName;
+		$this->fileName = $fileName;
 		$this->path = Reconstruction::getPath($this->fileName, $this->fileName."-full", 'xml');
 		$this->data = $data;
 		$this->serialize();
@@ -38,18 +39,18 @@ class Serializer_XML_full extends Serializer_XML {
             }
         }
 		foreach ($this->catalogues as $cat) {
-			$catElement = $this->dom->createElement('catalogue');
-			$catElement->setAttribute("id", $cat->id);
+			$catEl = $this->dom->createElement('catalogue');
+			$catEl->setAttribute("id", $cat->id);
 			foreach($cat->persons as $pers) {
 				$persEl = $this->dom->createElement('person');
 				if (!$pers->role) {
 					$pers->role = 'VerfasserIn';
 				}
 				$persEl->setAttribute('role', $pers->role);
-				if ($person->gnd) {
+				if ($pers->gnd) {
 					$persEl->setAttribute('gnd', $pers->gnd);
 				}
-				if ($person->gender) {
+				if ($pers->gender) {
 					$persEl->setAttribute('gender', $pers->gender);
 				}
 				$text = $this->dom->createTextNode($pers->persName);
@@ -58,11 +59,14 @@ class Serializer_XML_full extends Serializer_XML {
 			}
 			$fields = array('title', 'placeCat', 'printer', 'year', 'institution', 'shelfmark');
 			foreach ($cat as $key => $value) {
+                if ($value == null) {
+                    $value = '';
+                }
 				if (in_array($key, $fields)) {
 					$element = $this->dom->createElement($key);
 					$text = $this->dom->createTextNode($value);
 					$element->appendChild($text);
-					$catElement->appendChild($element);
+					$catEl->appendChild($element);
 				}
 			}
 			$sectionsEl = $this->dom->createElement('sections');
@@ -73,8 +77,8 @@ class Serializer_XML_full extends Serializer_XML {
 				$sectionEl->appendChild($text);
 				$sectionsEl->appendChild($sectionEl);
 			}
-			$catElement->appendChild($sectionsEl);
-			$metadata->appendChild($catElement);
+			$catEl->appendChild($sectionsEl);
+			$metadata->appendChild($catEl);
 		}
         $root->appendChild($metadata);
     }

@@ -1,5 +1,6 @@
 <?php
 
+#[\AllowDynamicProperties]
 class MetadataReconstruction {
 	
 	public $fileName; //The file name to be used in the URL

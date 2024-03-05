@@ -62,7 +62,9 @@ class Serializer_XML extends Serializer {
             }
             // Fall 1: Variable ist ein einfacher Wert
             if(is_array($value) == FALSE) {
-                //$value = replaceAmp($value);
+                if ($value == null) {
+                    $value = '';
+                }
                 $itemProperty = $this->dom->createElement($key);
                 $textProperty = $this->dom->createTextNode($value);
                 $itemProperty->appendChild($textProperty);

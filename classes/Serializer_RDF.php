@@ -1,5 +1,6 @@
 <?php
 
+#[\AllowDynamicProperties]
 class  Serializer_RDF extends Serializer {
 
     protected $graph;
