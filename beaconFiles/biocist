@@ -20,12 +20,12 @@
 
 <link rel="stylesheet" href="/typo3conf/ext/blbweb/node_modules/swiper/swiper-bundle.min.css?499162500" media="all">
 <link rel="stylesheet" href="/typo3conf/ext/femanager/Resources/Public/Css/Main.min.css?1674128314" media="all">
-<link rel="stylesheet" href="/typo3conf/ext/blbweb/Resources/Public/app.css?1707910355" media="all">
+<link rel="stylesheet" href="/typo3conf/ext/blbweb/Resources/Public/app.css?1716460584" media="all">
 
 
 
 <script src="/typo3conf/ext/blbweb/node_modules/jquery/dist/jquery.min.js?499162500"></script>
-<script src="/typo3conf/ext/blbweb/Resources/Public/vendor.js?1707910355"></script>
+<script src="/typo3conf/ext/blbweb/Resources/Public/vendor.js?1716460584"></script>
 
 
 <link rel="shortcut icon" type="image/x-icon" href="/typo3conf/ext/blbweb/Resources/Public/Images/favicon/favicon.ico">
@@ -159,7 +159,7 @@
                 <ul id="nav_sub_p82" class="menu-item-list header-menu">
     
         <li class="menu-item  ">
-            <a href="https://www.blb-karlsruhe.de/files/user_upload/PDF/1_Die_%20BLB/Statistik_der_BLB_fuer_2022.pdf" target="_blank" class="menu-item-link">
+            <a href="https://www.blb-karlsruhe.de/files/user_upload/PDF/1_Die_%20BLB/Statistik_der_BLB_fuer_2023.pdf" target="_blank" class="menu-item-link">
                 <span>Statistik (PDF)</span>
             </a>
 
@@ -713,6 +713,14 @@
 
             
                 <ul id="nav_sub_p1555" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/recherche/baden-wuerttemberg/regionaliaopen/leitlinien" class="menu-item-link">
+                <span>Leitlinien</span>
+            </a>
+
+            
+        </li>
     
         <li class="menu-item  ">
             <a href="/recherche/baden-wuerttemberg/regionaliaopen/zeitschriften" class="menu-item-link">
@@ -2287,6 +2295,14 @@
                         <ul id="nav_sub_p476" class="menu-item-list header-menu">
     
         <li class="menu-item  ">
+            <a href="/kalender" class="menu-item-link">
+                <span>Überall KI…</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
             <a href="/aktuelles/kulturprogramm" class="menu-item-link">
                 <span>Kulturprogramm</span>
             </a>
@@ -2303,15 +2319,7 @@
                 <ul id="nav_sub_p482" class="menu-item-list header-menu">
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/naechste-ausstellungen" class="menu-item-link">
-                <span>Nächste Ausstellungen</span>
-            </a>
-
-            
-        </li>
-    
-        <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/aktuelle-ausstellungen" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/alte-buecher-neue-inspirationen" class="menu-item-link">
                 <span>Aktuelle Ausstellungen</span>
             </a>
 
@@ -2319,12 +2327,192 @@
         </li>
     
         <li class="menu-item has-sub-menu ">
+            <a href="/aktuelles/ausstellungen/digital" class="menu-item-link">
+                <span>Digitale Ausstellungen</span>
+            </a>
+
+            
+                <ul id="nav_sub_p2080" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/digital/die-welt-der-nibelungen" class="menu-item-link">
+                <span>Die Welt der Nibelungen</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/digital/fort-damit-johannes-reuchlin-und-die-juedische-kultur" class="menu-item-link">
+                <span>Fort damit? Johannes Reuchlin und die jüdische Kultur</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
             <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen" class="menu-item-link">
-                <span>Virtuelle Ausstellungen</span>
+                <span>Ausstellungsdokumentation</span>
             </a>
 
             
                 <ul id="nav_sub_p1103" class="menu-item-list header-menu">
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/alte-buecher-neue-inspirationen" class="menu-item-link">
+                <span>Alte Bücher – neue Inspirationen</span>
+            </a>
+
+            
+                <ul id="nav_sub_p2037" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/alte-buecher-neue-inspirationen/reichenauer-handschriften" class="menu-item-link">
+                <span>Reichenauer Handschriften</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/alte-buecher-neue-inspirationen/kuenstlerinnen-und-kuenstler" class="menu-item-link">
+                <span>Künstlerinnen und Künstler</span>
+            </a>
+
+            
+                <ul id="nav_sub_p2038" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/alte-buecher-neue-inspirationen/kuenstlerinnen-und-kuenstler/lily-arnold" class="menu-item-link">
+                <span>Lily Arnold</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/alte-buecher-neue-inspirationen/kuenstlerinnen-und-kuenstler/benjamin-belhocine" class="menu-item-link">
+                <span>Benjamin Belhocine</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/alte-buecher-neue-inspirationen/kuenstlerinnen-und-kuenstler/erle-blume" class="menu-item-link">
+                <span>Erle Blume</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/alte-buecher-neue-inspirationen/kuenstlerinnen-und-kuenstler/jule-doll" class="menu-item-link">
+                <span>Jule Doll</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/alte-buecher-neue-inspirationen/kuenstlerinnen-und-kuenstler/emily-ebner" class="menu-item-link">
+                <span>Emily Ebner</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/alte-buecher-neue-inspirationen/kuenstlerinnen-und-kuenstler/marie-emmanuel" class="menu-item-link">
+                <span>Marie Emmanuel</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/alte-buecher-neue-inspirationen/kuenstlerinnen-und-kuenstler/matthias-gmeiner" class="menu-item-link">
+                <span>Matthias Gmeiner</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/alte-buecher-neue-inspirationen/kuenstlerinnen-und-kuenstler/matthias-holznagel" class="menu-item-link">
+                <span>Matthias Holznagel</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/alte-buecher-neue-inspirationen/kuenstlerinnen-und-kuenstler/alexander-johl" class="menu-item-link">
+                <span>Alexander Johl</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/alte-buecher-neue-inspirationen/kuenstlerinnen-und-kuenstler/glenn-knapp" class="menu-item-link">
+                <span>Glenn Knapp</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/alte-buecher-neue-inspirationen/kuenstlerinnen-und-kuenstler/lucia-mattes" class="menu-item-link">
+                <span>Lucia Mattes</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/alte-buecher-neue-inspirationen/kuenstlerinnen-und-kuenstler/maria-pfrommer" class="menu-item-link">
+                <span>Maria Pfrommer</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/alte-buecher-neue-inspirationen/kuenstlerinnen-und-kuenstler/emma-tietze" class="menu-item-link">
+                <span>Emma Tietze</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/alte-buecher-neue-inspirationen/ausstellungsorte" class="menu-item-link">
+                <span>Ausstellungsorte</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/alte-buecher-neue-inspirationen/digitale-rallye" class="menu-item-link">
+                <span>Digitale Rallye</span>
+            </a>
+
+            
+        </li>
+    
+</ul>
+            
+        </li>
     
         <li class="menu-item has-sub-menu ">
             <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/maxreger2023" class="menu-item-link">
@@ -2608,7 +2796,7 @@
     
         <li class="menu-item  ">
             <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/johannes-reuchlin-juedische-kultur" class="menu-item-link">
-                <span>Fort damit - Johannes Reuchlin und die jüdische Kultur</span>
+                <span>Fort damit? Johannes Reuchlin und die jüdische Kultur</span>
             </a>
 
             
@@ -3640,11 +3828,19 @@
     
         <li class="menu-item has-sub-menu ">
             <a href="/aktuelles/ausstellungen/vergangene-ausstellungen" class="menu-item-link">
-                <span>Vergangene Ausstellungen</span>
+                <span>Ausstellungsarchiv</span>
             </a>
 
             
                 <ul id="nav_sub_p1167" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/vergangene-ausstellungen/archiv-ausstellungen-2023" class="menu-item-link">
+                <span>Archiv Ausstellungen 2023</span>
+            </a>
+
+            
+        </li>
     
         <li class="menu-item  ">
             <a href="/aktuelles/ausstellungen/vergangene-ausstellungen/archiv-ausstellungen-2022" class="menu-item-link">
@@ -4242,23 +4438,11 @@
                     
                 </li>
             
-                <li class="menu-item has-sub-menu ">
+                <li class="menu-item  ">
                     <a href="/kalender" class="menu-item-link">
                         <span>Kalender</span>
                     </a>
 
-                    
-                        <ul id="nav_sub_p2" class="menu-item-list header-menu">
-    
-        <li class="menu-item  ">
-            <a href="/kalender/archiv-kalender" class="menu-item-link">
-                <span>Archiv Kalender</span>
-            </a>
-
-            
-        </li>
-    
-</ul>
                     
                 </li>
             
@@ -4819,12 +5003,12 @@
 
                                 <div class="blb-image">
                                     
-
+        
+                
+                        <img src="https://www.blb-karlsruhe.de/files/user_upload/Logo/blb.svg" width="170" height="70" alt="" />
+                    
+            
     
-        <img src="/files/user_upload/Logo/blb.svg" width="170" height="70" alt="" />
-    
-
-
 
 
                                     <div class="blb-image-description-wrapper">
@@ -4895,12 +5079,12 @@
 
                                 <div class="blb-image">
                                     
-
+        
+                
+                        <img src="https://www.blb-karlsruhe.de/files/user_upload/2_Recherche/wlb.svg" width="170" height="60" alt="Zu sehen ist das Logo der Württembergischen Landesbibliothek." />
+                    
+            
     
-        <img src="/files/user_upload/2_Recherche/wlb.svg" width="170" height="60" alt="Zu sehen ist das Logo der Württembergischen Landesbibliothek." />
-    
-
-
 
 
                                     <div class="blb-image-description-wrapper">
@@ -5037,8 +5221,8 @@
 
 
 	</div>
-<div id="c">
-    
+
+        
 
     
         
@@ -5048,7 +5232,7 @@
     
 
 
-</div>
+    
 
 	    	
 
@@ -5331,7 +5515,7 @@
 <script src="/typo3conf/ext/femanager/Resources/Public/JavaScript/Validation.min.js?1674128314"></script>
 <script src="/typo3conf/ext/femanager/Resources/Public/JavaScript/Femanager.min.js?1674128314"></script>
 <script src="/typo3conf/ext/powermail/Resources/Public/JavaScript/Powermail/Form.min.js?1679583754" defer="defer"></script>
-<script src="/typo3conf/ext/blbweb/Resources/Public/app.js?1707910355"></script>
+<script src="/typo3conf/ext/blbweb/Resources/Public/app.js?1716460584"></script>
 
 <!-- Matomo -->
 

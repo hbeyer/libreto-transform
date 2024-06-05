@@ -29,14 +29,14 @@ class Uploader_CSV extends Uploader {
 
         $item = new Item();
 
-        $simpleFields = array('pageCat', 'imageCat', 'numberCat', 'titleCat', 'titleBib', 'titleNormalized', 'year', 'format', 'mediaType', 'bound', 'comment', 'digitalCopy');
+        $simpleFields = array('pageCat', 'imageCat', 'numberCat', 'titleCat', 'histShelfmark', 'titleBib', 'titleNormalized', 'year', 'format', 'mediaType', 'bound', 'comment', 'digitalCopy');
         foreach ($simpleFields as $field) {
             if (!empty($row[$field])) {
                 $item->$field = trim($row[$field]);
             }
         }
 
-        $semicolonFields = array('subjects', 'genres', 'languages', 'publishers', 'copiesHAB');
+        $semicolonFields = array('subjects', 'genres', 'languages', 'languagesOriginal', 'publishers', 'copiesHAB');
         foreach ($semicolonFields as $field) {
             if (!empty($row[$field])) {
                 $item->$field = explode(';', $row[$field]);
@@ -58,7 +58,7 @@ class Uploader_CSV extends Uploader {
             $explodeHistSubject = explode('#', $row['histSubject']);
             $explodeHistSubject = array_map('trim', $explodeHistSubject);
             $item->histSubject = $explodeHistSubject[0];
-            if(isset($explodeHistSubject[1])) {
+            if(isset($explodeHistSubject[1]) and empty($item->histSubject)) {
                 $item->histShelfmark = $explodeHistSubject[1];
             }
         }
@@ -81,11 +81,10 @@ class Uploader_CSV extends Uploader {
             }
         }
 
-        $personFields = array('author1', 'author2', 'author3', 'author4', 'contributor1', 'contributor2', 'contributor3', 'contributor4');
+        $personFields = array('author1', 'author2', 'author3', 'author4', 'translator1', 'translator2', 'contributor1', 'contributor2', 'contributor3', 'contributor4');
         foreach ($personFields as $field) {
             if (!empty($row[$field])) {
                 $person = new Person;
-                $parts = explode('#', $row[$field]);
                 preg_match('~([^#]+)#?([0-9X]+)?([mf])?~', $row[$field], $hits);
                 if (!empty($hits[1])) {
                     $person->persName = $hits[1];
@@ -99,6 +98,9 @@ class Uploader_CSV extends Uploader {
                 if (substr($field, 0, 3) == 'con') {
                     $person->role = 'contributor';
                 }
+                elseif (substr($field, 0, 10) == 'translator') {
+                    $person->role = 'ÜbersetzerIn';
+                }                
                 $item->persons[] = $person;
             }
         }

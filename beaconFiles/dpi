@@ -1,10 +1,10 @@
 #TARGET: https://www.portraitindex.de/dokumente/pnd/{ID}
-#CONTACT: bulle@fotomarburg.de
+#CONTACT: c.glorius@fotomarburg.de
 #FORMAT: PND-BEACON
 #PREFIX: https://d-nb.info/gnd/
 #INSTITUTION: Deutsches Dokumentationszentrum fuer Kunstgeschichte - Bildarchiv Foto Marburg
 #DESCRIPTION: Digitaler Portraitindex - Alle Personen
-#TIMESTAMP: 2024-03-05T03:20:50Z
+#TIMESTAMP: 2024-06-05T03:20:49Z
 #FEED: https://www.portraitindex.de/pnd_beacon.txt
 119024268|18
 121363201|44
@@ -437,7 +437,7 @@
 118645048|6
 118963066|21
 142569704|2
-117761583|15
+117761583|16
 115389385|217
 118726625|6
 1011455862|1
@@ -38537,7 +38537,6 @@ TP00411463|1
 1019749091|1
 124804837|1
 128928697|4
-11776158|1
 118552589|3
 116265256|1
 117581380|1
@@ -39522,3 +39521,4 @@ TP00411463|1
 1060705389|2
 116695676|1
 1067649395|1
+122848837|1

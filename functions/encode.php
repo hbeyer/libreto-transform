@@ -64,7 +64,8 @@ function translateFieldNames($field) {
 		'histShelfmark' => 'Altsignatur',		
 		'year' => 'Datierung', 
 		'placeName' => 'Orte', 
-		'languages' => 'Sprachen', 
+		'languages' => 'Sprachen',
+        'languagesOriginal' => 'Originalsprachen',
 		'publishers' => 'Drucker/Verleger', 
 		'format' => 'Formate', 
 		'volumes' => 'B&auml;nde', 
@@ -72,6 +73,7 @@ function translateFieldNames($field) {
 		'systemManifestation' => 'Nachweise', 
 		'genres' => 'Gattungen',
         'bound' => 'Bindung',
+    	'translator' => 'ÜbersetzerInnen',
     	'borrower' => 'Entleihende',
     	'dateLending' => 'Leihdatum',
     	'titleWork' => 'Werktitel'
@@ -91,6 +93,7 @@ function translateFieldNamesButtons($field) {
 		'year' => 'Jahre',
 		'placeName' => 'Orte', 
 		'languages' => 'Sprachen', 
+        'languagesOriginal' => 'Originalsprachen',
 		'publishers' => 'Drucker/Verleger', 
 		'format' => 'Formate', 
 		'volumes' => 'B&auml;nde', 
@@ -103,6 +106,7 @@ function translateFieldNamesButtons($field) {
 		'genres' => 'Gattungen',
 		'bibliographicalLevel' => 'Bibliographische Gattungen',
         'bound' => 'Bindung',
+    	'translator' => 'ÜbersetzerInnen',
     	'borrower' => 'Entleihende',
     	'dateLending' => 'Leihdatum'
 		);
@@ -139,6 +143,7 @@ function translateCheckboxNames($field) {
 		'mediaType' => 'Materialart', 
 		'systemManifestation' => 'Nachgewiesen in', 
 		'genres' => 'Gattung',
+    	'translator' => 'ÜbersetzerInnen',
     	'borrower' => 'Entleihende',
     	'dateLending' => 'Leihdatum'
 		);

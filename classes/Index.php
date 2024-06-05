@@ -11,12 +11,12 @@ class Index {
 	public $personFields = array('persName', 'gnd', 'gender', 'role', 'beacon');
 	public $placeFields = array('placeName', 'getty', 'geoNames');
 	//$arrayFields = array('languages', 'subjects', 'genres', 'beacon');
-	public $arrayFields = array('languages', 'subjects', 'genres', 'publishers');
+	public $arrayFields = array('languages', 'languagesOriginal', 'subjects', 'genres', 'publishers');
 	public $workFields = array('titleWork', 'systemWork', 'idWork');
 	public $manifestationFields = array('systemManifestation');
 	public $originalItemFields = array('institutionOriginal', 'shelfmarkOriginal', 'provenanceAttribute', 'targetOPAC', 'searchID');
 	// The following values do not correspond to a field, but they can be submitted to the function __construct()
-	public $virtualFields = array('catSubjectFormat', 'borrower');
+	public $virtualFields = array('catSubjectFormat', 'borrower', 'translator');
 
 	// The following fields are displayed with miscellanies as unordered lists
 	public $volumeFields = array('numberCat', 'catSubjectFormat', 'histSubject');
@@ -38,6 +38,9 @@ class Index {
 		}
 		elseif ($this->field == 'borrower') {
 			$collect = $this->collectIDsPersons('borrower');
+		}
+		elseif ($this->field == 'translator') {
+			$collect = $this->collectIDsPersons('translator');
 		}
 		elseif($this->field == 'placeName') {
 			$collect = $this->collectIDsPlaces();
@@ -289,10 +292,17 @@ class Index {
 		foreach($this->data as $item) {
 			$gnds = array();
 			foreach($item->persons as $person) {
+                // Das Folgende vereinfachen?
 				if ($role == 'borrower' and $person->role != 'borrower') {
 					continue;
 				}
 				if ($role != 'borrower' and $person->role == 'borrower') {
+					continue;
+				}
+				if ($role == 'translator' and $person->role != 'ÜbersetzerIn') {
+					continue;
+				}
+				if ($role != 'translator' and $person->role == 'ÜbersetzerIn') {
 					continue;
 				}
 				$key = $person->gnd;
@@ -368,7 +378,7 @@ class Index {
 				$value = 9999; // Makes empty year fields be sorted to the end
 			}
 		}
-		elseif($field == 'languages') {
+		elseif(in_array($field, ['languages', 'languagesOriginal'])) {
 			$value = LanguageReference::getLanguage($value);
 			if($value == '') {
 				$value = 'ohne Angabe';

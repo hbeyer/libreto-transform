@@ -26,6 +26,7 @@ class Item	{ //Refers to an item (book, manuscript, etc.) listed in the catalogu
 	public $genres = array(); // Contains one ore more indications of genre as string
 	public $mediaType; //Book, Manuscript, Physical Object, etc.
 	public $languages = array(); //One or more language codes according to ISO 639.2
+    public $languagesOriginal = array(); //The same for the original language of a translation
 	//public $manifestation = array('systemManifestation' => '', 'idManifestation' => '', 'commentManifestation' => ''); //Entry in a bibliographic database or library catalogue
 	public $manifestation = array('systemManifestation' => '', 'idManifestation' => ''); //Entry in a bibliographic database or library catalogue
 	//public $originalItem = array('institutionOriginal' => '', 'shelfmarkOriginal' => '', 'provenanceAttribute' => '', 'digitalCopyOriginal' => '', 'targetOPAC' => '', 'searchID' => '', 'OPACLink' => '', 'commentOriginal' => '');
