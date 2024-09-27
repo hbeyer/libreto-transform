@@ -67,6 +67,7 @@
 				<xs:element minOccurs="0" ref="genres"/>
 				<xs:element minOccurs="0" ref="mediaType"/>
 				<xs:element minOccurs="0" ref="languages"/>
+				<xs:element minOccurs="0" ref="languagesOriginal"/>
 				<xs:element minOccurs="0" ref="manifestation"/>
 				<xs:element minOccurs="0" ref="originalItem"/>
 				<xs:element minOccurs="0" ref="work"/>
@@ -181,6 +182,14 @@
 		</xs:complexType>
 	</xs:element>
 	<xs:element name="language" type="xs:string"/>
+	<xs:element name="languagesOriginal">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element maxOccurs="unbounded" minOccurs="1" ref="languageOriginal"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="languageOriginal" type="xs:string"/>
 	<xs:element name="manifestation">
 		<xs:complexType>
 			<xs:all>

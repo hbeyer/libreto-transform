@@ -159,7 +159,7 @@ class Item	{ //Refers to an item (book, manuscript, etc.) listed in the catalogu
     }
 
     public function convertToFull($sectID) {
-    	if ($this->catEntries == array()) {
+    	if ($this->titleCat != null and empty($this->catEntries)) {
 	    	$catEntry = new CatalogueEntry;
 			$catEntry->idCat = 'cat1';
 			$catEntry->idSect = $sectID;

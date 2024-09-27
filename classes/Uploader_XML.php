@@ -5,6 +5,7 @@ class Uploader_XML extends Uploader {
 	private $dom;
     private $metadataNode;
     private $contentNodes;
+    protected $metaPath;
 
     function __construct($path, $fileName) {
         $this->path = $path;
@@ -27,6 +28,7 @@ class Uploader_XML extends Uploader {
     public function loadCatalogues($fileName) {
         $loadFields = array('base', 'title', 'placeCat', 'printer', 'year', 'institution', 'shelfmark');
     	$catalogue = new Catalogue;
+        $catalogue->id = 'cat1';
         $catalogue->fileName = $fileName;
         foreach ($this->metadataNode->childNodes as $child) {
             if (in_array($child->nodeName, $loadFields)) {

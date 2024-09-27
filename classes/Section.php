@@ -3,7 +3,9 @@
 #[\AllowDynamicProperties]
 class Section { // A list of items with a title to be displayed as a chapter of a web page
 
-	public $quantifiedLabel;
+    public $id = null;
+    public $label = '';	
+    public $quantifiedLabel = '';
 	public $authority = array('system' => '', 'id' => ''); //An authority which describes the content of the section, especially a persons's GND identifier, cf. class IndexEntry
 	public $content = array(); //Objects of the class Item
 

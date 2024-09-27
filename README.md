@@ -1,12 +1,14 @@
+
 # libreto-transform
 Set of scripts for transforming library reconstruction data into reusable data formats (RDF, TEI, SOLR) and generating a frontend in static HTML
 
 *Autor: Hartmut Beyer (beyer@hab.de)*
 
 ## Anforderungen
-Die Anwendung erfordert eine Installation von PHP (getestet mit Version 5.6–8.1) und schreibenden Zugriff auf Dateien und Ordner innerhalb des Programmordners.
-Unter Windows empfiehlt sich die Verwndung von XAMPP, der Programmordner muss dann unter xampp/htdocs/ liegen. Unter Linux ist es /var/www/html/. Alternativ kann LibReTo von der Kommandozeile aus benutzt werden.
-In der PHP-Konfiguration sollten unbedingt die Fehlermeldungen aktiviert sein ("display_errors = On" in der Datei php.ini), was insbesondere bei Nutzung von Apache unter Linux oft nicht der Fall ist.
+Die Anwendung erfordert eine Installation von PHP (getestet mit Version 5.6–8.3) und schreibenden Zugriff auf die Ordner `beaconFiles`, `geoDataArchive` und `projectFiles` innerhalb des Programmordners.
+Unter Windows empfiehlt sich die Verwendung von XAMPP, der Programmordner muss dann unter xampp/htdocs/ liegen. Unter Linux ist es /var/www/html/. Alternativ kann LibReTo von der Kommandozeile aus benutzt werden.
+In der PHP-Konfiguration (`php.ini`, der jeweilige Pfad lässt sich durch Ausführen des Befehls `phpinfo()` in einem Skript herausfinden) sollten unbedingt die Fehlermeldungen aktiviert sein (`display_errors = On`), was insbesondere bei Nutzung von Apache unter Linux oft nicht der Fall ist. 
+Die maximale Skriptlaufzeit ist in der Regel auf 30 Sekunden eingestellt, es empfiehlt sich, sie auf 600 zu erhöhen durch `max_execution_time = 600` in der `php.ini`. Alternativ kann man im ausführenden PHP-Skript den Befehl `set_time_limit(600);` verwenden.
 
 ## Installation
 Herunterladen des Programmordners, dies kann manuell als ZIP-Datei oder auf der Kommandozeile mit `git clone https://github.com/hbeyer/libreto-transform` geschehen.
@@ -164,3 +166,4 @@ $facetList = new FacetList();
 $frontend = new Frontend($reconstruction, $facetList);
 $frontend->build();
 ```
+
