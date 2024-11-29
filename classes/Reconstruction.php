@@ -75,6 +75,10 @@ class Reconstruction {
         if (empty($this->catalogue) and isset($this->catalogues[0])) {
             $this->catalogue = $this->catalogues[0];
         }
+        elseif (empty($this->catalogues)) {
+            $this->catalogue = new Catalogue();
+            $this->catalogues[0] = $this->catalogue; 
+        }
         if ($this->metadataReconstruction) {
             $this->catalogue->importFromMetadataSet($this->metadataReconstruction);
         }

@@ -1009,6 +1009,7 @@
             <xs:enumeration value="Altsignatur; Einband; Titelschild"/>
             <xs:enumeration value="Altsignatur; Autogramm"/>
             <xs:enumeration value="Altsignatur; Stempel"/>
+            <xs:enumeration value="Altsignatur; Wappenexlibris"/>
           </xs:restriction>          
         </xs:simpleType>
       </xs:attribute>

@@ -40,7 +40,9 @@ class Serializer_XML_full extends Serializer_XML {
         }
 		foreach ($this->catalogues as $cat) {
 			$catEl = $this->dom->createElement('catalogue');
-			$catEl->setAttribute("id", $cat->id);
+            if (!empty($cat->id)) {
+			    $catEl->setAttribute("id", $cat->id);
+            }
 			foreach($cat->persons as $pers) {
 				$persEl = $this->dom->createElement('person');
 				if (!$pers->role) {

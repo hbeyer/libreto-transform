@@ -19,13 +19,13 @@
 
 
 <link rel="stylesheet" href="/typo3conf/ext/blbweb/node_modules/swiper/swiper-bundle.min.css?499162500" media="all">
-<link rel="stylesheet" href="/typo3conf/ext/femanager/Resources/Public/Css/Main.min.css?1674128314" media="all">
-<link rel="stylesheet" href="/typo3conf/ext/blbweb/Resources/Public/app.css?1716460584" media="all">
+<link rel="stylesheet" href="/typo3conf/ext/femanager/Resources/Public/Css/Main.min.css?1715198672" media="all">
+<link rel="stylesheet" href="/typo3conf/ext/blbweb/Resources/Public/app.css?1732786855" media="all">
 
 
 
 <script src="/typo3conf/ext/blbweb/node_modules/jquery/dist/jquery.min.js?499162500"></script>
-<script src="/typo3conf/ext/blbweb/Resources/Public/vendor.js?1716460584"></script>
+<script src="/typo3conf/ext/blbweb/Resources/Public/vendor.js?1732786855"></script>
 
 
 <link rel="shortcut icon" type="image/x-icon" href="/typo3conf/ext/blbweb/Resources/Public/Images/favicon/favicon.ico">
@@ -1199,15 +1199,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/service/medien/leihgaben-fuer-ausstellungen-1" class="menu-item-link">
-                <span>Leihgaben für Ausstellungen</span>
-            </a>
-
-            
-        </li>
-    
-        <li class="menu-item  ">
-            <a href="/service/medien/leihgaben-fuer-ausstellungen-1" class="menu-item-link">
+            <a href="/service/medien/leihgaben-fuer-ausstellungen" class="menu-item-link">
                 <span>Leihgaben für Ausstellungen</span>
             </a>
 
@@ -1227,7 +1219,7 @@
                 <ul id="nav_sub_p535" class="menu-item-list header-menu">
     
         <li class="menu-item  ">
-            <a href="/service/beratung-und-schulung/neues-aus-der-teaching-library-und-der-lernwerkstatt" class="menu-item-link">
+            <a href="/newsletter" class="menu-item-link">
                 <span>Newsletter</span>
             </a>
 
@@ -1251,7 +1243,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/service/raeume/lernwerkstatt/media-studio-1-1" class="menu-item-link">
+            <a href="/service/raeume/lernwerkstatt/workshops" class="menu-item-link">
                 <span>Workshops der Lernwerkstatt</span>
             </a>
 
@@ -1303,7 +1295,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/service/raeume/lernwerkstatt/media-studio-1" class="menu-item-link">
+            <a href="/service/raeume/lernwerkstatt/bild-und-videoproduktion" class="menu-item-link">
                 <span>Bild- und Videoproduktion</span>
             </a>
 
@@ -1311,7 +1303,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/service/raeume/lernwerkstatt/media-studio-1-1" class="menu-item-link">
+            <a href="/service/raeume/lernwerkstatt/workshops" class="menu-item-link">
                 <span>Workshops der Lernwerkstatt</span>
             </a>
 
@@ -1975,6 +1967,14 @@
         </li>
     
         <li class="menu-item  ">
+            <a href="/sammlungen/autographen-und-nachlaesse/bestand/nachlass-joseph-von-lassberg" class="menu-item-link">
+                <span>Nachlass Joseph von Laßberg</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
             <a href="/sammlungen/autographen-und-nachlaesse/bestand/weitere-nachlaesse-a-z" class="menu-item-link">
                 <span>Weitere Nachlässe A-Z</span>
             </a>
@@ -2295,14 +2295,6 @@
                         <ul id="nav_sub_p476" class="menu-item-list header-menu">
     
         <li class="menu-item  ">
-            <a href="/kalender" class="menu-item-link">
-                <span>Überall KI…</span>
-            </a>
-
-            
-        </li>
-    
-        <li class="menu-item  ">
             <a href="/aktuelles/kulturprogramm" class="menu-item-link">
                 <span>Kulturprogramm</span>
             </a>
@@ -2319,32 +2311,40 @@
                 <ul id="nav_sub_p482" class="menu-item-list header-menu">
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/alte-buecher-neue-inspirationen" class="menu-item-link">
-                <span>Aktuelle Ausstellungen</span>
+            <a href="/aktuelles/ausstellungen/wissen-in-bildern" class="menu-item-link">
+                <span>Wissen in Bildern – die bunte Welt der Sammelbilder</span>
             </a>
 
             
         </li>
     
         <li class="menu-item has-sub-menu ">
-            <a href="/aktuelles/ausstellungen/digital" class="menu-item-link">
-                <span>Digitale Ausstellungen</span>
+            <a href="/aktuelles/ausstellungen/joseph-von-lassberg-ein-netzwerk-in-briefen" class="menu-item-link">
+                <span>Joseph von Laßberg</span>
             </a>
 
             
-                <ul id="nav_sub_p2080" class="menu-item-list header-menu">
+                <ul id="nav_sub_p2127" class="menu-item-list header-menu">
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/digital/die-welt-der-nibelungen" class="menu-item-link">
-                <span>Die Welt der Nibelungen</span>
+            <a href="https://digital.blb-karlsruhe.de/8159237" target="_blank" class="menu-item-link" rel="noreferrer">
+                <span>Neuerwerbungen</span>
             </a>
 
             
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/digital/fort-damit-johannes-reuchlin-und-die-juedische-kultur" class="menu-item-link">
-                <span>Fort damit? Johannes Reuchlin und die jüdische Kultur</span>
+            <a href="https://digital.blb-karlsruhe.de/lassberg/topic/view/316114" target="_blank" class="menu-item-link" rel="noreferrer">
+                <span>Gesamtnachlass</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="https://www.blb-karlsruhe.de/blblog/artikel/joseph-von-lassberg-ein-netzwerk-in-briefen" target="_blank" class="menu-item-link">
+                <span>BLBlog</span>
             </a>
 
             
@@ -2355,15 +2355,7 @@
         </li>
     
         <li class="menu-item has-sub-menu ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen" class="menu-item-link">
-                <span>Ausstellungsdokumentation</span>
-            </a>
-
-            
-                <ul id="nav_sub_p1103" class="menu-item-list header-menu">
-    
-        <li class="menu-item has-sub-menu ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/alte-buecher-neue-inspirationen" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/alte-buecher-neue-inspirationen" class="menu-item-link">
                 <span>Alte Bücher – neue Inspirationen</span>
             </a>
 
@@ -2371,7 +2363,7 @@
                 <ul id="nav_sub_p2037" class="menu-item-list header-menu">
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/alte-buecher-neue-inspirationen/reichenauer-handschriften" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/alte-buecher-neue-inspirationen/reichenauer-handschriften" class="menu-item-link">
                 <span>Reichenauer Handschriften</span>
             </a>
 
@@ -2379,7 +2371,7 @@
         </li>
     
         <li class="menu-item has-sub-menu ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/alte-buecher-neue-inspirationen/kuenstlerinnen-und-kuenstler" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/alte-buecher-neue-inspirationen/kuenstlerinnen-und-kuenstler" class="menu-item-link">
                 <span>Künstlerinnen und Künstler</span>
             </a>
 
@@ -2387,7 +2379,7 @@
                 <ul id="nav_sub_p2038" class="menu-item-list header-menu">
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/alte-buecher-neue-inspirationen/kuenstlerinnen-und-kuenstler/lily-arnold" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/alte-buecher-neue-inspirationen/kuenstlerinnen-und-kuenstler/lily-arnold" class="menu-item-link">
                 <span>Lily Arnold</span>
             </a>
 
@@ -2395,7 +2387,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/alte-buecher-neue-inspirationen/kuenstlerinnen-und-kuenstler/benjamin-belhocine" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/alte-buecher-neue-inspirationen/kuenstlerinnen-und-kuenstler/benjamin-belhocine" class="menu-item-link">
                 <span>Benjamin Belhocine</span>
             </a>
 
@@ -2403,7 +2395,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/alte-buecher-neue-inspirationen/kuenstlerinnen-und-kuenstler/erle-blume" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/alte-buecher-neue-inspirationen/kuenstlerinnen-und-kuenstler/erle-blume" class="menu-item-link">
                 <span>Erle Blume</span>
             </a>
 
@@ -2411,7 +2403,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/alte-buecher-neue-inspirationen/kuenstlerinnen-und-kuenstler/jule-doll" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/alte-buecher-neue-inspirationen/kuenstlerinnen-und-kuenstler/jule-doll" class="menu-item-link">
                 <span>Jule Doll</span>
             </a>
 
@@ -2419,7 +2411,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/alte-buecher-neue-inspirationen/kuenstlerinnen-und-kuenstler/emily-ebner" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/alte-buecher-neue-inspirationen/kuenstlerinnen-und-kuenstler/emily-ebner" class="menu-item-link">
                 <span>Emily Ebner</span>
             </a>
 
@@ -2427,7 +2419,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/alte-buecher-neue-inspirationen/kuenstlerinnen-und-kuenstler/marie-emmanuel" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/alte-buecher-neue-inspirationen/kuenstlerinnen-und-kuenstler/marie-emmanuel" class="menu-item-link">
                 <span>Marie Emmanuel</span>
             </a>
 
@@ -2435,7 +2427,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/alte-buecher-neue-inspirationen/kuenstlerinnen-und-kuenstler/matthias-gmeiner" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/alte-buecher-neue-inspirationen/kuenstlerinnen-und-kuenstler/matthias-gmeiner" class="menu-item-link">
                 <span>Matthias Gmeiner</span>
             </a>
 
@@ -2443,7 +2435,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/alte-buecher-neue-inspirationen/kuenstlerinnen-und-kuenstler/matthias-holznagel" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/alte-buecher-neue-inspirationen/kuenstlerinnen-und-kuenstler/matthias-holznagel" class="menu-item-link">
                 <span>Matthias Holznagel</span>
             </a>
 
@@ -2451,7 +2443,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/alte-buecher-neue-inspirationen/kuenstlerinnen-und-kuenstler/alexander-johl" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/alte-buecher-neue-inspirationen/kuenstlerinnen-und-kuenstler/alexander-johl" class="menu-item-link">
                 <span>Alexander Johl</span>
             </a>
 
@@ -2459,7 +2451,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/alte-buecher-neue-inspirationen/kuenstlerinnen-und-kuenstler/glenn-knapp" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/alte-buecher-neue-inspirationen/kuenstlerinnen-und-kuenstler/glenn-knapp" class="menu-item-link">
                 <span>Glenn Knapp</span>
             </a>
 
@@ -2467,7 +2459,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/alte-buecher-neue-inspirationen/kuenstlerinnen-und-kuenstler/lucia-mattes" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/alte-buecher-neue-inspirationen/kuenstlerinnen-und-kuenstler/lucia-mattes" class="menu-item-link">
                 <span>Lucia Mattes</span>
             </a>
 
@@ -2475,7 +2467,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/alte-buecher-neue-inspirationen/kuenstlerinnen-und-kuenstler/maria-pfrommer" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/alte-buecher-neue-inspirationen/kuenstlerinnen-und-kuenstler/maria-pfrommer" class="menu-item-link">
                 <span>Maria Pfrommer</span>
             </a>
 
@@ -2483,7 +2475,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/alte-buecher-neue-inspirationen/kuenstlerinnen-und-kuenstler/emma-tietze" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/alte-buecher-neue-inspirationen/kuenstlerinnen-und-kuenstler/emma-tietze" class="menu-item-link">
                 <span>Emma Tietze</span>
             </a>
 
@@ -2494,17 +2486,53 @@
             
         </li>
     
+</ul>
+            
+        </li>
+    
+        <li class="menu-item has-sub-menu ">
+            <a href="/aktuelles/ausstellungen/niedlich-nuetzlich-unheilvoll" class="menu-item-link">
+                <span>Niedlich Nützlich Unheilvoll</span>
+            </a>
+
+            
+                <ul id="nav_sub_p2030" class="menu-item-list header-menu">
+    
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/alte-buecher-neue-inspirationen/ausstellungsorte" class="menu-item-link">
-                <span>Ausstellungsorte</span>
+            <a href="/aktuelles/ausstellungen/niedlich-nuetzlich-unheilvoll/mensch-und-tier" class="menu-item-link">
+                <span>Mensch und Tier</span>
             </a>
 
             
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/alte-buecher-neue-inspirationen/digitale-rallye" class="menu-item-link">
-                <span>Digitale Rallye</span>
+            <a href="/aktuelles/ausstellungen/niedlich-nuetzlich-unheilvoll/sagenhaft" class="menu-item-link">
+                <span>Sagenhaft!</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/niedlich-nuetzlich-unheilvoll/sprichwoertlich" class="menu-item-link">
+                <span>Sprichwörtlich!</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/niedlich-nuetzlich-unheilvoll/erstaunlich" class="menu-item-link">
+                <span>Erstaunlich!</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/niedlich-nuetzlich-unheilvoll/nuetzlich" class="menu-item-link">
+                <span>Nützlich!?</span>
             </a>
 
             
@@ -2515,7 +2543,7 @@
         </li>
     
         <li class="menu-item has-sub-menu ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/maxreger2023" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/max-reger-und-sein-interpret-karl-straube" class="menu-item-link">
                 <span>Max Reger und sein Interpret Karl Straube</span>
             </a>
 
@@ -2523,7 +2551,7 @@
                 <ul id="nav_sub_p1986" class="menu-item-list header-menu">
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/maxreger2023/aufstrebender-orgelvirtuose-und-unbeachteter-komponist" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/max-reger-und-sein-interpret-karl-straube/aufstrebender-orgelvirtuose-und-unbeachteter-komponist" class="menu-item-link">
                 <span>Aufstrebender Orgelvirtuose und unbeachteter Komponist</span>
             </a>
 
@@ -2531,7 +2559,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/maxreger2023/kuenstlerischer-austausch" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/max-reger-und-sein-interpret-karl-straube/kuenstlerischer-austausch" class="menu-item-link">
                 <span>Künstlerischer Austausch</span>
             </a>
 
@@ -2539,7 +2567,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/maxreger2023/straube-als-vermittler" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/max-reger-und-sein-interpret-karl-straube/straube-als-vermittler" class="menu-item-link">
                 <span>Straube als Vermittler</span>
             </a>
 
@@ -2547,7 +2575,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/maxreger2023/auseinanderstrebende-bach-auffassung" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/max-reger-und-sein-interpret-karl-straube/auseinanderstrebende-bach-auffassung" class="menu-item-link">
                 <span>Auseinanderstrebende Bach-Auffassung</span>
             </a>
 
@@ -2555,7 +2583,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/maxreger2023/straube-als-kritischer-berater" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/max-reger-und-sein-interpret-karl-straube/straube-als-kritischer-berater" class="menu-item-link">
                 <span>Straube als kritischer Berater</span>
             </a>
 
@@ -2563,7 +2591,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/maxreger2023/straube-und-die-nachwelt" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/max-reger-und-sein-interpret-karl-straube/straube-und-die-nachwelt" class="menu-item-link">
                 <span>Straube und die Nachwelt</span>
             </a>
 
@@ -2575,7 +2603,7 @@
         </li>
     
         <li class="menu-item has-sub-menu ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schwarzwaldbahn" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/mit-der-schwarzwaldbahn-an-den-bodensee" class="menu-item-link">
                 <span>Mit der Schwarzwaldbahn an den Bodensee</span>
             </a>
 
@@ -2583,7 +2611,7 @@
                 <ul id="nav_sub_p1867" class="menu-item-list header-menu">
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schwarzwaldbahn/urlaub-im-schwarzwald" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/mit-der-schwarzwaldbahn-an-den-bodensee/urlaub-im-schwarzwald" class="menu-item-link">
                 <span>Urlaub im Schwarzwald</span>
             </a>
 
@@ -2591,7 +2619,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schwarzwaldbahn/buergerinitiative" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/mit-der-schwarzwaldbahn-an-den-bodensee/buergerinitiative-und-verkehrswende" class="menu-item-link">
                 <span>Bürgerinitiative und Verkehrswende</span>
             </a>
 
@@ -2599,7 +2627,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schwarzwaldbahn/internationaler-tourismus" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/mit-der-schwarzwaldbahn-an-den-bodensee/internationaler-tourismus" class="menu-item-link">
                 <span>Internationaler Tourismus</span>
             </a>
 
@@ -2607,7 +2635,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schwarzwaldbahn/ganzjaehriges-urlaubsziel" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/mit-der-schwarzwaldbahn-an-den-bodensee/ganzjaehriges-urlaubsziel" class="menu-item-link">
                 <span>Ganzjähriges Urlaubsziel</span>
             </a>
 
@@ -2615,7 +2643,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schwarzwaldbahn/ausblick-auf-spaete-werbegrafik" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/mit-der-schwarzwaldbahn-an-den-bodensee/ausblick-auf-spaete-werbegrafik" class="menu-item-link">
                 <span>Ausblick auf späte Werbegrafik</span>
             </a>
 
@@ -2623,7 +2651,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schwarzwaldbahn/tourismus-in-baden" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/mit-der-schwarzwaldbahn-an-den-bodensee/tourismus-in-baden" class="menu-item-link">
                 <span>Tourismus in Baden</span>
             </a>
 
@@ -2631,7 +2659,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schwarzwaldbahn/untersee-und-rhein" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/mit-der-schwarzwaldbahn-an-den-bodensee/mobilitaet-in-baden-und-darueber-hinaus" class="menu-item-link">
                 <span>Mobilität in Baden und darüber hinaus</span>
             </a>
 
@@ -2639,7 +2667,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schwarzwaldbahn/tourismus-am-bodensee" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/mit-der-schwarzwaldbahn-an-den-bodensee/tourismus-am-bodensee" class="menu-item-link">
                 <span>Tourismus am Bodensee</span>
             </a>
 
@@ -2647,7 +2675,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schwarzwaldbahn/verkehrsmittel-als-attraktion" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/mit-der-schwarzwaldbahn-an-den-bodensee/verkehrsmittel-als-attraktion" class="menu-item-link">
                 <span>Verkehrsmittel als Attraktion</span>
             </a>
 
@@ -2659,7 +2687,7 @@
         </li>
     
         <li class="menu-item has-sub-menu ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/faszination-fliegen" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/faszination-fliegen" class="menu-item-link">
                 <span>Faszination Fliegen</span>
             </a>
 
@@ -2667,7 +2695,7 @@
                 <ul id="nav_sub_p1757" class="menu-item-list header-menu">
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/faszination-fliegen/pionierzeit" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/faszination-fliegen/pionierzeit" class="menu-item-link">
                 <span>Pionierzeit</span>
             </a>
 
@@ -2675,7 +2703,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/faszination-fliegen/der-lange-weg-zur-flugphysik" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/faszination-fliegen/der-lange-weg-zur-flugphysik" class="menu-item-link">
                 <span>Der lange Weg zur Flugphysik</span>
             </a>
 
@@ -2683,7 +2711,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/faszination-fliegen/fotografie-in-der-fruehen-fliegerei" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/faszination-fliegen/fotografie-in-der-fruehen-fliegerei" class="menu-item-link">
                 <span>Fotografie in der frühen Fliegerei</span>
             </a>
 
@@ -2691,7 +2719,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/faszination-fliegen/frauen-in-der-luft" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/faszination-fliegen/frauen-in-der-luft" class="menu-item-link">
                 <span>Frauen in der Luft</span>
             </a>
 
@@ -2699,7 +2727,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/faszination-fliegen/militaerflugzeuge" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/faszination-fliegen/militaerflugzeuge" class="menu-item-link">
                 <span>Militärflugzeuge</span>
             </a>
 
@@ -2707,7 +2735,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/faszination-fliegen/anfaenge-des-flugtourismus" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/faszination-fliegen/anfaenge-des-flugtourismus" class="menu-item-link">
                 <span>Anfänge des Flugtourismus</span>
             </a>
 
@@ -2715,7 +2743,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/faszination-fliegen/fliegerei-in-den-medien" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/faszination-fliegen/fliegerei-in-den-medien" class="menu-item-link">
                 <span>Fliegerei in den Medien</span>
             </a>
 
@@ -2727,7 +2755,7 @@
         </li>
     
         <li class="menu-item has-sub-menu ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/seher-wunder-wissenschaft" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/seher-wunder-wissenschaft" class="menu-item-link">
                 <span>Seher Wunder Wissenschaft</span>
             </a>
 
@@ -2735,7 +2763,7 @@
                 <ul id="nav_sub_p1711" class="menu-item-list header-menu">
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/aktuelle-ausstellungen/seher-wunder-wissenschaft/orakel" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/seher-wunder-wissenschaft/orakel" class="menu-item-link">
                 <span>Orakel</span>
             </a>
 
@@ -2743,7 +2771,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/aktuelle-ausstellungen/seher-wunder-wissenschaft/seher" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/seher-wunder-wissenschaft/seher" class="menu-item-link">
                 <span>Seher</span>
             </a>
 
@@ -2751,7 +2779,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/aktuelle-ausstellungen/seher-wunder-wissenschaft/propheten" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/seher-wunder-wissenschaft/propheten" class="menu-item-link">
                 <span>Propheten</span>
             </a>
 
@@ -2759,7 +2787,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/aktuelle-ausstellungen/seher-wunder-wissenschaft/zeichendeutung" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/seher-wunder-wissenschaft/zeichendeutung" class="menu-item-link">
                 <span>Zeichendeutung</span>
             </a>
 
@@ -2767,7 +2795,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/aktuelle-ausstellungen/seher-wunder-wissenschaft/sterndeutung" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/seher-wunder-wissenschaft/sterndeutung" class="menu-item-link">
                 <span>Sterndeutung</span>
             </a>
 
@@ -2775,7 +2803,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/aktuelle-ausstellungen/seher-wunder-wissenschaft/tierkreis" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/seher-wunder-wissenschaft/tierkreis" class="menu-item-link">
                 <span>Tierkreis</span>
             </a>
 
@@ -2783,7 +2811,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/aktuelle-ausstellungen/seher-wunder-wissenschaft/wissenschaft" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/seher-wunder-wissenschaft/wissenschaft" class="menu-item-link">
                 <span>Wissenschaft</span>
             </a>
 
@@ -2795,7 +2823,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/johannes-reuchlin-juedische-kultur" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/fort-damit-johannes-reuchlin-und-die-juedische-kultur" class="menu-item-link">
                 <span>Fort damit? Johannes Reuchlin und die jüdische Kultur</span>
             </a>
 
@@ -2803,23 +2831,31 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/die-welt-der-nibelungen" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/die-welt-der-nibelungen" class="menu-item-link">
                 <span>Die Welt der Nibelungen</span>
             </a>
 
             
         </li>
     
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/nach-mythen" class="menu-item-link">
+                <span>Nach Mythen</span>
+            </a>
+
+            
+        </li>
+    
         <li class="menu-item has-sub-menu ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/250-jahre-oeffentlich-die-badische-landesbibliothek-1771-2021" class="menu-item-link">
-                <span>250 Jahre ÖFFENTLICH – Die Badische Landesbibliothek 1771–2021</span>
+            <a href="/aktuelles/ausstellungen/250-jahre-oeffentlich" class="menu-item-link">
+                <span>250 Jahre ÖFFENTLICH</span>
             </a>
 
             
                 <ul id="nav_sub_p1613" class="menu-item-list header-menu">
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/250-jahre-oeffentlich-die-badische-landesbibliothek-1771-2021/markgraf-karl-friedrich-begruender-der-karlsruher-hofbibliothek-als-oeffentliche-einrichtung" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/250-jahre-oeffentlich/markgraf-karl-friedrich-begruender-der-karlsruher-hofbibliothek-als-oeffentliche-einrichtung" class="menu-item-link">
                 <span>Markgraf Karl Friedrich Begründer der Karlsruher Hofbibliothek als öffentliche Einrichtung</span>
             </a>
 
@@ -2827,7 +2863,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/250-jahre-oeffentlich-die-badische-landesbibliothek-1771-2021/die-benutzungsordnung-von-1771" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/250-jahre-oeffentlich/die-benutzungsordnung-von-1771" class="menu-item-link">
                 <span>Die Benutzungsordnung von 1771</span>
             </a>
 
@@ -2835,7 +2871,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/250-jahre-oeffentlich-die-badische-landesbibliothek-1771-2021/der-apothekenfluegel-des-schlosses" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/250-jahre-oeffentlich/der-apothekenfluegel-des-schlosses" class="menu-item-link">
                 <span>Der „Apothekenflügel“ des Schlosses</span>
             </a>
 
@@ -2843,7 +2879,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/250-jahre-oeffentlich-die-badische-landesbibliothek-1771-2021/friedrich-valentin-molter-erster-hauptamtlicher-bibliothekar-der-oeffentlichen-hofbibliothek" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/250-jahre-oeffentlich/friedrich-valentin-molter-erster-hauptamtlicher-bibliothekar-der-oeffentlichen-hofbibliothek" class="menu-item-link">
                 <span>Friedrich Valentin Molter – Erster hauptamtlicher Bibliothekar der öffentlichen Hofbibliothek</span>
             </a>
 
@@ -2851,7 +2887,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/250-jahre-oeffentlich-die-badische-landesbibliothek-1771-2021/direktor-molter-als-benutzer-seiner-bibliothek" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/250-jahre-oeffentlich/direktor-molter-als-benutzer-seiner-bibliothek" class="menu-item-link">
                 <span>Direktor Molter als Benutzer seiner Bibliothek</span>
             </a>
 
@@ -2859,7 +2895,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/250-jahre-oeffentlich-die-badische-landesbibliothek-1771-2021/die-benutzung-der-reuchliniana-vor-1771" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/250-jahre-oeffentlich/die-benutzung-der-reuchliniana-vor-1771" class="menu-item-link">
                 <span>Die Benutzung der Reuchliniana vor 1771</span>
             </a>
 
@@ -2867,7 +2903,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/250-jahre-oeffentlich-die-badische-landesbibliothek-1771-2021/der-orientalist-jacob-jonas-bjoernstaahl-als-benutzer-der-oeffentlichen-bibliothek-in-karlsruhe-1773/74" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/250-jahre-oeffentlich/der-orientalist-jacob-jonas-bjoernstaahl-als-benutzer-der-oeffentlichen-bibliothek-in-karlsruhe-1773-74" class="menu-item-link">
                 <span>Der Orientalist Jacob Jonas Björnståhl als Benutzer der öffentlichen Bibliothek in Karlsruhe 1773/74</span>
             </a>
 
@@ -2875,7 +2911,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/250-jahre-oeffentlich-die-badische-landesbibliothek-1771-2021/die-benutzungsordnung-von-1843" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/250-jahre-oeffentlich/die-benutzungsordnung-von-1843" class="menu-item-link">
                 <span>Die Benutzungsordnung von 1843</span>
             </a>
 
@@ -2883,7 +2919,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/250-jahre-oeffentlich-die-badische-landesbibliothek-1771-2021/umzug-in-das-sammlungsgebaeude-am-friedrichsplatz-1873" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/250-jahre-oeffentlich/umzug-in-das-sammlungsgebaeude-am-friedrichsplatz-1873" class="menu-item-link">
                 <span>Umzug in das Sammlungsgebäude am Friedrichsplatz 1873</span>
             </a>
 
@@ -2891,7 +2927,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/250-jahre-oeffentlich-die-badische-landesbibliothek-1771-2021/benutzungsbetrieb-der-hof-und-landesbibliothek-am-friedrichsplatz" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/250-jahre-oeffentlich/benutzungsbetrieb-der-hof-und-landesbibliothek-am-friedrichsplatz" class="menu-item-link">
                 <span>Benutzungsbetrieb der Hof- und Landesbibliothek am Friedrichsplatz</span>
             </a>
 
@@ -2899,7 +2935,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/250-jahre-oeffentlich-die-badische-landesbibliothek-1771-2021/regionaler-und-ueberregionaler-leihverkehr" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/250-jahre-oeffentlich/regionaler-und-ueberregionaler-leihverkehr" class="menu-item-link">
                 <span>Regionaler und überregionaler Leihverkehr</span>
             </a>
 
@@ -2907,7 +2943,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/250-jahre-oeffentlich-die-badische-landesbibliothek-1771-2021/zerstoerung-1942-und-wiederaufbau-ab-1946" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/250-jahre-oeffentlich/zerstoerung-1942-und-wiederaufbau-ab-1946" class="menu-item-link">
                 <span>Zerstörung 1942 und Wiederaufbau ab 1946</span>
             </a>
 
@@ -2915,7 +2951,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/250-jahre-oeffentlich-die-badische-landesbibliothek-1771-2021/im-nymphengarten" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/250-jahre-oeffentlich/im-nymphengarten" class="menu-item-link">
                 <span>Im Nymphengarten</span>
             </a>
 
@@ -2926,296 +2962,104 @@
             
         </li>
     
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/egon-eiermann-digital" class="menu-item-link">
+                <span>Egon Eiermann DIGITAL</span>
+            </a>
+
+            
+        </li>
+    
         <li class="menu-item has-sub-menu ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten" class="menu-item-link">
                 <span>Fakten oder Fantasie? Karten erzählen Geschichten!</span>
             </a>
 
             
                 <ul id="nav_sub_p1396" class="menu-item-list header-menu">
     
-        <li class="menu-item has-sub-menu ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/vom-antiken-weltbild-zur-karte" class="menu-item-link">
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/vom-antiken-weltbild-zur-karte" class="menu-item-link">
                 <span>Vom antiken Weltbild zur Karte</span>
             </a>
 
             
-                <ul id="nav_sub_p1398" class="menu-item-list header-menu">
-    
-        <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/vom-antiken-weltbild-zur-karte/biblische-geographie" class="menu-item-link">
-                <span>Biblische Geographie</span>
-            </a>
-
-            
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/vom-antiken-weltbild-zur-karte/weltkarten" class="menu-item-link">
-                <span>Weltkarten</span>
-            </a>
-
-            
-        </li>
-    
-        <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/vom-antiken-weltbild-zur-karte/atlanten" class="menu-item-link">
-                <span>Atlanten</span>
-            </a>
-
-            
-        </li>
-    
-</ul>
-            
-        </li>
-    
-        <li class="menu-item has-sub-menu ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/die-entwicklung-des-heliozentrischen-weltbilds" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/die-entwicklung-des-heliozentrischen-weltbilds" class="menu-item-link">
                 <span>Die Entwicklung des heliozentrischen Weltbilds</span>
             </a>
 
             
-                <ul id="nav_sub_p1404" class="menu-item-list header-menu">
+        </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/die-entwicklung-des-heliozentrischen-weltbilds/seekarten" class="menu-item-link">
-                <span>Seekarten</span>
-            </a>
-
-            
-        </li>
-    
-</ul>
-            
-        </li>
-    
-        <li class="menu-item has-sub-menu ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/himmelskarten" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/himmelskarten" class="menu-item-link">
                 <span>Himmelskarten</span>
             </a>
 
             
-                <ul id="nav_sub_p1406" class="menu-item-list header-menu">
-    
-        <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/himmelskarten/himmelsatlanten" class="menu-item-link">
-                <span>Himmelsatlanten</span>
-            </a>
-
-            
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/himmelskarten/armillarsphaeren" class="menu-item-link">
-                <span>Armillarsphären</span>
-            </a>
-
-            
-        </li>
-    
-</ul>
-            
-        </li>
-    
-        <li class="menu-item has-sub-menu ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/karten-des-erdinneren" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/karten-des-erdinneren" class="menu-item-link">
                 <span>Karten des Erdinneren</span>
             </a>
 
             
-                <ul id="nav_sub_p1408" class="menu-item-list header-menu">
+        </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/karten-des-erdinneren/wissenschaften" class="menu-item-link">
-                <span>Wissenschaften</span>
-            </a>
-
-            
-        </li>
-    
-</ul>
-            
-        </li>
-    
-        <li class="menu-item has-sub-menu ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/karten-zur-biblischen-heilsgeschichte" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/karten-zur-biblischen-heilsgeschichte" class="menu-item-link">
                 <span>Karten zur biblischen Heilsgeschichte</span>
             </a>
 
             
-                <ul id="nav_sub_p1410" class="menu-item-list header-menu">
-    
-        <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/karten-zur-biblischen-heilsgeschichte/altes-testament" class="menu-item-link">
-                <span>Altes Testament</span>
-            </a>
-
-            
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/karten-zur-biblischen-heilsgeschichte/paradies" class="menu-item-link">
-                <span>Paradies</span>
-            </a>
-
-            
-        </li>
-    
-        <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/karten-zur-biblischen-heilsgeschichte/jerusalem" class="menu-item-link">
-                <span>Jerusalem</span>
-            </a>
-
-            
-        </li>
-    
-</ul>
-            
-        </li>
-    
-        <li class="menu-item has-sub-menu ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/karten-idealer-staedte" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/karten-idealer-staedte" class="menu-item-link">
                 <span>Karten idealer Städte</span>
             </a>
 
             
-                <ul id="nav_sub_p1416" class="menu-item-list header-menu">
-    
-        <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/karten-idealer-staedte/vitruv-und-scamozzi" class="menu-item-link">
-                <span>Vitruv und Scamozzi</span>
-            </a>
-
-            
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/karten-idealer-staedte/athanasius-kircher" class="menu-item-link">
-                <span>Athanasius Kircher</span>
-            </a>
-
-            
-        </li>
-    
-        <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/karten-idealer-staedte/karlsruhe" class="menu-item-link">
-                <span>Karlsruhe</span>
-            </a>
-
-            
-        </li>
-    
-</ul>
-            
-        </li>
-    
-        <li class="menu-item has-sub-menu ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/karten-in-der-literatur" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/karten-in-der-literatur" class="menu-item-link">
                 <span>Karten in der Literatur</span>
             </a>
 
             
-                <ul id="nav_sub_p1412" class="menu-item-list header-menu">
-    
-        <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/karten-in-der-literatur/literarische-orte" class="menu-item-link">
-                <span>Literarische Orte</span>
-            </a>
-
-            
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/karten-in-der-literatur/abenteuerromane" class="menu-item-link">
-                <span>Abenteuerromane</span>
-            </a>
-
-            
-        </li>
-    
-</ul>
-            
-        </li>
-    
-        <li class="menu-item has-sub-menu ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/fantasiekarten" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/fantasiekarten" class="menu-item-link">
                 <span>Fantasiekarten</span>
             </a>
 
             
-                <ul id="nav_sub_p1414" class="menu-item-list header-menu">
+        </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/fantasiekarten/fiktive-orte" class="menu-item-link">
-                <span>Fiktive Orte</span>
-            </a>
-
-            
-        </li>
-    
-</ul>
-            
-        </li>
-    
-        <li class="menu-item has-sub-menu ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/politische-karten" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/politische-karten" class="menu-item-link">
                 <span>Politische Karten</span>
             </a>
 
             
-                <ul id="nav_sub_p1418" class="menu-item-list header-menu">
-    
-        <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/politische-karten/deutschland-und-frankreich" class="menu-item-link">
-                <span>Deutschland und Frankreich</span>
-            </a>
-
-            
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/politische-karten/atlanten" class="menu-item-link">
-                <span>Atlanten</span>
-            </a>
-
-            
-        </li>
-    
-</ul>
-            
-        </li>
-    
-        <li class="menu-item has-sub-menu ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/europaeische-expansion" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/europaeische-expansion" class="menu-item-link">
                 <span>Europäische Expansion</span>
             </a>
 
             
-                <ul id="nav_sub_p1420" class="menu-item-list header-menu">
-    
-        <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/europaeische-expansion/suedsee-und-pazifik" class="menu-item-link">
-                <span>Südsee und Pazifik</span>
-            </a>
-
-            
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/europaeische-expansion/weltkarten" class="menu-item-link">
-                <span>Weltkarten</span>
-            </a>
-
-            
-        </li>
-    
-</ul>
-            
-        </li>
-    
-        <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/und-was-ist-ihre-geschichte" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/fakten-oder-fantasie-karten-erzaehlen-geschichten/und-was-ist-ihre-geschichte" class="menu-item-link">
                 <span>Und was ist Ihre Geschichte?</span>
             </a>
 
@@ -3227,15 +3071,15 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="http://ausstellungen.blb-karlsruhe.de" target="_blank" class="menu-item-link" rel="noreferrer">
-                <span>Das Kochbuch in Baden 1770–1950</span>
+            <a href="/aktuelles/ausstellungen/gebundene-pracht" class="menu-item-link">
+                <span>Gebundene Pracht</span>
             </a>
 
             
         </li>
     
         <li class="menu-item has-sub-menu ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/leuchtender-klang-klingendes-licht" class="menu-item-link">
                 <span>Leuchtender KLANG – Klingendes LICHT</span>
             </a>
 
@@ -3243,7 +3087,7 @@
                 <ul id="nav_sub_p1303" class="menu-item-list header-menu">
     
         <li class="menu-item has-sub-menu ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/biographie" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/leuchtender-klang-klingendes-licht/biographie" class="menu-item-link">
                 <span>Biographie</span>
             </a>
 
@@ -3251,7 +3095,7 @@
                 <ul id="nav_sub_p1305" class="menu-item-list header-menu">
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/biographie/familie" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/leuchtender-klang-klingendes-licht/biographie/familie" class="menu-item-link">
                 <span>Familie</span>
             </a>
 
@@ -3259,7 +3103,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/biographie/lehrtaetigkeit" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/leuchtender-klang-klingendes-licht/biographie/lehrtaetigkeit" class="menu-item-link">
                 <span>Lehrtätigkeit</span>
             </a>
 
@@ -3267,7 +3111,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/biographie/fruehwerke-und-literatur" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/leuchtender-klang-klingendes-licht/biographie/fruehwerke-und-literatur" class="menu-item-link">
                 <span>Frühwerke und Literatur</span>
             </a>
 
@@ -3275,7 +3119,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/biographie/persoenliches" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/leuchtender-klang-klingendes-licht/biographie/persoenliches" class="menu-item-link">
                 <span>Persönliches</span>
             </a>
 
@@ -3283,7 +3127,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/biographie/werklisten-und-statements" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/leuchtender-klang-klingendes-licht/biographie/werklisten-und-statements" class="menu-item-link">
                 <span>Werklisten und Statements</span>
             </a>
 
@@ -3294,28 +3138,16 @@
             
         </li>
     
-        <li class="menu-item has-sub-menu ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/checkpoint-charlie" class="menu-item-link">
-                <span>Checkpoint Charlie</span>
-            </a>
-
-            
-                <ul id="nav_sub_p1304" class="menu-item-list header-menu">
-    
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/checkpoint-charlie/checkpoint-charlie" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/leuchtender-klang-klingendes-licht/checkpoint-charlie" class="menu-item-link">
                 <span>Checkpoint Charlie</span>
             </a>
 
             
         </li>
     
-</ul>
-            
-        </li>
-    
         <li class="menu-item has-sub-menu ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/e-musik" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/leuchtender-klang-klingendes-licht/e-musik" class="menu-item-link">
                 <span>E-Musik</span>
             </a>
 
@@ -3323,7 +3155,7 @@
                 <ul id="nav_sub_p1306" class="menu-item-list header-menu">
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/e-musik/tief-unten-traumversunken" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/leuchtender-klang-klingendes-licht/e-musik/tief-unten-traumversunken" class="menu-item-link">
                 <span>tief Unten – traumversunken</span>
             </a>
 
@@ -3331,7 +3163,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/e-musik/traumkraut" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/leuchtender-klang-klingendes-licht/e-musik/traumkraut" class="menu-item-link">
                 <span>Traumkraut</span>
             </a>
 
@@ -3339,7 +3171,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/e-musik/streichtrio-nr-1" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/leuchtender-klang-klingendes-licht/e-musik/streichtrio-nr-1" class="menu-item-link">
                 <span>Streichtrio Nr. 1</span>
             </a>
 
@@ -3347,7 +3179,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/e-musik/rhizom-ii" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/leuchtender-klang-klingendes-licht/e-musik/rhizom-ii" class="menu-item-link">
                 <span>Rhizom II</span>
             </a>
 
@@ -3355,7 +3187,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/e-musik/alien-lines-and-fields" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/leuchtender-klang-klingendes-licht/e-musik/alien-lines-and-fields" class="menu-item-link">
                 <span>Alien Lines and Fields</span>
             </a>
 
@@ -3367,7 +3199,7 @@
         </li>
     
         <li class="menu-item has-sub-menu ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/multimedia" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/leuchtender-klang-klingendes-licht/multimedia" class="menu-item-link">
                 <span>Multimedia</span>
             </a>
 
@@ -3375,7 +3207,7 @@
                 <ul id="nav_sub_p1307" class="menu-item-list header-menu">
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/multimedia/zwischenzonen" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/leuchtender-klang-klingendes-licht/multimedia/zwischenzonen" class="menu-item-link">
                 <span>Zwischenzonen</span>
             </a>
 
@@ -3383,7 +3215,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/multimedia/electronic-mandala" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/leuchtender-klang-klingendes-licht/multimedia/electronic-mandala" class="menu-item-link">
                 <span>Electronic Mandala</span>
             </a>
 
@@ -3395,7 +3227,7 @@
         </li>
     
         <li class="menu-item has-sub-menu ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/medienkunst" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/leuchtender-klang-klingendes-licht/medienkunst" class="menu-item-link">
                 <span>Medienkunst</span>
             </a>
 
@@ -3403,7 +3235,7 @@
                 <ul id="nav_sub_p1308" class="menu-item-list header-menu">
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/medienkunst/kataloge-und-cds" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/leuchtender-klang-klingendes-licht/medienkunst/kataloge-und-cds" class="menu-item-link">
                 <span>Kataloge und CDs</span>
             </a>
 
@@ -3411,7 +3243,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/medienkunst/kuenstlerpaar" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/leuchtender-klang-klingendes-licht/medienkunst/kuenstlerpaar" class="menu-item-link">
                 <span>Künstlerpaar</span>
             </a>
 
@@ -3419,7 +3251,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/medienkunst/artificial-soundscapes" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/leuchtender-klang-klingendes-licht/medienkunst/artificial-soundscapes" class="menu-item-link">
                 <span>Artificial Soundscapes</span>
             </a>
 
@@ -3427,7 +3259,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/medienkunst/aquaangelusvox" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/leuchtender-klang-klingendes-licht/medienkunst/aquaangelusvox" class="menu-item-link">
                 <span>AquaAngelusVox</span>
             </a>
 
@@ -3435,7 +3267,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/medienkunst/sonicrooms" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/leuchtender-klang-klingendes-licht/medienkunst/sonicrooms" class="menu-item-link">
                 <span>SonicRooms</span>
             </a>
 
@@ -3443,7 +3275,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/medienkunst/soniclines-nrooms" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/leuchtender-klang-klingendes-licht/medienkunst/soniclines-nrooms" class="menu-item-link">
                 <span>SonicLines n&#039;Rooms</span>
             </a>
 
@@ -3451,7 +3283,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/medienkunst/soniclines-nrooms-7" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/leuchtender-klang-klingendes-licht/medienkunst/soniclines-nrooms-no-7" class="menu-item-link">
                 <span>SonicLines n&#039;Rooms No. 7</span>
             </a>
 
@@ -3459,7 +3291,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/medienkunst/toposonic-spheres" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/leuchtender-klang-klingendes-licht/medienkunst/toposonic-spheres" class="menu-item-link">
                 <span>TopoSonic Spheres</span>
             </a>
 
@@ -3467,7 +3299,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/medienkunst/toposonic-tunnel" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/leuchtender-klang-klingendes-licht/medienkunst/toposonic-tunnel" class="menu-item-link">
                 <span>TopoSonic Tunnel</span>
             </a>
 
@@ -3475,7 +3307,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/medienkunst/microsonical-shinning-biospheres-no-1" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/leuchtender-klang-klingendes-licht/medienkunst/microsonical-shining-biospheres-no-1" class="menu-item-link">
                 <span>MicroSonical Shining Biospheres No. 1</span>
             </a>
 
@@ -3483,7 +3315,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/medienkunst/solarsonical-insects" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/leuchtender-klang-klingendes-licht/medienkunst/solarsonical-insects" class="menu-item-link">
                 <span>SolarSonical Insects</span>
             </a>
 
@@ -3491,7 +3323,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/medienkunst/solarsonical-insects-2" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/leuchtender-klang-klingendes-licht/medienkunst/solarsonical-insects-2" class="menu-item-link">
                 <span>SolarSonical Insects # 2</span>
             </a>
 
@@ -3503,7 +3335,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/leuchtender-klang-klingendes-licht/sabine-schaefer-scaled-2019" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/leuchtender-klang-klingendes-licht/sabine-schaefer-scaled-2019" class="menu-item-link">
                 <span>Sabine Schäfer: SCALED, 2019</span>
             </a>
 
@@ -3514,8 +3346,24 @@
             
         </li>
     
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/lucida-vallis" class="menu-item-link">
+                <span>Lucida vallis</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/gunnar-martinsson" class="menu-item-link">
+                <span>Gunnar Martinsson</span>
+            </a>
+
+            
+        </li>
+    
         <li class="menu-item has-sub-menu ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/schlaglichter-100-buecher-des-jahres-1918" class="menu-item-link">
                 <span>Schlaglichter – 100 Bücher des Jahres 1918</span>
             </a>
 
@@ -3523,7 +3371,7 @@
                 <ul id="nav_sub_p1112" class="menu-item-list header-menu">
     
         <li class="menu-item has-sub-menu ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/zuhause-alltag-und-familie" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/schlaglichter-100-buecher-des-jahres-1918/zuhause-alltag-und-familie" class="menu-item-link">
                 <span>Zuhause – Alltag und Familie</span>
             </a>
 
@@ -3531,7 +3379,7 @@
                 <ul id="nav_sub_p1104" class="menu-item-list header-menu">
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/zuhause-alltag-und-familie/nahrung" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/schlaglichter-100-buecher-des-jahres-1918/zuhause-alltag-und-familie/nahrung" class="menu-item-link">
                 <span>Nahrung</span>
             </a>
 
@@ -3539,7 +3387,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/zuhause-alltag-und-familie/kleidung" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/schlaglichter-100-buecher-des-jahres-1918/zuhause-alltag-und-familie/kleidung" class="menu-item-link">
                 <span>Kleidung</span>
             </a>
 
@@ -3547,7 +3395,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/zuhause-alltag-und-familie/kinderbuecher" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/schlaglichter-100-buecher-des-jahres-1918/zuhause-alltag-und-familie/kinderbuecher" class="menu-item-link">
                 <span>Kinderbücher</span>
             </a>
 
@@ -3555,7 +3403,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/zuhause-alltag-und-familie/volkskalender" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/schlaglichter-100-buecher-des-jahres-1918/zuhause-alltag-und-familie/volkskalender" class="menu-item-link">
                 <span>Volkskalender</span>
             </a>
 
@@ -3567,7 +3415,7 @@
         </li>
     
         <li class="menu-item has-sub-menu ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/krieg-mensch-und-moral" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/schlaglichter-100-buecher-des-jahres-1918/krieg-mensch-und-moral" class="menu-item-link">
                 <span>Krieg – Mensch und Moral</span>
             </a>
 
@@ -3575,7 +3423,7 @@
                 <ul id="nav_sub_p1111" class="menu-item-list header-menu">
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/krieg-mensch-und-moral/kriegsanleihe" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/schlaglichter-100-buecher-des-jahres-1918/krieg-mensch-und-moral/kriegsanleihe" class="menu-item-link">
                 <span>Kriegsanleihe</span>
             </a>
 
@@ -3583,7 +3431,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/krieg-mensch-und-moral/der-voelkerkrieg" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/schlaglichter-100-buecher-des-jahres-1918/krieg-mensch-und-moral/der-voelkerkrieg" class="menu-item-link">
                 <span>Der Völkerkrieg</span>
             </a>
 
@@ -3591,7 +3439,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/krieg-mensch-und-moral/kriegserlebnisse" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/schlaglichter-100-buecher-des-jahres-1918/krieg-mensch-und-moral/kriegserlebnisse" class="menu-item-link">
                 <span>Kriegserlebnisse</span>
             </a>
 
@@ -3599,7 +3447,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/krieg-mensch-und-moral/feldzeitungen" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/schlaglichter-100-buecher-des-jahres-1918/krieg-mensch-und-moral/feldzeitungen" class="menu-item-link">
                 <span>Feldzeitungen</span>
             </a>
 
@@ -3607,7 +3455,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/krieg-mensch-und-moral/kriegsverletzungen" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/schlaglichter-100-buecher-des-jahres-1918/krieg-mensch-und-moral/kriegsverletzungen" class="menu-item-link">
                 <span>Kriegsverletzungen</span>
             </a>
 
@@ -3615,7 +3463,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/krieg-mensch-und-moral/kriegsschiffe" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/schlaglichter-100-buecher-des-jahres-1918/krieg-mensch-und-moral/kriegsschiffe" class="menu-item-link">
                 <span>Kriegsschiffe</span>
             </a>
 
@@ -3627,7 +3475,7 @@
         </li>
     
         <li class="menu-item has-sub-menu ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/wissenschaft-theorie-und-fortschritt" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/schlaglichter-100-buecher-des-jahres-1918/wissenschaft-theorie-und-fortschritt" class="menu-item-link">
                 <span>Wissenschaft – Theorie und Fortschritt</span>
             </a>
 
@@ -3635,7 +3483,7 @@
                 <ul id="nav_sub_p1110" class="menu-item-list header-menu">
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/wissenschaft-theorie-und-fortschritt/sexualwissenschaft" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/schlaglichter-100-buecher-des-jahres-1918/wissenschaft-theorie-und-fortschritt/sexualwissenschaft" class="menu-item-link">
                 <span>Sexualwissenschaft</span>
             </a>
 
@@ -3643,7 +3491,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/wissenschaft-theorie-und-fortschritt/fritz-haber-und-die-chemische-industrie" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/schlaglichter-100-buecher-des-jahres-1918/wissenschaft-theorie-und-fortschritt/fritz-haber-und-die-chemische-industrie" class="menu-item-link">
                 <span>Fritz Haber und die chemische Industrie</span>
             </a>
 
@@ -3651,7 +3499,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/wissenschaft-theorie-und-fortschritt/die-entstehung-der-modernen-physik" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/schlaglichter-100-buecher-des-jahres-1918/wissenschaft-theorie-und-fortschritt/die-entstehung-der-modernen-physik" class="menu-item-link">
                 <span>Die Entstehung der modernen Physik</span>
             </a>
 
@@ -3659,7 +3507,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/wissenschaft-theorie-und-fortschritt/technik" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/schlaglichter-100-buecher-des-jahres-1918/wissenschaft-theorie-und-fortschritt/technik" class="menu-item-link">
                 <span>Technik</span>
             </a>
 
@@ -3671,7 +3519,7 @@
         </li>
     
         <li class="menu-item has-sub-menu ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/unterwegs-baden-und-die-welt" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/schlaglichter-100-buecher-des-jahres-1918/unterwegs-baden-und-die-welt" class="menu-item-link">
                 <span>Unterwegs – Baden und die Welt</span>
             </a>
 
@@ -3679,7 +3527,7 @@
                 <ul id="nav_sub_p1109" class="menu-item-list header-menu">
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/unterwegs-baden-und-die-welt/reisen-im-krieg" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/schlaglichter-100-buecher-des-jahres-1918/unterwegs-baden-und-die-welt/reisen-im-krieg" class="menu-item-link">
                 <span>Reisen im Krieg</span>
             </a>
 
@@ -3687,7 +3535,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/unterwegs-baden-und-die-welt/kolonien" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/schlaglichter-100-buecher-des-jahres-1918/unterwegs-baden-und-die-welt/kolonien" class="menu-item-link">
                 <span>Kolonien</span>
             </a>
 
@@ -3695,7 +3543,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/unterwegs-baden-und-die-welt/der-nahe-osten-und-die-judenfrage" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/schlaglichter-100-buecher-des-jahres-1918/unterwegs-baden-und-die-welt/der-nahe-osten-und-die-judenfrage" class="menu-item-link">
                 <span>Der Nahe Osten und die Judenfrage</span>
             </a>
 
@@ -3703,7 +3551,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/unterwegs-baden-und-die-welt/baden" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/schlaglichter-100-buecher-des-jahres-1918/unterwegs-baden-und-die-welt/baden" class="menu-item-link">
                 <span>Baden</span>
             </a>
 
@@ -3715,7 +3563,7 @@
         </li>
     
         <li class="menu-item has-sub-menu ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/zeitgeschehen-politik-und-gesellschaft" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/schlaglichter-100-buecher-des-jahres-1918/zeitgeschehen-politik-und-gesellschaft" class="menu-item-link">
                 <span>Zeitgeschehen – Politik und Gesellschaft</span>
             </a>
 
@@ -3723,7 +3571,7 @@
                 <ul id="nav_sub_p1108" class="menu-item-list header-menu">
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/zeitgeschehen-politik-und-gesellschaft/frieden-von-brest-litowsk" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/schlaglichter-100-buecher-des-jahres-1918/zeitgeschehen-politik-und-gesellschaft/frieden-von-brest-litowsk" class="menu-item-link">
                 <span>Frieden von Brest-Litowsk</span>
             </a>
 
@@ -3731,7 +3579,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/zeitgeschehen-politik-und-gesellschaft/russische-revolution" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/schlaglichter-100-buecher-des-jahres-1918/zeitgeschehen-politik-und-gesellschaft/russische-revolution" class="menu-item-link">
                 <span>Russische Revolution</span>
             </a>
 
@@ -3739,7 +3587,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/zeitgeschehen-politik-und-gesellschaft/novemberrevolution" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/schlaglichter-100-buecher-des-jahres-1918/zeitgeschehen-politik-und-gesellschaft/novemberrevolution" class="menu-item-link">
                 <span>Novemberrevolution</span>
             </a>
 
@@ -3747,7 +3595,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/zeitgeschehen-politik-und-gesellschaft/badische-revolution" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/schlaglichter-100-buecher-des-jahres-1918/zeitgeschehen-politik-und-gesellschaft/badische-revolution" class="menu-item-link">
                 <span>Badische Revolution</span>
             </a>
 
@@ -3755,7 +3603,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/zeitgeschehen-politik-und-gesellschaft/frauenwahlrecht" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/schlaglichter-100-buecher-des-jahres-1918/zeitgeschehen-politik-und-gesellschaft/frauenwahlrecht" class="menu-item-link">
                 <span>Frauenwahlrecht</span>
             </a>
 
@@ -3763,7 +3611,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/zeitgeschehen-politik-und-gesellschaft/gesellschaftstheorie" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/schlaglichter-100-buecher-des-jahres-1918/zeitgeschehen-politik-und-gesellschaft/gesellschaftstheorie" class="menu-item-link">
                 <span>Gesellschaftstheorie</span>
             </a>
 
@@ -3775,7 +3623,7 @@
         </li>
     
         <li class="menu-item has-sub-menu ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/kultur-kunst-musik-literatur" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/schlaglichter-100-buecher-des-jahres-1918/kultur-kunst-musik-literatur" class="menu-item-link">
                 <span>Kultur – Kunst, Musik, Literatur</span>
             </a>
 
@@ -3783,7 +3631,7 @@
                 <ul id="nav_sub_p1107" class="menu-item-list header-menu">
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/kultur-kunst-musik-literatur/theater" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/schlaglichter-100-buecher-des-jahres-1918/kultur-kunst-musik-literatur/theater" class="menu-item-link">
                 <span>Theater</span>
             </a>
 
@@ -3791,7 +3639,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/kultur-kunst-musik-literatur/literatur" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/schlaglichter-100-buecher-des-jahres-1918/kultur-kunst-musik-literatur/literatur" class="menu-item-link">
                 <span>Literatur</span>
             </a>
 
@@ -3799,7 +3647,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/kultur-kunst-musik-literatur/kunst" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/schlaglichter-100-buecher-des-jahres-1918/kultur-kunst-musik-literatur/kunst" class="menu-item-link">
                 <span>Kunst</span>
             </a>
 
@@ -3807,7 +3655,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/virtuelle-ausstellungen/schlaglichter-100-buecher-des-jahres-1918/kultur-kunst-musik-literatur/musik" class="menu-item-link">
+            <a href="/aktuelles/ausstellungen/schlaglichter-100-buecher-des-jahres-1918/kultur-kunst-musik-literatur/musik" class="menu-item-link">
                 <span>Musik</span>
             </a>
 
@@ -3822,207 +3670,615 @@
             
         </li>
     
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/rheinheimisch" class="menu-item-link">
+                <span>Rheinheimisch</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/sprachbilder-bildersprache" class="menu-item-link">
+                <span>Sprachbilder – Bildersprache</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/aus-den-augen-aus-dem-sinn" class="menu-item-link">
+                <span>Aus den Augen, aus dem Sinn…</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/die-macht-des-wortes" class="menu-item-link">
+                <span>Die Macht des Wortes</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="http://ausstellungen.blb-karlsruhe.de" target="_blank" class="menu-item-link" rel="noreferrer">
+                <span>Das Kochbuch in Baden 1770–1950</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/medienvielfalt-von-gestern-bis-morgen" class="menu-item-link">
+                <span>Medienvielfalt von gestern bis morgen</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/bella-bibliotheca" class="menu-item-link">
+                <span>Bella Bibliotheca</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/welterfahrung-und-innovation" class="menu-item-link">
+                <span>Welterfahrung und Innovation</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/neue-fuelle" class="menu-item-link">
+                <span>Neue Fülle</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/stadt-und-schloss-karlsruhe-vor-1945" class="menu-item-link">
+                <span>Stadt und Schloss Karlsruhe vor 1945</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/zwischen-den-seiten" class="menu-item-link">
+                <span>Zwischen den Seiten</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/karlsruher-tulpenkultur" class="menu-item-link">
+                <span>Karlsruher TulpenKULTur</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/verborgene-schaetze" class="menu-item-link">
+                <span>Verborgene Schätze</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/andere-seiten-aufschlagen" class="menu-item-link">
+                <span>Andere Seiten aufschlagen</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/die-deutsche-feldpresse-1914/18" class="menu-item-link">
+                <span>Die deutsche Feldpresse 1914/18</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/viola" class="menu-item-link">
+                <span>Viola</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/das-runde-und-das-eckige" class="menu-item-link">
+                <span>Das Runde und das Eckige</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/illustrationen-zum-nibelungenlied" class="menu-item-link">
+                <span>Illustrationen zum Nibelungenlied</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/august-lorent" class="menu-item-link">
+                <span>August Lorent</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/die-dritte-welt-im-zweiten-weltkrieg" class="menu-item-link">
+                <span>Die Dritte Welt im Zweiten Weltkrieg</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/wolfgang-amadeus-mozart" class="menu-item-link">
+                <span>Wolfgang Amadeus Mozart</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/fortschritt-hat-tradition" class="menu-item-link">
+                <span>Fortschritt hat Tradition</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/das-speyerer-evangelistar" class="menu-item-link">
+                <span>Das Speyerer Evangelistar</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/taschenwelten" class="menu-item-link">
+                <span>Taschenwelten</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/drole-deurope" class="menu-item-link">
+                <span>Drôle d&#039;Europe</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/librarty" class="menu-item-link">
+                <span>LibrARTy</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/buch-und-druck-in-der-residenz" class="menu-item-link">
+                <span>Buch und Druck in der Residenz</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/chiffren" class="menu-item-link">
+                <span>CHIFFREN</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/meines-schiffes-steuer-fuehr-ich" class="menu-item-link">
+                <span>Meines Schiffes Steuer führ ich</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/hoch-hinaus" class="menu-item-link">
+                <span>Hoch hinaus</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/caro-maestro" class="menu-item-link">
+                <span>Caro maestro</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/reger-total" class="menu-item-link">
+                <span>Reger total</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/herrreinspaziert" class="menu-item-link">
+                <span>HeRRReinspaziert!</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/joseph-victor-von-scheffel" class="menu-item-link">
+                <span>Joseph Victor von Scheffel</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/robert-und-clara-schumann" class="menu-item-link">
+                <span>Robert und Clara Schumann</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/so-bald-ich-aufgestanden-war-hab-ich-ein-solo-auf-der-floete-geblasen" class="menu-item-link">
+                <span>So bald ich aufgestanden war, hab ich ein Solo auf der Flöte geblasen</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/alter-schwede" class="menu-item-link">
+                <span>Alter Schwede</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/karlsruhe-nach-dem-zweiten-weltkrieg" class="menu-item-link">
+                <span>Karlsruhe nach dem Zweiten Weltkrieg</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/anleitung-zum-selberdenken" class="menu-item-link">
+                <span>Anleitung zum Selberdenken</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/in-guter-gesellschaft" class="menu-item-link">
+                <span>In guter Gesellschaft</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/josef-schelb" class="menu-item-link">
+                <span>Josef Schelb</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/die-badische-landesbibliothek-im-zweiten-weltkrieg" class="menu-item-link">
+                <span>Die Badische Landesbibliothek im Zweiten Weltkrieg</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/das-nibelungenlied" class="menu-item-link">
+                <span>Das Nibelungenlied</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/sohn-der-harmonie" class="menu-item-link">
+                <span>Sohn der Harmonie</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/fritz-leonhardt-in-amerika" class="menu-item-link">
+                <span>Fritz Leonhardt in Amerika</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/friedrich-schiller" class="menu-item-link">
+                <span>Friedrich Schiller</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/struwwelpeters-vater" class="menu-item-link">
+                <span>Struwwelpeters Vater</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/haendel-in-karlsruhe" class="menu-item-link">
+                <span>Händel in Karlsruhe</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/der-johanniterorden" class="menu-item-link">
+                <span>Der Johanniterorden</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/reinhold-schneider-und-leopold-ziegler" class="menu-item-link">
+                <span>Reinhold Schneider und Leopold Ziegler</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/bibliotheca-gastronomica" class="menu-item-link">
+                <span>Bibliotheca Gastronomica</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/buecherverbrennung-1933" class="menu-item-link">
+                <span>Bücherverbrennung 1933</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/foerster-pribam-und-die-gluecklichen-eulen" class="menu-item-link">
+                <span>Förster Pribam und die glücklichen Eulen</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/engel-auf-kuechensieb" class="menu-item-link">
+                <span>Engel auf Küchensieb</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/molekulare-aesthetik" class="menu-item-link">
+                <span>Molekulare Ästhetik</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/buechersammlung-u-und-k-schulz" class="menu-item-link">
+                <span>Büchersammlung U. und K. Schulz</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/unikatbuecher" class="menu-item-link">
+                <span>Unikatbücher</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/wenn-ueber-dem-weinberg-es-flammt" class="menu-item-link">
+                <span>Wenn über dem Weinberg es flammt</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/der-magier-am-dirigentenpult" class="menu-item-link">
+                <span>Der Magier am Dirigentenpult</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/mittelalterliche-handschriften-der-badischen-landesbibliothek" class="menu-item-link">
+                <span>Mittelalterliche Handschriften der Badischen Landesbibliothek</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/kostbare-geschenke-der-badischen-bibliotheksgesellschaft" class="menu-item-link">
+                <span>Kostbare Geschenke der Badischen Bibliotheksgesellschaft</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/bertolt-brecht" class="menu-item-link">
+                <span>Bertolt Brecht</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/reinhold-frank" class="menu-item-link">
+                <span>Reinhold Frank</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/max-reger-in-der-kinderzeit-des-urheberrechts" class="menu-item-link">
+                <span>Max Reger in der Kinderzeit des Urheberrechts</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/illustre-gaeste" class="menu-item-link">
+                <span>Illustre Gäste</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/reinhold-frank-1896-1945" class="menu-item-link">
+                <span>Reinhold Frank (1896 – 1945)</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/49-bildnisse-ein-buch" class="menu-item-link">
+                <span>49 Bildnisse – ein Buch</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/impressions-deurope" class="menu-item-link">
+                <span>Impressions d’Europe</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/klangwelten-lebenswelten" class="menu-item-link">
+                <span>klangwelten: lebenswelten</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/glockenbuecher" class="menu-item-link">
+                <span>Glockenbücher</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/im-anfang-war-das-wort" class="menu-item-link">
+                <span>Im Anfang war das Wort</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/albert-gruen" class="menu-item-link">
+                <span>Albert Grün</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/das-nibelungenlied-und-seine-welt" class="menu-item-link">
+                <span>Das Nibelungenlied und seine Welt</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/handpressendrucke-der-aldus-presse-reicheneck" class="menu-item-link">
+                <span>Handpressendrucke der Aldus-Presse Reicheneck</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/reinhold-schneider" class="menu-item-link">
+                <span>Reinhold Schneider</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/der-rhein-im-panorama" class="menu-item-link">
+                <span>Der Rhein im Panorama</span>
+            </a>
+
+            
+        </li>
+    
 </ul>
-            
-        </li>
-    
-        <li class="menu-item has-sub-menu ">
-            <a href="/aktuelles/ausstellungen/vergangene-ausstellungen" class="menu-item-link">
-                <span>Ausstellungsarchiv</span>
-            </a>
-
-            
-                <ul id="nav_sub_p1167" class="menu-item-list header-menu">
-    
-        <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/vergangene-ausstellungen/archiv-ausstellungen-2023" class="menu-item-link">
-                <span>Archiv Ausstellungen 2023</span>
-            </a>
-
-            
-        </li>
-    
-        <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/vergangene-ausstellungen/archiv-ausstellungen-2022" class="menu-item-link">
-                <span>Archiv Ausstellungen 2022</span>
-            </a>
-
-            
-        </li>
-    
-        <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/vergangene-ausstellungen/archiv-ausstellungen-2021" class="menu-item-link">
-                <span>Archiv Ausstellungen 2021</span>
-            </a>
-
-            
-        </li>
-    
-        <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/vergangene-ausstellungen/archiv-ausstellungen-2020" class="menu-item-link">
-                <span>Archiv Ausstellungen 2020</span>
-            </a>
-
-            
-        </li>
-    
-        <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/vergangene-ausstellungen/archiv-ausstellungen-2019" class="menu-item-link">
-                <span>Archiv Ausstellungen 2019</span>
-            </a>
-
-            
-        </li>
-    
-        <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/vergangene-ausstellungen/archiv-ausstellungen-2018" class="menu-item-link">
-                <span>Archiv Ausstellungen 2018</span>
-            </a>
-
-            
-        </li>
-    
-        <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/vergangene-ausstellungen/archiv-ausstellungen-2017" class="menu-item-link">
-                <span>Archiv Ausstellungen 2017</span>
-            </a>
-
-            
-        </li>
-    
-        <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/vergangene-ausstellungen/archiv-ausstellungen-2016" class="menu-item-link">
-                <span>Archiv Ausstellungen 2016</span>
-            </a>
-
-            
-        </li>
-    
-        <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/vergangene-ausstellungen/archiv-ausstellungen-2015" class="menu-item-link">
-                <span>Archiv Ausstellungen 2015</span>
-            </a>
-
-            
-        </li>
-    
-        <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/vergangene-ausstellungen/archiv-ausstellungen-2014" class="menu-item-link">
-                <span>Archiv Ausstellungen 2014</span>
-            </a>
-
-            
-        </li>
-    
-        <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/vergangene-ausstellungen/archiv-ausstellungen-2013" class="menu-item-link">
-                <span>Archiv Ausstellungen 2013</span>
-            </a>
-
-            
-        </li>
-    
-        <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/vergangene-ausstellungen/archiv-ausstellungen-2012" class="menu-item-link">
-                <span>Archiv Ausstellungen 2012</span>
-            </a>
-
-            
-        </li>
-    
-        <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/vergangene-ausstellungen/archiv-ausstellungen-2011" class="menu-item-link">
-                <span>Archiv Ausstellungen 2011</span>
-            </a>
-
-            
-        </li>
-    
-        <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/vergangene-ausstellungen/archiv-ausstellungen-2010" class="menu-item-link">
-                <span>Archiv Ausstellungen 2010</span>
-            </a>
-
-            
-        </li>
-    
-        <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/vergangene-ausstellungen/archiv-ausstellungen-2009" class="menu-item-link">
-                <span>Archiv Ausstellungen 2009</span>
-            </a>
-
-            
-        </li>
-    
-        <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/vergangene-ausstellungen/archiv-ausstellungen-2008" class="menu-item-link">
-                <span>Archiv Ausstellungen 2008</span>
-            </a>
-
-            
-        </li>
-    
-        <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/vergangene-ausstellungen/archiv-ausstellungen-2007" class="menu-item-link">
-                <span>Archiv Ausstellungen 2007</span>
-            </a>
-
-            
-        </li>
-    
-        <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/vergangene-ausstellungen/archiv-ausstellungen-2006" class="menu-item-link">
-                <span>Archiv Ausstellungen 2006</span>
-            </a>
-
-            
-        </li>
-    
-        <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/vergangene-ausstellungen/archiv-ausstellungen-2005" class="menu-item-link">
-                <span>Archiv Ausstellungen 2005</span>
-            </a>
-
-            
-        </li>
-    
-        <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/vergangene-ausstellungen/archiv-ausstellungen-2004" class="menu-item-link">
-                <span>Archiv Ausstellungen 2004</span>
-            </a>
-
-            
-        </li>
-    
-        <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/vergangene-ausstellungen/archiv-ausstellungen-2003" class="menu-item-link">
-                <span>Archiv Ausstellungen 2003</span>
-            </a>
-
-            
-        </li>
-    
-        <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/vergangene-ausstellungen/archiv-ausstellungen-2002" class="menu-item-link">
-                <span>Archiv Ausstellungen 2002</span>
-            </a>
-
-            
-        </li>
-    
-</ul>
-            
-        </li>
-    
-</ul>
-            
-        </li>
-    
-        <li class="menu-item  ">
-            <a href="/aktuelles/schulungsprogramm" class="menu-item-link">
-                <span>Schulungsprogramm</span>
-            </a>
-
             
         </li>
     
@@ -5005,7 +5261,7 @@
                                     
         
                 
-                        <img src="https://www.blb-karlsruhe.de/files/user_upload/Logo/blb.svg" width="170" height="70" alt="" />
+                        <img src="/files/user_upload/Logo/blb.svg" width="170" height="70" alt="" />
                     
             
     
@@ -5081,7 +5337,7 @@
                                     
         
                 
-                        <img src="https://www.blb-karlsruhe.de/files/user_upload/2_Recherche/wlb.svg" width="170" height="60" alt="Zu sehen ist das Logo der Württembergischen Landesbibliothek." />
+                        <img src="/files/user_upload/2_Recherche/wlb.svg" width="170" height="60" alt="Zu sehen ist das Logo der Württembergischen Landesbibliothek." />
                     
             
     
@@ -5168,9 +5424,9 @@
             <!--TYPO3SEARCH_end-->
 <div id="Sidebar_Header" class="blb-box-header">
     <button id="sidebar-blb-box-toggle" class="blb-box-toggle">
-        <span class="blb-box-toggle-title">
+        <h3 class="blb-box-toggle-title">
             Schnelleinstieg
-        </span>
+        </h3>
         <span class="blb-box-toggle-arrow"></span>
     </button>
 </div>
@@ -5512,10 +5768,10 @@
     </div>
 </div>
 
-<script src="/typo3conf/ext/femanager/Resources/Public/JavaScript/Validation.min.js?1674128314"></script>
-<script src="/typo3conf/ext/femanager/Resources/Public/JavaScript/Femanager.min.js?1674128314"></script>
-<script src="/typo3conf/ext/powermail/Resources/Public/JavaScript/Powermail/Form.min.js?1679583754" defer="defer"></script>
-<script src="/typo3conf/ext/blbweb/Resources/Public/app.js?1716460584"></script>
+<script src="/typo3conf/ext/femanager/Resources/Public/JavaScript/Validation.min.js?1715198672"></script>
+<script src="/typo3conf/ext/femanager/Resources/Public/JavaScript/Femanager.min.js?1715198672"></script>
+<script src="/typo3conf/ext/powermail/Resources/Public/JavaScript/Powermail/Form.min.js?1715173547" defer="defer"></script>
+<script src="/typo3conf/ext/blbweb/Resources/Public/app.js?1732786855"></script>
 
 <!-- Matomo -->
 

@@ -371,11 +371,11 @@ class Index {
 		}	
 		elseif($field == 'year') {
 			$value = Index::normalizeYear($value);
-			if($value == '') {
-				$value = Index::getYearFromTitle($item->titleCat);
-			}
-			if($value == '') {
+			if(empty($value)) {
 				$value = 9999; // Makes empty year fields be sorted to the end
+			}
+			elseif($value == '') {
+				$value = Index::getYearFromTitle($item->titleCat);
 			}
 		}
 		elseif(in_array($field, ['languages', 'languagesOriginal'])) {
@@ -492,6 +492,9 @@ class Index {
 	}
 
 	static function normalizeYear($year) {
+        if (empty($year)) {
+            return('');
+        }
 		if(preg_match('~([12][0-9][0-9][0-9])[-– ]{1,3}([12][0-9][0-9][0-9])~', $year, $treffer)) {
 			return(strval(intval(($treffer[1] + $treffer[2]) / 2)));
 		}
@@ -508,6 +511,9 @@ class Index {
 	}
 		
 	static function getYearFromTitle($title) {
+        if ($title == null) {
+            return('');
+        }
 		$yearAssign = '';
 		if(preg_match('~ ([12][0-9][0-9][0-9])$| ([12][0-9][0-9][0-9])[^0-9]~', $title, $treffer)) {
 			if(isset($treffer[2])) {
