@@ -199,7 +199,7 @@ abstract class AADGenres {
 			'http://uri.gbv.de/terminology/AADGenres::/096632623' => 'Ordensliteratur:Theatiner', 
 			'http://uri.gbv.de/terminology/AADGenres::/096632631' => 'Ordensliteratur:Unbeschuhte Karmeliter', 
 			'http://uri.gbv.de/terminology/AADGenres::/09663264X' => 'Ordensliteratur:Zisterzienser', 
-			'http://uri.gbv.de/terminology/AADGenres::/096632658' => 'Omamentstich', 
+			'http://uri.gbv.de/terminology/AADGenres::/096632658' => 'Ornamentstich', 
 			'http://uri.gbv.de/terminology/AADGenres::/096632666' => 'Ortsverzeichnis', 
 			'http://uri.gbv.de/terminology/AADGenres::/096632674' => 'Pädagogik', 
 			'http://uri.gbv.de/terminology/AADGenres::/096632682' => 'Panegyrikos', 
