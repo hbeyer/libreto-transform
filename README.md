@@ -42,7 +42,7 @@ Die Datei ***settings.php*** muss wie unter "Installation" beschrieben angepasst
 Eine MySQL-Datenbank startet mit und kann unter http://localhost:85/ mit PHPMyAdmin bearbeitet werden, sofern eine Erfassung per MySQL gewünscht ist (Server: "libreto-db", User: "admin", Passwort: "testpassword"). Das in der Datenbank `libreto` geladene Schema entspricht dem Erfassungsformat 'sql_dh' (s. u.).
 
 ## Datenerfassung
-Daten können in XML oder in CSV erfasst werden. Zur Anlage eines XML-Dokuments dient das Schema ***libreto-schema.xsd***. Im XML-Dokument werden sowohl die Erschließungsdaten als auch die Metadaten zur Sammlung hinterlegt. Zur Erstellung einer CSV-Datei kann das Beispieldokument ***example.csv*** (Trennzeichen ";", Zeichencodierung "Windows-1252") verwendet werden. Die Metadaten werden in diesem Fall bei der Transformation erfasst. Die Benutzung der einzelnen Felder ist im Word-Dokument ***Dokumentation_CSV.doc*** beschrieben.
+Daten können in XML oder in CSV erfasst werden. Zur Anlage eines XML-Dokuments dient das Schema ***libreto-schema.xsd***. Im XML-Dokument werden sowohl die Erschließungsdaten als auch die Metadaten zur Sammlung hinterlegt. Zur Erstellung einer CSV-Datei kann das Beispieldokument ***example.csv*** (Trennzeichen ";", Zeichencodierung "Windows-1252") verwendet werden. Die Metadaten werden in diesem Fall bei der Transformation erfasst. Die Benutzung der einzelnen Felder ist im Word-Dokument ***Dokumentation_CSV.doc*** beschrieben. Für die (einfache) Erfassung in XML s. das Dokument ***example.xml***, das gegen das Schema ***libreto-schema.xsd*** validiert. Hierbei stehen die Metadaten im selben Dokument.
 
 ## Transformation
 

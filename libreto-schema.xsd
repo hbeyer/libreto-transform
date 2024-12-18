@@ -202,6 +202,7 @@
                 <xs:element minOccurs="0" ref="gender"/>
                 <xs:element minOccurs="0" ref="dateLending"/>
                 <xs:element ref="role"/>
+                <xs:element minOccurs="0" ref="beacon"/>
             </xs:all>
         </xs:complexType>
     </xs:element>
@@ -268,6 +269,16 @@
                 <xs:enumeration value="borrower"/>
             </xs:restriction>
         </xs:simpleType>
+    </xs:element>
+    <xs:element name="beacon">
+        <xs:annotation>
+            <xs:documentation xml:lang="ger">Auflistung von Kürzeln für Personendatenbanken, wird automatisch erzeugt</xs:documentation>
+        </xs:annotation>
+        <xs:complexType mixed="true">
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" minOccurs="0" ref="beacon"/>
+            </xs:sequence>
+        </xs:complexType>
     </xs:element>
     <xs:element name="places">
         <xs:annotation>
@@ -955,6 +966,7 @@
                 <xs:element minOccurs="0" ref="geoNames"/>
                 <xs:element minOccurs="0" ref="gnd"/>
                 <xs:element minOccurs="0" ref="getty"/>
+                <xs:element minOccurs="0" ref="geoData"/>
             </xs:all>
         </xs:complexType>
     </xs:element>
@@ -973,6 +985,19 @@
             <xs:documentation xml:lang="ger">ID des Ortes im Getty Thesaurus of Geographical Names</xs:documentation>
         </xs:annotation>
     </xs:element>
+    <xs:element name="geoData">
+        <xs:annotation>
+            <xs:documentation xml:lang="ger">Geodaten des Ortes, werden automatisch ergänzt</xs:documentation>
+        </xs:annotation>
+        <xs:complexType>
+            <xs:all>
+                <xs:element ref="lat"/>
+                <xs:element ref="long"/>
+            </xs:all>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="lat" type="xs:string"/>
+    <xs:element name="long" type="xs:string"/>
     <xs:element name="year" type="xs:string">
         <xs:annotation>
             <xs:documentation xml:lang="ger">Das Erscheinungsjahr, sofern bekannt. Zu bevorzugen sind einfache Jahreszahlen oder Angaben in der Form 1563-1578. Erschlossene Angaben können in eckige Klammern gesetzt werden</xs:documentation>
