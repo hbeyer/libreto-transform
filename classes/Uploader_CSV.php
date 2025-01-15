@@ -10,7 +10,7 @@ class Uploader_CSV extends Uploader {
         $this->fileName = $fileName;
         $this->metaPath = Reconstruction::FOLDER.'/'.$this->fileName.'/'.$this->fileName.'-metadata.xml';
 	    $string = file_get_contents($this->path);
-        $string = convertWindowsToUTF8($string);
+        //$string = convertWindowsToUTF8($string);
         $rows = str_getcsv($string, "\n");
         $this->fieldNames = str_getcsv(array_shift($rows), ';');
         $this->rows = $this->makeAssocRows($rows, $this->fieldNames);

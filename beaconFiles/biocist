@@ -6,7 +6,7 @@
 <!-- 
 	This website is powered by TYPO3 - inspiring people to share!
 	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
-	TYPO3 is copyright 1998-2024 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	TYPO3 is copyright 1998-2025 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
 	Information and contribution at https://typo3.org/
 -->
 
@@ -20,12 +20,12 @@
 
 <link rel="stylesheet" href="/typo3conf/ext/blbweb/node_modules/swiper/swiper-bundle.min.css?499162500" media="all">
 <link rel="stylesheet" href="/typo3conf/ext/femanager/Resources/Public/Css/Main.min.css?1715198672" media="all">
-<link rel="stylesheet" href="/typo3conf/ext/blbweb/Resources/Public/app.css?1732786855" media="all">
+<link rel="stylesheet" href="/typo3conf/ext/blbweb/Resources/Public/app.css?1733227020" media="all">
 
 
 
 <script src="/typo3conf/ext/blbweb/node_modules/jquery/dist/jquery.min.js?499162500"></script>
-<script src="/typo3conf/ext/blbweb/Resources/Public/vendor.js?1732786855"></script>
+<script src="/typo3conf/ext/blbweb/Resources/Public/vendor.js?1733227020"></script>
 
 
 <link rel="shortcut icon" type="image/x-icon" href="/typo3conf/ext/blbweb/Resources/Public/Images/favicon/favicon.ico">
@@ -77,7 +77,7 @@
         
 
         <div class="blb-nav-social-icon-wrapper-mobile">
-            <div class="blb-nav-social-icon" id="wa">
+            <div class="blb-nav-social-icon wa">
                 <a href="https://www.blb-karlsruhe.de/whats-app" title="WhatsApp" target="_blank" data-tooltip="false" rel="noreferrer">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180">
                         <path d="M0 0h180v180H0z" style="stroke-width:0"/>
@@ -85,7 +85,7 @@
                     </svg>
                 </a>
             </div>
-            <div class="blb-nav-social-icon" id="yt">
+            <div class="blb-nav-social-icon yt">
                 <a href="https://www.youtube.com/@badischelandesbibliothek" title="YouTube" target="_blank" data-tooltip="false" rel="noreferrer">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180">
                         <path d="M0 0h180v180H0z" style="stroke-width:0"/>
@@ -93,7 +93,7 @@
                     </svg>
                 </a>
             </div>
-            <div class="blb-nav-social-icon" id="x">
+            <div class="blb-nav-social-icon x">
                 <a href="https://twitter.com/BLB_Karlsruhe" title="Twitter/X" target="_blank" data-tooltip="false" rel="noreferrer">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180">
                         <path d="M0 0h180v180H0z" style="stroke-width:0"/>
@@ -101,7 +101,7 @@
                     </svg>
                 </a>
             </div>
-            <div class="blb-nav-social-icon" id="ig">
+            <div class="blb-nav-social-icon ig">
                 <a href="https://www.instagram.com/badischelandesbibliothek/" title="Instagram" target="_blank" data-tooltip="false" rel="noreferrer">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180">
                         <path d="M0 0h180v180H0z" style="stroke-width:0"/>
@@ -109,7 +109,7 @@
                     </svg>
                 </a>
             </div>
-            <div class="blb-nav-social-icon" id="fb">
+            <div class="blb-nav-social-icon fb">
                 <a href="https://www.facebook.com/BadischeLandesbibliothek/" title="Facebook" target="_blank" data-tooltip="false" rel="noreferrer">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180">
                         <path d="M0 0h180v180H0z" style="stroke-width:0"/>
@@ -122,7 +122,14 @@
     <div class="blb-nav-wrapper hidden">
         
                 <div class="blb-nav-breadcrumbs">
-                    <ul class="blb-breadcrumbs"><li><a >Startseite</a></li><li><a href="/recherche">Recherche</a></li><li><a href="/recherche/baden-wuerttemberg">Baden-Württemberg</a></li><li><a href="/recherche/baden-wuerttemberg/landesbibliographie-baden-wuerttemberg">Landesbibliographie Baden-Württemberg</a></li><li>Neue Recherche</li></ul>
+                    <ul class="blb-breadcrumbs">
+                        <li>
+                            <a href="https://www.blb-karlsruhe.de/" target="_blank">
+                                Startseite
+                            </a>
+                        </li>
+                        <li><a href="/recherche">Recherche</a></li><li><a href="/recherche/baden-wuerttemberg">Baden-Württemberg</a></li><li><a href="/recherche/baden-wuerttemberg/landesbibliographie-baden-wuerttemberg">Landesbibliographie Baden-Württemberg</a></li><li>Neue Recherche</li>
+                    </ul>
                 </div>
             
 
@@ -2643,16 +2650,8 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/mit-der-schwarzwaldbahn-an-den-bodensee/ausblick-auf-spaete-werbegrafik" class="menu-item-link">
-                <span>Ausblick auf späte Werbegrafik</span>
-            </a>
-
-            
-        </li>
-    
-        <li class="menu-item  ">
             <a href="/aktuelles/ausstellungen/mit-der-schwarzwaldbahn-an-den-bodensee/tourismus-in-baden" class="menu-item-link">
-                <span>Tourismus in Baden</span>
+                <span>Tourismus in Baden und darüber hinaus</span>
             </a>
 
             
@@ -2660,7 +2659,7 @@
     
         <li class="menu-item  ">
             <a href="/aktuelles/ausstellungen/mit-der-schwarzwaldbahn-an-den-bodensee/mobilitaet-in-baden-und-darueber-hinaus" class="menu-item-link">
-                <span>Mobilität in Baden und darüber hinaus</span>
+                <span>Mobilität in Baden</span>
             </a>
 
             
@@ -2677,6 +2676,14 @@
         <li class="menu-item  ">
             <a href="/aktuelles/ausstellungen/mit-der-schwarzwaldbahn-an-den-bodensee/verkehrsmittel-als-attraktion" class="menu-item-link">
                 <span>Verkehrsmittel als Attraktion</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/ausstellungen/mit-der-schwarzwaldbahn-an-den-bodensee/ausblick-auf-spaete-werbegrafik" class="menu-item-link">
+                <span>Ausblick auf späte Werbegrafik</span>
             </a>
 
             
@@ -3952,7 +3959,7 @@
     
         <li class="menu-item  ">
             <a href="/aktuelles/ausstellungen/so-bald-ich-aufgestanden-war-hab-ich-ein-solo-auf-der-floete-geblasen" class="menu-item-link">
-                <span>So bald ich aufgestanden war, hab ich ein Solo auf der Flöte geblasen</span>
+                <span>„So bald ich aufgestanden war, hab ich ein Solo auf der Flöte geblasen“</span>
             </a>
 
             
@@ -4128,15 +4135,15 @@
     
         <li class="menu-item  ">
             <a href="/aktuelles/ausstellungen/wenn-ueber-dem-weinberg-es-flammt" class="menu-item-link">
-                <span>Wenn über dem Weinberg es flammt</span>
+                <span>„Wenn über dem Weinberg es flammt …“</span>
             </a>
 
             
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/ausstellungen/der-magier-am-dirigentenpult" class="menu-item-link">
-                <span>Der Magier am Dirigentenpult</span>
+            <a href="/aktuelles/ausstellungen/der-magier-am-dirigentenpult-felix-mottl" class="menu-item-link">
+                <span>Der Magier am Dirigentenpult – Felix Mottl</span>
             </a>
 
             
@@ -4192,7 +4199,7 @@
     
         <li class="menu-item  ">
             <a href="/aktuelles/ausstellungen/reinhold-frank-1896-1945" class="menu-item-link">
-                <span>Reinhold Frank (1896 – 1945)</span>
+                <span>Reinhold Frank (1896–1945)</span>
             </a>
 
             
@@ -4216,7 +4223,7 @@
     
         <li class="menu-item  ">
             <a href="/aktuelles/ausstellungen/klangwelten-lebenswelten" class="menu-item-link">
-                <span>klangwelten: lebenswelten</span>
+                <span>klangwelten : lebenswelten</span>
             </a>
 
             
@@ -4291,6 +4298,14 @@
                 <ul id="nav_sub_p479" class="menu-item-list header-menu">
     
         <li class="menu-item  ">
+            <a href="/aktuelles/kulturgueter-auf-reisen/archiv-kulturgueter-2024" class="menu-item-link">
+                <span>Archiv Kulturgüter 2024</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
             <a href="/aktuelles/kulturgueter-auf-reisen/archiv-kulturgueter-2023" class="menu-item-link">
                 <span>Archiv Kulturgüter 2023</span>
             </a>
@@ -4307,7 +4322,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/kulturgueter-auf-reisen/archiv-kulturgueter-2020-1" class="menu-item-link">
+            <a href="/aktuelles/kulturgueter-auf-reisen/archiv-kulturgueter-2021" class="menu-item-link">
                 <span>Archiv Kulturgüter 2021</span>
             </a>
 
@@ -4455,6 +4470,14 @@
                 <ul id="nav_sub_p480" class="menu-item-list header-menu">
     
         <li class="menu-item  ">
+            <a href="/aktuelles/neuerwerbung-des-monats/archiv-neuerwerbungen-2024" class="menu-item-link">
+                <span>Archiv Neuerwerbungen 2024</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
             <a href="/aktuelles/neuerwerbung-des-monats/archiv-neuerwerbungen-2023" class="menu-item-link">
                 <span>Archiv Neuerwerbungen 2023</span>
             </a>
@@ -4463,7 +4486,7 @@
         </li>
     
         <li class="menu-item  ">
-            <a href="/aktuelles/archiv-neuerwerbungen-2022" class="menu-item-link">
+            <a href="/aktuelles/neuerwerbung-des-monats/archiv-neuerwerbungen-2022" class="menu-item-link">
                 <span>Archiv Neuerwerbungen 2022</span>
             </a>
 
@@ -4573,6 +4596,14 @@
         <li class="menu-item  ">
             <a href="/aktuelles/projekte/laufende-projekte" class="menu-item-link">
                 <span>Laufende Projekte</span>
+            </a>
+
+            
+        </li>
+    
+        <li class="menu-item  ">
+            <a href="/aktuelles/projekte/2024-abgeschlossen" class="menu-item-link">
+                <span>2024 abgeschlossen</span>
             </a>
 
             
@@ -4757,6 +4788,14 @@
 
             
                 <ul id="nav_sub_p1996" class="menu-item-list header-menu">
+    
+        <li class="menu-item  ">
+            <a href="/presse/archiv/2024" class="menu-item-link">
+                <span>2024</span>
+            </a>
+
+            
+        </li>
     
         <li class="menu-item  ">
             <a href="/presse/archiv/2023" class="menu-item-link">
@@ -5130,7 +5169,7 @@
             
 
             <div class="blb-nav-social-icon-wrapper-desktop">
-                <div class="blb-nav-social-icon" id="wa">
+                <div class="blb-nav-social-icon wa">
                     <a href="https://www.blb-karlsruhe.de/whats-app" title="WhatsApp" target="_blank" data-tooltip="false" rel="noreferrer">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180">
                             <path d="M0 0h180v180H0z" style="stroke-width:0"/>
@@ -5138,7 +5177,7 @@
                         </svg>
                     </a>
                 </div>
-                <div class="blb-nav-social-icon" id="yt">
+                <div class="blb-nav-social-icon yt">
                     <a href="https://www.youtube.com/@badischelandesbibliothek" title="YouTube" target="_blank" data-tooltip="false" rel="noreferrer">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180">
                             <path d="M0 0h180v180H0z" style="stroke-width:0"/>
@@ -5146,7 +5185,7 @@
                         </svg>
                     </a>
                 </div>
-                <div class="blb-nav-social-icon" id="x">
+                <div class="blb-nav-social-icon x">
                     <a href="https://twitter.com/BLB_Karlsruhe" title="Twitter/X" target="_blank" data-tooltip="false" rel="noreferrer">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180">
                             <path d="M0 0h180v180H0z" style="stroke-width:0"/>
@@ -5154,7 +5193,7 @@
                         </svg>
                     </a>
                 </div>
-                <div class="blb-nav-social-icon" id="ig">
+                <div class="blb-nav-social-icon ig">
                     <a href="https://www.instagram.com/badischelandesbibliothek/" title="Instagram" target="_blank" data-tooltip="false" rel="noreferrer">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180">
                             <path d="M0 0h180v180H0z" style="stroke-width:0"/>
@@ -5162,7 +5201,7 @@
                         </svg>
                     </a>
                 </div>
-                <div class="blb-nav-social-icon" id="fb">
+                <div class="blb-nav-social-icon fb">
                     <a href="https://www.facebook.com/BadischeLandesbibliothek/" title="Facebook" target="_blank" data-tooltip="false" rel="noreferrer">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180">
                             <path d="M0 0h180v180H0z" style="stroke-width:0"/>
@@ -5175,7 +5214,14 @@
     </div>
     <div class="blb-nav-breadcrumbs">
         
-            <ul class="blb-breadcrumbs"><li><a >Startseite</a></li><li><a href="/recherche">Recherche</a></li><li><a href="/recherche/baden-wuerttemberg">Baden-Württemberg</a></li><li><a href="/recherche/baden-wuerttemberg/landesbibliographie-baden-wuerttemberg">Landesbibliographie Baden-Württemberg</a></li><li>Neue Recherche</li></ul>
+            <ul class="blb-breadcrumbs">
+                <li>
+                    <a href="https://www.blb-karlsruhe.de/" target="_blank">
+                        Startseite
+                    </a>
+                </li>
+                <li><a href="/recherche">Recherche</a></li><li><a href="/recherche/baden-wuerttemberg">Baden-Württemberg</a></li><li><a href="/recherche/baden-wuerttemberg/landesbibliographie-baden-wuerttemberg">Landesbibliographie Baden-Württemberg</a></li><li>Neue Recherche</li>
+            </ul>
         
     </div>
 </nav>
@@ -5261,7 +5307,7 @@
                                     
         
                 
-                        <img src="/files/user_upload/Logo/blb.svg" width="170" height="70" alt="" />
+                        <img src="https://www.blb-karlsruhe.de/files/user_upload/Logo/blb.svg" width="170" height="70" alt="" />
                     
             
     
@@ -5337,7 +5383,7 @@
                                     
         
                 
-                        <img src="/files/user_upload/2_Recherche/wlb.svg" width="170" height="60" alt="Zu sehen ist das Logo der Württembergischen Landesbibliothek." />
+                        <img src="https://www.blb-karlsruhe.de/files/user_upload/2_Recherche/wlb.svg" width="170" height="60" alt="Zu sehen ist das Logo der Württembergischen Landesbibliothek." />
                     
             
     
@@ -5481,10 +5527,23 @@
         
 
     
-        
-        
+        <div class="blb-news">
     
+    <!--TYPO3SEARCH_end-->
+    <div class="blb-news-list-container" id="news-container-28">
+        
+                
+                        <div class="blb-news-list-message-container">
+                            <div class="blb-news-list-message">
+                                <span>Aktuell gibt es keine Neuigkeiten</span>
+                            </div>
+                        </div>
+                    
+            
+    </div>
+    <!--TYPO3SEARCH_begin-->
 
+</div>
     
 
 
@@ -5771,7 +5830,7 @@
 <script src="/typo3conf/ext/femanager/Resources/Public/JavaScript/Validation.min.js?1715198672"></script>
 <script src="/typo3conf/ext/femanager/Resources/Public/JavaScript/Femanager.min.js?1715198672"></script>
 <script src="/typo3conf/ext/powermail/Resources/Public/JavaScript/Powermail/Form.min.js?1715173547" defer="defer"></script>
-<script src="/typo3conf/ext/blbweb/Resources/Public/app.js?1732786855"></script>
+<script src="/typo3conf/ext/blbweb/Resources/Public/app.js?1733227020"></script>
 
 <!-- Matomo -->
 
