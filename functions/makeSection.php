@@ -9,7 +9,7 @@ function makeSections($data, $field) {
 		$section = new Section($entry->label, $entry->level);
 		//$section->label = $entry->label;
 		//$section->level = $entry->level;
-		if ($field == 'persName' or $field == 'borrower') {
+		if (in_array($field, ['persName', 'borrower', 'translator'])) {
 			$section->authority = $entry->authority;
 		}
 		elseif ($field == 'placeName') {
@@ -179,7 +179,8 @@ function makeList($structure, $catalogue) {
 }
 
 function makeBeaconLinks($gnd, $repository) {
-    $linkArray = $repository->getLinks(new GND($gnd), '_blank');
+    $gnd_obj = new GND($gnd);
+    $linkArray = $repository->getLinks($gnd_obj, '_blank');
     if (is_array($linkArray) == false) {
     	return('');
     }

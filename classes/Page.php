@@ -13,7 +13,7 @@ class Page {
 
 		$this->facet = $facet;
 		$this->maxLen = $maxLen;
-		if ($this->facet == 'persName') {
+		if (in_array($this->facet, ['persName', 'borrower', 'translator'])) {
 			$this->beaconRep = new BeaconRepository();
 		}
 		$this->sections = $sections;
