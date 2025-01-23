@@ -188,7 +188,13 @@ class Item	{ //Refers to an item (book, manuscript, etc.) listed in the catalogu
 				}
 				$count++;
 			}
-			elseif ($role == 'contributor' and !in_array($person->role, array('creator', 'VerfasserIn', 'author', 'borrower'))) {
+			if ($role == 'contributor' and !in_array($person->role, array('creator', 'VerfasserIn', 'author', 'borrower'))) {
+				if ($count == $position) {
+					return($person->__toString());
+				}
+				$count++;
+			}
+			if ($role == 'translator' and !in_array($person->role, array('translator', 'ÜbersetzerIn', 'Übersetzer'))) {
 				if ($count == $position) {
 					return($person->__toString());
 				}

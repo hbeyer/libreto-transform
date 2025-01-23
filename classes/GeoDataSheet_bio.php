@@ -7,7 +7,7 @@ class GeoDataSheet_bio extends GeoDataSheet {
 	function __construct($GNDList, Cache $cache) {
 		$this->geoDataArchive = new GeoDataArchive('gnd');
 		foreach ($GNDList as $gnd) {
-			$request = new GND_request(new GND($gnd), $cache);
+			$request = new GNDRequest(new GND($gnd), $cache);
 			if (!empty($request->preferredName)) {
 				$row = $this->makeRowFromRequest($request);
 				if ($row) {

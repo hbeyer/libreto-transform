@@ -71,6 +71,7 @@ function translateFieldNames($field) {
 		'volumes' => 'B&auml;nde', 
 		'mediaType' => 'Materialarten', 
 		'systemManifestation' => 'Nachweise', 
+		'provenanceAttribute' => 'Provenienzmerkmale', 
 		'genres' => 'Gattungen',
         'bound' => 'Bindung',
     	'translator' => 'ÜbersetzerInnen',

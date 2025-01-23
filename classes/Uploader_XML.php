@@ -61,7 +61,7 @@ class Uploader_XML extends Uploader {
 
     private function makeItemFromNode($node) {
         $simpleFields = array('id', 'pageCat', 'imageCat', 'numberCat', 'itemInVolume', 'volumes', 'volumensMisc', 'titleCat', 'titleBib', 'titleNormalized', 'year', 'format', 'histSubject', 'histShelfmark', 'mediaType', 'bound', 'digitalCopy', 'comment');
-        $multiValuedFields = array('subjects', 'genres', 'languages', 'publishers', 'copiesHAB');
+        $multiValuedFields = array('subjects', 'genres', 'languages', 'languagesOriginal', 'publishers', 'copiesHAB');
         $subFieldFields = array('manifestation', 'originalItem', 'work', 'volumeNote');
         $item = new Item;
         $children = $node->childNodes;

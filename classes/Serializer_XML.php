@@ -174,10 +174,13 @@ class Serializer_XML extends Serializer {
         if ($fieldName == 'copiesHAB') {
             return('copyHAB');
         }
-        elseif (substr($fieldName, -1) == 's') {
+        if ($fieldName == 'languagesOriginal') {
+            return('languageOriginal');
+        }
+        if (substr($fieldName, -1) == 's') {
             return(substr($fieldName, 0, -1));
         }
-        elseif ($fieldName == '') {
+        if ($fieldName == '') {
             return('subfield');
         }
         return($fieldName);
