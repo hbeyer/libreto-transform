@@ -100,7 +100,8 @@ class Reference {
 	    'nebis' => 'http://opac.nebis.ch/F?func=direct&local_base=NEBIS&doc_number={ID}',
 	    'buva' => 'http://permalink.opc.uva.nl/item/{ID}',
         'hva' => 'http://permalink.opc.uva.nl/item/{ID}',
-	    'manumed' => 'http://www.manuscripta-mediaevalia.de/dokumente/html/{ID}'
+	    'kalliope' => 'https://kalliope.staatsbibliothek-berlin.de/ead?ead.id={ID}',
+        'hsport' => 'https://resolver.staatsbibliothek-berlin.de/{ID}'
 	    );
 
     const BASESWORKS = array(
@@ -156,7 +157,8 @@ class Reference {
 	    'nebis' => 'Netzwerk von Bibliotheken und Informationsstellen in der Schweiz (NEBIS)',
 	    'buva' => 'Bibliotheek van de Universiteit van Amsterdam – Catalogus',
         'hva' => 'Catalogus van de Hogeschool van Amsterdam',
-	    'manumed' => 'Manuscripta Mediaevalia',
+	    'kalliope' => 'Kalliope',
+	    'HsPort' => 'Handschriftenportal',
         'dnb' => 'Gemeinsame Normdatei (GND)',
         'wikipedia' => 'Wikipedia'
 	    );
@@ -208,7 +210,8 @@ class Reference {
 	    'nebis' => '~NEBIS ([0-9]{7,9})~',
 	    'buva' => '~BUvA ([0-9]+)~',
         'buva' => '~HvA ([0-9]+)~',
-	    'manumed' => '~ManuMed obj[0-9]{6,10},?T?~'
+	    'kalliope' => '~Kalliope ([A-Z]{2,3}-[\-\dA-Z]+)~',
+        'hsport' => '~Handschriftenportal (HSP[\dA-Z]+)~'
 	    );
 
 }
