@@ -1,6 +1,6 @@
 
 # libreto-transform
-Set of scripts for transforming library reconstruction data into reusable data formats (RDF, TEI, SOLR) and generating a frontend in static HTML
+A tool for generating reconstructions of historical libraries as a static website, including visualization and data serialization in various formats (RDF, TEI, SOLR)
 
 *Autor: Hartmut Beyer (beyer@hab.de)*
 
