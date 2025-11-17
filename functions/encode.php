@@ -61,6 +61,7 @@ function translateFieldNames($field) {
 		'beacon' => 'Personenprofil',
 		'subjects' => 'Inhalte', 
 		'histSubject' => 'Rubriken',
+		'histSubject-sorted' => 'Rubriken',
 		'histShelfmark' => 'Altsignatur',		
 		'year' => 'Datierung', 
 		'placeName' => 'Orte', 

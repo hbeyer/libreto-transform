@@ -1,13 +1,14 @@
 #FORMAT: BEACON
 #PREFIX: http://d-nb.info/gnd/
-#TARGET: http://steinheim-institut.de:50580/cgi-bin/bhr?gnd={ID}
+#TARGET: http://steinheim-institut.de/cgi-bin/bhr?gnd={ID}
 #FEED: http://steinheim-institut.de/daten/projekte/work3/beacon.txt
-#CONTACT: Thomas Kollatz <kol@steinheim-institut.org>
+#CONTACT: Thomas Kollatz <thomas.kollatz@adwmainz.de>
 #INSTITUTION: Steinheim-Institut
 #MESSAGE: Digitales Portal der Rabbiner (805 GND-Einträge)
-#TIMESTAMP: 2019-08-29T20:03:15Z
+#TIMESTAMP: 2025-06-05T18:35:22Z
 #UPDATE: always
 1068785810
+100458068
 1068983892
 1068978899
 106897950X
@@ -249,7 +250,6 @@
 1047604760
 138801940
 1068884843
-100458068
 1071243071
 1072492547
 1073880796

@@ -1,12 +1,12 @@
 #FORMAT: BEACON
 #PREFIX: http://d-nb.info/gnd/
 #VERSION: 0.1
-#TARGET: https://alchemie.hab.de/personen?term={ID}
+#TARGET: https://alchemie.hab.de/personen/?term={ID}
 #FEED: https://alchemie.hab.de/beacon.txt
 #CONTACT: auskunft@hab.de
 #INSTITUTION: Herzog August Bibliothek Wolfenbüttel
 #DESCRIPTION: Personen in den alchemischen Beständen der Herzog August Bibliothek
-#TIMESTAMP: 2019-02-14T06:18:03
+#TIMESTAMP: 2025-03-31T15:32:00
 101304854
 1026895928
 100803822

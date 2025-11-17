@@ -16,7 +16,7 @@ class Index {
 	public $manifestationFields = array('systemManifestation');
 	public $originalItemFields = array('institutionOriginal', 'shelfmarkOriginal', 'provenanceAttribute', 'targetOPAC', 'searchID');
 	// The following values do not correspond to a field, but they can be submitted to the function __construct()
-	public $virtualFields = array('catSubjectFormat', 'borrower', 'translator');
+	public $virtualFields = array('catSubjectFormat', 'borrower', 'translator', 'histSubject-sorted');
 
 	// The following fields are displayed with miscellanies as unordered lists
 	public $volumeFields = array('numberCat', 'catSubjectFormat', 'histSubject');
@@ -32,6 +32,9 @@ class Index {
 		}
 		elseif($this->field == 'beacon') {
 			$collect = $this->collectIDsBeacon();
+		}
+		elseif($this->field == 'histSubject-sorted') {
+			$collect = $this->collectIDsHistSubject();
 		}
 		elseif($this->field == 'persName') {
 			$collect = $this->collectIDsPersons();
@@ -68,6 +71,10 @@ class Index {
 		}
 		
 		if($this->field == 'histSubject') {
+			$this->entries = $this->makeEntries($collect);
+		}
+		elseif($this->field == 'histSubject-sorted') {
+			$collect = Index::sortCollectInt($collect);
 			$this->entries = $this->makeEntries($collect);
 		}
 		elseif($this->field == 'numberCat') {
@@ -345,6 +352,20 @@ class Index {
 		$return = array('collect' => $collectPlaceName, 'placeObjects' => $collectPlaceObjects);
 		return($return);
 	}
+
+    private function collectIDsHistSubject() {
+		$collect = array();
+		$count = 0;
+		foreach($this->data as $item) {
+			if(array_key_exists($item->histSubject, $collect) == FALSE) {
+				$collect[$item->histSubject] = array();
+			}
+			$collect[$item->histSubject][] = $count;				
+		$count++;
+		}
+		$return = array('collect' => $collect);
+		return($return);	        
+    }
 
 	static function preprocessFields($field, $value, $item) {
         if ($value == null) {
