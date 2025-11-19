@@ -64,18 +64,16 @@ class Place {
     }
 
     public function testIfReal() {
+        if (preg_match('~[Ff]ingiert|[Ff]ing\.~', $this->placeName) == 1) {
+            return(0);
+        }
         $testName = strtolower($this->placeName);
         $testName = strtr($testName, array(' ' => '', '.' => ''));
         $valuesVoid = array('sl', 'oo', 'unbestimmt', 'ohneort', 'sineloco', 'keineangabe', 'keinortsname', 'keinort', '');
         if (in_array($testName, $valuesVoid)) {
             return(0);
         }
-        if (strpos($testName, 'fingiert') !== false) {
-            return(0);
-        }
-        else {
-            return(1);
-        }
+        return(1);
     }
 
     public function addGeoData($geoDataArchive, $type, $user = '') {
@@ -89,6 +87,14 @@ class Place {
             //echo('Keine Geodaten in GND: '.$this)."\n";
         }
         return(false);
+    }
+
+    public function importGeoDataEntry($entry) {
+        $this->geoData = array('lat' => $entry->lat, 'long' => $entry->long);
+        $this->getty = $entry->getty;
+        $this->geoNames = $entry->geoNames;
+        $this->gnd = $entry->gnd;
+        return(true);
     }
 
     public function makeID() {

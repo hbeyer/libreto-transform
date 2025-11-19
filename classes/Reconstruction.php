@@ -196,6 +196,35 @@ class Reconstruction {
         $archiveGetty->saveToFile('getty');
     }
 
+    public function guessGeoData() {
+        $archiveGetty = new GeoDataArchive('getty');
+        $archiveGND = new GeoDataArchive('gnd');
+        $archiveGeoNames = new GeoDataArchive('geoNames');
+        foreach ($this->content as $item) {
+            foreach ($item->places as $place) {
+                if ($place->testIfReal() === 0) {
+                    continue;
+                }
+                if (empty($place->geoData['lat']) or empty($place->geoData['long'])) {
+                    $entry = $archiveGetty->getByName($place->placeName);
+                    if (empty($entry)) {
+                        $entry = $archiveGND->getByName($place->placeName);
+                    }
+                    if (empty($entry)) {
+                        $entry = $archiveGeoNames->getByName($place->placeName);
+                    }
+                    if ($entry) {
+                        $place->importGeoDataEntry($entry);
+                    }
+                    else {
+                        print('Keine Geodaten vorhanden zu: '.$place->placeName."\n");
+                    }
+                }
+            }
+        }
+        return(true);
+    }
+
     protected function makeCompleteGNDList() {
         foreach ($this->content as $item) {
             foreach ($item->persons as $person) {
